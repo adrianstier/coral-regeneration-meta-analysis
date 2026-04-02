@@ -57,7 +57,7 @@ We follow **PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-An
 
 | Search Type | Search String |
 | :--- | :--- |
-| **General (All Fields)** | `(ALL=(coral)) AND ALL=(wound* OR lesion* OR heal* OR injury OR scrape* OR bite OR fragment* OR drill OR airbrush)` |
+| **General (All Fields)** | `(ALL=(coral)) AND ALL=(wound* OR lesion* OR heal* OR regenerat* OR injury OR scrape* OR bite OR fragment* OR drill OR airbrush)` |
 | **Title Search** | `(TI=(coral)) AND TI=(wound* OR lesion* OR heal*)` |
 | **Abstract Search** | `(AB=(coral)) AND AB=(wound* OR lesion* OR heal*)` |
 
@@ -87,7 +87,11 @@ We follow **PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-An
 
 Extract all available information, prioritizing healing outcomes and study design.
 
-### 5.1 Study Identification
+**Note: Variables are Tiered to prevent burnout.**
+- **Tier 1 (Essential):** Must extract for all papers.
+- **Tier 2 (Exploratory):** Extract only if easily available.
+
+### 5.1 Study Identification (Tier 1)
 | Variable | Description / Format |
 | :--- | :--- |
 | **Author** | First author surname et al. (e.g., "Smith et al.") |
@@ -96,7 +100,7 @@ Extract all available information, prioritizing healing outcomes and study desig
 | **Paper_Num** | Unique ID for each published study |
 | **Substudy_Num** | ID for experiments within a single paper |
 
-### 5.2 Study Context
+### 5.2 Study Context (Tier 1)
 | Variable | Description / Format |
 | :--- | :--- |
 | **Study_Type** | Lab | Field | Mesocosm |
@@ -105,7 +109,7 @@ Extract all available information, prioritizing healing outcomes and study desig
 | **Depth_m** | Depth in meters |
 | **Study_Year** | Year(s) the experiment was conducted |
 
-### 5.3 Coral Traits (Species & Morphology)
+### 5.3 Coral Traits (Tier 1)
 | Variable | Description / Format |
 | :--- | :--- |
 | **Taxonomy** | Family / Genus / Species |
@@ -114,20 +118,21 @@ Extract all available information, prioritizing healing outcomes and study desig
 | **Colony_Size_cm** | Mean diameter or longest dimension (cm) |
 | **Symbiont_Clade** | Symbiodiniaceae clade (A, C, D, etc.) |
 
-### 5.4 Wound Characteristics
+### 5.4 Wound Characteristics (Tier 1)
 | Variable | Description / Format |
 | :--- | :--- |
 | **Lesion_Source** | Natural | Experimental |
 | **Method** | Airbrushing | Waterpik | Bone cutter | Air jet | Drill | Other |
 | **Lesion_Type** | Tissue-only | Tissue+Skeleton | Fragmentation | Corallivore |
 | **Area_mm2** | Initial wound area (mm²) |
+| **Rel_Wound_Size** | Wound Area / Colony Area (if available) |
 | **Perimeter_mm** | Wound perimeter (mm) - **CRITICAL for P/A ratio** |
 | **Lesion_Depth** | Surface | Full-thickness | Partial-thickness |
 | **Num_Lesions** | Number of wounds per colony |
 | **Spacing_cm** | Distance between wounds (cm) |
 | **Location** | Apical | Sub-apical | Distal | Basal | Lateral | Random |
 
-### 5.5 Healing Outcomes (PRIMARY DATA)
+### 5.5 Healing Outcomes (Tier 1)
 | Outcome Metric | Description / Units |
 | :--- | :--- |
 | **Rate_Constant_k** | **PREFERRED:** Exponential decay rate constant (day⁻¹) |
@@ -139,7 +144,7 @@ Extract all available information, prioritizing healing outcomes and study desig
 | **Duration_days** | Total monitoring period (days) |
 | **Interval_days** | Frequency of observations |
 
-### 5.6 Cellular & Molecular Observations
+### 5.6 Cellular & Molecular Observations (Tier 2)
 | Variable | Description / Notes |
 | :--- | :--- |
 | **Histology** | Y/N - note healing phases (plug, granulation, maturation) |
@@ -149,7 +154,7 @@ Extract all available information, prioritizing healing outcomes and study desig
 | **Symbiont_Reest** | Y/N - timing and density of re-colonization |
 | **Microbiome** | Y/N - 16S sequencing or other microbial analysis |
 
-### 5.7 Environmental Conditions
+### 5.7 Environmental Conditions (Tier 1)
 | Variable | Description / Format |
 | :--- | :--- |
 | **Temperature_C** | Mean ± SD (°C) |
@@ -162,16 +167,45 @@ Extract all available information, prioritizing healing outcomes and study desig
 | **Sedimentation** | mg/cm²/day or turbidity (NTU) |
 | **Flow_Regime** | Still | Flow-through | Wave action |
 
+### 5.8 Experimental Design & Statistics (Tier 1)
+| Variable | Description / Format |
+| :--- | :--- |
+| **Sample_Size** | Number of colonies or fragments per treatment |
+| **Replication_Level** | Colony | Tank | Polyp | Site |
+| **Randomization** | Y/N - note method if described |
+| **Blocking** | Y/N - by genotype, site, tank, etc. |
+| **Control** | Y/N - describe control conditions |
+| **Variance** | SD | SE | CI | None (note which) |
+
+---
+
+## 5.9 Risk of Bias & Study Quality Assessment
+Each study will be scored (1-3) on the following criteria to weight the meta-analysis:
+1. **Replication Quality:** Are replicates true independent colonies or pseudoreplicates?
+2. **Environmental Control:** Was the environment monitored (Field) or strictly controlled (Lab)?
+3. **Outcome Resolution:** High-frequency imaging vs. single end-point measurement.
+4. **Reporting:** Were raw data, variances, and sample sizes fully reported?
+*Total Score will be used as a moderator or weighting factor.*
+
+---
+
+### 5.10 Quality Control & Flags
+Use "?" flag for missing or uncertain data
+Use "!" flag for suspect or potentially problematic data
+Record any estimation methods in the Notes field
+Track Extraction_Status: To-do | In-progress | Complete | Needs-review
+
 ---
 
 ## 6. Effect Size Calculation & Variance
 
-### 6.1 Primary Healing Metrics
-Hierarchy of metrics (preferred → fallback):
-1. **Rate constant k:** Exponential decay rate from temporal area data (day⁻¹)
-2. **Linear/areal rates:** (D_initial - D_final) / Δt or (A_initial - A_final) / Δt
-3. **Proportional rate:** (% closure) / Δt
-4. **Time to closure:** 1 / (days to 100% heal)
+### 6.1 Primary Healing Metrics & Standardization Strategy
+To avoid fragmented analyses, we will prioritize the following hierarchy and apply standardization:
+1. **Rate constant k:** (day⁻¹) from temporal area data.
+2. **Log Response Ratio (lnRR):** If raw rates are not comparable, we will calculate effect sizes as ln(Mean_Treatment / Mean_Control).
+3. **Standardized Mean Difference (SMD):** Use Hedges’ g to combine studies with different units (mm vs mm²).
+4. **Geometric Conversion:** For circular/square wounds, we will use standard formulas to convert linear extension to areal closure where dimensions are provided.
+*Note: A sensitivity analysis will be performed to test if results differ between 1D and 2D metrics.*
 
 ### 6.2 Secondary Outcomes
 - **Growth rate:** Change in colony area or linear extension (cm/day or cm²/day)
@@ -191,6 +225,14 @@ Hierarchy of metrics (preferred → fallback):
 - **Heterogeneity tests:** Calculate I² and Q statistics.
 - **Meta-regression:** Test moderators (species, wound size, P/A ratio, temp, etc.).
 - **Publication bias:** Funnel plots and Egger's test.
+
+
+### 7.4 Meta-Analysis of Single Means (Observational Studies)
+For studies lacking a control group, we will perform a meta-analysis of single means (raw healing rates) to establish global baseline regeneration rates across taxa and environments. This will be analyzed separately from the treatment-effect (lnRR) models.
+
+### 7.3 Advanced Analyses: Phylogenetic Control
+- **Phylogenetic Meta-Analysis (MANDATORY):** We will use the Huang & Roy (2015) or newer coral tree to account for non-independence of species. Models will be run using `rma.mv()` with a phylogenetic covariance matrix.
+- **Interaction effects:** Test temperature × tissue type, wound size × colony size, etc.
 
 ---
 
