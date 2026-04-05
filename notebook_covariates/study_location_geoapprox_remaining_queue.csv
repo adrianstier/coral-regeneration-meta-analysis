@@ -1,0 +1,3 @@
+location_row_id,source_id,paper_title,location_raw,site_name,country_territory,water_body,coordinate_basis,coordinate_confidence,approx_coordinate_basis,approx_coordinate_confidence,approx_location_notes
+loc_072,635d9cb2-270b-4bcc-b676-c84b81b0620b,Soong and Lang - 1992 - Reproductive Integration in Reef Corals.pdf,Caribbean coast of Panama,,Panama,Caribbean Sea,not_yet_resolved,low,,,Caribbean coast of Panama is too broad for a single defensible centroid; no single site was named.
+loc_087,c50bc867-17ea-4393-80b1-b34f18d5fde2,Bruckner et al. - 2000 - Parrotfish predation on live coral “spot biting” and “focused biting”.pdf,western Atlantic,,,Atlantic Ocean,reported_site_name,medium,,,Only the broad western Atlantic is named; no defensible local centroid was available.
