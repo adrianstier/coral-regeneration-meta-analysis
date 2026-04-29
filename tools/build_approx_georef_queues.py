@@ -31,6 +31,16 @@ def classify_region(row: dict[str, str]) -> str:
     if any(
         k in text
         for k in [
+            "pacific",
+            "tropical eastern pacific",
+            "eastern tropical pacific",
+            "gulf of california",
+            "sea of cortez",
+            "baja",
+            "la paz",
+            "pichilingue",
+            "gorgona",
+            "saboga",
             "moorea",
             "hawaii",
             "kaneohe",
@@ -46,7 +56,44 @@ def classify_region(row: dict[str, str]) -> str:
         ]
     ):
         return "pacific_region"
-    return "caribbean_region"
+    if any(
+        k in text
+        for k in [
+            "caribbean",
+            "caribbean sea",
+            "curacao",
+            "curaçao",
+            "netherlands antilles",
+            "jamaica",
+            "belize",
+            "bahamas",
+            "bonaire",
+            "aruba",
+            "barbados",
+            "puerto rico",
+            "virgin islands",
+            "st croix",
+            "st. croix",
+            "st john",
+            "st. john",
+            "st thomas",
+            "st. thomas",
+            "florida reef tract",
+            "tortugas",
+            "florida keys",
+            "key largo",
+            "cayman",
+            "puerto morelos",
+            "bahia las minas",
+            "bocas del toro",
+            "los roques",
+            "grenada",
+            "trinidad",
+            "tobago",
+        ]
+    ):
+        return "caribbean_region"
+    return "unknown_region"
 
 
 def build_exact_missing_map(primary_rows: list[dict[str, str]]) -> dict[str, str]:
@@ -54,6 +101,8 @@ def build_exact_missing_map(primary_rows: list[dict[str, str]]) -> dict[str, str
     issue_fields = [
         "missing_location_raw",
         "missing_coords_latlon",
+        "missing_exact_coords_latlon",
+        "missing_best_coords_latlon",
         "missing_depth",
         "missing_growth_form",
         "missing_tissue_type",
@@ -134,7 +183,7 @@ def main() -> int:
     ]
 
     with all_path.open("w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(targets)
 
@@ -142,17 +191,19 @@ def main() -> int:
         "caribbean_region": "agent_georef_queue_1.csv",
         "pacific_region": "agent_georef_queue_2.csv",
         "eastern_region": "agent_georef_queue_3.csv",
+        "unknown_region": "agent_georef_queue_unknown.csv",
     }
-    for bucket, rows in buckets.items():
-        path = output_dir / name_map[bucket]
+    for bucket, filename in name_map.items():
+        rows = buckets.get(bucket, [])
+        path = output_dir / filename
         with path.open("w", newline="") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
             writer.writeheader()
             writer.writerows(rows)
 
     print(all_path)
     print(f"target_rows={len(targets)}")
-    for bucket in ["caribbean_region", "pacific_region", "eastern_region"]:
+    for bucket in ["caribbean_region", "pacific_region", "eastern_region", "unknown_region"]:
         print(f"{bucket}={len(buckets.get(bucket, []))}")
     return 0
 

@@ -32,6 +32,9 @@ TRACKED_MISSING_FIELDS = [
     "missing_sample_size",
 ]
 
+MISSINGNESS_FIELDS = ["source_id", "paper_title", *TRACKED_MISSING_FIELDS]
+REMAINING_FIELDS = [*MISSINGNESS_FIELDS, "remaining_issue_count"]
+
 LOCATION_FIELDS = [
     "source_id",
     "paper_title",
@@ -75,11 +78,11 @@ def dms_to_decimal(text: str) -> str:
     ]:
         raw = raw.replace(old, new)
 
-    m = re.search(
-        r"(?P<deg>-?\d+(?:\.\d+)?)\s*°?\s*"
+    m = re.fullmatch(
+        r"\s*(?P<deg>-?\d+(?:\.\d+)?)\s*°?\s*"
         r"(?:(?P<min>\d+(?:\.\d+)?)\s*'?\s*)?"
         r"(?:(?P<sec>\d+(?:\.\d+)?)\s*\"?\s*)?"
-        r"(?P<hem>[NSEW])?$",
+        r"(?P<hem>[NSEW])?\s*",
         raw,
         flags=re.I,
     )
@@ -90,25 +93,45 @@ def dms_to_decimal(text: str) -> str:
     minutes = float(m.group("min") or 0)
     seconds = float(m.group("sec") or 0)
     hem = (m.group("hem") or "").upper()
+    if deg < 0 and hem in {"N", "E"}:
+        return ""
     decimal = abs(deg) + minutes / 60 + seconds / 3600
-    if deg < 0:
-        decimal *= -1
-    if hem in {"S", "W"}:
-        decimal *= -1
+    sign = -1 if deg < 0 or hem in {"S", "W"} else 1
+    decimal *= sign
+    if abs(decimal) > 180:
+        return ""
+    if hem in {"N", "S"} and abs(decimal) > 90:
+        return ""
+    if hem in {"E", "W"} and abs(decimal) > 180:
+        return ""
     return f"{decimal:.6f}"
 
 
+def load_csv_with_fieldnames(path: Path) -> tuple[list[dict[str, str]], list[str]]:
+    with path.open(newline="") as f:
+        reader = csv.DictReader(f)
+        return list(reader), list(reader.fieldnames or [])
+
+
 def load_csv(path: Path) -> list[dict[str, str]]:
-    with path.open() as f:
-        return list(csv.DictReader(f))
+    return load_csv_with_fieldnames(path)[0]
 
 
 def write_csv(path: Path, rows: list[dict[str, str]], fieldnames: list[str]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
+
+
+def merge_fieldnames(fieldnames: list[str], rows: list[dict[str, str]]) -> list[str]:
+    merged = list(fieldnames)
+    for row in rows:
+        for field in row:
+            if field not in merged:
+                merged.append(field)
+    return merged
 
 
 def append_note(row: dict[str, str], note_field: str, tag: str) -> None:
@@ -122,15 +145,22 @@ def merge_worker_repairs(
     worker_rows: list[dict[str, str]],
 ) -> tuple[list[dict[str, str]], list[dict[str, str]], Counter, dict[str, Counter]]:
     out_rows = [dict(row) for row in base_rows]
-    by_source = {row["source_id"]: row for row in out_rows}
+    by_source: dict[str, dict[str, str]] = {}
+    for row in out_rows:
+        source_id = normalize(row.get("source_id"))
+        if not source_id:
+            raise ValueError("Base primary row is missing source_id")
+        if source_id in by_source:
+            raise ValueError(f"Duplicate base primary source_id: {source_id}")
+        by_source[source_id] = row
     audit_rows: list[dict[str, str]] = []
     field_counter: Counter[str] = Counter()
     worker_counter: dict[str, Counter] = defaultdict(Counter)
 
     for wr in worker_rows:
-        source_id = wr.get("source_id", "")
+        source_id = normalize(wr.get("source_id"))
         if source_id not in by_source:
-            continue
+            raise ValueError(f"Worker repair source_id not found in base primary CSV: {source_id or '<blank>'}")
         base = by_source[source_id]
         changed_fields: list[str] = []
 
@@ -273,7 +303,9 @@ def merge_location_rows(location_rows: list[dict[str, str]], cov_rows: list[dict
             out["depth_max_m"] = preferred(out["depth_max_m"], cov.get("depth_max_m", ""))
             if not normalize(out.get("location_type", "")):
                 out["location_type"] = "field_site"
-            basis, conf = derive_basis(cov)
+            basis_row = dict(cov)
+            basis_row.update(out)
+            basis, conf = derive_basis(basis_row)
             out["coordinate_basis"] = preferred(out["coordinate_basis"], basis)
             out["coordinate_confidence"] = preferred(out["coordinate_confidence"], conf)
             append_note(out, "location_notes", "Notebook covariate final merge")
@@ -427,9 +459,9 @@ def main() -> int:
     parser.add_argument("--output-audit", required=True)
     args = parser.parse_args()
 
-    base_primary = load_csv(Path(args.base_primary))
-    base_all_sources = load_csv(Path(args.base_all_sources))
-    base_location = load_csv(Path(args.base_location))
+    base_primary, primary_fieldnames = load_csv_with_fieldnames(Path(args.base_primary))
+    base_all_sources, all_sources_fieldnames = load_csv_with_fieldnames(Path(args.base_all_sources))
+    base_location, _location_fieldnames = load_csv_with_fieldnames(Path(args.base_location))
 
     worker_rows: list[dict[str, str]] = []
     for path in args.worker_csvs:
@@ -447,13 +479,13 @@ def main() -> int:
     final_location = merge_location_rows(base_location, final_all_sources)
     normalize_coordinate_pairs(final_location, "location_notes")
 
-    write_csv(Path(args.output_primary), final_primary, list(final_primary[0].keys()))
-    write_csv(Path(args.output_all_sources), final_all_sources, list(final_all_sources[0].keys()))
-    write_csv(Path(args.output_missingness), missing_rows, list(missing_rows[0].keys()))
+    write_csv(Path(args.output_primary), final_primary, merge_fieldnames(primary_fieldnames, final_primary))
+    write_csv(Path(args.output_all_sources), final_all_sources, merge_fieldnames(all_sources_fieldnames, final_all_sources))
+    write_csv(Path(args.output_missingness), missing_rows, MISSINGNESS_FIELDS)
     write_csv(
         Path(args.output_remaining),
         remaining_rows,
-        list(remaining_rows[0].keys()),
+        REMAINING_FIELDS,
     )
     write_csv(Path(args.output_location), final_location, LOCATION_FIELDS)
     write_csv(

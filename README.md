@@ -12,6 +12,8 @@ The primary goal of this project is to systematically review and meta-analyze co
 
 ### Project Resources
 - **Protocol:** See [PLAN.md](./PLAN.md) for the full meta-analysis protocol.
+- **Extraction pipeline:** See [docs/pipeline/EXTRACTION_PIPELINE.md](./docs/pipeline/EXTRACTION_PIPELINE.md) for the source-of-truth hierarchy, PRISMA rebuild command, extraction workplan, and figure clipping requirements.
+- **Generated QA outputs:** Rebuild `pipeline/` with `python3 tools/build_pipeline_outputs.py`; review `pipeline/PIPELINE_QA_REPORT.md` before using manuscript counts.
 - **Instructions:** See [GEMINI.md](./GEMINI.md) for AI assistance guidelines.
 
 ---
