@@ -31,6 +31,7 @@ rebuild_manifest = load_module("rebuild_manifest", "tools/rebuild_screening_mani
 finalize_adjudication = load_module("finalize_adjudication", "tools/finalize_adjudication.py")
 pipeline_builder = load_module("pipeline_builder", "tools/build_pipeline_outputs.py")
 audit_all_papers = load_module("audit_all_papers_module", "tools/audit_all_papers.py")
+extraction_review = load_module("extraction_review", "tools/build_extraction_review_artifacts.py")
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -766,7 +767,7 @@ class PipelineBuilderTests(unittest.TestCase):
 
         queue = pipeline_builder.build_digitization_queue(workplan)
 
-        self.assertEqual(queue[0]["queue_id"], "DIG-0001")
+        self.assertEqual(queue[0]["queue_id"], "DIG-12345678-rate")
         self.assertEqual(queue[0]["digitization_status"], "needs_figure_id")
         self.assertEqual(queue[0]["clip_path"], "")
         self.assertEqual(queue[0]["digitized_data_path"], "")
@@ -789,6 +790,104 @@ class PipelineBuilderTests(unittest.TestCase):
         self.assertEqual(queue[0]["digitization_status"], "blocked_missing_local_pdf")
         self.assertEqual(queue[0]["qa_status"], "blocked")
         self.assertIn("Retrieve the local PDF", queue[0]["notes"])
+
+    def test_literature_reorg_audit_preserves_historical_rows_after_clean_commit(self) -> None:
+        historical = [
+            {
+                "deleted_flat_relpath": "literature/Paper.pdf",
+                "organized_relpath": "literature/META_ANALYSIS_POOL/Paper.pdf",
+                "filename_match_count": "1",
+                "tracked_blob_sha": "abc",
+                "organized_blob_sha": "abc",
+                "hash_status": "hash_match",
+            }
+        ]
+
+        with patch.object(pipeline_builder, "run_git", return_value=[]), patch.object(
+            pipeline_builder, "staged_literature_renames", return_value={}
+        ), patch.object(
+            pipeline_builder, "read_historical_literature_reorg_audit", return_value=historical
+        ), patch.object(
+            pipeline_builder, "literature_pdf_count", return_value=1
+        ):
+            rows, summary = pipeline_builder.build_literature_reorg_audit()
+
+        self.assertEqual(rows, historical)
+        self.assertEqual(summary["deleted_flat_pdf_count"], 1)
+        self.assertEqual(summary["hash_matches"], 1)
+
+
+class ExtractionReviewArtifactTests(unittest.TestCase):
+    def test_caption_candidates_are_ranked_without_assigning_clip_paths(self) -> None:
+        pages = [
+            "\n".join(
+                [
+                    "Introduction",
+                    "Fig. 1. Lesion regeneration through time for wounded coral colonies.",
+                    "Values show mean tissue area remaining with standard errors.",
+                    "",
+                    "Table 1. Growth and calcification results.",
+                ]
+            )
+        ]
+        candidates = extraction_review.caption_candidates_from_pages(pages)
+
+        self.assertEqual(candidates[0]["candidate_label"], "Fig. 1")
+        score, terms = extraction_review.score_candidate(candidates[0], "rate")
+        self.assertGreater(score, 0)
+        self.assertIn("regeneration", terms)
+
+        mentions = extraction_review.mention_candidates_from_pages(
+            ["The fastest rates occurred early in the experiment (Figs. 2 and 3; Table 1)."]
+        )
+        self.assertEqual([row["candidate_label"] for row in mentions], ["Fig. 2", "Fig. 3", "Table 1"])
+
+        unlabeled = extraction_review.mention_candidates_from_pages(
+            [
+                "Regeneration of damaged colonies of the coral Porites lutea. A, one colony used in the experiment; B, mechanically damaged colony after 1 month; C, regenerated lesion after 3 months."
+            ]
+        )
+        self.assertEqual(unlabeled[0]["candidate_label"], "unlabeled figure")
+
+        rows = extraction_review.build_figure_source_review_rows(
+            [
+                {
+                    "queue_id": "DIG-0001",
+                    "digitization_status": "blocked_missing_local_pdf",
+                    "source_id": "12345678-abcd",
+                    "paper_title": "Missing.pdf",
+                    "response_type": "rate",
+                    "source_file_status": "missing_local_pdf",
+                    "local_relpath": "",
+                }
+            ]
+        )
+
+        self.assertEqual(rows[0]["review_status"], "blocked_missing_local_pdf")
+        self.assertNotIn("fig-XX", rows[0]["required_clip_naming_rule"])
+        self.assertEqual(rows[0]["candidate_label"], "")
+
+    def test_legacy_extraction_qa_flags_missing_source_provenance(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            table = Path(tmp) / "rates.csv"
+            table.write_text(
+                "source_id,paper_title,local_relpath,response_type,source_match_status,figure_or_table_label,page,panel_label,extraction_provenance,qa_status,Author,Year,Species,Wound_Area_mm2,Rate_Value,Rate_Unit,Variance_Type,Variance_Value,Sample_Size,Location,Stressor,Notes\n"
+                "source-1,Paper.pdf,,rate,manual_source_match,,,,legacy row,needs_source_provenance_review,A,2000,Coral,1,0.1,mm2 d-1,SE,0.01,10,Site,None,Note\n",
+                encoding="utf-8",
+            )
+
+            rows = extraction_review.build_legacy_extraction_qa_rows(
+                {"rates.csv": table},
+                [{"source_id": "source-1", "response_type": "growth"}],
+            )
+
+        self.assertEqual(rows[0]["review_status"], "needs_source_provenance_review")
+        self.assertEqual(rows[0]["workplan_crosswalk_status"], "response_not_in_workplan")
+        self.assertIn("local_relpath", rows[0]["missing_required_fields"])
+        self.assertIn("figure_or_table_label", rows[0]["missing_required_fields"])
+        self.assertEqual(rows[0]["units_value"], "mm2 d-1")
+        self.assertEqual(rows[0]["variance_type_value"], "SE")
+        self.assertEqual(rows[0]["sample_size_value"], "10")
 
 
 if __name__ == "__main__":

@@ -145,14 +145,55 @@ def existing_pdf_index() -> dict[str, list[Path]]:
     return index
 
 
+def literature_pdf_count() -> int:
+    literature = ROOT / "literature"
+    return sum(1 for _ in literature.rglob("*.pdf")) if literature.exists() else 0
+
+
+def summarize_literature_reorg_rows(rows: list[dict[str, str]]) -> dict[str, int]:
+    hash_status_counts = Counter(row.get("hash_status", "") for row in rows)
+    return {
+        "deleted_flat_pdf_count": len(rows),
+        "current_literature_pdf_count": literature_pdf_count(),
+        "matched_deleted_to_organized_by_filename": sum(
+            1 for row in rows if row.get("filename_match_count") == "1"
+        ),
+        "hash_matches": hash_status_counts["hash_match"],
+        "hash_mismatches": hash_status_counts["hash_mismatch"],
+        "missing_organized_copy": hash_status_counts["missing_organized_copy"],
+        "duplicate_organized_filename": hash_status_counts["duplicate_organized_filename"],
+    }
+
+
+def read_historical_literature_reorg_audit() -> list[dict[str, str]]:
+    current_audit = OUTPUT_DIR / "LITERATURE_REORG_AUDIT.csv"
+    current_rows = read_csv(current_audit)
+    if current_rows:
+        return current_rows
+
+    proc = subprocess.run(
+        ["git", "show", "HEAD:pipeline/LITERATURE_REORG_AUDIT.csv"],
+        cwd=ROOT,
+        check=False,
+        text=True,
+        capture_output=True,
+    )
+    if proc.returncode != 0 or not proc.stdout.strip():
+        return []
+    return list(csv.DictReader(proc.stdout.splitlines()))
+
+
 def build_literature_reorg_audit() -> tuple[list[dict[str, str]], dict[str, int]]:
     deleted = [line for line in run_git(["ls-files", "--deleted", "literature"]) if line.endswith(".pdf")]
     staged_renames = staged_literature_renames()
     deleted_or_renamed = sorted(set(deleted) | set(staged_renames))
+    if not deleted_or_renamed:
+        rows = read_historical_literature_reorg_audit()
+        return rows, summarize_literature_reorg_rows(rows)
+
     tracked_blobs = parse_tracked_literature_blobs()
     pdf_index = existing_pdf_index()
     rows: list[dict[str, str]] = []
-    hash_status_counts: Counter[str] = Counter()
 
     for relpath in deleted_or_renamed:
         filename = Path(relpath).name
@@ -177,7 +218,6 @@ def build_literature_reorg_audit() -> tuple[list[dict[str, str]], dict[str, int]
             hash_status = "hash_mismatch"
         else:
             hash_status = "not_checked"
-        hash_status_counts[hash_status] += 1
         rows.append(
             {
                 "deleted_flat_relpath": relpath,
@@ -189,19 +229,7 @@ def build_literature_reorg_audit() -> tuple[list[dict[str, str]], dict[str, int]
             }
         )
 
-    existing_pdf_count = sum(1 for _ in (ROOT / "literature").rglob("*.pdf")) if (ROOT / "literature").exists() else 0
-    summary = {
-        "deleted_flat_pdf_count": len(deleted_or_renamed),
-        "current_literature_pdf_count": existing_pdf_count,
-        "matched_deleted_to_organized_by_filename": sum(
-            1 for row in rows if row["filename_match_count"] == "1"
-        ),
-        "hash_matches": hash_status_counts["hash_match"],
-        "hash_mismatches": hash_status_counts["hash_mismatch"],
-        "missing_organized_copy": hash_status_counts["missing_organized_copy"],
-        "duplicate_organized_filename": hash_status_counts["duplicate_organized_filename"],
-    }
-    return rows, summary
+    return rows, summarize_literature_reorg_rows(rows)
 
 
 def response_types(row: dict[str, str], include_mechanism: bool = True) -> list[str]:
@@ -412,7 +440,7 @@ def build_digitization_queue(workplan_rows: list[dict[str, str]]) -> list[dict[s
     for row in workplan_rows:
         if row.get("requires_digitization") != "1":
             continue
-        queue_id = f"DIG-{len(rows) + 1:04d}"
+        queue_id = f"DIG-{(row.get('source_id') or 'source')[:8]}-{row.get('response_type', 'response')}"
         file_status = row.get("source_file_status", "")
         blocked = file_status != "local_pdf_available"
         rows.append(
@@ -475,6 +503,10 @@ def markdown_table(counter: Counter[str] | dict[str, int], label_name: str = "Ca
     for key, value in sorted(counter.items()):
         lines.append(f"| `{key}` | {value} |")
     return "\n".join(lines)
+
+
+def pluralize(count: int, singular: str, plural: str | None = None) -> str:
+    return singular if count == 1 else (plural or f"{singular}s")
 
 
 def build_prisma_counts(screening_rows: list[dict[str, str]], reorg_summary: dict[str, int]) -> str:
@@ -602,7 +634,8 @@ def build_qa_report(
     if missing_files:
         warnings.append(f"{len(missing_files)} rows declare a local PDF but the file is missing.")
     if primary_missing_local:
-        warnings.append(f"{len(primary_missing_local)} included primary records are missing a local PDF.")
+        count = len(primary_missing_local)
+        warnings.append(f"{count} included primary {pluralize(count, 'record')} {'is' if count == 1 else 'are'} missing a local PDF.")
     if workplan_blocked_missing_local:
         warnings.append(f"{len(workplan_blocked_missing_local)} extraction workplan rows are blocked by missing local PDFs.")
     if digitization_blocked_missing_local:

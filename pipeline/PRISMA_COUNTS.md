@@ -38,8 +38,8 @@ Generated from `data/screening/SCREENING_LOG_FINAL.csv` by `tools/build_pipeline
 | `growth` | 30 |
 | `mechanism` | 32 |
 | `rate` | 57 |
-| `reproduction` | 6 |
-| `survival` | 26 |
+| `reproduction` | 7 |
+| `survival` | 27 |
 
 ## Source Availability
 

@@ -12,7 +12,9 @@ Use these files in this order:
 4. `notebook_covariates/notebook_covariate_missingness_primary_geoaugmented.csv` - covariate missingness used to prioritize follow-up checks.
 5. `data/extraction/EXTRACTION_RATES.csv`, `data/extraction/EXTRACTION_FITNESS.csv`, and `data/extraction/EXTRACTION_SURVIVAL.csv` - extracted quantitative outcomes with source-level provenance.
 6. `data/literature/LITERATURE_MAP.csv` - compact generated index of screening status and local PDF paths.
-7. `pipeline/EXTRACTION_WORKPLAN.csv` and `pipeline/DIGITIZATION_FIGURE_QUEUE.csv` - generated work queues; do not edit them as the upstream truth.
+7. `data/literature/SOURCE_RETRIEVAL_LOG.csv` - hand-curated status for included sources that cannot yet be tied to a local PDF.
+8. `pipeline/EXTRACTION_WORKPLAN.csv` and `pipeline/DIGITIZATION_FIGURE_QUEUE.csv` - generated work queues; do not edit them as the upstream truth.
+9. `digitization/source_review/*.csv` - generated execution aids for candidate captions, source retrieval, and legacy extraction QA.
 
 `data/screening/SCREENING_LOG.csv`, `data/screening/SCREENING_LOG_V2.csv`, and `data/screening/SCREENING_REVIEW_QUEUE.csv` are retained as historical working artifacts unless they are explicitly regenerated during a new screening pass.
 
@@ -22,6 +24,7 @@ Run:
 
 ```bash
 python3 tools/build_pipeline_outputs.py
+python3 tools/build_extraction_review_artifacts.py
 ```
 
 The command writes:
@@ -33,6 +36,13 @@ The command writes:
 - `pipeline/DIGITIZATION_FIGURE_QUEUE.csv` - one row per figure/table digitization task that still needs source clipping.
 - `pipeline/PIPELINE_QA_REPORT.md` - compact warnings and next actions.
 - `pipeline/PIPELINE_MANIFEST.md` - generated-file inventory.
+
+The extraction-review command writes:
+
+- `digitization/source_review/FIGURE_SOURCE_REVIEW.csv` - candidate printed labels and pages detected from available PDFs with `pdftotext`.
+- `digitization/source_review/SOURCE_RETRIEVAL_QUEUE.csv` - blocked included sources lacking local PDFs, joined to `data/literature/SOURCE_RETRIEVAL_LOG.csv`.
+- `digitization/source_review/LEGACY_EXTRACTION_QA_QUEUE.csv` - row-level provenance QA queue for existing extraction tables.
+- `digitization/source_review/EXTRACTION_REVIEW_SUMMARY.md` - counts of candidate captions, blocked source retrieval, and legacy provenance gaps.
 
 To reorganize PDFs after changing final screening status, run:
 
@@ -76,6 +86,8 @@ For quantitative extraction, every extracted row should retain:
 
 Use `pipeline/DIGITIZATION_FIGURE_QUEUE.csv` as the figure clipping manifest. Rows with `digitization_status=blocked_missing_local_pdf` must be retrieved before any clipping. Rows with `digitization_status=needs_figure_id` have the source PDF available but still need exact figure/table labels, pages, panels, axes, units, variance, and sample-size provenance before clip paths are assigned.
 
+Use `digitization/source_review/FIGURE_SOURCE_REVIEW.csv` to triage likely printed figure/table labels and PDF pages. This file is a candidate list, not evidence by itself. A value is ready for clipping only after a reviewer selects the exact printed label and panel from the source PDF.
+
 Store clipped source images under:
 
 ```text
@@ -104,6 +116,8 @@ Each completed queue row should fill:
 
 Do not pool a figure-derived value unless the clip path, label, page, panel, axis units, variance type, sample-size source, and digitized-data path are recorded.
 
+Existing legacy extraction rows are tracked in `digitization/source_review/LEGACY_EXTRACTION_QA_QUEUE.csv`. Rows marked `needs_source_provenance_review` must not be treated as source-verified until exact figure/table provenance and QA reviewer signoff are recorded in the source extraction table.
+
 ## PRISMA Rules
 
 The PRISMA summary in `pipeline/PRISMA_COUNTS.md` is generated from `data/screening/SCREENING_LOG_FINAL.csv`.
@@ -121,6 +135,7 @@ When screening decisions change, update `data/screening/SCREENING_LOG_FINAL.csv`
 Before using the PRISMA counts or extraction tables in manuscript text:
 
 - Rebuild `pipeline/` with `python3 tools/build_pipeline_outputs.py`.
+- Rebuild extraction-review artifacts with `python3 tools/build_extraction_review_artifacts.py`.
 - Confirm `pipeline/PIPELINE_QA_REPORT.md` has no blocking local-file or hash warnings.
 - Resolve any folder placements marked `folder_needs_review` in `pipeline/LITERATURE_ORGANIZATION_AUDIT.csv`.
 - Complete every required row in `pipeline/DIGITIZATION_FIGURE_QUEUE.csv` before treating figure-derived values as extracted.
