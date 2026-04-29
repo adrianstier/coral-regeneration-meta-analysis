@@ -33,6 +33,7 @@ pipeline_builder = load_module("pipeline_builder", "tools/build_pipeline_outputs
 audit_all_papers = load_module("audit_all_papers_module", "tools/audit_all_papers.py")
 extraction_review = load_module("extraction_review", "tools/build_extraction_review_artifacts.py")
 figure_audit_merge = load_module("figure_audit_merge", "tools/merge_figure_candidate_audits.py")
+figure_visual_reaudit = load_module("figure_visual_reaudit", "tools/build_figure_visual_reaudit.py")
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -951,6 +952,61 @@ class ExtractionReviewArtifactTests(unittest.TestCase):
         self.assertEqual(queue_rows[0]["queue_audit_status"], "audited_candidate_available")
         self.assertIn("figure:Fig. 3:p5", queue_rows[0]["recommended_candidates"])
         self.assertEqual(queue_rows[0]["recommended_candidate_count"], 1)
+
+    def test_figure_visual_reaudit_keeps_rejected_rows(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_root = Path(tmp)
+            image_path = tmp_root / "digitization" / "figures" / "source_pages" / "source__page-001.png"
+            image_path.parent.mkdir(parents=True)
+            try:
+                from PIL import Image
+            except Exception as exc:  # pragma: no cover - test environment should provide Pillow.
+                self.skipTest(f"Pillow unavailable: {exc}")
+            Image.new("RGB", (20, 20), color=(255, 255, 255)).save(image_path)
+            # Add a dark square so the image is not classified as blank.
+            image = Image.open(image_path)
+            for x in range(5, 15):
+                for y in range(5, 15):
+                    image.putpixel((x, y), (0, 0, 0))
+            image.save(image_path)
+
+            render_rows = [
+                {
+                    "queue_id": "DIG-source-rate",
+                    "source_id": "source-1",
+                    "paper_title": "Paper.pdf",
+                    "response_type": "rate",
+                    "candidate_descriptor": "figure:Fig. 1:p1",
+                    "candidate_type": "figure",
+                    "candidate_label": "Fig. 1",
+                    "pdf_page": "1",
+                    "source_page_render": "digitization/figures/source_pages/source__page-001.png",
+                    "render_status": "rendered",
+                    "candidate_text": "Fig. 1. Mean lesion recovery rate with SE error bars.",
+                }
+            ]
+            caption_rows = [
+                {
+                    "audit_status": "remove",
+                    "queue_id": "DIG-source-survival",
+                    "source_id": "source-1",
+                    "paper_title": "Paper.pdf",
+                    "response_type": "survival",
+                    "reason": "no_valid_candidate_found",
+                    "original_candidate_type": "figure",
+                    "original_candidate_label": "Fig. 2",
+                    "original_candidate_page": "2",
+                }
+            ]
+
+            with patch.object(figure_visual_reaudit, "ROOT", tmp_root):
+                rows = figure_visual_reaudit.build_visual_reaudit_rows(render_rows, caption_rows)
+
+        self.assertEqual(rows[0]["reaudit_row_type"], "accepted_visual_candidate")
+        self.assertEqual(rows[0]["visual_reaudit_status"], "source_page_image_verified")
+        self.assertEqual(rows[0]["extractability_class"], "quantitative_plot_candidate")
+        self.assertEqual(rows[1]["reaudit_row_type"], "retained_caption_rejected")
+        self.assertEqual(rows[1]["crop_readiness"], "do_not_crop_from_caption_audit")
 
 
 if __name__ == "__main__":

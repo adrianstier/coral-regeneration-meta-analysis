@@ -18,6 +18,7 @@ Rebuild source-review artifacts after rebuilding `pipeline/`:
 python3 tools/build_extraction_review_artifacts.py
 python3 tools/merge_figure_candidate_audits.py
 python3 tools/render_audited_source_pages.py
+python3 tools/build_figure_visual_reaudit.py
 ```
 
 The first command writes:
@@ -38,6 +39,11 @@ The render command writes:
 
 - `figures/SOURCE_PAGE_RENDER_MANIFEST.csv` - one row per audited candidate label/page with the rendered source-page image path.
 - `figures/source_pages/*.png` - full PDF page renders containing candidate figures/tables. These are source-page photos, not final cropped panel clips.
+
+The visual reaudit command writes:
+
+- `source_review/FIGURE_VISUAL_REAUDIT.csv` - second-layer review rows for all accepted rendered candidates plus retained caption-level rejected candidates.
+- `source_review/FIGURE_VISUAL_REAUDIT_SUMMARY.md` - visual render verification, crop readiness, extractability class, and retained rejection counts.
 
 ## Required Provenance
 
@@ -61,3 +67,4 @@ Do not use a figure-derived value in a pooled table until the queue row has a so
 Raw candidate captions are not source clips. They only identify pages and labels for manual clipping and verification.
 Rows marked `no_valid_candidate_found` in the queue audit should not be clipped unless a later full-text review identifies valid non-caption evidence.
 Rows in `figures/source_pages/` still need exact figure/table or panel cropping before they become final clip files.
+Rows marked `retained_caption_rejected` in the visual reaudit are intentionally kept as rejected evidence and should remain out of the crop queue.
