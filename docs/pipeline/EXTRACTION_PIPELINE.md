@@ -14,7 +14,7 @@ Use these files in this order:
 6. `data/literature/LITERATURE_MAP.csv` - compact generated index of screening status and local PDF paths.
 7. `data/literature/SOURCE_RETRIEVAL_LOG.csv` - hand-curated status for included sources that cannot yet be tied to a local PDF.
 8. `pipeline/EXTRACTION_WORKPLAN.csv` and `pipeline/DIGITIZATION_FIGURE_QUEUE.csv` - generated work queues; do not edit them as the upstream truth.
-9. `digitization/source_review/*.csv` - generated execution aids for candidate captions, source retrieval, and legacy extraction QA.
+9. `digitization/source_review/*.csv` - generated execution aids for candidate captions, audited candidate corrections, source retrieval, and legacy extraction QA.
 
 `data/screening/SCREENING_LOG.csv`, `data/screening/SCREENING_LOG_V2.csv`, and `data/screening/SCREENING_REVIEW_QUEUE.csv` are retained as historical working artifacts unless they are explicitly regenerated during a new screening pass.
 
@@ -25,6 +25,7 @@ Run:
 ```bash
 python3 tools/build_pipeline_outputs.py
 python3 tools/build_extraction_review_artifacts.py
+python3 tools/merge_figure_candidate_audits.py
 ```
 
 The command writes:
@@ -43,6 +44,13 @@ The extraction-review command writes:
 - `digitization/source_review/SOURCE_RETRIEVAL_QUEUE.csv` - blocked included sources lacking local PDFs, joined to `data/literature/SOURCE_RETRIEVAL_LOG.csv`.
 - `digitization/source_review/LEGACY_EXTRACTION_QA_QUEUE.csv` - row-level provenance QA queue for existing extraction tables.
 - `digitization/source_review/EXTRACTION_REVIEW_SUMMARY.md` - counts of candidate captions, blocked source retrieval, and legacy provenance gaps.
+
+The figure-candidate audit merge command writes:
+
+- `digitization/source_review/FIGURE_SOURCE_REVIEW_VALIDATED.csv` - raw candidate rows joined to independent audit results and corrected label/page fields.
+- `digitization/source_review/FIGURE_CANDIDATE_AUDIT.csv` - normalized reviewer audit rows.
+- `digitization/source_review/FIGURE_QUEUE_AUDIT_STATUS.csv` - one audited decision row per digitization queue item.
+- `digitization/source_review/FIGURE_CANDIDATE_AUDIT_SUMMARY.md` - audit coverage and outcome counts.
 
 To reorganize PDFs after changing final screening status, run:
 
@@ -86,7 +94,7 @@ For quantitative extraction, every extracted row should retain:
 
 Use `pipeline/DIGITIZATION_FIGURE_QUEUE.csv` as the figure clipping manifest. Rows with `digitization_status=blocked_missing_local_pdf` must be retrieved before any clipping. Rows with `digitization_status=needs_figure_id` have the source PDF available but still need exact figure/table labels, pages, panels, axes, units, variance, and sample-size provenance before clip paths are assigned.
 
-Use `digitization/source_review/FIGURE_SOURCE_REVIEW.csv` to triage likely printed figure/table labels and PDF pages. This file is a candidate list, not evidence by itself. A value is ready for clipping only after a reviewer selects the exact printed label and panel from the source PDF.
+Use `digitization/source_review/FIGURE_SOURCE_REVIEW.csv` only as the raw candidate list. Use `digitization/source_review/FIGURE_QUEUE_AUDIT_STATUS.csv` as the audited clipping worklist after independent candidate review. Rows marked `audited_candidate_available` still require visual confirmation of panel, axes, units, variance, and sample size before clipping. Rows marked `no_valid_candidate_found` should not be clipped unless a later full-text review identifies valid non-caption evidence.
 
 Store clipped source images under:
 
@@ -136,7 +144,8 @@ Before using the PRISMA counts or extraction tables in manuscript text:
 
 - Rebuild `pipeline/` with `python3 tools/build_pipeline_outputs.py`.
 - Rebuild extraction-review artifacts with `python3 tools/build_extraction_review_artifacts.py`.
+- Rebuild figure-candidate audit overlays with `python3 tools/merge_figure_candidate_audits.py` after reviewer audit files are updated.
 - Confirm `pipeline/PIPELINE_QA_REPORT.md` has no blocking local-file or hash warnings.
 - Resolve any folder placements marked `folder_needs_review` in `pipeline/LITERATURE_ORGANIZATION_AUDIT.csv`.
-- Complete every required row in `pipeline/DIGITIZATION_FIGURE_QUEUE.csv` before treating figure-derived values as extracted.
+- Complete every required row in `pipeline/DIGITIZATION_FIGURE_QUEUE.csv`, using `digitization/source_review/FIGURE_QUEUE_AUDIT_STATUS.csv` as the audited label/page guide, before treating figure-derived values as extracted.
 - Check that every pooled extracted value links back to a `source_id`, figure/table label, page, units, variance type, and sample size.

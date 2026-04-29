@@ -32,6 +32,7 @@ finalize_adjudication = load_module("finalize_adjudication", "tools/finalize_adj
 pipeline_builder = load_module("pipeline_builder", "tools/build_pipeline_outputs.py")
 audit_all_papers = load_module("audit_all_papers_module", "tools/audit_all_papers.py")
 extraction_review = load_module("extraction_review", "tools/build_extraction_review_artifacts.py")
+figure_audit_merge = load_module("figure_audit_merge", "tools/merge_figure_candidate_audits.py")
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -888,6 +889,68 @@ class ExtractionReviewArtifactTests(unittest.TestCase):
         self.assertEqual(rows[0]["units_value"], "mm2 d-1")
         self.assertEqual(rows[0]["variance_type_value"], "SE")
         self.assertEqual(rows[0]["sample_size_value"], "10")
+
+    def test_figure_candidate_audit_merge_preserves_pending_coverage(self) -> None:
+        base_rows = [
+            {
+                "queue_id": "DIG-source-rate",
+                "source_id": "source-1",
+                "paper_title": "Paper.pdf",
+                "response_type": "rate",
+                "candidate_rank": "1",
+                "candidate_type": "figure",
+                "candidate_label": "Fig. 1",
+                "candidate_page": "3",
+                "review_status": "candidate_review_needed",
+            },
+            {
+                "queue_id": "DIG-source-rate",
+                "source_id": "source-1",
+                "paper_title": "Paper.pdf",
+                "response_type": "rate",
+                "candidate_rank": "2",
+                "candidate_type": "figure",
+                "candidate_label": "Fig. 2",
+                "candidate_page": "4",
+                "review_status": "candidate_review_needed",
+            },
+        ]
+        audit_rows = [
+            {
+                "source_id": "source-1",
+                "paper_title": "Paper.pdf",
+                "response_type": "rate",
+                "queue_id": "DIG-source-rate",
+                "original_candidate_rank": "1",
+                "original_candidate_type": "figure",
+                "original_candidate_label": "Fig. 1",
+                "original_candidate_page": "3",
+                "audit_status": "replace",
+                "corrected_candidate_type": "figure",
+                "corrected_candidate_label": "Fig. 3",
+                "corrected_candidate_page": "5",
+                "corrected_candidate_text": "Fig. 3. Lesion recovery through time.",
+                "reason": "Fig. 3 is the wound-recovery time series.",
+                "needs_manual_visual_review": "yes",
+                "evidence_method": "pdftotext",
+                "audit_file": "digitization/source_review/agent_audits/figure_candidate_audit_agent1.csv",
+                "audit_key_status": "valid_status",
+            }
+        ]
+
+        validated, merged, summary = figure_audit_merge.build_validated_rows(base_rows, audit_rows)
+
+        self.assertEqual(validated[0]["validated_review_status"], "candidate_replacement_available")
+        self.assertEqual(validated[0]["corrected_candidate_label"], "Fig. 3")
+        self.assertEqual(validated[1]["validated_review_status"], "pending_agent_review")
+        self.assertEqual(merged[0]["coverage_status"], "matched_base_candidate")
+        self.assertEqual(summary["missing_candidate_rows"], 1)
+
+        queue_rows = figure_audit_merge.build_queue_summary_rows(validated)
+
+        self.assertEqual(queue_rows[0]["queue_audit_status"], "audited_candidate_available")
+        self.assertIn("figure:Fig. 3:p5", queue_rows[0]["recommended_candidates"])
+        self.assertEqual(queue_rows[0]["recommended_candidate_count"], 1)
 
 
 if __name__ == "__main__":
