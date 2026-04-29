@@ -26,6 +26,7 @@ Run:
 python3 tools/build_pipeline_outputs.py
 python3 tools/build_extraction_review_artifacts.py
 python3 tools/merge_figure_candidate_audits.py
+python3 tools/render_audited_source_pages.py
 ```
 
 The command writes:
@@ -51,6 +52,11 @@ The figure-candidate audit merge command writes:
 - `digitization/source_review/FIGURE_CANDIDATE_AUDIT.csv` - normalized reviewer audit rows.
 - `digitization/source_review/FIGURE_QUEUE_AUDIT_STATUS.csv` - one audited decision row per digitization queue item.
 - `digitization/source_review/FIGURE_CANDIDATE_AUDIT_SUMMARY.md` - audit coverage and outcome counts.
+
+The source-page render command writes:
+
+- `digitization/figures/SOURCE_PAGE_RENDER_MANIFEST.csv` - one row per audited candidate label/page with the rendered source-page image path.
+- `digitization/figures/source_pages/*.png` - full-page source images for visual figure/table clipping. These are not final cropped panel clips.
 
 To reorganize PDFs after changing final screening status, run:
 
@@ -95,6 +101,8 @@ For quantitative extraction, every extracted row should retain:
 Use `pipeline/DIGITIZATION_FIGURE_QUEUE.csv` as the figure clipping manifest. Rows with `digitization_status=blocked_missing_local_pdf` must be retrieved before any clipping. Rows with `digitization_status=needs_figure_id` have the source PDF available but still need exact figure/table labels, pages, panels, axes, units, variance, and sample-size provenance before clip paths are assigned.
 
 Use `digitization/source_review/FIGURE_SOURCE_REVIEW.csv` only as the raw candidate list. Use `digitization/source_review/FIGURE_QUEUE_AUDIT_STATUS.csv` as the audited clipping worklist after independent candidate review. Rows marked `audited_candidate_available` still require visual confirmation of panel, axes, units, variance, and sample size before clipping. Rows marked `no_valid_candidate_found` should not be clipped unless a later full-text review identifies valid non-caption evidence.
+
+Use `digitization/figures/SOURCE_PAGE_RENDER_MANIFEST.csv` to find the rendered source-page image for each audited candidate. Files under `digitization/figures/source_pages/` are full-page photos for review and cropping; final clip files should still be saved under `digitization/figures/<source_id-prefix>__<response>__fig-<number>_panel-<letter>.png`.
 
 Store clipped source images under:
 
@@ -145,6 +153,7 @@ Before using the PRISMA counts or extraction tables in manuscript text:
 - Rebuild `pipeline/` with `python3 tools/build_pipeline_outputs.py`.
 - Rebuild extraction-review artifacts with `python3 tools/build_extraction_review_artifacts.py`.
 - Rebuild figure-candidate audit overlays with `python3 tools/merge_figure_candidate_audits.py` after reviewer audit files are updated.
+- Render audited source pages with `python3 tools/render_audited_source_pages.py` before manual panel/table cropping.
 - Confirm `pipeline/PIPELINE_QA_REPORT.md` has no blocking local-file or hash warnings.
 - Resolve any folder placements marked `folder_needs_review` in `pipeline/LITERATURE_ORGANIZATION_AUDIT.csv`.
 - Complete every required row in `pipeline/DIGITIZATION_FIGURE_QUEUE.csv`, using `digitization/source_review/FIGURE_QUEUE_AUDIT_STATUS.csv` as the audited label/page guide, before treating figure-derived values as extracted.

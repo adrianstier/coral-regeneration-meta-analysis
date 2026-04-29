@@ -6,6 +6,7 @@ Use `digitization/source_review/FIGURE_QUEUE_AUDIT_STATUS.csv` as the audited wo
 ## Directories
 
 - `figures/` - clipped source panels or tables from PDFs.
+- `figures/source_pages/` - rendered PDF pages for audited figure/table candidates, used as the visual source for exact clipping.
 - `data/` - digitized point data or table transcriptions.
 - `source_review/` - generated review queues for candidate captions, audited candidate corrections, missing sources, and legacy extraction QA.
 
@@ -16,6 +17,7 @@ Rebuild source-review artifacts after rebuilding `pipeline/`:
 ```bash
 python3 tools/build_extraction_review_artifacts.py
 python3 tools/merge_figure_candidate_audits.py
+python3 tools/render_audited_source_pages.py
 ```
 
 The first command writes:
@@ -31,6 +33,11 @@ After independent candidate review files are placed in `source_review/agent_audi
 - `source_review/FIGURE_CANDIDATE_AUDIT.csv` - normalized raw audit rows from each reviewer.
 - `source_review/FIGURE_QUEUE_AUDIT_STATUS.csv` - one row per digitization queue item with recommended audited candidates or `no_valid_candidate_found`.
 - `source_review/FIGURE_CANDIDATE_AUDIT_SUMMARY.md` - coverage and status counts for the independent audit.
+
+The render command writes:
+
+- `figures/SOURCE_PAGE_RENDER_MANIFEST.csv` - one row per audited candidate label/page with the rendered source-page image path.
+- `figures/source_pages/*.png` - full PDF page renders containing candidate figures/tables. These are source-page photos, not final cropped panel clips.
 
 ## Required Provenance
 
@@ -53,3 +60,4 @@ Every completed digitization task must record these fields in the queue:
 Do not use a figure-derived value in a pooled table until the queue row has a source clip and a digitized-data file.
 Raw candidate captions are not source clips. They only identify pages and labels for manual clipping and verification.
 Rows marked `no_valid_candidate_found` in the queue audit should not be clipped unless a later full-text review identifies valid non-caption evidence.
+Rows in `figures/source_pages/` still need exact figure/table or panel cropping before they become final clip files.
