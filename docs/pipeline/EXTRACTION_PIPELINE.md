@@ -14,7 +14,7 @@ Use these files in this order:
 6. `data/literature/LITERATURE_MAP.csv` - compact generated index of screening status and local PDF paths.
 7. `data/literature/SOURCE_RETRIEVAL_LOG.csv` - hand-curated status for included sources that cannot yet be tied to a local PDF.
 8. `pipeline/EXTRACTION_WORKPLAN.csv` and `pipeline/DIGITIZATION_FIGURE_QUEUE.csv` - generated work queues; do not edit them as the upstream truth.
-9. `digitization/source_review/*.csv` - generated execution aids for candidate captions, audited candidate corrections, source retrieval, and legacy extraction QA.
+9. `digitization/source_review/*.csv` and `digitization/figures/FIGURE_CROP_MANIFEST.csv` - generated execution aids for candidate captions, audited candidate corrections, crop proposals, source retrieval, and legacy extraction QA.
 
 `data/screening/SCREENING_LOG.csv`, `data/screening/SCREENING_LOG_V2.csv`, and `data/screening/SCREENING_REVIEW_QUEUE.csv` are retained as historical working artifacts unless they are explicitly regenerated during a new screening pass.
 
@@ -28,6 +28,7 @@ python3 tools/build_extraction_review_artifacts.py
 python3 tools/merge_figure_candidate_audits.py
 python3 tools/render_audited_source_pages.py
 python3 tools/build_figure_visual_reaudit.py
+python3 tools/build_figure_crop_manifest.py
 ```
 
 The command writes:
@@ -63,6 +64,12 @@ The visual reaudit command writes:
 
 - `digitization/source_review/FIGURE_VISUAL_REAUDIT.csv` - accepted rendered candidates plus retained caption-level rejected candidates.
 - `digitization/source_review/FIGURE_VISUAL_REAUDIT_SUMMARY.md` - render verification, crop readiness, extractability class, and retained rejection counts.
+
+The crop-manifest command writes:
+
+- `digitization/figures/FIGURE_CROP_MANIFEST.csv` - accepted visual candidates with proposed crop paths and retained rejected candidates marked as not croppable.
+- `digitization/figures/FIGURE_CROP_SUMMARY.md` - crop status, review status, extractability, and caption-locator counts.
+- `digitization/figures/crop_review/*.png` - reproducible proposal images for human crop-box QA. These are not final cropped panel clips.
 
 To reorganize PDFs after changing final screening status, run:
 
@@ -111,6 +118,8 @@ Use `digitization/source_review/FIGURE_SOURCE_REVIEW.csv` only as the raw candid
 Use `digitization/figures/SOURCE_PAGE_RENDER_MANIFEST.csv` to find the rendered source-page image for each audited candidate. Files under `digitization/figures/source_pages/` are full-page photos for review and cropping; final clip files should still be saved under `digitization/figures/<source_id-prefix>__<response>__fig-<number>_panel-<letter>.png`.
 
 Use `digitization/source_review/FIGURE_VISUAL_REAUDIT.csv` as the bridge from source-page photos to final cropping. Rows marked `accepted_visual_candidate` are source-page verified but not cropped. Rows marked `retained_caption_rejected` preserve rejected candidates and should not enter clipping unless a later reviewer overturns the caption audit.
+
+Use `digitization/figures/FIGURE_CROP_MANIFEST.csv` as the reproducible crop-proposal worklist. Rows marked `auto_crop_proposal_created` point to files in `digitization/figures/crop_review/` and remain `needs_human_crop_box_qa` until a reviewer confirms or adjusts the exact panel/table boundary. Rows marked `retained_rejected_not_cropped` are retained for provenance and should stay outside extraction.
 
 Store clipped source images under:
 
@@ -163,6 +172,7 @@ Before using the PRISMA counts or extraction tables in manuscript text:
 - Rebuild figure-candidate audit overlays with `python3 tools/merge_figure_candidate_audits.py` after reviewer audit files are updated.
 - Render audited source pages with `python3 tools/render_audited_source_pages.py` before manual panel/table cropping.
 - Rebuild the visual reaudit with `python3 tools/build_figure_visual_reaudit.py` so accepted rendered candidates and retained rejected rows stay synchronized.
+- Rebuild crop proposals with `python3 tools/build_figure_crop_manifest.py` so crop-review images and retained rejected rows stay synchronized.
 - Confirm `pipeline/PIPELINE_QA_REPORT.md` has no blocking local-file or hash warnings.
 - Resolve any folder placements marked `folder_needs_review` in `pipeline/LITERATURE_ORGANIZATION_AUDIT.csv`.
 - Complete every required row in `pipeline/DIGITIZATION_FIGURE_QUEUE.csv`, using `digitization/source_review/FIGURE_QUEUE_AUDIT_STATUS.csv` as the audited label/page guide, before treating figure-derived values as extracted.

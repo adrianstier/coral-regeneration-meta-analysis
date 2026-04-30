@@ -7,6 +7,7 @@ Use `digitization/source_review/FIGURE_QUEUE_AUDIT_STATUS.csv` as the audited wo
 
 - `figures/` - clipped source panels or tables from PDFs.
 - `figures/source_pages/` - rendered PDF pages for audited figure/table candidates, used as the visual source for exact clipping.
+- `figures/crop_review/` - reproducible crop proposal images that require human crop-box QA before becoming final clips.
 - `data/` - digitized point data or table transcriptions.
 - `source_review/` - generated review queues for candidate captions, audited candidate corrections, missing sources, and legacy extraction QA.
 
@@ -19,6 +20,7 @@ python3 tools/build_extraction_review_artifacts.py
 python3 tools/merge_figure_candidate_audits.py
 python3 tools/render_audited_source_pages.py
 python3 tools/build_figure_visual_reaudit.py
+python3 tools/build_figure_crop_manifest.py
 ```
 
 The first command writes:
@@ -45,6 +47,12 @@ The visual reaudit command writes:
 - `source_review/FIGURE_VISUAL_REAUDIT.csv` - second-layer review rows for all accepted rendered candidates plus retained caption-level rejected candidates.
 - `source_review/FIGURE_VISUAL_REAUDIT_SUMMARY.md` - visual render verification, crop readiness, extractability class, and retained rejection counts.
 
+The crop-manifest command writes:
+
+- `figures/FIGURE_CROP_MANIFEST.csv` - one row per visual reaudit row, including crop proposal paths for accepted candidates and retained rejected rows marked as not croppable.
+- `figures/FIGURE_CROP_SUMMARY.md` - crop status, review status, extractability, and caption-locator counts.
+- `figures/crop_review/*.png` - deterministic crop proposal images. These are QA inputs, not final source clips.
+
 ## Required Provenance
 
 Every completed digitization task must record these fields in the queue:
@@ -67,4 +75,5 @@ Do not use a figure-derived value in a pooled table until the queue row has a so
 Raw candidate captions are not source clips. They only identify pages and labels for manual clipping and verification.
 Rows marked `no_valid_candidate_found` in the queue audit should not be clipped unless a later full-text review identifies valid non-caption evidence.
 Rows in `figures/source_pages/` still need exact figure/table or panel cropping before they become final clip files.
+Rows in `figures/crop_review/` still need human crop-box, panel-label, axis-unit, variance, and sample-size QA before entering pooled extraction.
 Rows marked `retained_caption_rejected` in the visual reaudit are intentionally kept as rejected evidence and should remain out of the crop queue.

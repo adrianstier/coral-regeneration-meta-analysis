@@ -34,6 +34,7 @@ audit_all_papers = load_module("audit_all_papers_module", "tools/audit_all_paper
 extraction_review = load_module("extraction_review", "tools/build_extraction_review_artifacts.py")
 figure_audit_merge = load_module("figure_audit_merge", "tools/merge_figure_candidate_audits.py")
 figure_visual_reaudit = load_module("figure_visual_reaudit", "tools/build_figure_visual_reaudit.py")
+figure_crop_manifest = load_module("figure_crop_manifest", "tools/build_figure_crop_manifest.py")
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -1007,6 +1008,81 @@ class ExtractionReviewArtifactTests(unittest.TestCase):
         self.assertEqual(rows[0]["extractability_class"], "quantitative_plot_candidate")
         self.assertEqual(rows[1]["reaudit_row_type"], "retained_caption_rejected")
         self.assertEqual(rows[1]["crop_readiness"], "do_not_crop_from_caption_audit")
+
+    def test_figure_crop_manifest_creates_reviewable_proposal_and_keeps_rejection(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_root = Path(tmp)
+            render_path = tmp_root / "digitization" / "figures" / "source_pages" / "source__page-001.png"
+            crop_dir = tmp_root / "digitization" / "figures" / "crop_review"
+            pdf_path = tmp_root / "paper.pdf"
+            render_path.parent.mkdir(parents=True)
+            pdf_path.write_bytes(b"%PDF-1.4\n")
+            try:
+                from PIL import Image, ImageDraw
+            except Exception as exc:  # pragma: no cover - test environment should provide Pillow.
+                self.skipTest(f"Pillow unavailable: {exc}")
+            image = Image.new("RGB", (200, 200), color=(255, 255, 255))
+            draw = ImageDraw.Draw(image)
+            draw.rectangle((35, 45, 130, 110), fill=(0, 0, 0))
+            draw.text((20, 125), "Figure 1", fill=(0, 0, 0))
+            image.save(render_path)
+
+            bbox_html = """<html><body><doc><page width="100" height="100">
+                <word xMin="10" yMin="65" xMax="30" yMax="72">Figure</word>
+                <word xMin="32" yMin="65" xMax="38" yMax="72">1</word>
+                <word xMin="40" yMin="65" xMax="70" yMax="72">Recovery</word>
+                </page></doc></body></html>"""
+            visual_rows = [
+                {
+                    "reaudit_row_type": "accepted_visual_candidate",
+                    "extractability_class": "quantitative_plot_candidate",
+                    "queue_id": "DIG-source-rate",
+                    "source_id": "source-1",
+                    "paper_title": "Paper.pdf",
+                    "response_type": "rate",
+                    "candidate_descriptor": "figure:Figure 1:p1",
+                    "candidate_type": "figure",
+                    "candidate_label": "Figure 1",
+                    "pdf_page": "1",
+                    "source_page_render": "digitization/figures/source_pages/source__page-001.png",
+                    "image_width": "200",
+                    "image_height": "200",
+                    "candidate_text": "Figure 1. Recovery rate.",
+                },
+                {
+                    "reaudit_row_type": "retained_caption_rejected",
+                    "extractability_class": "not_a_valid_visual_candidate",
+                    "queue_id": "DIG-source-survival",
+                    "source_id": "source-1",
+                    "paper_title": "Paper.pdf",
+                    "response_type": "survival",
+                    "candidate_type": "figure",
+                    "candidate_label": "Figure 2",
+                    "pdf_page": "2",
+                    "caption_rejection_reason": "wrong outcome",
+                },
+            ]
+            source_rows = [
+                {
+                    "queue_id": "DIG-source-rate",
+                    "candidate_descriptor": "figure:Figure 1:p1",
+                    "local_relpath": "paper.pdf",
+                }
+            ]
+
+            with patch.object(figure_crop_manifest, "ROOT", tmp_root), patch.object(
+                figure_crop_manifest, "CROP_REVIEW_DIR", crop_dir
+            ), patch.object(figure_crop_manifest, "run_pdftotext_bbox", return_value=(bbox_html, "")):
+                rows = figure_crop_manifest.build_crop_rows(visual_rows, source_rows)
+            crop_exists = (tmp_root / str(rows[0]["crop_path"])).exists()
+
+        self.assertEqual(rows[0]["crop_status"], "auto_crop_proposal_created")
+        self.assertEqual(rows[0]["crop_review_status"], "needs_human_crop_box_qa")
+        self.assertEqual(rows[0]["caption_locator_status"], "caption_bbox_found")
+        self.assertIn("digitization/figures/crop_review/", rows[0]["crop_path"])
+        self.assertTrue(crop_exists)
+        self.assertEqual(rows[1]["crop_status"], "retained_rejected_not_cropped")
+        self.assertEqual(rows[1]["crop_review_status"], "do_not_crop_from_caption_audit")
 
 
 if __name__ == "__main__":
