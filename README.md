@@ -16,3 +16,8 @@ The primary goal of this project is to systematically review and meta-analyze co
 
 ---
 *Follow PRISMA guidelines for all systematic review steps.*
+
+<!-- lab-xref -->
+## Lab cross-reference
+
+**Drive folder:** `…/Coral-Regeneration/Projects/15. Meta_Analysis_Healing_Growth_Reproduction_2025/` — Project **P15** (PRISMA meta-analysis). Feeds synthesis stats into the regeneration review (Manuscript **A**, repo [`adrianstier/coral-regen-review`](https://github.com/adrianstier/coral-regen-review)).
