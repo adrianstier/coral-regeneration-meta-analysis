@@ -1,0 +1,709 @@
+                                                                  Journal of Sea Research 141 (2018) 71–82
+
+
+                                                                  Contents lists available at ScienceDirect
+
+
+                                                                Journal of Sea Research
+                                                      journal homepage: www.elsevier.com/locate/seares
+
+
+
+
+Mortality, growth and regeneration following fragmentation of reef-forming                                                                                   T
+corals under thermal stress
+                      ⁎
+Marta Diasa, , Ana Ferreirab, Raúl Gouveiab, Rui Cerejaa,c, Catarina Vinagrea
+a
+  MARE – Marine and Environmental Sciences Centre, Faculdade de Ciências da Universidade de Lisboa, Campo Grande, 1749-016 Lisboa, Portugal
+b
+  Oceanário de Lisboa, Esplanada D. Carlos I, 1990-005 Lisboa, Portugal
+c
+  Instituto Dom Luiz, Faculdade de Ciências da Universidade de Lisboa, Campo Grande, 1749-016, Lisboa, Portugal
+
+
+
+
+A R T I C LE I N FO                                      A B S T R A C T
+
+Keywords:                                                Storms inﬂict damage to corals resulting in fragments that have the potential to regenerate thus contributing to
+Global climate change                                    the asexual reproduction of the parental colony. Extreme climatic events like these are predicted to increase in
+Thermal stress                                           the future due to ocean warming, which is also the primary cause of coral reef bleaching and consequent coral
+Coral regeneration                                       mortality in the tropical and subtropical seas. This way it is urgent to investigate the diﬀerential eﬀect of
+Bleaching
+                                                         warming over post-fragmentation and regeneration processes among the scleractinian hermatypic coral species.
+                                                         This study investigated the mortality, growth and regeneration capacity of nine reef-forming coral species of the
+                                                         Indo-Paciﬁc. Fragments were exposed to 26 °C, 30 °C, and 32 °C for 60 days. Half of these fragments was inﬂicted
+                                                         with one injury and the other half was used as control. Mortality, partial mortality, bleaching level, growth and
+                                                         regeneration of artiﬁcial injuries were assessed. Mortality increased with temperature, reaching 100% for most
+                                                         species after 60 days, at 32 °C, but Psammocora contigua which showed remarkably lower mortality (40%) and all
+                                                         coral fragments of Turbinaria reniformis and Galaxea fascicularis survived the experiment. Partial mortality was
+                                                         lowest for P. contigua, T. reniformis, and G. fascicularis even at 32 °C. These three coral species were also the most
+                                                         resistant to bleaching. Growth rates decreased with temperature, with the exception of G. fascicularis that
+                                                         maintained similar growth rates at 26 °C and 30 °C. Regeneration rates generally increased with temperature. It
+                                                         was concluded that P. contigua, T. reniformis, and G. fascicularis fragments show higher capacity to withstand
+                                                         higher temperatures.
+
+
+
+
+1. Introduction                                                                              1990), impaired healing (Meesters & Bak, 1993), and increased sus-
+                                                                                             ceptibility to disease (Harvell et al., 1999). Bleaching makes the host
+    Corals are dominant species of tropical coral reef ecosystems and                        organism white due to a loss of symbionts, which allows the underlying
+have a unique and complex symbiotic relationship with dinoﬂagellate                          skeleton to be visible (Baker et al., 2008). If thermal stress is sustained,
+microalgae (zooxanthellae), contained within their gastrodermal cells                        this may result in widespread coral mortality (Brown et al., 2002;
+(Hoegh-Guldberg, 1999). The ability of scleractinian corals to deposit                       Szmant & Gassman, 1990). Mass bleaching episodes have the potential
+calcium carbonate skeletons and to generate the physically complex                           to dramatically change coral community structure (Gleason, 1993;
+reef structure is attributed to these dinoﬂagellates (Meehan &                               Glynn, 1993) and in severe cases cause population collapse and local
+Ostrander, 1997).                                                                            extinction (Aronson et al., 2000).
+    Global climate change is leading to both rising sea surface tem-                             An increase in the frequency and intensity of bleaching events is
+peratures and ocean acidiﬁcation, jeopardizing coral reefs survival                          expected (Eakin et al., 2009; Heron et al., 2016), given that sea tem-
+(Carpenter et al., 2008; Padilla-Gamiño et al., 2013). However, it has                       peratures surrounding coral reefs are projected to increase by 1–3.7 °C
+been shown by recent studies that the warming of tropical oceans is a                        by the year 2100 (IPCC, 2014). Globally, thermally induced bleaching
+much more imminent threat to coral reefs' survival than is ocean                             due to climate change was predicted to occur annually in most oceans
+acidiﬁcation (e.g., (Chua et al., 2013; Frieler et al., 2012)). The reef-                    by 2040 (Crabbe, 2008; Hoegh-Guldberg, 1999; van Hooidonk &
+building corals that undergo bleaching have reduced growth rates and                         Huber, 2009). Associated with ongoing increases of tropical sea surface
+reproductive capacity (Baird & Marshall, 2002; Szmant & Gassman,                             temperatures (SST) are increases in the frequency and maximum
+
+
+
+    ⁎
+        Corresponding author.
+        E-mail address: maddias@fc.ul.pt (M. Dias).
+
+https://doi.org/10.1016/j.seares.2018.08.008
+Received 26 January 2018; Received in revised form 3 August 2018; Accepted 30 August 2018
+Available online 01 September 2018
+1385-1101/ © 2018 Elsevier B.V. All rights reserved.
+M. Dias et al.                                                                                                           Journal of Sea Research 141 (2018) 71–82
+
+
+intensity of categories 4 and 5 storms (0–25%), and increases in tropical         reniformis, G. fascicularis, and P. contigua) (Marshall & Baird, 2000), and
+cyclones rainfall rates (5–20%) (Christensen et al., 2013; IPCC, 2014).           diﬀerent colony morphology, a characteristic that has been proven to
+    Due to wave action (Stimson, 1978), storm surge (Randall &                    have inﬂuence in coral species susceptibility to thermal stress (Loya
+Eldredge, 1977), and touristic activities (e.g. diving, snorkeling, and           et al., 2001). Coral species identiﬁcation was made according to Veron
+trampling; (Davenport & Davenport, 2006)) coral fragments may be-                 (Veron, 2000).
+come detached from parent colonies and disperse across the reef
+(Highsmith, 1982). Increased storminess should favor the ability to               2.2. Acclimation conditions and experimental setup
+propagate eﬀectively by fragmentation (Lasker, 1990). Many branching
+corals are routinely broken and scattered about during storms (e.g.,                  The experiments were conducted at Oceanário de Lisboa, Portugal
+(Highsmith, 1980; Tunnicliﬀe, 1981)). Asexual reproduction by frag-               (www.oceanario.pt).
+mentation of plating and massive coral forms has also been noticed                    Twenty replicate fragments were cut from each coral colony using a
+(Foster et al., 2007).                                                            pincer or a pair of pliers. For the branching coral colonies the fragments
+    Fragmentation of established colonies resulting in the formation of           were cut approximately 20–40 mm in length and the fragments for the
+new coral colonies is known as an extremely important asexual mode of             plate, encrusting and massive corals were obtained by cutting ap-
+reproduction for many of the major reef-building corals (Bruno, 1998;             proximately 30 mm sided squares. A single colony per coral species was
+Highsmith, 1982). Fragmentation by corals with high growth rates re-              targeted in order to eliminate sources of variation from other factors
+sults in their domination of certain reef zones (Tunnicliﬀe, 1981), rapid         that aﬀect thermal susceptibility (Desalvo et al., 2008) such as tissue
+growth of reefs on which these corals are abundant (Glynn et al., 1994),          thickness (Loya et al., 2001), genetic constitution of the symbiotic mi-
+and rapid recovery from disturbances (Glynn & Fong, 2006; Shinn,                  croalgae (Symbiodinium spp.) (Rowan et al., 1997), metabolic rates
+1976). Fragmentation may be adaptive (Cook, 1979; Highsmith, 1982;                (Gates & Edmunds, 1999), mucus production rates (Fitt et al., 2009),
+Highsmith et al., 1980), given that a considerable number of the most             tissue concentration of ﬂuorescent pigments (Salih et al., 1998), and
+successful corals have incorporated fragmentation into their life his-            thermal history (Brown et al., 2002). All fragments were placed over
+tories. Asexual reproduction is probably the main process involved in             egg crate panels in the coral stock aquarium until acclimation to the
+the origin of new coral reefs (Glynn, 1993).                                      experimental aquarium.
+    There is interspeciﬁc variability in reef-building corals' suscept-               The live wet mass of each coral fragment was obtained by blotting it
+ibility to increased temperature (McClanahan et al., 2007; Seveso et al.,         with a paper towel to remove excess seawater, then weighing it in air on
+2014). Their susceptibility depends on colony morphotype (Brandt,                 an electronic balance to the nearest 0.01 g (Titlyanov et al., 2005). Each
+2009), tissue thickness (Loya et al., 2001), colony size (Shenkar et al.,         fragment was glued with epoxy putty to the top of a pre-weighed and
+2005), the capacity to transfer mass and heat (van Woesik & Jordán-               numbered nylon expansion anchor. Placement of the fragment varied
+Garza, 2011), coral species (Hoegh-Guldberg & Salvat, 1995; Marshall              by morphology with the branching fragments in vertical position and
+& Baird, 2000), genetic variation between coral populations from                  the plating, encrusting and massive fragments placed in horizontal
+widely separated geographic regions (Coles et al., 1976; Glynn et al.,            positions. Then, the set (coral fragment + anchor) was weighed to
+1988; Rowan & Knowlton, 1995), and the genetic constitution of the                remove the epoxy putty weight oﬀ the calculations and placed back
+symbiotic microalgae (Symbiodinium spp.) (Rowan et al., 1997).                    over egg crate panels in the coral stock aquarium.
+    In many coral bleaching reports, there is noticeable variation in the             After one day in the coral stock aquarium, the sets were acclimated
+extent of bleaching, as some colonies remain pigmented but adjacent               1 °C per hour above the temperature of the coral stock aquarium
+ones of the same or diﬀerent species undergo bleaching (Baker et al.,             (25.1 ± 0.4). Coral reef-ﬂat communities can experience temperature
+2008; Montano et al., 2010; Rowan et al., 1997). These diﬀerent sus-              changes of 1 °C hour−1 during spring tides (Berkelmans & Willis, 1999),
+ceptibilities lead to major structural shifts in coral communities                and most of the coral species in this study colonize the reef-ﬂat zone
+(Aronson et al., 2004; Ostrander et al., 2000), where hardier corals (i.e.        (Brown & Suharsono, 1990), so we used this heating rate to be similar
+massive and encrusting thick-tissued species) will eventually replace             to the conditions that most of these corals would experience in their
+less resilient corals (i.e. branched and thin-tissued species) (Kayanne           natural environment. In order to standardize, this heating rate was
+et al., 1999; van Woesik et al., 2011).                                           applied for all the coral species. The coral fragments were placed 2 cm
+    The aim of this work was to evaluate how elevated temperatures                apart from one another and arranged by coral species. Fragments were
+will aﬀect the mortality, growth and regeneration after fragmentation             exposed to three temperature treatments: control 26 °C (26.1 ± 0.2
+of an important number of reef-building corals of the Indo-Paciﬁc                 SD), 30 °C (30.2 ± 0.5 SD) and 32 °C (32.2 ± 0.5 SD) seawater tem-
+oceans. Such an evaluation is crucial to understand the diﬀerential               peratures during sixty days, with the duration of one, ﬁve and seven
+vulnerability of reef-forming coral species to global climate change.             hours of acclimation, respectively.
+                                                                                      Ten coral fragments of each species were used as controls (un-
+2. Material and methods                                                           damaged) and the other ten fragments were inﬂicted with circular in-
+                                                                                  juries designed to simulate damage by predators, after being acclimated
+2.1. Study species                                                                to the experimental aquarium. These artiﬁcial injuries were 3 mm in
+                                                                                  diameter and were done using a Dremel rotatory tool with a cutting
+     This study evaluated nine Indo-speciﬁc coral species with con-               disk. Only one injury was inﬂicted to each coral fragment in their
+trasting morphologies: four branching species (Acropora tenuis,                   middle section to avoid edge eﬀects (Supplementary material – Image
+Pocillopora damicornis, Stylophora pistillata, and Psammocora contigua),          1). After these procedures, all fragments were placed over two
+three plating species, (Montipora capricornis brown morphotype (BM),              40 × 40 cm egg crate panels suspended 15 cm below the water surface
+Turbinaria reniformis, and Echinopora lamellosa), one encrusting species          of the experimental aquarium.
+(Montipora capricornis green morphotype (GM)), and one massive spe-                   The experimental aquarium (400 L) was ﬁtted with a sump (280 L)
+cies (Galaxea fascicularis). All coral colonies used in this study have           ﬁlled with bioballs for biological ﬁltration in which two Fluval M300
+been kept in captivity at Oceanário de Lisboa (Portugal) for several              heaters, as well as a Hailea 500 chiller controlled water temperature.
+years, which gave us knowledge on their thermal history.                          For water circulation purposes, an AquaMedic OceanRunner 3500
+     These coral species were chosen in order to use the largest number           pump provided a turnover rate of 5 times per hour. An AquaMedic
+of species available at Oceanário de Lisboa with diﬀerent levels of               Turboﬂotor 5000 Shorty protein skimmer helped keeping nutrient
+bleaching susceptibility: severe (A. tenuis, P. damicornis, and S. pis-           concentrations low and increased surface water motion in the aquarium
+tillata), high (M. capricornis), moderate (E. lamellosa), and low (T.             was accomplished by using an AquaClear 110 powerhead. Lighting
+
+                                                                             72
+M. Dias et al.                                                                                                               Journal of Sea Research 141 (2018) 71–82
+
+
+Table 1
+Summary of results of PERMANOVA permutation tests applied to report the eﬀects of temperature, coral species and presence/absence of injury in coral fragments'
+mortality, partial mortality, growth and regeneration rates. Signiﬁcant diﬀerences are marked a bold.
+                                                 df                           SS                        MS                      Pseudo-F                   p(perm)
+
+                                                 Mortality
+  Temperature                                    2                            6.9 × 105                 3.5 × 105               5.98 × 102                 0.0001
+  Coral species                                  8                            5.4 × 105                 6.7 × 104               1.17 × 102                 0.0001
+  Injury                                         1                            3.9 × 102                 3.9 × 102               0.67                       0.5537
+  Temperature × Coral species                    16                           6.3 × 105                 4.0 × 104               68.43                      0.0001
+  Temperature × Injury                           2                            3.0 × 103                 1.5 × 102               2.59                       0.0193
+  Coral species × Injury                         8                            6.8 × 103                 8.5 × 102               1.50                       0.0749
+  Temperature × Coral species × Injury           16                           2.6 × 104                 1.6 × 103               2.85                       0.0001
+
+                                                 Partial mortality
+  Temperature                                    2                            6.6 × 105                 3.3 × 105               4.80 × 102                 0.0001
+  Coral species                                  8                            5.3 × 105                 6.6 × 104               96.10                      0.0001
+  Injury                                         1                            1.2 × 103                 1.2 × 103               1.72                       0.1610
+  Temperature × Coral species                    16                           5.7 × 105                 3.6 × 104               51.93                      0.0001
+  Temperature × Injury                           2                            1.9 × 103                 9.5 × 102               1.37                       0.2282
+  Coral species × Injury                         8                            6.3 × 103                 7.9 × 102               1.14                       0.2918
+  Temperature × Coral species × Injury           16                           2.0 × 104                 1.3 × 103               1.89                       0.0009
+
+                                                 Growth rate
+  Temperature                                    2                            26.0                      13.0                    3.21 × 102                 0.0001
+  Coral species                                  8                            25.0                      3.1                     77.35                      0.0001
+  Injury                                         1                            7.9 × 10−4                7.9 × 10−4              1.94 × 10−2                0.8929
+  Temperature × Coral species                    8                            11.1                      1.4                     34.38                      0.0001
+  Temperature × Injury                           2                            0.3                       0.1                     3.36                       0.0367
+  Coral species × Injury                         8                            0.7                       8.7 × 10−2              2.15                       0.0307
+  Temperature × Coral species × Injury           8                            0.5                       6.3 × 10−2              1.56                       0.1376
+
+                                                 Regeneration rate
+  Temperature                                    2                            2.7                       1.3                     26.39                      0.0001
+  Coral species                                  8                            6.2                       0.8                     15.35                      0.0001
+  Temperature × Coral species                    16                           4.1                       0.3                     5.08                       0.0001
+
+
+
+requirements similar to the coral stock aquarium were attained by using             2.3.2. Growth rate measurements
+a Litpa Jet5 ﬂoodlight with an AquaMedic 400 W HQi lamp (13,000 K)                      The coral fragments were weighted both in the ﬁrst and last day of
+on a 12 h light/ 12 h dark cycle. An air-stone was used in the aquarium             the experiment in order to calculate the growth rates for each coral
+to ensure good oxygen concentrations.                                               fragment. The growth rate of the coral fragments was calculated using
+    Photosynthetically Active Radiation (PAR) levels were measured                  the formula:
+with a spheric quantic sensor (LI-193SA) and a data logger (1400
+                                                                                    μ = (m₁ − m₀/ m₀ × Δt ) × 100
+model) and varied between 320 and 345 μE.m−2 s−1 in the
+400–700 nm waveband. Water quality parameters such as water tem-                       where, μ is the growth rate measured in g g−1 day−1, m0 is initial
+perature, pH and salinity were measured on a daily basis. Water sam-                weight, m1 is the weight at the end of the experiment, and Δt is the time
+ples were also weekly analyzed to determine ammonium, nitrites, ni-                 between the two measurements of weight (Brinkhuis, 1985).
+trates, calcium concentration as well as oxygen concentration and
+saturation and alkalinity. These parameters were maintained as follow:              2.3.3. Regeneration rate of injuries
+pH at 8.2–8.3, salinity at 33–33.5 psu, alkalinity approximately at                     The size of the injury was measured immediately after their inﬂic-
+100 mg l−1, nitrites between 0.002 and 0.005 mg l−1, nitrates between               tion and then every 20 days until the end of the experiment. Injury
+0 and 2 mg l−1, calcium concentration between 389 and 401 mg l−1,                   recovery was quantiﬁed by recording the diameter of each injury with a
+oxygen saturation at 104% and oxygen concentration between 6.5 and                  steel caliper calibrated in millimeters. The tissue regeneration rates (Ts)
+7.1 mg l−1. Salinity was maintained with daily balanced additions of                were obtained by calculating, the diﬀerence between the areas of the
+reverse osmosis freshwater and ﬁltered artiﬁcial seawater. Whenever                 recovered surfaces (Ra) for any given interval (T1 and T0 in days), as
+alkalinity levels were below 100 mg l−1 sodium bicarbonate was added                follows (Cróquer et al., 2002):
+to the system. Aquarium cleaning routines were done as required to
+                                                                                    Ts = [Ra (T ₁) − Ra (T ₀)]/(T ₁ − T ₀)
+avoid algal growth, and these included expansion anchors cleaning with
+a toothbrush and egg crate replacement, at least 3 times a week.
+                                                                                    2.4. Statistical analyses
+
+2.3. Analytical procedures                                                             A permutational multivariate analysis of variance (PERMANOVA)
+                                                                                    based on Euclidean distances (Anderson, 2001) was used to test whe-
+2.3.1. Mortality assessments and bleaching level                                    ther coral fragments' mortality, partial mortality, growth and re-
+    Mortality was quantiﬁed as the percentage of dead fragments and                 generation rates were aﬀected by temperature and coral species. PER-
+partial mortality was visually quantiﬁed by estimating the percentage               MANOVA was also used to test whether coral fragments' mortality,
+of dead area in the coral fragments and put it into four classes: [0,25%[,          partial mortality and growth rate were aﬀected by the presence/ab-
+[25,50%[, [50,75%[and [75,100%]. The bleaching level of each coral                  sence of injury. Values of the pseudo-F statistic were computed using
+species was visually assessed according to four categories: normal, pale,           9999 permutations. Analyses were performed using PERMANOVA+ for
+bleached and dead (Jokiel & Coles, 1974). Mortality and bleaching                   PRIMER v6 (PRIMER-E Ltd., Plymouth). As PERMANOVA is based on
+were assessed every 20 days until the end of the experiment and always              permutations it is more robust to the assumptions of ANOVA
+by the same person to remove observer bias.                                         (Anderson, 2001). Post-hoc pair-wise comparisons were then performed
+
+                                                                              73
+M. Dias et al.                                                                                                              Journal of Sea Research 141 (2018) 71–82
+
+
+using PERMANOVA to compare between temperature experiments and                      presented low percentage of partial mortality in the same class (5% and
+coral species. Diﬀerences were considered signiﬁcant at p < .05.                    15% in the [25,50[class on the 60th day for T. reniformis and G. fasci-
+                                                                                    cularis, respectively, Fig. 2d and f).
+3. Results
+                                                                                    3.1.3. Bleaching level
+    The presence/absence of injury had no eﬀect on the mortality,                       At 26 °C, almost all the coral species remained with their normal
+partial mortality and growth rate of the fragment (PERMANOVA                        coloration throughout the 60 days experiment (Fig. 3). A. tenuis was the
+p > .05, Table 1) and therefore it was not considered as a factor in                most sensitive species with 10% of their coral fragments dead by the
+further analysis, with no separation between control and injured frag-              20th day of the experiment (Fig. 3a).
+ments.                                                                                  At 30 °C, the fragments of A. tenuis, M. capricornis (GM), E. lamellosa,
+                                                                                    and G. fascicularis remained normal throughout the experiment (Fig. 3a,
+3.1. Mortality and bleaching level                                                  c, e and f). Seventy ﬁve percent of the fragments of M. capricornis (BM)
+                                                                                    and P. contigua were pale on the 60th day of experiment, whereas the
+3.1.1. Mortality                                                                    ones of T. reniformis were completely paled on the 40th day (Fig. 3b, d
+     Mortality was signiﬁcantly aﬀected by the independent eﬀects of                and i). A decrease in the percentage of bleached fragments was evident
+temperature and coral species (PERMANOVA p < .05, Table 1). There                   in P. damicornis and S. pistillata fragments since the 20th day (80% and
+was also a signiﬁcant eﬀect of the interactions of temperature and coral            5%, respectively) due to them succumbing to mortality that reached the
+species (PERMANOVA p < .05, Table 1).                                               100% on the 60th day of the experiment (Fig. 3g and h).
+     Coral fragments' mortality presented signiﬁcant diﬀerences among                   At 32 °C, the coral species A. tenuis, M. capricornis (BM), M. capri-
+temperatures (PERMANOVA p < .05, Table 1), with the exception of                    cornis (GM), E. lamellosa, P. damicornis, S. pistillata, and P. contigua in-
+A. tenuis fragments that showed similar mortality between 26 °C and                 creased in the bleaching level since the 20th day, whereas the coral
+30 °C (PERMANOVA pair-wise p > .05, Fig. 1a).                                       species G. fascicularis only presented it since the 40th day, with all these
+     The fragments of A. tenuis presented mortality at both 26 °C and               species reaching the dead level, exception for G. fascicularis (Fig. 3a-c
+32 °C, however, at 26 °C they presented 10% mortality and maintained                and e-i). The coral species T. reniformis only reached the pale level
+it stable until the end of the experiment (Fig. 1a). At 30 °C, A. tenuis did        (Fig. 3d).
+not show any mortality, whereas at 32 °C it perished on the 60th day
+(Fig. 1a).                                                                          3.2. Growth rate
+     Acropora tenuis, P. damicornis, and S. pistillata had signiﬁcantly
+greater mortality since the 20th day (15% - 25%) than all other coral                   In Table 2, not available (NA) indicates that the coral fragments of a
+species at 32 °C (PERMANOVA pair-wise p < .05, Fig. 1), but did not                 speciﬁc coral species were dead before the end of a given temperature
+vary among each other (PERMANOVA pair-wise p > .05, Fig. 1a, g and                  experiment.
+h).                                                                                     Temperature signiﬁcantly impacted growth rates (PERMANOVA
+                                                                                    p < .05, Table 1) with the highest growth rates of all coral species
+3.1.2. Partial mortality                                                            observed at 26 °C, except for G. fascicularis. This species growth rate
+    Partial mortality was signiﬁcantly aﬀected by the independent ef-               was similar at 26 °C and 30 °C (PERMANOVA pair wise p > .05;
+fects of temperature and coral species (PERMANOVA p < .05,                          Table 2). Each of the other coral species showed signiﬁcant intraspeciﬁc
+Table 1). There was also a signiﬁcant eﬀect of the interactions of                  diﬀerences among temperatures (PERMANOVA pair wise p < .05),
+temperature and coral species (PERMANOVA p < .05, Table 1).                         with the exception of P. contigua that had its growth rate impacted in
+    Coral fragments' partial mortality presented signiﬁcant diﬀerences              the same way at 30 °C and 32 °C (PERMANOVA pair wise p > .05;
+among temperatures (PERMANOVA p < .05, Table 1), with the ex-                       Table 2).
+ceptions of A. tenuis and T. reniformis fragments. A. tenuis showed si-                 At 26 °C, A. tenuis and P. contigua had the highest growth rates
+milar partial mortality between 26 °C and 30 °C, whereas T. reniformis              (PERMANOVA pair wise p < .05) (1.64 ± 0.38 g g−1 day−1 and
+showed it among all temperatures (PERMANOVA pair-wise p > .05,                      1.54 ± 0.32 g g−1 day−1, respectively; PERMANOVA pair wise
+Fig. 2a and d).                                                                     p > .05), whereas G. fascicularis displayed the lowest growth rates
+    The fragments of A. tenuis presented partial mortality in the                   (0.28 ± 0.08 g g−1 day−1, PERMANOVA pair wise p < .05; Table 2).
+[75,100] class at both 26 °C and 32 °C, however, at 26 °C they presented            At     30 °C,    A.   tenuis    had    the     highest    growth    rates
+very low percentage and maintained it stable until the end of the ex-               (0.57 ± 0.12 g g−1 day−1, PERMANOVA pair wise p < .05), whereas
+periment (Fig. 2a). At 30 °C, A. tenuis only started to show partial                E. lamellosa and M. capricornis (GM) displayed the lowest growth rates
+mortality on the 40th day, whereas at 32 °C it started on the 20th day              (PERMANOVA pair wise p < .05) (0.17 ± 0.06 g g−1 day−1 and
+and with higher partial mortality (Fig. 2a).                                        0.14 ± 0.05 g g−1 day−1, respectively; PERMANOVA pair wise
+    Acropora tenuis, P. damicornis, and S. pistillata had signiﬁcantly              p > .05; Table 2). At 32 °C, P. contigua had the highest growth rates
+greater partial mortality since the 20th day (20% - 25% in the [75,100]             (0.42 ± 0.10 g g−1 day−1, PERMANOVA pair wise p < .05), whereas
+class) than all other coral species at 32 °C (PERMANOVA pair-wise                   T.      reniformis    displayed      the     lowest      growth     rates
+p < .05, Fig. 2), but did not vary among each other (PERMANOVA                      (0.11 ± 0.06 g g−1 day−1, PERMANOVA pair wise p < .05; Table 2).
+pair-wise p > .05, Fig. 2a, g and h).
+    Montipora capricornis (GM) and E. lamellosa fragments presented                 3.3. Regeneration rate
+intermediate levels of partial mortality when compared with the other
+coral species in study (PERMANOVA pair-wise p < .05, Fig. 2), but did                  In supplementary material 1, not available (NA) was used in the
+not vary among each other (PERMANOVA pair-wise p > .05, Fig. 2c                     time points after regeneration of all the coral fragments for a given
+and e). These coral species presented low percentage of partial mor-                coral species and when the coral fragments died.
+tality in the same class (5% and 30% in the [75,100] class on the 40th                 Regeneration rate was signiﬁcantly aﬀected by the independent
+day for M. capricornis (GM) and E. lamellosa, respectively, Fig. 2c and e).         eﬀects of temperature and coral species (PERMANOVA p < .05,
+    Turbinaria reniformis and G. fascicularis fragments had signiﬁcantly            Table 1). There was also a signiﬁcant eﬀect of the interactions of
+less partial mortality than all other coral species at 32 °C (PERMANOVA             temperature and coral species (PERMANOVA p < .05, Table 1).
+pair-wise p < .05, Fig. 2), but did not vary between each other                        Regeneration rates of M. capricornis (BM), G. fascicularis, and P.
+(PERMANOVA pair-wise p > .05, Fig. 2d and f). These coral species                   contigua increased from the 26 °C experiment (PERMANOVA pair wise
+
+                                                                               74
+M. Dias et al.                                                                                                  Journal of Sea Research 141 (2018) 71–82
+
+
+
+
+                 Fig. 1. Mortality of the coral species' fragments studied throughout the three temperature experiments.
+
+
+
+                                                                   75
+M. Dias et al.                                                                                                              Journal of Sea Research 141 (2018) 71–82
+
+
+
+
+Fig. 2. Partial mortality of the coral species' fragments studied throughout the three temperature experiments separated in percentage classes [0,25%[, [25,50%[,
+[50,75%[and [75,100%].
+
+                                                                               76
+M. Dias et al.                                                                                                     Journal of Sea Research 141 (2018) 71–82
+
+
+
+
+                 Fig. 3. Bleaching level of the coral species' fragments studied throughout the three temperature experiments.
+
+
+                                                                      77
+M. Dias et al.                                                                                                              Journal of Sea Research 141 (2018) 71–82
+
+
+Table 2                                                                             susceptibility to thermal stress during the study, displaying more
+Coral fragments' average growth rate ± standard deviation in the three tem-         bleaching and tissue loss early in the experiment compared to other
+perature experiments (g g−1 day−1). NA – not available.                             species. In ﬁeld studies, branching acroporids (e.g. Acropora spp.) and
+  Species                      26 °C          30 °C            32 °C                pocilloporids (e.g. Pocillopora damicornis and Stylophora pistillata) are
+                                                                                    the taxa most sensitive to bleaching stress, usually suﬀering high
+  Acropora tenuis              1.64 ± 0.38    0.57 ± 0.12      NA                   mortality, particularly in the Indo-Paciﬁc (Fujioka, 1999; Marshall &
+  Montipora capricornis (BM)   0.92 ± 0.20    0.34 ± 0.21      NA
+                                                                                    Baird, 2000). T. reniformis only presented partial mortality by the 40th
+  Montipora capricornis (GM)   0.79 ± 0.20    0.14 ± 0.05      NA
+  Turbinaria reniformis        0.56 ± 0.33    0.24 ± 0.09      0.11 ± 0.06          day at 30 °C and at the end of the 32 °C experiment, and both G. fas-
+  Echinopora lamellosa         0.51 ± 0.36    0.17 ± 0.06      NA                   cicularis and P. contigua only presented it at the end of the 32 °C ex-
+  Galaxea fascicularis         0.28 ± 0.08    0.28 ± 0.10      0.20 ± 0.09          periment, indicating that these coral species fragments are most re-
+  Pocillopora damicornis       1.23 ± 0.23    NA               NA
+                                                                                    sistant to thermal stress than the other coral species fragments in study.
+  Stylophora pistillata        0.76 ± 0.19    NA               NA
+  Psammocora contigua          1.54 ± 0.32    0.41 ± 0.13      0.42 ± 0.10
+                                                                                    In the ﬁeld, Turbinaria, Galaxea, and Psammocora are considered re-
+                                                                                    sistant to bleaching displaying low mortality when compared with
+                                                                                    other taxa, with their unbleached colonies generally surrounded by
+Table 3                                                                             bleached colonies of other taxa (Bhagooli & Hidaka, 2003; Marshall &
+Coral fragments' average regeneration rate ± standard deviation in the three        Baird, 2000; Stimson et al., 2002).
+temperature experiments (mm2 day−1) measured until complete regeneration                The discoloration evidenced by the corals in this study resulted from
+or the last time point they were still alive. For more information see              either the loss of their zooxanthellae, the degradation of their photo-
+Supplementary material – Table 1.                                                   synthetic pigments, or a combination of both, with the extent of their
+  Species                      26 °C          30 °C            32 °C                bleaching and ultimately their mortality possibly being considered as
+                                                                                    good stress indicators (Glynn, 1993; Hoegh-Guldberg, 1999). At 30 °C,
+  Acropora tenuis              0.23 ± 0.09    0.42 ± 0.22      0.30 ± 0.14          the coral species M. capricornis (BM), T. reniformis, and P. contigua
+  Montipora capricornis (BM)   0.24 ± 0.16    0.69 ± 0.21      0.51 ± 0.27
+                                                                                    showed color attenuation although never reaching the bleached level,
+  Montipora capricornis (GM)   0.17 ± 0.03    0.16 ± 0.07      0.09 ± 0.07
+  Turbinaria reniformis        0.16 ± 0.10    0.35 ± 0.16      0.52 ± 0.16          whereas P. damicornis and S. pistillata reached the bleached level and
+  Echinopora lamellosa         0.30 ± 0.11    0.58 ± 0.27      0.84 ± 0.18          complete mortality. These ﬁndings make us consider that M. capricornis
+  Galaxea fascicularis         0.30 ± 0.06    0.73 ± 0.27      0.88 ± 0.48          (BM), T. reniformis, and P. contigua fragments probably presented higher
+  Pocillopora damicornis       0.40 ± 0.13    0.50 ± 0.25      0.13 ± 0.02          levels of stress at 30 °C than at 26 °C, displayed as color attenuation at
+  Stylophora pistillata        0.65 ± 0.29    0.71 ± 0.32      0.46 ± 0.13
+  Psammocora contigua          0.22 ± 0.10    0.59 ± 0.27      0.63 ± 0.49
+                                                                                    30 °C, and that P. damicornis and S. pistillata are highly susceptible to
+                                                                                    thermal stress since they were the only ones with bleached fragments
+                                                                                    and complete mortality at 30 °C over the course of 60 days. At 32 °C,
+p < .05, Table 3) to both 30 °C and 32 °C experiments (PERMANOVA                    most of the coral species died, except for T. reniformis, G. fascicularis,
+pair wise p > .05, Table 3). A. tenuis regeneration rate only was sig-              and P. contigua, however, the time interval in which they reached
+niﬁcantly diﬀerent between 26 °C and 30 °C, whereas S. pistillata                   complete mortality varied interspeciﬁcally. T. reniformis and G. fasci-
+showed it between 30 °C and 32 °C (PERMANOVA pair wise p < .05,                     cularis showed no mortality throughout all the experiment and only
+Table 3). T. reniformis and E. lamellosa regeneration rates were sig-               40% of P. contigua fragments were dead at the end of this experiment.
+niﬁcantly diﬀerent among all temperature experiments (PERMANOVA                     These ﬁndings make us consider these three species as highly tolerant to
+pair wise p < .05, Table 3), both M. capricornis (GM) and P. damicornis             thermal stress due to their null or low mortality over the course of
+regeneration rates decreased signiﬁcantly at 32 °C (PERMANOVA pair                  60 days. The bleaching level of all coral species was highest at 32 °C.
+wise p < .05, Table 3).                                                             This can be explained by the higher thermal stress present at higher
+     At 26 °C, the fragments of S. pistillata presented the highest re-             temperatures (Glynn, 1984; Goreau et al., 2000).
+generation rates (0.65 ± 0.29 mm2 day−1, PERMANOVA pair wise                            The hierarchy of species susceptibility to thermal stress presented
+p < .05), whereas the lowest regeneration rate was presented by M.                  here: (A. tenuis, P. damicornis, S. pistillata) > M. capricornis
+capricornis (BM), T. reniformis, and M. capricornis (GM) fragments                  (BM) > (M. capricornis (GM), E. lamellosa) > P. contigua > (T. re-
+(PERMANOVA pair wise p < .05) (0.24 ± 0.16 mm2 day−1,                               niformis, G. fascicularis) is in accordance to the ones observed in other
+0.16 ± 0.10 mm2 day−1 and 0.17 ± 0.03 mm2 day−1 respectively;                       studies with species of the Indo-Paciﬁc (Marshall & Baird, 2000;
+PERMANOVA pair wise p > .05; Table 3). At 30 °C, G. fascicularis, S.                Stimson et al., 2002).
+pistillata, M. capricornis (BM), P. contigua, E. lamellosa, and P.                      According to our results, coral survival declined signiﬁcantly at
+damicornis had the highest regeneration rates (PERMANOVA pair wise                  32 °C with an increase in bleaching level and mortality with increasing
+p < .05) (0.73 ± 0.27 mm2 day−1, 0.71 ± 0.32 mm2 day−1, 0.69 ±                      exposure, although it had remained high at 26 °C and 30 °C. A probable
+ 0.21 mm2 day−1, 0.59 ± 0.27 mm2 day−1, 0.58 ± 0.27 mm2 day−1,                      explanation could be related to corals' bleaching temperature threshold,
+0.50 ± 0.25 mm2 day−1 respectively; PERMANOVA pair wise                             which in many regions is close to 31 °C (Glynn, 1984; Goreau et al.,
+p > .05), whereas M. capricornis (GM) displayed the lowest regenera-                2000), thus conﬁrming the high bleaching level and mortality observed
+tion rates (0.16 ± 0.07 mm2 day−1, PERMANOVA pair wise p < .05,                     at 32 °C. Our results are also in accordance with those of Stimson et al.
+Table 3). At 32 °C, the fragments of E. lamellosa, G. fascicularis, and P.          (Stimson et al., 2002) who reported high mortalities for Acropora spp.,
+contigua had the highest regeneration rates (PERMANOVA pair wise                    Pocillopora damicornis, and Stylophora pistillata and low mortalities for
+p < .05) (0.84 ± 0.18 mm2 day−1, 0.88 ± 0.48 mm2 day−1 and                          Turbinaria spp., Galaxea fascicularis, and Psammocora contigua during
+0.63 ± 0.49 mm2 day−1, respectively; PERMANOVA pair wise                            the bleaching event of late summer 1998 in northern Okinawa.
+p > .05, Table 3), whereas P. damicornis and M. capricornis (GM) dis-                   At 32 °C, G. fascicularis fragments acquired a lighter coloration than
+played the lowest regeneration rates (PERMANOVA pair wise p < .05)                  their typical red-brown coloration. This discoloration was most obvious
+(0.13 ± 0.02 mm2 day−1 and 0.09 ± 0.07 mm2 day−1, respectively;                     on the coenosarc between the corallites, while individual polyps re-
+PERMANOVA pair wise p > .05, Table 3).                                              mained with their red-brown coloration. In these ﬂat surfaces of tissue,
+                                                                                    the algae are likely to experience the cumulative eﬀects of highest light
+                                                                                    intensities and elevated temperature, while the algae situated in the
+4. Discussion                                                                       base of a polyp or in the tentacles might experience shading by the
+                                                                                    coral's tissue and skeleton or other algae (Brown et al., 1995). In the last
+    Acropora tenuis, P. damicornis, and S. pistillata had the highest               twenty days of this experiment, the fragments of G. fascicularis changed
+
+                                                                               78
+M. Dias et al.                                                                                                              Journal of Sea Research 141 (2018) 71–82
+
+
+to white with yellow ﬂuorescent polyps possibly due to the presence of              stress. All the other species presented signiﬁcant diﬀerences at 26 °C
+ﬂuorescent pigments in the coral that enhanced its bleaching resistance             and 30 °C, this probably is a result of thermal stress at 30 °C, where their
+(Salih et al., 2000).                                                               growth rates were lower (Fine et al., 2002; Szmant & Gassman, 1990).
+    Our results show that the cause of bleaching in these coral species             The fragments of P. contigua did not present signiﬁcant diﬀerences at
+might probably be an interaction between water temperature and the                  30 °C and 32 °C, which means that although this coral species had
+amount of time above their bleaching threshold, rather than just having             shown severe visual signs of stress at 32 °C, its growth rate was aﬀected
+temperatures above their bleaching threshold (Fitt et al., 2001;                    in the same way at these temperatures.
+McClanahan et al., 2001). In particular, there was a pronounced dif-                    The ability of corals to regenerate from injuries is crucial to their
+ference among these coral species in the time necessary to respond to               survival from disturbances such as hurricanes and predators since poor
+thermal stress. The most likely explanation for this phenomenon is the              regenerative ability can lead to a reduction in colony ﬁtness (Hall,
+existence of diﬀerences in interspeciﬁc respiration rates. Faster-growing           1997). Coral fragments' regeneration rate diﬀered with temperature.
+species, such as the Acropora spp., are generally assumed to have a                 The coral species A. tenuis, M. capricornis (BM), T. reniformis, E. la-
+higher respiration rate than the slower-growing massives, and a high                mellosa, G. fascicularis, and P. contigua seem to beneﬁt with the increase
+correlation between respiration rate and coral susceptibility to thermal            in temperature as their regeneration rates increased with temperature,
+stress has long been recognized (Gates & Edmunds, 1999; Jokiel &                    thus conﬁrming the assumption that an increase in water temperatures
+Coles, 1990).                                                                       accelerates coral fragments' metabolism and, as long as their speciﬁc
+    Another explanation for the time taken for the diﬀerent coral spe-              stress levels were not attained, their regeneration rates will be greater
+cies in this study to respond to thermal stress might be related with the           at higher temperatures (Coles & Jokiel, 1977; Kramarsky-Winter &
+fact that colony morphology also inﬂuences coral vulnerability to                   Loya, 2000). Having this in mind, the coral species M. capricornis (GM),
+bleaching. Branching pocilloporids (Stylophora pistillata, Pocillopora              P. damicornis, and S. pistillata might have presented their highest stress
+damicornis) and staghorn corals (Acropora spp.) are cited in many stu-              levels at 32 °C where they showed their lowest regeneration rates.
+dies, both in experimental work (Jokiel & Coles, 1974) and in bleaching                 Hall (Hall, 1997) ranked the regenerative ability of eleven diﬀerent
+episodes in the ﬁeld (Glynn, 1983; Loya et al., 2001), as being                     coral species according to their morphologies (arborescent > bushy >
+morphologies severely damaged by thermal stress (Brown & Howard,                    tabular > massive > submassive). Our study results were not in ac-
+1985; Hoegh-Guldberg & Salvat, 1995). These corals bleach more often                cordance with those of Hall (Hall, 1997), probably because the ex-
+than massive and encrusting growth forms (Loya et al., 2001; Marshall               perimental conditions were diﬀerent. Hall's work was developed in
+& Baird, 2000; McClanahan et al., 2002). However, other factors must                natural environment whereas ours was developed in laboratory. In
+also be considered such as tissue thickness (Loya et al., 2001), density            natural conditions, corals are exposed not only to changes of other
+of zooxanthellae or the weight of tissue per unit coral surface area                environmental variables (e.g. salinity (Faxneld et al., 2010), solar ra-
+(Stimson et al., 2002), the clade of Symbiodinium spp. (Magalon et al.,             diation (Lesser & Farrell, 2004), sedimentation and turbidity (Browne,
+2007), taxa or coral phylogeny (McClanahan et al., 2004), density of                2012), aerial exposure (Teixeira et al., 2013), water ﬂow (Lenihan
+ﬂuorescent tissue pigment granules (FPG; (Salih et al., 2000)), and                 et al., 2008)), but also to competition (Baird & Hughes, 2000), preda-
+colony integration (Baird & Marshall, 2002). Previous studies have                  tion (Rotjan & Lewis, 2008), algal over growth (Diaz-Pulido et al.,
+identiﬁed Turbinaria reniformis, Galaxea fascicularis, and Psammacora               2009), and continuous colony overturning (Campbell et al., 2007),
+contigua as tolerant species to thermal stress (Marshall & Baird, 2000;             which in the present study were controlled. Also, the fact that in this
+Yamazato, 1981; Yamazato, 1999), which the results of this study                    study we used small fragments instead of large colonies, the use of
+support. Although P. contigua has branching morphology, it was re-                  diﬀerent coral species, the ratio diameter of injury/coral area was much
+ported to have high densities of zooxanthellae in comparison with the               higher than the one used in this study, and Hall (Hall, 1997) made
+densities of other branching genera such as Pocillopora, Acropora, Sty-             observations for a longer period of time which would allow for more
+lophora (Stimson et al., 2002).                                                     healing time of the injured corals (74 days instead of 60 days). All these
+    Growth rate has been cited as one of the best quantitative measures             factors are known to aﬀect corals' regeneration capacity of lesions
+to test stress due to a disturbance, since this parameter integrates a              (Denis et al., 2011).
+variety of physiological processes (Birkeland et al., 1976; Muscatine,                  Diﬀerential susceptibility and mortality among species can exert a
+1990; Pratchett et al., 2015). In the fragments of acroporid species                major inﬂuence on coral community structure (Pratchett, 2001). Ac-
+(Acropora tenuis and Montipora capricornis) it was possible to observe              cording with the results obtained in this study, it is expected that the
+the spread of the basal tissue over the epoxy putty or the bare skeleton            coral species T. reniformis, G. fascicularis, and P. contigua will be more
+following its contour, known as fast self-attachment after transplanta-             resistant to high temperature and bleaching episodes and thus be-
+tion (Guest et al., 2011), whereas in the fragments of T. reniformis, E.            coming more important in terms of coral cover. Nevertheless, it is im-
+lamellosa, and G. fascicularis no self-attachment was observed, as their            portant to have in consideration that the more fragile and thermal
+growth occurred by horizontal extension of its margins. Also, the                   susceptible coral species tend to be fast-growing species (Marshall &
+growing of several new branches in the fragments of S. pistillata was               Baird, 2000; McClanahan et al., 2004) and that in some bleaching
+observed. This may happen as a way of S. pistillata to re-acquire the               episodes it has been observed that more resistant coral species did not
+colony symmetry lost after its separation, which is a known char-                   increase in absolute density and cover through time because they are
+acteristic of this species' colonies (Rinkevich, 2000).                             often slow-growing species (Guest et al., 2016; van Woesik et al., 2011).
+    According to our results, coral fragments' growth rates decreased                   On the other hand, other disturbances present in their natural ha-
+with increasing temperature, which is in accordance with physiological              bitat need to be taken into account, such as predation (Pratchett, 2001),
+data showing an accentuated decline in coral growth at temperatures                 competition (Baird & Hughes, 2000) and extreme events (e.g. tropical
+only a few degrees above optimum levels (Berkelmans & Willis, 1999).                cyclones; (Fabricius et al., 2008)) that, like bleaching episodes, aﬀect
+In all temperature experiments, A. tenuis and P. contigua presented the             with greater magnitude fast-growing coral species. As a result, mor-
+highest growth rates, with the exception of A. tenuis at 32 °C that died.           tality of thermal susceptible species, often numerically dominant, may
+Assuming that plate and massive morphologies grow slower than                       promote the coexistence of a higher number of species unless the in-
+branched ones (Guest et al., 2011), the lower growth rates of G. fasci-             crease in frequency of bleaching episodes causes local eradication or
+cularis at 26 °C, M. capricornis (GM) and E. lamellosa at 30 °C and T.              prevents susceptible species from resettle (Loya et al., 2001;
+reniformis at 32 °C can thus be justiﬁed. G. fascicularis was the only coral        McClanahan & Maina, 2003). Thus, although T. reniformis and G. fas-
+species that did not present signiﬁcant growth rate diﬀerences at 26 °C             cicularis are slow-growing coral species, it is expected that these re-
+and 30 °C, suggesting that this coral species is resistant to thermal               sistant species will become dominant. Although P. contigua is a fast-
+
+                                                                               79
+M. Dias et al.                                                                                                                                       Journal of Sea Research 141 (2018) 71–82
+
+
+growing coral species, it showed a high ability to resist to thermal stress                         Anderson, M.J., 2001. A new method for non-parametric analysis of variance. Austral
+and it is expected to increase in coral cover and subsequent dominance                                  Ecol. 26, 32–46. https://doi.org/10.1111/j.1442-9993.2001.01070.pp.x.
+                                                                                                    Aronson, R.B., Precht, W.F., Macintyre, I.G., Murdoch, T.J.T., 2000. Ecosystems: Coral
+faster than T. reniformis and G. fascicularis. This pattern of recovery was                             bleach-out in Belize. Nature 405, 36. https://doi.org/10.1038/35011132.
+observed in other studies (Baird & Marshall, 2002; Brown & Suharsono,                               Aronson, R.B., Macintyre, I.G., Wapnick, C.M., O'Neill, M.W., 2004. Phase-shifts, alter-
+1990).                                                                                                  native states, and the unprecedented convergence of two reef systems. Ecology 85,
+                                                                                                        1876–1891. https://doi.org/10.1890/03-0108.
+    Another aspect to have into account is the ability of corals to adapt                           Baird, A.H., Hughes, T.P., 2000. Competitive dominance by tabular corals. An experi-
+to recurrent thermal stress, which occurs through the selective removal                                 mental analysis of recruitment and survival of understorey assemblages. J. Exp. Mar.
+of highly susceptible genotypes, followed by reproduction and suc-                                      Biol. Ecol. 251, 117–132. https://doi.org/10.1016/S0022-0981(00)00209-4.
+                                                                                                    Baird, A.H., Marshall, P.A., 2002. Mortality, growth and reproduction in scleractinian
+cessful recruitment of corals with higher photoprotective defense (in-                                  corals following bleaching on the Great Barrier Reef. Mar. Ecol. Prog. Ser. 237,
+ﬂux of coral colonies with thermal tolerance) (Penin et al., 2013;                                      133–141.
+Pratchett et al., 2013). It was observed in several studies that such                               Baker, A.C., Glynn, P.W., Riegl, B., 2008. Climate change and coral reef bleaching: an
+                                                                                                        ecological assessment of the long-term impacts, recovery trends and future outlooks.
+adaptation may result in a reverse of the normal hierarchy of bleaching
+                                                                                                        Estuar. Coast. Shelf Sci. 80, 435–471. https://doi.org/10.1016/j.ecss.2008.09.003.
+susceptible coral species (Carroll et al., 2017; Guest et al., 2016).                               Berkelmans, R., Willis, B.L., 1999. Seasonal and local spatial patterns in the upper thermal
+Nevertheless, gradual adaptation to increased temperatures by coral                                     limits of corals on the inshore Central Great Barrier Reef. Coral Reefs 18, 219–228.
+assemblages in the Indo-Paciﬁc can easily be undone, delayed or even                                    https://doi.org/10.1007/s003380050186.
+                                                                                                    Bhagooli, R., Hidaka, M., 2003. Comparison of stress susceptibility of in hospite and
+stopped by other natural and anthropogenic stressors and disturbances                                   isolated zooxanthellae among ﬁve coral species. J. Exp. Mar. Bio. Ecol. 291, 181–197.
+(e.g. Acanthaster planci outbreaks; (Adjeroud et al., 2005)) and may                                    https://doi.org/10.1016/S0022-0981(03)00121-7.
+have altogether diﬀerent selective forcing on coral population and                                  Birkeland, C., Reimer, A.A., Young, J.R., 1976. Survey of marine communities in Panama
+                                                                                                        and experiments with oil. In: Environmental Protection Agency. Ecological Research
+communities (Pratchett et al., 2013).                                                                   Series, United States.
+    Having in account that this study was made with colonies coming                                 Brandt, M.E., 2009. The eﬀect of species and colony size on the bleaching response of
+from the same mother colony, meaning low genetic variability, it is                                     reef-building corals in the Florida Keys during the 2005 mass bleaching event. Coral
+                                                                                                        Reefs 28, 911–924. https://doi.org/10.1007/s00338-009-0548-y.
+important to consider that some results may vary with those in future                               Brinkhuis, B.H., 1985. Growth Patterns and Rates. Handbook of Physiological Methods.
+studies.                                                                                                Ecological Field Methods: Macroalgae. NJ. Cambridge University Press, pp. 461–477.
+    In conclusion, long-term exposure to 32 °C was beyond the                                       Brown, B.E., Howard, L.S., 1985. Assessing the Eﬀects of “stress” on Reef Corals. Adv.
+                                                                                                        Mar. Biol. 22, 1–63. https://doi.org/10.1016/S0065-2881(08)60049-8.
+bleaching resistance capacity of the majority of the corals. A. tenuis, P.                          Brown, B.E., Suharsono, 1990. Damage and recovery of coral reefs aﬀected by El Niño
+damicornis, and S. pistillata were the most aﬀected by thermal stress,                                  related seawater warming in the Thousand Islands, Indonesia. Coral Reefs 8,
+which may result in these species becoming less important in terms of                                   163–170. https://doi.org/10.1007/BF00265007.
+                                                                                                    Brown, B.E., Le Tissier, M.D.A., Bythell, J.C., 1995. Mechanisms of bleaching deduced
+coral cover in coral reef communities subjected to successive bleaching
+                                                                                                        from histological studies of reef corals sampled during a natural bleaching event.
+episodes, whereas the coral species T. reniformis, G. fascicularis, and P.                              Mar. Biol. 122, 655–663. https://doi.org/10.1007/BF00350687.
+contigua, due to their greater ability to resist to successive bleaching                            Brown, B., Dunne, R., Goodson, M., Douglas, A., 2002. Experience shapes the suscept-
+episodes as to other natural and anthropogenic stressors and dis-                                       ibility of a reef coral to bleaching. Coral Reefs 21, 119–126. https://doi.org/10.1007/
+                                                                                                        s00338-002-0215-z.
+turbances, are likely to show greater capacity to withstand higher                                  Browne, N.K., 2012. Spatial and temporal variations in coral growth on an inshore turbid
+temperatures and might thus become more important in terms of coral                                     reef subjected to multiple disturbances. Mar. Environ. Res. 77, 71–83. https://doi.
+cover. Nevertheless, P. contigua may increase in coral cover and sub-                                   org/10.1016/j.marenvres.2012.02.005.
+                                                                                                    Bruno, J.F., 1998. Fragmentation in Madracis mirabilis (Duchassaing and Michelotti): how
+sequent dominance faster than T. reniformis and G. fascicularis. This                                   common is size-speciﬁc fragment survivorship in corals? J. Exp. Mar. Bio. Ecol. 230,
+knowledge may have ecological implications in coral reef conservation                                   169–181. https://doi.org/10.1016/S0022-0981(98)00080-X.
+and management, as well as in the understanding of coral reef altera-                               Campbell, S.J., Pratchett, M.S., Anggoro, A.W., Ardiwijaya, R.L., Fadli, N., Herdiana, Y.,
+                                                                                                        Kartawijaya, T., Mahyddin, D., Mukminin, A., Pardede, S.T., Rudi, E., Siregar, A.M.,
+tions in the near future.                                                                               Baird, A.H., 2007. Disturbance to coral reefs in Aceh, Northern Sumatra: impacts of
+                                                                                                        the Sumatra-Andaman tsunami and pre-tsunami degradation. Atoll Res. Bull. 544,
+Acknowledgements                                                                                        55–78.
+                                                                                                    Carpenter, K.E., Abrar, M., Aeby, G., Aronson, R.B., Banks, S., Bruckner, A., Chiriboga, A.,
+                                                                                                        Cortés, J., Delbeek, J.C., Devantier, L., Edgar, G.J., Edwards, A.J., Fenner, D.,
+    The authors declare that the experiments followed the Portuguese                                    Guzmán, H.M., Hoeksema, B.W., Hodgson, G., Johan, O., Licuanan, W.Y.,
+legislation for animal experimentation. Two of the authors have a level                                 Livingstone, S.R., Lovell, E.R., Moore, J.A., Obura, D.O., Ochavillo, D., Polidoro, B.A.,
+                                                                                                        Precht, W.F., Quibilan, M.C., Reboton, C., Richards, Z.T., Rogers, A.D., Sanciangco,
+C certiﬁcation by FELASA (Federation of European Laboratory Animal
+                                                                                                        J., Sheppard, A., Sheppard, C., Smith, J., Stuart, S., Turak, E., Veron, J.E.N., Wallace,
+Science Associations) and are also certiﬁed by national authorities                                     C., Weil, E., Wood, E., 2008. One-third of reef-building corals face elevated extinction
+(Direcção Geral de Veterinária). Authors would like to thank everyone                                   risk from climate change and local impacts. Science 321, 560–563. https://doi.org/
+involved in the maintenance of the experimental aquarium, in parti-                                     10.1126/science.1159196.
+                                                                                                    Carroll, A.G., Harrison, P.L., Adjeroud, M., 2017. Susceptibility of coral assemblages to
+cular Patricia Napier. This study had the support of the Portuguese                                     successive bleaching events at Moorea, French Polynesia. Mar. Freshw. Res. 68,
+Fundação para a Ciência e Tecnologia (FCT) through the WarmingWebs                                      760–771. https://doi.org/10.1071/MF15134.
+project, PTDC/MAR-EST/2141/2012, the strategic projects Pest OE/                                    Christensen, J.H., Kanikicharla, K.K., Aldrian, E., An, S.I., Cavalcanti, I.F.A., De Castro,
+                                                                                                        M., Dong, W., Goswami, P., Hall, A., Kanyanga, J.K., Kitoh, A., Kossin, J., Lau, N.-C.,
+MAR/UI0199/2011, the PhD research grant SFRH/BD/103047/2014                                             Renwick, J., Stephenson, D.B., Xie, S.-P., Zhou, T., 2013. Climate phenomena and
+awarded to M. Dias, the PhD research grant PD/BD/135064/2017                                            their relevance for future regional climate change. In: Stocker, T.F., Qin, D., Plattner,
+awarded to R. Cereja and the FCT research position awarded to C.                                        G.-K., Tignor, M., Allen, S.K., Boschung, J., Nauels, A., Xia, Y., Bex, V., Midgley, P.M.
+                                                                                                        (Eds.), Climate Change 2013: The Physical Science Basis. Contribution of Working
+Vinagre.                                                                                                Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate
+                                                                                                        Change (IPCC AR5). Cambridge, United Kingdom and New York Cambridge
+Appendix A. Supplementary data                                                                          University Press, New York, pp. 1217–1308.
+                                                                                                    Chua, C., Leggat, W., Moya, A., Baird, A.H., 2013. Temperature aﬀects the early life
+                                                                                                        history stages of corals more than near future ocean acidiﬁcation. Mar. Ecol. Prog.
+    Supplementary data to this article can be found online at https://                                  Ser. 475, 85–92. https://doi.org/10.3354/meps10077.
+doi.org/10.1016/j.seares.2018.08.008.                                                               Coles, S.L., Jokiel, P.L., 1977. Eﬀects of temperature on photosynthesis and respiration in
+                                                                                                        hermatypic corals. Mar. Biol. 43, 209–216. https://doi.org/10.1007/BF00402313.
+                                                                                                    Coles, S.L., Jokiel, P.L., Lewis, C.R., 1976. Thermal tolerance in tropical versus sub-
+References                                                                                              tropical paciﬁc reef corals. Pac. Sci. 30, 159–166.
+                                                                                                    Cook, R.E., 1979. Asexual reproduction: a further consideration. Am. Nat. 113, 769–772.
+Adjeroud, M., Chancerelle, Y., Schrimm, M., Perez, T., Lecchini, D., Galzin, R., Salvat, B.,        Crabbe, M.J.C., 2008. Climate change, global warming and coral reefs: Modelling the
+    2005. Detecting the eﬀects of natural disturbances on coral assemblages in French                   eﬀects of temperature. Comp. Biol. Chem. 32, 311–314. https://doi.org/10.1016/j.
+    Polynesia: a decade survey at multiple scales. Aquat. Living Resour. 18, 111–123.                   compbiolchem.2008.04.001.
+    https://doi.org/10.1051/alr:2005014.                                                            Cróquer, A., Villamizar, E., Noriega, N., 2002. Environmental factors aﬀecting tissue
+                                                                                                        regeneration of the reef – building coral Montastraea annularis (Faviidae) at Los
+
+
+                                                                                               80
+M. Dias et al.                                                                                                                                          Journal of Sea Research 141 (2018) 71–82
+
+
+     Roques National Park. Venezuela. Rev. Biol. Trop. 50, 1055–1065.                                       https://doi.org/10.1038/srep38402.
+Davenport, J., Davenport, J.L., 2006. The impact of tourism and personal leisure transport              Highsmith, R.C., 1980. Passive colonization and asexual colony multiplication in the
+     on coastal environments: A review. Estuar. Coast. Shelf. Sci. 67, 280–292. https://                    massive coral Porites lutea Milne Edwards & Haime. J. Exp. Mar. Bio. Ecol. 47, 55–67.
+     doi.org/10.1016/j.ecss.2005.11.026.                                                                    https://doi.org/10.1016/0022-0981(80)90137-9.
+Denis, V., Debreuil, J., De Palmas, S., Richard, J., Guillaume, M.M.M., Bruggemann, J.H.,               Highsmith, R.C., 1982. Reproduction by fragmentation in corals. Mar. Ecol. Prog. Ser. 7,
+     2011. Lesion regeneration capacities in populations of the massive coral Porites lutea                 207–226.
+     at Réunion Island: environmental correlates. Mar. Ecol. Prog. Ser. 428, 105–117.                   Highsmith, R.C., Riggs, A.C., D'Antonio, C.M., 1980. Survival of Hurricane-Generated
+     https://doi.org/10.3354/meps09060.                                                                     Coral Fragments and a Disturbance Model of Reef Calciﬁcation/growth rates.
+Desalvo, M.K., Voolstra, C.R., Sunagawa, S., Schwarz, J.A., Stillman, J.H., Coﬀroth, M.A.,                  Oecologia 46, 322–329. https://doi.org/10.1007/BF00346259.
+     Szmant, A.M., Medina, M., 2008. Diﬀerential gene expression during thermal stress                  Hoegh-Guldberg, O., 1999. Climate change, coral bleaching and the future of the world's
+     and bleaching in the Caribbean coral Montastraea faveolata. Mol. Ecol. 17,                             coral reefs. Mar. Freshw. Res. 50, 839–866. https://doi.org/10.1071/MF99078.
+     3952–3971. https://doi.org/10.1111/j.1365-294X.2008.03879.x.                                       Hoegh-Guldberg, O., Salvat, B., 1995. Periodic mass-bleaching and elevated sea tem-
+Diaz-Pulido, G., McCook, L.J., Dove, S., Berkelmans, R., Roﬀ, G., Kline, D.I., Weeks, S.,                   peratures: bleaching of outer reef slope communities in Moorea, French Polynesia.
+     Evans, R.D., Williamson, D.H., Hoegh-Guldberg, O., 2009. Doom and boom on a                            Mar. Ecol. Prog. Ser. 121, 181–190.
+     resilient reef: climate change, algal overgrowth and coral recovery. PLoS One 4,                   IPCC, 2014. [Core Writing Team, Pachauri RK, Meyer LA (Eds.)]. IPCC, Geneva,
+     e5239.                                                                                                 Switzerland, p 151.
+Eakin, C.M., Lough, J.M., Heron, S.F., 2009. Climate variability and change: monitoring                 Jokiel, P.L., Coles, S.L., 1974. Eﬀects of heated eﬄuent on hermatypic corals at Kahe
+     data and evidence for increased coral bleaching stress. In: van Oppen, M.J.H., Lough,                  Point. Oahu. Pac. Sci. 28, 1–18.
+     J.M. (Eds.), Coral Bleaching: Patterns, Processes, Causes and Consequences. Springer-              Jokiel, P.L., Coles, S.L., 1990. Response of Hawaiian and other Indo Paciﬁc reef corals to
+     Verlag, Berlin, pp. 41–67.                                                                             elevated temperatures. Coral Reefs 8, 155–162. https://doi.org/10.1007/
+Fabricius, K.E., De'Ath, G., Puotinen, M.L., Done, T., Cooper, T.F., Burgess, S.C., 2008.                   BF00265006.
+     Disturbance gradients on inshore and oﬀshore coral reefs caused by a severe tropical               Kayanne, H., Harii, S., Yamano, H., Tamura, M., Ide, Y., Akimoto, F., 1999. Changes in
+     cyclone. Limnol. Ocean. 53, 690–704. https://doi.org/10.4319/lo.2008.53.2.0690.                        living coral coverage before and after the 1998 bleaching event on coral reef ﬂats of
+Faxneld, S., Jörgensen, T.L., Tedengren, M., 2010. Eﬀects of elevated water temperature,                    Ishigaki Island, Ryukyu Islands. Galaxea, JCRS (1), 73–82.
+     reduced salinity and nutrient enrichment on the metabolism of the coral Turbinaria                 Kramarsky-Winter, E., Loya, Y., 2000. Tissue regeneration in the coral Fungia granulosa:
+     mesenterina. Estuar. Coast. Shelf Sci. 88, 482–487. https://doi.org/10.1016/j.ecss.                    the eﬀect of extrinsic and intrinsic factors. Mar. Biol. 137, 867–873. https://doi.org/
+     2010.05.008.                                                                                           10.1007/s002270000416.
+Fine, M., Oren, U., Loya, Y., 2002. Bleaching eﬀect on regeneration and resource trans-                 Lasker, H.R., 1990. Clonal propagation and population dynamics of a Gorgonian coral.
+     location in the coral Oculina patagonica. Mar. Ecol. Prog. Ser. 234, 119–125.                          Ecology 71, 1578–1589. https://doi.org/10.2307/1938293.
+Fitt, W.K., Brown, B.E., Warner, M.E., Dunne, R.P., 2001. Coral bleaching: interpretation               Lenihan, H.S., Adjeroud, M., Kotchen, M.J., Hench, J.L., Nakamura, T., 2008. Reef
+     of thermal tolerance limits and thermal thresholds in tropical corals. Coral Reefs 20,                 structure regulates small-scale spatial variation in coral bleaching. Mar. Ecol. Prog.
+     51–65. https://doi.org/10.1007/s003380100146.                                                          Ser. 370, 127–141.
+Fitt, W.K., Gates, R.D., Hoegh-Guldberg, O., Bythell, J.C., Jatkar, A., Grottoli, A.G.,                 Lesser, M.P., Farrell, J.H., 2004. Exposure to solar radiation increases damage to both
+     Gomez, M., Fisher, P., Lajuenesse, T.C., Pantos, O., Iglesias-Prieto, R., Franklin, D.J.,              host tissues and algal symbionts of corals during thermal stress. Coral Reefs 23,
+     Rodrigues, L.J., Torregiani, J.M., van Woesik, R., Lesser, M.P., 2009. Response of two                 367–377. https://doi.org/10.1007/s00338-004-0392-z.
+     species of Indo-Paciﬁc corals, Porites cylindrica and Stylophora pistillata, to short-term         Loya, Y., Sakai, K., Yamazato, K., Nakano, Y., Sambali, H., van Woesik, R., 2001. Coral
+     thermal stress: the host does matter in determining the tolerance of corals to                         bleaching: the winners and the losers. Ecol. Lett. 4, 122–131. https://doi.org/10.
+     bleaching. J. Exp. Mar. Biol. Ecol. 373, 102–110.                                                      1046/j.1461-0248.2001.00203.x.
+Foster, N.L., Baums, I.B., Mumby, P.J., 2007. Sexual vs. asexual reproduction in an eco-                Magalon, H., Flot, J.-F., Baudry, E., 2007. Molecular identiﬁcation of symbiotic dino-
+     system engineer: the massive coral Montastraea annularis. J. Anim. Ecol. 76, 384–391.                  ﬂagellates in Paciﬁc corals in the genus Pocillopora. Coral Reefs 26, 551–558. https://
+     https://doi.org/10.1111/j.1365-2656.2006.01207.x.                                                      doi.org/10.1007/s00338-007-0215-0.
+Frieler, K., Meinshausen, M., Golly, A., Mengel, M., Lebek, K., Donner, S.D., Hoegh-                    Marshall, P.A., Baird, A.H., 2000. Bleaching of corals on the Great Barrier Reef: diﬀer-
+     Guldberg, O., 2012. Limiting global warming to 2 °C is unlikely to save most coral                     ential susceptibilities among taxa. Coral Reefs 19, 155–163. https://doi.org/10.
+     reefs. Nat. Clim. Chang. 3, 165–170. https://doi.org/10.1038/nclimate1674.                             1007/s003380000086.
+Fujioka, Y., 1999. Mass destruction of the hermatypic corals during a bleaching event in                McClanahan, T.R., Maina, J., 2003. Response of coral assemblages to the interaction
+     Ishigaki Island, southwestern Japan. Galaxea (1), 41–50. https://doi.org/10.3755/                      between natural temperature variation and rare warm-water events. Ecosystems 6,
+     jcrs.1999.41.                                                                                          551–563. https://doi.org/10.1007/s10021-002-0104-x.
+Gates, R.D., Edmunds, P.J., 1999. The physiological mechanisms of acclimatization in                    McClanahan, T., Muthiga, N., Mangi, S., 2001. Coral and algal changes after the 1998
+     tropical reef corals. Am. Zool. 39, 30–43. https://doi.org/10.1093/icb/39.1.30.                        coral bleaching: interaction with reef management and herbivores on Kenyan reefs.
+Gleason, M.G., 1993. Eﬀects of disturbance on coral communities: bleaching in Moorea,                       Coral Reefs 19, 380–391. https://doi.org/10.1007/s003380000133.
+     French Polynesia. Coral Reefs 12, 193–201. https://doi.org/10.1007/BF00334479.                     McClanahan, T., Maina, J., Pet-Soede, L., 2002. Eﬀects of the 1998 coral mortality event
+Glynn, P.W., 1983. Extensive "bleaching" and death of reef corals on the Paciﬁc coast of                    on Kenyan coral reefs and ﬁsheries. Ambio 31, 543–550. https://doi.org/10.1579/
+     Panama. Environ. Conserv. 10, 149–154. https://doi.org/10.1017/                                        0044-7447-31.7.543.
+     S0376892900012248.                                                                                 McClanahan, T.R., Baird, A.H., Marshall, P.A., Toscano, M.A., 2004. Comparing bleaching
+Glynn, P.W., 1984. Widespread coral mortality and the 1982/83 El Niño warming event.                        and mortality responses of hard corals between southern Kenya and the Great Barrier
+     Environ. Conserv. 11, 133–146. https://doi.org/10.1017/S0376892900013825.                              Reef, Australia. Mar. Poll. Bull. 48, 327–335. https://doi.org/10.1016/j.marpolbul.
+Glynn, P.W., 1993. Coral reef bleaching: ecological perspectives. Coral Reefs 12, 1–17.                     2003.08.024.
+     https://doi.org/10.1007/BF00303779.                                                                McClanahan, T.R., Ateweberhan, M., Graham, N.A.J., Wilson, S.K., Ruiz Sebastián, C.,
+Glynn, P.W., Fong, P., 2006. Patterns of reef coral recovery by the regrowth of surviving                   Guillaume, M.M.M., Bruggemann, J.H., 2007. Western Indian Ocean coral commu-
+     tissues following the 1997-98 El Niño warming and 2000, 2001 upwelling cool events                     nities: Bleaching responses and susceptibility to extinction. Mar. Ecol. Prog. Ser. 337,
+     in Panamá, eastern Paciﬁc. In: Proc. 10th Int. Coral Reef Symp, pp. 624–630.                           1–13.
+Glynn, P.W., Cortés, J., Guzmán, H.M., Richmond, R.H., 1988. El Niño (1982-83) asso-                    Meehan, W.J., Ostrander, G.K., 1997. Coral bleaching: a potential biomarker of en-
+     ciated coral mortality and relationship to sea surface temperature deviations in the                   vironmental stress. J. Toxicol. Environ. Health 50, 529–552.
+     tropical eastern Paciﬁc. In: Proc. 6th Int. Coral Reef Symp. Vol. 3. pp. 237–243.                  Meesters, E.H., Bak, R.P.M., 1993. Eﬀects of coral bleaching on tissue regeneration po-
+Glynn, P.W., Colley, S.B., Eakin, C.M., Smith, D.B., Cortés, J., Gassman, N.J., Guzmán,                     tential and colony survival. Mar. Ecol. Prog. Ser. 96, 189–198.
+     H.M., Del Rosario, J.B., Feingold, J.S., 1994. Reef coral reproduction in the eastern              Montano, S., Seveso, D., Galli, P., Obura, D.O., 2010. Assessing coral bleaching and re-
+     Paciﬁc: Costa Rica, Panamá, and Galápagos Islands (Ecuador). II. Poritidae. Mar. Biol.                 covery with a colour reference card in Watamu Marine Park, Kenya. Hydrobiologia
+     118, 191–208. https://doi.org/10.1007/BF00349785.                                                      655, 99–108. https://doi.org/10.1007/s10750-010-0407-4.
+Goreau, T., McClanahan, T., Hayes, R., Strong, A., 2000. Conservation of coral reefs after              Muscatine, L., 1990. The role of symbiotic algae in carbon and energy ﬂux in reef corals.
+     the 1998 global bleaching event. Conserv. Biol. 14, 5–15. https://doi.org/10.1046/j.                   In: Dubinsky, Z. (Ed.), Ecosystems of the World: Coral Reefs. Elsevier, Amsterdam,
+     1523-1739.2000.00011.x.                                                                                pp. 75–87.
+Guest, J.R., Dizon, R.M., Edwards, A.J., Franco, C., Gomez, E.D., 2011. How Quickly do                  Ostrander, G.K., Armstrong, K.M., Knobbe, E.T., Gerace, D., Scully, E.P., 2000. Rapid
+     Fragments of Coral “Self-Attach” after Transplantation? Restor. Ecol. 19, 234–242.                     transition in the structure of a coral reef community: the eﬀects of coral bleaching
+     https://doi.org/10.1111/j.1526-100X.2009.00562.x.                                                      and physical disturbance. Proc. Natl. Acad. Sci. U. S. A. 97, 5297–5302. https://doi.
+Guest, J.R., Low, J., Tun, K., Wilson, B., Ng, C., Raingeard, D., Ulstrup, K.E., Tanzil, J.T.I.,            org/10.1073/pnas.090104897.
+     Todd, P.A., Toh, T.C., McDougald, D., Chou, L.M., Steinberg, P.D., 2016. Coral                     Padilla-Gamiño, J.L., Bidigare, R.R., Barshis, D.J., Alamaru, A., Hédouin, L., Hernández-
+     community response to bleaching on a highly disturbed reef. Sci. Rep. 6, 20717.                        Pech, X., Kandel, F., Soon, S.L., Roth, M.S., Rodrigues, L.J., Grottoli, A.G.,
+Hall, V.R., 1997. Interspeciﬁc diﬀerences in the regeneration of artiﬁcial injuries on                      Portocarrero, C., Wagenhauser, S.A., Buttler, F., Gates, R.D., 2013. Are all eggs cre-
+     scleractinian corals. J. Exp. Mar. Bio. Ecol. 212, 9–23. https://doi.org/10.1016/                      ated equal? A case study from the Hawaiian reef-building coral Montipora capitata.
+     S0022-0981(96)02760-8.                                                                                 Coral Reefs 32, 137–152. https://doi.org/10.1007/s00338-012-0957-1.
+Harvell, C.D., Kim, K., Burkholder, J.M., Colwell, R.R., Epstein, P.R., Grimes, D.J.,                   Penin, L., Vidal-Dupiol, J., Adjeroud, M., 2013. Response of coral assemblages to thermal
+     Hofmann, E.E., Lipp, E.K., Osterhaus, A.D.M.E., Overstreet, R.M., Porter, J.W., Smith,                 stress: are bleaching intensity and spatial patterns consistent between events?
+     G.W., Vasta, G.R., 1999. Emerging marine diseases - climate links and anthropogenic                    Environ. Monit. Assess. 185, 5031–5042. https://doi.org/10.1007/S10661-012-
+     factors. Science 285, 1505–1510. https://doi.org/10.1126/science.285.5433.1505.                        2923-3.
+Heron, S.F., Maynard, J.A., van Hooidonk, R., Eakin, C.M., 2016. Warming trends and                     Pratchett, M.S., 2001. Inﬂuence of coral symbionts on feeding preferences of crown-of-
+     bleaching stress of the world's coral reefs 1985–2012. Nat. Sci. Rep. 6:38402. doi:                    thorns starﬁsh Acanthaster planci in the western Paciﬁc. Mar. Ecol. Prog. Ser. 214,
+
+
+                                                                                                   81
+M. Dias et al.                                                                                                                                        Journal of Sea Research 141 (2018) 71–82
+
+
+    111–119.                                                                                          Shinn, E.A., 1976. Coral reef recovery in Florida and the Persian Gulf. Environ. Geol. 1,
+Pratchett, M.S., McCowan, D., Maynard, J.A., Heron, S.F., 2013. Changes in bleaching                       241–254. https://doi.org/10.1007/BF02407510.
+    susceptibility among corals subject to ocean warming and recurrent bleaching in                   Stimson, J., 1978. Mode and timing of reproduction in some common hermatypic corals
+    Moorea, French Polynesia. PLoSOne 8, e70443. https://doi.org/10.1371/JOURNAL.                          of Hawaii and Enewetak. Mar. Biol. 48, 173–184. https://doi.org/10.1007/
+    PONE.0070443.                                                                                          BF00395017.
+Pratchett, M.S., Anderson, K.D., Hoogenboom, M.O., Widman, E., Baird, A.H., Pandolﬁ,                  Stimson, J., Sakai, K., Sembali, H., 2002. Interspeciﬁc comparison of the symbiotic re-
+    J.M., Edmunds, P.J., Lough, J.M., 2015. Spatial, temporal and taxonomic variation in                   lationship in corals with high and low rates of bleaching-induced mortality. Coral
+    coral growth – Implications for the structure and function of coral reef ecosystems.                   Reefs 21, 409–421. https://doi.org/10.1007/s00338-002-0264-3.
+    Oceanogr. Mar. Biol. Annu. Rev. 53, 215–295.                                                      Szmant, A.M., Gassman, N.J., 1990. The eﬀect of prolonged "bleaching" on the tissue
+Randall, R., Eldredge, L., 1977. Eﬀects of Typhoon Pamela on the coral reefs of Guam. In:                  biomass and reproduction of the reef coral Montastrea annularis. Coral Reefs 8,
+    Proc. 3rd Int. Coral Reef Symp. Vol. 2. pp. 525–531.                                                   217–224. https://doi.org/10.1007/BF00265014.
+Rinkevich, B., 2000. Steps towards the evaluation of coral reef restoration by using small            Teixeira, T., Diniz, M., Calado, R., Rosa, R., 2013. Coral physiological adaptations to air
+    branch fragments. Mar. Biol. 136, 807–812. https://doi.org/10.1007/                                    exposure: heat shock and oxidative stress responses in Veretillum cynomorium. J. Exp.
+    s002270000293.                                                                                         Mar. Biol. Ecol. 439, 35–41. https://doi.org/10.1016/j.jembe.2012.10.010.
+Rotjan, R.D., Lewis, S.M., 2008. Impact of coral predators on tropical reefs. Mar. Eco.               Titlyanov, E.A., Titlyanova, T.V., Yakovleva, I.M., Nakano, Y., Bhagooli, R., 2005.
+    Prog. Ser. 367, 73–91.                                                                                 Regeneration of artiﬁcial injuries on scleractinian corals and coral/algal competition
+Rowan, R., Knowlton, N., 1995. Intraspeciﬁc diversity and ecological zonation in coral-                    for newly formed substrate. J. Exp. Mar. Bio. Ecol. 323, 27–42. https://doi.org/10.
+    algal symbiosis. Proc. Natl. Acad. Sci. U. S. A. 92, 2850–2853. https://doi.org/10.                    1016/j.jembe.2005.02.015.
+    1073/pnas.92.7.2850.                                                                              Tunnicliﬀe, V., 1981. Breakage and propagation of the stony coral Acropora cervicornis.
+Rowan, R., Knowlton, N., Baker, A.C., Jara, J., 1997. Landscape ecology of algal sym-                      Proc. Natl. Acad. Sci. U. S. A. 78, 2427–2431.
+    bionts creates variation in episodes of coral bleaching. Nature 388, 265–269. https://            van Hooidonk, R., Huber, M., 2009. Quantifying the quality of coral bleaching predic-
+    doi.org/10.1038/40843.                                                                                 tions. Coral Reefs 28, 579–587. https://doi.org/10.1007/s00338-009-0502-z.
+Salih, A., Hoegh-Guldberg, O., Cox, G., 1998. Photoprotection of symbiotic dino-                      van Woesik, R., Jordán-Garza, A.G., 2011. Coral populations in a rapidly changing en-
+    ﬂagellates by ﬂuorescent pigments in reef corals. In: Greenwood, J.G., Hall, N.J.                      vironment. J. Exp. Mar. Bio. Ecol. 408, 11–20. https://doi.org/10.1016/j.jembe.
+    (Eds.), Australian Coral Reef Society 75th Anniversary Conference. The University of                   2011.07.022.
+    Queensland, pp. 217–230.                                                                          van Woesik, R., Sakai, K., Ganase, A., Loya, Y., 2011. Revisiting the winners and the losers
+Salih, A., Larkum, A., Cox, G., Kühl, M., Hoegh-Guldberg, O., 2000. Fluorescent pigments                   a decade after coral bleaching. Mar. Ecol. Prog. Ser. 434, 67–76.
+    in corals are photoprotective. Nature 408, 850–853. https://doi.org/10.1038/                      Veron, J.E.N., 2000. Corals of the World, Vol. 1, 2, 3, Mary Staﬀord-Smith (Ed.) Publisher:
+    35048564.                                                                                              Australian Institute of Marine. Science 489.
+Seveso, D., Montano, S., Strona, G., Orlandi, I., Galli, P., Vai, M., 2014. The susceptibility        Yamazato, K., 1981. A note on the expulsion of zooxanthellae during summer, 1980 by
+    of corals to thermal stress by analyzing Hsp60 expression. Mar. Environ. Res. 99,                      the Okinawan reef-building corals. Sesoko Mar. Lab. Tech. Rep. 8, 9–18.
+    69–75. https://doi.org/10.1016/j.marenvres.2014.06.008.                                           Yamazato, K., 1999. Coral bleaching in Okinawa, 1980 vs 1998. Galaxea (1), 83–87.
+Shenkar, N., Fine, M., Loya, Y., 2005. Size matters: bleaching dynamics of the coral                       https://doi.org/10.3755/jcrs.1999.83.
+    Oculina patagonica. Mar. Ecol. Prog. Ser. 294, 181–188.
+
+
+
+
+                                                                                                 82
+

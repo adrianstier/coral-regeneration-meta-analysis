@@ -1,0 +1,913 @@
+Coral Reefs (2008) 27:257–272
+DOI 10.1007/s00338-007-0317-8
+
+ R EP O R T
+
+
+
+Epidemiology of skeletal eroding band on the Great Barrier Reef
+and the role of injury in the initiation of this widespread
+coral disease
+C. A. Page · B. L. Willis
+
+
+
+
+Received: 21 May 2007 / Accepted: 12 September 2007 / Published online: 9 October 2007
+© Springer-Verlag 2007
+
+
+Abstract Skeletal eroding band (SEB), which manifests                 readily colonises recently exposed coral skeleton, it may
+as dense aggregations of the ciliate Halofolliculina corall-          not be suYcient in itself to cause tissue mortality. Interac-
+asia, was the Wrst coral disease described from the Indo-             tions with additional agents or factors, increasing ciliate
+PaciWc. Little is known about its etiology or impact. This            virulence or lowering disease resistance of coral hosts may
+study describes the distribution, prevalence and host range           be required before halofolliculinid infections become asso-
+of SEB on a 500 km extent of the Great Barrier Reef (GBR),            ciated with tissue loss.
+together with in situ rates of progression and infection
+following experimental injury. SEB occurred on 90–100%                Keywords Skeletal eroding band (SEB) ·
+of reefs surveyed (n=18) in each of 3 years, demonstrating            Halofolliculina corallasia · Coral disease · Epizoism ·
+that SEB is widely distributed and persistent. SEB had                Injury · Great Barrier Reef
+the highest prevalence of any disease, aVecting approxi-
+mately 2% of 283,486 scleractinians and hydrocorals
+surveyed. Its host range was large, aVecting 12 families and          Introduction
+at least 82 scleractinian species, as well as the hydrocoral,
+Millepora. Corals in the families Pocilloporidae and Acro-            Recognition of the serious impacts of coral disease on reef
+poridae were most susceptible, the former being up to Wve             assemblages is increasing worldwide, commensurate with
+times more susceptible than other families. Progressive tis-          the increasing numbers of reports (Ward and LaVerty 2004)
+sue loss was recorded on 95% of Acropora muricata colo-               and diseases described in the last three decades (Green and
+nies monitored (n = 18), with rates of SEB progression                Bruckner 2000; Raymundo et al. 2003; Sutherland et al.
+averaging »2 mm/day. Injury experiments demonstrated                  2004; Willis et al. 2004; Weil et al. 2006). Until recently,
+that H. corallasia, the putative pathogen of SEB, readily             research has focused primarily on coral diseases in the
+colonised recently exposed coral skeleton in the absence of           Caribbean, where they have caused signiWcant and wide-
+a vector, but did not colonise intact coral tissue. Invading          spread mortality of both scleractinian (Williams et al. 1999;
+ciliates failed to form band-like aggregations associated             Porter et al. 2001; Patterson et al. 2002) and gorgonian cor-
+with progressive tissue loss on any of three coral species            als (Guzman and Cortes 1984; Garzon-Ferreira and Zea
+tested experimentally, suggesting that, while H. corallasia           1992; Nagelkerken et al. 1997; Kim and Harvell 2004).
+                                                                      Growing realisation that disease commonly plays a role in
+                                                                      the ecology of many Indo-PaciWc coral species (Loya 2004;
+                                                                      Willis et al. 2004; Winkler et al. 2004; Raymundo et al.
+Communicated by Geology Editor B. Riegl.                              2005; Dalton and Smith 2006; Page and Willis 2006) high-
+                                                                      lights the importance of understanding the etiology and
+C. A. Page (&) · B. L. Willis                                         impacts of disease, particularly given recent increases in the
+School of Marine and Tropical Biology and ARC
+                                                                      number of diseases (Raymundo et al. 2003; Willis et al.
+Centre of Excellence for Coral Reef Studies,
+James Cook University, Townsville, QLD 4811, Australia                2004) and disease cases in the region (Antonius and Lips-
+e-mail: cathie.page@jcu.edu.au                                        comb 2001; Willis et al. 2004).
+
+                                                                                                                         123
+258                                                                                             Coral Reefs (2008) 27:257–272
+
+
+   Skeletal eroding band (SEB) was the Wrst coral disease        be caused by spinning and chemical secretions of the asex-
+described from an Indo-PaciWc reef (Antonius 1999), how-         ually produced motile swarming phase of H. corallasia
+ever, little is known beyond its macroscopic appearance          (Antonius and Lipscomb 2001). The band of ciliates is so
+and aspects of the biology of the putative pathogen. The         dense at times that SEB may be confused with black band
+disease manifests as a black band (»1–10 cm wide) at the         disease (BBD) in the Weld (Antonius and Lipscomb 2001).
+interface between recently exposed skeleton and apparently       Recent apparent increases in the geographical distribution
+healthy coral tissue (Fig. 1a–d; Antonius 1999; Antonius         of SEB in the Indo-PaciWc may be partly explained by the
+and Lipscomb 2001). The black band may appear speckled,          increasing familiarity of researchers with the distinction
+depending on the density of the sessile folliculinid ciliate,    between SEB and BBD.
+Halofolliculina corallasia, which comprises the band. The           Since its discovery in 1988, SEB has been recorded from
+ciliates embed themselves in the coral skeleton producing        reefs throughout the Indo-PaciWc, including Motupore
+an eroded appearance. Koch’s postulates have not been ful-       Island (Papua New Guinea), Lizard Island (Great Barrier
+Wlled for this disease, however, coral mortality is thought to   Reef [GBR]), Mauritius, and the Red Sea (Antonius and
+
+
+Fig. 1 Macroscopic Weld signs
+of skeletal eroding band (SEB)
+on a Acropora pulchra,
+b Turbinaria stellata,
+c Acropora muricata, and
+d Pocillopora damicornis.
+Microscopic images of e motile
+swarmers (sw) of Halofolliculina
+corallasia ahead of sessile
+trophonts (t) at the interface
+between live coral and bare
+skeleton on P. damicornis.
+[Note that the coral tissue is
+damaged and a mesenterial
+Wlament (mf) is exposed] and
+f motile swarmer undergoing
+morphogenesis and secreting
+a lorica (l). Cilia (c) which lie
+in rows or kineties (k) and
+zooxanthellae (z) are clearly
+visible
+
+
+
+
+123
+Coral Reefs (2008) 27:257–272                                                                                                259
+
+
+Lipscomb 2001). Its distribution continues to widen with           Materials and methods
+recent records from the northern and southern GBR (Willis
+et al. 2004), New Britain (Papua New Guinea; Neale, per-           SEB distribution, prevalence, host range and rates
+sonal observation), Palau, the Marshall Islands, the Solitary      of disease progression
+Islands (Willis and Page, personal observation) and the
+Philippines (Harvell et al. 2007). SEB has not been                To determine the prevalence and host range of SEB on the
+detected on Indo-PaciWc reefs in Indonesia, Guam or Moo-           GBR, surveys were completed on 18 reefs spanning
+rea, or on Caribbean reefs in Belize, the Florida Keys or the      500 km in each of 3 years (2004, 2005, 2006). To ensure
+Dominican Republic, in surveys between 1997 and 2000               representation of reef types and habitats, reefs were sur-
+(Antonius and Lipscomb 2001) or more recently (Weil                veyed within each of three cross-shelf positions (inner-,
+2004). However, another ciliate of the genus Halofollicu-          mid- and outer-shelf) in each of two latitudinal sectors
+lina was recently found on Caribbean corals (Cróquer et al.        (Cooktown /Lizard Island and Townsville sectors; Fig. 2).
+2006a), although it appears to be a diVerent species (Cró-         Reefs were surveyed during austral summers, when preva-
+quer et al. 2006b). In this study, therefore, the term SEB         lence and host range were likely to be highest (Willis et al.
+will not include Caribbean ciliate infections.                     2004). Within each cross-shelf by sector position, two sites
+   Compared to other coral diseases, the prevalence of SEB         on each of three reefs were surveyed. Surveys involved
+is extremely high. It was the most prevalent scleractinian         three replicate 20 m £ 2 m belt transects placed parallel to
+disease on two of three GBR reefs surveyed in 2002–2003,           depth contours on the upper reef slope at 3–6 m depth (as
+aVecting 5.4% of all corals (Willis et al. 2004). Moreover, it     per Willis et al. 2004; Page and Willis 2006). Reefs were
+was found on up to 38% of corals in Red Sea surveys (Win-          selected haphazardly from those accessible within sectors.
+kler et al. 2004). Despite the limited number of reefs in          Sites were selected haphazardly from within areas charac-
+these surveys, SEB has been found on at least 31 scleractin-       terised as northwestern, back reef slopes and transects were
+ian species on the GBR (Willis et al. 2004) and 22 genera in       placed haphazardly on upper reef slopes. Within each
+the Red Sea (Winkler et al. 2004). To date, only BBD and           20 m £ 2 m belt, all scleractinians, gorgonians, alcyona-
+the white diseases (white plague-like diseases/white syn-          ceans and hydrocorals were examined, the presence or
+drome) have greater host ranges (summarised in Sutherland          absence of SEB was recorded, and corals identiWed to the
+et al. 2004). Rates of partial and whole colony mortality          lowest taxonomic or morphological group, as appropriate.
+caused by SEB are unknown. Progression rates of the band           DiVerences in susceptibility to SEB among taxa were tested
+have been estimated to vary between 1 mm/week and                  using a 2 test of independence. Other diseases on corals
+1 mm/day (Antonius and Lipscomb 2001), but quantitative            showing signs of SEB were also recorded.
+measurements are lacking.                                             Rates of partial mortality attributable to SEB were exam-
+   Observations of “loose settlements” of H. corallasia            ined on colonies of Acropora muricata at Lizard Island
+scattered across recently exposed coral skeleton suggest           (S 14°21⬘ 15.55, E 145°26⬘ 36.85), a mid-shelf reef located
+that the ciliate opportunistically settles following tissue loss   in the Cooktown/Lizard Island sector of the GBR. Eighteen
+caused, for example, by predation or physical injury (Win-         branches, each from a separate colony, were tagged using
+kler et al. 2004). This interpretation is supported by the         numbered plastic cattle tags secured with cable ties to
+positive correlation found between the prevalence of SEB           exposed skeleton. Tags were attached a short distance
+and the prevalence of coral damage or injury on reefs in the       behind the disease front to avoid interfering with disease
+Red Sea (Winkler et al. 2004). However, currently, it is           progression. The distance from cable ties to the nearest live
+unclear if loose settlements of ciliates lead to tissue loss and   tissue was measured in late November 2004 and again
+skeletal erosion associated with band-like aggregations of         4 weeks later in late December. The diVerence between the
+the ciliates. Furthermore, it is unclear if H. corallasia is the   two measurements was used as a measure of linear disease
+causative agent of tissue loss or if the ciliate colonises skel-   progression and divided by the number of days between
+eton exposed by another micro-organism.                            measurements to calculate a daily rate of SEB progression.
+   The goal of this study was to investigate the etiology,
+impact, and role of injury in the initiation of SEB on corals      In situ injury experiments
+of the GBR. SpeciWc objectives were to (1) determine the
+distribution, prevalence and host range of SEB from large-         A pilot study to test the most appropriate position for artiW-
+scale surveys of the GBR, (2) determine within colony rates        cial injuries on coral branches and the appropriate timespan
+of disease progression, (3) evaluate the role of injury in the     for following ciliate colonisation was completed on shallow
+initiation of SEB, and (4) determine if an intermediate host       patch reefs (2–5 m) at Lizard Island in November 2004. To
+is required for transmission of H. corallasia to recently          determine whether intact coral tissue completely surround-
+injured corals.                                                    ing an injury is an impediment to ciliate colonisation and
+
+                                                                                                                      123
+260                                                                                                Coral Reefs (2008) 27:257–272
+
+
+Fig. 2 Reefs surveyed annually
+between 2004 and 2006 for SEB
+in two latitudinal sectors of the
+Great Barrier Reef. Reefs are
+numbered as follows: 1 Day
+Reef, 2 Yonge Reef, 3 No Name
+Reef, 4 Macgillivray Reef, 5
+Lizard Island, 6 North Direction
+Island, 7 Martin Reef, 8 Linnet
+Reef, 9 Maxwell Reef, 10 Dip
+Reef, 11 Knife Reef, 12 Fork
+Reef, 13 Kelso Reef, 14 Little
+Kelso Reef, 15 Davies Reef,
+16 Orpheus Island, 17 Magnetic
+Island, 18 Middle Reef
+
+
+
+
+hence the initiation of SEB, artiWcial injuries were created     was used to examine diVerences in ciliate densities on mid-
+in two positions: one completely surrounded by intact coral      branch injuries among species over the three sampling peri-
+tissue (mid-branch injury), and one immediately adjacent to      ods (7, 14 and 44 days after injury). Basal injuries were
+exposed skeleton at the base of branches (basal injury). Cil-    excluded from the second analysis because they were gen-
+iate densities were assessed 7, 14 and 44 days after injuries    erally obscured by heavy fouling 14 days after injury. For
+were inXicted.                                                   this reason, only mid-branch injuries were used in subse-
+   ArtiWcial injuries were created on branches in situ using     quent injury experiments.
+an airgun attached to a SCUBA tank. High-pressure air               A full-scale experiment was conducted at Lizard Island
+removed coral tissue, but the underlying skeleton was not        over the austral summer of 2004/2005 to determine rates of
+visibly damaged, mimicking the removal of coral tissue by        colonisation of artiWcial injuries by ciliates, changes in cili-
+corallivorous starWsh (Acanthaster planci) or gastropods         ate densities through time, levels of coral mortality associ-
+(Drupella spp.). The size of the injury was restricted using     ated with their presence, and if the band-like manifestation
+a square plastic shield with a 2 cm £ 2 cm window held in        of SEB developed following ciliate colonisation of injuries.
+front of the coral branch. Injuries in the two branch posi-      ArtiWcial injuries were inXicted mid-branch, as described
+tions (basally and mid-branch) were inXicted on 20 physio-       above, on 90 branches of each of A. muricata, P. damicor-
+logically separate branches of three scleractinian species       nis and P. cylindrica. 90 uninjured branches of each species
+commonly aVected by SEB: A. muricata, Pocillopora                were also tagged (experimental controls). Injured and unin-
+damicornis and Porites cylindrica. ArtiWcially injured           jured branches were examined in situ on days 1, 5, 10, 15,
+branches and an equal number of uninjured control                20 and 133 and all injuries remeasured (maximum and per-
+branches (20 per species) were tagged using plastic cable        pendicular diameters). At each sampling, 15 randomly
+ties to assist in their relocation. Five injured and Wve unin-   selected injured and uninjured branches of each species
+jured branches of each species were then collected 7, 14         were collected and examined microscopically, as described
+and 44 days after injury using bone cutters. Each branch         above. Numbers of ciliates on the entire injury were
+was placed in a separate sealed plastic bag and transported      counted when densities were low or in six replicate
+immersed in seawater. All injured and non-injured branches       5 mm £ 5 mm areas subsampled haphazardly within each
+were examined microscopically, and the number of ciliates        injury site when densities were high. Ciliate densities were
+per injury (injured branches) or per 2 cm £ 2 cm area            then standardised to the number per cm2.
+(uninjured branches) was recorded.                                  The eVects of coral species and time on the proportion of
+   DiVerences in ciliate densities among coral species and       injuries with ciliates present were tested using the linear
+between injury positions over time (7 vs. 14 day samples)        model: Proportion with ciliates = Species + Time +
+were examined using a three-factor, fully orthogonal             Species £ Time. The response variable was the binary clas-
+ANOVA, with coral species, injury position and time              siWcation of injuries with ciliates either present or absent.
+treated as Wxed factors. In addition, a two-factor ANOVA         Data were analysed using logistic regression with categorical
+
+123
+Coral Reefs (2008) 27:257–272                                                                                                   261
+
+
+variables, where the logit (the log of the ratio of probability   scleractinian and hydrocoral taxa surveyed each year. At
+of ciliates present vs. ciliates absent) was the link function    the transect level, SEB prevalence ranged from 0 to 11.9%
+(McCullagh and Nelder 1989). A two-way Wxed factor                of combined scleractinian and hydrocoral taxa.
+ANCOVA controlling for injury size was used to test for              SEB aVected a wide range of coral hosts, including 12
+changes in ciliate densities through time and between spe-        families, 26 genera and 81 species of scleractinians, plus at
+cies. Single degrees of freedom ANCOVA and Tukey’s                least one species of Millepora (O: Hydrocorallina)
+HSD tests were subsequently used to identify when                 (Table 1). Susceptibility to SEB varied signiWcantly among
+changes in ciliate densities occurred in each species.            scleractinian and hydrocoral families (2 = 2780.93,
+Changes in injury size on the 15 branches of each species         df = 12, p < 0.001). Pocilloporid corals were »1.5 times
+collected 133 days after injury were examined using a mul-        more susceptible than acroporids, »5 times more suscepti-
+tivariate repeated measures ANOVA, followed by single             ble than poritids and greater than Wve times more suscepti-
+degrees of freedom ANOVA and Tukey’s HSD tests to                 ble than corals in all other families (Table 1, Fig. 3).
+determine the timing of signiWcant changes in injury size.        Although pocilloporids were the most vulnerable to SEB,
+                                                                  57% of cases were recorded from acroporid corals, reXect-
+Aquarium injury experiment                                        ing the greater abundance of this family in surveys. In com-
+                                                                  parison, 18% of cases were recorded from pocilloporid
+To evaluate the possibility that other reef organisms, partic-    corals, 20% from poritid corals, 3.6% from faviids and less
+ularly Wsh and corallivores such as Drupella spp., act as         than 1% of cases from the remaining susceptible families.
+vectors and transmit ciliates to injuries, an exclusion exper-    Colonies with signs of SEB also showed signs of other dis-
+iment was carried out in aquaria. Thirty branches of A.           eases, including tumors and cyanobacterial infections, how-
+muricata, P. damicornis and P. cylindrica were collected          ever the prevalence of colonies with multiple disease signs
+from the Weld experimental site and transported immersed          was very low (Table 1).
+in seawater to the laboratory. Branches were cleaned of all          In situ monitoring over 4 weeks revealed that SEB dis-
+visible microfauna and Xora. Each broken branch edge was          ease fronts progressed on all but one tagged branch of A.
+covered with non-toxic modelling clay and placed in a 3 cm        muricata (n = 18 branches). Rates of linear progression
+long section of PVC piping, which held branches upright in        ranged from 0.3 to 3.3 mm/day, with an average (§SE)
+racks. Ten branches of each species were randomly                 progression rate of 2 § 0.3 mm/day (n = 17 branches) in
+assigned to one of three aquaria and mid-branch injuries          December 2004.
+(2 cm £ 2 cm) were created on Wve randomly chosen
+branches of each species in each aquarium. Thus, each             In situ injury experiments
+aquarium contained Wve injured and Wve uninjured
+branches of each coral species. Aquaria were supplied with        Halofolliculina corallasia colonised injuries created on all
+a high Xow of unWltered seawater pumped from the local            three experimental coral species in the pilot Weld study
+reef Xat and fragments were examined microscopically for          (Table 2), whereas no ciliates were observed on control
+the presence of ciliates 5 days after injury.                     branches or on healthy parts of injured branches, suggest-
+                                                                  ing that injury enhances the ability of ciliates to colonise
+                                                                  corals. The suitability of exposed skeleton for ciliate
+Results                                                           colonisation diVered signiWcantly among coral species,
+                                                                  injury position and time after injury, with A. muricata and
+Distribution, prevalence, host range and rate of disease          P. cylindrica being preferred hosts. A total of 100% of
+progression                                                       injuries on A. muricata and P. cylindrica were colonised within
+                                                                  7 days, whereas only 70% of injuries on P. damicornis
+SEB was present on all reefs surveyed (n = 18) in 2005 and        were colonised by this time. Ciliates were recorded on both
+on all but one reef (Middle Reef in the Townsville sector)        basal and mid-branch injuries, the latter indicating that cili-
+in 2004 and 2006. SEB accounted for the majority                  ates either traverse live coral tissue to reach injured areas or
+(40–60%) of disease cases recorded in each year (data for         settle directly onto exposed skeleton from the water column.
+other diseases not shown), making SEB the most prevalent          Patterns in ciliate densities for the two injury positions diVered
+coral disease in regions surveyed. SEB predominantly aVected      among the three species (ANOVA(Injury position £ Species):
+scleractinian corals, but also at least one species of Mille-     p < 0.001, Table 3). On A. muricata, basal injuries were
+pora (O: Hydrocorallina) (Table 1); it was not observed to        colonised by higher densities of ciliates than mid-branch
+aVect alcyonaceans, gorgonians or antipatharians. SEB             injuries (Tukey’s HSD: p < 0.001), while on P. damicornis
+aVected between 1.2% (1,101 of 91,552 colonies in 2006)           and P. cylindrica, ciliate densities did not diVer signiW-
+and 2.3% (2,177 of 96,148 colonies in 2005) of combined           cantly between injuries at the two branch positions.
+
+                                                                                                                        123
+      Table 1 Prevalence and host range of skeletal eroding band (SEB) in annual surveys of 18 reefs of the Great Barrier Reef between 2004 and 2006                                        262
+
+      Family              Species or                   Total # of colonies      Total # of colonies             Total # of      Prevalence       Prevalence of SEB +   Records of species
+                          taxonomic group              with SEB                 with SEB + other diseases       colonies        of SEB (%)       other disease (%)     or taxa with SEB
+123
+                                                                                                                surveyed
+
+      Pocilloporidae                                     954                    47ab                            20,316          4.7                0.002               X*^
+                          Other Pocilloporids             85                    2ab                             997             8.5                0.002               X*^
+                          Pocillopora eydouxi                                                                                                                          X
+                          Pocillopora meandrina                                                                                                                        X
+                          Pocillopora verrucosa                                                                                                                        X*^
+                          Seriatopora spp.               259                    15a                             4,445           5.8                0.003               X*
+                          Seriatopora hystrix                                   a                                                                                      X*
+                          Pocillopora damicornis         181                    5a                              4,213           4.3                0.001               X*^
+                          Stylophora pistillata          429                    25a                             10,661          4                  0.002               X*^
+      Acroporidae                                      3,067                    32ab                            100,234         3.1               <0.001               X*^
+                          Bottlebrush Acropora           559                    2a                              10,090          5.5               <0.001               X*
+                          Acropora echinata                                                                                                                            X
+                          Acropora longicyathus                                 a                                                                                      X
+                          Staghorn Acropora            1,776                    15a                             40,898          4.3               <0.001               X*^
+                          Acropora Xorida                                                                                                                              X^
+                          Acropora grandis                                                                                                                             X*
+                          Acropora intermedia                                   a                                                                                      X*
+                          Acropora micropthalma                                                                                                                        X*
+                          Acropora muricata                                     a                                                                                      X*^
+                          Acropora pulchra                                                                                                                             X
+                          Acropora robusta                                                                                                                             X
+                          Acropora yongei                                                                                                                              X*
+                          Tabulate Acropora              132                    3ab                             3,725           3.5                0.001               X*^
+                          Acropora clathrata                                                                                                                           X^
+                          Acropora cytherea                                                                                                                            X*
+                          Acropora downingi                                                                                                                            ^
+                          Acropora hyacinthus                                   a                                                                                      X*^
+                          Clumping Acropora               20                    4a                              534             3.7                0.007               X
+                          Acropora listeri                                                                                                                             X
+                          Bushy Acropora                  78                    1a                              2,531           3.1               <0.001               X*^
+                          Acropora aspera                                                                                                                              ^
+                          Acropora austera                                                                                                                             X*
+                          Acropora elseyi                                                                                                                              X
+                                                                                                                                                                                            Coral Reefs (2008) 27:257–272
+      Table 1 continued
+      Family      Species or                  Total # of colonies   Total # of colonies         Total # of   Prevalence   Prevalence of SEB +   Records of species
+                  taxonomic group             with SEB              with SEB + other diseases   colonies     of SEB (%)   other disease (%)     or taxa with SEB
+                                                                                                surveyed
+
+                  Acropora horrida                                                                                                              X
+                  Acropora loripes                                                                                                              X*
+                  Acropora sarmentosa                                                                                                           X
+                                                                                                                                                                     Coral Reefs (2008) 27:257–272
+
+
+
+                  Acropora valida                                                                                                               X*^
+                  Corymbose Acropora            223                 5a                          9,280        2.4           0.001                X*
+                  Acropora aculeus                                                                                                              X
+                  Acropora chesterWeldensis                                                                                                     X
+                  Acropora divaricata                                                                                                           X
+                  Acropora donei                                                                                                                X
+                  Acropora kimbiensis                               a                                                                           X
+                  Acropora latistella                               a                                                                           X
+                  Acropora lutkeni                                                                                                              X
+                  Acropora millepora                                a                                                                           X*
+                  Acropora nasuta                                   a                                                                           X*
+                  Acropora secale                                                                                                               X
+                  Acropora spathulata                               a                                                                           X
+                  Acropora subulata                                                                                                             X
+                  Acropora tenuis                                                                                                               X^
+                  Digitate Acropora             122                                             7,246        1.7                                X*
+                  Acropora digitifera                                                                                                           X
+                  Acropora gemmifera                                                                                                            X*
+                  Acropora humulis                                                                                                              X*
+                  Acropora monticulosa                                                                                                          X*
+                  Isoporan                      100                                             10,303       1                                  X*
+                  Acropora bruggemanni                                                                                                          X
+                  Acropora palifera                                                                                                             X*
+                  Astreopora                      1                                             1,349        0.1                                X*
+                  Montipora                      56                 2a                          14,186       0.4          <0.001                X*^
+                  Montipora hispida                                                                                                             X
+                  Montipora monasteriata                                                                                                        ^
+                  Montipora spumosa                                 a                                                                           X
+
+123
+                                                                                                                                                                     263
+      Table 1 continued                                                                                                                                                 264
+      Family          Species or                 Total # of colonies   Total # of colonies         Total # of   Prevalence   Prevalence of SEB +   Records of species
+123                   taxonomic group            with SEB              with SEB + other diseases   colonies     of SEB (%)   other disease (%)     or taxa with SEB
+                                                                                                   surveyed
+
+      Poritidae                                  1,074                 10ab                        102,892      1            <0.001                X*
+                      Branching Porites            897                 12ab                        60,579       1.5          <0.001                X
+                      Porites cylindrica                               a                                                                           X
+                      Porites nigrescens                                                                                                           X
+                      Massive Porites              123                 a                           15,166       0.8                                X*
+                      Other Porites                 54                                             15,805       0.3                                X
+                      Porites lichen                                                                                                               X
+                      Porites rus                                                                                                                  X
+                      Goniopora/Alveopora            0                                             11,342                                          X*
+      Merulinidae                                   14                                             1,865        0.8                                X*^
+                      Hydnophora exesa                                                                                                             X
+                      Hydnophora microconos                                                                                                        ^
+                      Hydnophora rigida                                                                                                            X*
+      Faviidae                                     196                 1a                          36,537       0.5          <0.001                X*^
+                      Other Faviidae               149                 1a                          13,514       1.1          <0.001                X*
+                      Cyphastrea chalcidium                                                                                                        ^
+                      Cyphastrea serailia                                                                                                          X^
+                      Echinopora gemmacea                                                                                                          X
+                      Echinopora horrida                                                           a                                               X*
+                      Echinopora lamellose                                                                                                         X*
+                      Echinopora mammiformis                                                                                                       X
+                      Diploastrea heliopora                                                                                                        X
+                      Leptastrea purpurea                                                                                                          ^
+                      Leptoria phrygia                                                                                                             X
+                      Platygyra/Goniastrea          38                                             10,872       0.4                                X*
+                      Platygyra daedalea                                                                                                           X
+                      Platygyra meandrina                                                                                                          X
+                      Goniastrea aspera                                                                                                            X
+                      Goniastrea edwardsi                                                                                                          X
+                      Goniastrea retiformis                                                                                                        X^
+                      Favia/Favites/Montastrea       9                                             12,151       0.1                                X*
+                      Favia pallida                                                                                                                X
+                      Favia stelligera                                                                                                             X^
+                      Favites abdida                                                                                                               ^
+                                                                                                                                                                        Coral Reefs (2008) 27:257–272
+      Table 1 continued
+      Family                            Species or                        Total # of colonies    Total # of colonies          Total # of    Prevalence    Prevalence of SEB +      Records of species
+                                        taxonomic group                   with SEB               with SEB + other diseases    colonies      of SEB (%)    other disease (%)        or taxa with SEB
+                                                                                                                              surveyed
+                                                                                                                                                                                                          Coral Reefs (2008) 27:257–272
+
+
+
+      Oculiniidae                                                             29                                              5,214         0.6                                    X*
+                                        Galaxea astreata                                                                                                                           X
+                                        Galaxea fascicularis                                                                                                                       X
+      Pectiniidae                                                              4                                              829           0.5                                    X*
+                                        Mycedium elephantotus                                                                                                                      X
+      Mussidae                                                                 9                 1a                           2,866         0.3            <0.001                  X*
+                                        Lobophyllia corymbosa                                                                                                                      X
+                                        Lobophyllia hemprichii                                                                                                                     X
+                                        Scolymia sp.                                                                                                                               X
+                                        Symphyllia sp.                                                                                                                             X
+      Dendrophyllidae                                                          3                                              1,124         0.3                                    X
+                                        Turbinaria retiformis                                                                                                                      X
+                                        Turbinaria stellulata                                                                                                                      X
+      Siderastreidae                    Coscinarea                             1                                              1,065         0.1                                    X
+      Agariciidae                                                              1                                              1,899         0.1                                    X*^
+                                        Pachyseris rugosa                                                                                                                          ^
+      Fungiidae                         Podabacia crustacea                    1                                              4,217         0.02                                   X*
+      Milleporidae (O:Hydocorallina)                                          16                                              4,068         0.4                                    X*
+                                        Millepora sp.                                                                                                                              X
+                                        Millepora tenella                                                                                                                          X
+                                        Number of families aVected            13
+                                        Minimum # of species aVected          82
+      Taxa showing signs of SEB, either alone or in combination with other disease signs, are listed. X denotes records of SEB from this study; * denotes records of SEB from Willis et al. (2004); and
+      ^ denotes records of SEB from Antonius and Lipscomb (2001). Online lowercase letters denote other diseases recorded from colonies with signs of SEB: a = other cyanobacterial infections,
+      b = tumours
+
+
+
+
+123
+                                                                                                                                                                                                          265
+266                                                                                                                                   Coral Reefs (2008) 27:257–272
+
+
+Fig. 3 Prevalence of SEB                                                60.0
+within each family and order                                                                                                 % of taxa affected
+(black bars) and the percentage                                         40.0                                                 % of all SEB cases recorded from taxa
+of total SEB cases recorded from
+each family and order (white                                            20.0
+bars). Families and Order shown
+                                                                         5.0
+in rank order of SEB prevalence
+
+
+
+                                                       Percentage (%)
+                                                                         4.5
+                                                                         4.0
+                                                                         3.5
+                                                                         3.0
+                                                                         2.5
+                                                                         2.0
+                                                                         1.5
+                                                                         1.0
+                                                                         0.5
+                                                                         0.0
+                                                                                     ae ridae itidae nidae iidae viidae iidae allina sidae llidae eidae iidae giidae
+                                                                                orid    o   Por Meruli Oculin  Fa Pectin docor Mus rophy erastr Agaric Fun
+                                                                           illop Acrop
+                                                                        Poc                                           O:H
+                                                                                                                         y
+                                                                                                                                   Den
+                                                                                                                                       d  Sid
+                                                                                                             Coral families and orders
+
+
+Table 2 Colonisation of mid and basal branch injuries created on three coral species (Acropora muricata, Porites cylindrica and Pocillopora
+damicornis) by the ciliate Halofolliculina corallasia
+Species            Parameter (ciliate density      Days after injury
+                   per cm2, or % of injuries
+                   with ciliates)                  7                                                           14                                           44
+
+                                                   Mid-branch                          Basal                   Mid-branch           Basal                   Mid-branch
+
+A. muricata        Mean # ciliates                 110.02 § 95.8                       425.07 § 120.8          386.4 § 55           661.33 § 238.1          20.55 § 13
+                   % of injuries with ciliates     100 (5)                             100 (5)                 100 (5)              100 (5)                 3
+P. cylindrica      Mean # ciliates                 19.5 § 6.6                          14.1 § 34.1             192.9 § 47.5         340 § 81.4              30.45 § 1.6
+                   % of injuries with ciliates     100 (5)                             100 (5)                 100 (5)              100 (5)                 5
+P. damicornis      Mean # ciliates                 6 § 1.1                             0.95 § 5.8              2.25 § 0.1           5.5 § 5.5               0
+                   % of injuries with ciliates     100 (5)                             40 (2)                  80 (4)               20 (1)                  0
+Mean ciliate densities (§ SE) per wound and % of injuries with ciliates are compared through time (7–44 days after injury) for each coral. Number
+of injuries with ciliates present shown in parentheses
+
+Patterns in ciliate densities diVered among the three coral                                Table 3 Three factor ANOVA comparing densities of the ciliate
+species through time, both when densities were compared                                    Halofolliculina corallasia on mid and basal branch injuries created on
+between the Wrst two sampling times (7 and 14 days after                                   three coral species (Acropora muricata, Porites cylindrica and Pocil-
+                                                                                           lopora damicornis), 7 and 14 days after injury
+injury) for the two injury positions (ANOVA(Time £ Species):
+p < 0.001, Table 3) and when densities on mid-branch inju-                                 Source of variation                          df       F               p
+ries alone were compared among all three sampling times                                    Time                                         1         4.356              0.042*
+(7, 14 and 44 days after injury) (ANOVA(Time £ Species):                                   Injury position                              1         1.277              0.264
+F = 6.213, df = 2, p < 0.001). Given the problem of deWn-
+                                                                                           Species                                      2        80.012          <0.001*
+ing the area of basal injuries by day 44 because of heavy
+                                                                                           Time £ injury position                       1         0.048              0.828
+fouling, only mid-branch injuries were used in subsequent
+                                                                                           Time £ species                               2        10.015          <0.001*
+experiments.
+                                                                                           Injury position £ species                    2        10.031          <0.001*
+   The full-scale, Weld injury experiment conWrmed that
+                                                                                           Time £ injury position £ species             2         1.370              0.264
+recently exposed skeleton is a necessary precursor for colo-
+nisation of otherwise healthy corals by H. corallasia. More                                Data are log + 0.0001 transformed
+than 90% of artiWcially-created lesions (n = 45) contained                                 * denotes signiWcance at  = 0.05
+ciliates within 5 days (Fig. 4), whereas no ciliates were
+observed on control branches or on healthy areas of injured                                (Fig. 4, Table 4). For P. cylindrica, 100% of injuries were
+branches (not shown). Rates of injury colonisation again                                   colonised within 24 h and ciliates were recorded on all
+varied among the three coral species and through time                                      wounds except in the Wnal 4.5-month sample, at which time
+
+
+123
+Coral Reefs (2008) 27:257–272                                                                                                                                                                 267
+
+
+                                    100                                                   A.muricata     suitable host than P. damicornis, A. muricata was signiW-
+                                                                                          P.cylindrica   cantly less suitable than P. cylindrica, as indicated by the at
+
+
+
+
+ Percentage of injuries colonised
+                                                                                          P.damicornis
+                                    80                                                                   least ten-fold fewer ciliates colonising A. muricata injuries
+                                                                                                         (63 § 10 [§SE] ciliates per cm2). P. cylindrica clearly pro-
+                                    60                                                                   vided the most suitable substratum for ciliates, with mean
+                                                                                                         ciliate densities at least doubling every 5 days until peaking
+                                    40                                                                   at 20 days after injury (Figure 5). However, ciliate densities
+                                                                                                         declined to zero by 4.5 months after injury on all three coral
+                                    20                                                                   species. Ciliate declines on P. damicornis were commensu-
+                                                                                                         rate with the healing of wounds in this species (Fig. 6i).
+                                     0                                                                   The absence of ciliates on A. muricata and P. cylindrica
+                                          1           5    10         15        20      133
+                                                          Days after injury                              injuries by the end of the study could be partly attributed to
+                                                                                                         reductions of exposed skeleton through injury repair, how-
+Fig. 4 Comparison of the percentage of artiWcially-created injuries
+having the ciliate, Halofolliculina corallasia, present among three cor-                                 ever heavy fouling of the remaining exposed skeleton, pre-
+al species (Acropora muricata, Porites cylindrica and Pocillopora                                        dominantly by turWng and coralline algae (Fig. 6g,h), was
+damicornis), 1–133 days after injury                                                                     primarily responsible for reduced densities of ciliates.
+                                                                                                         Thus, although H. corallasia is a good early coloniser, it is
+                                                                                                         a poor competitor relative to the general fouling commu-
+Table 4 Logistic regression comparing the proportion of mid branch
+injuries colonized by the ciliate Halofolliculina corallasia, 1–133 days
+                                                                                                         nity.
+after injury                                                                                                The presence of ciliates on coral skeleton exposed via
+                                                                                                         injury did not lead to additional tissue loss on any of the
+Factor                                        Model 1                 Model 2 (saturated model)
+                                                                                                         injured branches. In fact, overall, the size of injuries
+                                              df 2       p           df 2               p              declined through time (Fig. 7; ANOVA(Time): Pillai’s
+Time                                          1 47.9655 <0.0001 2             12.8586         <0.01*
+                                                                                                         trace = 0.918, F = 69.41, df = 6, p < 0.001) indicating
+                                                                                                         repair rather than degeneration of wounds in the presence
+Species                                       2 47.8443 <0.0001 1             0.3940           0.53
+                                                                                                         of H. corallasia ciliates. The extent to which injuries
+Time £ Species                                                        2       7.4325           0.02*
+                                                                                                         healed varied among the three species, as indicted by var-
+ in Schwarz’s Baysian criterion between model 1 and 2 = 109.32.                                         iation in the timing and magnitude of declines in injury size
+Positive change in Schwarz’s Baysian criterion indicates improvement
+of model by interaction term
+                                                                                                         among species (Fig. 7; ANOVA (Time £ Species): Pillai’s
+* denotes signiWcance at  = 0.05
+                                                                                                         trace = 1.305, F = 11.9, df = 12, p < 0.001). All injuries on
+                                                                                                         P. damicornis healed completely by 4.5 months, although
+                                                                                                         tissue in the repaired area was visibly paler than surround-
+no ciliates were detected. For A. muricata, colonisation was                                             ing tissues. In contrast, none of the lesions completely
+slower, taking 10 days for 100% of injuries to be colonised,                                             healed in the other two species. For A. muricata, there was
+although again ciliates were present on all injuries prior to                                            no signiWcant decrease in mean injury size over the
+the Wnal, 4.5-month sample. In contrast, although 86% of
+P. damicornis injuries were colonised by day 5, this propor-
+                                                                                                                                             1000
+tion declined rapidly to »13% within 3 weeks of injury,
+                                                                                                                                                                                     A.muricata
+suggesting that exposed skeleton of P. damicornis repre-                                                                                                                             P.cylindrica
+
+
+
+
+                                                                                                          Mean log10 # ciliates cm-2 (±SE)
+sents a less suitable substrate for ciliate colonisation and                                                                                 100                                     P.damicornis
+
+population growth.
+   Patterns in the magnitude and timing of changes in mean
+                                                                                                                                              10
+ciliate densities varied among the three coral species
+(ANCOVA(Time £ Species): F = 22.694, df = 10, p < 0.001).
+Similarly, overall mean ciliate densities diVered among                                                                                        1
+species (ANCOVA(Species): F = 177.5, df = 2, p < 0.0001),
+further indicating that skeletons of the three species diVer in
+their suitability for ciliate colonisation and replication                                                                                    0.1
+                                                                                                                                                    1   5    10       15        20   133
+(Fig. 5). Average ciliate densities were greatest on P. cyl-                                                                                                Days after injury
+indrica injuries, reaching on average 834 § 59 (§SE) cili-
+                                                                                                         Fig. 5 Mean densities of the ciliate, Halofolliculina corallasia, on
+ates per cm2 20 days after injury, and were lowest on P.                                                 injuries artiWcially created on three scleractinian species (Acropora
+damicornis lesions, reaching on average only 41.9 § 15.7                                                 muricata, Porites cylindrica and Pocillopora damicornis), 1–133 days
+(§ SE) ciliates per cm2 by day 15. Although a more                                                       after injury
+
+
+                                                                                                                                                                                     123
+268                                                                                                              Coral Reefs (2008) 27:257–272
+
+
+Fig. 6 Representative images
+showing temporal sequences in
+the colonisation of injuries artiW-
+cially created on branches of (a,
+d, g) Porites cylindrica, (b, e, h)
+Acropora muricata, and (c, f, i)
+Pocillopora damicornis a–c bare
+white skeleton at time 0 follow-
+ing injury; d–e light fouling with
+some healing on all species at
+10–20 days after injury [note
+high ciliate densities on P. cyl-
+indrica in d]; g, h healing along
+the edges of injuries, decreased
+injury size and heavy fouling of
+skeleton in P. cylindrica and
+A. muricata 133 days after injury;
+and i complete healing of injury
+in P. damicornis 133 days after
+injury
+
+
+
+
+                          5                                                     by ciliates in the absence of other organisms. Ciliates were
+                                                                                again absent from areas of healthy tissue on both the
+                          4                                                     injured and control branches.
+
+
+
+
+ Injury size cm 2 (±SE)
+                          3
+                                                                                Discussion
+                          2
+                                                                                SEB distribution, prevalence, host range and rate of disease
+                                  A.muricata                                    progression
+                          1       P.cylindrica
+                                  P.damicornis
+                                                                                Tissue loss associated with the progression of band-like
+                          0
+                              0    1        5          10       15   20   133
+                                                                                aggregations of H. corallasia along branches of the stag-
+                                                 Days after injury
+                                                                                horn coral, A. muricata, is recorded here and conWrms that
+                                                                                SEB infections are associated with progressive tissue loss
+Fig. 7 Mean size of injuries, artiWcially created on three scleractinian        of corals on the Great Barrier Reef (GBR). Mean and maxi-
+species (Acropora muricata, Porites cylindrica and Pocillopora dami-
+cornis), 1–133 days after injury
+                                                                                mum rates of disease progression, of 2 § 0.3 (§ SE) and
+                                                                                3.3 mm/day, respectively, are low compared with rates of
+                                                                                tissue loss caused by other coral diseases on the GBR. For
+4.5 months. Regeneration of injuries in P. cylindrica was                       example, mean rates of SEB progression are less than half
+relatively slow compared with regeneration in P. damicor-                       those reported for BBD at Lizard Island (4.1–9.9 mm/day,
+nis, with injury size declining by 40% between day 20                           Boyett et al. 2007) and are likely to be slower than those
+(4 § 0.04 [§SE] cm2) and 4.5 months after injury                                reported for white syndrome in the southern GBR (up to
+(2.3 § 0.26 [§SE] cm2).                                                         57.8 mm2/day, RoV et al. 2006), although faster than those
+                                                                                recorded much further south (> 1,000 km south of the
+Aquarium injury experiment                                                      GBR) in the Solitary Islands (maximum of 0.52 mm/day,
+                                                                                Dalton and Smith 2006). Although rates of disease progres-
+Exclusion of macroscopic organisms in the aquarium injury                       sion are generally low for SEB, they are, nevertheless,
+experiment conWrmed that macroscopic vectors are not                            within the range of progression rates recorded for several
+required for colonisation of newly exposed coral skeleton                       diseases that have caused signiWcant mortality on Carib-
+by H. corallasia. 85% of injured branches were colonised                        bean reefs (cf. 3–10 mm/day for BBD; 3–30 mm/day for
+
+123
+Coral Reefs (2008) 27:257–272                                                                                                 269
+
+
+white plague II; 3.1 mm/day for white plague I (summa-            (»3.0% of acroporids showed signs of SEB), their greater
+rised in Weil 2004); and 6 mm/month for yellow band dis-          abundance meant that they accounted for the majority
+ease in the Caribbean, Cervino et al. 2001). Although rates       (57%) of SEB cases. The greater susceptibility of corals in
+of tissue loss caused by SEB may be at the lower end of the       the family Pocilloporidae (1.5 times more susceptible than
+range for coral diseases, its widespread distribution sug-        acroporids, 5 times more than poritids, and greater than 5
+gests that it could nevertheless have a signiWcant impact on      times more susceptible than corals in other families) meant
+coral assemblages.                                                that when combined with the Acroporidae, these two fami-
+   The ubiquity of SEB on all reefs surveyed along more           lies accounted for »75% of SEB cases. Interestingly,
+than 1,200 km of the GBR (combined data from this study           acroporid corals are the most common hosts for a number
+and Willis et al. 2004) and on all reefs surveyed in the Red      of other diseases, including black band (Page and Willis
+Sea (Winkler et al. 2004) suggests that SEB is endemic            2006) and brown band on the GBR (Willis et al. 2004) and
+within these regions. The absence of SEB from one reef            white band in the Caribbean (Precht et al. 2002), highlight-
+(Middle Reef, central GBR) in two survey years (2004 and          ing the vulnerability of this family to disease.
+2006) is more likely to reXect its low abundance on this              Disease records from this study signiWcantly expand the
+reef, rather than its complete absence in some years. The         known host range for SEB. The 82 species with signs of
+potential to miss a disease when its prevalence is low high-      SEB recorded is over 2.5 times greater than host ranges
+lights the need for temporally and spatially replicated sur-      reported in previous smaller studies (Antonius and Lips-
+veys to gain accurate distributional ranges of coral diseases.    comb 2001; Willis et al. 2004). This increase in host range is
+The widespread distribution of SEB, not only along the            undoubtedly a function of repeatedly surveying a wider
+GBR, but also throughout the Indo-PaciWc (Motupore:               range of reef types and coral communities than in previous
+Antonius 1999 and New Britain, PNG: Neale, personal               studies, highlighting the important contributions that large-
+communication; Mauritius, Red Sea: Antonius and Lips-             scale spatial and temporal studies make to epidemiological
+comb 2001; Philippines: Harvell et al. 2007; Palau, Mar-          studies of coral disease. Continuation of large-scale surveys
+shall Is., Solitary Is.: personal observation), in combination    is required, however, to conWrm that increased susceptibility
+with the recent discovery of a similar disease in the Carib-      of corals to SEB has not contributed to the documented
+bean (Cróquer et al. 2006b) suggest that halofolliculinid         increase in host range. SEB currently has a greater docu-
+infections may be endemic in coral populations worldwide.         mented host range than any other coral disease worldwide
+As researchers become more familiar with Weld signs of            (cf. Sutherland et al. 2004). As predicted above for its distri-
+SEB, its distribution range is likely to increase, particularly   butional range, its host range is likely to continue to increase
+in the Indo-PaciWc where coral disease has been understud-        as researchers worldwide become more familiar with its
+ied. SEB may be the only coral disease detectable in the          appearance in the Weld and as more reefs are surveyed.
+fossil record due to the characteristic erosion of coral skele-
+ton during lorica section by motile swarmers of H. corall-        The role of injury in SEB development
+asia (Riegl and Antonius 2003). Hence, the fossil record
+may provide clues on the emergence and spread of SEB on           Results of this study demonstrate that injury enhances the
+geological timescales.                                            ability of the ciliate, H. corallasia, to colonise corals. High
+   The status of SEB as one of the most common coral dis-         proportions (up to 100%) of artiWcially created injuries
+eases on the GBR has remained unchanged over the past             were colonised within 10 days of injury in two of the three
+5 years (Willis et al. 2004; this study). In 2002–03, SEB         experimental coral species, highlighting both the rapid col-
+accounted for 33% of disease cases recorded (n = 1,800)           onisation of injuries by ciliates in the Weld and the ubiqui-
+and was the most prevalent disease on two of the three reefs      tous presence of ciliates in the early fouling community of
+surveyed (Willis et al. 2004). Annual surveys of 18 reefs         bare coral skeleton. The rapid colonisation of injuries by
+between 2004 and 2006 indicate that SEB is still the most         H. corallasia (in as little as 6 hours, personal observation) is
+abundant coral disease on the GBR, accounting for 40–66%          consistent with the 1–8 h morphogenesis times (time to
+of all disease cases. Although the overall prevalence of          metamorphose from motile swarmers to sessile trophonts)
+SEB is low, aVecting only 2% of GBR corals surveyed,              known for other folliculinid ciliates (Andrews 1914, 1923).
+studies in the Red Sea demonstrate that it is capable of          Based on observations that H. corallasia trophonts contain
+infecting up to 51% of corals on a reef, and up to 70% of         zooxanthellae engulfed using ciliary currents (Fig. 1f), it is
+pocilloporid corals in the genus Seriatopora (Winkler et al.      possible that motile swarmers are attracted to sites of recent
+2004). In the present study, pocilloporid corals were also        injury by the release of zooxanthellae from damaged coral
+the most susceptible, with more than 4.5% of pocilloporids        tissues.
+showing signs of SEB. Although acroporid corals were                 Despite initial increases in ciliate densities on artiW-
+only three-quarters as likely to be infected on the GBR           cially-inXicted wounds, ciliates remained in loose, scattered
+
+                                                                                                                       123
+270                                                                                                Coral Reefs (2008) 27:257–272
+
+
+distributions and did not form band-like aggregations asso-       provide only small gaps through which ciliates can
+ciated with tissue lysis on any of the experimental corals.       approach injured areas. Conversely, the more open branch-
+On the contrary, tissues adjacent to injuries regenerated,        ing patterns of A. muricata and P. cylindrica may allow
+decreasing the size of lesions through time, suggesting that      H. corallasia swarmers to more readily evade polyps and
+H. corallasia may not be a primary agent of tissue necrosis.      thereby gain easier access to wounds.
+If this is the case, then tissue loss recorded on 95% of in           Interestingly, diVerences in susceptibility to SEB among
+situ A. muricata colonies with band-like ciliate aggrega-         the three coral species did not reXect their capacity for
+tions on a nearby reef suggests that additional microbial or      injury repair. In particular, injury regeneration in the pres-
+environmental factors, absent from experimental wounds,           ence of ciliates was slowest in P. cylindrica, which is a
+may be required before H. corallasia aggregations become          member of the least susceptible family (of the three experi-
+associated with progressing disease bands. Typically, wild-       mentally injured families) as determined empirically in sur-
+life diseases involve a web of causation including multiple       veys. Moreover, although ciliate densities were lower on
+micro-organisms, nutrition and environmental stressors and        the faster regenerating P. damicornis, in general, changes in
+very few causative agents are both necessary and suYcient         ciliate densities were not matched by changes in rates of
+to produce disease over a wide range of conditions (Wobe-         injury regeneration. For example, ciliate densities on
+ser 2006). Thus, coral health may need to be compromised          P. damicornis injuries increased 40 fold between days 10 and
+in some way before progressing band-like aggregations             15, over which time injury size decreased by »70%. Also,
+develop. For example, reduced energetic reserves in               ciliate densities on P. cylindrica injuries doubled between
+bleached or otherwise compromised corals (Grottoli et al.         days 15 and 20, whereas injuries did not change in size.
+2004) may limit investment in boundary maintenance or             DiVerences in rates of injury repair among species reXect
+impair wound healing (Meesters and Bak 1993; Fine et al.          diVering prioritization of energy allocation to maintenance
+2002), increasing the susceptibility of coral hosts to ciliate    and repair within the life-history strategies of these three
+infections. Shifts in microbial community composition in          species (Hall 1997), but clearly, this is not the main factor
+the mucus of compromised corals (e.g., in bleached corals,        driving susceptibility to SEB.
+Ritchie 2006) may also allow microbes to invade normally              Rather than the capacity for injury repair, vulnerability
+resistant coral tissues. Although vectors were unnecessary        to injury may be more important in determining diVering
+for colonisation of injuries by H. corallasia, corallivores, in   susceptibilities to SEB among the three coral species.
+particular, may play a role in SEB development through            Pocilloporid and acroporid corals, which are the most sus-
+means other than injury creation, for example through the         ceptible coral families on the GBR (Willis et al. 2004), are
+introduction of new microbes during feeding. Experiments          also amongst the preferred prey of both the crown-of-thorns
+on corals with compromised health and involving injuries          starWsh (A. planci) (De’ath and Moran 1998; Pratchett
+created by corallivores may help to elucidate factors lead-       2007) and Drupella snails (Cummings 1999) in the Indo-
+ing to the development of band-like, potentially pathogenic       PaciWc. Moreover, fragmentation is a common part of the
+ciliate aggregations. Microbial studies are also required         life history of branching acroporid corals (Wallace 1985).
+to evaluate the possibility that a primary causative agent        The potential role of injury in disease initiation has been
+initiates tissue necrosis before H. corallasia invades            highlighted previously (Antonius 1981, 1985; Bak and
+secondarily.                                                      Criens 1981) and is likely to underlie correlations between
+    Clear diVerences in susceptibility to SEB among the           corallivores and disease prevalence in the Red Sea (Anto-
+three experimental coral species are likely to relate to both     nius and Riegl 1997, 1998). The high susceptibility of
+ciliate substrate preferences and host resistance mecha-          pocilloporid corals to SEB in the Red Sea supports the
+nisms. Ciliate substrate preferences may reXect diVerences        injury vulnerability hypothesis, however acroporid corals
+in the rugosity or density of exposed coral skeleton or           were less susceptible than some genera (i.e., Hydnophora
+diVerences in colony morphology. The porosity and Wne-            and Galaxea) (Winkler et al. 2004) that are not typically
+scale complexity of P. cylindrica’s skeletal micro-architec-      amongst the preferred prey of crown-of-thorns starWsh or
+ture may provide appropriate interstices within which the         Drupella snails. More detailed analyses of regional diVer-
+ciliates can embed, contributing to the high densities of cil-    ences in taxa susceptibilities to both SEB and injury are
+iates found on this species. The more open corallite struc-       needed to further explore the role of injury vulnerability in
+ture of P. damicornis and particularly its high skeletal          the establishment of this disease.
+density (Marshall 2000) may discourage or inhibit ciliate             The number and impacts of coral diseases have been
+colonisation, contributing to the low densities found on          increasing worldwide in recent years (Harvell et al. 1999;
+injuries of this species. In addition, greater numbers of         McClanahan et al. 2004; Willis et al. 2004; Miller et al.
+H. corallasia swarmers may be ingested by coral polyps in the     2006) and are likely to continue to increase given that there
+closely intertwining branches of P. damicornis, which             are few options for mitigating their impacts (Bruckner
+
+123
+Coral Reefs (2008) 27:257–272                                                                                                                271
+
+
+2002). The identiWcation of injury as a factor that facilitates          Antonius A (1985) Black band disease infection experiments on hex-
+the colonisation of corals by the ciliate, H. corallasia, sug-                acorals and octocorals. Proc 5th Int Coral Reef Congr 6:155–160
+                                                                         Antonius A (1999) Halofolliculina corallasia, a new coral killing cili-
+gests that protection of reefs from activities which injure                   ate on Indo-PaciWc reefs. Coral Reefs 18:300
+corals represents an important management tool. Correla-                 Antonius A, Riegl B (1997) A possible link between coral disease and
+tions between increased tourist activity (Winkler et al. 2004)                a corallivorous snail (Drupella cornus) outbreak in the Red Sea.
+and increased wave action at shallow sites (Antonius and                      Atoll Res Bull 47:1–9
+                                                                         Antonius A, Riegl B (1998) Coral diseases and Drupella cornus inva-
+Lipscomb 2001) with increased prevalence of SEB provide                       sion in the Red Sea. Coral Reefs 17:48
+corroborative evidence of the importance of reef protection              Antonius A, Lipscomb D (2001) First protozoan coral-killer identiWed
+as a management strategy. In particular, management of                        in the Indo-PaciWc. Atoll Res Bull 481–493:1–21
+activities which result in coral breakage (e.g., destructive             Bak RPM, Criens SR (1981) Survival after fragmentation of colonies
+                                                                              of Madacis mirabilis, Acropora palmata and A.cervicornis
+Wshing practices, snorkelling, diving, reef walking, and boat                 (Scleractinia) and the subsequent impact of a coral disease. Proc
+groundings) is an important strategy for minimising the                       4th Int Coral Reef Symp 2:221–227
+transmission and spread of SEB on local scales.                          Boyett H, Bourne D, Willis BL (2007) Elevated temperatures and light
+   In summary, SEB is endemic within the GBR, aVecting                        enhance progression and spread of black band disease on staghorn
+                                                                              corals of the Great Barrier Reef. Mar Biol 151:1711–1720
+»2% of corals in recent surveys, and currently has the wid-              Bruckner AW (2002) Priorities for eVective management of coral dis-
+est host range documented for any coral disease. Reported                     eases. NOAA Technical Memorandum. NMFS-OPR-22. NOAA
+here are measured rates of SEB progression (average                           National Marine Fisheries Service, Silver Springs
+2 § 0.3 [§ SE] mm/day), which, although low in compari-                  Cervino J, Goreau T, Nagelkerken I, Smith GW, Hayes R (2001) Yel-
+                                                                              low band and dark spot syndromes in Caribbean coral: distribu-
+son to rates of progression of other GBR diseases, are nev-                   tion, rate of spread, cytology, and the eVects on abundance and
+ertheless equivalent to or faster than progression rates of                   division rate of zooxanthellae. Hydrobiologia 460:53–63
+diseases that have had signiWcant impacts on Caribbean                   Cróquer A, Bastidas C, Lipscomb D (2006a) Folliculinid ciliates: a
+reefs. Injury facilitates the colonisation of otherwise                       new threat to Caribbean corals? Dis Aquat Org 69:75–78
+                                                                         Cróquer A, Bastidas C, Lipscomp D, Rodríguez-Martínez RE, Jordan-
+healthy corals by H. corallasia, the putative pathogen of                     Dahlgren E, Guzman HM (2006b) First report of folliculinid cili-
+SEB. Vectors were not required for ciliate colonisation of                    ates aVecting Caribbean scleractinian corals. Coral Reefs 25:187–
+injuries in aquaria, suggesting that their motile phases dis-                 191
+perse in the water column. However, the lack of develop-                 Cummings RL (1999) Predation on reef-building corals: multiscale
+                                                                              variation in the density of three corallivorous gastropods, Drupel-
+ment of progressing, band-like aggregations of ciliates on                    la spp. Coral Reefs 18:147–157
+experimental injuries in the Weld suggests that either H. cor-           Dalton SJ, Smith SDA (2006) Coral disease dynamics at a subtropic
+allasia is not the causative agent of tissue loss, or, addi-                  location, Solitary Islands Marine Park, Eastern Australia. Coral
+tional factors that increase its virulence or reduce host                     Reefs 25:37–45
+                                                                         De’ath G, Moran PJ (1998) Factors aVecting the behaviour of crown-
+resistance are required before ciliate infections become                      of-thorns starWsh (Acanthaster planci L.) on the Great Barrier
+pathogenic. Microbial studies are needed to elucidate the                     Reef. 2 Feeding preferences. J Exp Mar Biol Ecol 220:107–126
+potential role of an alternative pathogen in tissue lysis asso-          Fine M, Oren U, Loya Y (2002) Bleaching eVect on regeneration and
+ciated with band-like aggregations of ciliates.                               resource translocation in the coral Oculina patagonica. Mar Ecol
+                                                                              Prog Ser 234:119–125
+                                                                         Garzon-Ferreira J, Zea S (1992) A mass mortality of Gorgonia venta-
+Acknowledgments We thank S. Neale, D. Thomson, D. Bourne,                     lina (Cnidaria: Gorgoniidae) in the Santa Marta area, Caribbean
+S. Anthony, M. Sussman, L. Anderson, M. Fraser, the crew of the RV            coast of Columbia. Bull Mar Sci 50:522–526
+Lady Basten, L. Vail, A. Hoggett, L. Pearce, P. Venables, G. Coleman,    Green E, Bruckner A (2000) The signiWcance of coral disease epizoot-
+C. Syms, P. Munday, M. McCormick, S. Kininmonth and D. Lipscomb               iology for coral reef conservation. Biol Conserv 96:347–361
+for their help and assistance. This research was funded by the ARC       Grottoli AG, Rodrigues LJ, Juarez C (2004) Lipids and stable carbon
+Centre of Excellence for Coral Reef Studies, the Coral Disease Work-          isotopes in two species of Hawaiian corals, Porites compressa
+ing Group of the GEF CRTR Program, the 2004 Lizard Island Fellow-             and Montipora verrusosa, following a bleaching event. Mar Biol
+ship, James Cook University, and a Great Barrier Reef Marine Park             145:621–631
+Authority Science for Management Award. Townsville sector Weld-          Guzman HM, Cortes J (1984) Mortandad de Gorgonia Xabellum Lin-
+work was supported by the Australian Institute of Marine Science.             naeus (Octocorallia:Gorgoniidae) en la costa Caribe de Costa
+Comments by two anonymous reviewers improved this manuscript.                 Rica. Rev Biol Trop 32:305–308
+                                                                         Hall V (1997) EVects of injury on growth, reproduction and survivor-
+                                                                              ship for common reef-crest corals. Proc 8th Int Coral Reef Symp
+                                                                              1:571–574
+References                                                               Harvell CD, Jordan-Dahlgren E, Merkel SM, Rosenberg E, Raymundo
+                                                                              LJ, Smith G, Weil E, Willis BL (2007) Coral disease, environ-
+Andrews EA (1914) Distribution of folliculina in 1914. Biol Bull              mental drivers and the balance between coral and microbial asso-
+    29:373–380                                                                ciates. Oceanography 20:36–59
+Andrews EA (1923) Folliculina: case making, anatomy and transfor-        Harvell CD, Kim K, Burkholder J, Colwell RR, Epstein PR, Grimes J,
+    mation. J Morphol 38:207–278                                              Hofmann EE, Lipp EK, Osterhaus ADME, Overstreet R, Porter
+Antonius A (1981) Coral reef pathobiology: a review. Proc 4th Int Cor-        JW, Smith GW, Vasta GR (1999) Emerging marine diseases—
+    al Reef Symp 2:3–6                                                        climate links and anthropogenic factors. Science 285:1505–1510
+
+
+                                                                                                                                    123
+272                                                                                                               Coral Reefs (2008) 27:257–272
+
+
+Kim K, Harvell CD (2004) The rise and fall of a six year coral-fungal      Raymundo LJH, Harvell CD, Reynolds TL (2003) Porites ulcerative
+     epizootic. Am Nat 164:S52–S63                                              white spot disease: description, prevalence, and host range of a
+Loya Y (2004) Coral reefs of Eliat: past, present and future. In: Rosen-        new coral disease aVecting Indo-PaciWc reefs. Dis Aquat Org
+     berg E, Loya Y (eds) Coral disease and health. Springer, Berlin,           56:95–104
+     pp 1–34                                                               Riegl B, Antonius A (2003) Halofolliculina skeleton eroding band
+Marshall PA (2000) Skeletal damage in reef corals: relating resistance          (SEB): a coral disease with fossilization potential? Coral Reefs
+     to colony morphology. Mar Ecol Prog Ser 200:177–189                        22:48
+McClanahan TR, McLaughlin SM, Davy JE, Wilson WH, Peters EC,               Ritchie KB (2006) Regulation of microbial populations by coral sur-
+     Price KL, Maina J (2004) Observations of a new source of coral             face mucus and mucus-associated bacteria. Mar Ecol Prog Ser
+     mortality along the Kenyan coast. Hydrobiologia 530:469–479                322:1–14
+McCullagh P, Nelder JA (1989) Generalized linear models. Chapman           RoV G, Hoegh-Guldberg O, Fine M (2006) Intra-colonial response to
+     Hall, London                                                               Acroporid “white syndrome” lesions in tabular Acropora spp.
+Meesters EH, Bak RPM (1993) EVects of coral bleaching on tissue                 (Scleractinia). Coral Reefs 25:255–264
+     regeneration potential and coral survival. Mar Ecol Prog Ser          Sutherland KP, Porter JW, Torres C (2004) Disease and immunity in
+     96:189–198                                                                 Caribbean and Indo-PaciWc zooxanthellate corals. Mar Ecol Prog
+Miller J, Waara R, Muller E, Rogers C (2006) Coral bleaching and dis-           Ser 266:273–302
+     ease combine to cause extensive mortality on reefs in US Virgin       Wallace CC (1985) Reproduction, recruitment and fragmentation in
+     Islands. Coral Reefs 25:418                                                nine sympatric species of the coral Acropora. Mar Biol 88:217–
+Nagelkerken I, Buchan K, Smith G, Boniar K, Bush P, Garzon-Ferreira             233
+     J, Botero L, Gayle P, Heberer C, Petrovic C, Pors L, Yoshioka P       Ward JR, LaVerty KD (2004) The elusive baseline of marine disease:
+     (1997) Widespread disease in Caribbean Sea Fans: I Spreading               are diseases in ocean ecosystems increasing? PLoS Biology
+     and general characteristics. Proc 8th Int Coral Reef Symp 1:679–           2:542–547
+     682                                                                   Weil E (2004) Coral reef disease in the wider Caribbean: status and
+Page CA, Willis BL (2006) Distribution, host range and large-scale              prognosis. In: Rosenberg E, Loya Y (eds) Coral disease and
+     variability in the prevalence of black band disease on the Great           health. Springer, Berlin, pp 35–64
+     Barrier Reef, Australia. Dis Aquat Org 69:41–51                       Weil E, Smith G, Gil-Agudelo DL (2006) Status and progress in coral
+Patterson KL, Porter JW, Ritchie KB, Polson SW, Mueller E, Peters               reef disease research. Dis Aquat Org 69:1–7
+     EC, Santavy DL, Smith GW (2002) The etiology of white pox, a          Williams Jr EH, Bartels PJ, Bunkley-Williams L (1999) Predicted dis-
+     lethal disease of the Caribbean elkhorn coral, Acropora palmata.           appearance of coral-reef ramparts: a direct result of major ecolog-
+     Proc Natl Acad Sci USA 99:8725–8730                                        ical disturbances. Global Change Biol 5:839–845
+Porter J, Dustan P, Jaap W, Patterson KL, Kosmynin V, Meier O, Patt-       Willis BL, Page CA, Dinsdale EA (2004) Coral disease on the Great
+     erson M, Parsons M (2001) Patterns of spread of coral disease in           Barrier Reef. In: Rosenberg E, Loya Y (eds) Coral disease and
+     the Florida Keys. Hydrobiologia 460:1–24                                   health. Springer, Berlin, pp 69–104
+Pratchett MS (2007) Feeding preferences of Acanthaster planci (Echi-       Winkler R, Antonius A, Abigail Renegar D (2004) The skeleton erod-
+     nodermata: Asteroidea) under controlled conditions of food avail-          ing band disease on coral reefs of Aqaba, Red Sea. PSZNI Mar
+     ability. Pac Sci 61:113–120                                                Ecol 25:129–144
+Precht WF, Bruckner AW, Aronson RB, Bruckner RJ (2002) Endan-              Wobeser GA (2006) Essentials of disease in wild animals. Blackwell,
+     gered acroporid corals of the Caribbean. Coral Reefs 21:41–42              Ames
+Raymundo LJ, Rosell KB, Reboton CT, Kaczmarsky L (2005) Coral
+     disease on Philippine reefs: genus Porites is a dominant host. Dis
+     Aquat Org 64:181–191
+
+
+
+
+123
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+

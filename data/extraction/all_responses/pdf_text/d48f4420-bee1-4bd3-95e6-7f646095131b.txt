@@ -1,0 +1,432 @@
+                     Internat. Rev. Hydrobiol.      86      2001       1      77–85
+
+
+
+      INEKE WESSELING, ANDRE J. UYCHIAOCO1, PORFIRIO M. ALIÑO1 and JAN E. VERMAAT2
+
+Department of Environmental Science and Water Resources, International Institute for Infrastructural,
+   Hydraulic and Environmental Engineering, P.O. Box 3015, 2601 DA Delft, The Netherlands
+    1
+      Marine Science Institute, University of The Philippines, Diliman, Quezon City, Philippines
+
+
+                           Partial Mortality in Porites Corals:
+                           Variation among Philippine Reefs
+
+       key words: siltation, wave exposure, lesions, tissue necrosis, impact assessment, coral cover
+
+                                                 Abstract
+   Partial mortality or tissue necrosis was quantified in the massive scleractinian coral Porites at three
+sites in The Philippines (Bolinao, NW Luzon; Puerto Galera, Mindoro; and El Nido, N Palawan). Over-
+all, 15 ± 1 (mean ± 1 standard error, 642 replicates) percent of colony area was dead, mean colony area
+was 1135 ± 127 cm2, and lesion density was 1.7 ± 0.1 dm–2. Total live coral cover varied between 20
+and 63% in belt transects, and Porites and Acropora cover were inversely correlated.
+    ANOVA models incorporating effects of site, colony size, sedimentation rates, wave exposure and
+depth were highly significant but explained only a small proportion of the variation observed in lesion
+density and percent dead area (respectively 8 and 2%). Lesion density was found to vary significantly
+with site (contributed 29% to this explained variance), decrease with increasing colony area (33%), and
+increase with increasing sedimentation (23%) and wave exposure (14%). Colony size was significant-
+ly explained by the factor site (contributing 61% to the total 29% explained variance) and depth (34%),
+with the smallest colonies being observed in Bolinao and the largest in El Nido. Densities of lesions
+were highest in Bolinao, intermediate in Puerto Galera, and lowest in El Nido. This pattern is parallel
+to intensity of human reef exploitation and opposite to that in colony size, live coral cover and Acro-
+pora cover. Since only a small part of the observed variance in partial mortality estimators was explain-
+ed by the ANOVAs, other factors not quantified here must have been more important (e.g. disease
+incidence, predation, human exploitation).
+
+
+                                           1. Introduction
+   Reef-building corals are clonal organisms and partial mortality of colony tissue is a com-
+mon phenomenon. Partial mortality or tissue necrosis (RIEGL, 1995) involves the disappear-
+ance or retreat of living tissue from part(s) of the colony surface (called lesions) and may
+have many causes, ranging from diseases and predation to sediment scouring (RIEGL, 1995;
+MEESTERS et al., 1997; LEWIS, 1997). Since lesions are often temporary injuries, their inci-
+dence as well as healing rates are considered good indicators for coral health (JACKSON 1997;
+VAN WOESIK, 1998).
+   Heavy sedimentation has been associated with increased partial mortality (HODGSON, 1990;
+ROGERS, 1990; CLARKE et al., 1993; RIEGL, 1995; NOWLIS et al., 1997). The effect may be
+linked to increased silt loads either directly (e.g. scouring) or indirectly (increased turbidity
+reduces available energy; MEESTERS et al., 1992). Increased sedimentation may have several
+other sublethal effects, such as reduction in recruitment rates (ROGERS, 1990; BABCOCK and
+DAVIES, 1991; WITTENBERG and HUNTE, 1992), change in average colony size (CORTES and
+
+  2
+      corresponding author (Fax +31 (0) 152 122 921, E-mail: jev@ihe.nl)
+                                                                                                             15222632, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/1522-2632(200101)86:1<77::AID-IROH77>3.0.CO;2-7 by University Of California Santa Barbara, Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+78                                         I. WESSELING et al.
+
+RISK, 1985; ROGERS, 1990; WITTENBERG and HUNTE, 1992), reduced growth rates (DODGE
+et al., 1974; ROGERS, 1990) and increased metabolic demands (RIEGL and BRANCH, 1995).
+   During several field campaigns, we quantified partial mortality in various ways for one
+particularly common coral taxon, the genus Porites, across a number of shallow coastal reefs
+in The Philippines, that we expected to span a range of sedimentation regimes around the
+reportedly critical threshold of 10 mg DW cm–2 d–1 of ROGERS (1990). For the same coastal
+systems, KAMP-NIELSEN et al. (in prep.) report that sediment silt and iron contents dropped
+rapidly whereas sand and calcium contents increased in a comparatively small transition
+zone. Hence, we have good evidence for the existence of non-linear siltation gradients and
+we expected this to be reflected in short-term sedimentation rates and coral partial mortali-
+ty or cover as well. Additional to the more traditional scoring of coral growth form cover
+along transects, partial mortality would probably be responsive over shorter time scales and
+therefore be a potentially rapid assessment tool. Our goal was to establish whether partial
+mortality would be a clear function of sedimentation rates, so that it can function as a para-
+meter in rapid assessment of reef status (sensu RISK, 1994; MARAGOS and COOK, 1995).
+
+
+                                    2. Materials and Methods
+   At three sites in the Philippines (Bolinao on Northern Luzon, Puerto Galera on Mindoro and El Nido
+on Palawan, Fig. 1), four to five stations (locations in Table 1) were selected along potential siltation
+gradients from river or creek mouths outward to the open sea. These same gradients have shown clear
+
+
+
+
+Figure 1. Location of the three study sites in the Philippines and position of the stations at these sites
+(detailed maps). Station numbers are conform those used in Table 3. In the Bolinao map MSI indicates
+ the field laboratory of the Marine Sciences Institute. Scale bars indicate 1 km, North is top-of-page.
+                                                                                                           15222632, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/1522-2632(200101)86:1<77::AID-IROH77>3.0.CO;2-7 by University Of California Santa Barbara, Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                      Mortality in Porites Corals                                    79
+
+Table 1. Among-site comparison of short-term sedimentation rate, wave exposure, percent
+cover of live and dead coral, and percent cover of Acropora and Porites. Given are site
+means ± standard error (number of stations), the level of significance (p) of an among-site
+oneway ANOVA, and significant among-site differences from multiple comparisons (modi-
+fied LSD-test maintaining an experimentwise error rate of 0.05, different letters indicate sig-
+nificantly different means). Sedimentation rates observed at separate stations are reported in
+                                          Table 3.
+Parameter                              Bolinao            Puerto Galera   El Nido   p oneway ANOVA
+
+sedimentation rate               18.3 ± 3.3 (4) 18.3 ± 1.5 (4) 17.5 ± 1.2 (5)              0.967
+(mg DW cm–2 d–1)
+wave exposure                    b 5.2 ± 0.6 (5) a 2.1 ± 1.0 (4) b 5.6 ± 0.5 (5)           0.006
+(number of 45° compass sections)
+cover live hard corals (%)        a 26 ± 3 (5) a 19 ± 7 (3)       b 52 ± 4 (4)             0.002
+cover dead hard corals (%)          4 ± 3 (5)       5 ± 2 (3)       7 ± 1 (4)              0.532
+cover Acropora (%)                 a 3 ± 1 (5)    ab 6 ± 4 (3)    b 14 ± 5 (4)             0.068
+cover Porites (%)                   8 ± 4 (5)       6 ± 4 (3)      10 ± 6 (4)              0.823
+
+
+
+decreases in abundance and species richness of seagrasses with increasing silt content of the sediment
+(TERRADOS et al., 1998). A compromise had to be made between covering a range in silt loads and
+having sufficiently live coral cover. Where possible, existing data on water transparency and sedimen-
+tation rates were used to locate the stations (HODGSON, 1990; RIVERA, 1997; MSI, unpublished). Data
+were collected during campaigns of about one week each, in May 1995, the onset of the rainy SW mon-
+soon season.
+   At each of the stations, visibly comparable coral communities were sought that had at least 20% live
+coral cover and less than 40% sand cover at subtidal depths between 2 and 10 m. Within a station, a
+line was established parallel to the shore to maintain the selected depth, and in a 2 m wide section of
+5 – 20 m length, all massive Porites colonies were measured until a total of 50 was reached. Also, cover
+of coral by growth form categories and other habitat characteristics were assessed according to ENGLISH
+et al. (1994). In the Philippines, the genus Porites contains a number of species that are difficult to
+distinguish (VERON, 1986; UYCHIAOCO and ALIÑO, unpubl.), therefore, we refer here to the genus only.
+A colony was defined as any visibly separate coral skeleton with living tissue. Measurements involved
+total colony surface area, dead area and number of lesions. The total surface area or size (A, cm2) of a
+colony was estimated by approximating it as a combination of a hemi-sphere and a cylinder, and ap-
+plying the appropriate geometrical formula:
+
+                                          A = π * (L * W) * H
+
+where L is the maximum (horizontal) length of a colony, W is the maximum width perpendicular to the
+length, and H is the maximum height of the colony. In the case of plateform colonies, when colony
+height (H) was negligible, we used:
+
+
+                                                 ( * (L * W) )
+                                                                     2
+                                         A=π *    1
+                                                      2
+
+
+To quantify the dead area on a colony, the size of each lesion was measured with help of a transparent
+plate on which squares of increasing area were drawn. Five lesion area classes were used: 0.1–1, 1–4,
+4 – 16, 16–100 cm2 and >100 cm2. When a lesion was larger than 100 cm2, its area was estimated as the
+number of times the 100 cm2 – quadrat would fit in the lesion. The sum of all lesion areas divided by
+total colony area gave partial mortality (%).
+   At each station, three replicate sediment traps were placed vertically on the sediment and re-collec-
+ted after approximately 24 hours. Traps had a diameter of 1.3 cm and a height of 6.25 cm, close to the
+width-depth criterion given by GARDNER (1980) to prevent significant resuspension of trapped matter.
+                                                                                                            15222632, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/1522-2632(200101)86:1<77::AID-IROH77>3.0.CO;2-7 by University Of California Santa Barbara, Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+80                                        I. WESSELING et al.
+
+Upon return to the laboratory, the content of the traps was filtered off (Whatman GF/C), oven-dried
+(60 °C) for at least 48 hours and weighed (0.1 mg precision) to measure dry weight (DW). The com-
+paratively short exposure times were a logistic necessity during the campaigns. Since time scales of le-
+sion turn-over range between hours and months (MEESTERS et al., 1992, 1997), we consider our 24 h
+exposure of traps acceptable. Duplicate sediment cores were taken from the transects and analysed for
+a number of parameters: grain size distribution (silt, fine sand and coarse sand, class limits 63 and
+250 µm), water, organic matter, calcium and iron content as described in TERRADOS et al. (1998) and
+KAMP-NIELSEN (in prep.). In Puerto Galera, sediment cores were unfortunately not taken at the same
+stations as where coral parameters were quantified. A wave exposure index was estimated for each sta-
+tion from topographic maps as the number of 45° compass sections with open water for at least 2 km.
+   An overall ANOVA with four covariables (colony area, depth, wave exposure and sedimentation rate)
+and one fixed factor (sites) was used to detect overall patterns in partial mortality. Factor sums of
+squares were kept additive, so covariables were entered first and all variables were not entered simulta-
+neously (NORUSIS, 1986). Oneway analyses of variance (ANOVA) and subsequent multiple compari-
+sons (modified least significant difference test, maintaining an experimental error rate at 0.05) were
+carried out among stations within sites and subsequently among sites (using pooled data per site), to
+examine differences in sedimentation rate, colony size, partial mortality and number of lesions. Since
+the factor ‘stations’ can be seen as a nested factor within ‘sites’, these same data were also subjected
+to a nested ANOVA, largely leading to the same patterns as in the simple oneway ANOVA’s. When
+necessary, 10log (x + 1) transformations were applied to homogenize the variances.
+
+
+                                             3. Results
+   Observed short-term sedimentation rates during the May 1995 campaign ranged between
+10 and 30 mg DW cm–2 d–1 among stations, which is above the critical threshold of 10 mg
+DW cm–2 d–1 suggested by ROGERS (1990). Within the sites and among stations, however,
+no distinct gradients were observed in sedimentation rates, and also among the three sites
+no significant differences were found (Table 1). Wave exposure was substantially less in
+Puerto Galera (Table 1). Total live cover of hard corals as well as that of Acropora was sig-
+nificantly higher in El Nido than in the other two sites. Cover of Acropora and Porites were
+inversely related (Fig. 2a). Neither live coral cover nor Porites cover showed a significant
+relation with sediment silt content (Fig. 2b). Particularly live coral cover was highly varia-
+ble among stations (Fig. 2b).
+   The overall ANOVA separating the effects of the factor site and four covariables on par-
+tial mortality (Table 2) suggests that important sources of variation were not addressed here,
+
+
+
+
+Figure 2. (a) Percentage cover of Acropora versus Porites in line transects at the sampling stations in
+Bolinao, Puerto Galera and El Nido. (b) Percentage live coral cover and percentage Porites cover as a
+                                  function of sediment silt content.
+                                                                                                              15222632, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/1522-2632(200101)86:1<77::AID-IROH77>3.0.CO;2-7 by University Of California Santa Barbara, Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                          Mortality in Porites Corals                                    81
+
+Table 2. Analysis of variance for colony size, partial mortality and lesion density on Pori-
+tes using site (Bolinao, El Nido and Puerto Galera) as fixed variable and total colony area,
+sedimentation rate, wave exposure and depth as co-variables. Covariables were entered first,
+sums of squares are additive. Given are the percentages of the explained variance due to the
+respective variables (%, calculated as variable sums of squares/total sums of squares explain-
+ed by the model) and the levels of significance (p), as well as the percent of the total varia-
+tion explained by the whole model (model sums of squares/total sums of squares) in the first
+        column (ns = not significant, p > 0.05, then % explained variance not given).
+Parameter                          variation          site   colony size   sedimen-     wave         depth
+                               explained by the                              tation   exposure
+                                 whole model
+                                      %           %      p   %      p      %    p     %    p     %      p
+
+total colony area                    29           61 0.005   –             ns 0.531   ns 0.281   34 0.015
+percentage partial mortality          2           ns 0.587   50 0.008      29 0.043   ns 0.093   ns 0.795
+(% of total colony area)
+lesion density                        8           29 0.001   33 0.001      23 0.001   14 0.010   ns 0.667
+
+
+
+
+since the proportion of the total variance explained by the complete model was at best 29 %
+for colony size, but much less for partial mortality and lesion density. Still, a considerable
+number of variables was highly significant for lesion density (Table 2).
+   The factor site (i.e. geographical variation) was responsible for a large part of the explai-
+ned variance in lesion density and colony size (29 and 61 %), and colony size was impor-
+tant for lesion density and partial mortality (33 and 50 %). Lesion density declined signifi-
+cantly with increasing colony size, whilst partial mortality largely remained similar (Fig. 3).
+Hence, on larger colonies, the number of lesions was smaller, but lesions covered a similar
+proportion of the colony surface and thus were larger.
+
+
+
+
+Figure 3. Lesion density and percent partial mortality as a function of Porites colony surface
+areas using station means from Bolinao, El Nido and Puerto Galera. The linear regression of lesion
+density versus colony size is significant (p = 0.008; r2 = 0.62; intercept 2.37 ± 0.24, slope
+                                     –7.9 × 10–4 ± 1.8 × 10–4).
+                                                                                                              15222632, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/1522-2632(200101)86:1<77::AID-IROH77>3.0.CO;2-7 by University Of California Santa Barbara, Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+82                                          I. WESSELING et al.
+
+Table 3. Observed short-term sedimentation rates (n = 3), colony size, percentage partial
+mortality (% dead colony area) per colony, and lesion density on Porites for all sampled sta-
+tions at three sites in the Philippines. Data are presented as means ± 1 standard error, the
+number of replicate colonies (n) is given in the last column. Levels of significance of one-
+way ANOVAs comparing coral parameters among areas and among stations within sites are
+given. All multiple comparisons were made after necessary log-transformation (modified
+LSD test, maintaining an experimentwise error rate at 0.05). Bold capitals accompanying the
+overall means depict significant differences among sites, lowercase italics depict significant
+differences between stations within a site. Station numbers are conform to those in Fig. 1.
+One excessively high sedimentation rate (station 4, indicated NC) has not been taken into
+                                      consideration here.
+site              station    sedimentation         colony size         partial            lesion        n
+                    nr.           rate                (cm2)           mortality           density
+                               (mg DW                                   (%)              (n dm–2)
+                              × cm–2 d–1)
+
+Bolinao              1         10.5 ± 1.3      c     1988 ± 624     b     23 ± 4           1.0 ± 0.3    26
+                     2         11.9 ± 1.0      a       162 ± 29     a      7±2             2.6 ± 0.4    51
+                     3         20.8 ± 4.3      b       398 ± 78     b     20 ± 4           2.2 ± 0.4    50
+                     4            NC           b       380 ± 63     b     22 ± 4           2.0 ± 0.3    52
+                     5         30.0 ± 9.9      a      428 ± 132     ab    19 ± 3           3.1 ± 0.7    50
+mean of site:                                  A       528 ± 88           17 ± 2     B     2.3 ± 0.2   229
+oneway ANOVA among stations:                            0.000             0.015              0.086
+
+Puerto Galera        6         17.8 ± 3.4             946 ± 202     ab    17 ± 2           0.9 ± 0.1    50
+                     7         16.2 ± 3.4            1470 ± 871     a      7±2             1.6 ± 0.3    52
+                     8         19.2 ± 3.8             486 ± 104     b     23 ± 4           2.0 ± 0.3    51
+                     9         20.0 ± 2.3            2514 ± 671     ab    15 ± 3           2.2 ± 0.7    47
+mean of site:                                  B     1333 ± 282           16 ± 2     B     1.7 ± 0.2   200
+oneway ANOVA among stations                            0.072              0.003              0.113
+
+El Nido             10         19.9 ± 2.5             618 ± 407           18 ± 4           1.2 ± 0.3    26
+                    11         16.8 ± 4.4            1772 ± 704           10 ± 3           1.3 ± 0.4    49
+                    12         14.5 ± 0.5            2198 ± 467           14 ± 4           0.8 ± 0.2    45
+                    13         21.4 ± 0.3            1196 ± 560           10 ± 2           0.8 ± 0.2    49
+                    14         14.9 ± 1.4            1208 ± 418           11 ± 3           0.8 ± 0.1    41
+mean of site:                                  B     1594 ± 251           12 ± 1     A     0.9 ± 0.1   213
+oneway ANOVA among stations                            0.665              0.227              0.209
+
+oneway ANOVA among sites                               0.001               0.043            0.001
+
+Note: nested ANOVAs testing for significance among stations within sites and among sites were car-
+ried out with these same data. Variation among stations within sites was allways significant (p = 0.037
+or less). Variation among sites was not significant for partial mortality only (p = 0.060), but highly sig-
+nificant for the two others (p < 0.001).
+
+
+
+
+   The importance of geographic variation is largely confirmed by the comparisons of over-
+all site means (Table 3): on average, colonies in Bolinao were significantly smaller than at
+the other sites, and lesion density was higher. Porites colonies at Puerto Galera were as large
+as those of El Nido, but lesion density was similar to that of Bolinao. Among station diffe-
+rences within a site were often significant, particularly in Bolinao (Table 3). Nested ANO-
+VAs confirmed the significance patterns from the oneway ANOVAs by-and-large, with the
+                                                                                                   15222632, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/1522-2632(200101)86:1<77::AID-IROH77>3.0.CO;2-7 by University Of California Santa Barbara, Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                   Mortality in Porites Corals                               83
+
+exception of the effect of stations within sites on the % partial mortality that was almost sig-
+nificant only (p = 0.06).
+   The covariable sedimentation did affect the percentage partial mortality (Table 2,
+p = 0.043) and lesion density (Table 2, p = 0.001). Lesion density increased with both
+increasing sedimentation and wave exposure, since both were significant (p < 0.01) and had
+positive slopes in a stepwise multiple regression of residuals from the linear regression of
+lesion density with colony size, i.e. after removal of the large colony size effect. The co-
+variable wave exposure only affected lesion density significantly (Table 2).
+
+
+                                       4. Discussion
+   Differences in lesion density found among the three sites were considerable, but variation
+among stations within a site were equally large. In two of the three sites, a distinct, non-
+linear, siltation gradient was observed (i.e. Bolinao and El Nido, but not in Puerto Galera,
+based on the sediment core data in KAMP-NIELSEN et al., in prep.; note that for Puerto Galera
+the stations for sediment cores and coral did not match). However, the short-term sedimen-
+tation rate we quantified with traps, as well as wave exposure and depth could only explain
+a limited, though significant, part (2 – 8 %) of the total observed variance in lesion density
+or percent partial mortality. So other factors not quantified here, or random variation, must
+have been more important.
+   On average, El Nido had larger colonies with less lesions than those in Bolinao. Puerto
+Galera was intermediate, with larger colonies but also higher numbers of lesions. Also total
+live coral cover and cover of Acropora was higher in El Nido. This pattern can only be
+explained by factors outside the presently collected data-set. We were unable to identify
+sufficiently quantitative data sources for biological causes of partial mortality at our three
+sites, but a substantial difference in the degree of human reef exploitation is qualitatively
+apparent: the coastal waters off Bolinao, Puerto Galera and El Nido form a gradient of
+decreasing human exploitation including fishing pressure, deforestation and unsustainable
+land use (UNEP/IUCN, 1988; HODGSON, 1990; MCMANUS and CHUA THIA-ENG, 1990; KUM-
+MER, 1991), whilst the remote El Nido on Palawan has only recently been exposed to larger
+scale deforestation (HODGSON, 1990; KUMMER, 1991). The general decrease in coral cover
+and Porites colony size and the increase in lesion density on Porites along this gradient sug-
+gests a human exploitation-linked deterioration in coral performance. Several confounding
+factors, however, may play a role (e.g. variation in fish fauna, disease incidence, lesion re-
+covery capacity in the corals; MEESTERS et al., 1992, 1997; VAN WOESIK, 1998). In a simi-
+lar way, LEWIS (1997) was unable to find a linear pattern in partial mortality in Siderastrea
+siderea along a eutrophication gradient on Barbados reefs.
+   Few reports give quantitative estimates of partial mortality in scleractinian corals and all
+are from the Caribbean. With the exception of the high values reported by LEWIS (1997:
+38–49% for Siderastrea siderea), existing estimates remain below 5 % of the colony sur-
+face (MEESTERS et al., 1996 and 1997: 1 – 3 % for various taxa including Porites; RIEGL,
+1995: <1%). WESSELING et al. (1999) reported up to 45 % partial mortality for Philippine
+Porites after 68 hours of full colony burial, but substantial recovery was observed in sub-
+sequent weeks. LEWIS (1997) qualified his Barbados reefs as degrading, but it is difficult to
+pinpoint the cause of his high values of partial mortality. Our observed range (overall mean
+was 15 ± 1%) is lower than the one found by LEWIS (1997), or the one induced by WESSE-
+LING et al. (1999), but considerably less than that observed by MEESTERS et al. (1996, 1997)
+for Carribean coral taxa (including Porites) that were probably little affected by sedimenta-
+tion.
+   In short, we found considerable partial mortality in shallow water Porites in The Philli-
+pines and could explain observed variation only partially by differences in sedimentation,
+                                                                                                            15222632, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/1522-2632(200101)86:1<77::AID-IROH77>3.0.CO;2-7 by University Of California Santa Barbara, Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+84                                        I. WESSELING et al.
+
+wave exposure, colony size and a site effect that is probably related to human exploitation.
+However, since our model only explained a limited part of the observed variation, other fac-
+tors must be important as well. Also, we therefore probably have to reject partial mortality
+or lesion density on Porites as a suitable parameter for rapid appraisal surveys.
+
+
+                                      5. Acknowledgements
+   This paper is part of the EC STD -3 project ‘Responses of Coastal Ecosystems to deforestation de-
+rived siltation in South East Asia’, for practical purposes acronymed CERDS (TS3*-CT94-0301). All
+CERDS partners present in May 1995 are thanked for the cordial and cooperative atmosphere during
+the fieldwork. The project has been assigned to the LOICZ programme as project nr. 27. ERIK DE
+RUYTER VAN STEVENINCK, MICHIEL HOOTSMANS and PETER VAN DER WATEREN critically read the
+manuscript. The anonymous referees are thanked for their constructive criticism that substantially
+improved our previous version.
+
+
+
+                                           6. References
+BABCOCK, R. and P. DAVIES, 1991: Effects of sedimentation on settlement of Acropora millepora. –
+  Coral Reefs 9: 205–208.
+CLARKE K. R., R. M. WARWICK, R. M. and B. E. BROWN, 1993: An index showing breakdown of seria-
+  tion, related to disturbance, in a coral-reef assemblage. – Mar. Ecol. Prog. Ser. 102: 153–160
+CORTES, N. J. and M. J. RISK, 1985: A reef under siltation stress: Cahuita, Costa Rica. – Bull. Mar. Sci.
+  36: 339–356.
+DODGE, R. E., C. A. ALLER and J .THOMSON, 1974: Coral growth related to resuspension of bottom sedi-
+  ments. – Nature 247: 574–577
+ENGLISH, S. A., C. WILKINSON and V. J. BAKER, 1994: Survey manual for tropical marine resources. –
+  Australian Institute of Marine Science, Townsville, Australia, 368 pp.
+GARDNER, W. D., 1980: Sediment trap dynamics and calibration: a laboratory evaluation. – J. Mar. Res.
+  38: 17–39.
+HODGSON, G., 1990: Sedimentation and reef corals. – PhD dissertation University of Hawaii.
+JACKSON, J. B. C., 1997: Reefs since Columbus. – Coral Reefs 16 Suppl.: S23–S32.
+KAMP-NIELSEN, L., J. E. VERMAAT, I. WESSELING, J. BORUM and O. GEERTZ-HANSEN, in prep: Sediment
+  properties along gradients of siltation in South East Asia.
+KUMMER, D. M., 1991: Deforestation in the postwar Philippines, University of Chicago geography re-
+  search papers no 234, 177 pp.
+LEWIS, J. B., 1997: Abundance, distribution and partial mortality of the massive coral Siderastrea side-
+  rea on degrading coral reefs at Barbados, West Indies. – Mar. Poll. Bull. 34: 622–627.
+MARAGOS, J. E. and C. W. COOK, 1995: The 1991–1992 rapid ecological assessment of Palau’s coral
+  reefs. – Coral Reefs 14: 237–252.
+MCMANUS, L. W. and CHUA THIA-ENG, 1990: The coastal environmental profile of Lingayen Gulf, Phi-
+  lippines. – ICLARM Technical Reports 22, International Center for Living Aquatic Resources Mana-
+  gement, Manila, The Philippines, 69 pp.
+MEESTERS, E. H., A. BOS and G. J. GAST, 1992: Effects of sedimentation and lesion position on coral
+  tissue regeneration. – Proc 7th Int Coral Reef Symp 2: 681–688.
+MEESTERS, E. H., I .WESSELING and R. P. M. BAK, 1996: Partial mortality in three species of reef-buil-
+  ding corals (scleractinia) and the relation with coral morphology. – Bull. Mar. Sci. 58: 838–852.
+MEESTERS, E. H., I. Wesseling and R. P. M. BAK, 1997: Coral tissue damage in six species of reef buil-
+  ding corals: partial mortality related with depth and surface area. – J. Sea. Res. 37: 131–144.
+NORUSIS, M. J., 1986: SPSS-PC+ Manual. SPSS Inc., Chicago, USA, 559 pp.
+NOWLIS, J. S., C. M. ROBERTS, A. H. SMITH and E. SIIRILA, 1997: Human-enhanced impacts of a tropi-
+  cal storm on nearshore coral reefs. – Ambio 26: 515–521.
+RIEGL, B., 1995: Effects of sand deposition on scleractinian and alcyonacean corals. – Mar. Biol. 121:
+  517–526.
+                                                                                                         15222632, 2001, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/1522-2632(200101)86:1<77::AID-IROH77>3.0.CO;2-7 by University Of California Santa Barbara, Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                     Mortality in Porites Corals                                   85
+
+RIEGL, B. and G. M. BRANCH, 1995: Effects of sediment on the energy budgets of four scleractinian
+  (BOURNE 1900) and five alcyonacean (LAMOUROUX 1816) corals. – J. Exp. Mar. Biol. Ecol. 186:
+  259–275.
+RISK, M. R., 1994: Using low-tech methods to assess damage to tropical ecosystems. – In: WELLS P. G.,
+  RICKETTS P. J. (eds), Coastal Zone Canada ’94, cooperation in the coastal zone: conference proceed-
+  ings, Coastal Zone Canada Association, Bedford Institute of Oceanography, Dartmouth, NS, Vol 4:
+  1396–1406.
+RIVERA, P., 1997: Sediment transport and light extinction of cape Bolinao. – PhD dissertation Wagenin-
+  gen Agricultural University and IHE-Delft, The Netherlands, 244 pp.
+ROGERS, C. S., 1990: Responses of coral reefs and reef organisms to sedimentation. – Mar. Ecol. Progr.
+  Ser. 62: 185–202.
+TERRADOS, J., C. M. DUARTE, M. D. FORTES, J. BORUM, N. S. R. AGAWIN, S. BACH, U. THAMPANYA,
+  L. KAMP-NIELSEN, W. J. KENWORTHY, O. GEERTZ-HANSEN and J. E. VERMAAT, 1998: Changes in com-
+  munity structure and biomass of seagrass communities along gradients of siltation in SE Asia. –
+  Estuar. Coastal. Shelf. Sci. 46: 757–768.
+VAN WOESIK, R., 1998: Lesion healing on massive Porites spp. corals – Mar. Ecol. Progr. Ser. 164:
+  213–220.
+VERON, J. E. N., 1986: Corals of Australia and the Indo-Pacific, The Australian Institute of Marine
+  Science, Singapore, 644 pp.
+WESSELING, I., A. J. UYCHIAOCO, P. M. ALIÑO, T. AURIN and J. E. VERMAAT, 1999: Damage and reco-
+  very of four Philippine coral genera from short-term sediment burial. – Mar. Ecol. Progr. Ser. 176:
+  11–15.
+WITTENBERG, M. and W. HUNTE, 1992: Effects of eutrophication and sedimentation on juvenile corals.
+  I Abundance, mortality and community structure. – Mar. Biol. 112: 131–138.
+
+Manuscript received July 6th, 1999; revised April 10th, 2000; accepted July 12th, 2000
+

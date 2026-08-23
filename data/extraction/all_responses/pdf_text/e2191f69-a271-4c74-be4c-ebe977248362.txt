@@ -1,0 +1,672 @@
+                         Journal of Experimental Marine Biology and Ecology,
+                                           212 (1997) 9–23                         L
+     Interspecific differences in the regeneration of artificial
+                  injuries on scleractinian corals
+                                            Vicki R. Hall
+  Department of Marine Biology, James Cook University, Townsville, Qld. 4811, Queensland, Australia
+            Received 28 November 1995; revised 20 August 1996; accepted 17 October 1996
+
+
+
+Abstract
+
+   Routine injury of corals occurs frequently and is caused by natural processes and human
+activities. Morphological theory predicts that sessile, marine animals are strongly committed to
+their place of settlement, will invest more resources into maintenance and defence than species
+that are more fugitive in nature (Jackson, 1979). In this study, I conducted several field
+experiments to determine if the regenerative ability of injured colonies differed among species
+with different morphologies, and if regeneration was influenced by the position of the injury
+within the colony or the type of injury. Eleven species exhibited a wide range of responses to
+damage, from little to no change to complete recovery within 71 to 286 days. Regenerative ability
+could be ranked according to morphological attributes for these species (arborescent . bushy .
+tabular . massive . submassive), demonstrating that morphology does influence the recovery of
+injuries. Regeneration of different types of injury and injuries located at different positions within
+a colony also varied among species. Repair of scraping injuries was greater than tissue injuries,
+while regrowth of a new branch was slowest of all. With the exception of Porites mayeri which
+repaired more of its central injury than its edge injury, recovery rate of central and edge injuries
+was not significantly different for Acropora robusta, A. hyacinthus, A. palifera, Pocillopora
+damcornis, and Porites lichen. These results imply that the amount of damage caused by an injury
+differs, both for the species it is inflicted upon, and the type of injury generated. The ability to
+recover from injuries is important in corals since poor regenerative ability can lead to a reduction
+in colony fitness.  1997 Elsevier Science B.V.
+
+Keywords: Branch removal; Coral reefs; Damage; Impact; Injury; Life-history; Regeneration;
+Scleractinian corals; Scraping injury; Tissue removal
+
+
+
+
+1. Introduction
+
+  Damage or injury to coral colonies originates from natural causes (e.g. predation,
+
+0022-0981 / 97 / $17.00  1997 Elsevier Science B.V. All rights reserved
+PII S0022-0981( 96 )02760-8
+10                     V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23
+
+
+competition, storm and cyclone damage) or human activities such as anchoring, diving,
+mining and pollution (e.g. reviews by Connell, 1973; Brown and Howard, 1985; Craik et
+al., 1990; Grigg and Dollar, 1990). Corals have varying susceptibilities to damage by
+these processes due to morphological differences (Woodley et al., 1981; Hughes, 1989;
+Glynn, 1990; Chadwick-Furman, 1995). For example, branching species are more prone
+to storm and diver damage than massive species (Woodley et al., 1981; Chadwick-
+Furman, 1995), and massive and encrusting species are more vulnerable to overgrowth
+by algae (Hughes, 1989). Their ability to recover from damage is also variable since
+regeneration is energetically costly, and species differ in the allocation of resources
+between regeneration and other demographic processes (e.g. Bak et al., 1977; Bak and
+Steward-Van Es, 1980; Meesters and Bak, 1993; Meesters et al., 1993). Morphological
+theory of sessile, marine animals predicts that species with a greater commitment to their
+place of settlement will invest more resources towards defence and maintenance
+(Jackson, 1979). This hypothesis was based on eight shape parameters which character-
+ised the different morphological strategies of sessile animals. These parameters included
+tissue area and volume (potential for feeding, respiration and reproduction, etc.), skeletal
+volume (measure of support material and strength), substratum utilisation, directional
+growth (vertical or horizontal), substratum interactions (pre-emption of space, peripheral
+encounters), and holes (complexity of form in determining the availability of habitats for
+other organisms). The impact that an injury has on a colony will be directly related to
+these parameters, particularly tissue and skeleton volume and tissue area. The first
+objective of this study is to determine if morphology does influence rates of regeneration
+in corals by monitoring the recovery of artificial lesions for a range of species with
+contrasting shapes.
+   The recovery of injuries in corals is a complex process that is intrinsically related to
+the characteristics of the injury (e.g. type and position within the colony: Bak et al.,
+1977; Bak and Steward-Van Es, 1980; Meesters et al., 1993; Meesters and Bak, 1995).
+Routine damage in corals results in the removal of tissue, or tissue and skeleton from a
+colony. The amount of loss which occurs for these two injury types can be further
+categorised as partial or total for tissue injuries and superficial or extensive for tissue and
+skeleton injuries. A wide range of causative agents generate these different types of
+injuries. Generally, extensive tissue loss results in the death of polyps within a given
+area and is due to predation (e.g. Acanthaster plancii), sedimentation, and solar
+irradiance (amongst other factors) while the partial removal of polyps (partial tissue loss)
+is caused by the action of polyp grazers such as some Chaetodontid fish (Brown, 1988,
+1994; Glynn, 1990; Stafford-Smith, 1993). The superficial loss of tissue and skeleton is
+produced by scraping injuries which result from physical processes (e.g. abrasion),
+human activities (fin and anchor scraps), and predation (e.g. parrot fish). The loss of
+extensive amounts of tissue and skeleton is the removal of bumps or branches from
+colonies and is due to predation by excavating fish (e.g. Bolbometopon sp.), physical
+disturbances (e.g. storms and cyclones) and human activities such as diving and
+anchoring (e.g. Woodley et al., 1981; Glynn, 1990; Craik et al., 1990). For a given injury
+type, the morphological characteristics of a species (e.g. shape and tissue depth) can
+affect the appearance of an injury (Glynn, 1990). For example, although the outcome of
+feeding by some parrot fish is the superficial loss of tissue and skeleton from a colony,
+variations in colony shape result in different wound manifestations: gauging wounds are
+                      V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23             11
+
+
+produced in massive species, branchlets are lost in tabular corals, and tips are removed
+in arborescent corals (Glynn, 1990). The second major objective of this study is
+two-fold, firstly to examine how species respond to different types of injuries, and
+secondly, to investigate the impact of a given injury on species with different
+morphologies by monitoring their response (regenerative ability) to that injury.
+   The position of an injury within a colony is again dependent on the causative agent,
+and affects rates of regeneration in bryozoans (Palumbi and Jackson, 1982), the
+gorgonian Plexaura homomalla (Wahle, 1983), and some scleractinian corals such as
+Acropora palmata (Meesters and Bak, 1995), but not others (e.g. Porites astreoides,
+Meesters et al., 1993). Reduced light levels, polyp density, senescence, and substratum
+interactions have all been proposed to explain variations in the regeneration of lesions
+located at different positions within a colony (Jackson, 1979; Palumbi and Jackson,
+1982; Darke, 1991; Meesters et al., 1993; Meesters and Bak, 1995). Preferential
+regeneration of one injury versus another within colonies of some species may have
+direct consequences for their population dynamics. For example, Meesters and Bak
+(1995) showed that the regeneration of proximal injuries was much slower than distal
+injuries on branches of Acropora palmata, and suggested that this pattern of recovery
+may promote asexual propagation by fragmentation. The third major objective of this
+study is to determine if there was any variation in the rate of regeneration of injuries
+located at different positions within a colony.
+   The response of corals to injury is important ecologically because injury reduces
+colony fitness in three ways. Firstly, regeneration requires energy so that resources may
+be diverted from growth and reproduction (e.g. Kobayashi, 1984; Rinkevich and Loya,
+1989; Meesters et al., 1994; Van Veghel and Bak, 1994). Secondly, colony survival may
+be jeopardised since injuries provide sites for the entry of pathogens and bioeroders and
+space for the settlement of other organisms such as algae, sponges, and other corals (Bak
+et al., 1977). These organisms may later compete with the coral for food and space, or
+cause structural damage to the coral skeleton (Wahle, 1983; Hughes and Jackson, 1985;
+Babcock, 1991). Thirdly, injuries reduce the surface area available for feeding,
+photosynthesis and reproduction (e.g. Jackson and Palumbi, 1979; Wahle, 1983; Hughes
+and Jackson, 1985). A reduction in surface area may also alter colony survivorship and
+reproduction since both are size-specific in scleractinian corals (e.g. Hughes and
+Jackson, 1985; Babcock, 1991; Hall and Hughes, 1996). Understanding the processes
+associated with injury and regeneration in corals has also become very important from a
+management perspective because of the escalating degradation of coral reefs by human
+activities (e.g. Brown, 1988; Craik et al., 1990; Hughes, 1994). With the exception of
+studies which have being carried out predominantly in the Carribbean (see Table 1),
+there is a general lack of information on the regenerative abilities of scleractinian corals
+through field experimentation. This study is the first to present experimental data on the
+regenerative abilities of eleven species of scleractinian corals from the Great Barrier
+Reef
+
+
+2. Methods
+
+  This study was conducted at Lizard Island (128409; 1458289), a continental island on
+12                         V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23
+
+Table 1
+A list of studies showing the places and scleractinian corals for which experimental studies on injury and
+regeneration have been conducted
+Species                                    Reference
+Carribbean
+Acropora palmata                           Bak, 1983; Meesters et al., 1993; Meesters and Bak, 1995
+Montastrea annularis                       Bak et al., 1977; Meesters et al., 1993, 1994
+                                           Van Veghel and Bak, 1994
+Meandrina meandrites                       Meesters and Bak, 1993
+Porties asteroides                         Bak and Steward-Van Es, 1980; Meesters et al., 1993
+Agaricia agaricites                        Bak et al., 1977; Bak and Steward-Van Es, 1980
+Siderastrea siderea, Diploria strigosa     Meesters et al., 1993
+
+Red Sea
+Stylophora pistillata                      Loya, 1976; Rinkevich and Loya, 1989
+
+Japan
+Acroporaformosa, A. nasuta                 Kobayashi, 1984
+
+Western Australia
+Pocillopora damicornis                     Ward, 1995
+
+Great Barrier Reef, Australia
+Pocillopora damicornis, Goniastrea         This study
+retiformis, Porites mayeri, P. lichen,
+P. australiensis, Acropora robusta,
+A. millepora, A. cytherea, A. palifera
+A. hyacinthus, A. gemmifera
+
+
+
+the Great Barrier Reef, approximately 25 km off the eastern coast of mainland Australia.
+Experiments were set up at two locations, on the reef crest at North Reef (experiment 1),
+and in the lagoonal back-reef of Osprey Island (experiment 2). These sites were chosen
+because they provided a wide selection of species and an abundance of large colonies
+(see Table 2 for average colony sizes). One hundred and ten colonies were selected
+haphazardly for the experiments and individually tagged. Colonies with injuries
+comprising greater than 25% of the total surface area were excluded. Three of the four
+injuries types were experimentally inflicted on colonies to similate natural injuries.
+These included extensive tissue loss (tissue injury), superficial tissue and skeleton loss
+(scraping injuries) and extensive tissue and skeleton loss (branch removal). Tissue was
+removed from colonies with compressed air which was delivered through the small
+nozzle (5-mm diameter) of an air gun. To standardise the injury procedure for all
+colonies, the air pressure of the gun was maintained at 60 psi, and the nozzle was held at
+a distance of 3 cm away from the colony. All visible tissue was removed from the
+injured areas (see Bak et al., 1977). A template made of water-proof paper was used to
+obtain an injury of a specific area by protecting the surrounding healthy tissue from
+damage. This procedure left the underlying skeleton of the colony relatively intact (i.e.
+there was no visible damage to the architecture of the skeleton). A hammer and chisel
+was used to remove tissue and skeleton (scraping injury) and break off branches (branch
+                         V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23               13
+
+Table 2
+Mean colony diameter6SE (cm) for the study species. Values are based on measurements taken of the
+maximum diameter and the diameter perpendicular to the maximum diameter for each colony, (n 5 20)
+Species                     Mean diameter6SE
+Goniastrea retiformis       2162
+Acopora hyacinthus          6867
+A. robusta                  5166
+A. palifera                 2162
+A. gemmifera                2362
+A. millepora                3563
+A. cytherea                 4764
+Porites lichen              2664
+P. mayeri                   2162
+P. australiensis            5064
+Pocillopora damicornis      1861
+
+
+
+removal). Recovery of injuries was quantified by either recording the dimensions of the
+lesion with a tape measure or digitising the lesion area from photographs of consecutive
+censuses. These data were then expressed as percentage of injury regenerated (as per
+Meesters et al., 1993).
+
+2.1. Experiment 1: Interspecific differences in recovery and injury position within
+colonies
+
+   To determine if recovery from a tissue injury differed between species, or position
+within a colony, I inflicted a 4-cm 2 tissue wound at two positions (edge and centre)
+within 10 replicate colonies of each of seven species. Common reef crest species with
+contrasting morphologies were chosen and included Acropora robusta, A. hyacinthus, A.
+palifera, Pocillopora damicornis, Porites mayeri, P. lichen and Goniastrea retiformis.
+The growth forms of the first four species are arborescent, tabular, submassive and
+bushy respectively, while the last three species are massive. For the massive, tabular and
+bushy corals, the injuries were located at the center and edge of the colony while for the
+arborescent and submassive species, injuries were located at the base (centre) and tips
+(edge) of branches and columns. Seventy-four days after injuring the colonies, the
+dimensions (length and width 61 mm) of each lesion (amount of injured area not
+regenerated) was measured using a tape measure. The area of the remaining lesion was
+then calculated and subtracted from the original injury size to estimate the amount of
+recovery.
+
+2.2. Experiment 2: Interspecific differences in recovery and injury types
+
+2.2.1. (a) Tissue removal versus scraping injuries in massive and tabular corals
+   To examine the response of corals to a scraping versus a tissue injury, and to
+investigate the impact of a scraping injury on species with different morphologies, each
+of 10 replicate colonies were inflicted with both injury types, the size of the injury being
+4-cm 2 (Fig. 1). Two abundant coral species, the table coral Acropora cytherea and the
+14                          V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23
+
+
+
+
+Fig. 1. A photographic series showing the recovery of the tissue and scraping injuries inflicted on Porites over
+time, (where a 5 tissue injury and b 5 scraping injury). A, Infliction of the injury in August. B, Recovery of
+injuries after 71 days. Note that the scraping injury has nearly completely regenerated while the unrepaired
+section of both injuries is overgrown with algae. C, Complete recovery of the scraping injury and partial
+recovery of the tissue injury. D, The tissue injury is still only partially recovered after 215 days. Scale bar 5 1
+cm.
+
+
+massive coral Porites australiensis were examined to detect any interspecific differences
+in regeneration. Tissue was removed with compressed air as described previously, while
+the scraping injury was created using a hammer and chisel. For P. australierisis, the
+scraping injury was inflicted by chiselling away tissue and skeleton to a depth of 2 mm
+resulting in the partial injury of polyps within the injury site (average tissue depth in
+Porites is 5 mm, Barnes and Lough, 1992). For A. cytherea, 10–15 branchlets, 2 cm in
+height, were removed at their base with the chisel to create a 4-cm 2 projected area
+injury. The scraping injuries differed between A. cytherea and P. australiensis because
+they were simulating the type of injuries generated by some parrotfish. Injuries were
+located in the central section of the colony to avoid edge effects, and one of each type of
+injury was inflicted per colony. Each injury type was separated from the other by a
+distance of at least 5 cm. Recovery was monitored photographically over time and
+recorded as the amount of tissue produced around the injury.
+
+2.2.2. ( b) Tissue loss versus branch removal in branching corals
+   Branching acroporids on the Great Barrier Reef are prone to injuries (e.g. predation,
+physical disturbances) which result in either the removal of branches or tissue loss. To
+determine how branching corals respond to branch removal and tissue loss, and to detect
+interspecific differences in their response to these injury types, I removed the tissue from
+                       V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23            15
+
+
+one branch and broke off another in ten colonies of two species of corals. These species,
+Acropora millepora and A. gemmifera have different branching morphologies,
+corymbose and digitate respectively. Branch removal resulted in a small injury at the
+base of the branch, the recovery of which was monitored in addition to the regeneration
+of the two injury types. The dimensions of the removed branch, exposed basal area, and
+tissue denuded branch were measured and used to calculate branch volume lost and
+injury area from appropriate geometric formulas (cone shape for A. gemmifera branches
+and cylinder plus a cone top for A. millepora branches, see Tuma, 1979 for formulas).
+Both injuries were located within the centre of each colony and separated by a distance
+of 5 cm. Recovery was measured at 74 days. Due to the loss of 2 tags, 8 out of 10
+colonies were censured for A. gemmifera. Regeneration was defined as the growth of a
+new layer of polyps over the injury site for tissue removal and the exposed area at the
+base of the branch, while recovery of the branch was defined as the volume of new
+growth. The amount of new vertical growth for both tissue injury and branch removal
+was also recorded to allow comparisons between injury types.
+
+2.3. Statistical analysis
+
+   An analysis of variance was used to test for differences between species and injury
+positions or types. A Least Significant Difference Test (LSD) was used to determine
+differences between significant factors within the anova model. Data not conforming to
+the assumptions of anova were tested using a Kruskal-Wallis one-way nonparametric
+analysis of variance.
+
+
+3. Results
+
+3.1. Experiment 1: Interspecific differences in recovery and injury position within
+colonies
+
+   Striking differences were detected in the regenerative ability of corals (Fig. 2, Table
+3). In general, the branching species regenerated a greater proportion of their injuries
+than the massive and submassive species within 74 days (Fig. 2). Specifically, A.
+robusta regenerated approximately 1.5 times more of the injured area within 74 days
+then P. damicornis and A. hyacinthus, which in turn, regenerated 4–5 times more of
+their injuries than did P. lichen, G. retiformis, P. mayeri and A. palifera (LSD test). The
+position of the injury did not affect the rate of regeneration in A. robusta, A. hyacinthus,
+P. damicornis, P. lichen, G. retiformis and A. palifera (LSD test). In contrast, P. mayeri
+regenerated 25% of its central injuries but none of the edge injuries within 74 days (Fig.
+2).
+   The removal of tissue with compressed air resulted in the death of tissue within the
+template area for all species, as evidenced by the subsequent colonisation of the injury
+site by algae. Consequently, recovery of the injury involved the overgrowth of the algae
+with new polyps. Two different modes of regeneration were observed for the tissue
+injury. Regeneration in Acropora species was characterised by the production of a
+16                         V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23
+
+
+
+
+Fig. 2. The amount of regeneration of a central and edge injury for several common reef crest species over 71
+days. The error bars are one standard error.
+
+
+
+smooth band of tissue and skeleton which enveloped the injury and grew over the
+colonising algae. Polyps were than produced along the margin of the band that was
+closest to the uninjured tissue. In contrast, rather then producing a smooth band, the
+massive species (Porites lichen, P. mayeri and G. retiformis) and Pocillopora damicornis
+produced new polyps directly around the margin of the injury.
+
+3.2. Experiment 2: Interspecific differences in recovery and injury types
+
+  Marked differences were detected in the recovery of injuries inflicted on Acropora
+cytherea and Porites australiensis. Repair was greater for tabular A. cytherea than for
+
+Table 3
+Analysis of variance table for the comparison of the amount of regeneration between species and injury
+position for experiment 1 at North Reef, Lizard Island
+Source                        df           F ratio         P
+Species                         6          54.48           0.0000
+Injury Position                 1           0.16           0.6858
+Species*Injury Position         6           2.19           O.0482
+Error                         122
+                           V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23                            17
+
+
+the massive, P. australiensis (Fig. 3). Acropora cytherea showed almost complete
+recovery from both injury types (i.e. scraping injury and tissue loss) by the first census at
+71 days (Fig. 3) while P. australiensis repaired the scraping injury much faster than the
+tissue injury, with recovery being complete within 153 and 286 days respectively (Figs.
+1 and 3). For both injury types, P. australiensis showed a decrease in regeneration rate
+with time (Fig. 3). The mode of regeneration of these species was similar to that
+described previously (experiment 1), with A. cytherea responding the same as the other
+Acropora species and P. australiensis responding similarly to the other massive species.
+   Striking differences were also detected in recovery of tissue loss versus branch
+removal for A. millepora and A. gemmifera (Table 4). The amount of vertical extension
+of tissue along the branch was approximately 10 times greater than the vertical extension
+
+
+
+
+Fig. 3. Percentage of injury regeneration over time for P. australiensis and A. cytherea. The error bars are one
+standard error.
+18                        V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23
+
+Table 4
+(a) Linear extension of new growth for the two injury types (tissue removal and branch removal) inflicted on
+A. millepora and A. gemmifera in experiment 2b (mean6one standard error). (b) Injury size and regeneration
+(percent of injury recovered) for the three injury types inflicted on A. millepora and A. gemmifera in
+experirnent 2b (mean6one standard error). (Number of colonies 5 8 and 10 for A. gemmifera and A. millepora
+respectively)
+(a)
+Injury type                A. gemmifera                               A. millepora
+                           Regeneration      Statistic                Regeneration       Statistic
+Linear extension of
+tissue (mm)                3.1960.86         KW 5 14.4                 4.360.31          KW 5 11.3
+Linear extension of
+branch (mm)                0.2560.13             P 5 0.0001           0.5560.12              P 5 0.0008
+
+(b)
+Injury type
+Tissue removal (cm 2 )      49623               2562                   68619               2162
+Branch removal (cm 3 )     3.561.2               760.7                7.062.2               660.9
+Exposed area at
+branch base (cm 2 )        100               2.9260.2                 100                0.9860.1
+KW represents the Kruskal-Wallis statistic obtained by comparing the differences in linear extension between
+the two injury types, and P equals the probability.
+
+
+of a new branch (Table 4a). This result appears to be related to differences in the
+patterns of regeneration observed between injury types. Regeneration of the tissue injury
+in the Acopora species involved the sealing of the area with a fine, porous layer of tissue
+and skeleton, followed by the development of polyps within this area. Branch
+replacement also involved a number of intergrading stages. Firstly, the base of the
+branch where the breakage had occurred was sealed by a thin layer of skeleton and
+tissue. Secondly, a central axial polyp and several radial polyps then developed within
+this thin layer and thirdly, vertical extension of the branch occurred with the growth of
+the axial polyp. The initial extension of the axial polyp produced a narrow branch
+(0.3-cm diameter) which gradually thickened at the base.
+   The pattern of regeneration of a given injury type was similar for A. millepora and A.
+gemmifera (Table 4b), although some inter-colony variations were observed. All
+colonies for both species showed some degree of regeneration of the tissue injury
+(percent of injury recovered was 68619% and 49623% for A. millepora and A.
+gemmifera respectively) after 74 days (Table 4b). Additionally, they both rapidly
+repaired the injured area at the base of the branch where breakage occurred, completely
+sealing the area in less than 74 days (Table 4b). However, within this sealed area, there
+was some variation in polyp development between colonies for A. gemmifera with 25%
+of colonies displaying no signs of polyp development by the end of the experiment.
+Conversely, all A. millepora colonies showed some polyp development within the 74
+day period. Some variations in the number of colonies of each species exhibiting vertical
+branch extension was also detected. In A. gemmifera, 3 out of 8 colonies showed some
+signs of vertical extension, and replaced an average of 760.7% of the original branch
+                       V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23              19
+
+
+volume. On the other hand, the majority of A. millepora colonies (8 out of 10) extended
+vertically, showing an average of 10.466.7% replacement of the original branch
+volume. Although the overall pattern of regeneration of the different injury types was
+similar for A. gemmifera and A. millepora, regeneration was faster in A. millepora than
+A. gemmifera (Table 4b). This was probably due to the fact that the injuries inflicted on
+A. gemmifera were larger (Table 4b).
+
+
+4. Discussion
+
+   Regenerative ability in this study differed both between species for a specific injury
+and between different injury types for a particular species. Generally, colonies of
+branching species regenerated more of their injury within a given time period than did
+the massive species (Figs. 2 and 3 Table 4). Furthermore, rankings of the recovery of the
+different types of injuries are as follows: scraping injury . tissue injury . branch
+removal (Figs. 2 and 3 Table 4). The impact that an injury has on a particular species
+seems to be reflected in the ability of the colony to regenerate.
+
+4.1. Interspecific differences in regeneration
+
+   Jackson (1979) proposed that colonial organisms with morphologies that showed an
+increasing commitment to their place of settlement would invest more resources into
+defence and maintenance as opposed to those morphologies which were more fugitive in
+nature. A ranking of the regenerative ability of the species examined in this study show a
+similar result to that proposed by Jackson (1979): arborescent (tree) $ bushy (tree) $
+tabular (plate) . massives (mounds) . submassive (sheet). The impact that a particular
+injury has on a coral is related to tissue and skeleton volume and tissue area. The amount
+of tissue covering a colony infers something about its potential for feeding, respiration,
+and reproduction as well as offering a means of defence against biotic and abiotic
+processes through allelochemistry, nemocyst discharge, mucus production, and so on. In
+corals, some species are fleshier than others (Veron, 1986), so that the impact of a tissue
+injury will depend on the depth of tissue covering the colony and implies that the deeper
+the tissue the greater the loss. In this study, the regeneration of these tissue injuries was
+slower for massive species than for branching species and may be related, in part, to
+tissue depth which is generally greater in massive corals. However, since the repair of
+tissue injuries usually involves the production of both skeletal and tissue matter, the
+amount of investment in skeletal material will also be important. Although there is a
+great deal of interspecific variation in the density of coral skeletons, skeletal densities
+can usually be associated with different growth forms (Hughes, 1987). For example,
+many branching Acroporas have a pronounced axial gradient in skeletal density, with
+the base being much denser than the tips (Hughes, 1987). In these species, the mode of
+regeneration of small injuries is distinctive. The injured area is rapidly sealed with a fine,
+porous layer of tissue and skeleton, followed by the development of polyps within this
+area (Bak, 1983, this study). This mode of recovery suggests that the skeleton produced
+in regenerating areas has a similar density to that of the faster growing tips. In contrast
+20                    V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23
+
+
+to the branching Acroporas, the submassive A. palifera does not have a pronounced
+axial gradient in skeletal density but maintains a fairly dense column from tip to base
+(average density 5 1.960.12, n 5 6). Additionally, it did not regenerate any of its
+injured area within 74 days. This infers that the production of such a dense skeleton
+during regeneration may incur a large drain on resources and slow recovery in A.
+palifera colonies. Similarly, differences in the skeletal investments of A. millepora and
+A. gemmifera influence their regeneration rates. The volume of tissue and skeleton lost
+in branch removal was 16% less for A. millepora than for A. gemmifera, while the
+amount of regeneration after 74 days was approximately double (Table 4).
+
+4.2. Injury characteristics
+
+   The characteristics of an injury play a major role in establishing rates of regeneration
+because they determine the amount of damage which is inflicted on a colony. Marked
+differences were detected in the regeneration rates of the three different injury types,
+tissue, scraping, and branch removal. For example, the recovery of a tissue injury versus
+branch removal in colonies of A. millepora and A. gemmifera varied within a period of
+74 days (Table 4), with vertical extension of new tissue being approximately 10 times
+faster than branch extension. This infers that the loss of tissue from a branch has less
+impact on a colony than the removal of a branch. This may be due to the fact that the
+amount of material required to replace the lost tissue is much less than that needed to
+replace a branch since there is less investment required for skeletal material (i.e. the
+framework of the branch is left intact and only a thin layer of porous skeleton is needed
+for recovery). Colony survival, on the other hand, may be greater following the removal
+of a branch as compared with a tissue injury since the exposed branch base was rapidly
+sealed ( . 74 days, Table 4). Consequently, the potential for invasion by bioeroders or
+settlement by superior competitors would be greater for tissue injuries since the injured
+area is exposed and vulnerable for a longer period of time.
+   Poriles australiensis regenerated its scraping injuries more quickly than its tissue
+injury (Fig. 3). Similar results were obtained in the Caribbean by Bak and Steward-Van
+Es (1980) for Porites asteroides. Bak and Steward-Van Es (1980) suggested that the
+repair of the tissue and skeleton injury was accelerated by damage to the skeleton, and
+that the rapid recovery observed was assisted by regeneration of the partially injured
+polyps within the injury site. I propose that the difference in regeneration rates between
+scraping and tissue injuries may also be related to mucus production. In scraping
+injuries, mucus production by the partially injured polyps may inhibit algal settlement
+onto the injury site, allowing regeneration to proceed without interference from
+competition. In contrast, it is not possible for mucus to be produced from sites where the
+tissue has been removed since the polyps have been killed. Consequently, the site of a
+tissue injury is colonised by algae and some of the resources available for regeneration
+will be diverted towards competition, resulting in slower regeneration rates.
+   Contrary to several previous studies, (e.g. Palumbi and Jackson, 1982; Wahle, 1983;
+Meesters and Bak, 1995), the location of an injury within a colony did not affect
+regeneration for six out of the seven species investigated (LSD, Fig. 2). Only Porites
+mayeri showed a significant difference, with the central injury regenerating 25% of its
+                      V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23            21
+
+
+area within 14 days while no recovery was recorded for the edge injury over the same
+time (Fig. 2). Variations in the regeneration of lesions located at different positions
+within a colony have been related to reduced light levels, polyp density, senescence, and
+substratum interactions (Jackson, 1979; Palumbi and Jackson, 1982; Darke, 1991;
+Meesters et al., 1993; Meesters and Bak, 1995). Meesters et al. (1993) demonstrated that
+the regeneration of artificial lesions on Acropora palmata and Montastrea annularis
+colonies was slower in high sediment areas and suggested that this pattern was partially
+due to a decline in irradiance. Diploria strigosa, Siderastrea siderea and Porites
+astreoides, on the other hand, did not show a difference in the recovery of lesions in
+high and low sediment sites nor was there a difference in the rate of repair of lesions
+located on the top and side of P. astreoides colonies, even though light was reduced by
+70% at the sides. Many corals survive in low light levels by photoadapting (Falkowski et
+al., 1990). This phenomena may explain why six out of the seven species in this study
+did not show a difference in the regeneration of lesions at the edge and center of their
+colonies. In contrast, Porites mayeri may have a low capacity to photoadapt. Alternately,
+the difference in regeneration between these two positions in P. mayeri may be related to
+differences in polyp density. Darke (1991) demonstrated that there was a 10% decline in
+the density of polyps from the summit to the base of Porites colonies, and suggested that
+higher polyp density reflected relatively higher rates of tissue growth to skeletal growth.
+Consequently, in P. mayeri, lower polyp densities at the base of the colony may hinder
+regeneration in that area. In contrast to P. mayeri, regeneration of edge and central
+injuries was not significantly different for. Porites lichen (Fig. 2 Table 1). These two
+species may differ in this respect because P. mayeri buds extra-tentactularly while P.
+lichen buds intra-tentactularly (Veron and Pichon, 1982). Studies on patterns of polyp
+density in massive corals that bud intra-tentactularly have yet to be done. Senescence
+and substratum interactions have also been proposed to explain variations in the
+regeneration of injuries at different locations within the colony (Jackson, 1979; Meesters
+and Bak, 1995). However, these processes are unlikely explanations here because
+substratum interactions would not only affect P. mayeri but the other massive species as
+well, and senescence is most likely to occur in colonial species such as Steginoporella
+sp. and Acropora palmata that show a proximal to distal gradient in regeneration and
+growth (Palumbi and Jackson, 1982; Meesters and Bak, 1995).
+
+
+5. Conclusions
+
+   Clearly, the impact that an injury has on a colony is determined by its regenerative
+ability, which in turn, is greatly influenced by the morphological characteristics of a
+species. Jackson (1979) predicted that the amount of resources invested in maintenance
+and defence would vary in sessile animals with different morphologies, and predicted
+that species with a high commitment to their place of settlement would invest more in
+maintenance and defence. The results of this study support this hypothesis since the
+ranking of regenerative ability of the different morphologies was arborescent . bushy .
+tabular . massive . submassive. Poor regenerative ability in corals may lead to reduced
+colony fitness since regeneration potentially diverts resources away from growth and
+22                         V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23
+
+
+reproduction, reduces survival, reproductive output, feeding and photosynthetic capacity,
+and destroys stored reserves (e.g. Bak et al., 1977; Wahle, 1983; Rinkevich and Loya,
+1989).
+
+
+Acknowledgments
+
+  I thank A. Baird, J. Connell, R. Cumming, T.P. Hughes, V. Nelson, J. Tanner and the
+James Cook University Coral Discussion Group for their comments on this work, L.
+Dinsdale, L. Smith and A. Baird for field assistance, and J. True and J. Wolstenholme for
+helping with coral species identification. Funding was provided by the Great Barrier
+Reef Marine Park Authority to V. Hall, and the Australian Research Council to T.P.
+Hughes. This work was conducted in partial fulfilment of the requirements for a PhD
+degree at James Cook University of North Queensland. I am grateful to the staff at the
+Lizard Island Research Station for use of their excellent facilities. This is contribution
+number 154 of the James Cook University Coral Ecology Group.
+
+
+References
+
+Babcock, R.C., 1991. Comparative demography of three species of scleractinian corals using age- and
+   size-dependent classifications. Ecol. Monog., Vol. 1, pp. 225–244.
+Bak, R.P.M., 1983. Neoplasia, regeneration and growth in the reef building coral Acropora palamata. Mar.
+   Biol., Vol. 77, pp. 221–227.
+Bak, R.P.M. and Y. Steward-Van Es, 1980. Regeneration of superficial damage in the scleractinian corals
+   Agaricia agaricites F. purpurea and Porites astreoides. Bull. Mar. Sci., Vol. 30, pp. 883–887.
+Bak, R.P.M., J.J.W.M. Brouns and F.M.L. Heys, 1977. Regeneration and aspects of spatial competition in the
+   scleractinian corals Agaricia agaricites and Montastrea annularis. Proc. 3 rd. Int. Coral Reef Symp., Miami,
+   pp. 143–148.
+Barnes, D. and J. Lough, 1992. Systematic variations in the depth of skeleton occupied by coral tissue in
+   massive colonies of Porites from the Great Barrier Reef. J. Exp. Mar. Biol., Vol. 159, pp. 113–128.
+Brown, B.E. 1994. Solar damage in intertidal corals. Mar. Ecol. Prog. Ser., Vol. 105, pp. 219–230.
+Brown, B.E., 1988. Assessing environmental impacts on coral reefs. Proc. 6 th Int. Coral Reef Symp.
+   Townsville, Vol. 1, pp. 71–80.
+Brown, B.E. and L.S. Howard, 1985. Assessing the effects of ‘stress‘ on reef corals. Advances in marine
+   biology, Vol. 22., Academic Press Inc., London, pp. 1–63.
+Chadwick-Furman, N.E., 1995. Effects of scuba diving on coral reef invertebrates: relative vulnerabilities and
+   critical levels of diving activity. Proc. 6 th Int. Conf. Coelenterate Biology, Amsterdam (in review).
+Connell, J.H., 1973. Population ecology of reef building corals. In, Biology and geology of coral reefs, 2,
+   edited by O.A. Jones and R. Endean, Academic Press, New York, pp. 205–245..
+Craik, W., R. Kenchington and G. Kelleher, 1990. Coral-Reef Management. In, Ecosystems of the world, coral
+   reefs, edited by Z. Dubinsky, Elsevier Science Publishers, N.Y. pp. 453-467.
+Darke, W.M., 1991. Growth and growth form of the massive coral Porites. PhD thesis, James Cook University
+   of North Queensland, Australia.
+Falkowski, P.G., P.L. Jokiel and R.A. Kinzie, 1990. Irradiance and corals. In, Ecosystems of the world coral
+   reefs, edited by Z. Dubinsky, Elsevier Science Publishers, N.Y. pp. 89–107.
+Glynn, P.W., 1990. Feeding ecology of selected coral-reef macroconsumers: Patterns and effects on coral
+   community structure. In, Ecosystems of the world, coral reefs, edited by Z. Dubinsky, Elsevier Science
+   Publishers, N.Y. pp. 439–452.
+                           V.R. Hall / J. Exp. Mar. Biol. Ecol. 212 (1997) 9 – 23                            23
+
+Grigg, R.W. and S.J. Dollar, 1990. Natural and anthropogenic disturbance: on coral reefs. In, Ecosystems of the
+   world, coral reefs, edited by Z. Dubinsky, Elsevier Science Publishers, N.Y. pp. 365–400.
+Hall, V.R. and T.P. Hughes, 1996. Reproductive strategies of modular organisms: comparative studies of reef
+   building corals. Ecology, Vol. 77, pp. 950–963.
+Hughes, T.P., 1987. Skeletal density and growth form of corals. Mar. Ecol. Progr. Ser., Vol. 35, pp. 259–266.
+Hughes, T.P., 1989. Community structure and diversity of coral reefs: The role of history. Ecology, Vol. 70 (1),
+   pp. 275–279.
+Hughes, T.P., 1994. Catastrophes, phase shifts, and large-scale degradation of a Caribbean reef. Science, Vol.
+   265, pp. 1547–1551.
+Hughes, T.P. and J.B.C. Jackson, 1985. Population dynamics and life histories of foliaceous corals. Ecol.
+   Monog., Vol. 55, pp. 141–166.
+Jackson, J.B.C., 1979. Morphological strategies of sessile animals. In, Biology and Systematics of Colonial
+   Organisms, edited by G. Larwood and B.R. Roser, Academic Press, London. pp. 499–555.
+Jackson, J.B.C. and S.R. Palumbi, 1979. Regeneration and partial predation in cryptic coral reef environments:
+   Preliminary experiments on sponges and ectoprocts. Colloq. Int. C.N.R.S., Vol. 291, pp. 303–308.
+Kobayashi, A., 1984. Regeneration and regrowth of fragmented colonies of the hermatypic corals Ac-
+   roporaformosa and Acropora nasuta. Galaxea, Vol. 291 pp. 13–23.
+Loya, Y., 1976. Skeletal regeneration in a Red Sea Scleractinian coral population. Nature, Vol. 261, pp.
+   490–491.
+Meesters, E.H. and R.P.M. Bak, 1993. Effects of coral bleaching on tissue regeneration potential and colony
+   survival. Mar. Ecol. Prog. Ser., Vol. 96, pp. 189–198.
+Meesters, E.H. and R.P.M. Bak, 1995. Age-related deterioration of a physiological function in the branching
+   coral Acropora palmata. Mar. Ecol. Proc. Ser., Vol. 121, pp. 203–209.
+Meesters, E.H., A. Bos and G.J. Gast, 1993. Effects of sedimentation and lesion position on coral tissue
+   regeneration. Proc. 7 th Int. Coral Reef Symp., Guam, pp. 681–688.
+Meesters, E.H., M. Noordeloos and R.P.M. Bak, 1994. Damage and regeneration: links to growth in the reef
+   building coral Montastrea annularis. Mar. Ecol. Proc. Ser., Vol, 112, pp. 119–128.
+Palumbi, S.R. and J.B.C. Jackson, 1982. Ecology of cryptic coral reef communities. II. Recovery from small
+   disturbance events by encrusting bryozoa: The influence of ‘host‘ species and lesion size. J. Exp. Mar. Biol.
+   Ecol., Vol. 64., pp. 103–115.
+Rinkevich, B. and Y. Loya, 1989. Reproduction in regeneration colonies of the coral Stylophora pistillata. In,
+   Enviromental quality and ecosystems stability: Vol. IV-B, Environmental Quality, edited by E. Spanier, Y.
+   Steinberger, N. Luria, ISEEQS, Israel.
+Stafford-Smith, M.G., 1993. Sediment-rejection efficiency of 22 species of Australian scleractinian corals.
+   Mar. Biol., Vol. 115, pp. 229–243.
+Tuma, J.J., 1979. Engineering Mathematics Handbook. Definitions, theorems, formulas and tables. McGraw-
+   Hill Book Company, N.Y.
+Van Veghel, M.L.J. and R.P.M. Bak, 1994. Reproductive characteristics of the polymorphic Carribbean reef
+   building coral Montastrea annularis. III. Reproduction in damaged and regenerating colonies. Mar. Ecol.
+   Prog. Ser., Vol. 109, pp. 229–233.
+Veron, J.E.N., 1986, Corals of Australia and the Indo-Pacific, University of Hawaii Press, USA.
+Veron, J.E.N. and M. Pichon, 1982. Scleractinia of Eastern Australia. Part IV: Family Poritidae. Australian
+   Institute of Marine Science Monographs Series, Vol. 5., Australian Institute of Marine Science, Australia.
+Wahle, C.M., 1983. Regeneration of injuries among Jamaican gorgonians: The roles of colony physiology and
+   environment. Biol. Bull., Vol. 164, pp. 778–790.
+Ward, S., 1995. The effect of damage on the growth, reproduction and storage of lipids in the scleractinian
+   coral Pocillopora damicornis (Linnaeus). J. Exp. Mar. Biol. Ecol., Vol. 187, pp. 193–206.
+Woodley, J.D., E.A. Chornesky, P.A. Clifford, J.B.C. Jackson, L.S. Kaufinan, N. Knowlton, J.C. Lang, M.P.
+   Pearson, J.W. Porter, M.C. Rooney, K.W. Rylaarsdam, V.J. Tunnicliffe, C.M. Wahle, J.L. Wulff, A.S.G.
+   Curtis, M.D. Dallmeyer, B.P. Jupp, M.A.R. Kodhl, J. Neigel and E.M. Sides, 1981. Hurricane Allen’s
+   Impact on Jamaican Coral Reefs. Science, Vol. 214, pp. 749–755.
+

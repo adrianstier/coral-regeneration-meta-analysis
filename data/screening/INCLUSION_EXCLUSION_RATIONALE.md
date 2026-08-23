@@ -18,8 +18,8 @@
 
 - `rate`: 57
 - `growth`: 30
-- `reproduction`: 6
-- `survival`: 26
+- `reproduction`: 7
+- `survival`: 27
 - `mechanism`: 32
 
 ## Adjudication Rules

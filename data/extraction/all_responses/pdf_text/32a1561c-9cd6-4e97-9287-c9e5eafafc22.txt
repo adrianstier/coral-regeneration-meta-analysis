@@ -1,0 +1,365 @@
+Coral Reefs (2015) 34:81–86
+DOI 10.1007/s00338-014-1224-4
+
+ NOTE
+
+
+
+Clustered parrotfish feeding scars trigger partial coral mortality
+of massive Porites colonies on the inshore Great Barrier Reef
+J. Q. Welsh • R. M. Bonaldo • D. R. Bellwood
+
+
+
+
+Received: 2 April 2014 / Accepted: 30 September 2014 / Published online: 12 October 2014
+! Springer-Verlag Berlin Heidelberg 2014
+
+
+Abstract Coral predation by parrotfishes can cause                    Introduction
+damage to coral colonies, but research into the dynamics
+of their feeding scars on Indo-Pacific corals is limited.             In recent years, corallivory by fishes has been identified as
+We monitored feeding scars of the parrotfish Chlorurus                a source of significant coral mortality (e.g. Bruckner and
+microrhinos on massive Porites colonies at Orpheus                    Bruckner 1998; Rotjan and Lewis 2008; Cole et al. 2011).
+Island (inshore Great Barrier Reef) over 4 months. Of                 These corallivorous fishes primarily target fast growing
+the 30 marks monitored, 11 were single feeding scars,                 coral species, especially the Acroporidae and Pocillopori-
+which all healed completely. The remaining 19 feeding                 dae (Cole et al. 2008; Bellwood et al. 2010), which have
+marks consisted of clusters of scars. Eight began to                  the potential to rapidly regenerate following damage from
+recover, while 11 increased in size by 1,576 ± 252 %                  predation (Cole et al. 2011). In contrast, relatively few
+(mean ± SE). A logistic regression predicted that a sin-              Indo-Pacific corallivores prey on slow growing massive
+gle feeding scar on a Porites colony had a 97 % prob-                 corals, such as Porites. However, some fishes do target
+ability of healing; however, where more than three                    Porites, and this predation may significantly affect coral
+feeding scars were present, this dropped below 50 %. As               population dynamics (Rotjan and Lewis 2008; Jayeward-
+excavating parrotfishes in the Indo-Pacific often take                ene et al. 2009; Bonaldo and Bellwood 2011).
+multiple focused bites, they may have a significant                       Of the fish species that feed on corals, the Chae-
+impact on the growth and mortality of massive Porites                 todontidae, Labridae (including parrotfishes) (Bonaldo and
+colonies at Orpheus Island.                                           Bellwood 2011) and Tetraodontidae (Jayewardene et al.
+                                                                      2009) play the largest role, with individual fish removing
+Keywords Coral reefs ! Corallivory ! Coral predation !                significant quantities of coral tissue when feeding. In recent
+Chlorurus microrhinos ! Porites ! Grazing scars                       years, parrotfish corallivory has been increasingly recog-
+                                                                      nized as an important factor influencing coral population
+                                                                      demographics. Although parrotfishes have long been
+                                                                      regarded as important coral predators in the Caribbean (e.g.
+                                                                      Bruckner and Bruckner 1998; Mumby 2009), they have
+                                                                      only recently been found to play a similar role on the Great
+Communicated by Handling Editor Simon Davy                            Barrier Reef (GBR) (Bonaldo and Bellwood 2011; Bonaldo
+                                                                      et al. 2011, 2012, 2014; Cole et al. 2011).
+J. Q. Welsh (&) ! D. R. Bellwood
+                                                                          The effect of parrotfish grazing on coral colonies can be
+School of Marine and Tropical Biology, Australian Research
+Council Centre of Excellence for Coral Reef Studies, James            highly variable and dependent on parrotfish feeding mode
+Cook University, Townsville, QLD 4811, Australia                      (reviewed by Bonaldo et al. 2014). For example, scraping
+e-mail: justin.welsh@my.jcu.edu.au                                    species only remove the outermost layer of tissue, doing
+                                                                      little damage to the corallite (Cole et al. 2008; Bonaldo and
+R. M. Bonaldo
+Departamento de Ecologia, Instituto de Biociências,                  Bellwood 2009; Bonaldo et al. 2011, 2012). In contrast,
+Universidade de São Paulo, São Paulo, SP, Brazil                    excavating parrotfish species have more robust jaws than
+
+
+                                                                                                                         123
+82                                                                                                   Coral Reefs (2015) 34:81–86
+
+
+their scraping counterparts (Bellwood and Choat 1990) and        Orpheus Island (18!3500 S, 146!2000 E), an inshore granitic
+are able to penetrate deeper into the coral, removing entire     island on the GBR. Two sites were selected in which to
+polyps as well as their corallites (Bruckner and Bruckner        locate and monitor feeding scars. Fresh feeding scars were
+1998; Cole et al. 2008; Bonaldo et al. 2011).                    located by following individual C. microrhinos of approxi-
+   A recent study on the short-term fate of parrotfish feeding   mately 40–45 cm (total length) until they bit a massive
+scars on massive Porites colonies from a reef in the mid-        Porites colony. Once the individual had finished feeding, the
+shelf GBR found that the relatively frequent scraping scars      grazing scar (Fig. 1a) or scar cluster (Fig. 1b) (collectively
+were usually recovered, whereas excavating scars remained        referred to as feeding marks) was tagged using tape tied to a
+unchanged for at least 2 months (Bonaldo et al. 2011). In the    nearby outcrop. Only one feeding damage event was con-
+Caribbean, long-term studies of parrotfish corallivory           sidered per coral colony (with detailed notes of the location
+observed low rates of recovery, especially where the             of each mark to ensure the same mark was tracked over
+underlying coral skeleton is damaged (Frydl 1979; Rotjan         time). Photographs were taken of each feeding mark from a
+and Lewis 2005). It was therefore hypothesized that coral        fixed distance with a scale for size reference. Scars were only
+predation by excavating parrotfishes, especially in cases of     considered for the study when present on a relatively planar
+coral skeleton damage, may cause long-term damage to             surface of the coral colony. Photographs were also taken of
+some coral colonies (Rotjan and Lewis 2008; Bonaldo et al.       the entire surface of each predated coral colony. These
+2011), potentially altering the structure and morphology of      photos were combined to estimate the 2D area of each of the
+corals such as Porites. As these corals are key ecosystem        coral colonies. The predated colonies were broadly similar
+engineers on coral reefs, changing their growth patterns may     in size and ranged from 440.9 to 8,386.7 cm2 (average of
+influence the physical structure of the reef (Bonaldo et al.     1,981 ± 334.4 cm2; ±SE). As fish sizes, coral species and
+2011; Goatley and Bellwood 2011).                                colony locations were all similar; the individual scars were
+   However, the nature of parrotfish bites can range from a      also of a similar size and depth, measuring 5.81 ± 1.91 cm2
+single bite taken from a colony to a more dramatic feeding       (±SE; range of 4.18–6.19 cm2) and 0.13 ± 0.01 cm deep
+event, in which several bite marks are taken from a single       (range of 0.02–0.18 cm). A photograph was taken of each
+area (Bruckner et al. 2000; Bonaldo et al. 2011). This           feeding mark immediately after feeding, and in each sub-
+‘focused biting’ behaviour (sensu Bruckner et al. 2000) is       sequent month (a total of four observations). All monitored
+usually displayed by excavating species and, in extreme          coral colonies were located on the reef crest approximately
+cases, has been shown to cause total colony mortality as         0.5–1 m deep (below chart datum). Observations were
+parrotfish consume nearly all living tissue from the colony      restricted to scars on massive Porites as this form is abun-
+(Bruckner and Bruckner 1998). Even if not all the living         dant at the study site, which exhibits clearly distinguishable
+tissue is removed from a coral colony, studies from the          feeding scars, and is often bitten by C. microrhinos (Bonaldo
+Caribbean have documented whole-colony mortality fol-            et al. 2012; Welsh and Bellwood 2012). Because of the
+lowing intense and focused feeding by corallivorous par-         difficulty in distinguishing massive Porites species on the
+rotfishes (Bak and Steward-Van Es 1980; Rotjan and Lewis         GBR, colonies were classified as ‘massive Porites spp.’.
+2005). Despite the potential severity of this behaviour,
+studies on the impact and rate of recovery of sub-lethal         Data analysis
+parrotfish feeding scars from ‘focused biting’ behaviour
+have largely focused on Caribbean reefs and data remain          Once photographed, the perimeter and surface area of the
+rare for Indo-Pacific reefs. In this study, therefore, our aim   feeding marks, the associated coral colony area, and the
+was to monitor excavating parrotfish feeding scars on            number of scars in each bite cluster were calculated using
+Porites colonies from a reef within the inshore GBR to           the software ImageJ64 (Abramoff et al. 2004). At the end
+assess the potential for recovery, and to verify if ‘focused     of the study period, the fate of each feeding mark was
+biting’ by an excavating parrotfish species, Chlorurus mi-       classified as either having recovered (in which case polyps
+crorhinos, can cause localized coral mortality at this reef.     were evident across the scar surface, and the colour of the
+We also use a logistic model to predict the recovery             coral tissue was indistinguishable from the rest of the
+potential of feeding scars based on the number of bites          colony), decreased or expanded (scars still with exposed
+taken from a single area.                                        corallites and/or algal growth). No feeding marks had
+                                                                 remained the same at the end of the study. To compare the
+                                                                 frequency of scar cluster recovery between sites, a chi-
+Materials and methods                                            squared goodness of fit test was applied. Also, two binary
+                                                                 GLM were used to model the relationship between the
+This study was conducted from July to October on the             response variable of ‘fate of feeding damage’ and either (1)
+fringing reefs of Pioneer Bay, on the leeward side of            the initial number of feeding scars in a bite cluster and
+
+
+123
+Coral Reefs (2015) 34:81–86                                                                                                                  83
+
+
+
+
+Fig. 1 a A single parrotfish (C. microrhinos) feeding scar, b a scar cluster on the surface of a Porites colony and c a single scar resulting in
+d partial coral mortality surrounding a scar
+
+
+colony size or (2) the initial area to perimeter ratio of the             margins, then tissue loss along the margin and algal inva-
+feeding mark. For these analyses, binary data were                        sion. These results suggest that the number of bites taken
+required. Therefore, feeding marks were classified as either              by C. microrhinos on massive Porites directly influences
+recovering (healed completely or decreased in size) or                    the probability and extent of local colony mortality
+expanded (increased). For further investigation, two sepa-                (Fig. 2).
+rate logistic regressions (Nagelkerke R2) were also used to                  A number of studies have shown that excavating par-
+quantify the recovery potential: one of them with number                  rotfish species commonly feed by ‘focused biting’ (e.g.
+of feeding scars and the other with the area to perimeter                 Bruckner and Bruckner 1998; Bonaldo et al. 2011). This
+ratio of the initial feeding mark. Tests were run in R 3.0.1              behaviour, in conjunction with the fact that C. microrhinos
+for Mac OS9. Nagelkerke R2 was calculated with ‘rms’                      focuses its feeding on small areas within its territories at
+package (Harrell Jr 2014), and data plots were built with                 the study site (Bonaldo et al. 2012, Welsh and Bellwood
+ggplot2 extension for R (Team RDC 2008).                                  2012), may result in scars concentrated in areas of the reef
+                                                                          with intense parrotfish feeding (e.g. Bonaldo et al. 2012),
+                                                                          causing long-lasting damage to Porites colonies. This is
+Results and discussion                                                    evidenced by the binary GLM, as well as the logistic
+                                                                          regression, which found a significant effect of number of
+This study presents empirical evidence of the fate of                     scars and surface to perimeter ratio in the initial predation
+excavating parrotfish feeding scars on Porites colonies                   event, and the subsequent fate of the mark on the colony
+from a reef on the inshore GBR. We found that feeding                     (Table 1).
+marks on Porites colonies caused by parrotfish focused                       Colony size and chronic damage from repeated feeding
+biting is long-lasting and, in some cases, expanded over                  events of corallivores have been suggested to significantly
+time. Of the C. microrhinos’ feeding marks on massive                     influence the capacity of a coral colony to recover from
+Porites, 11 were composed of a single feeding scar and 19                 damage (Rotjan and Lewis 2005). However, the influence
+were scar clusters from focused biting (n = 15 per site);                 of colony size on recovery potential appears to be most
+sites were pooled for analysis as no significant difference               marked in very small colonies (by GBR standards), as no
+was found for the recovery potential between sites                        effect of colony size was detected in the present study
+(v21 = 1.20, p = 0.27). Damage from a single feeding scar                 (Tables 1, 2). As feeding damage represented, on average,
+showed signs of recovery by the second month of moni-                     less than 23.1 % (±5.8) of the corals planar area, it is
+toring, and, in all cases, the damage had completely                      unclear whether coral size may influence the ability of
+regenerated by the third month. From the grouped scars, six               corals to recover at this site. In the Caribbean, colony size
+recovered completely, two decreased in area (by 44 and                    was considered a significant factor predicting colony
+61 %) and 11 increased in size. Mean increase in the mark                 recovery (Frydl 1979) although this may only be significant
+area was 1,576 ± 252 % (±SE). This expansion in the                       in colonies \80 cm2 (Bak and Steward-Van Es 1980),
+damaged area was marked by coral bleaching at the                         which were not included in the present study.
+
+
+                                                                                                                                    123
+84                                                                                                                                                       Coral Reefs (2015) 34:81–86
+
+                              100                                                                               Table 2 Results of the binary General Linear Model assessing the
+                                                                                Expanded                        influence of initial area to perimeter ratio and colony size on the fate
+                                                                                Recovering                      of feeding scars (n = 30)
+                              80
+                                                                                Recovered
+                                                                                                                                           Estimated Std.     Error    z value    p
+                              60                                                                                Intercept                  2.52               0.96     2.62       0.009
+                                                                                                                Area to perimeter ratio    6.92               2.77     2.54       0.01
+                              40                                                                                Colony size                7.77               2.44     0.32       0.75
+                                                                                                                Dispersion parameter was 1 with AIC value of 35.89. Significant
+                              20                                                                                values (p \ 0.05) presented in bold
+
+
+
+
+Probability of recovery (%)
+                               0                                                                                the relationship between the fate of a feeding mark and the
+                                    0   1   2         3   4    5    6     7      8    9         10   11    12   number of bite scars in the feeding mark (Nagelkerke
+                                                Number of bite scars in feeding mark                            R2 = 0.79). The AIC values for this model were only 1.6
+                              100                                                                               units lower than the model that also considered colony size
+                                                                                                                as a potential influence on recovery potential. Therefore,
+                               80                                                                               colony size was not a significant predictor (p = 0.70).
+                                                                                                                Based on the model, a single feeding scar on the Porites
+                                                                                                                colonies has a 97 % probability of healing; however, the
+                               60
+                                                                                                                probability of recovery dropped sharply, to below 50 %, if
+                                                                                                                more than three feeding scars were present in a single mark
+                                                                                                                (Fig. 2). For the area to perimeter ratio of initial feeding
+                               40                                                                               marks, the logistic regression was also significant
+                                                                                                                (v2 = 11.07, df = 1 and p = 0.0009), but predicted less of
+                                                                                                                the variability between the fate of a feeding mark and the
+                               20                                                                               number of bite scars in the feeding mark (Nagelkerke
+                                                                                                                R2 = 0.41). This model predicted that bite marks with
+                                                                                                                small area to perimeter ratio have a high chance of healing,
+                                0                                                                               but the probability of recovery drops below 50 % if the
+                                    0           0.2           0.4         0.6             0.8             1.0   area of the mark is 40 % larger than the perimeter (area vs.
+                                            Area / perimeter ratio fot he feeding area                          linear values notwithstanding) (Fig. 2).
+                                                                                                                   It has been suggested that, by targeting the growth tips
+Fig. 2 Logistic model of the relationship between the probability of                                            of acroporid corals, tetraodontids and the parrotfish Bol-
+feeding scar recovery, the number of feeding scars initially recorded
+(y = e5.11 - 1.74(x)/(1 ? e5.11 - 1.74(x)) (top) and the initial area to                                        bometopon muricatum significantly modify coral mor-
+perimeter ratio (y = e6.94 - 2.42(x)/(1 ? e6.94 - 2.42(x)) (bottom). Each                                       phology and the reef structure (Sano et al. 1984; Bellwood
+dot marks the final status of a scar after 4 months of monitoring, being                                        et al. 2003; Cole et al. 2008). More recently, studies on
+either fully recovered (open), reduced (grey) or expanded (black)                                               Porites predation on Lizard Island, a mid-shelf GBR reef,
+(n = 30)
+                                                                                                                have also suggested that excavating parrotfishes can
+Table 1 Results of the binary General Linear Model assessing the                                                change the distribution and shape of Porites colonies
+influence of initial scar count and colony size on the fate of feeding                                          (Bonaldo and Bellwood 2011; Bonaldo et al. 2011). The
+scars (n = 30)                                                                                                  present study reinforces these suggestions. By causing
+                                                Estimated std.          Error        z value          p         large areas of damage to Porites colonies, feeding scars
+                                                                                                                have the potential to expand resulting in partial colony
+Intercept                                         6.49                  2.87              2.26        0.024
+                                                                                                                mortality or even fragmenting the colony into two distinct
+Number of scars                                 -2.76                   1.42         -1.94            0.043
+                                                                                                                genets. As such, C. microrhinos may have a significant
+Colony size                                      0.0005                 0.0009        0.61            0.54
+                                                                                                                effect on these massive, reef-building corals.
+Dispersion parameter was 1 with AIC value of 18.68. Significant                                                    Vulnerability of corals to focused feeding coupled with
+values (p \ 0.05) presented in bold                                                                             the behavioural inclination of C. microrhinos to feed on
+                                                                                                                small areas within its territory (Welsh and Bellwood 2012)
+   In the present study, when only the number of scars was                                                      may create a damaging positive feedback for coral colo-
+considered, the logistic regression was a significant pre-                                                      nies. Studies of a number of coral reefs around the world
+dictor of the capacity for colony recovery (v2 = 26.206,                                                        have shown an inverse relationship between coral abun-
+df = 1, p \ 0.05) and predicted 79 % of the variability in                                                      dance and bite frequency for some coral species (e.g.
+
+
+123
+Coral Reefs (2015) 34:81–86                                                                                                    85
+
+
+Jayewardene et al. 2009; Bonaldo and Bellwood 2011;              depth of bites inflicted by excavating parrotfish species,
+Burkepile 2012). On degraded reefs with fewer coral col-         regeneration of the scars in the present study may represent
+onies, it is possible that the remaining colonies will expe-     a significant energetic cost to the coral.
+rience progressively heavier parrotfish predation pressure,          Despite the negative effects of parrotfish corallivory,
+thus decreasing coral health, fecundity and the overall          records of total colony mortality caused by parrotfishes are
+resilience of coral populations (Szmant and Gassman 1990;        relatively rare (e.g. Bruckner and Bruckner 1998; Rotjan and
+Meesters et al. 1994; Shantz et al. 2011).                       Lewis 2005). Negative effects of parrotfishes on corals are
+   Because C. microrhinos’ bite scars were monitored for         largely restricted to particular coral species, within specific
+just 4 months, the longer-term implications must be inter-       habitats (e.g. Littler et al. 1989; Rotjan and Lewis 2005;
+preted with care. For instance, a previous study in Okinawa      Mumby 2009; Bonaldo and Bellwood 2011). Although this
+reports that 29 out of 30 artificially made lesions on Porites   predation may result in local declines, it may also support
+completely recovered within 19 months, even though three         coral species richness within reef zones by decreasing the
+scars expanded during the first 4 months (see van Woesik         abundance of dominant coral species (e.g. Littler et al. 1989;
+1998 for further details). However, while the depth of the       Rotjan and Lewis 2005; Mumby 2009; Bonaldo and Bell-
+scars in van Woesik (1998) is not specified, they do appear      wood 2011). The effects of parrotfishes on corals are com-
+to be shallower than ours. C. microrhinos bite scars at          plex. They may enhance coral settlement, but may increase
+Orpheus Island are 4.86 ± 0.29 mm deep (mean ± SE)               juvenile mortality (Trapon et al. 2013) and change the
+(Bonaldo and Bellwood 2009) and may remove the entire            growth rates, growth forms and survival of coral species.
+living tissue and polyps when inflicted (Bonaldo et al.              This coral scarring by parrotfishes needs to be consid-
+2011, 2014). This observation, in addition to the fact that      ered in the broader context of the functional roles of par-
+11 out of 30 scars expanded in our study, compared with          rotfishes on coral reefs, which includes herbivory,
+just three out of 30 in van Woesik (1998), over the same         bioerosion, sediment transfer, etc. (reviewed in Bonaldo
+time period, suggests that, even after longer periods of         et al. 2014). Through their important role in mediating
+time, C. microrhinos bite marks may not always recover.          coral–algal interactions in favour of corals (Hughes et al.
+   A number of studies on reefs around the world have            2007), parrotfishes, such as the excavating C. microrhinos,
+reported limited recovery of coral colonies from scars           may ameliorate any negative impacts they may have on
+inflicted by fish bites, particularly when this involves         coral colonies (e.g. Littler et al. 1989; Bruckner and
+excavating or scraping fishes (e.g. Rotjan and Lewis 2005;       Bruckner 1998; Rotjan and Lewis 2005; Bonaldo et al.
+Bonaldo et al. 2011, 2014; Denis et al. 2011). Although the      2011). On balance, partial mortality and occasional mor-
+recovery of single bites and small lesions (with low area to     tality may be a small price to pay for the beneficial effects
+perimeter ratio) is commonly reported (e.g. van Woesik           of parrotfishes in terms of herbivory and bioerosion.
+1998; Sánchez et al. 2004; Bonaldo et al. 2011), larger             On degraded reefs, however, this balance may change. It
+deeper bites usually involve tissue loss with accompanying       is possible that reduced coral cover may increase the per-
+skeletal damage and are associated with lower regenerative       colony rate of scarring by parrotfishes. Nevertheless,
+success (Bak and Steward-Van Es 1980; Bak 1983; Cro-             degraded reefs are usually characterized by reductions in
+quer et al. 2002; Bonaldo et al. 2011). Partial mortality can    parrotfish populations, especially of large excavating spe-
+impair growth and survival of remaining tissue, as regen-        cies (Bellwood et al. 2012). It is therefore likely that these
+eration requires the reallocation of resources for regener-      reefs may exhibit reduced coral scarring while maintaining
+ation at the expense of colony growth (reviewed by Henry         herbivory (a similar pattern seen on inshore coral reefs;
+and Hart 2005); a process that is particularly energy-           Bonaldo et al. 2014). Cole et al. (2008) suggested that co-
+demanding for neighbouring polyps (Meesters et al. 1994;         rallivory must be balanced by coral growth rates to maintain
+Henry and Hart 2005). Regeneration costs are highest in          coral populations. However, when this balance is altered by
+the area bordering live tissue, but regenerative capacity        environmental degradation, which slows coral growth
+does not appear to change with colony size (Meesters et al.      (De’ath et al. 2009), it is possible that the negative impacts of
+1994; Oren et al. 1997). Therefore, although bigger colo-        parrotfishes may be exacerbated as coral growth slows, and
+nies presumably have larger energy stores and more               corals become increasingly incapable of coping with ongo-
+resources, the likelihood of recovery from damage is             ing fish predation.
+approximately equal among differently sized colonies.                Whether parrotfishes play a positive role in removing
+   Corallivory can also negatively affect coral reproductive     algae, enhancing coral recruitment and removing compet-
+potential, as energetically expensive reproduction is often      itively dominant corals or a negative role by producing
+compromised in favour of tissue regeneration processes           localized scars which may result in increased energetic
+(Szmant-Froelich 1985; Harrison and Wallace 1990; Van            costs, reduced reproduction or partial mortality (as dem-
+Veghel and Bak 1994). For this reason, considering the           onstrated herein), it appears that the limited number of
+
+
+                                                                                                                       123
+86                                                                                                                   Coral Reefs (2015) 34:81–86
+
+
+parrotfish species which feed on massive Porites may play                         populations of the massive coral Porites lutea at Réunion Island:
+an important role in coral demographics, at least on some                         environmental correlates. Mar Ecol Prog Ser 428:105–111
+                                                                            Frydl P (1979) The effect of parrotfish (Scaridae) on coral in
+inshore reefs of the GBR.                                                         Barbados, W.I. Int Rev Gesamten Hydrobiol 64:737–748
+                                                                            Goatley CHR, Bellwood DR (2011) The role of dimensionality, canopies
+Acknowledgments We thank the staff of Orpheus Island Research                     and complexity in ecosystem monitoring. PLoS One 6:e27307
+Station for invaluable field support; Y. Bosiger, D. Duchene, C.            Harrell Jr FE (2014) Package ‘‘rms’’. Department of Biostatistics,
+Goatley and M. Kramer for field assistance, and three anonymous                   Vanderbilt University, USA. http://biostat.mc.vanderbilt.edu/
+reviewers for valuable suggestions. Financial support was provided by             wiki/Main/RmS
+the Australian Research Council.                                            Harrison PL, Wallace CC (1990) Reproduction, dispersal and
+                                                                                  recruitment of scleractinian corals. In: Dubinsky Z (ed) Ecosys-
+                                                                                  tems of the world: Coral reefs. Elsevier Science Publishers,
+                                                                                  Amsterdam, pp 133–207
+References                                                                  Henry L, Hart M (2005) Regeneration from injury and resource
+                                                                                  allocation in sponges and corals - a review. Int Rev Gesamten
+Abramoff MD, Magalhaes PJ, Ram SJ (2004) Image processing with                    Hydrobiol 90:125–158
+    ImageJ’’. Biophotonics International 11:36–42                           Hughes TP, Rodrigues MJ, Bellwood DR, Ceccarelli D, Hoegh-
+Bak RPM (1983) Neoplasia, regeneration and growth in the reef-                    Guldberg O, McCook L, Moltschaniwskyj N, Pratchett MS,
+    building coral Acropora palmata. Mar Biol 77:221–227                          Steneck RS, Willis B (2007) Phase shifts, herbivory, and the
+Bak RPM, Steward-Van Es Y (1980) Regeneration of superficial                      resilience of coral reefs to climate change. Curr Biol 17:360–365
+    damage in the scleractinian corals Agaricia agaricites f.               Jayewardene D, Donahue M, Birkeland C (2009) Effects of frequent
+    purpurea and Porites astreoides. Bull Mar Sci 30:883–887                      fish predation on corals in Hawaii. Coral Reefs 28:499–506
+Bellwood DR, Choat JH (1990) A functional analysis of grazing in            Littler MM, Taylor PR, Littler DS (1989) Complex interactions in the
+    parrotfishes (family Scaridae): the ecological implications.                  control of coral zonation on a Caribbean reef flat. Oecologia
+    Environ Biol Fishes 28:189–214                                                80:331–340
+Bellwood DR, Hoey AS, Choat JH (2003) Limited functional                    Meesters EH, Noordeloos M, Bak RPM (1994) Damage and
+    redundancy in high diversity systems: resilience and ecosystem                regeneration: links to growth in the reef building coral Montas-
+    function on coral. Ecol Lett 6:281–285                                        trea annularis. Mar Ecol Prog Ser 112:119–128
+Bellwood DR, Hoey AS, Hughes TP (2012) Human activity                       Mumby PJ (2009) Phase shifts and the stability of macroalgal
+    selectively impacts the ecosystem roles of parrotfishes on coral              communities on Caribbean coral reefs. Coral Reefs 28:761–773
+    reefs. Proc R Soc B Biol Sci 279:1621–1629                              Oren U, Benayahu Y, Loya Y (1997) Effect of lesion size and shape
+Bellwood DR, Klanten S, Cowman PF, Pratchett MS, Konow N, Van                     on regeneration of the Red Sea coral Favia favus. Mar Ecol Prog
+    Herwerden L (2010) Evolutionary history of the butterflyfishes                Ser 146:101–107
+    (f: Chaetodontidae) and the rise of coral feeding fishes. J Evol        Rotjan RD, Lewis SL (2005) Selective predation by parrotfishes on
+    Biol 23:335–349                                                               the reef coral Porites astreoides. Mar Ecol Prog Ser 30:193–201
+Bonaldo RM, Bellwood DR (2009) Dynamics of parrotfish feeding               Rotjan RD, Lewis SM (2008) Impact of coral predators on tropical
+    scars. Mar Biol 156:771–777                                                   reefs. Mar Ecol Prog Ser 367:73–91
+Bonaldo RM, Bellwood DR (2011) Parrotfish predation on massive              Sánchez JA, Gil MF, Chasqui LH, Alvarado EM (2004) Grazing
+    Porites on the Great Barrier Reef. Coral Reefs 30:259–269                     dynamics on a Caribbean reef-building coral. Coral Reefs
+Bonaldo RM, Krajewski JP, Bellwood DR (2011) Relative impact of                   23:578–583
+    parrotfish feeding scars on massive Porites corals at Lizard            Sano M, Shimizu M, Nose Y (1984) Food habits of teleostean reef
+    Island, Great Barrier Reef. Mar Ecol Prog Ser 423:223–233                     fishes in Okinawa Islands, southern Japan. The Univ Mus The
+Bonaldo RM, Welsh JQ, Bellwood DR (2012) Spatial and temporal                     Univ Tokyo Bull 25:1–128
+    variation in coral predation by parrotfishes on the GBR: evidence       Szmant-Froelich AM (1985) The effect of colony size on the
+    from an inshore reef. Coral Reefs 31:263–272                                  reproductive ability of the Caribbean coral Montastrea annular-
+Bonaldo RM, Hoey AS, Bellwood DR (2014) The ecosystem roles of                    is. Proc 5th Int Coral Reef Symp 4:295–300
+    parrotfishes on tropical reefs. Oceangr Mar Biol 52:81–132              Shantz A, Stier A, Idjadi J (2011) Coral density and predation affect
+Bruckner AW, Bruckner RJ (1998) Destruction of coral by Sparisoma                 growth of a reef-building coral. Coral Reefs 30:363–367
+    viride. Coral Reefs 17:350                                              Szmant AM, Gassman NJ (1990) The effects of prolonged ‘‘bleach-
+Bruckner AW, Bruckner RJ, Sollins P (2000) Parrotfish predation on                ing’’ on the tissue biomass and reproduction of the reef coral
+    live coral: ‘‘spot biting’’ and ‘‘focused biting’’. Coral Reefs 19:50         Montastrea annularis. Coral Reefs 8:217–224
+Burkepile DE (2012) Context-dependent corallivory by parrotfishes in        Team RDC (2008) R: A language and environment for statistical
+    a Caribbean reef ecosystem. Coral Reefs 31:111–120                            computing. 3.0.1 ed. R Foundation for Statistical Computing, Viena
+Cole AJ, Pratchett MS, Jones GP (2008) Diversity and functional             Trapon ML, Pratchett MS, Hoey AS (2013) Spatial variation in
+    importance of coral-feeding fishes on tropical coral reefs. Fish              abundance, size and orientation of juvenile corals related to the
+    Fish 9:286–307                                                                biomass of parrotfishes on the Great Barrier Reef. Australia.
+Cole AJ, Lawton R, Pratchett M, Wilson S (2011) Chronic coral                     PLoS ONE 8:e57788
+    consumption by butterflyfishes. Coral Reefs 30:85–93                    Van Veghel MLJ, Bak RPM (1994) Reproductive characteristics of
+Croquer A, Villamizar E, Noriega N (2002) Environmental factors                   the polymorphic Caribbean reef building coral Montastrea
+    affecting tissue regeneration of the reef-building coral Montas-              annularis III. Reproduction in damaged and regenerating
+    trea annularis (Faviidae) at Los Roques National Park, Vene-                  colonies. Mar Ecol Prog Ser 109:229–233
+    zuela. Rev Biol Trop 50:1055–1065                                       van Woesik R (1998) Lesion healing on massive Porites spp. corals.
+De’ath G, Lough JM, Fabricius KE (2009) Declining coral calcifi-                  Mar Ecol Prog Ser 164:213–220
+    cation on the Great Barrier Reef. Science 323:116–119                   Welsh JQ, Bellwood DR (2012) Spatial ecology of the steephead
+Denis V, Debreuil J, De Palmas S, Richard J, Guillaume MM,                        parrotfish (Chlorurus microrhinos): an evaluation using acoustic
+    Bruggemann JH (2011) Lesion regeneration capacities in                        telemetry. Coral Reefs 31:55–65
+
+
+123
+

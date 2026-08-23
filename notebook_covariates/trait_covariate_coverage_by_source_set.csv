@@ -1,0 +1,121 @@
+source_set,n_sources,field,field_status,n_present,n_missing,percent_present,notes
+raw_overview_plotted,20,species,column_present,20,0,100.0,
+raw_overview_plotted,20,growth_form,column_present,20,0,100.0,
+raw_overview_plotted,20,tissue_type,column_present,20,0,100.0,
+raw_overview_plotted,20,colony_size_cm,column_present,14,6,70.0,
+raw_overview_plotted,20,symbiont_status,column_present,6,14,30.0,
+raw_overview_plotted,20,lesion_source,column_present,20,0,100.0,
+raw_overview_plotted,20,lesion_method,column_present,20,0,100.0,
+raw_overview_plotted,20,lesion_type,column_present,20,0,100.0,
+raw_overview_plotted,20,area_mm2,column_present,14,6,70.0,
+raw_overview_plotted,20,rel_wound_size,column_present,5,15,25.0,
+raw_overview_plotted,20,perimeter_mm,column_present,2,18,10.0,
+raw_overview_plotted,20,lesion_depth,column_present,15,5,75.0,
+raw_overview_plotted,20,num_lesions,column_present,16,4,80.0,
+raw_overview_plotted,20,lesion_position,column_present,17,3,85.0,
+raw_overview_plotted,20,sample_size,column_present,20,0,100.0,
+raw_overview_plotted,20,study_type,column_present,20,0,100.0,
+raw_overview_plotted,20,study_year,column_present,18,2,90.0,
+raw_overview_plotted,20,country_territory,column_present,20,0,100.0,
+raw_overview_plotted,20,water_body,column_present,12,8,60.0,
+raw_overview_plotted,20,temperature_c,column_present,6,14,30.0,
+raw_overview_plotted,20,ph_or_pco2,column_present,1,19,5.0,
+raw_overview_plotted,20,nutrient_enrich,column_present,1,19,5.0,
+raw_overview_plotted,20,light_par,column_present,6,14,30.0,
+raw_overview_plotted,20,light_regime,column_present,2,18,10.0,
+raw_overview_plotted,20,sedimentation,column_present,1,19,5.0,
+raw_overview_plotted,20,flow_regime,column_present,3,17,15.0,
+raw_overview_plotted,20,taxon_count,model_column_present,20,0,100.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+raw_overview_plotted,20,genus,model_column_present,16,4,80.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+raw_overview_plotted,20,family,model_column_present,17,3,85.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+raw_overview_plotted,20,growth_form_standard,model_column_present,15,5,75.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+raw_overview_plotted,20,taxonomy_family,model_column_absent,0,20,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+raw_overview_plotted,20,skeletal_porosity,model_column_present,3,17,15.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+raw_overview_plotted,20,porosity,model_column_absent,0,20,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+raw_overview_plotted,20,perforate_status,model_column_absent,0,20,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+raw_overview_plotted,20,imperforate_status,model_column_absent,0,20,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+raw_overview_plotted,20,clade,model_column_absent,0,20,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+raw_overview_plotted,20,coral_taxon_id,model_column_absent,0,20,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+raw_overview_plotted,20,tissue_type_mentions_perforate_or_imperforate,derived_text_check,6,14,30.0,Text search in tissue_type only; this is not a normalized porosity moderator.
+raw_overview_plotted,20,notes_or_tissue_mentions_perforate_or_imperforate,derived_text_check,6,14,30.0,"Text search in tissue_type plus notes; this is evidence of recoverability, not a clean field."
+raw_overview_plotted,20,species_multi_or_ambiguous_among_nonblank,derived_text_check,8,12,40.0,"Denominator is nonblank species rows because this is an ambiguity flag, not field coverage."
+digitization_queue,56,species,column_present,56,0,100.0,
+digitization_queue,56,growth_form,column_present,55,1,98.2,
+digitization_queue,56,tissue_type,column_present,54,2,96.4,
+digitization_queue,56,colony_size_cm,column_present,39,17,69.6,
+digitization_queue,56,symbiont_status,column_present,18,38,32.1,
+digitization_queue,56,lesion_source,column_present,56,0,100.0,
+digitization_queue,56,lesion_method,column_present,55,1,98.2,
+digitization_queue,56,lesion_type,column_present,56,0,100.0,
+digitization_queue,56,area_mm2,column_present,38,18,67.9,
+digitization_queue,56,rel_wound_size,column_present,18,38,32.1,
+digitization_queue,56,perimeter_mm,column_present,3,53,5.4,
+digitization_queue,56,lesion_depth,column_present,26,30,46.4,
+digitization_queue,56,num_lesions,column_present,42,14,75.0,
+digitization_queue,56,lesion_position,column_present,46,10,82.1,
+digitization_queue,56,sample_size,column_present,56,0,100.0,
+digitization_queue,56,study_type,column_present,56,0,100.0,
+digitization_queue,56,study_year,column_present,45,11,80.4,
+digitization_queue,56,country_territory,column_present,56,0,100.0,
+digitization_queue,56,water_body,column_present,32,24,57.1,
+digitization_queue,56,temperature_c,column_present,25,31,44.6,
+digitization_queue,56,ph_or_pco2,column_present,4,52,7.1,
+digitization_queue,56,nutrient_enrich,column_present,10,46,17.9,
+digitization_queue,56,light_par,column_present,11,45,19.6,
+digitization_queue,56,light_regime,column_present,14,42,25.0,
+digitization_queue,56,sedimentation,column_present,3,53,5.4,
+digitization_queue,56,flow_regime,column_present,20,36,35.7,
+digitization_queue,56,taxon_count,model_column_present,56,0,100.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+digitization_queue,56,genus,model_column_present,40,16,71.4,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+digitization_queue,56,family,model_column_present,42,14,75.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+digitization_queue,56,growth_form_standard,model_column_present,37,19,66.1,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+digitization_queue,56,taxonomy_family,model_column_absent,0,56,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+digitization_queue,56,skeletal_porosity,model_column_present,2,54,3.6,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+digitization_queue,56,porosity,model_column_absent,0,56,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+digitization_queue,56,perforate_status,model_column_absent,0,56,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+digitization_queue,56,imperforate_status,model_column_absent,0,56,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+digitization_queue,56,clade,model_column_absent,0,56,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+digitization_queue,56,coral_taxon_id,model_column_absent,0,56,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+digitization_queue,56,tissue_type_mentions_perforate_or_imperforate,derived_text_check,6,50,10.7,Text search in tissue_type only; this is not a normalized porosity moderator.
+digitization_queue,56,notes_or_tissue_mentions_perforate_or_imperforate,derived_text_check,7,49,12.5,"Text search in tissue_type plus notes; this is evidence of recoverability, not a clean field."
+digitization_queue,56,species_multi_or_ambiguous_among_nonblank,derived_text_check,29,27,51.8,"Denominator is nonblank species rows because this is an ambiguity flag, not field coverage."
+rate_source_index,57,species,column_present,57,0,100.0,
+rate_source_index,57,growth_form,column_present,55,2,96.5,
+rate_source_index,57,tissue_type,column_present,55,2,96.5,
+rate_source_index,57,colony_size_cm,column_present,37,20,64.9,
+rate_source_index,57,symbiont_status,column_present,23,34,40.4,
+rate_source_index,57,lesion_source,column_present,57,0,100.0,
+rate_source_index,57,lesion_method,column_present,56,1,98.2,
+rate_source_index,57,lesion_type,column_present,57,0,100.0,
+rate_source_index,57,area_mm2,column_present,43,14,75.4,
+rate_source_index,57,rel_wound_size,column_present,14,43,24.6,
+rate_source_index,57,perimeter_mm,column_present,3,54,5.3,
+rate_source_index,57,lesion_depth,column_present,29,28,50.9,
+rate_source_index,57,num_lesions,column_present,47,10,82.5,
+rate_source_index,57,lesion_position,column_present,49,8,86.0,
+rate_source_index,57,sample_size,column_present,57,0,100.0,
+rate_source_index,57,study_type,column_present,57,0,100.0,
+rate_source_index,57,study_year,column_present,49,8,86.0,
+rate_source_index,57,country_territory,column_present,57,0,100.0,
+rate_source_index,57,water_body,column_present,31,26,54.4,
+rate_source_index,57,temperature_c,column_present,29,28,50.9,
+rate_source_index,57,ph_or_pco2,column_present,5,52,8.8,
+rate_source_index,57,nutrient_enrich,column_present,8,49,14.0,
+rate_source_index,57,light_par,column_present,17,40,29.8,
+rate_source_index,57,light_regime,column_present,16,41,28.1,
+rate_source_index,57,sedimentation,column_present,3,54,5.3,
+rate_source_index,57,flow_regime,column_present,20,37,35.1,
+rate_source_index,57,taxon_count,model_column_present,57,0,100.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+rate_source_index,57,genus,model_column_present,43,14,75.4,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+rate_source_index,57,family,model_column_present,45,12,78.9,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+rate_source_index,57,growth_form_standard,model_column_present,41,16,71.9,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+rate_source_index,57,taxonomy_family,model_column_absent,0,57,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+rate_source_index,57,skeletal_porosity,model_column_present,7,50,12.3,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+rate_source_index,57,porosity,model_column_absent,0,57,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+rate_source_index,57,perforate_status,model_column_absent,0,57,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+rate_source_index,57,imperforate_status,model_column_absent,0,57,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+rate_source_index,57,clade,model_column_absent,0,57,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+rate_source_index,57,coral_taxon_id,model_column_absent,0,57,0.0,Requested model-ready taxonomy/trait moderator from META_ANALYSIS_COVARIATES.csv.
+rate_source_index,57,tissue_type_mentions_perforate_or_imperforate,derived_text_check,13,44,22.8,Text search in tissue_type only; this is not a normalized porosity moderator.
+rate_source_index,57,notes_or_tissue_mentions_perforate_or_imperforate,derived_text_check,14,43,24.6,"Text search in tissue_type plus notes; this is evidence of recoverability, not a clean field."
+rate_source_index,57,species_multi_or_ambiguous_among_nonblank,derived_text_check,25,32,43.9,"Denominator is nonblank species rows because this is an ambiguity flag, not field coverage."

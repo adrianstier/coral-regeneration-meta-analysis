@@ -1,0 +1,674 @@
+{
+  "answer": "Here is the validated extraction scaffold for the 10 allowed sources on coral tissue regeneration, growth rates, and physiological covariates. Each entry is strictly grounded in the provided papers and referenced to specific passages.\n\n| source_id | response variables measured | taxon | wound/fragment/colony size information | timepoints or monitoring duration | sample size and variance if reported | environmental setting | experimental treatments or stressors | key missing covariates |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| **Eh_1992** | Tissue regeneration rate (decay slope) [1, 2], days to lesion closure [2, 3], polyp/corallite development [4], and chlorophyll a concentration next to lesions [5, 6] | *Acropora palmata*, *Diploria strigosa*, *Porites astreoides*, *Siderastrea siderea*, and *Montastrea annularis* [7-9] | Flat circular patches of scraped skeleton of ~1 cm diameter and 2 mm depth [10] | Monitored up to 36 d (A. palmata), 98 d (D. strigosa), 32 d (P. astreoides), 128 d (S. siderea), 48 d (M. annularis), and 34 d (P. astreoides position experiment) [11] | N=30/35 (A. palmata), N=30/29 (D. strigosa), N=30/34 (P. astreoides), N=28/29 (S. siderea) [8]; N=23/30 (M. annularis) [9]; N=24/22 (P. astreoides position) [5]; Variance: Mean ± SE [6] | Shallow terrace fringing reefs (depths 1–6 m) along the leeward coast of Curaçao [7-9, 12] | Long-term sediment load (Low 27 vs. High 40 g dry wt m⁻² d⁻¹) [13]; short-term sediment load from beach construction [9]; lesion position (top vs. side of colony) [5] | Seawater pH, pCO2, salinity, nutrients, and precise current flow speed in cm/s [5, 9, 13] |\n| **Meesters_1994** | Growth / calcification rate (mg calcium carbonate production) [14], and remaining lesion size (mm²) [15, 16] | *Montastrea annularis* (columnar morphotype) [14, 17] | Colony cores of 3.7 cm diameter [17]; circular lesions ~170 mm² area and 2.16 ± 0.19 mm depth [18] | 16-day study (handling) [19] and 56-day study (regeneration) [14] | N=20 colonies (2 cores per colony, total 40 cores) [17]; handling intervals (every 2, 4, or 8 days, n=10, 10, 20 cores) [19, 20]; Variance: SE and 95% Confidence Limits [18, 21] | Carmabi Buoy 1, leeward coast of Curaçao; depth 7 m [17] | Wounding (removing 1 cm² tissue + skeleton) [14]; handling weighing frequency (every 2, 4, or 8 days) [19]; temperature natural variation [22, 23] | Water flow velocity in cm/s, dissolved nutrient concentrations, pH, and carbonate chemistry [22] |\n| **Nagelkerken_1998** | Tissue recovery (lesion closure rate) [24, 25], zooxanthellae density [26], and chlorophyll a density [26] | *Porites astreoides* (green and brown morphs), *Stephanocoenia michelinii* (massive and encrusting morphs), *Madracis decactis*, *M. pharensis luciphila*, and *M. senaria* [25, 27] | Cylindrical lesions ~2 mm diameter/depth; initial sizes: 15.1 ± 0.7 mm² (green Porites), 13.7 ± 1.0 mm² (brown Porites), 16.1 ± 0.7 mm² (massive Steph.), 15.1 ± 0.9 mm² (encrusting Steph.) [24, 28] | Monitored over 9 days (Porites), 21 days (Stephanocoenia) [24], and 18 days (Madracis) [29], measured every 2 to 3 days [24] | N=18 green Porites, 15 brown Porites, 7 massive Steph., 9 encrusting Steph., 27 M. decactis, 29 M. pharensis, 31 M. senaria [25, 28]; Variance: SD [24, 26] | Carmabi Buoy 1, southwestern coast of Curaçao; depth 5 to 7 m [28] | Congeneric and intraspecific morph comparisons under ambient conditions [28] | Seawater temperature, pH/carbonate chemistry, nutrients, and precise wave flow [26] |\n| **Nagelkerken_1999** | Percentage of lesion area closed [30], zooxanthellae densities [31], total chlorophyll per cell [32], and chlorophyll a/c ratio [32] | *Porites astreoides* (brown morph) and *Stephanocoenia michelinii* (massive morph) [33, 34] | Cylindrical lesions of ~1 cm diameter and 2–3 mm depth [34]; Mean initial sizes: 2.2 ± 0.3 cm² (Porites) and 2.0 ± 0.6 cm² (Stephanocoenia) [35] | Monitored at days 4, 7, 15, 21, 29, 36, and 49 post-injury [35] | N=41 colonies of P. astreoides, 29 of S. michelinii [34]; Variance: SD [35] | Seaquarium reef, leeward coast of Curaçao, Netherlands Antilles [36]; Depth gradient from 5 to 35 m [34] | Depth gradient (5, 10, 15, 20, 25, 30, 35 m) [30, 34] | Seawater temperature, salinity, nutrients, and precise current flow speed [37, 38] |\n| **Okubo_2008** | Spawning ratio (%) [39], survival rate [40], linear extension rate (mm) [39], days to wound closure [40], first polyp and axial polyp formation (days) [40, 41], and number of new polyps on cut surface [41] | *Acropora muricata* (formosa) [42, 43] | Fragments cut to 5 cm long, 10 cm long, and 20 cm long [42, 44]; Cut bottom surface area kept constant at ~0.785 cm² [45]; Donor colony ~1 m height, 4.5 m² cross-section [45] | Exp 1 monitored after 9 months [39]; Exp 2 monitored daily for 24 days [40] | Exp 1: 5 cm (n=11), 10 cm (n=10), 20 cm (n=8) [44]; Exp 2: 5 cm (n=30), 10 cm (n=26), 20 cm (n=27) [44]; Variance: Mean ± SD [46] | Transplanted onto coral pavement, Akajima Island, Okinawa, Japan; depth 2–3 m [43, 44] | Fragment size class (5 cm vs. 10 cm vs. 20 cm) [44] | Water temperature, light/PAR, nutrients, and current flow speed [46, 47] |\n| **Oren_1997** | Percent reduction of lesion area [48, 49], and Area of newly formed tissue to perimeter (NFT/P) ratio [50, 51] | *Favia favus* [52] | Colonies ~45 cm in diameter [53]; Lesions: SP (area 87 ± 14 mm², perimeter 35 ± 5 mm), E-3 (area 274 ± 35 mm², perimeter 83 ± 8 mm), SQ-6 (area 510 ± 58 mm², perimeter 116 ± 8.5 mm), E-6 (area 500 ± 42 mm², perimeter 165 ± 7.8 mm), EP (3 parallel lesions of 6 polyps each) [53, 54] | Monitored monthly for 3 months (90 days total, January to April 1995) [48, 52] | 46 colonies: SP (n=10), E-3 (n=9), SQ-6 (n=8), E-6 (n=11), EP (n=8) [53]; Variance: SD [53] | Shallow reef (2–3 m) across from the Marine Biology Laboratory, Eilat, Gulf of Eilat, Israel, Red Sea [52, 53] | Lesion size and shape configurations (SP, E-3, SQ-6, E-6, EP) [53] | Seawater temperature, light/PAR, nutrients, and wave current flow velocity [55, 56] |\n| **Oren_2001** | Lesion area recovery rate (%) [57], Polyp fecundity (oocytes/septum) [58], and oocyte diameter [58] | *Favia favus* [59, 60] | Sizes: small (71 ± 20 cm²), intermediate (431 ± 176 cm²), large (1204 ± 313 cm²), and very large (1569 ± 228 cm²) [61, 62]; Lesions: SP (87 ± 14 mm²), E-2 (182 ± 16 mm²), E-3 (274 ± 35 mm²), and E-10 (958 ± 93 mm²) [62, 63] | Recovery monitored monthly for 3 months (90 days) [57]; Fecundity experiment initiated February 1996, sampled June 1996 (5 months) [64, 65] | Recovery: 8 colonies per class per lesion type (n=72, plus 6 very large for E-3) [61-63]; Fecundity: SP (n=16, 8 one-time/8 repeated), E-3 (n=8, repeated), E-10 (n=16, 8 one-time/8 repeated), Controls (n=10) [64, 65]; Variance: SD [61, 66] | Shallow reef (2–3 m), Marine Biology Laboratory, Eilat, Israel, Red Sea [60, 67] | Colony size class [61], lesion size/geometry [63], injury frequency (one-time vs. monthly repeated) [65, 68], distance from lesion (1, 7, 15 cm) [69] | Seawater temperature, light, water motion, and dissolved organic nutrients [70, 71] |\n| **Paz-Garcia_2006** | Regeneration rate (mm²/day) [72], and percentage of colonies with complete regeneration, partial regeneration, and algal colonization/mortality [72, 73] | *Porites panamensis* (columnar and massive forms) [72, 74] | Colony size >40 cm² [75, 76]; Circular lesions: 0.70 ± 0.09 cm diameter, 0.5 cm deep [72, 74, 76] | Cold season: monitored on days 7/8, 10/11, 22, 28 [76, 77]; Warm season: monitored on days 12/13, 21/22 [76, 77] | Warm season: massive (n=26), columnar (n=28) [75, 76]; Cold season: massive (n=30), columnar (n=30) [75, 76]; Variance: SD [72, 74] | Punta Gaviotas and Punta Galeras, Bahía de La Paz, Gulf of California, Mexico; depth 1–3 m [72, 74, 75, 78] | Morphotype (massive vs. columnar) [72, 74], season (cold 19–24ºC vs. warm 28–30ºC) [75, 78] | High-resolution light/PAR, salinity, and wave flow speed [79, 80] |\n| **Rice_2019** | Growth rate (mg cm⁻² day⁻¹) [81], wound healing rate (mm² day⁻¹) [81], Symbiodiniaceae densities [82], and microbial alpha and beta diversity metrics [83] | *Pocillopora meandrina* [84, 85] | Fragment nubbins: 2.7 ± 0.05 cm height, initial weight 29.1 ± 0.7 g [86, 87]; Single branch-tip simulated corallivory wound: 45.2 ± 1.5 mm² area, ~2 mm deep [87] | 21 days experiment duration [81, 87] | N = 120 total (10 per treatment combination across 12 treatments) [87]; Subset of 6 per treatment (n=72) for microbiome analysis [88]; Variance: SE/SD [86, 87] | 150 L independent flow-through temperature-controlled mesocosm tanks, Gump South Pacific Research Station, Moorea, French Polynesia [84-86] | Seawater warming (ambient 26ºC vs. warming 29ºC) [84, 89], nitrogen source (control, 4 µM ammonium, 4 µM nitrate) [84, 89], simulated corallivory (intact vs. wounded) [84, 87] | Seawater pH, pCO2, aragonite saturation, and water current flow speed in cm/s [86] |\n| **Rice_2021** | Tissue mortality (%) [90-92], Symbiodiniaceae densities [90, 93, 94], chlorophyll a concentration [93, 94], and wound healing rate (% of wound healed) [91, 95, 96] | Massive *Porites* spp. (*P. lutea* & *P. lobata*) [90, 97, 98], and gastropod corallivore *Coralliophila violacea* [90, 99] | Fragments: 17.6 ± 0.7 cm² surface area, initial mass 12.3 ± 0.7 g [100, 101]; Snail predation wounds: mean area 32.8 ± 2.2 mm² [102] | 6-week field experiment (July–September 2017) [100]; 10-day snail predation period, followed by 2 weeks of monitoring [91, 103] | N = 11 fragments per treatment (88 total) [100, 101]; Surveys: 426 massive Porites colonies [104]; Variance: SE [100-102] | In situ fringing reefs (surveys) and back-reef site (experiment) on the north shore of Moorea, French Polynesia; depth 1–2 m [90, 100, 105, 106] | Snail predation (presence vs. absence of 1 snail) [101, 103], nutrient enrichment (Osmocote, ~4.3 µM NO3 vs. 0.8 µM control) [102, 107], and sedimentation (sand addition, rate ~100 mg cm⁻² d⁻¹) [101, 108] | High-resolution temperature logs (not crossed factorially), continuous light intensity (PAR), salinity, pH/carbonate chemistry, and wave flow speed [96, 109] |\n\n📊 It might be interesting to write a script that pools the raw initial lesion area and calculates standardized tissue closure rates across these massive species (e.g., Montastrea and Porites) to see if we can identify general morphological thresholds.",
+  "conversation_id": "e1a4c269-6535-4de1-aff1-bda941ff6a53",
+  "sources_used": [
+    "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+    "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+    "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+    "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "6f750c49-3261-482c-ade2-373835f7cf40",
+    "0ccdd954-1740-44d7-a2c6-6280125057b5",
+    "002a60bc-55c8-4fdb-860a-1169fc99b2a8"
+  ],
+  "citations": {
+    "1": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "2": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "3": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "4": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "5": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "6": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "7": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "8": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "9": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "10": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "11": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "12": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "13": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+    "14": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "15": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "16": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "17": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "18": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "19": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "20": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "21": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "22": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "23": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "24": "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+    "25": "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+    "26": "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+    "27": "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+    "28": "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+    "29": "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+    "30": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+    "31": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+    "32": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+    "33": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+    "34": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+    "35": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+    "36": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+    "37": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+    "38": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+    "39": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "40": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "41": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "42": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "43": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "44": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "45": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "46": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "47": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "48": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+    "49": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+    "50": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+    "51": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+    "52": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+    "53": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+    "54": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+    "55": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+    "56": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+    "57": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "58": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "59": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "60": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "61": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "62": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "63": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "64": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "65": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "66": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "67": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "68": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "69": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "70": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "71": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "72": "6f750c49-3261-482c-ade2-373835f7cf40",
+    "73": "6f750c49-3261-482c-ade2-373835f7cf40",
+    "74": "6f750c49-3261-482c-ade2-373835f7cf40",
+    "75": "6f750c49-3261-482c-ade2-373835f7cf40",
+    "76": "6f750c49-3261-482c-ade2-373835f7cf40",
+    "77": "6f750c49-3261-482c-ade2-373835f7cf40",
+    "78": "6f750c49-3261-482c-ade2-373835f7cf40",
+    "79": "6f750c49-3261-482c-ade2-373835f7cf40",
+    "80": "6f750c49-3261-482c-ade2-373835f7cf40",
+    "81": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+    "82": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+    "83": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+    "84": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+    "85": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+    "86": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+    "87": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+    "88": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+    "89": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+    "90": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "91": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "92": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "93": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "94": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "95": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "96": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "97": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "98": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "99": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "100": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "101": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "102": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "103": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "104": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "105": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "106": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "107": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "108": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+    "109": "002a60bc-55c8-4fdb-860a-1169fc99b2a8"
+  },
+  "references": [
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 1,
+      "cited_text": "Analysis Lesion size data (mm 2) were logarithmically trans­ formed (X + 1) and regressed against time. Not all measuring dates could be used in the regression analysis, because the lesion sizes were no longer normally distributed towards the end of the exper­ iments, but skewed to the right, as the number of closed lesions increased. Testing for significance of regression was done by calculating the variance ra­ tio of the variation due to linear regression over the variation due to deviations from regression. This reduces the influence of heterogeneous data and results in a more conservative test (Sokal and Rohlf 1981 ). Because regeneration rate is not con­ stant, but decreases with time, it is best described by the slope of the exponential regression line. The different treatments were compared by testing for difference between regression slopes."
+    },
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 2,
+      "cited_text": "Probability ofno difference between slopes:*** = P < 0.001, ** = P < 0.005, * = P < 0.025, n.s. = not significant. Species Site C Slope Long-term sedimentation Acropora palmata Low 182 -0.088 High 192 -0.060 Dip/oria strigosa Low 114 -0.010 High 112 -0.013 Porites astreoides Low 191 -0.066 High 154 -0.057 Siderastrea siderea Low 124 -0.0095 High 178 -0.0094 Short-term sedimentation Montastrea annularis SedDown 162 -0.020 SedUp 177 -0.030 Lesion position P. astreoides Top Low 205 -0.044 Side Low 202 -0.046"
+    },
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 3,
+      "cited_text": "Discussion Regeneration in Acropora palmata was slower at the site with a high sediment load. A. palmata has been reported as a very inefficient sediment rejector both in the laboratory (Hubbard and Pocock 1972, Bak and Elgershuizen 1976) and Effects of Sedimentation and Lesion Position on Coral Tissue Regeneration 675 Table 1. Results of regression analyses and slope comparisons. Data were fitted to the line: Size = C * I Q<b\"Timo>, in which C = constant, and b = slope. X0 = number of days till lesion closure according to regression line, N = number of data, R2 = coefficient of determination; Days = number of days included in regression; P ,__ = Probability of regression, P,amp."
+    },
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 4,
+      "cited_text": "I / A. palmata quickly covered the bare skeleton with a thin veneer of transparent undifferentiated tissue. Often the lesion was already closed before any polyps were formed in the new tissue. Polyp formation started after approximately 8 days, and was visible in almost all lesions after 18 days, prob­ ably associated with the developmental phase of the newly formed tissue. Corallite development quickly followed the appearance of a polyp mouth. New corallites were initially differently oriented from the surrounding corallites. After the lesion had fully re­ generated, the tissue remained slightly depressed and lighter colored than the surrounding tissue. Two months after closing, nothing remained that could be attributed to a lesion."
+    },
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 5,
+      "cited_text": "Lesion position To assess the influence oflesion position on regen­ eration, lesions were inflicted on the tops and sides Effects of Sedimentation and Lesion Position on Coral Tissue Regeneration 673 of separate colonies of P. astreoides (Site Low, N10 \" = 24, N,ide = 22). Light measurements were taken near every lesion with an International Light pho­ tometer, IL 1400A. Samples were taken at the end of the experiment to assess chlorophyll a concen­ tration. Because regenerated lesions remained lightly colored during a long time (indicating changed pigment concentrations) samples were taken directly next to the lesions. Sample processing and chlorophyll measurements were as described by Szmant and Gassman ( 1990)."
+    },
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 6,
+      "cited_text": "Lesion Position Lesion position in P. astreoides did not influence regeneration rate (Fig! 5, Table 1). Light measure­ ments showed that tlle lesions on the side of the colony received on the average 30% of the amount oflight that reaches the top of the colony (Mean ± SE: 244 ± 50 Eµ m-2 s-1 and 829 ± 24 Eµ m-2 s-1, respectively; P = 0.0004, MU-test). Irradiance was also influenced by surrounding objects and sand reflection. Average chlorophyll a concentration of top le­ sions was significantly lower when compared with side lesions (respectively 4.5 ± 0.8 µg cm-2 and 9.3 ± 1.1 µg cm-2 (mean ± SE); P = 0.004, MU-test)."
+    },
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 7,
+      "cited_text": "Materials and Methods Study Sites The four study sites were situated on the leeward fringing reefs ofCura~ao, Netherlands Antilles (Fig. 672 1). All are characterized by a submarine terrace nor­ mally stretching a distance of 50 to 100 m from the coast to a depth of7 to 12 m, where the reef steeply slopes to a depth of 50 to 60 m (Bak 197 5). Abun­ dant corals on the shallow terrace (Bak 1977) are Acropora palmata (Lamarck), Agaricia spp., Diplo­ ria clivosa (Ellis and Solander), D. strigosa (Dana), Montastrea annularis (Ellis and Solander), M. cav­ ernosa (Linnaeus), Porites astreoides Lamarck, and Meandrina meandrites (Linnaeus)."
+    },
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 8,
+      "cited_text": "Lesions on branches of Acropora palmata col­ onies were made on the upper side at a distance of 10-20 cm from the edge (7 /12/90; NLow = 30, NH,gh = 35; depth = 3-4 m). Colonies of Diploria stri­ gosa received a lesion in between two ridges (9/4/ 90; NLow = 30, NH,g11 = 29; depth= 4-6 m). Porites astreoides lesions were made on top of every colony (12/5/90; NLow = 30, NH,gh = 34; depth = 4-6 m). Lesions on Siderastrea siderea were made on the top of the colony (6/7/91, NLow = 28; 6/10/91, NH,gh"
+    },
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 9,
+      "cited_text": "= 29; depth = 4-6 m). Short-Term Sedimentation To assess the influence of sudden sediment stress on the regeneration rate of corals, lesions were in­ flicted on Montastrea annularis colonies following the start of the construction of an artificial beach in October 1991. The experimental colonies were situated 100 m upcurrent and 50-75 m downcur­ rent of the construction site (Fig. 1; SedDown, and SedUp, 10/16/91; NSedDown = 23, NSedUp = 30). Sedi­ mentation at each site was measured by placing two sediment traps (length/ width ratio = 10) between the experimental colonies. Traps were collected at a 2 weekly interval and the contents was processed as explained in the previous section."
+    },
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 10,
+      "cited_text": "Lesion Infliction Lesions were made on top of haphazardly selected colonies with a submersible drill powered by com­ pressed air and equipped with a small grinding point that created flat circular patches of scraped skeleton, devoid of living tissue, of approximately 1 cm diameter and 2 mm depth. In all experiments, lesion area was measured with a plexiglass ruler divided into 0.04 cm2 squares. At the start of the experiments lesion depth was measured with a pair of callipers to calculate the surface area of the lesion wall."
+    },
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 11,
+      "cited_text": "Xo N R' Days Prer,,. p comp. 26 164 0.86 27 *** * 38 244 0.65 36 *** 206 308 0.22 98 *** ** 158 319 0.47 98 *** 35 186 0.75 32 *** n.s. 38 237 0.74 32 *** 220 196 0.61 128 *** n.s. 239 203 0.65 128 *** 110 178 0.57 35 *** *** 75 260 0.75 48 *** 53 191 0.74 34 *** n.s. 50 175 0.68 34 *** 1000 P. astreoides NE '6 .§. 100 ~ G) N cii C 0 'iii ..2:? 10 C 111 G) :ii 6 Top + Side 0 10 20 30 40 50 60 Time (days) Fig. 4. Regeneration of lesions on the side and at the top of Porites astreoides colonies. Lesion size is given as the mean size of all lesions. Fitted regression lines are shown in graph."
+    },
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 12,
+      "cited_text": "Effects of Sedimentation and Lesion Position on Coral Tissue Regeneration E. H. MEESTERS, A. Bos, AND G. J. GAST Carmabi Institute, PO Box 2090, Cura~ao, Netherlands Antilles . Institute of Taxonomic Zoology, University of Amsterdam, PO Box 4766, 1009 AT Amsterdam, The Netherlands Abstract. The tissue regeneration potential of var­ ious coral species was studied on the leeward fring­ ing reefs of Cura~ao, Netherlands Antilles. Regen­ eration of Acropora palmata, a branching species, common in shallow parts of the reef, was slower in colonies subjected to long-term increased levels of sedimentation than in control colonies. Diploria strigosa, Porites astreoides, and Siderastrea siderea, were not as sensitive as A. palmata. Regeneration of Montastrea annularis, the main reef-building coral in the Caribbean, was slower for colonies that suffered from high levels of sedimentation, caused by the construction of an artificial beach. Whether a lesion was positioned at the top or at the side of a colony, had no influence on lesion regeneration, even though side lesions received approximately 70% less light. Photoadaptation within a colony was considered to be responsible for the lack of a re­ generation difference between lesion positions, as chlorophyll a concentrations in polyps on the sides of colonies were twice as high than in polyps on the top."
+    },
+    {
+      "source_id": "f7335f31-f560-4d42-9f0d-52fdbec8ece6",
+      "citation_number": 13,
+      "cited_text": "I I Meesters et al. Porites astreoides and Siderastrea siderea (Ellis and Solander). The two study sites, Low and High, are similar in important environmental characteristics, such as nutrient concentrations, wave exposure and current, but different based on sedimentation data and light extinction measurements (Fig. 1 ). They have an average sedimentation rate of 27, and 40 g dry weight m-2 d-1, respectively (P = .0015, com­ parison of monthly values with Wilcoxon's signed­ ranks test). Sedimentation data were collected using sediment traps with length to width ratio of 10. The traps were placed on the shallow terrace (5 m) with openings approximately 1 m above reef bottom, collected on a monthly basis during a period of one year, filtered over Whatman GFC filters and dried to constant weight at 100°C. Incidental light ex­ tinction measurements were taken with an Inter­ national Light photometer, IL 1400A. Extinction coefficients for site High were sometimes twice as high as for site Low, ranging respectively from -0.12 to -0.26, and -0.10 to -0.13 (Means ± SE: -0.179 ± 0.045 and -0.118 ± 0.002)."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 14,
+      "cited_text": "ABSTRACT: The influence of colony tissue regeneration on growth was studied in the reef-building  coral Montastiea annularis (Ellis & Solander, 1786) by buoyant weighing. Experimental corals  consisted of a series of cores, 2 cores from each of 20 colonies. One core of each pair was artificially  damaged by removing approximately 1 cm2 of tissue and skeleton, the other served as a control for nor  mal growth. Growth was measured as calcification, i.e. mg calcium carbonate production. There was a  linear relation between growth and solar radiation. Variation in growth, calculated before the regener  ation experiment, was insignificant between cores from the same colony but significantly different  between colonies. Growth was reduced in damaged cores when compared to controls. Calcification  decreased immediately upon damage and remained reduced during the whole study (56 d). Lesions  caused by physical damage did not always close completely. We propose and test a model that  describes regeneration in terms of closure of lesions. This model includes an asymptote in an exponen  tially decreasing function. Calcification remained suppressed after regeneration slowed down and  lesions were still not completely closed, probably because of the formation of polyps and skeletal fea  tures in the new tissue. We suggest regeneration to be fuelled by polyps and tissue directly bordering  the damaged area. Also, successful regeneration depends on the amount of tissue bordering a lesion  and not on colony size."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 15,
+      "cited_text": "c res with and without a lesion could only be more and  not less. Lesion recovery was followed through time in terms  of lesion size. Simple exponential regression (Lesion  size = S0 x I0(slope x days)) has been used effectively to  describe lesion regeneration (Bak 1983, Meesters &  Bak 1993). This model assumes that lesion size will  eventually approach zero. However, lesions are some  times not completely closed. Initially intrinsic, later  extrinsic factors such as settlement of organisms in the  lesions can be responsible. Consequently, regenera  tion may be better described by the model: Lesion size  = S„ + (Smax x io|slope x days)), which is a modification of  the equations of Bertalanffy (1957). This model simply  states that lesion size decreases exponentially to an  asymptote (SJ determined by the initial lesion size,  which is the sum of the asymptotic value (SJ and the  maximum lesion size that will be closed completely  (Smax). The slope and Smax depend on the regeneration  potential of the species and environmental conditions.  Sn depends on species and initial lesion size. As regen  eration rate decreases, alien organisms become more  firmly established in the lesion and lesion size  approaches SM."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 16,
+      "cited_text": "(Fig. 5). Mean lesion size decreased with time (re  peated-measures ANOVA, p < 0.001), but no lesion  was closed during this study and mean lesion size  reached an asymptote at approximately 35 mm2. The theoretical model [Lesion size = + (Smax x  lO^iope x days)^ included an asymptote, proved  a good approximation for the regeneration process  (Table 2). The line that is estimated by the model is  shown in Fig. 5 (r2 = 0.73). Lesions with an average size  of 170 mm2 regenerated only to a size of 35 mm2 (SJ;  the maximal closable lesion size (Smax) is 130 mm2. An  alternative model, which uses an exponential regres  sion and assumes no asymptote (Size = Constant x  lO'siope x days))r accounted for only 53% of the total  variation."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 17,
+      "cited_text": "MATERIALS AND METHODS We studied the effects of lesion regeneration on the  growth of the coral Montastrea annularis, the main  reef-building coral in the Caribbean, at the island of  Curaçao, Netherlands Antilles. The experiments were  restricted to the columnar morphotype (Van Veghel &  Bak 1993), which is the most common type on the reefs  of Curaçao. Two cores (diameter 3.7 cm) were sawcut  from each of 20 haphazardly collected colonies. In this  way 2 samples of the same genetic identity were  obtained that enabled determination of intra-colony  growth variation and that, more importantly, made the  regeneration experiment a pairwise design, excluding  variation between colonies. The cores were clamped  into pre-weighed tight-fitting PVC tubes and returned  to the collecting site (Carmabi buoy 1, depth 7 m;  Fig. 1). They were left undisturbed on the reef while the tissue on the edge of the cores regenerated. After  3 wk all core edge damage had been regenerated and  the cores were ready for the experiments."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 18,
+      "cited_text": "Regeneration and growth. To study regeneration, a  lesion was made on one of the 2 cores from each colony  with a cylindrical grinding stone (0 10 mm). The aver  age lesion surface area (including the shallow wall of  the lesion) and depth were respectively 170 mm2 (SE =  6.6) and 2.16 mm (0.19, n = 20). The initial area of liv  ing tissue that was removed with lesion infliction was  subtracted from the total core area when growth was  calculated per cm2. This makes our growth estimates  conservative in that the difference in growth between"
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 19,
+      "cited_text": "Handling. To assess the influence of handling,  including repeated transport to the laboratory and  repeated weighing, a nested design was used. The  20 colonies (2 cores colony-1) were randomly assigned  to 3 groups that were weighed at different intervals  during a 16 d period. Cores of the first group were  measured at the end of every second day; cores of the  second and third group were measured at the end of  every fourth and eighth day respectively. After 16 d  the total increase in weight was determined for each  core. Because cores of the first group had been han  dled, respectively, 2 and 4 times as often as the second  and third group (and the second group twice as often  as the third group), thus receiving less light, growth of  each core was standardised to average accumulated  daily radiation."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 20,
+      "cited_text": "Handling Handling included collecting, transporting to the  laboratory, weighing and taking the corals back to the  reef. Mean growth of 3 groups of colonies (2 cores per  colony) handled 2, 4 or 8 times in 16 d is shown in  Fig. 3. If there had been a handling effect, one would  expect growth to be higher when a colony is handled  less. Instead, mean growth for colonies sampled only  once every 8 d was even less than for colonies in the  other 2 treatments. However, there was no significant  difference in growth between the 3 handling intensi  ties (Table 1). The overall mean growth was 3.60 mg  cm-2 d\"1 (SE = 0.20; range 1.78 to 5.45)."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 21,
+      "cited_text": "before and after. The assumption of no interaction be tween time and colonies was justified by a pilot study  with replicated data, which revealed no significant  interaction between these factors (F27,4o = 1.25, n = 80,  p = 0.26). Furthermore, a correction of the MSE was  calculated with Tuckey's test for non-additivity (Sokal  & Rohlf 1981). ANOVA assumptions of all analyses  were graphically checked. Standard errors and confi  dence limits in figures were calculated from the MSE  in the statistical tests. All analyses were performed  with the program Systat (Wilkinson 1989)."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 22,
+      "cited_text": "However, growth decreased through time in our  experiment, approaching the values found by Davies  (1990). Handling (tested during 16 d) had no influence  on growth, but other factors such as temperature  (Clausen & Roth 1975, Houck et al. 1977, Jokiel &  Coles 1977), sedimentation (Dodge et al. 1974, Bak  1978), eutrophication (Tomascik & Sander 1985,  Tomascik 1990), and availability of plankton (Lewis  1974, Wellington 1982) are known to affect calcifica  tion. The decreasing growth rate through time in our  experiments is probably caused by temperature. We  found a significant inverse relationship between  itJiiipeiaiuit; ^ineaauieu wim a Lanuiateu cicl-u unit"
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 23,
+      "cited_text": "We conclude that regeneration is an important pro  cess in coral ecology. It results in an energy drain for  the tissue bordering damaged areas and, conse  quently, a decrease in the chance of long-time survival  of the colony as a whole. 27.5 09/02 19/02 Fig. 8. Montastrea annularis. Increase in temperature (•) and  decrease in the mean growth of cores without a lesion (■)  from February to April. Straight line is calculated regression line (Table 4) Acknowledgements. Werner Pauchli's marine and terrestrial  support is gratefully acknowledged. We thank the Carmabi  Institute for providing logistic support, and O. Frans, F.  Isabella and A. Thiel for diving and other assistance in the  field. This research was supported by a grant from the  Netherlands Foundation for the Advancement of Tropical  Research (WOTRO) W84-311."
+    },
+    {
+      "source_id": "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+      "citation_number": 24,
+      "cited_text": "The initial lesion perimeter, determined with macro- photography, and the initial lesion depth, measured with a Vernier caliper, were used to calculate the total initial lesion area. Initial lesion sizes (mean + SD) for the 4 morphs were: 15.1 + 0.7 mm2 for the green Porites astreoides, 13.7 + 1.0 mm2 for the brown P. astreoides, 16.1 * 0.7 mm2 for the massive Stephanocoenia miche- Linii and 15.1 & 0.9 mm2 for the encrusting S. michelinii. Tissue recovery following lesion infliction was deter- mined over a tlme period of 9 d in P. astreoides and 21 d in S. michelinii, during December 1996. At each measuring interval (2 to 3 d) the progress of tissue recovery along the vertical lesion wall and lesion bot-"
+    },
+    {
+      "source_id": "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+      "citation_number": 25,
+      "cited_text": "--C (;,,m P. usrreoiclrs - Hro11.n F? u.\\lraoicIe.\\ - Encrrr~7ing S. michelinii - * - ~Mu.s.sivr S. michrlirrii I- - 3- f -h ., a ~ , , I , I I I , , I I . , * M. phurrnsis luciphi l~ - M. srnuriu 0 S 10 1 S 20 25 Time (days) Fig. 1. (a) Regeneration of artificial lesions as  a function of time for 2 morphs of Pontes astreoides and Stephanocoenia michelinii. (b) Regeneration of artificial leslons as a function of time for 3 species/morphs of Madracis morphs, the experiment was repeated in 3 species/ morphs of Madracis, which served as a reference for differences between species/morphs within 1 genus. This genus also has species/morphs with relatively small polyps, and colonies occur in the same depth range as P. astreoides and S ,  michelinii. During Octo- ber-November 1996, artificial lesions were inflicted on 27 M. decactis (Lyman), 29 M. pharensis luciphila (Heller) and 31 M. senaria (Wells) colonies (see key to"
+    },
+    {
+      "source_id": "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+      "citation_number": 26,
+      "cited_text": "Discussion. This study shows that the regeneration of artificial lesions differed significantly among the Table 1. Mean zooxanthellae and chlorophyll a densities of Porites astreoides and Stephanocoenia michelinii morphs Zooxanthellae Chl a (1.19 cm-2) Green P astreoides 3 1 * 0.2 X 106 7.7 + 1.2 Brown P. astreoides 3.1 + 0.3 X 106 7.5 ~t 0.9 p-value (l-way ANOVA) 0.962 0.896 Encrusting S. michelinii 4 0 -+ 0.4 X 106 7.9 0.9 Massive S. michelinii 3.3 + 0.3 X 106 5.1 i 1.4 p-value (l-way ANOVA) 0.225 0.093"
+    },
+    {
+      "source_id": "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+      "citation_number": 27,
+      "cited_text": "ABSTRACT: Regeneration of artificial lesions was studied as an ecophysiological character in 2 morphs of Porites astre- oides and Stephanocoenia michelinii to contribute to a better understanding of their presently unclear taxonomic status. As a reference, regeneration was also studied In 3 species1 morphs of h4adracis. P. astreoides consists of a green and a brown morph, while S. michelinii consists of an encrusting morph with widely spaced corallites and a massive morph with compacted polyps. Regeneration was significantly faster in the green P. astreoides and in the encrusting S. michelinii. No sigmficant differences were found among the Madracis species/morphs. The energy required for faster regeneration in the 2 morphs was apparently not generated as a result of elevated densities of zooxanthellae or chlorophyll a. The green P astreoides which occurs at more shallow depths, and perhaps also the encrusting S. michelinii, may be better adapted to the increased disturbances at shallow depths by means of, among other thmgs, faster regeneration of lesions."
+    },
+    {
+      "source_id": "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+      "citation_number": 28,
+      "cited_text": "In this study we used the regeneration of artificial lesions as an ecophysiological character (see also Van Veghel & Bak 1994) to contribute to a better under- standing of the presently unclear taxonomic status of the Porites astreoides and Stephanocoenia michelinii morphs. Materials and methods. Colonies of Porites astre- oides and Stephanocoenia michelinii morphs were selected haphazardly at Carmabi buoy 1 on the south- western coast of Cura~ao,  Netherlands Antilles, at a depth of 5 to 7 m (light extinction coefficient k = -0.117 m-'; Bosscher & Meesters 1992). Artificial lesions were inflicted on 18 green P. astreoides, 15 brown P. astreoides, 7 massive S, michelinii, and 9 encrusting S. michelinii colonies. On top of each colony a small arti- ficial lesion was drilled using a hand-held drill equipped with a 2 mm steel bit. This resulted in cylin- drical lesions with a diameter and depth of approxi- mately 2 mm."
+    },
+    {
+      "source_id": "8c205a55-4093-46c5-a7c2-e356c8bf6a7c",
+      "citation_number": 29,
+      "cited_text": "In contrast to the Porites astreoides and Stephano- coenia michelinii morphs, the regeneration of lesions in the 3 Madracis species/morphs was similar (Fig. lb ) .  No significant difference (p  > 0.942, l-way ANOVA and Tukey HSD test) was found between the mean regression slopes of M. decactis, M. pharensis luciphila and M. senana (Fig. 2). The variation in the percentage of lesions closed among the 3 species/morphs was small, and most lesions were closed after 18 d. Neither the zooxanthellae nor chlorophyll a densities varied significantly among the morphs of Porites as- treoides and Stephanocoenia michelinii (Table 1)."
+    },
+    {
+      "source_id": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+      "citation_number": 30,
+      "cited_text": "determined as in Szmant and Gassman (1990). Recovery of lesions was expressed as the percentage of the initial lesion area closed. Regression slopes (percentage lesion area closed versus depth) were calculated at each time interval using least-squares linear regression (Sokal and Rohlf, 1995). Regression slopes were compared using the T 9-method and Gabriel’s approximate method (Sokal and Rohlf, 1995). 3. Results 3.1. Regeneration The data show that regeneration is influenced by depth in both coral species (Fig. 1, 2). When lesion recovery is depicted versus time for the 10 shallowest (5–10 m for Porites astreoides, 5–16 m for Stephanocoenia michelinii) and 10 deepest (24–34 m for P. astreoides, 21–30 m for S. michelinii) experimental colonies, a consistent pattern is visible (Fig. 1a,b). During the first 3–4 weeks more tissue was regenerated in lesions on shallow water colonies than on deep ones, whereas after that time the recovery was more or less similar."
+    },
+    {
+      "source_id": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+      "citation_number": 31,
+      "cited_text": "The pattern of regeneration versus depth differed somewhat between Porites as-treoides and Stephanocoenia michelinii. At days 4, 7 and 15, the regression slope was steeper in S. michelinii than in P. astreoides (Fig. 2), indicating a larger difference in recovery between shallow and deep water colonies in S. michelinii during the first 15 days of the regeneration process. 3.2. Zooxanthellae Densities of zooxanthellae did not differ significantly with depth (P . 0.209) in Porites astreoides or in Stephanocoenia michelinii (Fig. 3)."
+    },
+    {
+      "source_id": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+      "citation_number": 32,
+      "cited_text": "3.3. Chlorophyll The total chlorophyll concentration (i.e. chl. a 1 c ) per algal cell did not show any2 significant differences with depth (P . 0.090) in Stephanocoenia michelinii or in Porites astreoides (Fig. 4). For the chlorophyll a /c ratio a significant increase with depth2 (P 5 0.028) was found in P. astreoides (Fig. 5), although only a relatively small part of 2the relation could be explained by the factor depth (r 5 0.12). In S. michelinii, the chlorophyll a /c ratio did not show a significant variation with depth (P 5 0.510).2"
+    },
+    {
+      "source_id": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+      "citation_number": 33,
+      "cited_text": "LJournal of Experimental Marine Biology and Ecology, 234 (1999) 29–39 Depth-related variation in regeneration of artificial lesions in the Caribbean corals Porites astreoides and Stephanocoenia michelinii a , b b ,c*I. Nagelkerken , E.H. Meesters , R.P.M. Bak aCarmabi Foundation, P.O. Box 2090, Piscaderabaai z /n, Curaçao, Netherlands Antilles bNetherlands Institute for Sea Research (NIOZ), P.O. Box 59, 1790 AB Den Burg, Texel, The Netherlands cInstitute for Systematics and Population Biology, University of Amsterdam, P.O. Box 94766, 1090 GT Amsterdam, The Netherlands"
+    },
+    {
+      "source_id": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+      "citation_number": 34,
+      "cited_text": "Along a depth-gradient from 5 to 35 m, 41 colonies of Porites astreoides and 29 colonies of Stephanocoenia michelinii were haphazardly selected. These two coral species both consist of at least two morphs, which show a different rate of regeneration (Nagelkerken and Bak, 1998). In this study we used the brown morph of P. astreoides and the massive morph of S. michelinii (see Nagelkerken and Bak, 1998). Cylindrical lesions of approximately 1 cm in diameter and 2–3 mm deep were inflicted in situ on top of the experimental colonies, during January 1993. The lesions were made with a small grinding stone attached to a pneumatic drill powered by a SCUBA tank. Mean"
+    },
+    {
+      "source_id": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+      "citation_number": 35,
+      "cited_text": "2lesion size (6S.D.) after lesion infliction was 2.260.3 cm for P. astreoides and 2.060.6 2cm for S. michelinii. Recovery of lesions was assessed after approximately 4, 7, 15, 21, 29, 36 and 49 days following lesion infliction and was measured as described by Meesters and Bak (1993). All experimental colonies were collected at the end of the regeneration experiment. Using a drilling machine with a hollow drill, cores of the skeleton plus tissue were drilled adjacent to the lesions. The cores had a diameter of 2.5 cm for Porites astreoides and 1.2 cm for Stephanocoenia michelinii. The live tissue was removed from the cores and zooxanthellae densities and chlorophyll a and chlorophyll c concentrations were2"
+    },
+    {
+      "source_id": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+      "citation_number": 36,
+      "cited_text": "2. Materials and methods The scleractinian corals Porites astreoides (Lamarck) and Stephanocoenia michelinii I. Nagelkerken et al. / J. Exp. Mar. Biol. Ecol. 234 (1999) 29 –39 31 (Milne-Edwards and Haime) were selected to study the regeneration of artificial lesions in relation to water depth. Both coral species have a relatively flat colony surface with small polyps, facilitating infliction of artificial lesions, and resulting in an evenly distributed light regime over the colony’s surface. The study site was located at the Seaquarium reef on the leeward coast of Curaçao, Netherlands Antilles. A detailed description of the reef structure and distribution of corals on the reefs of Curaçao is given by Bak (1975), (1977)."
+    },
+    {
+      "source_id": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+      "citation_number": 37,
+      "cited_text": "efficient in absorbing the blue light available at greater depths. A decrease in the chlorophyll a /c ratio with depth would therefore indicate a relative increase in the2 chlorophyll c concentration compared to that of chlorophyll a, allowing for a more2 efficient use of the light available at depth (Battey and Porter, 1988). The lack of chlorophyll acclimatization in combination with reduced light levels at increasing depth may be the responsible factors which could explain the faster response of tissue recovery in shallow water corals compared to deep water corals in Porites astreoides and Stephanocoenia michelinii. Regeneration of tissue requires, apart from nitrogen acquired through heterotrophic feeding, a considerable amount of energy which must be supplied by the polyps surrounding and in the vicinity of the lesion (Meesters et al., 1994, 1997a; Oren et al., 1997). In shallow water, corals are often metabolically supersaturated with light resulting in a reserve of excess energy (Muscatine et al., 1984; Spencer Davies, 1984; Edmunds and Spencer Davies, 1986), while lipid production has also been shown to be light-dependent (Patton et al., 1977; Crossland et al., 1980; Battey and Porter, 1988). Consequently, deep water corals receiving lower light levels may be restricted in their energy reserves. Porter et al. (1984) calculated that shade-acclimatized"
+    },
+    {
+      "source_id": "b2eaa7a6-c475-4f8e-bec2-2a52585da7c3",
+      "citation_number": 38,
+      "cited_text": "I. Nagelkerken et al. / J. Exp. Mar. Biol. Ecol. 234 (1999) 29 –39 37 colonies of Stylophora pistillata acquire less than half of their metabolic carbon through photosynthesis, while Stimson (1987) showed that corals kept at experimentally low light levels had reduced lipid levels. Hence, one possibility which may explain the faster response of tissue recovery in shallow water corals may be the presence of more extensive energy reserves, in comparison to deep water corals. Further work on the carbon and nitrogen budgets of P. astreoides and S. michelinii should indicate whether this hypothesis is correct. In Stephanocoenia michelinii, larger energy reserves in shallow water corals are probably not acquired by means of an increase in fatty acids, as these have been found to be relatively constant along a depth gradient of 3–24 m (Meyers et al., 1978). An alternative hypothesis is that the deep water colonies harbor different species of zooxanthellae (Rowan and Knowlton, 1995; Rowan et al., 1997) than the shallow water colonies, and have a different rate of photosynthesis or translocation of photosynthetic energy to the coral."
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 39,
+      "cited_text": "at the bottom of the fragment was attached to the substrate to prevent growth (e.g. Okubo et al. 2005). Experiment 1 The condition of each fragment was monitored after 9 months using SCUBA. The following observations were Okubo: Investment allocation in Acropora muricata 85 recorded: (1) survivorship, (2) linear extension rate (mm), and (3) spawning ratio (%) in the fi rst period after frag- mentation. The spawning ratio was expressed as the num- ber of fragments having bundles within the total fragment"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 40,
+      "cited_text": "population. The survival rate was monitored within 24 days after transplantation. The data for (2) were analyzed using a Kruskal-Wallis test. Where signifi cant differences were established, Dunn’s multiple comparison test was employed to determine which group(s) differed. Experiment 2 The condition of each fragment was monitored daily for 24 days after transplantation using SCUBA. The fol- lowing observations were recorded: (1) survivorship 24 days after transplantation, (2) the day on which a wound"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 41,
+      "cited_text": "fully closed, (3) the day when the fi rst polyp and the axial polyp appeared on a cut surface, (4) the number of polyps on a cut surface 24 days after transplantation. The data for (4) were analyzed using a one-way ANOVA, after nor- mality was confi rmed using a chi-square goodness-of-fi t test and homoscedasticity was tested using a Bartlett test. Where signifi cant differences were established, Scheffe’s test was employed to determine which group(s) differed. Results Wound regeneration and formation of new polyps"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 42,
+      "cited_text": "Galaxea, Journal of Coral Reef Studies 10: 83 87 2008 Abstract To reveal the optimal resource allocation among regeneration, growth, sexual reproduction, and survivor- ship in a colonial animal, a specimen of the branching coral Acropora muricata (formosa), without oocytes, was separated into fragments of three different sizes (5, 10, and 20 cm long) that were then transplanted onto coral pavement. Regardless of the fragment size, a wound was fully closed within 11 days after fragmentation. The num-"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 43,
+      "cited_text": "resource allocation among regeneration, growth, sexual reproduction, and survivorship, experiments should use corals without gametes. Herein, I examined the effect of fragment size on in- vestment allocation in the branching coral Acropora muricata by conducting an experiment in August, after the mass spawning, when the corals had no oocytes (Hayashibara et al. 1993). This species is well known to produce fragments (reviewed by Highsmith 1982), and occurs abundantly in Okinawa, Japan. Materials and methods"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 44,
+      "cited_text": "were grouped into three size classes: fragments that were 5 cm in length (n 11 for Experiment 1, n 30 for Experiment 2), 10 cm fragments (10, 26), and 20 cm fragments (8, 27). Then, all fragments were moved 15 to 20 m away from the donor colony and transplanted at depths of 2 3 m. We drove 8 cm long concrete nails into the substrate of the coral pavement, leaving 5 cm protruding from the surface with a 20 cm space between nails. Each fragment was fastened vertically along a nail using one or two polyethylene cable ties. The cut surface"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 45,
+      "cited_text": "Acropora muricata was artifi cially fragmented twice, on 11 (Experiment 1) and 13 (Experiment 2) August 2000, when the colonies had no oocytes. Wire cutters were used to cut fragments from the branch tips of the donor colony, which measured approximately 1 m in height and 4.5 m2 in cross-section. Polyps located within 3 cm from the colony top were removed to confi rm that there were no oocytes in the fragment; the dimensions of the cut surface were kept constant (ca. 0.785 cm2). Using a ruler in situ, the fragments"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 46,
+      "cited_text": "during experiment (Tables 2). During the fi rst year after fragmentation, the 5 cm and 10 cm fragments did not spawn; on 6 and 7 June 2001, only the 20 cm fragments spawned (Table 2). The linear extension rates (mm) during the 9 months preceding spawning were 60.4 31.5 (n 13) for reproductive fragments and 37.0 33.0 (n 14) for non-reproductive fragments. Discussion The wound closure rate and the time until new polyps emerged on the new tissue layer were similar in all frag- ments, indicating that regeneration rate was independent"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 47,
+      "cited_text": "(1994). No signifi cant difference was observed in linear ex- tension rates among the three fragment sizes, suggesting that growth was independent of colony size. Okubo et al. (2005) observed that monthly growth rate, recorded as percent growth per cm (i.e., the growth rate divided by the original length), was highest in the smallest fragments, and thus a trade-off between growth and reproduction may be apparent. However, this rationale could be wrong, because the actual length (linear extension rate) of the"
+    },
+    {
+      "source_id": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+      "citation_number": 48,
+      "cited_text": "difference betwe n the perimeter lengths of the SQ  6(116 ± 8.5 mm; Fig. 2b) and the E-3 lesions (95 ±  7.3 mm). The SP lesio s had the highest P/SA ratio  (Fisher's PLSD test, p < 0.01), with the lowest being for  the SQ-6 types (Fig. 2c; p < 0.01). The E-3, E-6 and  each of the EP formation lesions exhibited a similar P/SA ratio (Fig. 2c; p > 0.05).  The 5 different lesion types were photographed every month from January to April 1995. Each color  slide was analyzed by the image analyzer, enabling  accurate measurements of the emerging tissue area  over time. The percent recovery of the 5 different  lesion types was calculated separately for each of the 3  monthly intervals. In addition, we calculated the per  cent recovery of the 5 lesion types for the entire study  period (90 d). These results were transformed by arc  sin^/p and tested by ANOVA with repeated measures.  The percent recovery of the different lesions obtained  during the first month interval was tested additionally  by a 1-way ANOVA."
+    },
+    {
+      "source_id": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+      "citation_number": 49,
+      "cited_text": "KE^UL13 The percent recovery achieved by each lesion type  during each month interval and throughout the  entire study period (relative to lesion size at t = 0) is  presented in Table 1. The results presented in each  column refer only to the changes in lesion size dur  ing a given month interval. The highest recovery  percentages of all lesion types were achieved during  the first month interval followed by a significant  decrease during the second and third month inter  vals (ANOVA with repeated measures, p = 0.0001;  Table 1)."
+    },
+    {
+      "source_id": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+      "citation_number": 50,
+      "cited_text": "In order to determine the effect of the perimeter  length on the regeneration process in Favia favus, we  calculated the area (in mm2) of the newly formed tissue  (NFT) from the percent recovery data previously  recorded for each lesion type for each time interval.  These areas of NFT were then divided by the perime  ter length of each lesion type, on the basis of the new  perimeter at the end of each interval. Using this ratio,  we were able to standardize size and shape differences  between the 5 lesion types."
+    },
+    {
+      "source_id": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+      "citation_number": 51,
+      "cited_text": "(Fisher's PLSD test, p > 0.05), which attained the lowest  recovery rates during this tim  interval (Table 1).  The ratios (NFT/P) betw e  the newly formed tissue (in mm2) and the perimeter (in mm) of each of the 5  lesion types for each monthly interval are presented in  Fig. 3. The highest NFT/P ratios for all lesions were  obtained during the first month and a significant  decrease with time was recorded in the following intervals (ANOVA with repeated mea  sures, p = 0.0001; Fig. 3). The NFT/P ratios obtained for the elon"
+    },
+    {
+      "source_id": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+      "citation_number": 52,
+      "cited_text": "MARINE ECOLOGY PROGRESS SERIES  Vol. 146: 101-107, 1997 _ , _ „ Published January 30 Mar Ecol Prog Ser Effect of lesion size and shape on regeneration of the Red Sea coral Favia favus U. Oren*, Y. Benayahu, Y. Loya Department of Zoology, The George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 69978, Israel ABSTRACT: The present study examined the effect of lesion size and shape on the recovery rates of the  scleractinian colonial coral Favia favus. Five tissue lesion types, differing in surface area and perimeter,  were artificially inflicted on the upper surface of 46 F. favus colonies in the shallow reef across from the  Marine Biology Laboratory of Eilat (Red Sea). The gradual closure of these lesions was monitored  monthly from January to March 1995 by underwater photography. Photographs over time were ana  lyzed with a computerized image analyzer, enabling accurate measurements of the emerging tissue. In  this study we present the percent recovery of the various lesion types through time and the ratios  between the newly formed tissue and the perimeter length (NFT/P) of each specific lesion. These  results show for the first time the significant effect of lesion size and shape on the regeneration capa  bility of a colonial coral. We found that the high recovery rates achieved during the first month are reg  ulated mainly by the perimeter length of the lesion, while during the following months recovery is  influenced more by the surface area of the lesion and its surface area/perimeter ratio. The various  NFT/P ratios recorded in this study indicate that lesions with a relatively long perimeter probably  obtain a higher energetic allocation from the colony, probably due to the larger colony portion associ  ated with their recovery."
+    },
+    {
+      "source_id": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+      "citation_number": 53,
+      "cited_text": "The ability to recover lesions is considered to play a  fundamental role in the survival of corals. However, the effect of lesion shape on this process has not yet  been assessed quantitatively. The objective of the  present study was to examine the effect of shape and  size of tissue lesions on the recovery rates of the  stony colonial coral Favia favus, a common species on  the shallow reefs of the northern Gulf of Eilat (Red  Sea). MATERIALS AND METHODS In this study 46 colonies of Favia favus, each  approximately 45 cm in diameter, were randomly  selected in the shallow reef (2 to 3 m) across from the  Marine Biology Laboratory of Eilat. Using an air-pick,  fueled from a SCUBA tank, 5 different types of tissue  lesions were artificially inflicted on the upper part of  the colonies, 1 lesion type per colony. The lesions  were as follows: (1) single polyp lesions (SP, n = 10;  Fig. la), (2) elongated lesions composed of 3 polyps in  a row (E-3, n = 9; Fig. lb), (3) square lesions com  posed of 6 polyps (SQ-6, n = 8; Fig. lc), (4) elongated  lesions composed of 6 polyps in a row (E-6, n = 11;  Fig. Id), and (5) configurations of 3 elongated lesions  composed of 6 polyps each, which were inflicted par  allel to each other with an interval of 2 undamaged  polyps in between (EP, n = 8; Fig. le). All lesions were  photographed immediately after they were damaged  (January 1995) by a Nikonos V camera with 35 mm  close-up attachment. Analyzing these slides with an  image analyzer (Olympus, CUE-3), we calculated  averages (±SD) of the surface areas of the lesions (i.e.  projected area), their perimeters and their perime  ter/surface area ratios (P/SA; Fig. 2a-c, respectively)."
+    },
+    {
+      "source_id": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+      "citation_number": 54,
+      "cited_text": "The projected surface areas of the SQ-6, E-6, and  each of the 3 lesions in the EP formation were similar (Fig. 2a; 1-way ANOVA, Fisher's PLSD test, p > 0.05).  These relatively large lesions were followed by surface  areas of the E-3 and SP lesions, in decreasing size  (Fig. 2a; Fisher's PLSD test, p < 0.01). The perimeter  lengths of the E-6 types and each of the lesions in the  EP formations were similar (Fig. 2b; Fisher's PLSD test,  p > 0.05.); these were followed by, in decreasing length  of perimeter, SQ-6, E-3 and SP lesions (Fig. 2b; Fisher's  PLSD test, p < 0.01). However, there was no significant"
+    },
+    {
+      "source_id": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+      "citation_number": 55,
+      "cited_text": "The significantly highest NFT/P ratio was recorded  in each of the elongated lesions in the EP formation  (Fig. 3, first interval). We suggest that these relatively  high ratios result from the proximity of these lesions.  We further propose that the adjacent lesions (only 2  unharmed polyps between one lesion and the next;  Fig. le) are 'regarded' by the colony as 1 single lesion  with a very long perimeter. Previous studies showed that regeneration can affect  colony growth as well as its reproduction (Bak 1983,  Rinkevich & Loya 1989, Harrison & Wallace 1990, Van  Veghel & Bak 1994). These findings indicate an ener  getic trade-off between the polyps of the colony during  the regeneration process. The ability of coral colonies  to distinguish between different lesions by their peri  meter length enables the colony to control its energy  flow according to the severity of the lesion."
+    },
+    {
+      "source_id": "84a7b2a4-6982-4dce-a39a-2d4f07d0176b",
+      "citation_number": 56,
+      "cited_text": "Regeneration characteristics have been studied for  several coral species and are accepted as species spe  cific (Bak et al. 1977, Bak & Steward-Van Es 1980, Bak  1983, Meesters et al. 1992). However, the pattern of declining of these rates ver time is ubiquitous in most  studied species (Bak 1983, Meesters & Bak 1993). By  studying the regeneration of lesions of various shapes  i  Favia favus we demonstrated that the perimeter of  the lesion is a key factor in the regeneration rate of  lesions in this species. Similar studies on other species  may reveal that this regeneration pattern is character  istic for other corals as well."
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 57,
+      "cited_text": "? 228 cm2, Fig. Id) that were significantly larger than the large size class colonies (P < 0.01, t test). Recovery of all lesion types (i.e., percentage reduc- tion of the projected lesion area) was monitored month- ly from early December 1994 to February 1995 by calibrated underwater photography (Nikonos-V with an 80-mm lens and close-up outfit). The first series of photographs was taken immediately after lesions were inflicted (early December 1994), and then at three con- secutive monthly intervals. The percentage recovery of"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 58,
+      "cited_text": "sion type (SP, E-2, or E-3) and colony size (small, intermediate, or large) on percentage recovery of the various lesions were tested by two-way ANOVA. Polyp fecundity vs. injury F. favus is a broadcast spawner in which reproduc- tion begins at four years when colony diameter is -3.5 cm (Shlesinger 1985). Oogenesis in mature F. favus  colonies starts in January and spawning takes place during June (Shlesinger 1985). The effects of injury on reproduction in F. favus colonies were characterized  in terms of polyp fecundity (number of oocytes per"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 59,
+      "cited_text": "Ecology, 82(3), 2001, pp. 802-813  ? 2001 by the Ecological Society of America COLONY INTEGRATION DURING REGENERATION IN THE STONY CORAL FAVIA FAVUS U. OREN,' Y. BENAYAHU,1 H. LUBINEVSKY,1 AND Y. LoYAI,2,3 'Department of Zoology, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 69978, Israel  2Porter Super-Center for Ecological and Environmental Studies, Tel Aviv University, Tel Aviv 69978, Israel Abstract. Modular organisms consist of repeated building blocks. An important con-"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 60,
+      "cited_text": "METHODS Spherical colonies of Faviafavus are common in the  shallow reef (0.5-4 m) in front of the Marine Biology Laboratory (MBL) in the Red Sea at Eilat, Israel. Al- though most F. favus colonies in this region are healthy  and uninjured, they are occasionally subject to surface injuries (i.e., partial mortality) resulting from predation by parrot fish (Torovezky 1997) and gastropods (Gur and Loya 1996) as well as from southern storms (Y. Loya, personal observations). Such injuries may range"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 61,
+      "cited_text": "of each colony with a computerized image analyzer (Olympus CUE-3; Data Translation, Incorporated, 100 Locke Drive, Marlboro, Massachusetts USA), 72 healthy intact colonies (ranging in size from 6 to 24 cm in diameter) were selected and divided into three size classes, each comprising 24 similar-sized colonies: small (surface area = 71 ? 20 cm2, Fig. la), inter- mediate (431 + 176 cm2, Fig. lb), and large (1204 ? 313 cm2, Fig. Ic). The relationship between the surface area of the col- ony and its ability to regenerate was tested for three"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 62,
+      "cited_text": "flicted on eight colonies, eight with E-2 and eight with E-3 lesions. The average projected area (square mil- limeters ? SD) and perimeter length (millimeters ? SD) of these lesion types are presented in Table 1. The E- 3 lesions were additionally inflicted on another size class of six very large colonies (surface area = 1569 March 2001 CORAL INTEGRATION DURING REGENERATION 805 FIG. 2. Photographs (70% actual size) of the lesion types (a) single polyp lesion (SP), (b) elongated lesion of two  neighboring polyps in a row (E-2), (c) elongated lesion of three neighboring polyps in a row (E-3), and (d) elongated lesion  of 10 neighboring polyps in a row (E-10)."
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 63,
+      "cited_text": "different types of tissue lesion: (1) single polyp lesions (SP, Fig. 2a); (2) elongated lesions of two neighboring polyps (E-2, Fig. 2b); and (3) elongated lesions of three neighboring polyps in a row (E-3, Fig. 2c). We inflicted one lesion type (either SP, E-2, or E-3) on the upper surface of each colony using an air-pick jet (i.e., an air tube connected to the scuba regulator, which removes soft tissue causing only minor damage to the underlying skeleton). Within each size class, SP lesions were in-"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 64,
+      "cited_text": "polyp septum) and oocyte diameter. We tested the effect of three different lesion types (either SP, E-3, or E-10) on fecundity of 40 colonies, each -40 cm in diameter, as follows: 16 colonies were inflicted with one SP le- sion (Fig. 2a); 8 colonies with one E-3 lesion (Fig. 2c); and 16 colonies with one E-10 lesion (Fig. 2d). This experiment was initiated in February 1996, during the initial stages of F. favus oogenesis. It was expected  that during the initial stages of oogenesis an increasing"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 65,
+      "cited_text": "polyp sampling); and (2) monthly repeated lesions, SP, E-3, and E-10 (each n = 8) that were also inflicted in February 1996 and thereafter re-inflicted monthly (i.e., the newly formed tissues surrounding each lesion were removed every month) throughout oogenesis. For con- trols, we tagged another group of 10 intact colonies of the same size. These colonies were used to determine the fecundity of intact colonies of F. favus.  In June 1996, (approximately two weeks before spawning), we sampled three pairs of polyps from each"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 66,
+      "cited_text": "ters et al. 1992, 1997a, Van Woesik 1998), also recently TABLE 1. Average dimensions (? 1 SD) of the experimen- tally inflicted lesions (see Fig 2 for description of lesion  type). Projected surface  Lesion type area (mm2) Perimeter (mm) SP 87 ? 14 35 ? 5  E-2 182 ? 16 59 ? 8  E-3 274 ? 35 83 ? 8  E-10 958 ? 93 282 ? 23 recorded in F. favus (Oren et al. 1997a). We therefore  focused on the relationship between colony size and lesion recovery during the first month of regeneration (i.e., rapid regeneration phase). The effects of both le-"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 67,
+      "cited_text": "from <1 cm2 (i.e., a single polyp) up to 100 cm2. Small injuries are characterized by a circular shape, while the larger ones vary in shape and size from a rounded patchy appearance to elongated and narrow. Lesion recovery vs. colony size Uninjured colonies of F. favus in the shallow reef  (2-3 m) of the Marine Biology Laboratory in Eilat were tagged and photographed during November 1994, using a Nikonos-V camera (Nikon Corporation, Tokyo, Ja- pan) with 20-mm lens. After measuring the surface area"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 68,
+      "cited_text": "demand for resources would be required by the colony; hence, a trade-off between reproduction and regener- ation would be most apparent. All lesions were inflicted on the upper central part of the spherical colonies. Dur- ing this experiment, we injured the colonies in two ways: (1) one-time lesions, SP and E-10 (each n = 8) 806 U. OREN ET AL. Ecology, Vol. 82, No. 3 TABLE 2. Average percentage (+ 1 SD) lesion recovery during three consecutive monthly  intervals (see Fig. 2 for description of lesion type)."
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 69,
+      "cited_text": "of the experimentally injured colonies, using a round stainless-steel corer with a cross section of 1 cm2. Polyp samples were taken from opposite sides of the different lesions, at distances of 1, 7, and 15 cm from the center of the lesion. In the colonies bearing the E-3 and E-10 lesions, these samples were taken from the two opposite sides perpendicular to the elongated axis of the lesion. In addition, three pairs of polyps were similarly sam- pled from each of the 10 intact control colonies, at"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 70,
+      "cited_text": "Extent of colony integration during regeneration Transport of organic compounds within hermatypic corals is well documented (Pearse and Muscatine 1971, Muscatine and Porter 1977, Taylor 1977, Muscatine et al. 1981). Pearse and Muscatine (1971) have already suggested that symbiont photosynthates are translocated throughout the coral tissue to the region of maximal demand. Recently, we have shown oriented intra-colo- nial transport of 14C-labeled products toward regener- ating areas in the massive stony corals F. favus, Pla-"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 71,
+      "cited_text": "flected by the ability to reprioritize pathways of re- source transport among the units of a colony, in re- sponse to environmental changes and various stresses caused by biotic and abiotic factors. The present study highlights the advantages of a larger colony size in achieving faster recovery from injuries, and that the extent of energy reallocation by a colony is dictated by the injury size. We suggest that the existence of injury thresholds, which determine energy allocation and intra-colonial translocation of energy products"
+    },
+    {
+      "source_id": "6f750c49-3261-482c-ade2-373835f7cf40",
+      "citation_number": 72,
+      "cited_text": "Palabras clave: Porites panamensis, regeneración, taxonomía, corales escleractinios, Golfo de California. Abstract The regeneration of artificial lesions in the columnar and massive forms of the nominal taxon Porites panamensis was compared, in order to contribute to the knowledge of the physiology of the species complex and to help clarify the taxonomic situation of the phenoms. The study was carried out at Punta Gaviotas (24º17.134′ N, 110º19.870′ W) and Punta Galeras (24º21.236′ N, 110º17.028′ W), in La Paz Bay, Mexico. One circular lesion per colony (0.70 ± 0.09 cm diameter and 0.5 cm deep) was inflicted on 26 to 30 colonies at each site and the regeneration rate was compared during the cold season (19–22ºC, March–April 2004) and the warm season (28–30ºC, September–October 2004). The regeneration rate followed a negative exponential model for both forms of P. panamensis in both seasons, but the process was faster in the warm season than in the cold season, probably due to increased light availability for zooxanthellae at that time of year. We observed differences in the percentage of full regeneration between forms during the warm season and in the proportion of colonies invaded by algae in the lesion area, the massive form showing three times more damage than the columnar in both seasons. As the morphotypes of P. panamensis showed the same regeneration rate, it is suggested that they might represent the same species; however, the differences in susceptibility to algal colonization and in the percentage of complete recovery of the colonies might indicate a selective advantage of the columnar form over the massive one."
+    },
+    {
+      "source_id": "6f750c49-3261-482c-ade2-373835f7cf40",
+      "citation_number": 73,
+      "cited_text": "The regeneration rate of the lesions was determined by plotting lesion size (mm2, y-axis) vs time (number of days since initiating the experiment, x-axis). Since the relationship followed a negative exponential model, an exploratory analysis of the graphs was made and the curve was linearized by obtain-ing the logarithm of the lesion area; 1 mm2 was added to avoid zeroes that would have prevented the regression (Van Woesik 1998). Finally, in order to determine the differences in the occurrence of regeneration, the percentage of colonies that showed complete regeneration, partial regeneration and that did not survive (especially as a result of algal colonization) was estimated at the end of the experiment."
+    },
+    {
+      "source_id": "6f750c49-3261-482c-ade2-373835f7cf40",
+      "citation_number": 74,
+      "cited_text": "Variaciones temporales en la tasa de regeneración a lesiones artificiales de dos morfotipos de Porites panamensis Temporal variation in the regeneration rate of artificial lesions in two morphotypes of Porites panamensis D A Paz-García, H Reyes-Bonilla* Universidad Autónoma de Baja California Sur, Departamento de Biología Marina, Apartado postal 19-B, La Paz CP 23080, Baja California Sur, México. * E-mail: hreyes@uabcs.mx Resumen Se comparó la capacidad de regeneración del daño provocado por lesiones artificiales entre las formas columnar y masiva del taxón nominal Porites panamensis, con el fin de contribuir al conocimiento de la fisiología del complejo de especies y ayudar a aclarar la situación taxonómica de sus formas. El estudio se realizó en Punta Gaviotas (24º17.134′ N, 110º19.870′ W) y Punta Galeras (24º21.236′ N, 110º17.028′ W), Bahía de La Paz, México. Se realizó una lesión circular por colonia a entre 26 y 30 colonias por localidad (diámetro de 0.70 ± 0.09 cm y profundidad de 0.5 cm) y se comparó la tasa de regeneración durante la temporada fría (19–22ºC, marzo a abril de 2004) y la cálida (28–30ºC, septiembre a octubre de 2004). La tasa de regeneración tuvo un comportamiento exponencial negativo para ambas formas en las dos estaciones del año estudiadas. El proceso fue más rápido en la temporada cálida que en la fría, probablemente debido a la mayor disponibilidad de energía lumínica para las zooxantelas en esa temporada. Se observaron diferencias en los porcentajes de regeneración completa entre las formas en la temporada cálida, y en la proporción de las colonias que presentaron fijación algal en las lesiones; la masiva mostró un daño tres veces mayor que la columnar en ambas temporadas. Como las formas de P. panamensis presentaron la misma tasa de regeneración, se sugiere que probablemente representen una misma especie. Sin embargo, las diferencias en la susceptibilidad a la colonización por algas y en el porcentaje de regeneración completa de las colonias, podrían significar una ventaja selectiva de la forma columnar."
+    },
+    {
+      "source_id": "6f750c49-3261-482c-ade2-373835f7cf40",
+      "citation_number": 75,
+      "cited_text": "Materiales y métodos El estudio fue realizado en dos localidades de fácil acceso en la Bahía de La Paz, Baja California Sur, México (fig. 2), Punta Gaviotas (24º17.134′ N, 110º19.870′ W) y Punta Galeras (24º21.236′ N, 110º17.028′ W), debido a que la forma colum-nar de P. panamensis es relativamente más abundante en Punta Gaviotas, y la forma masiva en Punta Galeras. Se trabajó a profundidades de 1 a 3 m. Para observar si la capacidad de regeneración de ambas formas se mantenía a lo largo del año, el experimento se realizó separadamente durante la temporada fría (19º–24ºC, de marzo a abril de 2004) y la temporada cálida (28º–30ºC, de septiembre a octubre de 2004). Las temperaturas fueron tomadas in situ. Se escogieron en la temporada cálida 26 y 28 colonias de las formas masiva y columnar, respectiva-mente, y 30 colonias de ambas formas en la temporada fría. Con el fin de que el proceso de regeneración no fuera afectado por el tamaño de la colonia (Oren et al. 2001), se escogieron sólo colonias con tamaño mayor a 40 cm2."
+    },
+    {
+      "source_id": "6f750c49-3261-482c-ade2-373835f7cf40",
+      "citation_number": 76,
+      "cited_text": "depth. Temperature was measured in situ. In the warm season, 26 and 28 colonies of the massive and columnar forms, respec-tively, were studied, while 30 colonies of both forms were studied in the cold season. Each colony was larger than 40 cm2 so that the regeneration process would not be affected by size (Oren et al. 2001). A circular lesion (0.7 ± 0.09 cm in diameter and 0.5 cm deep) was inflicted on the upper surface of each coral colony with a hand drill, and its size was determined with a vernier caliper (accuracy 0.05 mm) at intervals of 3 to 11 days at each site. The colonies were examined on the following days after initiating the experiment: during the cold season, the massive morphotype on days 8, 11, 22 and 28, and the columnar morphotype on days 7, 10, 22 and 28; during the warm season, the massive morphotype on days 13 and 22, and the columnar morphotype on days 12 and 21. The experiment was concluded when more than 50% of the colonies showed complete regeneration or had died."
+    },
+    {
+      "source_id": "6f750c49-3261-482c-ade2-373835f7cf40",
+      "citation_number": 77,
+      "cited_text": "En la parte superior de cada coral se realizó una lesión cir-cular con ayuda de un taladro manual (diámetro medio de 0.7 ± 0.09 cm y profundidad de 0.5 cm), y su tamaño fue determi-nado posteriormente con un vernier (precisión 0.05 mm) a intervalos de 3 a 11 días en cada sitio de muestreo. Se revisaron los ejemplares de la siguiente forma (las cifras representan días posteriores al inicio del experimento): en temporada fría, la forma masiva los días 8, 11, 22 y 28, y la columnar en los días 7, 10, 22 y 28; en temporada cálida, la forma masiva los días 13 y 22, y la columnar en los días 12 y 21. El estudio se dió por concluido una vez que más del 50% de las colonias presentaron una regeneración completa o mortalidad total."
+    },
+    {
+      "source_id": "6f750c49-3261-482c-ade2-373835f7cf40",
+      "citation_number": 78,
+      "cited_text": "information on the physiology of the species complex and show that the use of ecological and physiological tools is suitable for clarifying the taxonomic position of this group of species. Material and methods The study was carried out in 2004 at two accessible locations in La Paz Bay, Baja California Sur, Mexico (fig. 2): Punta Gaviotas (24º17.134′ N, 110º19.870′ W) and Punta Galeras (24º21.236′ N, 110º17.028′ W). The columnar form of P. panamensis is relatively more abundant at Punta Gaviotas and the massive form at Punta Galeras. To observe whether the regeneration capacity of both morphotypes was the same throughout the year, the experiment was conducted during the cold season (19º–24ºC, March–April 2004) and during the warm season (28º–30ºC, September–October 2004), at 1–3 m"
+    },
+    {
+      "source_id": "6f750c49-3261-482c-ade2-373835f7cf40",
+      "citation_number": 79,
+      "cited_text": "Otras diferencias entre las morfologías fueron mencionadas por Squires (1959), quien consideró a las morfologías colum-nar y masiva de P. panamensis como ecotipos que presentan modificaciones para vivir a diferentes profundidades. Estas diferencias se han observado en su distribución vertical: la forma masiva puede presentarse desde 1 hasta 30 m (López-Pérez et al. 2003) mientras que la columnar sólo se ha encontrado desde 1 hasta 5 m como máximo, y se desarrolla mejor en ambientes protegidos a oleaje (Paz-García obs. pers.). La explicación de la diferenciación de las formas parece ser debida al ambiente (oleaje, corrientes, luz y profundidad); sin embargo, esta razón no revela por qué la forma columnar está ausente en ambientes fuera del Golfo de California, mientras que a lo largo de su distribución dentro del golfo existen localidades donde el morfotipo columnar es relativamente más abundante que el morfotipo masivo y viceversa."
+    },
+    {
+      "source_id": "6f750c49-3261-482c-ade2-373835f7cf40",
+      "citation_number": 80,
+      "cited_text": "En conclusión, las formas masiva y columnar de P. panamensis presentaron la misma tasa de regeneración y ambas fueron más eficientes para recuperarse de los daños arti-ficiales durante la temporada cálida que en la fría, ya que durante la primera el coral cuenta con mejores condiciones de vida (mayor temperatura e irradiancia solar). La evidencia señala que probablemente las dos formas representan la misma especie válida. Sin embargo, se notaron diferencias en los por-centajes de regeneración completa y en la susceptibilidad a la colonización por algas, que podrían significar una ventajas en la supervivencia de la forma columnar sobre la masiva. Sugerimos una revisión más completa de la ecología de ambos morfotipos de P. panamensis para aclarar su situación taxonómica, ya que ésta es una de las especies de coral más abundantes del Golfo de California y el Pacífico mexicano. Entender la fisiología y taxonomía serán relevantes para depu-rar los estudios biogeográficos y aclarar el origen evolutivo de este género en el continente americano."
+    },
+    {
+      "source_id": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+      "citation_number": 81,
+      "cited_text": "3 , 0.21 µM NHþ 4 , and 0.15 µM soluble reactive phosphorus. The flow to tanks was ceased for 1 h during the enrichment. Nubbins were haphazardly moved within the tank every 2 days to avoid position effects. The experiment was maintained for 21 days. Coral growth rates, Symbiodiniaceae densities, and wound healing rates At the beginning and end of the experiment, coral nubbins were buoyant weighed to determine changes in mass for growth rates (Davies, 1989; Jokiel, Maragos & Frankzisket, 1978). For measurements of wound healing rate, initial and final photos were taken using an Olympus TG-4 camera and ruler and processed in ImageJ for scar area. A wound was considered healed if there were visible polyps in the wound area. After the experiment, coral nubbins were frozen at −40 \u0001C for microbiome analysis. From each of the 12 treatments, six nubbins were randomly selected for microbial analysis while controlling for parent colony and tank effects. The tip of each nubbin was clipped off using sterilized"
+    },
+    {
+      "source_id": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+      "citation_number": 82,
+      "cited_text": "bone cutters, and frozen at −80 \u0001C until DNA extractions. The remaining coral tissue was removed using 0.7 µm filtered seawater (FSW) and an air brush and collected into Falcon tubes. The tubes were centrifuged at 3,000 rpm for 10 min. The supernatant was removed and the Symbiodiniaceae pellet was resuspended with 10 mL of 0.7 µm FSW. Symbiodiniaceae densities were quantified using compound microscopy and a hemocytometer (n = 4 counts per replicate). The coral skeletons were dried at 60 \u0001C for 7 days, allowed to cool to room temperature, and wax-dipped at 60 \u0001C to determine surface area by regressing the difference in weight between single and double wax dippings against the surface area of known objects (Stimson & Kinzie, 1991). Growth rates and Symbiodiniaceae densities were normalized by the surface area of each nubbin."
+    },
+    {
+      "source_id": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+      "citation_number": 83,
+      "cited_text": "In R (v3.4.0) the package phyloseq (v1.20.1) (McMurdie & Holmes, 2013) was used to rarefy the resulting table to exactly 1,070 sequences per sample, and to calculate from this rarefied table beta diversity metrics including Bray Curtis, Binary Jaccard, Weighted Unifrac, and Unweighted UniFrac dissimilarities. For beta diversity metrics, the OTU table was first log-transformed in phyloseq. Inclusion of all four distance measures allows for a robust analysis of community dynamics including ecological and phylogenetic changes in bacterial abundance (Bray Curtis andWeighted Unifrac) and in the presence or absence of certain bacterial species (Binary Jaccard and Unweighted Unifrac). Also from this rarefied table, alpha diversity metrics including Faith’s phylogenetic diversity (Faith, 1992), Chao1 statistic (Chao & Chiu, 2016), and Simpson’s diversity index (Heip, Herman & Soetaert, 1998) were calculated in phyloseq."
+    },
+    {
+      "source_id": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+      "citation_number": 84,
+      "cited_text": "ABSTRACT Corals are in decline worldwide due to local anthropogenic stressors, such as nutrient loading, and global stressors, such as ocean warming. Anthropogenic nutrient loading, which is often rich in nitrate, inhibits coral growth and worsens corals’ response to warming while natural sources of nitrogen, such as ammonium from fish excretion, promotes coral growth. Although the effects of nutrient loading and ocean warming have been well-studied, it remains unclear how these factors may interact with biotic processes, such as corallivory, to alter coral health and the coral microbiome. This study examined how nitrate vs. ammonium enrichment altered the effects of increased seawater temperature and simulated parrotfish corallivory on the health of Pocillopora meandrina and its microbial community. We tested the effects of nitrogen source on the response to corallivory under contrasting temperatures (control: 26 \u0001C, warming: 29 \u0001C) in a factorial mesocosm experiment in Moorea, French Polynesia. Corals were able to maintain growth rates despite simultaneous stressors. Seawater warming suppressed wound healing rates by nearly 66%. However, both ammonium and nitrate enrichment counteracted the effect of higher temperatures on would healing rates. Elevated seawater temperature and ammonium enrichment independently increased Symbiodiniaceae densities relative to controls, yet there was no effect of nitrate enrichment on algal symbiont densities. Microbiome variability increased with the addition of nitrate or ammonium. Moreover, microbial indicator analysis showed that Desulfovibrionaceae Operational taxonomic units (OTUs) are indicators of exclusively temperature stress while Rhodobacteraceae and Saprospiraceae OTUs were indicators of high temperature, wounding, and nitrogen enrichment. Overall, our results suggest that nitrogen source may not alter the response of the coral host to simultaneous stressors, but that the associated microbial community may be distinct depending on the source of enrichment."
+    },
+    {
+      "source_id": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+      "citation_number": 85,
+      "cited_text": "MATERIALS AND METHODS Study species We used a full factorial mesocosm experiment to test how nitrogen source (nitrate vs. ammonium) may alter a coral’s response to seawater warming and corallivory. The experiment was conducted at the Richard B. Gump South Pacific Research Station in Moorea, French Polynesia (17\u000129′26.04″S, 149\u000149′35.10″W). Research was completed under permits issued by the French Polynesian Government and the Haut-commissariat de la République en Polynésie Francaise (Protocole d’Accueil 2005–2018). Pocillopora meandrina was chosen as the study species because it is one of the most abundant corals on the fore reef in Moorea (Edmunds, 2018) and is heavily preyed on by parrotfishes in the Pacific (Cole, Pratchett & Jones, 2008). We distinguished this taxon according to its distinct morphology, although we acknowledge that definitive taxonomy of Pocillopora spp. is challenging in this region (Edmunds et al., 2016)."
+    },
+    {
+      "source_id": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+      "citation_number": 86,
+      "cited_text": "Experimental design In September of 2016, the experiment was conducted in twelve independent 150 L flow-through, temperature controlled mesocosms on a 12:12 light:dark cycle (Aqua Illumination Hydra 52 LEDS) at ~700 mmol m2 s−1. Seawater was pumped from Cook’s Bay and filtered with a 20 mm sediment filter before entering the mesocosms. A total of 10 healthy P. meandrina colonies with no observed corallivory were collected at three to four m depth on the north shore fore reef and transported in seawater by boat to the Gump Research Station. A total of 12 nubbins (2.7 ± 0.05 cm height) were fragmented from each colony and epoxied (using Z-spar A-788) onto one cm2 plastic mesh. Nubbins were allowed to recover for ~24 h in the mesocosms at ambient temperatures (26 ± 1 \u0001C)."
+    },
+    {
+      "source_id": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+      "citation_number": 87,
+      "cited_text": "After the acclimation period, half of the coral nubbins were mechanically injured on the branch tip using eight mm snub nose pliers to mimic parrotfish bites. The pliers were sterilized with ethanol and heat after each nubbin to prevent the transfer of microbes across replicates. The injuries were 45.2 ± 1.5 mm2 and ~2 mm deep, resulting in a single wound that removed the tissue layer and some skeletal structure. The injuries resembled a wound similar to a scraping parrotfish bite. Coral nubbins were randomly assigned to the following treatment tanks (n = 2 tanks per treatment combination): (1) 26 \u0001C, (2) 29 \u0001C, (3) ammonium and 26 \u0001C, (4) nitrate and 26 \u0001C, (5) ammonium and 29 \u0001C, and (6) nitrate and 29 \u0001C. Five intact and five wounded coral nubbins were in each tank (n = 10 nubbins per treatment; Fig. S1), and there were no differences in the initial weight (29.1 ± 0.7 g) of the coral nubbins across treatments (Kruskal–Wallis; χ2 = 8.2, P = 0.7)."
+    },
+    {
+      "source_id": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+      "citation_number": 88,
+      "cited_text": "16S library preparation, sequencing, and initial data processing DNA was extracted from 72 samples (n = 6 per treatment) representing a subset of the experiment using the MoBio Powersoil\u0001 DNA Isolation Kit. Amplicon libraries were prepared for the V4 region of the 16S rRNA gene using the primer pair 515F (5′-GTG CCA GCM GCC GCG GTA A-3′) and 806Rb (5′-GGA CTA CHV GGG TWT CTA AT-3′) that targets bacterial and archaeal communities (Apprill et al., 2015; Parada, Needham & Fuhrman, 2016). Amplicons were barcoded with Schloss-indexed barcoding primers with Nextera adapters, pooled in equal volumes for sequencing (Kozich et al., 2013) and purified with AMPure XP beads. Paired-end sequencing was performed on the Illumina MiSeq platform, 2 × 300 bp end version 3 chemistry according to the manufacturer’s specifications at the Oregon State University’s Center for Genome Research and Biocomputing Core Laboratories."
+    },
+    {
+      "source_id": "0ccdd954-1740-44d7-a2c6-6280125057b5",
+      "citation_number": 89,
+      "cited_text": "After ~24 h of acclimation, half of the mesocosms were gradually raised from 26 to 29 \u0001C, over a 24-h period (~1 \u0001C change per 8 h), to reach temperatures observed during summer seawater warming in Moorea (Pratchett et al., 2013). To establish the pulse nitrogen treatments, the mesocosms assigned to nitrogen treatments were enriched every ~12 h to 4 µM NO− 3 or 4 µM NHþ 4 from stock solutions of KNO3 and NH4Cl, respectively. Background nutrient concentrations in the seawater system during this time period were 0.34 µM NO−"
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 90,
+      "cited_text": "Correspondence Department of Biology, San Francisco State University,\tSan\tFrancisco,\tCA\t94132,\tUSA. Email: mallorymrice@gmail.com Funding information Worster\tAward;\tBenson\tScholarship;\tUCSB\t Faculty\tResearch\tAssistance\tProgram;\t Gordon and Betty Moore Foundation; National\tScience\tFoundation,\tGrant/Award\t Number: 1547952, 16- 37396 and 1650114 Abstract Framework- building corals create the three- dimensional structure of coral reefs and are\tsubject\tto\tpredation\tfrom\tfishes,\techinoderms,\tand\tgastropods.\tAnthropogenic\t stressors can magnify the effects of such top- down pressure on foundation species. The gastropod Coralliophila violacea (Kiener, 1836) depletes coral energy reserves via predation, potentially increasing coral susceptibility to land- based pollution (i.e., sediment accumulation and nutrient pollution). We hypothesized that sedimentation would worsen coral mortality, while nutrient enrichment would mitigate the harmful effects of sediment and predation on coral mortality by increasing the densities of algal symbionts. To test these hypotheses, we conducted in situ surveys of the fring-ing reefs in Mo'orea, French Polynesia to explore the relationships among massive Porites spp. cover, C. violacea densities, and sediment accumulation on coral colonies across low and high nutrient sites. We also conducted a factorial field experiment to test the interactions among these stressors on coral tissue mortality, symbiont densi-ties, and chlorophyll. Massive Porites colonies at higher nutrient sites had C. violacea densities 13 times higher than at low nutrient sites but there was no difference in the amount of live tissue on coral colonies with or without snails among these sites. In our experiment, there were interactions between predation and nutrients as well as nutrients and sediment that impacted coral mortality. Sedimentation and preda-tion by C. violacea increased coral tissue mortality independently by ~20%. Nutrient enrichment reduced this effect in corals under sedimentation or predation pressure by lowering coral tissue mortality by 18% and increasing algal symbiont densities by ~28%. Our results indicate that sediment does not magnify top- down pressure on this coral, and that moderate nutrient enrichment may interact with predation in complex, unexpected ways to alter the responses of corals to top- down pressure."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 91,
+      "cited_text": "to any coral fragments during the predation period because it can deter\t snail\t feeding\t (Suren,\t 2005).\t After\t the\t 10-\tday\t predation\t pe-riod, the wounds were monitored for signs of healing (e.g., polyp regeneration) for ~2 weeks as Porites spp. heals most snail predation wounds within this time frame (Raymundo et al., 2016). Photographs of the predation scars, including a ruler for scale, were taken with an Olympus TG- 4 camera immediately following snail removal and again at the end of the experiment. Wound healing rates were deter-mined by tracing the snail predation scar in ImageJ in the initial and final photographs. The percent tissue mortality for each coral was estimated\tvisually\tduring\tweekly\t in\tsitu\tsurveys\ton\tSCUBA\tby\t the\t same observer (M. Rice) throughout the experiment."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 92,
+      "cited_text": "Treatment effects on the tissue mortality of massive Porites were assessed with a LMM after being log (x + 1) transformed with pre-dation, nutrient, and sediment and their interactions as fixed effects with snail shell length as a fixed effect. Cinderblock and survey date (repeated measures component) were included as random effects. Prior to snail addition, there was little tissue mortality (~0.3% aver-age across treatments). Only data from after the snail addition were included in this analysis so that we could assess the interactions of all three stressors simultaneously. We used independent LMMs to evaluate the treatment effects on Symbiodiniaceae densities and chlorophyll a concentrations with predation, nutrient, sediment, and"
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 93,
+      "cited_text": "2.3.1 | Densities\tof\tSymbiodiniaceae\tand\tchlorophyll\t production in massive Porites At\tthe\tend\tof\tthe\texperiment,\twe\tanalyzed\tcoral\ttissue\tfrom\tall\tlive\t massive Porites fragments to evaluate treatment effects on algal symbiont densities and chlorophyll a production, as these metrics are proxies for the physiological health of corals. Coral tissue was removed from each fragment using an airbrush and 0.7 µm filtered seawater (FSW) into a 15 ml Falcon tube. The total volume of coral tissue slurry was recorded to the nearest 0.1 ml for each fragment. The coral tissue slurry was homogenized using a homogenizer (Fisherbrand 150 Hand Held Homogenizer Motor) with a stainless- steel saw tooth probe for 10 s, and 1 ml of the homogenous coral tissue slurry was aliquoted to a 2 ml microcentrifuge tube for chlo-rophyll a analysis. The remaining tissue slurry was spun down at 4,000 rpm for 5 min, and the supernatant was discarded. This step was repeated three times to ensure the complete removal of resid-ual tissue. The Symbiodiniaceae (formerly Symbiodinium; LaJeunesse et al., 2018) pellet was diluted with 10 ml of FSW. Symbiodiniaceae densities were analyzed using a hemocytometer and compound microscope (n = 4 counts per coral replicate) and normalized by coral surface area using the aluminum foil method (Marsh, 1970). Chlorophyll a content was determined by spinning down the homog-enized tissue aliquot, removing the supernatant, and adding 5 ml 100% acetone (Jeffrey & Humphrey, 1975). Samples were kept in the dark at 4°C for 24 hr and then measured at 663 and 630 nm using a spectrophotometer. Chlorophyll a was calculated using the equation"
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 94,
+      "cited_text": "Densities of Symbiodiniaceae were 28% higher in corals enriched with nutrients (2.68 ± 0.24 cells × 105 cm−2) than in corals without enrichment (2.09 ± 0.24 cells × 105 cm−2) (LMM; F = 5.64, p = .021; Table 3; Figure 6a). There were no other main or interactive effects of the treatments on Symbiodiniaceae densities (Table 3). We ob-served a trend in which chlorophyll a concentration per symbiont cell varied across nutrient enrichment treatments (LMM; F = 3.95, p = .052; Table 4; Figure 6b). We did not observe effects of snail pre-dation or sediment addition on chlorophyll a concentration (Table 4)."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 95,
+      "cited_text": "their interactions as fixed effects as well as snail shell length as a fixed effect and parent colony as a random effect. Chlorophyll a was log (x + 1) transformed to meet the assumptions of normality and ho-moscedasticity. The percent of the predation wound that healed was analyzed with a LMM with nutrient, sediment, and their interactions as fixed effects as well as snail shell length as a fixed effect with cin-derblock\tand\tparent\tcolony\tas\trandom\teffects.\tAll\tcode\tand\traw\tdata\t used for this study are available at https://github.com/mallo rymri ce/ SNAIL_2017."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 96,
+      "cited_text": "of corals (Table 1; Figure S3), although there was a trend for snail predation to increase tissue mortality (LMM; F = 2.73, p =.1). There was a significant two- way interaction between nutrient enrichment and snail predation where nutrients appeared to lower tissue mor-tality in corals, with the lowest mortality occurring when snail preda-tion was absent (LMM; F = 7.34, p <.01; Figure 4a). We also observed a significant two- way interaction between snail predation and sed-imentation (LMM; F = 4.53, p =.034; Figure 4b). In the absence of sediment, snail predation increased tissue mortality over threefold (10% without snails versus 31% with snails) while in the presence of sediment, tissue mortality was similar with or without snails (28% without snails versus 31% with snails). Lastly, there was a trend for nutrient enrichment to reduce the tissue mortality of sediment ex-posed corals (LMM; F = 3.80, p =.053; Figure 4c). Despite the signif-icant two- way interactions, within- group multiple comparisons for these two- way interactions did not reveal any significant pairwise differences (all comparisons p >.2), likely due to low sample size. Despite the interactions of the main factors on coral tissue mortality, we did not see any impact of nutrients or sedimentation on the abil-ity of corals to heal predation wounds from snails (Table 2; Figure 5)."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 97,
+      "cited_text": "DOI: 10.1111/maec.12670 R E G U L A R  P A P E R Complex interactions with nutrients and sediment alter the effects of predation on a reef- building coral Mallory M. Rice1  |   Daniel G. Baldwin2 |   Janine N. Fischer3 |   Corinne Fuchs2,4 |   Deron E. Burkepile2,5 1Department of Biology, San Francisco State University,\tSan\tFrancisco,\tCA,\tUSA 2Department of Ecology, Evolution, and Marine Biology, University of California, Santa\tBarbara,\tSanta\tBarbara,\tCA,\tUSA 3Department of Ecology and Evolutionary Biology, University of California, Los Angeles,\tLos\tAngeles,\tCA,\tUSA 4Fish and Wildlife Research Institute, Florida Fish and Wildlife Conservation Commission, St.\tPetersburg,\tFL,\tUSA 5Marine Science Institute, University of California, Santa Barbara, Santa Barbara, CA,\tUSA"
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 98,
+      "cited_text": "We focused our study on the common reef- building coral mas-sive Porites because it is a dominant coral in the Mo'orea fringing reefs yet has been in decline in these habitats over the past decade (Edmunds, 2020). In Mo'orea, the lagoon is dominated by several species of massive Porites with Porites lutea (Edwards, 1,860) and Porites lobata (Dana, 1846) being the most common (Bosserelle et al., 2014). Distinguishing among these species by corallite morphology is challenging in situ, and corallite morphology of Porites spp. does not always conform to distinct genetic clades (Forsman et al., 2009)."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 99,
+      "cited_text": "Thus, we focused on massive Porites colonies that shared common color and morphology. Massive Porites are frequently preyed upon by Coralliophila violacea (Kiener, 1836) (McClanahan, 1994), which is chemically attracted to massive Porites (Hamman, 2018). This cor-allivorous gastropod feeds on a single coral colony for extended periods of time, impairing the physiological performance of the col-ony and increasing tissue loss and mortality (Clements & Hay, 2018; Hamman, 2018, 2019; Oren et al., 1998; Raymundo et al., 2016)."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 100,
+      "cited_text": "Porites\tcolonies\twith\tsnails.\tAll\tanalyses\twere\tconducted\tin\tR\t(v3.4.3)\t (R Development Core Team, 2017), and figures were produced using the ggplot2 and ggthemes\t packages\t (Arnold,\t2017;\tWickham\t & Wickham, 2009). 2.3 | Field experiment testing interactions of snails, nutrient availability, and sedimentation on massive Porites To evaluate how predation by Coralliophila violacea interacts with nutrient enrichment and sedimentation to affect massive Porites, we conducted a six- week (July– September 2017) full- factorial study at a back- reef site on the north shore of Mo'orea. We conducted the field experiment at a back- reef site because these sites are characterized by less sedimentation and nutrient loading relative to the fringing reef sites in Mo'orea, which allowed us to disentangle the effects of these stressors on corals. Eight fragments (17.6 ± 0.7 cm2 sur-face area) were collected from 11 massive Porites parent colonies at the back- reef site using a hammer and chisel (88 fragments total). We chose apparently healthy parent colonies without any signs of predation or tissue loss. Coral fragments were immediately returned to the Gump Research Station by boat after collection. Each coral fragment\twas\tattached\tby\tepoxy\tadhesive\t(Z-\tspar\tA-\t788)\tonto\tthe\t open neck of a 50 ml Falcon tube and allowed to acclimate for ~24 hr in flow- through seawater tables. Inverted 50- ml Falcon tube caps were epoxied to 20 × 20 cm cinderblocks (n = 4 caps per cinder-block) deployed at the back- reef site. This method allowed us to eas-ily deploy coral fragments in the field (see Clements & Hay, 2015 for methods). Four massive Porites fragments were attached to each cinderblock. Each cinderblock was covered with an enclosure of wire mesh (2.5 × 2.5 cm diameter holes) to prevent fish predation on cor-als. Cinderblocks were placed ~1.5– 2 m apart in a single row running parallel to shore."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 101,
+      "cited_text": "Corals were randomly assigned to the following treatments (n = 11 per treatment; see Figure 1c): (i) control, (ii) snail predation, (iii) nutrient enrichment, (iv) sediment addition, (v) snail predation and nutrient enrichment, (vi) snail predation and sediment addition, (vii) nutrient enrichment and sediment addition, and (viii) snail preda-tion, nutrient enrichment, and sediment addition. Neither initial coral mass, determined by the buoyant weight method (Davies, 1989; Jokiel et al., 1978), nor coral surface area, measured using the alumi-num foil method (Marsh, 1970), varied across treatments (one- way ANOVA;\tmass:\tF7,84 = 0.51, p =.83; 12.3 ± 0.7 g, mean ± SE; surface area: F7,79 = 1.25, p =.28; 17.7 ± 0.7 cm2). The fragments of massive Porites acclimated to field conditions at ~2 m depth for ~48 hr before treatments began."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 102,
+      "cited_text": "2 + NO − 3  nutrient concentrations for enriched cin- derblocks approximately fourfold relative to controls (4.3 ± 1.4 μM versus 0.8 ± 0.3 μM, respectively) (Mann– Whitney; p =.05). There was a similar trend for enriching PO4 concentrations for the enriched cinderblocks (0.6 ± 0.2 μM) relative to controls (0.2 ± 0.08 μM) (Mann– Whitney; p =.1). There was ~80% more sediment observed on coral tissues for corals in the sediment addition treatment than on\tnon-\tsediment\taddition\tcorals\t(one-\tway\tANOVA;\tF7,72 = 164.22, p <.0001). The sizes of wounds from snail predation averaged 32.8 ± 2.2 mm2 and did not vary across the different predation treat-ment\tcombinations\t(one-\tway\tANOVA;\tF3,39 = 1.22, p =.32)."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 103,
+      "cited_text": "Snail predation treatments were also established within each cinderblock. We collected Coralliophila violacea (13.9– 26.0 mm shell length, 16.87 ± 0.32 mm mean shell length) from the same back- reef site as the experiment and brought the snails back to the Gump Research Station to measure shell length to the nearest 0.01 mm using digital calipers. Following Clements and Hay (2018), snails were attached to massive Porites fragments using cable ties. The shell of each snail was sanded with sandpaper, glued to a cable tie with cyanoacrylate adhesive, and attached to respective corals with one snail per coral for the predation treatments (Clements & Hay, 2018). Each snail was allowed to feed on an individual mas-sive Porites fragment for 10 days before being removed, which is sufficient time for predation wounds by C. violacea to be visible on Porites corals (Raymundo et al., 2016). Sediment was not added"
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 104,
+      "cited_text": "3  | RESULTS 3.1 | Field surveys of snails, nutrient availability, and sedimentation across reefs We observed 426 massive Porites colonies (>10 cm diameter) in our in situ surveys, and ~5% of these colonies had Coralliophila violacea snails (n = 23 colonies with snails; range: 1– 20 snails per colony). The density of C. violacea was an order of magnitude higher at sites characterized by high N (0.4 ± 0.1 snails per m2 live coral tissue) than low N (0.03 ± 0.02 snails per m2 live coral tissue) (Mann– Whitney; p < .001; Figure 2a). For the colonies with snails, the mean density of snails observed was 4.69 ± 0.95 snails per m2 live coral tissue. The percent of live tissue for massive Porites colonies did not differ for colonies with and without C. coralliophila at low or high N sites (Mann– Whitney; p = .5 and p = .4, respectively; Figure 3). Colonies with snails displayed no relationship between snail density and per-cent live tissue (linear regression; F1,21 = 1.53, p = .23, R2 = .02)."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 105,
+      "cited_text": "mortality and algal symbiont physiology, and (iii) nutrient enrichment will lessen the impact of snail predation on coral mortality by in-creasing algal symbiont densities for enriched corals. 2  | METHODS 2.1 | Study site and species This\tstudy\twas\tconducted\tin\tMo'orea,\tFrench\tPolynesia\t(17°28.770′S,\t 149°47.618′W),\tsite\tof\tthe\tRichard\tB.\tGump\tSouth\tPacific\tResearch\t Station. Mo'orea is a high volcanic island surrounded by a barrier reef composed of fringing- and back- reef habitats within the lagoon and a fore reef seaward of the reef crest. The island experiences a cooler dry season (May – October) and a warmer wet season (November –\tApril).\tHeavy\trainfall\tduring\tthe\twet\tseason\tcan\tinundate\tportions\t of the fringing reefs with anthropogenic, land- based runoff, resulting in pulses of sediment that cover corals and increase nutrient con-centrations\tin\tnearshore\twaters\t(Adjeroud\t&\tSalvat,\t1996;\tSchrimm\t et al., 2002)."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 106,
+      "cited_text": "2.2 | Field surveys of snails, nutrient availability, and sedimentation across reefs To assess the spatial relationships among corallivorous snails, nu-trient enrichment, and sedimentation at the reef scale, we con-ducted in situ surveys across seven fringing reefs at ~1– 2 m depth on the north shore of Mo'orea (Figure 1a). In preliminary surveys, Coralliophila violacea was only observed on massive Porites colonies >10 cm in diameter. Thus, we surveyed all massive Porites colonies >10 cm in diameter found in 25 × 2 m belt transects parallel to shore (n = 4 transects per site). For each colony, we recorded the flat col-ony diameter parallel to the benthos to the nearest cm, estimated percent live tissue of the coral colony, and counted the number of C. violacea snails found on each colony. Colony diameter was used to estimate the colony surface area using the surface area of a hemi-sphere (2πr2), which we found closely resembled the shape of all the massive Porites colonies in our study. This area was then multiplied by the estimated value for percent live tissue to estimate the surface area of live tissue."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 107,
+      "cited_text": "Nutrient treatments were established at the cinderblock scale with every other cinderblock in the row assigned to the enriched treatment. For enriched blocks, we affixed two nutrient diffus-ers to opposite sides of each cinderblock. Nutrient diffusers were 10 cm long ×2.5 cm wide PVC pipe with 10 0.6 cm holes drilled into the sides. These pipes were enclosed in window screen mesh and then filled with 30 g slow- release Classic Osmocote (19– 6– 12 of N- P- K). This method has been successful in elevating the nutrient concentrations of seawater in previous studies (Bruno et al., 2003; Burkepile & Hay, 2009; Gil et al., 2016; Shaver et al., 2017). Nutrient diffusers were changed every 2– 3 weeks to maintain elevated nutri-ent levels throughout the duration of the experiment. We collected seawater samples ~5 cm above the surface of each cinderblock be-fore each diffuser swap using acid- washed 20- mL syringes. These seawater samples were kept on ice while transported by boat back to the Gump Research Station within <1\thr\tof\tcollection.\tAll\t sam-ples were immediately filtered through 0.7 μm GF/F filters into acid- washed\tvials\tand\tfrozen\tat\t−40°C\tuntil\tanalysis.\tA\tsubset\tof\tthese\t samples was processed for NO−"
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 108,
+      "cited_text": "2 + NO − 3  and PO3− 4  by the Cochlan Laboratory at San Francisco State University. Frozen samples were thawed overnight at room temperature (~20°C) prior to analysis. For the analysis, a Lachat Instruments flow injection automated ion analyzer (8000 Series; Hach Co.) was used following the methods of Smith and Bogren (2001) for NO3+ NO2 and Knepel and Bogren (2002) for PO4. Sediment treatments were established on two coral replicates within each cinderblock to mimic the sediment regime of Mo'orean fringing reefs where sediments are <500 µm (~99% of collected sediments) (Gil et al., 2016). To simulate this sediment regime, we filtered 5 ml sediment from the sandy sea floor adjacent to each cin-derblock through a 500- µm nylon- mesh sieve to cover the surface of each sediment treatment coral replicate with sediment particles twice per week. This resulted in a maximum sedimentation rate of ~100 mg cm2 day−1 as a large portion of the sediment particles fell onto the cinderblock or were not filtered through the sieve due to particle size. This sedimentation rate falls toward the high end of the range of sediment deposition observed on coral reefs (see table S1 in Gil et al., 2016). To evaluate whether the sedimentation treatment increased sediment cover on coral fragments, photographs were taken before and immediately after sediment addition for each coral fragment and a uniform 100- point grid was superimposed on each photograph to determine the percent change in sediment cover be-fore and after sediment addition. Corals were exposed to nutrient enrichment and sediment addition treatments for ~2 weeks before the predation treatment began."
+    },
+    {
+      "source_id": "002a60bc-55c8-4fdb-860a-1169fc99b2a8",
+      "citation_number": 109,
+      "cited_text": "surfaces with 80% of these occurrences associated with paling tissue. The percent of massive Porites colonies with sediment ac-cumulation was higher at low N sites than high N sites (χ2 = 13.27; p < .001; Figure 2b). Massive Porites cover was ~2% of total benthic cover across sites and represented ~25% of total coral cover. 3.2 | Field experiment testing interactions of snails, nutrient availability, and sedimentation on massive Porites Throughout the experiment, seawater temperature at the site ranged between 24.6 and 30.5°C and had an over-all mean of 27.3 ± 0.5°C (±SE).\t PAR\t had\t an\t overall\t mean\t of\t 1,285.1 ± 17.0 µmol m−2 s−1. Sedimentation rates at the study site averaged 0.61 ± 0.087 mg cm−2 day−1. We were successful at el-evating the NO−"
+    }
+  ]
+}

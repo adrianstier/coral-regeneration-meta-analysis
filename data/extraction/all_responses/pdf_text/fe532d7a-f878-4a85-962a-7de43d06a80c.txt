@@ -1,0 +1,570 @@
+Mar Biol (2009) 156:569–577
+DOI 10.1007/s00227-008-1108-7
+
+ ORIGINAL PAPER
+
+
+
+Predators selectively graze reproductive structures in a clonal
+marine organism
+Randi D. Rotjan Æ Sara M. Lewis
+
+
+
+
+Received: 13 April 2008 / Accepted: 1 December 2008 / Published online: 23 December 2008
+Ó Springer-Verlag 2008
+
+
+Abstract Although the fitness consequences of herbivory              has negative fitness consequences for reef-building corals,
+on terrestrial plants have been extensively studied, con-            and by extension, reef ecosystems.
+siderably less is known about how partial predation
+impacts the fitness of clonal marine organisms. The trophic
+role of Caribbean parrotfish on coral reefs is complex:
+while these fish are important herbivores, as corallivores           Introduction
+(consumers of live coral tissue), they selectively graze
+specific species and colonies of reef-building corals.               Herbivory has been intensively studied in terrestrial and
+Though the benefits of parrotfish herbivory for reef resil-          marine ecosystems, and it is well known that herbivores
+ience and conservation are well documented, the negative             have numerous and diverse impacts on plant fitness, com-
+consequences of parrotfish grazing for coral reproductive            munity structure and ecosystem function (e.g. Lubchenco
+fitness have not been previously determined. We examined             and Gaines 1981; Fritz and Simms 1992). For example,
+recently grazed colonies of Montastraea annularis corals to          consumption of floral tissue has adverse impacts on ter-
+determine whether grazing was positively associated with             restrial plant reproduction (reviewed by McCall and Irwin
+coral reproductive effort. We measured gonad number, egg             2006) by directly limiting gamete production and dispersal
+number and size, and proportional reproductive allocation            (e.g. Louda and Potvin 1995; Krupnick and Weis 1999), as
+for grazed and intact coral colonies 2–5 days prior to their         well as indirectly reducing plant fitness via reduced polli-
+annual spawning time. We found that parrotfish selectively           nation success (e.g. Krupnick and Weis 1999; Leavitt and
+grazed coral polyps with high total reproductive effort              Robertson 2006). In clonal plants, reproductive conse-
+(number of gonads), providing the first evidence that par-           quences of florivory are known to include reduced seed
+rotfish selectively target specific tissue areas within a single     production and increased clonal growth (e.g. Tobler et al.
+coral colony. The removal of polyps with high reproductive           2006). Furthermore, foliar herbivory (leaf damage and
+effort has direct adverse affects on coral fitness, with             removal) has also been shown to negatively impact plant
+additional indirect implications for colony growth and               fitness (e.g. Wisdom et al. 1989; Avila-Sakar and Ste-
+survival. We conclude that chronic grazing by parrotfishes           phenson 2006). However, despite our extensive knowledge
+                                                                     of foliar and floral herbivory in plants, comparatively little
+                                                                     is known about the reproductive consequences following
+Communicated by M. Byrne.                                            tissue removal in clonal marine invertebrates. Since colo-
+                                                                     nial reef-building corals are also modular, sessile organisms
+R. D. Rotjan  S. M. Lewis
+Department of Biology, Tufts University,                             that are often partially consumed (Jackson et al. 1985),
+Medford, MA 02155, USA                                               coral-corallivore systems show many parallels to plant-
+                                                                     herbivore interactions. Just as plants contribute much of the
+R. D. Rotjan (&)
+                                                                     habitat structure in terrestrial environments, scleractinian
+Organismic and Evolutionary Biology,
+Harvard University, Cambridge, MA 02138, USA                         corals are the major architects of tropical reefs, acting
+e-mail: rrotjan@oeb.harvard.edu; randi.rotjan@gmail.com              as ecosystem engineers (sensu Jones et al. 1994) to provide
+
+
+                                                                                                                        123
+570                                                                                                Mar Biol (2009) 156:569–577
+
+
+the structural framework for a highly diverse assemblage of       consequences in terrestrial plants, we conducted the present
+marine organisms. Direct consumption of live coral, or            study to understand the reproductive consequences of
+corallivory, represents a potentially important biotic stres-     chronic parrotfish grazing on tropical corals, and how co-
+sor that can adversely affect coral fitness and may accelerate    rallivory might resemble terrestrial herbivory.
+rates of coral decline after stress (reviewed by Cole et al.
+2008; Rotjan and Lewis 2008). However, the consequences
+of corallivory to coral fitness have not yet been investigated.   Methods
+   Montastraea coral species are key reef builders in the
+Caribbean (Frost 1977; Budd 1988). Members of the                 Reproductive ecology of Montastraea annularis
+Montastraea annularis species complex are hermaphro-
+ditic, and gametes develop over several months prior to the       In the Montastraea annularis species complex, oogenesis
+annual spawning event. Although they consume live coral           begins at least 4 months prior to spawning and spermato-
+as only a small component of their diet (Bruggemann et al.        genesis requires at least 10 weeks (Szmant 1986; Van
+1994a, b), adult parrotfish (Sparisoma viride, Scarus ve-         Veghel 1994). Both direct field and histological observa-
+tula, and Sp. aurofrenatum) preferentially graze on               tions confirm that spawning in the M. annularis species
+members of the M. annularis species complex (Garzon-              complex usually occurs in late August or early September,
+Ferreira and Reyes-Nivia 2001; Rotjan and Lewis 2006),            approximately 1 week after the full moon (Szmant 1991;
+and selectively graze certain colonies over others (Rotjan        Knowlton et al. 1997; Sanchez et al. 1999). Spawning is
+et al. 2006; Rotjan and Lewis 2006). Parrotfish grazing has       locally synchronous, and colonies within a region usually
+been shown to negatively impact coral recovery after              release gamete bundles within minutes of each other
+bleaching (Rotjan et al. 2006), and to contribute to coral        (Knowlton et al. 1997; Sanchez et al. 1999; Levitan et al.
+mortality (Gygi 1975; Rotjan and Lewis 2005). Artificial          2004). These broadcast spawners release gamete bundles
+damage simulating parrotfish grazing (inflicted 10 weeks          containing both eggs and sperm that rise through the water
+prior to spawning) has been shown to reduce reproduction          column and separate at the surface, where fertilization
+in coral polyps adjacent to artificial lesions (Van Veghel        occurs (reviewed by Richmond 1997).
+and Bak 1994). However, the consequences of natural
+parrotfish grazing for coral reproduction have never been         Sampling design and collection
+measured.
+   Like many herbivorous insects, parrotfish are known to         This study was conducted at 6–9 m depth in the shallow
+selectively graze foods with high nitrogen and lipid con-         upper spur and groove habitat (described in detail by
+tents, for example, on seagrasses (Goecker et al. 2005), reef     Rüetzler and Macintyre 1982) during late August 2005 at
+macroborers (Rotjan and Lewis 2005), detritus (Crossman           Southwater Caye (16°46.575N, 88°04.494W) on the Bel-
+et al. 2005), and reef macroalgae (Bruggemann et al.              izean barrier reef. Montastraea annularis corals usually
+1994a, b). Reproductive polyps of the M. annularis species        spawn 7–8 days after the full moon in August (Knowlton
+complex are known to have higher nutritional value than           et al. 1997). To ensure ripe gametes, we collected small
+non-reproductive polyps, displaying higher dry weight and         coral samples (described below) 2–5 days prior to the
+higher nitrogen biomass, which positively correlates with         major spawn, from August 21 to 24. Since egg production
+egg number (Szmant 1991). Reproductive gonads in                  may be affected by disease or through direct contact with
+Montastraea faveolata colonies are also known to have             another coral, we chose isolated, healthy colonies. Before
+high lipid content (Villinski 2003). Thus, we hypothesized        collection, the length and width of each M. annularis
+that parrotfish may selectively remove coral polyps with          colony was measured to the nearest 1 cm using a flexible
+high reproductive effort.                                         ruler. M. annularis corals with a surface area less than
+   In this study, we examined colonies of Montastraea             50 cm2 are generally not reproductive (Szmant-Froelich
+annularis corals that had been recently grazed (within 2–         1985; Van Veghel and Kahmann 1994); therefore, we
+4 weeks of sampling) by parrotfishes in order to determine        chose colonies ranging in size from 176 to 9,020 cm2.
+whether grazing was associated with coral reproductive               In order to compare reproductive effort from intact
+effort. The number of gonads, eggs, egg size, and propor-         colonies versus those recently grazed by corallivorous
+tional reproductive allocation were compared between              parrotfishes, we haphazardly sampled clusters containing
+intact colonies with no signs of parrotfish corallivory and       pairs of similarly sized intact and grazed M. annularis
+colonies recently grazed by parrotfish. Within grazed col-        colonies located within 1 m of each other (Fig. 1). Colo-
+onies, we compared reproductive effort between tissue             nies were considered grazed if they had more than six pairs
+among grazed portions and intact areas of the same colony.        (showing upper and lower jaw marks) of recent (within
+Since partial predation has important reproductive                *2–4 weeks) parrotfish grazing scars. Recent scars
+
+
+123
+Mar Biol (2009) 156:569–577                                                                                                        571
+
+
+appeared white due to skeletal exposure if no visible                    daily, and the resulting soft tissue was preserved in fixative
+regrowth, or due to lack of zooxanthellae where slight                   until dissection.
+tissue regeneration may have occurred (Fig. 2a). On most
+scars, no tissue was observed, with little to no algal turf              Coral dissections
+colonization or biofilm formation, suggesting very recent
+grazing (within days). On grazed colonies, the number of                 We examined reproductive output of 10 randomly chosen
+                                
+bites ranged from 11 to 135 ðXbite     density = 4.86 bites/             polyps from each of 72 samples; polyps were individually
+    2
+dm coral tissue). Grazing scars were likely made by                      numbered and then selected using a random-number table.
+Sparisoma viride parrotfish species (Rotjan and Lewis                    Each selected polyp was dissected out of the colony and
+2006).                                                                   stained with a 1% toluene blue solution in DI water for
+   From each grazed colony, we first sampled intact tissue               3–5 s and then rinsed, which helped to distinguish eggs and
+from among the fresh grazing scars (Gg = grazed portion                  gonads from remaining tissue. Polyps were dissected under
+of the grazed colony), and then sampled intact tissue                    a stereoscopic microscope and polyp diameter and height
+located approximately 15 cm away from the grazed area                    were measured to estimate polyp volume (Fig. 2b). For all
+(Gi = intact portion of the grazed colony). We also sam-                 720 polyps, we counted the total number of gonads
+pled tissue from a nearby (*1 m away), similarly sized,                  (Fig. 2c) and the number of eggs within each gonad
+intact colony (I = intact colony tissue); samples were                   (Fig. 2d). Identification of reproductive structures followed
+taken from equivalent locations on each colony and were                  Szmant (1986) and Villinski (2003), and were confirmed
+always taken from central locations (never within *15 cm                 by E. Peters and A. Szmant (personal communication). For
+of the growing edge). This design was chosen so that we                  a subset of the 72 samples collected (subset N = 39 sam-
+could examine both between-colony differences (Gi vs. I),                ples totalling 234 polyps representing 13 clusters with eggs
+and within-colony differences (Gg vs. Gi). We collected                  visibly present in all samples (Gg, Gi, and I)), we also
+samples from 24 clusters for a total of 72 samples; each                 carefully isolated and photographed every other gonad to
+cluster contained Gi and Gg samples from the same colony,                estimate egg size. Projected egg area (mm2) was deter-
+and an I sample that was paired with the previous samples                mined from digital images using Matlab 6 (Mathworks
+by location and size (Fig. 1).                                           Co.) for five randomly chosen eggs per fecund polyp and
+   Small samples (*5 cm2) from each colony were col-                     up to 10 polyps per sample, and was used to estimate
+lected with a hammer and chisel, and fixed in 4:1 seawater-              female reproductive quality (defined below). To estimate
+Z-FixÒ solution (Anatech Ltd., Battle Creek, MI) in the                  egg volume (mm3) for total reproductive allocation mea-
+field. Coral samples were moved to fresh solution after                  surements, we multiplied egg area by a standardized egg
+24 h and wrapped in fixative-soaked paper towels for                     height (0.015 mm) estimated from the mean height of 10
+transport. Z-fix is a zinc-based fixative recommended for                eggs within a single colony and modeled each egg as
+preservation of scleractinian coral tissue (E. Peters, per-              a cylinder. Although M. annularis are hermaphroditic
+sonal communication). In the lab, corals were rinsed briefly             (Szmant 1986), we did not attempt to quantify spermaries
+in de-ionized (DI) water and placed in fresh fixative solu-              because they are small and translucent, and therefore
+tion for at least 2 weeks. Coral samples were decalcified                difficult to identify without histological staining and
+using 2.5% HCl, 0.1% EDTA solution that was changed                      sectioning (E. Peters, personal communication).
+                                                                            Total reproductive effort for each sample was mea-
+                                                                         sured as the total number of gonads summed across 10
+                                                                         randomly selected polyps (gonads contain both eggs and
+                                                                         spermaries). Total reproductive effort represents the largest
+                                                                         energetic investment, since gonads contain both eggs and
+                                                                         spermaries, in addition to gonad membranes and other
+                                                                         potentially nutritive tissues within. Female reproductive
+                                                                         effort for each sample was based on the total number of
+Fig. 1 Sampling schematic cartoon showing a single cluster of            eggs summed across 10 polyps. Two additional aspects of
+Montastraea annularis corals sampled 2–5 days prior to spawning in
+                                                                         female reproductive output were examined: (1) egg size
+August 2005. Crossed circles represent *5 cm2 tissue samples
+collected with a hammer and chisel. Smaller open circles represent       (area) as a measure of female reproductive quality, and (2)
+recent parrotfish grazing scars (grazed within 1 week of sampling).      number of eggs per gonad, calculated by averaging the
+Fifteen clusters (blocks) were sampled, each consisting of a grazed M.   number of eggs with each gonad for each polyp, again
+annularis colony taken among recent grazing scars (Gg), a sample of
+                                                                         averaged over 10 polyps for each sample. We also esti-
+intact tissue taken 15 cm away from grazing scars from the same
+colony (Gi), and a sample taken from a similarly sized, nearby colony    mated total reproductive allocation for a subset of 13
+with no grazing scars (intact)                                           clusters by calculating total egg volume as a percentage of
+
+
+                                                                                                                            123
+572                                                                                                            Mar Biol (2009) 156:569–577
+
+
+
+
+Fig. 2 Montastraea annularis corals sampled 2–5 days prior to             dissected out of a single polyp (c), and close-up of multiple eggs
+spawning. Photographs illustrate grazing scars on a colony in the field   inside each gonad (d). Average egg area is 0.054 mm2. Gonads also
+(a, photo by A. Bruckner), and the colony underside showing               include spermaries (not visible)
+individual polyps after decalcification (b), six representative gonads
+
+the polyp volume (ratio of these two volumes multiplied by                p = 0.0467). Specifically, we found fewer gonads in intact
+100).                                                                     portions of grazed colonies (Gi) compared to grazed portions
+    In order to examine differences in number of gonads,                  of the same colony (Gg) (repeated measures post-hoc mul-
+eggs, and eggs per gonad between polyps from intact (I) and               tiple comparison d = 16.61, p = 0.0345). These intact
+grazed (Gg and Gi) coral samples, we used one-way repeated                portions of grazed colonies (Gi) also had fewer gonads
+measures ANOVA (SYSTAT 11) with post-hoc multiple                         compared to intact colonies (repeated measures post-hoc
+comparison tests for repeated measures. This allowed us to                multiple comparison d = -24.13, p = 0.0214). Thus,
+compare reproductive effort between intact coral tissue from              within grazed M. annularis colonies, parrotfish grazing was
+two M. annularis colonies, where we compared grazed (Gi)                  associated with areas showing higher total reproductive
+versus intact (I) tissue, as well as reproductive effort within           effort, even though parrotfish grazing was not observed on
+grazed colonies (Gg vs. Gi). We used a repeated measures                  nearby colonies with similar high reproductive effort.
+approach using location (cluster) as a blocking factor, since             Number of gonads did not differ between intact (I) and
+many location-related variables (depth, light intensity, water            grazed (Gg) samples (repeated measures post hoc multiple
+flow, etc.) may potentially affect coral reproduction. In other           comparison d = -7.52, p = 0.5146).
+words, instead of repeated observations made on individual                   Female reproductive effort (total number of eggs per
+units through time, we have followed another conventional                 sample) did not significantly differ across categories
+repeated measures, or split-plot, approach, using a groups by             (Fig. 3c, d, I vs. Gi vs. Gg; one-way repeated measures
+trials design where we used a treatment structure (in our case,           ANOVA F = 2.10, df = 2, 46, p = 0.1342). Similarly,
+clusters) to maintain the relationships between coral samples             total reproductive allocation of M. annularis polyps (egg
+in space (Quinn and Keough 2002). All data met the                        volume as a percentage of total polyp volume) was not
+assumptions of each analysis. We similarly used a repeated                significantly different across categories (Fig. 4; one-way
+measures approach to examine mean egg size and total                      repeated measures ANOVA F = 1.0387, df = 2, 24,
+reproductive allocation (total egg volume as a percentage of              p = 0.3693). The mean number of eggs per gonad did not
+polyp volume) per colony. Only a subset of colonies (13                   vary across categories (one-way repeated measures
+clusters) was examined; clusters with no eggs in any given                ANOVA F = 0.29, df = 2, 46, p = 0.7456 (Fig. 3e, f).
+category (I, Gi, or Gg) were eliminated from egg size                     Although there was considerable variation in egg area
+analysis.                                                                 (range = 0.006–0.262 mm2), egg size (area) did not
+                                                                          vary among categories ðXmm      2
+                                                                                                             ± SE for Gg = 0.049 ±
+                                                                          0.006; Gi = 0.059 ± 0.006; I = 0.055 ± 0.005; one-
+Results                                                                   way repeated measures ANOVA F = 1.3965, df = 2, 24,
+                                                                          p = 0.2668).
+We found significant differences in total reproductive effort
+(total number of gonads, which contain both spermaries and
+eggs, per 10 polyps) among M. annularis samples taken from                Discussion
+the intact portion of grazed colonies, the grazed portion of
+grazed colonies, and intact colonies (Fig. 3a, b, one-way                 Even in plants, where the impacts of herbivory on plant
+repeated measures ANOVA, F = 3.29, df = 2, 46,                            biomass and fitness have been comprehensively studied for
+
+
+123
+Mar Biol (2009) 156:569–577                                                                                                                        573
+
+Fig. 3 Reproductive variables        A 150                                                 B
+measured on Montastraea                                                                                   60
+annularis corals collected from                                                                                 B.
+tissue adjacent to recent                                                                                 50
+
+
+
+                                     # gonads
+                                                    100
+
+
+                                                                                           # gonads
+parrotfish grazing scars (Gg),                                                                            40
+intact portions of the same
+grazed colony (Gi), or tissue                                                                             30
+from a nearby, non-grazed                           50
+                                                                                                          20
+colony (intact). Reproductive
+                                                                                                          10
+effort is represented by the total
+number of gonads summed                              0                                                     0
+across 10 polyps (a, b), the total                        Gg          Gi       Intact                                Gg         Gi       Intact
+number of eggs per 10 polyps
+(c, d), and mean number of eggs      C 900                                                 D 300
+per gonad (e, f). For each
+variable, left panel shows data
+by cluster, with Gg and Gi from                     600                                                   200
+
+                                     # eggs                                                # eggs
+the same colony (paired by
+genotype), and I representing a
+similarly sized, nearby colony
+                                                    300                                                   100
+(paired by location). Right panel
+shows overall mean ± 1 SE
+(not grouped by cluster).
+N = 24 clusters; 3 colonies per                       0                                                    0
+cluster; 720 polyps examined                              Gg          Gi       Intact                            Gg             Gi       Intact
+
+                                     E               11                                    F               5
+                                                     10
+                                                      9                                                    4
+
+
+
+
+                                     # eggs/gonad                                          # eggs/gonad
+                                                      8
+                                                      7
+                                                                                                           3
+                                                      6
+                                                      5
+                                                      4                                                    2
+                                                      3
+                                                      2                                                    1
+                                                      1
+                                                      0                                                    0
+                                                          Gg         Gi        Intact                                Gg          Gi       Intact
+                                                               Grazing Condition                                          Grazing Condition
+
+
+decades (e.g. Marquis 1984; Cyr and Pace 1993), the                         nutrition. Our results also suggest that chronic parrotfish
+impacts of herbivores on leaves, flowers, and roots con-                    corallivory may have indirect reproductive fitness conse-
+tinue to be widely investigated. In marine invertebrates,                   quences for corals, since polyps located *15 cm away
+there are comparatively few studies examining the fitness                   from grazing scars showed lower reproductive effort and
+impacts of partial predation, despite the clear parallels                   reproductive allocation.
+between herbivory and corallivory. The present study                           Within grazed colonies, we found significantly higher
+makes several new contributions to our understanding of                     total reproductive effort (number of gonads) in coral tissue
+reproductive tissue removal in clonal marine invertebrates.                 sampled from among grazed areas (Gg) compared to intact
+First, we show that polyp corallivory can directly reduce                   tissue from the same colony (Gi) (Fig. 3a, b). Female
+coral reproductive fitness by consuming gamete-laden                        reproductive effort (Fig. 3c, d) followed the same trend,
+polyps, which contain both eggs and spermaries. Within                      although not significant, likely due to the variance in
+Montastraea spp. coral colonies, we demonstrate that                        number of eggs per gonad (Fig. 3e, f). The most likely
+parrotfish selectively graze on polyps with high reproduc-                  explanation for higher total reproductive output (gonads) in
+tive effort (number of gonads), with the same trend for egg                 polyps located among grazing scars is that parrotfish
+number. This is the first demonstration that parrotfish co-                 selectively target coral tissue areas that show high repro-
+rallivory is non-random and appears to be directed at coral                 ductive effort and allocation. An alternate explanation
+tissue areas with the largest reproductive investment                       might be reproductive compensation, whereby a plant
+(number of gonads). Gonads contain eggs, but also contain                   shows increased reproductive effort in response to her-
+added value in the form of spermaries, gonad membranes,                     bivory, which has been observed in terrestrial plants
+and other potentially nutritive tissues, thus making gonad                  (reviewed by Harris 1974; shown by Dyer 1975; Paige and
+number an important measure of reproductive fitness and                     Whitham 1987; Peterken and Conacher 1997; Paige et al.
+
+
+                                                                                                                                         123
+574                                                                                                                                         Mar Biol (2009) 156:569–577
+
+
+                                                                                                                0.75
+
+
+
+
+                                                                                    % reproductive allocation
+                                             1.2
+
+
+
+
+                  %reproductive allocation
+                                             0.9                                                                0.50
+
+                                             0.6
+                                                                                                                0.25
+                                             0.3
+
+
+                                             0.0                                                                0.00
+                                                   Gg (Grazed) Gi          Intact                                      G g (Grazed) G i         Intact
+                                                       Grazing Condition                                                    Grazing Condition
+
+Fig. 4 Average total reproductive allocation (egg volume as a                                 as a percentage of polyp volume. Bars represent means ± 1SE
+percentage of total polyp volume) of coral polyps from grazed                                 (n = 39 colonies (13 clusters)). Left panel shows data by cluster, with
+Montastraea annularis colonies sampled near areas recently grazed                             Gg and Gi from the same colony (paired by genotype), and I
+by parrotfishes (Gg); polyps sampled from intact tissue on grazed                             representing a similarly sized, nearby colony (paired by location).
+colonies (Gi), and polyps sampled from nearby intact colonies                                 Right panel shows overall mean ± 1 SE. (not grouped by cluster)
+(intact). Reproductive allocation was calculated by total egg volume
+
+
+2001). However, this explanation is unlikely to apply to                                      potentially be a consequence of prior or chronic parrotfish
+corals because they require at least 4 months to complete                                     grazing from months or even years past. It is known that
+oogenesis (Szmant 1986; Van Veghel 1994), and sampled                                         that parrotfish cause chronic damage by repeatedly grazing
+colonies were only recently grazed (within 2 weeks); thus,                                    particular coral colonies (Bruckner and Bruckner 1998;
+there would have been insufficient time for reproductive                                      Bruckner et al. 2000; Sanchez et al. 2004; Rotjan and
+compensation to occur. Parrotfish may selectively target                                      Lewis 2005; Rotjan 2007). Over the course of several
+tissue areas with high reproductive effort and allocation                                     months, such damage may result in lower reproduction by
+because of their high nutritional value; gonads are both                                      polyps surrounding grazed areas. For example, artificial
+lipid- and nitrogen-rich (Szmant 1991; Villinski 2003).                                       mechanical damage to corals has been shown to reduce
+Sparisoma radians parrotfish have been similarly shown to                                     reproduction in neighboring polyps for months afterwards,
+distinguish nitrogen-enriched Thalassia testudinum sea-                                       because neighboring polyps divert energetic resources to
+grass blades from control blades (Goecker et al. 2005).                                       tissue regeneration instead of reproduction (Kojis and
+Although the mechanism for detection remains unknown,                                         Quinn 1981; Kojis and Quinn 1985; Rinkevich and Loya
+parrotfish have also been shown to preferentially consume                                     1989; reviewed by Harrison and Wallace 1990; Van Veg-
+high-nitrogen macroborers (Rotjan and Lewis 2005) and                                         hel and Bak 1994). Other possible explanations for
+relatively nitrogen-rich macroalgae (Bruggemann et al.                                        reproductive patchiness might include patchy colony sus-
+1994a, b).                                                                                    ceptibility to disease, bleaching, or other stressors, but
+   Our results suggest that parrotfish are responding to                                      these possibilities have yet to be investigated. Thus, the
+existing within-colony variability in reproductive effort                                     causes for within-colony spatial variability in reproductive
+and allocation. Such spatial variability in reproductive                                      effort remain unknown, but are likely to reflect prior
+effort has been previously described in Montastraea spp.                                      damage that is localized to particular colony areas.
+colonies; border polyps (at the growing edge of a colony)                                        Selective targeting by parrotfish of scleractinian coral
+have lower fertility and fecundity than centrally located                                     polyps with a high density of mature gonads is likely to
+polyps (Szmant 1991; Van Veghel and Kahmann 1994).                                            have major consequences for corals, and our findings are
+Ours is the first study to show spatial variation in repro-                                   consistent with the only other study examining reproduc-
+ductive effort among centrally located polyps. Grazing                                        tive structure density as a cause for corallivory in which
+incidence and extent are also patchy on different spatial                                     Chaetodon capistratus butterflyfish were found to selec-
+scales; both at the between-colony and between-site levels                                    tively graze reproductively mature Plexaura spp.
+(Rotjan and Lewis 2006). Spatial variation in reproductive                                    gorgonian coral colonies (Lasker 1985). It has also been
+output is also found in plants; for example in Catalpa                                        anecdotally noted that Caribbean parrotfish grazing inci-
+speciosa trees, fruit production is localized to certain                                      dence and intensity on Montastraea spp. scleractinian
+branches and fruits are spatially patchy within a tree due to                                 colonies increases just prior to spawning (A. Szmant,
+patterns of herbivory and defoliation (Stephenson 1980).                                      communicated in Miller and Hay 1998; Rotjan 2007),
+The factors generating such spatial variation in corals                                       though parrotfish are known to graze live coral year-round
+remain unknown, although reproductive patchiness could                                        (Sanchez et al. 2004; Rotjan 2007). In addition to directly
+
+
+123
+Mar Biol (2009) 156:569–577                                                                                                       575
+
+
+removing the most fecund polyps, our results therefore          predation (Rotjan 2007). Thus, explanations for observed
+suggest an indirect effect whereby year-round parrotfish        Montastraea annularis colony-to-colony variation in par-
+grazing, which has been previously shown for artificial         rotfish grazing susceptibility remain to be identified.
+mechanical damage and fragmentation, may reduce the                Coral reefs are among the most ecologically diverse and
+future reproductive effort of neighboring polyps (Kojis and     economically important ecosystems in the tropics, and are
+Quinn 1981; Kojis and Quinn 1985; Szmant-Froelich 1985;         suffering rapid declines due to both natural and anthropo-
+Rinkevich and Loya 1989; Harrison and Wallace 1990;             genic stressors (reviewed by Gardner et al. 2003; Lesser
+Van Veghel and Bak 1994). The cause of selective coral-         2004). Much recent work has been devoted to under-
+livory in non-reproductive seasons remains unknown.             standing factors that influence coral larval recruitment and
+   Previous studies have shown that artificial damage           settlement success (e.g. Shearer and Coffroth 2006; Wilson
+affects coral reproductive potential (reviewed by Henry         et al. 2006; e.g. Kitamura et al. 2007), however, few studies
+and Hart 2005). Van Veghel and Bak (1994) conducted an          have examined how stressors are impacting the overall
+elegant investigation of Montastraea annularis, M. faveo-       reproductive output of corals. This study contributes to our
+lata, and M. franksi corals and found that colonies inflicted   understanding of the fitness consequences, beyond tissue
+with artificial lesions *10 weeks prior to spawning             removal, of parrotfish corallivory. As corals continue to
+showed reduced reproductive effort (fewer gonads per            decline (Gardner et al. 2003) and corallivorous parrotfish
+polyp and fewer eggs per gonad) in neighboring polyps           populations locally increase (Rotjan and Lewis 2006,
+compared to polyps located farther from the lesion area on      2008), natural trophic interactions may become imbalanced
+the same colony. Their design allowed a 10-week period          and may shift to new roles in coral reef ecosystems. Just as
+for coral polyps to respond to the experimentally induced,      terrestrial herbivory can influence the reproductive per-
+artificial damage; our study design eliminated the possi-       formance of habitat-forming plants, marine corallivory can
+bility of polyp response to naturally occurring corallivory     negatively impact the reproductive fitness of reef-building
+prior to spawning. Furthermore, they found that newly           corals. Integrating clonal marine invertebrates into the
+regenerated polyps had no reproductive activity, and pol-       context of plant-herbivore interactions is essential because,
+yps near regenerating tissue often had eggs of differing        like herbivores, colony grazers have the potential to
+sizes (mature and immature), whereas distant polyps had         influence the evolution of defensive traits and colony
+only mature eggs (Van Veghel and Bak 1994). In terrestrial      characteristics.
+plants, simulated herbivory does not mimic effects of
+natural herbivores, as herbivore chemical or behavioral         Acknowledgments This is Caribbean Coral Reef Ecosystems
+                                                                (CCRE) contribution number 792, supported in part by the Hunterdon
+cues are lacking. Differing impacts of natural versus sim-      Oceanographic Research Fund and the Smithsonian Institution. We
+ulated corallivory have not yet been evaluated, but our         thank A. Steinbrenner for his patience and careful help in measuring
+study is the first to demonstrate reproductive consequences     egg size using our MATLAB program, and we thank J. Chabot for his
+by naturally occurring corallivory. Together with previous      help in the design and coding of our egg area measurement program.
+                                                                We are grateful to A. Szmant, E. Peters and G. Ellmore for their
+studies artificially simulating damage, our results suggest     generous help in developing our methods. We thank S. Arnold and J.
+that corallivory not only directly reduces coral reproduc-      Brown for their diving assistance, and we thank R. Aronson, T. Fe-
+tion by removing polyps with high levels of mature eggs         dina, A. South, K. Levan, and J. Dimond for helpful conversations
+and gonads, but also indirectly reduces reproduction in         about these results. The experiments performed here comply with the
+                                                                current laws of Belize and the United States, and corals samples were
+neighboring polyps that must devote energy to tissue            collected under CITES permit number 1420, in collaboration with the
+regeneration rather than reproduction. Thus, parrotfish         Smithsonian Caribbean Coral Reef Ecosystems Program.
+grazing has important implications for colony fitness
+beyond tissue removal alone.
+   We also found high levels of reproductive effort in intact   References
+colonies that showed no signs of parrotfish grazing. These
+colonies should also have high nutritional content, based on    Avila-Sakar G, Stephenson AG (2006) Effects of the spatial pattern of
+their high density of lipid-rich eggs and gonads (Szmant             leaf damage on growth and reproduction: whole plants. Int
+1991; Villinski 2003). One possible explanation for parrot-          J Plant Sci 167(5):1021–1028. doi:10.1086/505609
+                                                                Bruckner AW, Bruckner RJ (1998) Destruction of coral by Sparisoma
+fish avoidance is that these coral colonies, like many               viride. Coral Reefs 17:350. doi:10.1007/s003380050138
+terrestrial and marine plants, may have effective chemical or   Bruckner AW, Bruckner RJ, Sollins P (2000) Parrotfish predation on
+structural defenses against grazing. However, although               live coral: ‘‘spot biting’’ and ‘‘focused biting’’. Coral Reefs
+many studies have suggested the possibility of chemical              19:50. doi:10.1007/s003380050225
+                                                                Bruggemann JH, Begeman J, Bosma EM, Verburg P, Breeman AM
+defenses in scleractinian corals (reviewed by Harvell 1999),         (1994a) Foraging by the stoplight parrotfish Sparisoma viride II.
+so far there is no evidence for chemical or mechanical               Intake and assimilation of food, protein, and energy. Mar Ecol
+defensive mechanisms as successful deterrents of parrotfish          Prog Ser 106:57–71. doi:10.3354/meps106057
+
+
+                                                                                                                          123
+576                                                                                                                Mar Biol (2009) 156:569–577
+
+Bruggemann JH, van Oppen MJH, Breeman AM (1994b) Foraging by                    and Honduras). Mar Biol (Berl) 127:705–711. doi:10.1007/
+     the stoplight parrotfish Sparisoma viride I. Food selection in             s002270050061
+     different, socially determined habitats. Mar Ecol Prog Ser            Kojis BL, Quinn NJ (1981) Aspects of sexual reproduction and larval
+     106:41–55. doi:10.3354/meps106041                                          development in the shallow water hermatypic coral, Goniastrea
+Budd AF (1988) Large-scale evolutionary patterns in the reef-coral              australensis (Edwards and Haime, 1857). Bull Mar Sci 31:558–
+     Montastraea: the role of phenotypic plasticity. In: Choat JH (ed)          573
+     Proceedings of the 6th international coral reef symosium,             Kojis BL, Quinn NJ (1985) Puberty in Goniastrea favulus. Age or
+     Townsville, Australia, pp 393–398                                          size limited? In: Proceedings of the 5th international coral reef
+Cole AJ, Pratchett MS, Jones GP (2008) Diversity and functional                 symposium, Tahiti 4: 289–293
+     importance of coral-feeding fishes on tropical coral reefs. Fish      Krupnick GA, Weis AE (1999) The effect of floral herbivory on male
+     Fish 9:286–307. doi:10.1111/j.1467-2979.2008.00290.x                       and female reproductive success in Isomeris arborea. Ecology
+Crossman DJ, Choat JH, Clements KD (2005) Nutritional ecology of                80:135–149
+     nominally herbivorous fishes on coral reefs. Mar Ecol Prog Ser        Lasker HR (1985) Prey preferences and browsing pressure of the
+     296:129–142. doi:10.3354/meps296129                                        butterflyfish Chaetodon capistratus on Caribbean gorgonians.
+Cyr H, Pace ML (1993) Magnitude and patterns of herbivory in                    Mar Ecol Prog Ser 21:213–220. doi:10.3354/meps021213
+     aquatic and terrestrial ecosystems. Nature 361:148–150.               Leavitt H, Robertson IC (2006) Petal herbivory by chrysomelid
+     doi:10.1038/361148a0                                                       beetles (Phyllotreta sp.) is detrimental to pollination and seed
+Dyer MI (1975) The effects of red-winged blackbirds (Agelaius                   production in Lepidium papilliferum (Brassicaceae). Ecol Ento-
+     phoeniceus L.) on biomass production of corn grains (Zea mays              mol 31:657–660. doi:10.1111/j.1365-2311.2006.00820.x
+     L.). J Appl Ecol 12:719–726. doi:10.2307/2402084                      Lesser MP (2004) Experimental biology of coral reef ecosystems. J
+Fritz R, Simms E (1992) Plant resistance to herbivores and pathogens:           Exp Mar Biol Ecol 300:217–252. doi:10.1016/j.jembe.2003.
+     ecology, evolution and genetics. University of Chicago Press,              12.027
+     Chicago                                                               Levitan DR, Fukami H, Jara J, Kline D, McGovern TM, McGhee KE,
+Frost SH (1977) Miocene to holocene evolution of Caribbean                      Swanson CA, Knowlton N (2004) Mechanisms of reproductive
+     province reef-building corals. In: Taylor DL (ed) Proceedings              isolation aming sympatric broadcast-spawning corals of the
+     of the 3rd international coral reef symposium. University of               Montastrea annularis species complex. Evol Int J Org Evol
+     Miami, Miami                                                               58:308–323
+Gardner TA, Cote IM, Gill JA, Grant A, Watkinson AR (2003) Long-           Louda SM, Potvin MA (1995) Effect of influrorescence-feeding
+     term region-wide declines in Caribbean corals. Science 301:958–            insects on the demography and lifetime fitness of a native plant.
+     960. doi:10.1126/science.1086050                                           Ecology 76:229–245. doi:10.2307/1940645
+Garzon-Ferreira J, Reyes-Nivia MC (2001) Incidence of fish preda-          Lubchenco J, Gaines SD (1981) A unified approach to marine plant-
+     tion on stony corals at four atolls of the archipelago of San              herbivore interactions 1. Populations and communities. Annu
+     Andres and Providencia (Colombian Caribbean). Bol Invest                   Rev Ecol Syst 12:405–437. doi:10.1146/annurev.es.12.110181.
+     Marinas Costeras 30:133–150                                                002201
+Goecker ME, Heck KL Jr, Valentine JF (2005) Effects of nitrogen            Marquis RJ (1984) Leaf herbivores decrease fitness of a tropical plant.
+     concentrations in turtlegrass Thalassia testudinum on consump-             Science 226:537–539. doi:10.1126/science.226.4674.537
+     tion by the bucktooth parrotfish Sparisoma radians. Mar Ecol          McCall AC, Irwin RE (2006) Florivory: the intersection of pollination
+     Prog Ser 286:239–248. doi:10.3354/meps286239                               and herbivory. Ecol Lett 9:1351–1365. doi:10.1111/j.1461-0248.
+Gygi R (1975) Sparisoma viride (Stoplight parrotfish), a major                  2006.00975.x
+     sediment producer on coral reefs of Bermuda? Ecologae geol            Miller MW, Hay ME (1998) Effects of fish predation and seaweed
+     Helvetiae 68:327–359                                                       competition on the survival and growth of corals. Oecologia
+Harris P (1974) A possible explanation of plant yield increases                 113:231–238. doi:10.1007/s004420050373
+     following insect damage. Agro-ecosyst 1:219–225. doi:10.1016/         Paige KN, Whitham TG (1987) Overcompensation in response to
+     0304-3746(74)90028-6                                                       mammalian herbivory: the advantages of being eaten. Am Nat
+Harrison PL, Wallace CC (1990) Reproduction, dispersal and                      129:407–416. doi:10.1086/284645
+     recruitment of scleractinian corals. In: Dubinsky Z (ed) Ecosys-      Paige KN, Williams B, Hickox T (2001) Overcompensation through
+     tems of the world: coral reefs. Elsevier, Amsterdam                        the paternal component of fitness in Ipomopsis arizonica.
+Harvell CD (1999) Complex biotic environments, coloniality, and                 Oecologia 128:72–76. doi:10.1007/s004420100647
+     heritable variation for inducible defenses. In: Tollrian R, Harvell   Peterken CJ, Conacher CA (1997) Seed germination and recoloniza-
+     CD (eds) The ecology and evolution of inducible defenses.                  tion of Zostera capricorni after grazing by dugongs. Aquat Bot
+     Princeton University Press, Princeton, pp 231–244                          59:333–340. doi:10.1016/S0304-3770(97)00061-2
+Henry L, Hart M (2005) Regeneration from injury and resource               Quinn GP, Keough MJ (2002) Experimental design and data analysis
+     allocation in sponges and corals—a review. Int Rev Hydrobiol               for biologists. Cambridge University Press, Cambridge
+     90:125–158. doi:10.1002/iroh.200410759                                Richmond RH (1997) Reproduction and recruitment in corals:
+Jackson JBC, Buss LW, Cook RE (1985) Population biology and                     critical links in the persistence of reefs. In: Birkeland C (ed)
+     evolution of clonal organisms. Yale University, New Haven                  Life and death of coral reefs. Chapman and Hall, London,
+Jones CG, Lawton JH, Shachak M (1994) Organisms as ecosystem                    pp 175–197
+     engineers. Oikos 69:373–386. doi:10.2307/3545850                      Rinkevich B, Loya Y (1989) Reproduction in regenerating colonies of
+Kitamura M, Koyamaa T, Nakanob Y, Uemuraa D (2007) Charac-                      the coral Stylophora pistilata. In: Spanier E, Steinberger Y, Luria
+     terization of a natural inducer of coral larval metamorphosis. J           M (eds) Environmental quality and ecosystem stability: vol
+     Exp Mar Biol Ecol 340:96–102. doi:10.1016/j.jembe.2006.                    IV-B. Environmental Quality Israel Society for Ecology and
+     08.012                                                                     Environmental Quality Sciences. Jerusalem, Israel
+Knowlton N, Mate JL, Guzman HM, Rowan R, Jara J (1997) Direct              Rotjan RD (2007) The patterns, causes, and consequences of
+     evidence for reproductive isolation among the three species on             parrotfish corallivory in Belize. Doctoral dissertation. Biology,
+     the Montastraea annularis complex in Central America (Panama               Ph.D. Dissertation, Medford, MA
+
+
+
+
+123
+Mar Biol (2009) 156:569–577                                                                                                             577
+
+Rotjan RD, Dimond JL, Thornhill DJ, Leichter JJ, Helmuth BST,          Szmant AM (1986) Reproductive ecology of Caribbean reef corals.
+     Kemp DW, Lewis SM (2006) Chronic parrotfish grazing                    Coral Reefs 5:43–54. doi:10.1007/BF00302170
+     impedes coral recovery after bleaching. Coral Reefs 25:361–       Szmant AM (1991) Sexual reproduction by the Caribbean reef corals
+     368. doi:10.1007/s00338-006-0120-y                                     Montastrea annularis and M. cavernosa. Mar Ecol Prog Ser
+Rotjan RD, Lewis SM (2005) Selective predation by parrotfishes on           74:13–25. doi:10.3354/meps074013
+     the reef coral Porites astreoides. Mar Ecol Prog Ser 305:193–     Tobler MA, Van Zandt PA, Hasenstein KH, Mopper S (2006) Growth
+     201. doi:10.3354/meps305193                                            and reproduction of a clonal plant in response to salinity and
+Rotjan RD, Lewis SM (2006) Parrotfish abundance and corallivory on          florivory. Wetlands 26:803–812. doi:10.1672/0277-5212(2006)
+     a Belizean coral reef. J Exp Mar Biol Ecol 335:292–301. doi:           26[803:GAROAC]2.0.CO;2
+     10.1016/j.jembe.2006.03.015                                       Van Veghel MLJ (1994) Reproductive characteristics of the poly-
+Rotjan RD, Lewis SM (2008) Impact of coral predators on tropical            morphic Caribbean reef building coral Montastrea annularis I.
+     reefs. Mar Ecol Prog Ser 367:73–91. doi:10.3354/meps07531              Gametogenesis and spawning behavior. Mar Ecol Prog Ser
+Rüetzler K, Macintyre IG (1982) The Atlantic barrier reef ecosystem        109:209–219. doi:10.3354/meps109209
+     at Carrie Bow Cay, Belize, I: structure and communities.          Van Veghel MLJ, Bak RPM (1994) Reproductive characteristics of
+     Smithsonian Institution Press, Washington                              the polymorphic Caribbean reef building coral Montastrea
+Sanchez JA, Alvarado EM, Gil MF, Charry H, Arenas OL, Chasqui               annularis III. Reproduction in damaged and regenerating
+     LH, Garcia RP (1999) Synchronous mass spawning of Montast-             colonies. Mar Ecol Prog Ser 109:229–233. doi:10.3354/meps
+     raea annularis (Ellis & Solander) and Montastraea faveolata            109229
+     (Ellis & Solander) (Faviidae: Scleractinia) at Rosario Islands,   Van Veghel MLJ, Kahmann MEH (1994) Reproductive characteris-
+     Caribbean coast of Colombia. Bull Mar Sci 65:873–879                   tics of the polymorphic Caribbean reef building coral
+Sanchez JA, Gil MF, Chasqui LH, Alvarado EM (2004) Grazing                  Montastrea annularis II. Fecundity and colony structure. Mar
+     dynamics on a Caribbean reef-building coral. Coral Reefs               Ecol Prog Ser 109:221–227. doi:10.3354/meps109221
+     23:578–583                                                        Villinski JT (2003) Depth-independent reproductive characteristics
+Shearer TL, Coffroth MA (2006) Genetic identification of Caribbean          for the Caribbean reef-building coral Montastrea faveolata. Mar
+     scleractinian coral recruits at the Flower Garden Banks and the        Biol (Berl) 142:1043–1053
+     Florida Keys. Mar Ecol Prog Ser 306:133–142. doi:10.3354/         Wilson SK, Graham NAJ, Pratchett MS, Jones GP, Polunin NVC
+     meps306133                                                             (2006) Multiple disturbances and the global degradation of coral
+Stephenson AG (1980) Fruit set, herbivory, fruit reduction, and the         reefs: are reef fishes at risk or resilient? Glob Chang Biol
+     fruiting strategy of Catalpa speciosa (Bignoniaceae). Ecology          12:2220–2234. doi:10.1111/j.1365-2486.2006.01252.x
+     61:57–64. doi:10.2307/1937155                                     Wisdom CS, Crawford CS, Aldon EF (1989) Influence of insect
+Szmant-Froelich AM (1985) The effect of colony size on the                  herbivory on photosynthetic rate and reproduction in Gutierrezia
+     reproductive ability of the Caribbean coral Montastrea annular-        species. J Ecol 77:685–692. doi:10.2307/2260978
+     is. Proc 5th Int Coral Reef Sym, Tahiti 4:295–300
+
+
+
+
+                                                                                                                                123
+

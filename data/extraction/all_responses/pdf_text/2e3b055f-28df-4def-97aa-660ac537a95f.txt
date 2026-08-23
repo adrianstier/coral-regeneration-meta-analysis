@@ -1,0 +1,497 @@
+                                                         Journal of Experimental Marine Biology and Ecology 486 (2017) 98–104
+
+
+
+                                                                     Contents lists available at ScienceDirect
+
+
+                                   Journal of Experimental Marine Biology and Ecology
+
+                                                      journal homepage: www.elsevier.com/locate/jembe
+
+
+
+
+The effects of ocean acidiﬁcation on wound repair in the coral Porites spp.
+Peter J Edmunds ⁎, Alex Yarid
+Department of Biology, California State University, 18111 Nordhoff Street, Northridge, CA 91330-8303, USA
+
+
+
+a r t i c l e          i n f o                             a b s t r a c t
+
+Article history:                                           Scleractinian corals on tropical reefs are exposed to many natural and anthropogenic disturbances, and while
+Received 24 June 2016                                      much is known about their responses to such conditions, it is unclear whether the responses will remain the
+Received in revised form 3 October 2016                    same in a future affected by climate change and ocean acidiﬁcation. To evaluate how one aspect of these effects
+Accepted 5 October 2016
+                                                           — wound repair — might be inﬂuenced by ocean acidiﬁcation, small colonies of massive Porites spp. from the back
+Available online 12 October 2016
+                                                           reef of Moorea, French Polynesia, were damaged to simulate the effects of single bites by corallivorous ﬁshes, and
+Keywords:
+                                                           healing was measured under contrasting PCO2 regimes. Using experiments lasting 19–20 d and employing super-
+Scleractinia                                               ﬁcial (2013) or deep (2014) lesions, the effects of damage were evaluated at ~ 400 μatm (ambient) and ~
+Healing                                                    1000 μatm PCO2 (both at ~28.5 °C) using calciﬁcation and healing as dependent variables. Damage reduced calci-
+Climate change                                             ﬁcation of massive Porites spp. in 2013, but not in 2014, and PCO2 had no effect on area-normalized calciﬁcation or
+Moorea                                                     healing in both years, although biomass-normalized calciﬁcation was reduced by high PCO2 in 2014. Overall these
+Coral reef                                                 results reveal the physiological resilience of this functional group of corals to the extent of ocean acidiﬁcation ex-
+                                                           pected by the end of this century, and suggest that over this period small colonies will remain capable of recovery
+                                                           from minor damage arising from ﬁsh corallivory.
+                                                                                                                                        © 2016 Elsevier B.V. All rights reserved.
+
+
+
+
+1. Introduction                                                                                  targeted by ﬁsh corallivores (Rotjan and Lewis, 2005), but the extent
+                                                                                                 of damage inﬂicted varies among species of ﬁsh (Bellwood and Choat,
+    In the marine environment, the ability of colonial modular organ-                            1990; Rotjan and Lewis, 2008). Some ﬁsh remove individual polyps
+isms to recover from partial mortality mitigates the negative effects of                         without damaging the skeleton, while others remove large amounts of
+damage (Jackson and Coates, 1986). This is important for sessile taxa                            skeleton and tissue (Cole et al., 2008). For many years there was scant
+that cannot ﬂee from sources of damage, and for those that are                                   evidence that ﬁsh corallivory had strong effects on scleractinian com-
+iteroparous, successful repair can increase the likelihood of future re-                         munities (Hixon, 1997; Cole et al., 2008; Rotjan and Lewis, 2008), but
+production (Henry and Hart, 2005). The ability to survive damage is                              this disturbance is now viewed as an important factor affecting the
+made possible by the capacity to regenerate damaged tissue, or to sur-                           abundance, distribution, and ﬁtness of scleractinians (Cole et al., 2008;
+vive the loss of tissue if repair is impossible (Henry and Hart, 2005).                          Rotjan and Lewis, 2008).
+There is a long history of interest in the regenerative capacity of colonial                          When a scleractinian is damaged, repair requires the allocation of re-
+modular organisms (Jackson, 1979; Palumbi and Jackson, 1982; Hughes,                             sources to replace damaged tissue, and subsequently biological func-
+1983), and tropical scleractinians have served as a model system in ad-                          tions, including growth and reproduction, may be impaired as
+vancing this interest (e.g., Nagelkerken and Bak, 1998; Oren et al.,                             resources are prioritized for this purpose (Rinkevich, 1996; Henry and
+2001).                                                                                           Hart, 2005). The rate at which tissue is regenerated is important, be-
+    Scleractinians frequently experience partial mortality through                               cause the likelihood that fouling organisms will colonize lesions in-
+corallivory and breakage (Reese, 1977; Frydl, 1979; Rotjan and Lewis,                            creases with the duration of exposure of skeleton within the lesion
+2008; Bruckner and Bruckner, 2016), and these events typically create                            (Meesters et al., 1997; Henry and Hart, 2005). Once fouling organisms
+lesions in which tissue and skeleton are removed (Henry and Hart,                                colonize a lesion, it is unlikely that coral tissue will grow over the site
+2005). The combined effects of these lesions can sum among members                               of damage (Meesters et al., 1997). Whether coral tissues regenerate is
+of a population to represent greater tissue loss than occurs through                             determined by intrinsic factors, such as corallum morphology, the sup-
+the death of whole colonies (Hughes and Jackson, 1985). Lesions attrib-                          ply of interstitial cells, and the availability of metabolic energy
+uted to corallivory are a chronic disturbance for those scleractinians                           (Meesters et al., 1996; Henry and Hart, 2005), as well as extrinsic factors
+                                                                                                 including seawater depth and the magnitude of damage (Meesters et
+ ⁎ Corresponding author.                                                                         al., 1997; Nagelkerken et al., 1999). As global climate change leads to in-
+   E-mail address: peter.edmunds@csun.edu (P.J. Edmunds).                                        creases in seawater temperature (Bindoff et al., 2007), and reduced
+
+
+http://dx.doi.org/10.1016/j.jembe.2016.10.001
+0022-0981/© 2016 Elsevier B.V. All rights reserved.
+                                      P.J. Edmunds, A. Yarid / Journal of Experimental Marine Biology and Ecology 486 (2017) 98–104                            99
+
+
+seawater pH (i.e., ocean acidiﬁcation [Doney et al., 2009]), determining                   Corals were brought to the laboratory and attached to plastic tiles
+how extrinsic factors inﬂuence tissue repair in scleractinians will help to            using epoxy (Z-Spar A-788, Splash Zone Compound Los Angeles, CA,
+understand how they will respond to damage in the future.                              USA) without damaging marginal tissues to induce a stress response.
+    Most research on the effects of ocean acidiﬁcation on scleractinians               To allow recovery following collection, corals were retained in a
+has focused on calciﬁcation (Erez et al., 2011), but this phenomenon                   1000 L tank for 7 d in Experiment 1 (at 28.8 °C and 481 μmol quanta
+has the potential to affect other biological functions (Doney et al.,                  m−2 s−1 irradiance) and 6 d in Experiment 2 (at 28.9 °C and 489 μmol
+2009). As studies of the response of scleractinians to ocean acidiﬁcation              quanta m−2 s−1 irradiance). Temperature was measured with a certi-
+have broadened their consideration of treatment conditions, there has                  ﬁed digital thermometer (±0.05 °C model 15-077, Thermo Fisher Sci-
+been growing attention to interactive effects, such as might occur in                  entiﬁc, Waltham, MA, USA), and light intensity with a 4-π quantum
+synergy with elevated temperature, feeding, light intensities, and ﬂow                 light sensor (LI-193SA sensor and LI-1400 m, LI-COR, Inc., Lincoln, NE,
+speeds (Erez et al., 2011; Chan and Connolly, 2013; Edmunds et al.,                    USA), and the levels of these factors were similar to the conditions at
+2012; Comeau et al., 2014a). To date, the possibility that ocean acidiﬁca-             the site of collection in April when the experiments were conducted.
+tion could modulate recovery from partial mortality has rarely been                    Light was provided using four LED lamps (LED System Model: Sol
+considered (but see Renegar et al., 2008; Horwitz and Fine, 2014; Hall                 Blue, AquaIllumination®, Ames, IA, USA).
+et al., 2015). Since changes in environmental conditions associated
+with ocean acidiﬁcation could inﬂuence the availability of cellular and                2.2. Experimental treatments
+energetic resources for tissue regeneration, it is reasonable to hypothe-
+size that tissue regeneration will be affected (Henry and Hart, 2005).                     In both experiments, half of the corals were damaged using snub-
+    This study investigated the effects of ocean acidiﬁcation on the re-               nose pliers to scrape a rectangular lesion on their upper surface, and
+covery of a scleractinian from partial mortality. Two experiments were                 care was taken to ensure the lesions were similar in size. Pliers were
+performed to address the effects of modest (in 2013) and severe (in                    rinsed in clean seawater between damaging colonies to avoid cross-
+2014) damage on the common Indo-Paciﬁc coral, massive Porites spp.                     contaminating replicate corals with mucus and microbes. In Experiment
+Experiment 1 tested the effects of ocean acidiﬁcation on calciﬁcation                  1, which involved superﬁcial damage, lesions had a mean area of 0.99
+and tissue regeneration in corals recovering from damage created                       cm2 and penetrated ~1–2 mm into the colony surface. In massive Porites
+with a scar extending 2–3 mm into the skeleton and tissue. Experiment                  spp., the coral tissue forms a layer 5–6 mm thick, and therefore this
+2 was similar, except that damage was more severe and consisted of a                   damage did not extend across the full width of the tissue. In Experiment
+scar removing tissue and skeleton extending 5–6 mm into the skeleton                   2, which involved deeper scars and more severe damage, lesions again
+and tissue. Both experiments were conducted with small colonies of                     were created with snub-nose pliers, but their area was increased to
+massive Porites spp. from the back reef in Moorea, French Polynesia,                   2.5 cm2 and they were scraped to a depth of ~5–6 mm into the skeleton.
+and colonies were incubated in mesocosms supplied with ﬂowing sea-                     The dimensions of lesions were similar to those created by parrotﬁsh
+water, and controlled for PCO2, temperature, and irradiance. Corals                    feeding on massive corals (Bellwood and Choat, 1990; Rotjan and
+were damaged to simulate corallivory resulting from ﬁshes feeding in                   Lewis, 2005), with those created in Experiment 1 resembling bites of
+scraping (Experiment 1) and excavation (Experiment 2) feeding guilds                   ﬁshes in the scraping guild, and those in Experiment 2 resembling
+(Bellwood and Choat, 1990).                                                            bites of ﬁshes in the excavating guild (Bellwood and Choat, 1990). The
+                                                                                       other half of the corals was left undamaged and served as control for
+                                                                                       the damaged treatment.
+2. Materials and methods                                                                   Following damage, corals were retained in the acclimation tank for
+                                                                                       1 d until mucus release attributed to damage ceased, and then control
+2.1. Collection and acclimation                                                        and damaged corals were randomly assigned to 150 L tanks (AquaLogic,
+                                                                                       San Diego, CA, USA) that were pre-set to treatment conditions (ambient
+    Experiments took place at the Richard B. Gump South Paciﬁc Re-                     and elevated PCO2). Six tanks were used in Experiment 1 and four in Ex-
+search Station on Moorea, and used small colonies (~ 4 cm diameter)                    periment 2, and all were supplied with fresh seawater at 100–200 mL
+of massive Porites spp. from 2 to 3 m depth in the back reef. Massive                  min−1. Half of the tanks were bubbled with ambient air, and the other
+Porites spp. was used because small colonies of this taxon are common                  half with CO2-enriched air to maintain PCO2 at target values of ~
+throughout the back reef, where they are subject to corallivory                        400 μatm (ambient) and ~ 1000 μatm (elevated). The elevated PCO2
+(Lenihan and Edmunds, 2010). Moreover, throughout the Indo-Paciﬁc,                     treatment corresponds to the pessimistic representative concentration
+members of this group play important roles in coral reef community                     pathway (RCP 8.5) that projects atmospheric PCO2 to increase to ~
+structure. In Moorea, the back reef is populated by at least three species             1370 ppm by 2100 (van Vuuren et al., 2011). Tanks were maintained
+of massive Porites spp., with P. lutea and P. lobata particularly common               at 28.0 °C in Experiment 1, and 28.8 °C in Experiment 2, with the slight
+(Bosserelle et al., 2014). These species are distinguished by corallite                difference reﬂecting logistical constraints. Corals were incubated for
+structure (Veron and Pichon, 1982), but the differences are difﬁcult to                19 d in Experiment 1 and 20 d in Experiment 2, and were randomly
+detect underwater, and may not conform to species boundaries                           repositioned within the tanks daily to account for position effects.
+discerned from genetic tools (Forsman et al., 2009). Therefore, small                      Tanks were monitored for temperature, irradiance, salinity, pH, and
+colonies of similar shape, color, and size were combined as massive                    carbonate chemistry. Temperature was measured twice daily using a
+Porites spp., which previously we have distinguished using morpholog-                  digital thermometer and irradiance was measured using a 4-π quantum
+ical features to 85% P. lutea and 15% P. lobata (Edmunds, 2009).                       PAR sensor and meter (both described above). In Experiment 1, irradi-
+    An experiment was designed in which corals were damaged in a                       ance in the tanks was measured weekly, and in Experiment 2 it was
+standardized way (i.e., scars of similar area and depth), and grown in                 measured daily.
+mesocosms under two PCO2 levels. Each PCO2 treatment was created in                        In Experiment 1, salinity was recorded every 2 d using a conductivity
+replicate tanks containing multiple corals to alleviate the limitations of             meter (YSI 3100), and pH was measured 3 times d−1 (using a DG115-SC
+pseudeoreplication (sensu Hurlbert, 1984) (described below). In Exper-                 probe [Mettler-Toledo, Columbus OH, USA]), ﬁtted to an Orion 3 star
+iment 1, six corals were allocated to each treatment combination (dam-                 meter [Thermo Fisher Scientiﬁc, Waltham, MA, USA], calibrated on the
+age versus undamaged × PCO2) in each of three tanks at both PCO2                       total scale using TRIS/HCl buffers (Dickson et al., 2007). Total alkalinity
+treatments (72 corals), and in Experiment 2, 10 corals were allocated                  (TA) was measured by potentiometric titration (T50, Mettler-Toledo)
+to each treatment combination in each of two tanks at both PCO2 treat-                 following SOP 3b (Dickson et al., 2007), and initially was calculated
+ments (80 corals).                                                                     daily and, once stable, every 2 d. Carbonate chemistry parameters and
+100                                   P.J. Edmunds, A. Yarid / Journal of Experimental Marine Biology and Ecology 486 (2017) 98–104
+
+
+PCO2 were calculated using the SeaCarb package (Lavigne and Gattuso,                   well as biomass, were analyzed with three-way, partly nested ANOVAs
+2012) in R software (R foundation for statistical computing), using TA,                with PCO2 and damage (scarred versus undamaged) as ﬁxed factors, and
+pH, temperature, and salinity. In Experiment 2, salinity and pH again                  tank as a random factor nested within PCO2. Lesion areas were expressed
+were measured daily, using a refractometer and certiﬁed thermometer                    as a percentage of initial area, and repeated-measures ANOVA was used
+(as above), respectively. TA was calculated every 2–4 d by potentiomet-                to test the effects of time, PCO2, and their interaction on the change in
+ric titration, and carbonate chemistry parameters and PCO2 were calcu-                 relative lesion area.
+lated daily using the same methods as Experiment 1.                                        All statistics were carried out with Systat software (Version 11,
+                                                                                       Systat Software, Inc., San Jose, CA, USA) operating in a Windows envi-
+2.3. Response variables                                                                ronment. The normality and homoscedasticity assumptions of ANOVA
+                                                                                       were tested through graphical inspection of residuals.
+    Net calciﬁcation was measured using change in buoyant weight for
+each coral between the start and end of the incubation. Change in buoy-
+ant weight was converted to dry weight using the density of aragonite                  3. Results
+(2.93 g cm−3 [Davies, 1989]) and seawater density, and values were
+standardized to area of the coral tissue (cm2) and time (d) in units of                3.1. Experiment 1: response to superﬁcial damage
+mg CaCO3 cm−2 d−1. As lesions were deeper and larger in Experiment
+2 versus Experiment 1, lesion area in Experiment 2 was subtracted                      3.1.1. Treatment conditions
+from the colony area to obtain the tissue area used for normalizing cal-                   Tanks were maintained close to the targeted conditions (Table 1).
+ciﬁcation. In Experiment 2, net calciﬁcation (mg) also was standardized                Salinity was consistent across tanks and averaged 35.2 (SE b 0.1, n =
+to biomass (mg) and time (d) in units of d−1. Tissue area was deter-                   6). Irradiance did not vary among tanks (F4,12 = 0.191, P = 0.938) or
+mined at the conclusion of the experiment using aluminum foil                          treatments (F1,4 = 0.002, P = 0.968), and had a grand mean of 373 ±
+(Marsh, 1970), and in Experiment 2, biomass was determined by ﬁxing                    2 mmol photons m−2 s−1 (± SE, n = 6). Temperature varied among
+corals in 5% formalin in seawater for 72 h, decalcifying in 5% HCl in sea-             tanks (F4,240 = 3.262, P = 0.013) but not treatments (F1,4 = 0.056,
+water, and drying the tissue tunic to a constant weight at 60 °C. Prior to             P = 0.825), yet differences among means were ≤ 0.3 °C; the grand
+drying, endolithic taxa were removed with forceps, and the tissue was                  mean was 28.3 ± 0.1 °C (± SE, n = 6). TA varied among tanks
+rinsed in deionized water. Biomass was standardized to area of the                     (F4,108 = 2.946, P = 0.024) but not treatments (F1,4 = 0.019, P =
+coral tissue (cm2) to obtain units of mg cm−2, and we assumed the tis-                 0.898), and differences between means were ≤ 10 μmol kg− 1. Both
+sue area-biomass relationship was consistent among treatment groups.                   PCO2 and pH varied among treatments (F1,4 = 6001, P b 0.001 and
+    Regeneration of tissue within the lesions was evaluated photograph-                F1,4 = 10,819, P b 0.001, respectively), but not tanks (F4,317 = 0.195,
+ically as the rate at which new coral tissue ﬁlled in the damage (see Fig.             P = 0.941, and F4,498 = 0.301, P = 0.877, respectively); these treat-
+1 in Cameron and Edmunds, 2014). In Experiment 1, pictures of the le-                  ments contrasted 420 ± 3 μatm versus 1050 ± 57 μatm PCO2, and a
+sions were recorded with a camera (Olympus 850 SW, 8 megapixels)                       pH of 8.02 ± b 0.01 versus 7.69 ± 0.02 (all mean ± SD, n = 2).
+prior to, and following, the incubation. These pictures revealed dam-
+aged tissue on the ﬂoor of the lesion (scars did not penetrate the full
+width of the coral tissue layer), and the ﬁnal photographs were used                   3.1.2. Response variables
+to evaluate healing based on a two-category assessment of tissue                           Mean calciﬁcation ranged from 1.07 ± 0.13 mg cm−2 d−1 (damaged
+color. Lesions were categorized as “partially healed” when their margins               corals, elevated PCO2) to 1.67 ± 0.14 mg cm−2 d−1 (undamaged corals,
+were visible, the lesion area and shape largely were unchanged relative                ambient PCO2, both ± SE) (Fig. 1A). Mean calciﬁcation was depressed
+to the ﬁrst day of the incubation, and the return of normal tissue color               26% (pooled across PCO2 treatments) by damage (F1,4 = 21.205, P =
+was mostly restricted to individual polyps (i.e., not the coenosarc). Le-              0.010), but not by PCO2 (F1,4 = 2.247, P = 0.208), the interaction be-
+sions were categorized as “mostly healed” when their margins were                      tween the two (F1,4 = 3.093, P = 0.153), or tank (F4,64 = 0.598, P =
+not clearly visible, and normal tissue color had returned to individual                0.666). For damaged corals, elevated PCO2 reduced mean calciﬁcation
+polyps and the coenosarc. There were no corals that could be catego-                   24%, while the effect of PCO2 on undamaged corals was negligible
+rized as fully healed based on the lesion being indistinguishable from                 (mean difference b 0.01%). At the end of the experiment, the categoriza-
+the rest of the colony surface.                                                        tion of the 36 damaged corals based on the extent of lesion healing (par-
+    In Experiment 2, pictures of damaged corals were recorded (Nikon                   tially versus mostly healed) was independent of PCO2 (χ2 = 1.003, P =
+D70 camera, 6 megapixels) prior to incubation, and every 4 d thereafter                0.317).
+until the experiment ﬁnished. Pictures were recorded from a ﬁxed dis-
+tance above the coral, and included a scale bar, and revealed exposed
+skeleton within the lesion at the start of the experiment. The area of                 3.2. Experiment 2: response to deeper scaring
+the lesions (cm2) was calculated at each sampling using ImageJ soft-
+ware (Abràmofff et al., 2004), and was used to calculate the rate of                   3.2.1. Treatment conditions
+healing.                                                                                   Tanks were maintained close to the targeted treatment conditions
+                                                                                       (Table 1). Salinity averaged 33.8 across tanks (SE b 0.1, n = 4). Irradi-
+2.4. Statistical analysis                                                              ance and temperature did not vary among tanks (F2,80 = 0.388, P =
+                                                                                       0.680, and F2,156 = 2.732, P = 0.068, respectively) or treatments
+    In both experiments, conditions in the tanks (temperature, pH, PCO2,               (F1,2 = 8.173, P = 0.104, and F1,2 = 0.212, P = 0.690, respectively)
+TA, and irradiance) were analyzed using two-way, partly nested                         and had grand mean values of 627 ± 9 μmol photons m− 2 s− 1 and
+ANOVAs, with treatment (PCO2) a ﬁxed factor, and tank a random factor                  28.8 ± 0.1 °C, respectively (± SE, n = 4). PCO2 varied among tanks
+nested within treatment. In Experiment 1, area-normalized net calciﬁ-                  (F2,84 = 3.370, P = 0.039) and treatments (F1,2 = 228, P = 0.004), how-
+cation was analyzed with a three-way, partly nested ANOVA with PCO2                    ever, differences between tanks were ≤81 μatm. pH varied among treat-
+and damage (scarred versus undamaged) as ﬁxed factors, and tank a                      ments (F1,2 = 378, P = 0.003) but not tanks (F2,80 = 2.214, P = 0.116),
+random factor nested within PCO2. The frequency of corals categorized                  and TA was consistent among tanks (F2,24 = 0.879, P = 0.428) and
+as partially healed versus mostly healed as a function of treatment                    treatments (F1,2 = 1.223, P = 0.384). These treatments contrasted
+(i.e., PCO2) was analyzed using a 2 × 2 contingency table with χ2-test.                388 ± 6 μatm versus 970 ± 7 μatm PCO2, and a pH of 8.06 ± b0.01 versus
+In Experiment 2, area- and biomass- normalized net calciﬁcation, as                    7.74 ± b0.01 (all mean ± SE, n = 3).
+                                                   P.J. Edmunds, A. Yarid / Journal of Experimental Marine Biology and Ecology 486 (2017) 98–104                                       101
+
+
+Table 1
+Summary of the tank parameters for Experiments 1 (19 d) and Experiment 2 (20 d). Mean ± SE (n) shown.
+
+  Experiment     Treatment      Tank           Temperature (°C)    Irradiance (μmol photons m−2 s−1)               pH                  PCO2 (μatm)      TA (μmol kg−1)   Ωarag
+
+  1              Ambient        1              28.4 ± 0.1 (41)     362 ± 5 (3)                                     8.06 ± 0.01 (61)    401 ± 8 (41)     2297 ± 3 (17)    3.74 ± 0.01 (41)
+                                3              28.2 ± 0.1 (41)     377 ± 12 (3)                                    8.06 ± 0.01 (61)    384 ± 6 (41)     2289 ± 4 (19)    3.80 ± 0.01 (41)
+                                8              28.4 ± 0.1 (41)     373 ± 13 (3)                                    8.07 ± 0.01 (61)    380 ± 6 (41)     2288 ± 3 (18)    3.85 ± 0.01 (41)
+                 Elevated       4              28.4 ± 0.1 (41)     365 ± 25 (3)                                    7.74 ± 0.01 (61)    976 ± 38 (41)    2289 ± 3 (21)    2.09 ± 0.01 (41)
+                                7              28.3 ± 0.1 (41)     376 ± 20 (3)                                    7.73 ± 0.01 (61)    978 ± 31 (41)    2298 ± 2 (18)    2.07 ± 0.01 (41)
+                                9              28.1 ± 0.1 (41)     379 ± 9 (3)                                     7.74 ± 0.01 (61)    956 ± 33 (41)    2288 ± 3 (21)    2.09 ± 0.01 (41)
+  2              Ambient        1              28.8 ± 0.1 (41)     636 ± 14 (21)                                   8.01 ± 0.01 (21)    422 ± 17 (21)    2210 ± 17 (21)   3.36 ± 0.07 (21)
+                                6              28.9 ± 0.1 (40)     647 ± 19 (21)                                   8.02 ± 0.01 (21)    418 ± 12 (21)    2268 ± 32 (7)    3.58 ± 0.09 (21)
+                 Elevated       2              28.8 ± 0.1 (40)     621 ± 18 (21)                                   7.67 ± 0.01 (21)    1091 ± 29 (23)   2262 ± 14 (7)    1.83 ± 0.05 (21)
+                                7              29.0 ± 0.1 (40)     604 ± 14 (21)                                   7.70 ± 0.01 (21)    1010 ± 26 (23)   2283 ± 15 (7)    2.00 ± 0.04 (21)
+
+
+
+
+3.2.2. Response variables                                                                               (F1,2 = 0.014, P = 0.917), the PCO2 × time interaction (F4,8 = 1.102, P =
+    Area-normalized calciﬁcation ranged from 0.60 ± 0.05 mg cm− 2                                       0.418), or tank (F2,180 = 0.994, P = 0.372).
+d− 1 (damaged corals, elevated PCO2) to 0.79 ± 0.08 mg cm− 2 d− 1
+(damaged corals, ambient PCO2, both mean ± SE), and was not affected                                    4. Discussion
+by PCO2 (F1,2 = 3.943, P = 0.185), damage (F1,2 = 2.804, P = 0.236), the
+interaction between the two (F1,2 = 4.030, P = 0.182), or tank (F2,72 =                                      This study tested the hypothesis that ocean acidiﬁcation affects the
+0.836, P = 0.438) (Fig. 1B). Mean biomass-normalized calciﬁcation                                       response of massive Porites spp. to damage of differing severities
+ranged from 0.071 ± 0.008 d−1 (damaged corals, elevated pCO2) to                                        representing the effects of corallivory by ﬁshes in the scraping and
+0.088 ± 0.008 d−1 (undamaged corals, ambient PCO2, both ± SE) (Fig.                                     gouging functional groups (Bellwood and Choat, 1990). There is a long
+1D), and was reduced by elevated PCO2 (F1,2 = 20.577, P = 0.045),                                       history of investigating the effects of damage on corals (Cole et al.,
+with a 10% decrease across both damage treatments, and was unaffect-                                    2008; Rotjan and Lewis, 2008; Bruckner and Bruckner, 2016), and re-
+ed by damage (F1,2 = 8.583, P = 0.099), the PCO2 × damage interaction                                   cent interest in the response of corals to ocean acidiﬁcation (Chan and
+(F1,2 = 4.716, P = 0.162), and tank (F2,72 = 0.047, P = 0.954). Mean bio-                               Connolly, 2013; Kroeker et al., 2013), but little is known of the interac-
+mass ranged from 8.80 ± 0.70 mg cm−2 (undamaged corals, elevated                                        tion between these stressors in terms of their effects on coral perfor-
+PCO2) to 9.57 ± 0.49 mg cm− 2 (damaged corals, elevated PCO2) and                                       mance (but see Renegar et al., 2008; Horwitz and Fine, 2014; Hall et
+was not affected by PCO2 (F1,2 = 0.511, P = 0.549), damage (F1,2 =                                      al., 2015). A prior, it was reasonable to hypothesize that regeneration
+0.184, P = 0.710), the interaction between the two (F1,2 = 0.004, P =                                   of coral tissue and skeleton following damage would be affected by
+0.954), or tank (F2,72 = 1.749, P = 0.181) (Fig. 1C).                                                   ocean acidiﬁcation, potentially because the physical and chemical con-
+    At the end of the incubation, lesions were reduced to 20.6 ± 4.1% of                                sequences of this phenomenon can alter the use of metabolic energy
+their original size at ambient PCO2, and to 22.7 ± 4.0% of their original                               by metazoans (Pan et al., 2015), and in reef corals, can modulate
+size at elevated PCO2 (both mean ± SE, n = 20) (Fig. 2). The highest                                    holobiont respiration and photochemical efﬁciency (Anthony et al.,
+rates of decline in lesion area occurred within the ﬁrst 3 d following                                  2008; Crawley et al., 2010; Edmunds, 2012; Kaniewska et al., 2012;
+damage, averaging 9.0 ± 0.9% d− 1 in elevated PCO2, and 7.6 ± 0.8%                                      but see Schneider and Erez, 2006; Comeau et al., 2016), calciﬁcation
+d−1 in ambient PCO2 (both ± SE, n = 20). The reduction in size of lesions                               (Erez et al., 2011; Chan and Connolly, 2013), and protein metabolism
+differed over time (F4,8 = 9.874, P = 0.003), but was unaffected by PCO2                                (Kaniewska et al., 2012; Edmunds and Wall, 2014). In contrast to this
+
+
+                                               2                                                                  2
+                                                   A                                                                    B             Undamaged
+                                                                                                                                      Damaged
+
+
+
+
+                                 mg cm-2 d-1                                                      mg cm-2 d-1
+                                               1                                                                   1
+
+
+
+
+                                               0                                                                  0
+                                                   C                                                                   D
+                                               8                                                                0.08
+
+
+                                 mg cm-2
+                                                                                                   d-1
+                                               4                                                                0.04
+
+
+
+                                               0                                                                  0
+                                                       Ambient              Elevated                                        Ambient               Elevated
+                                                                                      Treatment (PCO2)
+
+Fig. 1. Effects of manipulative experiments testing the effects of damage on calciﬁcation and biomass of massive Porites spp.: (A) area-normalized calciﬁcation for Experiment 1 (19 d, n =
+18 treatment−1), (B) area-normalized calciﬁcation for Experiment 2 (20 d, n = 20 treatment−1), (C) biomass for Experiment 2 (n = 20 treatment−1), and (D) biomass-normalized
+calciﬁcation for Experiment 2 (n = 20 treatment−1). Values displayed are means ± SE.
+102                                            P.J. Edmunds, A. Yarid / Journal of Experimental Marine Biology and Ecology 486 (2017) 98–104
+
+
+            100                                                                                 rates of photosynthesis, it is likely that larger quantities of photosyn-
+                                                       Ambient PCO2                             thetically ﬁxed carbon would be translocated to the animal host
+                                                       Elevated PCO2                            (Muscatine et al., 1984; Edmunds and Davies, 1986). This enhanced
+                                                                                                supply of carbon (and the energy it represents) may have eclipsed the
+                                                                                                metabolic costs of repair (Henry and Hart, 2005), thereby allowing the
+                                                                                                calciﬁcation rates of damaged corals to remain similar to those of un-
+
+
+
+
+        Percent (%)
+                                                                                                damaged corals.
+                                                                                                    In Experiment 2, stable area-normalized calciﬁcation and depressed
+                                                                                                biomass-normalized calciﬁcation at high PCO2 also requires explanation,
+                                                                                                and conceivably could be a result of a PCO2-induced increase in biomass.
+                                                                                                This would depress biomass-normalized calciﬁcation, but with more
+                                                                                                tissue calcifying less rapidly, area-normalized calciﬁcation could be
+                                                                                                sustained (as was observed). Massive Porites spp. uses this strategy to
+                                                                                                ameliorate its sensitivity to high PCO2 (Edmunds, 2011), but in the
+                                                                                                study in which this has been demonstrated, biomass was enhanced at
+                                                                                                high PCO2 in association with ad libitum feeding on Artemia spp.
+                      0                                                                         (Edmunds, 2011). In the present study in which corals were not fed
+                          0                10                                20                 plankton and experiments lasted ~ 3 weeks (cf. 1 month in Edmunds,
+                                        Time (days)                                             2011), PCO2 was not associated with a change in biomass (Fig. 1C), yet
+                                                                                                tissue calcifying 10% less quickly at high PCO2 supported equal area-nor-
+Fig. 2. Percent of the original lesion area remaining on damaged corals as a function of time   malized calciﬁcation at elevated and ambient PCO2. It is not possible to
+and treatment (PCO2 regime) in Experiment 2. Lesions were 2.56 ± 0.08 cm2 when ﬁrst
+                                                                                                explain this outcome with the present results, but it could reﬂect a lim-
+administered. Mean ± SE shown (n = 20 measurement−1).
+                                                                                                itation of the assumption that calciﬁcation did not occur within lesions
+                                                                                                that removed the full tissue thickness (described in Section 2), and
+expectation, ocean acidiﬁcation had no effect on the response to dam-                           therefore, that the area of the scar should be subtracted from colony
+age, as evaluated by area-normalized calciﬁcation, biomass, and rate of                         area before normalizing calciﬁcation to area. If the scaring left sufﬁcient
+closure of the lesion (i.e., tissue regeneration) during short experiments                      tissue deep within the skeleton to support limited calciﬁcation within
+in mesocosms.                                                                                   the scar, and this tissue recovered quickly (as observed), then our
+    The effect of damage on calciﬁcation of massive Porites spp. varied                         area-normalized calciﬁcation rates would be upwardly biased by the ex-
+between experiments, and area-normalized rates were unaffected by                               tent to which the scar area functioned like undamaged areas of the coral
+~1000 PCO2, and remained similar to those previously reported for this                          in terms of calciﬁcation. If this is correct, then potentially the high PCO2
+genus in Moorea (Comeau et al., 2014b), as well as more broadly for                             regime applied in Experiment 2 could have caused a slight overall re-
+other corals (Pratchett et al., 2015). In Experiment 1, damage affecting                        duction in area-normalized calciﬁcation.
+~ 4% of the surface of the corals reduced area-normalized calciﬁcation                              Previous studies have demonstrated that the effect of damage on the
+~26% in ambient and elevated PCO2, while in Experiment 2, more severe                           growth of corals varies among species, increasing growth in some (Loya,
+damage affecting ~10% of the surface area of the corals (and removing a                         1976), while decreasing growth in others (Cox, 1986; Meesters et al.,
+deeper layer of skeleton and tissue) did not affect area-normalized or                          1994). Loya (1976), for example, found that damaged colonies of the
+biomass normalized calciﬁcation, although PCO2 reduced biomass-nor-                             branching coral Stylophora pistillata in the Gulf of Eilat, grew twice as
+malized calciﬁcation ~10% (Fig. 1A, B).                                                         fast as undamaged colonies, and in Moorea, Edmunds and Lenihan
+    The key to reconciling the contrasting results in the two experiments                       (2010) found that the effects of damage (~67 mm2 gouges) on the cal-
+probably lies in differences in the environmental conditions preceding                          ciﬁcation of massive Porites spp. depended on environmental condi-
+the experiments, and differences between experiments in the physical                            tions; damage accelerated calciﬁcation 25% at 26.7 °C, but depressed
+conditions employed. For instance, while calciﬁcation rates in both ex-                         calciﬁcation 25% at 29.6 °C. Decreased calciﬁcation in damaged corals,
+periments were within the range of values previously reported for this                          as in Experiment 1, is consistent with a trade-off model involving limit-
+genus, mean rates in Experiment 1 were double those in Experiment 2                             ed resources, for example energy and nitrogen, which are diverted from
+(pooled among PCO2 and damage treatments), which could reﬂect the                               calciﬁcation to tissue regeneration to accelerate recovery (Henry and
+effects of seawater temperature both in the mesocosms and on the                                Hart, 2005). In Experiment 2, calciﬁcation and biomass were not affect-
+reef prior to the experiment. In the mesocosms, mean seawater temper-                           ed by damage, which suggests that the energy used for tissue regenera-
+ature was 0.6 °C warmer in Experiment 2 (28.9 °C) compared to Exper-                            tion was not being diverted from calciﬁcation or tissue reserves. It is
+iment 1 (28.3 °C), and the warmer conditions in Experiment 2 might                              possible that in Experiment 2, carbon resources either were in excess
+have depressed calciﬁcation if ~28.3 °C is close to the thermal threshold                       of needs (described above), or were reallocated to repair from other
+for calciﬁcation in massive Porites spp. (Pratchett et al., 2015). In situ,                     processes, such as reproduction, which can be depressed in damaged
+seawater temperature from April 2012 to March 2013 (1 y prior to Ex-                            corals (Rinkevich, 1996).
+periment 1) was slightly warmer (mean = 27.7 °C, n = 365 d) with a                                  In the present study, a PCO2 of ~ 1000 μatm did not affect repair in
+warmer winter minimum (26.1 °C) than from April 2013 to March                                   massive Porites spp. over 19–20 d, after which damage appeared almost
+2014 (~ 1 y prior to Experiment 2), that was cooler (mean = 27.5 °C,                            fully healed. Healing was evaluated every 4 d in Experiment 2, and ini-
+n = 345 d) with a colder winter minimum (25.3 °C) (Washburn,                                    tially was rapid, but slowed over time as predicted from an exponential
+2015). These effects might have established differences in the quality                          decay function that describes healing in corals (Meesters et al., 1994;
+of coral tissue (Fitt et al., 2000; Thornhill et al., 2011) that were associ-                   Denis et al., 2011). Rates of healing during Experiment 2 were 4.0%
+ated with reduced calciﬁcation in Experiment 2. Light intensity also was                        d−1 in ambient PCO2 and 3.9% d−1 in elevated PCO2, which are similar
+higher in Experiment 2 (627 μmol photons m−2 s−1) than Experiment 1                             to rates previously reported for massive Porites spp. For example,
+(372 μmol photons m−2 s−1) due to logistical constraints, and while                             Cameron and Edmunds (2014) found that small colonies with single
+this difference is unlikely to have directly depressed calciﬁcation in Ex-                      sites of excavation damage (each ~105 mm2 and 2–5 mm deep) healed
+periment 2 given the hyperbolic tangent function that relates calciﬁca-                         at ~ 2.5% d−1 over 21 d, while Edmunds and Lenihan (2009) reported
+tion to light intensity in reef corals (Chalker, 1981), it probably would                       tissue healing of 4–5% d−1 over 10 d for small colonies with lesions ~
+have accelerated photosynthesis (Hennige et al., 2008). With greater                            67 mm2 and 1–2 mm deep.
+                                                P.J. Edmunds, A. Yarid / Journal of Experimental Marine Biology and Ecology 486 (2017) 98–104                                                103
+
+
+    The conclusion of this study that healing in massive Porites spp. is un-                      Bruckner, A.W., Bruckner, R.J., 2016. Mechanical lesions and corallivory. In: Woodley,
+                                                                                                        C.M., Downes, C.A., Bruckner, A.W., Porter, J.W., Galloway, S.B. (Eds.), Diseases of
+affected by high PCO2, has several caveats relating to the extent of damage,                            Coral. John Wiley & Sons, Hoboken, pp. 242–265.
+the duration of the experiment, the magnitude of the PCO2 regime applied,                         Cameron, C.M., Edmunds, P.J., 2014. Effects of simulated ﬁsh predation on small colonies
+and the potential for calciﬁcation to occur in severe (i.e., deep) scars such                           of massive Porites spp. and Pocillopora meandrina. Mar. Ecol. Prog. Ser. 508, 139–148.
+                                                                                                  Chalker, B.E., 1981. Simulating light-saturation curves for photosynthesis and calciﬁcation
+as those created in Experiment 2. First, the present results can only be ap-                            by reef-building corals. Mar. Biol. 63, 135–141.
+plied to larger corals (i.e., N 4 cm diameter), cases of more severe damage                       Chan, N.C.S., Connolly, S.R., 2013. Sensitivity of coral calciﬁcation to ocean acidiﬁcation: a
+(e.g., multiple bites on each colony), and longer durations of exposure to                              meta-analysis. Glob. Chang. Biol. 19, 282–290.
+                                                                                                  Cole, A.J., Pratchett, M.S., Jones, G.P., 2008. Diversity and functional importance of coral-
+high PCO2, with caution, because all three cases require extrapolation be-                              feeding ﬁshes on tropical coral reefs. Fish Fish. 286–307.
+yond the scope of this study. Second, while the treatments were designed                          Comeau, S., Edmunds, P.J., Lantz, C.A., Carpenter, R.C., 2014a. Water ﬂow modulates the
+to be ecologically relevant, with the PCO2 regime simulating a pessimistic                              response of coral reef communities to ocean acidiﬁcation. Sci. Rep. 4, 6681.
+                                                                                                  Comeau, S., Edmunds, P.J., Spindel, N.B., Carpenter, R.C., 2014b. Fast coral reef calciﬁers are
+projection for the next ~200 y, more extreme PCO2 regimes could produce
+                                                                                                        more sensitive to ocean acidiﬁcation in short-term laboratory incubations. Limnol.
+different results. For instance, wound healing in massive Porites spp. was                              Oceanogr. 59, 1081–1091.
+slowed in two of three studies in which PCO2 regimes extended from 1381                           Comeau, S., Carpenter, R.C., Edmunds, P.J., 2016. Effects of pCO2 on photosynthesis and
+to 4000 μatm (reductions in Horwitz and Fine [2014] and Renegar et al.                                  respiration of tropical scleractinian corals and calciﬁed algae. ICES J. Mar. Sci. fsv267.
+                                                                                                  Cox, E.F., 1986. The effects of a selective corallivore on growth-rates and competition for
+[2008], but not in Hall et al. [2015]). Therefore, in microhabitats where                               space between two species of Hawaiian corals. J. Exp. Mar. Biol. Ecol. 101, 161–174.
+seawater PCO2 already exceeds 1000 μatm (e.g., natural CO2 seeps                                  Crawley, A., Kline, D.I., Dunn, S., Anthony, K., Dove, S., 2010. The effect of ocean acidiﬁca-
+[Fabricuis et al., 2011]), or further than ~100 y into the future under pes-                            tion on symbiont photorespiration and productivity in Acropora formosa. Glob. Chang.
+                                                                                                        Biol. 16, 851–863.
+simistic predictions of human CO2 emissions (van Vuuren et al., 2011), it                         Davies, P.S., 1989. Short-term growth measurements of corals using an accurate buoyant
+remains possible that coral tissue regeneration will be impaired in mas-                                weighing technique. Mar. Biol. 101, 389–395.
+sive Porites spp. Finally, our results draw attention to the need to know                         Denis, V., Debreuil, J., De Palmas, S., Richard, J., Guillaume, M.M.M., Bruggemann, J.H.,
+                                                                                                        2011. Lesion regeneration capacities in populations of the massive coral Porites
+more about the capacity for Porites spp. to calcify in wounded areas                                    lutea at Réunion Island: environmental correlates. Mar. Ecol. Prog. Ser. 428, 105–117.
+where only a small fraction of the original host tissue remains, and the                          Dickson, A.G., Sabine, C.L., Christian, J.R., 2007. Guide to best practices for CO2 measure-
+speed with which normal rates of calciﬁcation resume in such areas as tis-                              ments (PICES Special Publication, 3).
+                                                                                                  Doney, S.C., Fabry, V.J., Feely, R.A., Kleypas, J.A., 2009. Ocean acidiﬁcation: the other CO2
+sue healing progresses.                                                                                 problem. Annu. Rev. Mar. Sci. 1, 169–192.
+    Overall, the responses to ocean acidiﬁcation described herein sup-                            Edmunds, P.J., 2009. Effect of acclimatization to low temperature and reduced light on the
+ports evidence of the physiological robustness of massive Porites spp.                                  response of reef corals to elevated temperature. Mar. Biol. 156, 1797–1808.
+                                                                                                  Edmunds, P.J., 2011. Zooplanktivory ameliorates the effects of ocean acidiﬁcation on the
+to PCO2 as high as ~ 2000 μatm (Fabricuis et al., 2011; Comeau et al.,
+                                                                                                        reef coral Porites spp. Limnol. Oceanogr. 56, 2402–2410.
+2014b), by revealing that members of this taxon can recover equally                               Edmunds, P.J., 2012. Effect of pCO2 on the growth, respiration, and photophysiology of
+well from modest damage at both ambient and elevated PCO2 (~                                            massive Porites spp. in Moorea, French Polynesia. Mar. Biol. 159, 2149–2160.
+1000 μatm). As three other coral species and massive Porites spp.                                 Edmunds, P.J., Davies, P.S., 1986. An energy budget for Porites porites (Scleractinia). Mar.
+                                                                                                        Biol. 92, 339–347.
+show depressed tissue regeneration at 1800 μatm (versus ambient)                                  Edmunds, P.J., Lenihan, H.S., 2010. Effect of sub-lethal damage to juvenile colonies of mas-
+(Horwitz and Fine, 2014), as does P. porites (but not P. astreoides) at                                 sive Porites spp. under contrasting regimes of temperature and water ﬂow. Mar. Biol.
+pH 7.6 (ca. 2105 μatm PCO2, see Hall et al., 2012) (Hall et al., 2015),                                 157, 887–897.
+                                                                                                  Edmunds, P.J., Wall, C.B., 2014. Evidence that high pCO2 affects protein metabolism in
+and P. astreoides at 1381 μatm PCO2 (Renegar et al., 2008), the resilience                              tropical reef corals. Biol. Bull. 227, 68–77.
+of wound healing in massive Porites spp. may have a threshold around                              Edmunds, P.J., Brown, D., Moriarty, V., 2012. Interactive effects of ocean acidiﬁcation and
+1000 μatm PCO2, beyond which impairment occurs. Together, the pres-                                     temperatyre on two scleractinian corals from Moorea, French Polynesia. Glob. Chang.
+                                                                                                        Biol. 12, 2173–2183.
+ent results suggest that damaged massive Porites spp. will be able to                             Erez, J., Reynaud, S., Silverman, J., Schneider, K., Allemand, D., 2011. Coral calciﬁcation
+maintain tissue regeneration and perhaps calciﬁcation at PCO2 values ex-                                under ocean acidiﬁcation and global change. In: Dubinsky, Z., Stambler, N. (Eds.),
+pected by the end of the current century.                                                               Coral Reefs: An Ecosystem in Transition. Springer, Dordrecht, pp. 151–176.
+                                                                                                  Fabricuis, K., Langdon, C., Uthicke, S., Humphrey, C., Noonan, S., et al., 2011. Loser and win-
+                                                                                                        ners in coral reefs acclimatized to elevated carbon dioxide concentrations. Nat. Clim.
+Acknowledgements                                                                                        Chang. 1, 165–169.
+                                                                                                  Fitt, W.K., McFarland, F.K., Warner, M.E., Chilcoat, G.C., 2000. Seasonal patterns of tissue
+                                                                                                        biomass and densities of symbiotic dinoﬂagellates in reef corals and relation to
+    This research was supported by grants from the U.S. National Science                                coral bleaching. Limnol. Oceanogr. 45, 677–685.
+Foundation (OCE 04-17412, 10-26851, 12-36905, and 14-15268), and                                  Forsman, Z.H., Barshis, D.J., Hunter, C.L., Toonen, R.J., 2009. Shape-shifting corals: molecu-
+                                                                                                        lar markers show morphology is evolutionarily plastic in Porites. BMC Evol. Biol. 9, 45.
+gifts from the Gordon and Betty Moore Foundation. We are grateful to                              Frydl, P., 1979. The effect of parrotﬁsh (Scaridae) on coral in Barbados, W.I. Int. Rev.
+N. Evensen, and V. Moriarty for assistance in the ﬁeld. This is contribu-                               Hydrobiol. 64, 737–748.
+tion number 248 of the marine biology program of California State Uni-                            Hall, E.R., D., V., M.P., C., 2012. Development of ocean acidiﬁcation ﬂow-thru experimental
+                                                                                                        raceway units (OAFTERU). Proc. 12th Int. Coral Reef Symp. 8D_2.
+versity, Northridge, and the work represents a portion of the MS thesis                           Hall, E.R., DeGroot, B.C., Fine, M., 2015. Lesion recovery of two scleractinian corals under
+research completed by A. Yarid. [SS]                                                                    low pH conditions: Implications for restoration efforts. Mar. Pollut. Bull. 100,
+                                                                                                        321–326.
+                                                                                                  Hennige, S.J., Smith, D.J., Perkins, R., Consalvey, M., Paterson, D.M., Suggett, D.J., 2008.
+References                                                                                              Photoacclimation, growth and distribution of massive coral species in clear and tur-
+                                                                                                        bid waters. Mar. Ecol. Prog. Ser. 369, 77–88.
+Abràmofff, M.D., Magalhães, P.J., Ram, S.J., 2004. Image processing with ImageJ part II.          Henry, L.A., Hart, M., 2005. Regeneration from injury and resource allocation in sponges
+    Biophoton. Int. 7, 36–42.                                                                           and corals - a review. Int. Rev. Hydrobiol. 90, 125–158.
+Anthony, K.R.N., Kline, D.I., Diaz-Pulido, G., Dove, S., Hoegh-Guldberg, O., 2008. Ocean          Hixon, M.A., 1997. The effects of reef ﬁshes on corals and algae. In: Birkeland, C. (Ed.), Life
+    acidiﬁcation causes bleaching and productivity loss in coral reef builders. Proc. Natl.             and Death of Coral Reefs. Chapman and Hall, New York, pp. 230–248.
+    Acad. Sci. U. S. A. 105, 17442–17446.                                                         Horwitz, R., Fine, M., 2014. High CO2 detrimentally affects tissue regeneration of Red Sea
+Bellwood, D.R., Choat, J.H., 1990. A functional analysis of grazing in parrotﬁshes (family              corals. Coral Reefs 33, 819–829.
+    Scaridae): the ecological implications. Environ. Biol. Fish 28, 189–214.                      Hughes, R.N., 1983. Evolutionary ecology of colonial reef-organisms, with particular refer-
+Bindoff, N.L., Willebrand, J., Artale, V., Cazenave, A., Gregory, J., Gulev, S., Hanawa, K., Le         ence to corals. Biol. J. Linn. Soc. 20, 39–58.
+    Quéré, C., Levitus, S., Nojiri, Y., Shum, C.K., L.D., T., Unnikrishnan, A., 2007. Observa-    Hughes, T.P., Jackson, J.B.C., 1985. Population dynamics and life histories of foliaceous
+    tions: oceanic climate change and sea level. In: Solomon, S., Qin, D., Manning, M.,                 corals. Ecol. Monogr. 55, 141–166.
+    Chen, Z., Marquis, M., Averyt, K.B., Tignor, M., Miller, H.L. (Eds.), Climate Change          Hurlbert, S.H., 1984. Pseudoreplication and the design of ecological ﬁeld experments. Ecol.
+    2007: The Physical Science Basis. Contribution of Working Group I to the Fourth As-                 Monogr. 54, 187–211.
+    sessment Report of the Intergovernmental Panel on Climate Change. Cambridge Uni-              Jackson, J.B.C., 1979. Morphological strategies of sessile animals. In: Larwood, G., Rosen,
+    versity Press, Cambridge, and New York.                                                             B.R. (Eds.), Biology and Systematics of Colonial Organisms. Academic Press, London
+Bosserelle, P., Berteaux-Lecellier, V., Chancerelle, Y., Hédouin, L., Nugues, M., Wallace, C.,          and New York, pp. 499–553.
+    Pichon, M., 2014. Guide d'identiﬁcation des coraux de Moorea. CRIOBE, Perpignan               Jackson, J.B.C., Coates, A.G., 1986. Life cycles and evolution of clonal (modular) animals.
+    Moorea.                                                                                             Phil. Trans. R. Soc. London 313, 7–22.
+104                                             P.J. Edmunds, A. Yarid / Journal of Experimental Marine Biology and Ecology 486 (2017) 98–104
+
+Kaniewska, P., Campbell, P.R., Kline, D.I., Rodriguez-Lanetty, M., Miller, D.J., Dove, S.,       Pan, T.-C.F., Applebaum, S.L., Manahan, D.T., 2015. Experimental ocean acidiﬁcation alters
+    Hoegh-Guldberg, O., 2012. Major cellular and physiological impacts of ocean acidiﬁ-              the allocation of metabolic energy. Proc. Natl. Acad. Sci. U. S. A. 2015, 2–7.
+    cation on a reef building coral. PLoS One 7, e34659.                                         Pratchett, M.S., Anderson, K.D., Hoogenboom, M.O., Widman, E., Baird, A.H., Pandolﬁ, J.M.,
+Kroeker, K.J., Kordas, R.L., Crim, R., Hendriks, I.E., Ramajo, L., Singh, G.S., Duarte, C.M.,        Edmunds, P.J., Lough, J.M., 2015. Spatial, temporal and taxonomic variation in coral
+    Gattuso, J.P., 2013. Impacts of ocean acidiﬁcation on marine organisms: quantifying              growth - implications for the structure and function of coral reef ecosystems.
+    sensitivities and interaction with warming. Glob. Chang. Biol. 19, 1884–1896.                    Oceanogr. Mar. Biol. Annu. Rev. 53, 215–296.
+Lavigne, H., Gattuso, J.P., 2012. Seacarb, seawater carbonate chemistry with R. R package        Reese, E.S., 1977. Coevolution of corals and coral feeding ﬁshes of the family
+    version 2.4.10. http://CRAN.R-project.org/package=seacarb (2013).                                Chaetodontidae. Proc. 3rd Int. Coral Reef Symp. 1, 267–274.
+Lenihan, H.S., Edmunds, P.J., 2010. Response of Pocillopora verrucosa to corallivory varies      Renegar, D.A., Blackwelder, P.L., Moulding, A.L., 2008. Coral ultrastructural response to el-
+    with environmental conditions. Mar. Ecol. Prog. Ser. 409, 51–63.                                 evated pCO2 and nutrients during tissue repair and regeneration. Proc. 11th Int. Coral
+Loya, Y., 1976. Skeletal regeneration in a Red Sea scleractinian coral population. Nature            Reef Symp. 2, 1320–1324.
+    261, 490–491.                                                                                Rinkevich, B., 1996. Do reproduction and regeneration in damaged corals compete for en-
+Marsh, J.A., 1970. Primary productivity of reef-building calcareous red algae. Ecology 51,           ergy allocation? Mar. Ecol. Prog. Ser. 143, 297–302.
+    255–263.                                                                                     Rotjan, R.D., Lewis, S.M., 2005. Selective predation by parrotﬁshes on the reef coral Porites
+Meesters, E.H., Noordeloos, M., Bak, R.P.M., 1994. Damage and regeneration: links to                 astreoides. Mar. Ecol. Prog. Ser. 305, 193–201.
+    growth in the reef-building coral Montastrea annularis. Mar. Ecol. Prog. Ser. 112,           Rotjan, R.D., Lewis, S.M., 2008. Impact of coral predators on tropical reefs. Mar. Ecol. Prog.
+    119–128.                                                                                         Ser. 367, 73–91.
+Meesters, E.H., Wesseling, I., Bak, R.P.M., 1996. Partial mortality in three species of reef-    Schneider, K., Erez, J., 2006. The effect of carbonate chemistry on calciﬁcation and photo-
+    building corals and the relation with colony morphology. Bull. Mar. Sci. 58, 838–852.            synthesis in the hermatypic coral Acropora eurystoma. Limnol. Oceanogr. 51,
+Meesters, E.H., Pauchli, W., Bak, R.P.M., 1997. Predicting regeneration of physical damage           1284–1293.
+    on a reef-building coral by regeneration capacity and lesion shape. Mar. Ecol. Prog.         Thornhill, D.J., Rotjan, R.D., Todd, B.D., Chilcoat, G.C., Iglesias-Prieto, R., Kemp, D.W.,
+    Ser. 146, 91–99.                                                                                 LaJeunesse, T.C., Reynolds, J.M., Schmidt, G.W., Shannon, T., Warner, M.E., Fitt, W.K.,
+Muscatine, L., Falkowski, P., Porter, J., Dijbinsky, Z., 1984. Fate of photosynthetically-ﬁxed       2011. A connection between colony biomass and death in Caribbean reef-building
+    carbon in light and shade adapted colonies of the symbiotic coral Stylophora pistillata.         corals. PLoS One 6, e29535.
+    Proc. Roy. Soc. London 222, 181–202.                                                         van Vuuren, D.P., Edmonds, J., Kainuma, M., Riahi, K., Thomson, A., Hibbard, K., Hurtt, G.C.,
+Nagelkerken, I., Bak, R., 1998. Differential regeneration of artiﬁcial lesions among sympat-         Kram, T., Krey, V., Lamarque, J.F., Masui, T., Meinshausen, M., Nakicenovic, N., Smith,
+    ric morphs of the Caribbean corals Porites astreoides and Stephanocoenia michelinii.             S.J., Rose, S.K., 2011. The representative concentration pathways: an overview. Cli-
+    Mar. Ecol. Prog. Ser. 171, 279–283.                                                              mate Change 109, 5–31.
+Nagelkerken, I., Meesters, E.H., Bak, R.P.M., 1999. Depth-related variation in regeneration      Veron, J.E.N., Pichon, M., 1982. Scleractinia of Eastern Australia. Part IV: Family Poritidae.
+    of artiﬁcial lesions in the Caribbean corals Porites astreoides and Stephanocoenia               Australian Institute of Marine Science and Australian National University Press.
+    michelinii. J. Exp. Mar. Biol. Ecol. 234, 29–39.                                             Washburn, L., 2015. MCR LTER: coral reef: ocean currents and biogeochemitsry: salinity,
+Oren, U., Benayahu, Y., Lubinevsky, H., Loya, Y., 2001. Colony integration during regener-           temperature and current at CTD and ADCP mooring FOR05 from 2005 ongoing.
+    ation in the stony coral Favia favus. Ecology 82, 802–813.                                       Knb-lter-mcr.30.30.
+Palumbi, S.R., Jackson, J.B.C., 1982. Ecology of cryptic coral reef communities. II. Recovery
+    from small disturbance events by encrusting bryozoa: the inﬂuence of “host” species
+    and lesion size. J. Exp. Mar. Biol. Ecol. 64, 103–115.
+

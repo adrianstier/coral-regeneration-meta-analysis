@@ -1,0 +1,508 @@
+                                              Reports
+Ecology, 94(8), 2013, pp. 1667–1674
+! 2013 by the Ecological Society of America
+
+
+
+
+             Synergistic effects of algal overgrowth and corallivory
+                        on Caribbean reef-building corals
+                                       ALEXANDER T. WOLF1,4 AND MAGGY M. NUGUES1,2,3
+         1
+          Coral Reef Ecology Group (CORE), Leibniz Center for Tropical Marine Ecology (ZMT), Fahrenheitstrasse 6,
+                                                  28359 Bremen, Germany
+      2
+       Laboratoire d’Excellence ‘‘CORAIL’’ and USR 3278 CRIOBE CNRS-EPHE, CBETM de l’Universite´ de Perpignan,
+                                               66860 Perpignan Cedex, France
+  3
+    Caribbean Research and Management of Biodiversity (CARMABI), Piscaderabaai z/n, P.O. Box 2090, Willemstad, Curaçao
+
+                 Abstract. Indirect biotic interactions play a crucial role in structuring ecological
+             communities, but many of these interactions have not been explored. Algal competition and
+             corallivory are two major stressors contributing to the decline of coral reefs. Here, we provide
+             the first evidence of algal-induced corallivory and synergistic effects between the two stressors
+             on corals. When corals (Montastraea faveolata) were placed in contact with algae (Halimeda
+             opuntia) together with corallivorous fireworms (Hermodice carunculata) in aquaria, corals
+             suffered high tissue mortality. This mortality was reduced in the presence of algae only, and no
+             mortality occurred in the presence of fireworms only or when excluding both algae and
+             fireworms. These findings were supported by field observations showing a predominance of
+             fireworms inside algae contacting live corals, and by an in situ experiment demonstrating
+             higher coral mortality in contact with algae left undisturbed than with algae from which all
+             mobile epifauna were periodically removed. Among the main contributing mechanisms, we
+             suggest that algal contact produces decaying coral tissue that attracts the corallivore and
+             enhances its aggregation behavior. Our study demonstrates an indirect effect pathway by
+             which algae can impact corals, which shares similarities with the classic models of apparent
+             competition and habitat facilitation.
+                 Key words: apparent competition; Caribbean; coral; corallivory; disease; habitat facilitation;
+             interaction modification; macroalgae; trait-mediated indirect interactions.
+
+
+                         INTRODUCTION                          2002). However, although interest in indirect effects has
+  Indirect biotic effects occur when one organism or           escalated over the past decades (Wootton 2002), many
+species impacts another through intermediaries such as         of them remain unexplored.
+shared resources or common enemies (Menge 1995).                  Coral reefs are in global decline, with benthic algae
+They are ubiquitous across taxa and habitats (Menge            commonly replacing corals, a trend that is driven by
+1995, Chaneton and Bonsall 2000) and can propagate             algal overgrowth of live and recently dead corals
+through ecological communities by changes in species           (McManus and Polsenberg 2004). Coral-algal competi-
+abundance through direct consumption, and/or by                tion is known to be mediated through complex
+changes in species traits, such as behavior, morphology,       interactions by various components of the reef commu-
+and/or life history (Werner and Peacor 2003). Because          nity, including herbivores, predators, and microbes
+indirect effects can alter the strength of, or even reverse,   (Pennings 1997, McManus and Polsenberg 2004, Barott
+a direct interaction between species, knowledge about          and Rohwer 2012). However, the role of corallivores in
+indirect links is vital to an understanding of ecological      coral-algal competition has not been investigated
+communities, especially today when ecosystems are              (Mumby 2009). Corallivory is an important, but often
+experiencing a variety of novel perturbations (Wootton         underestimated, biotic stressor for coral reefs (Rotjan
+                                                               and Lewis 2008). In the Indo-Pacific, the seastar
+                                                               Acanthaster planci kills more coral than any other
+  Manuscript received 27 April 2012; revised 3 April 2013;
+accepted 17 April 2013. Corresponding Editor: J. F. Bruno.     disturbances (Fabricius et al. 2010). In the Caribbean,
+  4 E-mail: alexthomaswolf@gmail.com                           corallivores have not been thought of as constituting a
+                                                           1667
+          1668                             ALEXANDER T. WOLF AND MAGGY M. NUGUES                           Ecology, Vol. 94, No. 8
+
+          significant cause of coral mortality (Mumby 2009).            corals. We also collected H. opuntia overgrowing the
+          However, a number of invertebrate corallivores have           coral M. faveolata and algae overgrowing dead coral
+          recently been found to be associated with coral diseases      skeletons only at three other sites on the island (Marie
+          or to act as vectors of coral pathogens, such as the          Pompoen, 12805.525 0 N 68854.516 0 W; Spanish Water,
+          amphinomid fireworm Hermodice carunculata (Sussman            12803.790 0 N, 68851.190 0 W; and Playa Kalki, 12822.530 0
+          et al. 2003, Miller and Williams 2006) and the                N, 69809.470 0 W). After removing each clump of algae
+          corallivorous snail Coralliophila abbreviata (Williams        overgrowing live coral tissue, coral health underneath
+          and Miller 2005). Corallivorous invertebrates are             the algae was scored as follows: 1, tissue normal; 2,
+          common algal dwellers, presumably for food, shelter           tissue partially bleached; 3, tissue completely bleached;
+          and/or recruitment. These organisms could influence           4, tissue ,50% dead; 5, tissue "50% dead. Back in the
+          coral-algal interactions through feeding and transmis-        laboratory, all fireworms were separated from the algal
+          sion of disease, creating an indirect effect pathway by       segments, identified microscopically following Fauchald
+          which algae could affect corals.                              (1977), and counted. Sampling was carried out between
+             We investigated the role of the corallivorous fireworm     March and April 2010.
+          H. carunculata in interactions between the green                 Field experiment.—We tested the effect of H. opuntia-
+          calcareous alga Halimeda opuntia and Caribbean reef-          associated epifauna on corals at Carmabi Buoy Zero
+          building corals. H. opuntia provides a complex three-         (12807.417 0 N, 68858.592 0 W) in Curaçao. Colonies of
+          dimensional framework known to host a wide variety of         M. faveolata were haphazardly chosen swimming along
+          invertebrates, including fireworms (Naim 1988). It is         the reef terrace. They were used in the experiment if the
+          also known to cause coral mortality and disease (Nugues       colonies showed no sign of disease and were not
+          et al. 2004). H. carunculata is commonly observed             overgrown by algae. The coral M. faveolata was chosen
+          feeding on diseased corals (Miller and Williams 2006)         for this study as it is a major reef building species, and
+          and has been shown to act as a vector of the coral-           adult corals are abundant. Also, our field survey had
+          bleaching pathogen Vibrio shiloi in the Mediterranean         indicated a high abundance of fireworms in H. opuntia in
+
+
+
+
+Reports
+          (Sussman et al. 2003). We hypothesized that corallivory       contact with this species. The colonies were tagged and
+          by the worm could enhance mortality in corals                 randomly allocated to one of the following five
+          interacting with the alga. First, we investigated the         treatments (n ¼ 20 colonies each): T1, H. opuntia added,
+          abundance of the worm in algae overgrowing different          a clump (;90 g wet mass) of H. opuntia with all epifauna
+          coral species and related its abundance with coral health     removed in the lab was put inside a nylon mesh bag (1-
+          in the field. Second, we tested the effects of whole algal-   cm mesh) and positioned to overgrow ;90 cm2 of living
+          associated epifauna on coral bleaching, death and             coral surface using rubber bands and nails inserted onto
+          disease in interactions between H. opuntia and the coral      nearby dead coral substrate, with no further manipula-
+          Montastraea faveolata in a field experiment. Finally, we      tion; T2, H. opuntia added, epifauna removed, as with
+          examined the separate and combined effects of the algae       T1 but the mesh bag was retrieved every five days, all
+          and the worm on coral bleaching and mortality under           epifauna was removed from the alga in the lab, and the
+          laboratory conditions. This last experiment was also          mesh bag with the alga was returned to its initial
+          performed using another corallivore, the snail C.             position on the same day; T3, H. opuntia mimic, a plastic
+          abbreviata.                                                   aquarium plant of similar structure and size was used
+                                                                        instead of the living alga, the epifauna was not removed
+                         MATERIALS AND METHODS                          during the experiment; T4, procedural control, only a
+             Field survey.—If H. carunculata is using H. opuntia to     nylon mesh bag was placed in contact with the coral
+          feed on corals, it should be more abundant in algae           tissue; T5, control, the coral colony was left untouched.
+          overgrowing living corals compared to algae exclusively       The H. opuntia mimic treatment was used to distinguish
+          covering dead coral skeleton, and its abundance should        between the biological and physical properties of the
+          be negatively associated with coral health. Additionally,     alga. In addition, 20 nylon mesh bags with similarly
+          since corallivores commonly exhibit prey preferences          sized clumps of H. opuntia were placed onto dead coral
+          (Rotjan and Lewis 2008), their abundance in the algae         substrate .1 m away from any living corals (T6) to
+          could differ among coral species. To test these hypoth-       control for the effect of coral-algal contact on H.
+          eses, clumps of H. opuntia overgrowing live tissue from       carunculata.
+          five coral species (M. faveolata, Montastraea cavernosa,         The experiment was run for 25 days (20 March–14
+          Siderastrea siderea, Colpophyllia natans, Diploria strigo-    April 2010). All replicates were checked every five days.
+          sa) and dead coral skeleton only (n ¼ 11–14 replicates)       H. opuntia clumps remained healthy for the duration of
+          were haphazardly collected using Ziploc bags (SC              the study. At the end of the experiment, the mesh bags
+          Johnson, Racine, Wisconsin, USA) by swimming along            were collected using Ziploc bags. The surface areas of
+          the reef terrace (4–8 m depth) at Carmabi Buoy One            recently dead coral, bleached, and healthy tissue
+          (12807.551 0 N, 68858.529 0 W) in Curaçao, in the            underneath the mesh bag were measured to the nearest
+          southern Caribbean. Clumps overgrowing dead coral             cm2 using a flexible transparent plastic grid divided into
+          skeletons only were collected .1 m away from any living       100 1 3 1 cm square cells and were expressed as
+August 2013                    CORAL-ALGAL COMPETITION AND CORALLIVORY                                               1669
+
+percentage of total area covered by the bag. The controls     experiment, the mesh bags were collected using Ziploc
+(T5) suffered no mortality and had 100% healthy tissue.       bags and the surface areas of recently dead coral,
+In addition, signs of white plague, in the form of recently   bleached, and healthy tissue were measured. Complete
+dead tissue characterized by a sharp and regular              fragment mortality was also recorded. Upon complete
+demarcation between apparently healthy coral tissue           death, fragments showed rapid tissue disintegration and
+and freshly denuded skeleton often extending beyond           white plague signs typical of the natural conditions were
+the algal overgrown area were recorded. Back in the           not observed.
+laboratory, all epifauna were removed from the living            Statistical analyses.—Data from our field survey and
+and mimic H. opuntia and mesh bags. H. carunculata            field experiment violated parametric assumptions, so
+were identified and counted.                                  nonparametric or semiparametric statistics were used. In
+   Laboratory experiment.—The field experiment had its        the field survey, the biomass of algal clumps varied from
+limitations since we could not remove H. carunculata          20 to 150 g dry mass. Since it could influence coral
+without removing the reminder of the epifauna, access         health and subsequently fireworm abundance, it was
+by H. carunculata could not be controlled and the algae       included as a covariate where applicable. Differences
+had to be periodically disturbed to remove the epifauna.      among contact substrates (different coral species and
+We therefore performed a laboratory experiment in             dead coral) were assessed using PERMANOVA with
+which we could control the presence/absence of H.             substrate as fixed factor and algal dry mass as covariate.
+carunculata without disturbing the algae and study the        The effects of overgrown substrata (M. faveolata and
+independent and combined effects of the fireworm and          dead coral) and sites on fireworm abundance were
+H. opuntia on M. faveolata. Four outdoor 1 m3 (1 3 1 3        assessed using PERMANOVA with substrate as fixed
+1 m) aquaria were each split in two equal sections,           factor, site as random factor and algal dry mass as
+provided with flow-through seawater (;4–5 L/minute)           covariate. All PERMANOVAs were based on Gower
+subject to natural daily temperature fluctuations (range      dissimilarity measures, appropriate for ecological data
+29.48 to 30.88C), and shaded to ensure light conditions       sets with many zero (Anderson et al. 2006). Differences
+
+
+
+
+                                                                                                                             Reports
+similar to the depth range at which all organisms were        in coral health scores were tested using an ordinal
+collected (;30% of the incident surface photosyntheti-        logistic regression including fireworm abundance in H.
+cally active radiation). One section of each aquarium         opuntia and algal dry mass as covariates. To determine
+was randomly allocated to one of two corallivore              whether the worms were aggregated, the frequency
+treatments: (1) corallivores present, 30 fireworms (;3–       distribution of the number of worms per algal clump
+6 cm in length, collected in H. opuntia clumps) were          with 0 to four or more worms was tested for goodness of
+added, and (2) corallivores absent, no fireworms added.       fit to a Poisson distribution with a G test after Williams’s
+Within each section, six coral fragments of similar size      correction to avoid type I error (Sokal and Rohlf 1995).
+(;300 cm2) and free of epifauna were placed and               For this test, sites and coral species were pooled.
+randomly allocated to one of two algae treatments: (1)        However, separate analyses were run for algal clumps
+H. opuntia present, a clump (;90 g wet mass) of H.            contacting live and dead corals (n ¼ 95 and 51 clumps,
+opuntia with all epifauna removed was placed inside a         respectively) to determine the influence of live coral on
+nylon mesh bag (1 cm mesh) and positioned with cable          the worm behavior.
+ties to overgrow ;90 cm2 of living coral surface, and (2)        Data for the field experiment were analyzed using
+H. opuntia absent, no H. opuntia and mesh bag were            Kruskal-Wallis ANOVA on Ranks, followed by Stu-
+added (Appendix A: Fig. A1). Coral fragments were 20–         dent-Newman-Keuls post hoc tests on Ranks. Differ-
+25 cm apart. All organisms were collected on the reef         ences in the prevalence of white plague were analyzed
+terrace at Carmabi Buoy Zero. Coral fragments were            using a heterogeneity G test, followed by a simultaneous
+removed from the reef by breaking off columns below           test procedure (STP) to determine homogeneous groups
+the live coral to avoid tissue damage and acclimated for      (Sokal and Rohlf 1995). Data for the aquarium
+five days in the experimental aquaria prior to experi-        experiment were arcsine square root transformed to
+mentation. The same experiment was also carried out           conform to assumptions of normality and homogeneity
+using the corallivorous snail C. abbreviata and the coral     of variance and analyzed by a nested three-way ANOVA
+Montastraea annularis, which is commonly infested by          with plot (i.e., aquaria) as random factor, tank sections
+the snail (Baums et al. 2003). In this second experiment,     nested within plot and corallivores and algae treatments
+60 snails were added to each section assigned to the          as fixed factors. Aggregative behavior was tested as
+corallivores present treatment.                               above (n ¼ 12 algal clumps, pooled aquaria).
+   The experiments were run for 24 days (16 October to 9
+November 2010 for H. carunculata and 18 November to                                    RESULTS
+12 December 2010 for C. abbreviata). Tank surfaces              Field survey.—All the fireworms found in H. opuntia
+were cleaned every two days with scouring pads. All           were identified as being H. carunculata, which also was
+replicates were checked during the tank cleaning              the largest corallivore commonly present. The coralliv-
+process. H. opuntia and corallivores remained healthy         orous snail C. abbreviata was found in only five of 146
+for the duration of the study. At the end of the              collected H. opuntia clumps, compared to 71 clumps
+          1670                               ALEXANDER T. WOLF AND MAGGY M. NUGUES                                 Ecology, Vol. 94, No. 8
+
+
+
+
+Reports
+             FIG. 1. (a) Fireworm abundance in Halimeda opuntia (means þ SE, n ¼ 11–14 replicates) and scores of coral health for all six
+          contact substrates (Montastraea faveolata, Montastraea cavernosa, Siderastrea siderea, Colpophyllia natans, and Diploria strigosa)
+          at Carmabi Buoy One and for Montastraea faveolata and dead coral skeleton at three other sites on Curaçao. Data on fireworm
+          abundance at Carmabi Buoy One were analyzed by PERMANOVA. Letters indicate homogeneous subgroups by post hoc pairwise
+          comparisons. (b) Scores of coral health observed underneath H. opuntia as a function of fireworm density (logarithmic scale). The
+          number of interactions for each density class is in parenthesis. All coral species and sites were pooled. DM stands for dry mass.
+
+
+          containing H. carunculata. The negligible impact of C.            dry mass had a negative effect on coral health (intercepts
+          abbreviata associated with H. opuntia was supported by            ¼ 0.46 6 0.09 and 0.03 6 0.01, P , 0.001, Fig. 1b). The
+          the lack of relationship between the snail abundance in           frequency distribution of worms in the algal clumps
+          the clumps and tissue condition under the alga (ordinal           overgrowing both live and dead corals significantly
+          logistic regression, P ¼ 0.264) and the result of our             differed from a Poisson distribution (adjusted G test,
+          laboratory experiment (see below). Thus, field data on            Gadj ¼ 48.83 and 27.48, respectively, df ¼ 4, P , 0.001),
+          C. abbreviata were not presented.                                 demonstrating aggregative behavior in both cases.
+            At Carmabi Buoy One, the abundance of H.                        However, the Gadj value was markedly higher for live
+          carunculata in the algal clumps was highest in corals             compared to dead coral, suggesting that this behavior is
+          overgrown with large sized clumps and varied signifi-             enhanced by the presence of live coral.
+          cantly among overgrown substrata (PERMANOVA,                         Field experiment.—The number of fireworms removed
+          algal dry mass pseudo-F ¼ 18.21, df ¼ 1, P ¼ 0.001;               every five days in the H. opuntia added, epifauna
+          substrate pseudo-F ¼ 2.37, df ¼ 5, P ¼ 0.041). There were         removed (T2) treatment, averaged 1.09 6 0.26 (mean
+          more fireworms in H. opuntia overgrowing all coral                6 SE) individuals per 100 g algal dry mass (n ¼ 100
+          species except C. natans than in algae overgrowing dead           replicates) and did not differ among retrieval times
+          coral (Fig. 1a). The difference in fireworm abundances            (Kruskal-Wallis ANOVA on ranks, H ¼ 3.65, df ¼ 4, P ¼
+          between M. faveolata and dead coral was consistent                0.45). At the end of the experiment, there were
+          among sites, with site having no influence (substrate P ¼         significantly more fireworms in the H. opuntia added
+          0.030; site and substrate 3 site interaction P . 0.05;            (T1) treatment compared to all other treatments,
+          algal dry mass P ¼ 0.044). Negative relationships                 including the epifauna removed (T2) treatment (Fig.
+          between fireworm abundance and tissue condition under             2a), indicating that the removal treatment effectively
+          the algae were found for M. faveolata and S. siderea at           reduced the abundance of fireworms. Paralleling pat-
+          Carmabi Buoy One (intercepts ¼ 0.69 6 0.31 and 0.78 6             terns of fireworm abundance, the percentage of recently
+          0.40 [mean 6 SE], P ¼ 0.028 and P ¼ 0.042, respectively),         dead tissue was significantly higher in the H. opuntia
+          with algal dry mass having no effect (P . 0.05). Pooling          added (T1) treatment compared to all other treatments,
+          species and sites, both fireworm abundance and algal              including the epifauna removed (T2) and H. opuntia
+August 2013                    CORAL-ALGAL COMPETITION AND CORALLIVORY                                                   1671
+
+mimic (T3) treatments (Fig. 2b and Appendix B: Fig.
+B1). These results suggest that the epifauna increased
+coral mortality in contact with living algae, but that this
+effect was not reproduced using mimic algae. The
+percentage of bleached tissue was highest in the epifauna
+removed (T2) treatment, followed by the mimic (T3) and
+H. opuntia added (T1) treatments (Fig. 2c). Thus, coral
+bleaching did not increase in response to the epifauna
+and seemed largely caused by physical mechanisms.
+   Signs of white plague were observed in six (30%) of
+the 20 transplants in the H. opuntia-added (T1)
+treatment, only one (5%) of the transplants in the
+epifauna-removed (T2) treatment, and in none of the
+transplants in the other treatments. Differences among
+treatments were significant (heterogeneity G test, GH ¼
+39.58, df ¼ 4, P , 0.005, n ¼ 20; Fig. 2d). STP tests
+indicated that fT1, T2g and fT2, T3, T4, T5g formed
+two homogenous groups. Thus, these results support a
+positive trend between the algae and coral disease, but
+we cannot conclusively attribute the disease to the sole
+effect of the algal-associated epifauna.
+   Laboratory experiment.—In the experiment with H.
+carunculata, coral mortality was affected by both H.
+opuntia and the presence of the predator, as indicated by
+
+
+
+
+                                                                                                                                 Reports
+the significant interaction between these factors (Fig. 3a,
+Appendix B: Fig. B2, Appendix C: Table C1). In the
+absence of algae, coral mortality was not recorded
+regardless of predator presence or absence. However,
+when corals were overgrown by algae, the presence of H.
+carunculata increased coral mortality (nested two-way
+ANOVA with plot and corallivores, F1,20 ¼ 4.97, P ¼
+0.026; Table C2). This effect did not occur with C.
+abbreviata (Fig. 3b). Coral bleaching was only affected
+by H. opuntia, with significantly increased bleaching
+with the algae present (Fig. 3c, d). Both corallivores had
+no influence on coral bleaching. Only one and two
+fragments in the experiments with H. carunculata and C.
+abbreviata respectively died, so no significant trends
+were detected in the occurrence of whole fragment
+mortality. The frequency distribution of H. carunculata
+in the algal clumps significantly differed from a Poisson
+distribution (Gadj ¼ 18.06, df ¼ 4, P , 0.001),
+demonstrating aggregative behavior. In contrast, C.
+abbreviata showed no aggregative behavior (Gadj ¼ 3.49,
+df ¼ 4, P . 0.05).                                               FIG. 2. Effect of algal-associated epifauna treatments on
+                                                              Montastraea faveolata. Treatments are: T1, Halimeda added,
+                       DISCUSSION                             epifauna untouched; T2, Halimeda added, epifauna removed;
+                                                              T3, Halimeda mimic; T4, procedural control; T5, control; T6,
+   This study suggests an interactive effect of predation     dead coral. Treatments are more fully described in Materials
+by an invertebrate corallivore and overgrowth by an           and methods: Field experiment. (a) Fireworm abundance in
+algal species on coral mortality. Contact with algae          mesh bags or experimental control area, (b) coral mortality, (c)
+                                                              coral bleaching, and (d) prevalence of white plague for the
+together with the addition of fireworms produced high         different treatments. Data were analyzed by Kruskal-Wallis
+coral tissue mortality. This mortality was significantly      ANOVA on ranks (a–c) or heterogeneity G test (d). Letters
+reduced in the presence of algae only, and no mortality       indicate homogeneous subgroups by post hoc Student-
+occurred in the presence of fireworms only and when           Newman-Keuls tests (a–c) or simultaneous test procedure (d).
+                                                              Values are means þ SE (n ¼ 20 colonies); na stands for not
+excluding both algae and fireworms. Both hypotheses
+                                                              applicable.
+regarding the distribution of H. carunculata in H.
+opuntia and their association with coral health in the
+field were validated, lending further support for the
+          1672                               ALEXANDER T. WOLF AND MAGGY M. NUGUES                                Ecology, Vol. 94, No. 8
+
+
+
+
+             FIG. 3. Independent and combined effects of Halimeda opuntia and corallivores on (a, b) coral mortality and (c, d) bleaching.
+
+
+
+
+Reports
+          Data are for (a, c) Hermodice carunculata on Montastraea faveolata and (b, d) Coralliophila abbreviata on Montastraea annularis.
+          Treatments are: C, corallivores treatment; A, algae (H. opuntia) treatment. Statistics are from a nested three-way ANOVA. Values
+          are means þ SE (n ¼ 4 aquaria).
+
+
+          relevance of our experimental results. Fireworm abun-            (e.g., abrasion, shading [McCook et al. 2001]), coral
+          dance was higher in algae overgrowing the coral M.               mortality caused by algae, including H. opuntia, may
+          faveolata than in algae growing exclusively on dead              require direct contact between both competitors and
+          coral, and increased fireworm abundance was associated           involve the release of algal exudates (Smith et al. 2006,
+          with decreased coral health in the form of coral                 Rasher and Hay 2010). Nearby (1–3 cm from colony
+          bleaching and mortality in the contact zone between              edges) contact with H. opuntia produces no coral
+          corals and algae. Finally, the field experiment showed           mortality (Vu et al. 2009). The most likely mechanism
+          increased coral mortality in contact with H. opuntia in          is that H. carunculata was initially attracted by dying
+          the presence of epifauna compared to the algae with              coral tissues produced by algal-induced chemical effects
+          epifauna removed. It is possible that epifauna other than        during direct contact and thereafter both stressors acted
+          H. carunculata contributed to this mortality. However,           in synergy to cause further coral mortality.
+          given the predominance of the worm in H. opuntia, its
+                                                                              There is a precedent for corallivores to prefer
+          association with coral health and the results of our
+                                                                           damaged coral tissue as food source. For instance, the
+          laboratory experiment, H. carunculata is likely to have
+                                                                           coral-feeding wrasse Labrichthys unilineatus has been
+          been a major contributor.
+                                                                           shown to exhibit a strong preference for damaged coral
+             In the field experiment, mimic algae did not produce
+                                                                           tissue (McIlwain and Jones 1997). On Lizard Island,
+          the high coral mortality observed with living algae.
+                                                                           several species of corallivorous fishes selectively targeted
+          There are two possible explanations. First, the algal
+          mimic may not be the preferred habitat for H.                    disease lesions over adjacent healthy coral tissues
+          carunculata and reduced worm densities in algae should,          (Chong-Seng et al. 2011). Such preferences may be
+          in principle, lower their effects on overgrown corals.           caused by a release of olfactory attractants, a reduction
+          While this explanation is plausible, fireworms, although         in feeding deterrents (e.g., nematocysts) and/or higher
+          not numerous, were found in the mimic algae and we               energy rewards in damaged tissue (McIlwain and Jones
+          observed them in a wide variety of other refuges, such as        1997). H. carunculata possesses well-developed olfactory
+          crevices, marine debris and other macroalgae. Alterna-           organs that could facilitate prey detection (Lizama and
+          tively, these results imply that algal-induced corallivory       Blanket 1975). Since the algal mimics attracted low
+          may be associated with chemical instead of physical              numbers of worms although inducing high coral
+          effects produced by the algae. Although benthic algae            bleaching, the presence of dying tissue as opposed to
+          can affect corals via a number of physical mechanisms            bleached tissue may be essential to this detection, and
+August 2013                    CORAL-ALGAL COMPETITION AND CORALLIVORY                                                  1673
+
+metabolites leaking out of dying tissues could act as        mode may allow the worm to opportunistically switch
+olfactory attractants.                                       feeding toward corals damaged by algae.
+   Once corallivores are attracted to the zone of               Our study demonstrates an indirect effect pathway by
+interaction, mechanisms leading to coral mortality           which algae can impact corals that shares similarities
+remain to be elucidated. Gut contents of H. carunculata      with apparent competition and habitat facilitation. In its
+have been found to include coral tissue (Marsden             classical definition, apparent competition occurs when
+1963), confirming that the worm can feed on corals.          an increase in the abundance of one species leads to a
+Aggregative feeding behavior of predators, in particu-       reduction in the abundance of a second species due to
+lar scavengers, can cause high mortality in prey subject     enhanced predation by a shared predator (Connell 1990;
+to even a small degree of stress and/or damage               Fig. 1f in Werner and Peacor 2003). It is an important
+(Ramsay and Kaiser 1998) and constitutes an impor-           determinant of community structure in terrestrial
+tant mechanism driving trait-mediated indirect inter-        (Chaneton and Bonsall 2000) and aquatic systems
+actions (Werner and Peacor 2003). For example,               (Menge 1995). Although fireworms are unlikely to prey
+Schmitt (1987) showed that adding bivalves to plots          on H. opuntia and cannot be considered a shared
+increased predation on gastropods due to aggregative         predator, they contribute to an indirect effect that could
+behavior of invertebrate predators. In our study, the        be mistaken for a direct competitive effect. Likewise,
+worms showed a marked aggregation behavior in H.             facilitation by habitat-modifiers is common in ecological
+opuntia, which appeared to be further enhanced by the        communities. In marine rocky intertidal habitats, Bert-
+presence of live coral. Halimeda alone is able to damage     ness et al. (1999) demonstrated that seaweeds facilitated
+and weaken corals, as confirmed by our algal treat-          green crabs, which in turn ate mussels under the algal
+ments without corallivores and laboratory work (Smith        canopy, closely resembling our study. Among the
+et al. 2006). The alga may thus lead to high coral           mechanisms involved, Halimeda might benefit Hermo-
+mortality by enhancing the aggregative behavior of H.        dice by increasing food supply and providing a refuge
+carunculata. The worms may also modify the physical,         from predators.
+
+
+
+
+                                                                                                                                Reports
+chemical and microbial microenvironment of over-                Evaluating the impact of corallivory on coral reefs has
+grown corals, by excreting particulate wastes and            been equivocal because many corallivores appear to
+leaving remains of decaying tissues that can then be         cause sporadic damage to corals (Mumby 2009). We
+colonized by microbes, increase oxygen demand, and           investigated one species of algae and acknowledge that
+reduce pH. These effects are likely to be exacerbated by     the limited scope of our study prevents broad general-
+the conditions of reduced flow underneath the algal          izations on the interactive effects between algal compe-
+canopy and to add on to the already detrimental effects      tition and corallivory. Nevertheless, numerous algal
+of algae (Hauri et al. 2010). Moreover, a number of          species harm corals (Rasher and Hay 2010) and thus
+corallivores, including H. carunculata, have been            could produce similar synergisms with corallivores.
+implicated as potential disease vectors (Sussman et al.      Interactive effects were not found for one (C. abbreviata)
+2003, Williams and Miller 2005). Our field experiment        of the two experimentally studied corallivores. However,
+supported a relationship between H. opuntia and white        H. carunculata is distributed worldwide in tropical and
+plague signs, reinforcing earlier work at the same site      warm temperate seas. Corallivores, in particular inver-
+(Nugues et al. 2004). However, although trends were          tebrates that can easily find refuge in algae, form a
+suggestive of a role of the algal-associated epifauna in     highly diverse group (Rotjan and Lewis 2008). Inverte-
+the disease process, differences in disease prevalence       brates are often opportunistic feeders that due to their
+between algal treatments with and without epifauna           short life spans and large diet can cope with rapidly
+were not significant. Corallivores may also reduce coral     changing environments. To date, there is evidence that
+                                                             they can interact with acute disturbances such as
+disease progression through selective consumption of
+                                                             hurricanes to compromise recovery of some coral species
+diseased coral tissues (Chong-Seng et al. 2011). Thus,
+                                                             (Knowlton et al. 1990). Their interactions with chronic
+their role in coral diseases is still equivocal.
+                                                             disturbances such as algal competition could be easily
+   The snail C. abbreviata was found in very low
+                                                             unnoticed due to their small size, cryptic habits, and
+abundance in natural clumps of H. opuntia and our
+                                                             little apparent damage and should be of concern in the
+laboratory experiment provided no evidence of interac-
+                                                             face of accelerating and more severe disturbances on
+tion between algal competition and corallivory by this
+                                                             present-day reefs.
+species. C. abbreviata appears to be an obligate
+corallivore eating exclusively live coral (Ward 1965).                             ACKNOWLEDGMENTS
+In contrast, H. carunculata has been observed feeding on        We thank the CARMABI foundation and staff, in particular
+a variety of sessile organisms (Fauchald and Jumars          M. J. A. Vermeij, P. Stokkermans, L. Pors, and C. Winterdaal
+1979) and analyses of its gut contents indicated remains     for logistic support; K. Stolberg, J. Jachtner, D. Nugues and P.
+                                                             Kutter for field assistance; J. Claudet and W. Wosnick for
+of corals, mollusks, polychaetes, and crinoids (Marsden      statistical advice; and M. J. A. Vermeij and R. P. M. Bak for
+1963). Therefore, it appears as a facultative coral feeder   helpful discussions. This research was financially supported by
+that feeds on all kinds of food sources. Such a feeding      the Leibniz Center for Tropical Marine Ecology.
+          1674                                ALEXANDER T. WOLF AND MAGGY M. NUGUES                                    Ecology, Vol. 94, No. 8
+
+                                LITERATURE CITED                             McManus, J. W., and J. F. Polsenberg. 2004. Coral-algal phase
+                                                                               shifts on coral reefs: ecological and environmental aspects.
+          Anderson, M. J., K. E. Ellingsen, and B. H. McArdle. 2006.
+                                                                               Progress in Oceanography 60:263–279.
+            Multivariate dispersion as a measure of beta diversity.
+                                                                             Menge, B. A. 1995. Indirect effects in marine rocky intertidal
+            Ecology Letters 9:683–693.
+                                                                               webs: patterns and importance. Ecological Monographs 65:
+          Barott, K. L., and F. L. Rohwer. 2012. Unseen players shape          21–74.
+            benthic competition on coral reefs. Trends in Microbiology       Miller, M. W., and D. E. Williams. 2006. Coral disease
+            20:621–628.                                                        outbreak at Navassa, a remote Caribbean island. Coral
+          Baums, I. B., W. M. Miller, and A. M. Szmant. 2003. Ecology          Reefs 26:97–101.
+            of a corallivorous gastropod. Coralliophila abbreviata, on two   Mumby, P. J. 2009. Herbivory versus corallivory: are parrotfish
+            scleractinian hosts. I: Population structure of snails and         good or bad for Caribbean coral reefs? Coral Reefs 28:683–690.
+            corals. Marine Biology 142:1083–1091.                            Naim, O. 1988. Distributional patterns of mobile fauna
+          Bertness, M. D., G. H. Leonard, J. M. Levine, P. R. Schmidt,         associated with Halimeda on the Tiahura coral-reef complex
+            and A. O. Ingraham. 1999. Testing the relative contribution        (Moorea, French Polynesia). Coral Reefs 6:237–250.
+            of positive and negative interactions in rocky intertidal        Nugues, M. M., G. W. Smith, R. J. v. Hooidonk, M. I. Seabra,
+            communities. Ecology 80:2711–2726.                                 and R. P. M. Bak. 2004. Algal contact as a trigger for coral
+          Chaneton, E. J., and M. B. Bonsall. 2000. Enemy-mediated             disease. Ecology Letters 7:919–923.
+            apparent competition: empirical patterns and the evidence.       Pennings, S. C. 1997. Indirect interactions on coral reefs. Pages
+            Oikos 88:380–394.                                                  249–272 in C. Birkeland, editor. Life and death of coral reefs.
+          Chong-Seng, K. M., A. J. Cole, M. S. Pratchett, and B. L.            Springer, New York, New York, USA.
+            Willis. 2011. Selective feeding by coral reef fishes on coral    Ramsay, K., and M. J. Kaiser. 1998. Demersal fishing
+            lesions associated with brown band and black band disease.         disturbance increases predation risk for whelks (Buccinum
+            Coral Reefs 30:473–481.                                            undatum L.). Journal of Sea Research 39:299–304.
+          Connell, J. H. 1990. Apparent versus ‘‘real’’ competition in       Rasher, D. B., and M. E. Hay. 2010. Chemically rich seaweeds
+            plants. Pages 9–24 in J. B. Grace and D. Tilman, editors.          poison corals when not controlled by herbivores. Proceedings
+            Perspectives on plant competition. Academic Press, New             of the National Academy of Sciences USA 107:9683–9688.
+            York, New York, USA.                                             Rotjan, R. D., and S. M. Lewis. 2008. Impact of coral
+          Fabricius, K. E., K. Okaji, and G. De’ath. 2010. Three lines of      predators on tropical reefs. Marine Ecology Progress Series
+            evidence to link outbreaks of the crown-of-thorns seastar          367:73–91.
+                                                                             Schmitt, R. J. 1987. Indirect interactions between prey:
+
+
+
+
+Reports
+            Acanthaster planci to the release of larval food limitation.
+            Coral Reefs 29:593–605.                                            apparent competition, predator aggregation, and habitat
+          Fauchald, K. 1977. The polychaete worms: definitions and keys        segregation. Ecology 68:1887–1897.
+            to the orders, families and genera. Science Series 28:1–190.     Smith, J. E., et al. 2006. Indirect effects of algae on coral: algae-
+          Fauchald, K., and P. A. Jumars. 1979. The diet of worms: a           mediated, microbe induced coral mortality. Ecology Letters
+            study of polychaete feeding guilds. Oceanography and               9:835–845.
+            Marine Biology: An Annual Review 17:193–284.                     Sokal, R. R., and F. J. Rohlf. 1995. Biometry. Third edition.
+                                                                               Freeman, New York, New York, USA.
+          Hauri, C., K. E. Fabricius, B. Schaffelke, and C. Humphrey.
+                                                                             Sussman, M., Y. Loya, M. Fine, and E. Rosenberg. 2003. The
+            2010. Chemical and physical environmental conditions
+                                                                               marine fireworm Hermodice carunculata is a winter reservoir
+            underneath mat- and canopy-forming macroalgae, and their
+                                                                               and spring–summer vector for the coral-bleaching pathogen
+            effects on understorey corals. PLoS ONE 5:e12685.
+                                                                               Vibrio shiloi. Environmental Microbiology 5:250–255.
+          Knowlton, N., J. C. Lang, and B. Keller. 1990. Case study of       Vu, I., G. Smelick, S. Harris, S. C. Lee, E. Weil, R. F.
+            natural population collapse: post-hurricane predation on           Whitehead, and J. F. Bruno. 2009. Macroalgae has no effect
+            Jamaica staghorn corals. Smithsonian Contributions to the          on the severity and dynamics of Caribbean Yellow Band
+            Marine Sciences 31:1–25.                                           Disease. PLoS ONE 4:e4514.
+          Lizama, J., and R. S. Blanket. 1975. Predation on sea anemones     Ward, J. 1965. The digestive tract and its relation to feeding
+            by the amphinomid polychaete, Hermodice carunculata.               habits in the stenoglossan prosobranch Coralliophila abbre-
+            Bulletin of Marine Science 25:442–443.                             viata (Lamarck). Canadian Journal of Zoology 43:447–464.
+          Marsden, J. R. 1963. The digestive tract of Hermodice              Werner, E. E., and S. D. Peacor. 2003. A review of trait-
+            carunculata (Pallas) Polychaeta: Amphinomidae. Canadian            mediated indirect interactions in ecological communities.
+            Journal of Zoology 41:165–184.                                     Ecology 84:1083–1100.
+          McCook, L. J., J. Jompa, and G. Diaz-Pulido. 2001.                 Williams, D. E., and M. W. Miller. 2005. Coral disease
+            Competition between corals and algae on coral reefs: a             outbreak: pattern, prevalence and transmission in Acropora
+            review of evidence and mechanisms. Coral Reefs 19:400–417.         cervicornis. Marine Ecology Progress Series 301:119–128.
+          McIlwain, J. L., and G. P. Jones. 1997. Prey selection by an       Wootton, J. T. 2002. Indirect effects in complex ecosystems:
+            obligate coral-feeding wrasse and its response to small-scale      recent progress and future challenges. Journal of Sea
+            disturbance. Marine Ecology Progress Series 155:189–198.           Research 48:157–172.
+
+
+
+                                                             SUPPLEMENTAL MATERIAL
+                                                                     Appendix A
+            Schematic layout of the laboratory experiment (Ecological Archives E094-152-A1).
+
+                                                                     Appendix B
+            Photographs of treatments in field and laboratory experiments (Ecological Archives E094-152-A2).
+
+                                                                     Appendix C
+            Statistical output tables for the laboratory experiment (Ecological Archives E094-152-A3).
+

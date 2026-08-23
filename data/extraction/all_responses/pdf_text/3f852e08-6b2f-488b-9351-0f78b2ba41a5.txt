@@ -1,0 +1,754 @@
+Coral Reefs (2014) 33:625–636
+DOI 10.1007/s00338-014-1173-y
+
+ REPORT
+
+
+
+Fish corallivory on a pocilloporid reef and experimental coral
+responses to predation
+M. M. Palacios • C. G. Muñoz • F. A. Zapata
+
+
+
+
+Received: 12 October 2013 / Accepted: 18 May 2014 / Published online: 1 June 2014
+Ó Springer-Verlag Berlin Heidelberg 2014
+
+
+Abstract This study examined the effects of the                       they have a low destructive impact on Pocillopora colonies
+Guineafowl pufferfish (Arothron meleagris), a major co-               as corals can maintain their carbonate production rate while
+rallivore in the Eastern Pacific, on pocilloporid corals on a         effectively recovering from partial predation. Due to its
+reef at Gorgona Island, Colombia. Pufferfish occurred at a            influence on colony morphology, pufferfish predation may
+density of 171.2 individuals ha-1 and fed at a rate of 1.8            increase environmentally induced morphological variabil-
+bites min-1, which produced a standing bite density of                ity in Pocillopora.
+366.2 bites m-2. We estimate that approximately 15.6 %
+of the annual pocilloporid carbonate production is removed            Keywords Arothron meleagris  Corallivory  Reef
+by the pufferfish population. Examination of the predation            fishes  Guineafowl pufferfish  Pocillopora spp.  Tropical
+effect on individual pocilloporid colonies revealed that              Eastern Pacific
+although nubbins exposed to corallivory had lower linear
+growth, they gained similar weight and became thicker
+than those protected from it. Additionally, colonies with
+simulated predation injuries (on up to 75 % of branch tips)           Introduction
+healed successfully and maintained growth rates similar to
+those of uninjured colonies. Despite the high corallivore             Coral-feeding fishes, represented by at least 128 species
+pressure exerted by pufferfish on this reef, we conclude that         (Cole et al. 2008), are an important functional guild within
+                                                                      tropical coral reefs as they influence the abundance and
+                                                                      distribution of coral species and coral community structure
+Communicated by Biology Editor Dr. Hugh Sweatman                      (Neudecker 1979; Wellington 1982; Hixon 1997; Rotjan
+                                                                      and Lewis 2008; Lenihan et al. 2011). Most corallivore
+M. M. Palacios (&)  C. G. Muñoz  F. A. Zapata
+Coral Reef Ecology Research Group, Department of Biology,             fishes are butterflyfishes (Chaetodontidae), which only
+Universidad del Valle, A.A. 25360, Cali, Colombia                     remove live tissue from corals and cause little or no
+e-mail: mariadelmar.palacios@gmail.com                                damage to skeletal structures (Cole et al. 2008). However,
+C. G. Muñoz                                                          some pufferfish, parrotfish, and triggerfish scrape, exca-
+e-mail: munozcarlosg@gmail.com                                        vate, or break corals removing also portions of the under-
+F. A. Zapata                                                          lying calcareous skeleton. These fishes can have a
+e-mail: fernando.zapata@correounivalle.edu.co                         significant impact on corals because the fitness of injured
+                                                                      corals is usually altered through the reallocation of energy
+Present Address:
+M. M. Palacios                                                        resources from growth and reproduction to tissue and
+School of Marine and Tropical Biology, James Cook University,         skeletal regeneration (Hall 2001; Henry and Hart 2005).
+Townsville, QLD 4811, Australia                                       Such impact also contributes to determine the physical
+                                                                      structure, zonation, and diversity of reef habitats (Wel-
+C. G. Muñoz
+Center of Excellence for Marine Sciences – CEMarin, Carrera 2         lington 1982; Cole et al. 2008; Jayewardene et al. 2009;
+No. 11-68, Santa Marta, Colombia                                      Bonaldo and Bellwood 2011).
+
+
+                                                                                                                        123
+626                                                                                              Coral Reefs (2014) 33:625–636
+
+
+   Studies on fish corallivory have examined the pressure       density, feeding behavior, and predation pressure on
+and effects of predators on corals at different levels of       branching pocilloporid colonies (coral prey)?, (2) What is
+organization. Some studies have determined the extent of        the effect of puffer predation on the growth of coral col-
+damage inflicted or tissue removed by corallivores (Reyes-      onies?, (3) What is the tolerance of coral colonies to
+Nivia et al. 2004; Bonaldo and Bellwood 2011; Cole et al.       injuries inflicted by the pufferfish?, and (4) What is the rate
+2011; Bonaldo et al. 2012;) and their effects on the growth     of destruction by puffers in relation to the rate of annual
+or recovery of individual coral colonies (Jayewardene et al.    carbonate production by pocilloporid corals?.
+2009; Edmunds and Lenihan 2010; Lenihan and Edmunds
+2010; Shantz et al. 2011). Others have examined the
+broader impacts of fish predation on coral species com-         Methods
+position and coral community diversity (Cox 1986; Littler
+et al. 1989; Rotjan and Lewis 2006; Lenihan et al. 2011).       Study site
+While studies in the Caribbean and Indo-Pacific have
+focused on butterflyfishes and parrotfishes as major coral      This study was conducted from April to December 2012 at
+predators, those in the Tropical Eastern Pacific (TEP) have     La Azufrada reef, a fringing coral reef located at Gorgona
+concentrated on the Guineafowl pufferfish Arothron mel-         Island (2°580 2700 N and 78°110 1300 W) off the Colombian
+eagris—a generalist corallivore that ingests between 16         coast in the TEP region. La Azufrada reef is a shallow
+and 20 g CaCO3 m-2 d-1 by constantly scraping and               (4–12 m depth at high tide) calcareous framework
+breaking off the branch tips of the abundant pocilloporid       extending over 9.4 ha, dominated by branching coral spe-
+colonies (Glynn et al. 1972, 1982; Guzmán and López           cies of the genus Pocillopora (P. capitata, P. damicornis,
+1991; Reyes-Bonilla and Calderon-Aguilera 1999). This           P. eydouxi). Despite having relatively high coral cover
+pufferfish, despite being perhaps the most important fish       (*40–75 %; Zapata et al. 2010), La Azufrada reef (like
+corallivore in the region (Guzmán and Robertson 1989),         other reefs of the TEP) occurs within suboptimal and
+appears to have no significant negative impact on coral         highly variable environmental conditions, such as an
+abundance, reef development, or community structure of          intense rainfall regime (resulting in frequent low salinity
+pocilloporid coral reefs (Guzmán and López 1991; Reyes-       episodes and high water turbidity), sporadic extreme low
+Bonilla and Calderon-Aguilera 1999). It is unknown why          tides, that cause subaerial exposure of corals and temper-
+the effect of puffers in the TEP differs from the common        ature alterations by ENSO events (Zapata and Vargas-
+negative impact that corallivorous fishes exert on other        Ángel 2003). During the time of the study, however, mean
+coral reef regions (e.g., Rotjan et al. 2006; Bonaldo and       water temperature remained stable (27.7 ± 0.4 °C;
+Bellwood 2011; Shantz et al. 2011). Addressing this issue       mean ± SD) and oceanographic conditions corresponded
+requires an understanding of the effects of fish predation on   to neutral/weak El Niño conditions (NOAA 2013).
+the growth and recovery of individual Pocillopora spp.             Based on substrate cover composition and reef topog-
+colonies as well as basic information on the predator’s         raphy, three main reef zones can be distinguished at La
+feeding behavior, feeding rate, and the resulting predation     Azufrada reef: (1) the back reef, which comprises a soft
+pressure on the reef.                                           sediment bottom with many unattached coral colonies; (2)
+   Considering that pocilloporid reefs in the TEP region        the reef flat, which is the largest reef zone and has a rel-
+differ greatly in species richness and composition from         atively thick ([8 m; Glynn et al. 1982) carbonate matrix
+those in the Caribbean and Indo-Pacific, and that the           where Pocillopora colonies are found both individually
+pressure and effects of corallivory vary according to the       and in patches; and (3) the reef crest, where Pocillopora
+characteristics of the fish predator and the coral prey         spp. form a dense, continuous stand that can cover up to
+(Rotjan and Lewis 2008; Lenihan and Edmunds 2010),              80–90 % of the substrate. As a result of the large vari-
+conclusions from one system in a particular region cannot       ability in the abundance and distribution of pocilloporid
+be easily extended to different systems in other regions.       colonies (preferred prey species for A. meleagris; Glynn
+Before any generalizations can be made, specific studies        et al. 1982; Guzmán and López 1991) throughout the coral
+must be undertaken. Additionally, as pocilloporid reefs in      reef, we considered observations from each of the three
+the TEP offer a simplified predator–prey system (only one       reef zones separately to account for variability in the puf-
+important fish predator—A. meleagris and one main coral         ferfish population and corallivore pressure.
+prey—Pocillopora spp.), it may be possible to have a better
+understanding of the interaction and the process of coral-      Prey abundance (Pocillopora spp.)
+livory. This study examined corallivory by the puffer A.
+meleagris on pocilloporid reefs from the TEP and addres-        Pocilloporid coral cover was estimated using 1 m2 quadrats
+sed the following: (1) What is the predator’s (A. meleagris)    divided into 100 sub-quadrats of 10 9 10 cm2. In each
+
+
+123
+Coral Reefs (2014) 33:625–636                                                                                               627
+
+
+zone, 30 quadrats were haphazardly placed and pocillop-          heal in approximately 2 weeks and deeper lesions take
+orid percentage cover was calculated for each as the             about 2 months to recover. Consequently, we assumed that
+number of sub-quadrats that were occupied by Pocillopora         the standing density of feeding scars recorded in this study
+spp. (1 sub-quadrat = 1 % of cover). Differences in mean         was the result of the puffers’ feeding activity during the
+percentage of pocilloporid cover (arcsine-transformed)           past few weeks.
+among reef zones (back reef, reef flat, and reef crest) were        The standing density of fish bite marks on Pocillopora
+assessed using a resampling one-way ANOVA as the data            colonies (bites m-2) was estimated (N = 90 for the entire
+did not satisfy the assumptions of normality and homo-           reef) with the 1 m2 quadrats previously used to calculate
+scedasticity required by standard parametric procedures.         coral cover (see ‘‘Prey abundance’’ section). Each time the
+Subsequently a two-sample resampling test with Holm’s            large quadrat was haphazardly placed over the substrate, and
+correction (a = 0.05) was used as a post hoc analysis to         bite marks were counted within those 10 9 10 cm sub-
+detect which means were significantly different from each        quadrats along the diagonal that had living coral (between
+other. The software Rundom Pro version 3.14 (Jadwiszczak         three and ten sub-quadrats). Counts within the sub-quadrats
+2009) was used to perform all the resampling analyses in         in each quadrat were averaged and used as a replicate esti-
+this study.                                                      mate of the standing bite density (N = 30 per reef zone).
+                                                                 Standing bite density data were Log10 transformed to satisfy
+Predator abundance (Arothron meleagris)                          assumptions of normality and homoscedasticity. Differ-
+                                                                 ences in standing bite densities between reef zones (back
+To estimate the population density of the puffer A. mel-         reef, reef flat, and reef crest) were examined using a one-way
+eagris, we conducted 150 visual surveys along 50 9 5 m           ANOVA and a Tukey’s multiple comparison test as a post
+belt transects (N = 50 transects per reef zone). On each of      hoc analysis (a = 0.05). The spatial distribution of bite scars
+the three reef zones, half of the surveys were conducted in      within each reef zone was analyzed by examining the fit to a
+the morning (09:22–11:55 h) and half in the afternoon            Poisson distribution of the frequency distribution of the
+(12:10–17:40 h) in order to obtain a uniform distribution of     mean number of bites (rounded to the nearest integer) in the
+observations during the activity hours of A. meleagris           10 x 10 cm2 sub-quadrats. Lack of fit was determined using
+(from *6:00 h to *18:30 h; personal observation). The            the Index of Dispersion (ID or variance to mean ratio), which
+number and the total length (TL; visually estimated to the       follows a chi-square distribution with N - 1 degrees of
+nearest centimeter) of all puffers seen within transects were    freedom (Ludwig and Reynolds 1988).
+recorded. Puffer densities (ind ha-1) were compared across
+reef zones (back reef, reef flat, and reef crest) through a      Feeding rate
+resampling one-way ANOVA and a two-sample resam-
+pling test with Holm’s correction (a = 0.05). As data from       To determine the feeding rate of A. meleagris, we followed
+fish sizes (TL) satisfied the assumptions normality and          120 haphazardly selected puffers (N = 40 puffers per reef
+homoscedasticity of parametric tests, they were compared         zone) for ten min each while recording the number of bites
+between the reef zones through a one-way ANOVA and a             taken from the substrate. The behavior and size of the fish
+Tukey’s multiple comparison test (a = 0.05) as a post hoc        were recorded, as well as the substrate type/species from
+test. We used the software STATISTICA version 8 (Stat-           which bites were taken. Fish feeding behavior was classified
+Soft Inc. 2007) to perform all parametric analyses in this       as active (C1 bites 10 min-1) or inactive (0 bites 10 min-1).
+study.                                                           Half of the fish observations on each reef zone were con-
+                                                                 ducted during the morning (08:40–11:40 h) and the other half
+Standing bite density                                            during the afternoon (14:40–17:30 h). Puffer feeding rates
+                                                                 (bites min-1) were compared among reef zones (back reef,
+All open lesions (exposed coral skeleton) on Pocillopora         reef flat, and reef crest), among periods of the day (morning,
+branch tips were considered to be bites made by the puffer       08:40–11:40 h and afternoon, 14:40–17:30 h) and among
+A. meleagris, since preliminary field observations indicated     size classes of puffers (small: B17 cm TL, medium:
+that all conspicuous scars on coral branch tips were             18–24 cm TL, and large: C25 cm TL) using resampling one-
+inflicted by A. meleagris (Fig. 1). No other fish species at     way ANOVAs as the data did not satisfy the assumptions of
+Gorgona Island feeds in the same way, except for the             standard parametric tests.
+congeneric A. hispidus, which is less abundant
+(23.7 ± 35.3 ind ha-1, mean ± SD), occurs on deeper or           Tolerance to corallivory experiment
+sandy areas, and is rarely seen feeding on corals. Pre-
+liminary observations on the regeneration rate of coral          The tolerance of pocilloporid colonies to different levels of
+tissue at La Azufrada reef indicated that superficial injuries   damage caused by simulated pufferfish biting was
+
+
+                                                                                                                     123
+628                                                                                                            Coral Reefs (2014) 33:625–636
+
+
+
+
+Fig. 1 Bite marks by the pufferfish Arothron meleagris on Pocillopora spp. colonies: a scrapes to the coral tissue, b, c excavating bites where
+coral tissue and skeleton have been removed, d pocilloporid colony exhibiting pufferfish bite marks, e A. meleagris feeding on Pocillopora spp.
+
+
+
+determined through a field experiment conducted in the                   bite marks) in different densities, but not necessarily to
+reef crest of La Azufrada. We monitored the tissue                       remove specific weights of coral tissue/skeleton.
+regeneration and growth of 40 small colonies of Pocillo-                    All colonies employed in this experiment were haphaz-
+pora spp. (75–325 g) after exposure to four experimental                 ardly collected from the reef and kept in tanks with fresh
+treatments (N = 10 colonies per treatment) that differed in              seawater, while they were being tagged, treated (according
+the percentage of branch tips per colony that was artifi-                to the four experimental groups), and weighed (to the
+cially damaged by simulated puffer bites: 0 % (control),                 nearest 0.01 g). In \2 h from the time of collection, all
+25, 50, and 75 % of branch tips scraped/tissue removed.                  colonies were taken to the reef and placed inside ten mesh
+Based on preliminary field observations, these damage                    cages (35 9 20 9 25 cm; 1.5 cm mesh size), so that each
+treatments were designed to mimic the wide range of                      cage contained one colony from each treatment. Cages had
+standing bite densities observed on pocilloporid colonies                previously been installed on the reef crest and were moni-
+(47.7 ± 23.0 % of coral branches assessed had bite marks,                tored periodically throughout the duration of the experiment
+mean ± SD, N = 3,263 branches) and to resemble the                       to remove any fouling organisms and algae from the mesh.
+natural injuries inflicted by puffers (Fig. 1). Measurements             At the end of the experiment (122 d later), each colony was
+with calipers (to the nearest 0.1 mm) of bite marks made                 weighed for a second time. To assess pocilloporid tolerance
+by puffers on Pocillopora spp. revealed that bites were                  to bite injuries and measure the degree to which coral fitness
+small (area = 0.47 ± 0.38 cm2; mean ± SD; N = 362                        (in terms of growth) was affected, we compared the mean
+bites) and that most often puffers inflicted only shallow                change in colony weight (g) among the four experimental
+injuries (mean bite depth = 0.19 ± 0.08 mm, N = 50                       groups (0, 25, 50, and 75 % of the branch tips injured by
+bites) on branch tips (although they also can occasionally               simulated puffer feeding) with a one-way ANCOVA using
+break weak branches). In this experiment, artificial injuries            the initial colony weight as a covariate.
+made with pliers were similar in area to those measured in
+the field and although they were deeper (between 0.1 mm                  Predator exclusion experiment
+and 0.5 cm depth) than natural ones, we haphazardly made
+a large proportion of shallow scars (B0.3 mm) to resemble                The effect of puffer predation on the growth (measured as
+the natural pattern. Considering that many puffer bite                   linear extension and weight change) of Pocillopora spp.
+marks are superficial injuries that do not represent a sig-              was assessed in situ by exposing 30 nubbins, each *4 cm
+nificant removal of coral skeleton (Fig. 1a), the aim of our             long, to three experimental treatments (N = 10 per treat-
+treatments was to injure the branch tips (resembling natural             ment): (1) predation treatment in which nubbins were kept
+
+
+
+123
+Coral Reefs (2014) 33:625–636                                                                                                               629
+
+
+
+
+Fig. 2 Treatments considered in the Predator exclusion experiment         treatment (half-cage), and c Predator exclusion treatment (full cage).
+where pocilloporid nubbins were individually exposed or protected         Half-cages were employed to allow fish predation while controlling
+from fish corallivores: a Predation treatment (no cage), b cage control   for the possible effects of the mesh on the nubbins
+
+
+in the open, exposed to corallivory; (2) predator exclusion               compare the normalized linear extension rate (cm cm-2
+treatment in which mesh cages (25 9 25 9 11.5 cm;                         yr-1) among the three treatments (predation treatment,
+1.5 cm mesh size) protected nubbins from fish corallivores;               predator exclusion treatment, and cage control treatment),
+and (3) cage control treatment in which nubbins were kept                 we used a one-way ANOVA followed by a Tukey post hoc
+within half-open cages (mesh cages lacking two sides) and                 analysis. In contrast, as data from the normalized weight
+therefore exposed to corallivory; this controlled possible                gained (g cm-2 yr-1) did not satisfy the assumptions of
+effects of the full cage on the nubbins (Fig. 2). To conduct              parametric tests, differences between treatments were
+this experiment, haphazardly collected nubbins were indi-                 analyzed through a resampling one-way ANOVA. Addi-
+vidually glued (with epoxy cement) to plastic screws                      tionally, because treatment-related changes in nubbin
+(Fig. 2), tagged, measured with calipers (lengthwise; from                morphology (colony weight/length ratio) were apparent,
+the base of the epoxy to the tip of the nubbin) to the nearest            we ran a parametric one-way ANOVA and Tukey’s post
+0.01 cm, and weighed on a scale (including the screw and                  hoc test to compare, across the three treatments, the aver-
+the tag) to the nearest 0.01 g. Afterward, they were placed               age ratio of the normalized weight gain to the linear
+on the reef flat at 5-m intervals, where the three treatments             extension of nubbins (D weight/D length ratio).
+were systematically assigned to them in sequence. After
+183 d, the nubbins were collected, measured, weighed, and                 The effect of puffers on the pocilloporid carbonate
+examined closely for bite marks. Annotations were made                    budget
+on the number of the fish bites that each nubbin presented.
+   Changes in the length and weight of coral nubbins were                 We considered the effect of puffers on the pocilloporid
+normalized to surface area (cm cm-2 yr-1 and g cm-2                       standing crop as the percentage of the carbonate produced
+yr-1) using the wax-dipping technique (Stimson and Kin-                   by pocilloporids that is removed by puffers. The carbonate
+zie 1991) to account for any differences in the size or                   production (kg m-2 yr-1) of Pocillopora spp. was calcu-
+surface area of the nubbins that might affect growth. To                  lated as follows:
+
+
+                                                                                                                                    123
+630                                                                                                                           Coral Reefs (2014) 33:625–636
+
+
+Pocillopora Carbonate Production                                                                        100                                      b
+                                                                                                              a
+
+
+
+
+                                                                               Pocilloporid cover (%)
+                                           
+  ¼ Coral Cover (% )  Growth Rate cm yr1                                                              80
+                              
+      Colony Density g cm3
+                                                                                                        60
+                                                                                                                                 a
+where coral cover and growth rates were obtained as
+                                                                                                        40           a
+described previously (see the ‘‘Prey abundance’’ section for
+coral cover and the ‘‘Predator exclusion experiment’’ sec-                                              20
+
+tion for growth rate). Colony density was employed instead
+of skeletal density, as the latter should only be employed to                                           300                                      b
+
+
+                                                                  A. meleagris density
+calculate the carbonate production of massive coral colo-                                                     b                  b
+nies (where the density and volume of a colony are con-
+                                                                                                        200
+stant per unit of coral cover; Perry et al. 2012). Because
+                                                                                                                     a
+
+
+                                                                       (ind. ha -1)
+ramose pocilloporid species have spaces between branches
+                                                                                                        100
+that do not contribute to carbonate production (discussed
+by Heiss 1995), we used the density of pocilloporid colo-
+                                                                                                         0
+nies and subtracted the volume of empty space to
+approximate carbonate production. Colony density                                                        700
+                                                                                                              c                  b
+(g cm-3) was determined for five Pocillopora colonies that
+                                                                  Bite density
+were individually wrapped with plastic film, weighed (g),                                               500
+and submerged in a container with water to estimate their
+                                                                   (bites m-2)
+                                                                                                                     a
+volume (cm3). Wrapping the entire colony in plastic film                                                300                                      a
+served to include the empty volume between branches in
+the estimation of the colony volume and thus colony den-                                                100
+sity (Adams et al. 1985; Vytopil and Willis 2001).                                                                Back Reef   Reef Flat      Reef Crest
+   On the other hand, the rate of Puffer Destruction
+                                                                 Fig. 3 Mean (?95 % CI) a pocilloporid coral cover (%), b Arothron
+(kg m-2 yr-1) was obtained as:                                   meleagris abundance (ind ha-1), and c standing bite density (bites
+                                                                m-2) across three zones of La Azufrada coral reef, Gorgona Island.
+Puffer destruction ¼ population density ind ha1                 Bars with the same lowercase letter did not differ significantly: a,
+                                                          
+                      destruction rate per fish g min 1        b two-sample resampling tests with Holm’s correction (a = 0.05),
+                                                                 c Tukey’s multiple comparison test (a = 0.05)
+                      feeding correction factor:
+
+   Data on puffer density were obtained from the fish            volume was calculated as the water displaced by each
+surveys made in this study (see ‘‘Predator abundance’’           branch in a 50-ml graduated cylinder (±0.1 ml). Finally,
+section), whereas the destruction rate per fish was calcu-       the feeding correction factor in the formula reflects the
+lated following fish bioerosion studies (e.g., Bellwood          proportion of puffers actively feeding at a given time and
+1995; Bruggemann et al. 1996), in which the fish feeding         was calculated from our field observations (see ‘‘Feeding
+rate (bites min-1; see ‘‘Feeding rate’’ section) is multiplied   rate’’ section).
+by the mass of coral removed per bite (g bite-1). To esti-
+mate the mean weight of coral removed per bite (g bite-1),
+we followed the method used by Bellwood (1995) in which          Results
+the volume of a bite mark (calculated by its length, width,
+and depth) is combined with the substratum density.              Prey abundance (Pocillopora spp.)
+Although the depth of bite marks is difficult to measure in
+branching pocilloporid species (original branch tip length       The average cover of pocilloporid colonies at La Azufrada
+is unknown), we did not deem appropriate the approach            reef was 49.6 ± 37 % (mean ± SD, N = 90). Pocillopora
+used by Glynn et al. (1972) as the puffers significantly         spp. cover varied significantly across reef zones
+change their feeding behavior when enclosed in mesh              (F2,87 = 43.3, P \ 0.001; Fig. 3a), with the highest cover
+cages (personal observation). For our calculations, we used      recorded on the reef crest, where a dense and continuous
+the bite mark measures taken for the ‘‘Tolerance to coral-       stand of interlinked pocilloporid colonies occupied
+livory experiment’’ and the mean skeletal density of 30          85.8 ± 18.7 % (N = 30) of the substrate. Both the back
+Pocillopora spp. branches collected in the field. To obtain      reef and the reef flat had a coral cover of \40 % as the
+the density estimates (g cm-3), branches were individually       back reef was dominated by sand and rubble, and the reef
+weighed with a digital scale to the nearest 0.001 g and          flat was characterized by large areas of calcareous matrix
+
+
+123
+Coral Reefs (2014) 33:625–636                                                                                                                  631
+
+
+                            15   a                                                   N = 50) and the reef flat (192 ± 199.7 ind ha-1, N = 50)
+                                                                                     being the zones with the highest puffer density. The
+                                                                                     abundance of puffers increased toward the outer edge of
+                            10                                                       the reef, where puffers usually aggregate in groups of up to
+                                                                                     15 individuals and hide in caves within the pocilloporid
+                                                                                     framework (Glynn et al. 1982). Puffer size at La Azufrada
+                                                                                     ranged between 10 and 30 cm TL and had a mean TL of
+                             5
+                                                                                     20.5 ± 3.9 cm (N = 642). Puffers from the back reef were
+                                                                                     significantly smaller than the ones from the reef flat and the
+                                                                                     reef crest (F2,612 = 5.3, P \ 0.05).
+                            0
+                                 1   2   3   4   5    6   7   8   9 10 11 12 13 14
+                                                                                     Standing bite density
+                            15
+                                 b
+                                                                                     At La Azufrada reef, the average puffer-inflicted standing
+
+
+
+
+      No. of observations
+                                                                                     bite density on Pocillopora spp. colonies was
+                            10
+                                                                                     366.2 ± 329.7 bites m-2 (mean ± SD, N = 90). How-
+                                                                                     ever, standing bite density differed significantly among the
+                                                                                     three reef zones (F2,87 = 15.5; P \ 0.001; Fig. 3c). The
+                             5                                                       reef flat, which occupies the most area (58 %) of La
+                                                                                     Azufrada reef, had a higher standing bite density
+                                                                                     (608.6 ± 383.7 bites m-2, N = 30) than the other reef
+                                                                                     zones (\300 bites m-2), indicating a higher feeding pres-
+                             0
+                                 1   2   3   4   5    6   7   8   9 10 11 12 13 14   sure by the puffers on the pocilloporid patches occurring on
+                            15   c                                                   the reef flat. The spatial distribution of bite scars was
+                                                                                     aggregated on the back reef and the reef flat (back reef:
+                                                                                     ID = 2.45, P \ 0.005, df = 29; reef flat: ID = 2.47,
+                            10                                                       P \ 0.05, df = 29), but uniform on the reef crest
+                                                                                     (ID = 0.82, P \ 0.005, df = 29; Fig. 4) where coral cover
+                                                                                     was the highest.
+                             5
+                                                                                     Feeding rate
+
+                                                                                     The majority of A. meleagris bites was made on live Po-
+                             0
+                                 1   2   3   4   5    6   7   8   9 10 11 12 13 14   cillopora spp. colonies (86.6 % of all bites), although
+                                                     Bites 100cm-2                   Psammocora stellata (especially in the back reef, where it
+                                                                                     is more abundant), coral rubble, and other invertebrates
+Fig. 4 Observed frequency distribution of standing bite scars within                 (e.g., sponges) were also bitten by the fish. Sixty percent of
+100 cm2 quadrats on each of three reef zones at La Azufrada coral
+reef: a back reef, b reef flat, and c reef crest. Dash line histograms               the 150 pufferfish we followed were actively feeding, so
+correspond to the expected Poisson distribution under the null                       we used this value to estimate the rate of coral consumption
+hypothesis of a random spatial distribution of bite scars                            by puffers. During the feeding activity, the puffers’ average
+                                                                                     feeding rate on Pocillopora was 1.8 ± 1.4 bites min-1
+                                                                                     (mean ± SD, N = 72) with no significant differences
+(composed of coral rubble tightly cemented by encrusting                             among fish size classes (F2,69 = 0.8, P [ 0.3), reef zones
+calcareous algae) and scattered coral patches.                                       (F2,69 = 0.98, P [ 0.3), or periods of the day,
+                                                                                     (F1,70 = 0.13, P [ 0.9).
+Predator abundance (Arothron meleagris)
+                                                                                     Tolerance to corallivory experiment
+The puffer A. meleagris had an average density of
+171.2 ± 166.9 ind ha-1 (mean ± SD, N = 150) and an                                   Uninjured control colonies of Pocillopora spp. were
+estimated total population size of 1,606 individuals (on a                           slightly heavier than injured colonies at the end of the
+9.4 ha reef). Significant differences in puffer abundance                            experiment; however, their change in weight was not sta-
+were found among reef zones (F2,147 = 10.7, P \ 0.001;                               tistically different from the weight changes of colonies in
+Fig. 3b), with the reef crest (231.2 ± 160.7 ind ha1,                                any of the damage treatments (F3,31 = 1.12, P [ 0.1;
+
+
+                                                                                                                                        123
+632                                                                                                                             Coral Reefs (2014) 33:625–636
+
+
+
+                        50
+
+
+
+
+ Change in Weight (g)
+                        46
+
+
+                        42
+
+
+                        38
+
+
+                        34
+                                             0%           25%          50%            75%
+                                                      Damage treatments
+
+Fig. 5 Adjusted mean (?95 % CI) of the change in weight attained
+by pocilloporid colonies exposed to different levels of simulated bite-
+inflicted damage (control = 0 % or no damage, and 25, 50, or 75 %                           Fig. 7 Representative corallum morphologies of pocilloporid nub-
+of colony branch tips damaged). Means of change in weight were                              bins a exposed and b protected from fish corallivory in the Predator
+adjusted by ANCOVA to the mean initial weight of colonies                                   exclusion experiment carried out at La Azufrada coral reef, Gorgona
+                                                                                            Island, Colombia
+                              0.06
+                                         a
+                                                                                            simulated puffer feeding). All injuries had healed suc-
+ Length growth
+                                                                                 b
+                              0.05
+                                                                                            cessfully after 2 months with no apparent negative effects
+
+  (cm cm-2yr-1)
+                                                                  a
+                                                                                            on the colony branches. Thus, pocilloporid colonies appear
+                                                  a
+                              0.03                                                          to tolerate bitelike injuries on up to 75 % of their branches.
+
+                              0.01                                                          Predator exclusion experiment
+
+                                   0.6
+                                         b                                                  Pocilloporid nubbins exposed to corallivory (predator and
+         Weight growth
+                                                                                            cage control treatments) had an average of 15.2 ± 9.3 fish
+                                   0.5                                                      bites nubbin-1 (mean ± SD, N = 20) and a significantly
+
+          (g cm-2yr -1)
+                                                                                            lower normalized linear growth than the protected nubbins
+                                   0.4                                                      (F2,26 = 5.1, P \ 0.05; Fig. 6a). Remarkably, nubbins in
+                                                                                            all treatment groups had a similar normalized weight gain
+                                   0.3
+                                                                                            (F2,26 = 1.7, P = 0.2; Fig. 6b). Nubbins in the half-cage
+                                    35            a                                         treatment did not differ in linear growth or weight gain
+                                         c
+                                                                                            from those in the predator (uncaged) treatment, so it was
+                 Weight / Length
+                                                                  a
+                                                                                            assumed that the mesh did not affect growth of the fully
+                                    25
+                                                                                            caged nubbins (predator exclusion treatment).
+
+                  ratio (g cm-1)
+                                                                                  b            Results from the Predator exclusion experiment pro-
+                                    15
+                                                                                            vided evidence that the presence/absence of predation
+                                                                                            influenced the morphology (colony weight/length ratio)
+                                     5
+                                              Predation           CC         No-Predation   and normalized growth rates (D weight/D length ratio) of
+                                                          Predation treatments              pocilloporid nubbins: Corals exposed to corallivory were
+                                                                                            usually thick and short and had a greater rate of increase in
+Fig. 6 Mean (?95 % CI) growth in terms of a normalized linear
+extension (cm cm-2 yr-1) and b normalized weight (g cm-2 yr-1) of
+                                                                                            weight for a given rate of linear extension than corals
+Pocillopora spp. nubbins in each of three predation treatments (Predation,                  protected from fish predation (F2,26 = 6.2, P \ 0.01;
+cage control = CC, and Predation exclusion). c Average ratio between the                    Figs. 6c, 7). Nubbins in the predator exclusion treatment
+normalized weight gained and the increased linear extension of nubbins                      showed the opposite morphology (long thin branches).
+(normalized) in each treatment. Bars with the same lowercase letter did not
+differ significantly: a, c Tukey multiple comparison test (a = 0.05), b two-
+sample resampling tests with Holm’s correction (a = 0.05)                                   Effect of puffers on the pocilloporid carbonate budget
+
+Fig. 5). Growth rate of pocilloporid colonies seemed not to                                 The puffer A. meleagris removed 15.8 % of the carbonate
+be affected significantly by the levels of injury we exam-                                  produced by the pocilloporid stands at La Azufrada reef,
+ined (25, 50, or 75 % of the branch tips injured by                                         assuming a mean carbonate production rate of 5.5 kg
+
+
+123
+Coral Reefs (2014) 33:625–636                                                                                                                 633
+
+
+Table 1 Carbonate budget estimated for La Azufrada coral reef, considering only the production of Pocillopora spp. and the destruction by the
+puffer Arothron meleagris
+Pocillopora spp. production                                                 Destruction by A. meleagris
+Growth rate         Colony density       Cover        Production            Density          Destruction per fish        CF        Destruction
+(cm yr-1)           (g cm-3)             (%)          (kg m-2 yr-1)         (ind ha-1)       (g d-1)                               (kg m-2 yr-1)
+
+2.70                0.42                 49           5.56                  171.2            233.28                      0.6       0.87
+                                                                                                              -1
+The destruction rate per fish was calculated taking into account a carbonate removal of 0.18 ± 0.14 g bite (mean ± SD), a feeding rate of
+1.8 ± 1.4 bites min-1 and 12 h of feeding activity per day (based on field observations). CF is a correction factor representing the proportion of
+the pufferfish population actively feeding at a given time
+
+
+
+
+Table 2 Abundance of the puffer Arothron meleagris on pocilloporid reefs within the Tropical Eastern Pacific
+Site                       Date of      Reef size (ha)       Coral cover (%)     A. meleagris      References
+                           survey                                                (ind ha-1)
+
+Colombia
+ Azufrada reef             1979         15                   36.5                12                Glynn et al. (1982)
+ Azufrada reef             1987/1988    15                   48.5                34                Guzmán and Robertson (1989)
+ Playa Blanca reef         1989         8                    32.6                21.9              Guzmán and López (1991)
+ Azufrada reef             1989         15                   50.2                25.8              Guzmán and López (1991)
+ Azufrada reef             1993         10                   –                   80                Zapata and Morales (1997)
+ Azufrada reef             2012         9.4                  49.6                171.2             This study
+Mexico
+ Cabo Pulmo reef           1991/1992    220                  30                  39                Reyes-Bonilla and Calderon-Aguilera (1999)
+ Playa Mora reef           2002/2004    2.5                  –                   43.7              Galván-Villa et al. (2011)
+Panama
+ Señora Is. reef          1971         0.8                  75                  40                Glynn et al. (1972)
+ Uva Is. reef              1981/1984    2.4                  45                  55                Glynn (1985)
+ Uva Is. reef              1986/1988    2.4                  28.2                55                Guzmán and Robertson (1989)
+ Secas Is. reef            1986/1988    7.6                  13.8                27                Guzmán and Robertson (1989)
+ Señora Is. reef          1987         0.8                  49.5                0                 Guzmán and Robertson (1989)
+The location, reef size, percentage of live cover, date of survey and sources are shown. Modified from Guzmán and Robertson (1989)
+
+
+
+CaCO3 m-2 yr-1 and a puffers’ destruction rate of 0.87 kg                  Although corallivore pressure is influenced by several
+CaCO3 m-2 yr-1 (Table 1).                                                  factors (e.g., predator feeding rates, abundance, bite size),
+                                                                           the impact recorded here is mainly due to the high density
+                                                                           of A. meleagris (the highest ever reported for this species
+Discussion                                                                 on any coral reef within the TEP; Table 2), as estimates of
+                                                                           its feeding rate (1.8 bites min-1) and carbonate removal
+This study determined that a large proportion of La                        per bite (0.18 g bite-1) are similar to or lower than esti-
+Azufrada pocilloporid reef is under intense corallivore                    mates for excavating parrotfishes (Chlorurus gibbus, C.
+pressure from the puffer A. meleagris. Coral colonies on                   sordidus, and Sparisoma viride; 6.7–18.0 bites min-1 and
+the reef flat, the largest reef zone at La Azufrada reef (58 %             0.05–2.7 g bite-1; Bellwood 1995; Reyes-Nivia et al.
+of the entire reef’s area), are consumed intensely by puff-                2004). As expected, high densities of A. meleagris cause
+ers. The mean standing bite density observed on pocil-                     the greatest standing bite density when coral cover is rel-
+loporid colonies (*600 bites m-2) was greater than the                     atively low and patchy. Although the reef crest and reef flat
+median of the mean bite densities reported for several                     had similar puffer densities, the pocilloporid colonies on
+massive and branching coral species around the world                       the reef flat exhibited greater bite densities as predators
+(4–952 bites m-2; Rotjan and Lewis 2006; Jayewardene                       concentrated their feeding on the limited coral patches
+et al. 2009; Bonaldo and Bellwood 2011; Roff et al. 2011).                 (Jayewardene et al. 2009; Shantz et al. 2011). The spatial
+
+
+                                                                                                                                      123
+634                                                                                              Coral Reefs (2014) 33:625–636
+
+
+distribution of bite scars further supports this idea, since    pocilloporid colonies (measured as weight gain) or on the
+bites were aggregated on the reef flat, but uniformly dis-      carbonate budget of the entire pocilloporid reef. As in other
+tributed on the reef crest where coral cover was greatest.      pocilloporid reefs within the TEP (Glynn et al. 1972;
+Together, this body of information suggests that A. mel-        Reyes-Bonilla and Calderon-Aguilera 1999), this study has
+eagris exert a substantial impact to the distribution and       shown that the destruction rate of A. meleagris
+growth of corals in La Azufrada.                                (0.87 kg m-2 yr-1) is not that high (\16 %) compared
+   While pufferfish predation affects the linear growth and     with the annual pocilloporid carbonate production at La
+morphometrics of Pocillopora spp. colonies, these colonies      Azufrada reef (5.5 kg m-2 yr-1). However, it should be
+have the capacity to tolerate and recover from the high         noted that our estimates of puffer impact and carbonate
+intensity levels of injury. As was expected, the constant       production rates were different from those reported in other
+pruning and trimming of branch tips by fish corallivores        studies, probably due to methodological differences. For
+(Glynn et al. 1982) meant that nubbins exposed to preda-        instance, we estimated carbonate production rates using a
+tion increased their length at a lower rate than those pro-     colony density of 0.42 g cm-3, however, if we had used
+tected from predation. However, similar to results reported     data from Eakin (1996) our carbonate production would
+for Porites porites in the Caribbean (Fig. 5b in Miller and     have been lower (2.2 kg m-2 yr-1). In terms of the impact
+Hay 1998), Pocillopora spp. appear to tolerate partial          by A. meleagris, Glynn et al. (1972) and Reyes-Bonilla and
+predation as the colony carbonate production (in terms of       Calderon-Aguilera (1999) used daily ingestion rates from
+weight gain) and recovery were not negatively affected,         puffers held in aquaria to estimate the daily mass removed
+despite corallivory causing *15 bites nubbin-1 or damage        from colonies (16–20 g m-2 d-1). If we use such estimates
+on up to 75 % of all branch tips in a colony. In contrast to    (which may be an underestimate due to changes in the
+massive corals, in which injuries are highly deleterious        feeding behavior of puffers in aquaria; personal observa-
+because their growth is relatively slow and recovery            tion), the puffers’ destruction rate at La Azufrada would be
+requires the deposition of new skeleton within the lesion       eight times lower (0.1 kg m-2 yr-1). In a scenario where
+(compensatory growth; sensu Henry and Hart 2005), po-           the carbonate production is the lowest (2.2 kg m-2 yr-1;
+cilloporid corals can tolerate injuries because their healing   using the colony density from Eakin 1996) and the puffers’
+process is not regenerative per se, but occurs through          destruction is the highest (using all of our data), the annual
+stimulation of the apical points of growth (branch tips) or     pocilloporid production removed by A. meleagris predation
+reoriented growth (Lenihan and Edmunds 2010). Our               would correspond approximately to 39.5 %. Such an
+results support the ‘‘reoriented growth hypothesis’’ as the     increase in the estimate suggests that where corallivory is
+morphology of pocilloporid nubbins exposed to predation         intense, a relatively high carbonate production appears to
+changed significantly as shown by the redistribution of         be essential for a significant reef accretion and persistence.
+growth (D weight/D length ratio).                                  In conclusion, despite of the fact that high corallivory
+   The propensity of Pocillopora spp. to change their           limits their linear growth, Pocillopora colonies can with-
+phenotype in response to environmental conditions (e.g.,        stand partial predation. Colonies can easily recover from
+sediment, light, or depth; Veron 1995; Todd 2008) means         injuries and maintain their carbonate production rate
+that an important biological stressor such as corallivory is    through the thickening of branches. Under the ecological
+very likely to change morphometric proportions of pocil-        conditions in this study, pufferfish predation does not
+loporid colonies. Predator-induced phenotypic variation         prevent reef accretion. Predation by A. meleagris may only
+has been reported in several clonal–marine organisms            pose a risk to the Pocillopora colonies or the reef frame-
+(Gaulin et al. 1986; West 1997; Hill and Hill 2002). For        work when coincident with major coral mortality or the
+instance, polyp withdrawal and changes in nematocyst            presence of acute environmental stressors (e.g., aerial
+density have been observed as responses to predation in         exposure, ENSO events; Zapata and Vargas-Ángel 2003).
+hard corals (Gochfeld 2004; Rotjan and Dimond 2010).            At these times, predators will tend to concentrate on the
+However, a recent review of morphological plasticity in         remaining live coral colonies (causing increased bite den-
+scleractinian corals (Todd 2008) found no previous evi-         sity) and corals will be less physiologically capable of
+dence of morphological skeletal change induced by fish          responding to the impact of tissue and skeletal damage. A
+predation in Pocillopora spp. The thick and short shape of      noteworthy finding of this work was that corallivory causes
+nubbins that were exposed to corallivory (Fig. 7) results       phenotypic changes in hard corals and consequently can be
+from the accumulation of carbonate through the thickening       the source of irregular morphologies reported in these
+of the branches given their reduced linear growth (as the       organisms (Jayewardene and Birkeland 2006). In the case
+branch tips are constantly being cropped).                      of Pocilloporid corals, which are already known for their
+   Despite intense feeding, puffer predation is not having a    morphological variability and phenotypic plasticity, this
+major effect on the carbonate production of individual          issue exacerbates the difficulties inherent in taxonomic
+
+
+123
+Coral Reefs (2014) 33:625–636                                                                                                              635
+
+
+studies (Veron 1995; Pinzón et al. 2013; Schmidt-Roach                  Bonaldo RM, Welsh JQ, Bellwood DR (2012) Spatial and temporal
+et al. 2014). Determining the extent to which predation                       variation in coral predation by parrotfishes on the GBR: evidence
+                                                                              from an inshore reef. Coral Reefs 31:263–272
+affects morphological variability will be an important step              Bruggemann JH, Van Kessel AM, Van Rooij JM, Breeman AM
+in understanding phenotypic plasticity in this group. A                       (1996) Bioerosion and sediment ingestion by the Caribbean
+more complete understanding of the importance of coral-                       parrotfish Scarus vetula and Sparisoma viride: implications of
+livory in pocilloporid reefs will involve assessing the                       fish size, feeding mode and habitat use. Mar Ecol Prog Ser
+                                                                              134:59–71
+effects of predation on sexual and asexual coral repro-                  Cole AJ, Pratchett MS, Jones GP (2008) Diversity and functional
+duction, including their relative contribution to population                  importance of coral-feeding fishes on tropical coral reefs. Fish
+replenishment, and a complete carbonate budget of La                          Fish 9:286–307
+Azufrada coral reef that includes other producers and                    Cole AJ, Lawton RJ, Pratchett MS, Wilson SK (2011) Chronic coral
+                                                                              consumption by butterflyfishes. Coral Reefs 30:85–93
+bioeroders.                                                              Cox EF (1986) The effects of a selective corallivore on growth rates
+   In contrast with other important processes such as her-                    and competition for space between two species of Hawaiian
+bivory, the role of corallivory on coral reefs has only                       corals. J Exp Mar Biol Ecol 101:161–174
+recently received attention. While the importance of co-                 Eakin CM (1996) Where have all the carbonates gone? A model
+                                                                              comparison of calcium carbonate budgets before and after the
+rallivory has perhaps been underestimated, it is now                          1982-1983 El Nino at Uva Island in the eastern Pacific. Coral
+becoming apparent that corallivores can have diverse                          Reefs 15:109–119
+impacts on coral fitness, coral population and community                 Edmunds PJ, Lenihan HS (2010) Effect of sub-lethal damage to
+structure, reef structure, and ecosystem function (Rotjan                     juvenile colonies of massive Porites spp. under contrasting
+                                                                              regimes of temperature and water flow. Mar Biol 157:887–897
+and Lewis 2008). Given the increasing levels of natural and              Galván-Villa CM, López-Uriarte E, Arreola-Robles JL (2011)
+anthropogenic disturbances on coral reefs, it is important to                 Diversidad, estructura y variación temporal del ensamble de
+examine the full spectrum of impacts by corallivores on                       peces asociados al arrecife coralino de Playa Mora, Bahı́a de
+corals and coral reefs, and whether they contribute to                        Tenacatita, México. Hidrobiologica 21:135–146
+                                                                         Gaulin G, Dill L, Beaulieu J, Harris LG (1986) Predation induced
+decrease reef resilience. Our study provides one example                      changes in growth form in a nudibranch-hydroid association.
+from the TEP, where reefs are somewhat simple, low                            Veliger 28:389–393
+diversity systems, in which intense predation by a major                 Glynn PW (1985) Corallivore populations sizes and feeding effects
+corallivore does not seem to negatively affect reef resil-                    following El Nino (1982–1983) associated coral mortality in
+                                                                              Panama. Proc 5th Int Coral Reef Symp 4:183–188
+ience. Studies of corallivory in locations that differ in coral          Glynn PW, Stewart RH, McCosker JE (1972) Pacific coral reefs of
+diversity and patterns of disturbance are required to fully                   Panama: structure, distribution and predators. Geol Rundsch
+understand the role of corallivory on coral reefs.                            61:483–519
+                                                                         Glynn PW, Prahl H, Guhl F (1982) Coral reefs of Gorgona Island,
+Acknowledgments Financial support for this study was provided by              Colombia, with special reference to corallivores and their
+Universidad del Valle and the Administrative Department of Science,           influence on community structure and reef development. Anales
+Technology and Innovation of Colombia (Colciencias) through a                 del Instituto de Investigaciones Marinas de Punta de Betin
+Young Researcher and Innovator Program award (‘‘Virginia Gutiérrez           12:185–214
+de Pineda’’) to M.M. Palacios, a scholarship for doctoral studies        Gochfeld DJ (2004) Predation-induced morphological and behavioral
+awarded to C.G. Muñoz and a research Grant (1106-489-25135)                  defenses in a hard coral: implications for foraging behavior of
+awarded to F.A. Zapata. We are grateful to UAESPNN (Colombian                 coral-feeding butterflyfishes. Mar Ecol Prog Ser 267:145–158
+National Parks) for providing logistical support at Gorgona Island and   Guzmán HM, López JD (1991) Diet of the corallivorous pufferfish
+to members of the Coral Reef Ecology Research Group at Universidad            Arothon meleagris (Pisces: Tetraodontidae) at Gorgona Island,
+del Valle, mainly Luis David Lizcano and Ana Lucı́a Castrillón, for          Colombia. Rev Biol Trop 39:203–206
+their help during field work. We also thank D.P. Manzello and C.T.       Guzmán HM, Robertson DR (1989) Population and feeding responses
+Perry for their comments regarding carbonate production by ramose             of the corallivorous pufferfish Arothron meleagris to coral
+corals. An earlier version of this manuscript was improved thanks to          mortality in the eastern Pacific. Mar Ecol Prog Ser 55:121–131
+comments made by two anonymous reviewers and H. Sweatman.                Hall VR (2001) The response of Acropora hyacinthus and Montipora
+                                                                              tuberculosa to three different types of colony damage: scraping
+                                                                              injury, tissue mortality and breakage. J Exp Mar Biol Ecol
+                                                                              264:209–223
+References                                                               Heiss GA (1995) Carbonate production by scleractinian corals at
+                                                                              Aqaba, Gulf of Aqaba, Red Sea. Facies 33:19–34
+Adams J, Edwards AJ, Emberton H (1985) Sexual size dimorphism            Henry LA, Hart M (2005) Regeneration from injury and resource
+    and assortative mating in the obligate coral commensal Trapezia           allocation in sponges and corals: a review. Int Rev Hydrobiol
+    ferruginea Latreille (Decapoda, Xanthidae). Crustaceana                   90:125–158
+    48:188–194                                                           Hill MS, Hill AL (2002) Morphological plasticity in the tropical
+Bellwood DR (1995) Direct estimate of bioerosion by two parrotfish            sponge Anthiosigmella varians: responses to predators and wave
+    species, Chlorurus gibbus and C. sordidus, on the Great Barrier           energy. Biol Bull 202:86–95
+    Reef, Australia. Mar Biol 121:419–429                                Hixon MA (1997) Effects of reef fishes on corals and algae. In:
+Bonaldo RM, Bellwood DR (2011) Parrotfish predation on massive                Birkeland C (ed) Life and death of coral reefs. Chapman & Hall,
+    Porites on the Great Barrier Reef. Coral Reefs 30:259–269                 New York, pp 230–248
+
+
+
+
+                                                                                                                                   123
+636                                                                                                             Coral Reefs (2014) 33:625–636
+
+Jadwiszczak P (2009) Rundom Pro version 3.14. http://pjadw.tripod.       Rotjan RD, Lewis SM (2008) Impact of coral predators on tropical
+      com/                                                                    reefs. Mar Ecol Prog Ser 367:73–91
+Jayewardene D, Birkeland C (2006) Fish predation on Hawaiian             Rotjan RD, Dimond JL (2010) Discriminating causes from conse-
+      corals. Coral Reefs 25:499–506                                          quences of persistent parrotfish corallivory. J Exp Mar Biol Ecol
+Jayewardene D, Donahue MJ, Birkeland C (2009) Effects of frequent             390:188–195
+      fish predation on corals in Hawaii. Coral Reefs 28:499–506         Rotjan RD, Dimond JL, Thornhill DJ, Leichter JJ, Helmuth B, Kemp
+Lenihan HS, Edmunds PJ (2010) Response of Pocillopora verrucosa               DW, Lewis SM (2006) Chronic parrotfish grazing impedes coral
+      to corallivory varies with environmental conditions. Mar Ecol           recovery after bleaching. Coral Reefs 25:361–368
+      Prog Ser 409:51–63                                                 Schmidt-Roach S, Miller KJ, Lundgren P, Andreakis N (2014) With
+Lenihan HS, Holbrook SJ, Schmitt RJ, Brooks AJ (2011) Influence of            eyes wide open: a revision of species within and closely related
+      corallivory, competition, and habitat structure on coral commu-         to the Pocillopora damicornis species complex (Scleractinia;
+      nity shifts. Ecology 92:1959–1971                                       Pocilloporidae) using morphology and genetics. Zool J Linn Soc
+Littler MM, Taylor PR, Littler DS (1989) Complex interactions in the          170:1–33
+      control of coral zonation on a Caribbean reef flat. Oecologia      Shantz AA, Stier AC, Idjadi JA (2011) Coral density and predation
+      80:331–340                                                              affect growth of a reef-building coral. Coral Reefs 30:363–367
+Ludwig JA, Reynolds JF (1988) Statistical ecology: a primer of           StatSoft Inc. (2007) STATISTICA (data analysis software system),
+      methods and computing. Wiley Press, New York                            version 8.0. www.statsoft.com
+Miller MW, Hay ME (1998) Effects of fish predation and seaweed           Stimson JS, Kinzie RA (1991) The temporal pattern and rate of
+      competition on the survival and growth of corals. Oecologia             release of zooxanthellae from the reef coral Pocillopora
+      113:231–238                                                             damicornis (Linnaeus) under nitrogen-enrichment and control
+Neudecker S (1979) Effects of grazing and browsing on the zonation            conditions. J Exp Mar Biol Ecol 153:63–74
+      of corals in Guam. Ecology 60:666–672                              Todd PA (2008) Morphological plasticity in scleractinian corals. Biol
+NOAA (2013) Cold and Warm episodes by season: Changes to the                  Rev 83:315–337
+      Oceanic Niño Index (ONI). http://www.cpc.ncep.noaa.gov/           Veron JEN (1995) Corals in space & time: The biogeography &
+      products/analysis_monitoring/ensostuff/ensoyears.shtml                  evolution of Scleractinia. Cornell University Press, New York
+Perry CT, Edinger EN, Kench PS, Mumby PJ, Murphy G, Steneck              Vytopil E, Willis BI (2001) Epifaunal community structure in
+      RS, Smithers SG (2012) Estimating rates of biologically driven          Acropora spp. (Scleractinia) on the Great Barrier Reef: impli-
+      coral reef framework production and erosion: a new census-              cations of coral morphology and habitat complexity. Coral Reefs
+      based carbonate budget methodology and applications to the              20:281–288
+      reefs of Bonaire. Coral Reefs 31:853–868                           Wellington GM (1982) Depth zonation of corals in the Gulf of
+Pinzón JH, Sampayo E, Cox E, Chauka LJ, Chen CA, Voolstra CR,                Panama: control and facilitation by resident reef fishes. Ecol
+      LaJeunesse TC (2013) Blind to morphology: genetics identifies           Monogr 52:224–241
+      several widespread ecological common species and few endem-        West JM (1997) Plasticity in the sclerites of a gorgonian coral: tests of
+      ics among Indo-Pacific cauliflower corals (Pocillopora, Sclerac-        water motion, light level, and damage cues. Biol Bull
+      tinia). J Biogeogr 40:1595–1608                                         192:279–289
+Reyes-Bonilla H, Calderon-Aguilera LE (1999) Population density,         Zapata FA, Morales YA (1997) Spatial and temporal patterns of fish
+      distribution and consumption rates of three corallivores at Cabo        diversity in a coral reef at Gorgona Island, Colombia. Proc 8th
+      Pulmo Reef, Gulf of California, Mexico. Mar Ecol 20:347–357             Int Coral Reef Symp 1:1029–1034
+Reyes-Nivia MC, Garzón-Ferreira J, Rodrı́guez-Ramı́rez A (2004)         Zapata FA, Vargas-Ángel B (2003) Corals and coral reefs of the
+      Depredación de coral vivo por peces en el Parque Nacional              Pacific coast of Colombia. In: Cortés J (ed) Latin America coral
+      Natural Tayrona, Caribe colombiano. Rev Biol Trop 52:883–895            reefs. Elsevier Science, Amsterdam, pp 419–447
+Roff G, Ledlie MH, Ortiz JC, Mumby PJ (2011) Spatial patterns of         Zapata FA, Rodrı́guez-Ramı́rez A, Caro-Zambrano C, Garzón-
+      parrotfish corallivory in the Caribbean: the importance of coral        Ferreira J (2010) Mid-term coral-algal dynamics and conserva-
+      taxa, density and size. PLoS One 6(12):e29133                           tion status of a Gorgona Island (Tropical Eastern Pacific) coral
+Rotjan RD, Lewis SM (2006) Parrotfish abundance and selective                 reef. Rev Biol Trop 58:81–94
+      corallivory on a Belizean coral reef. J Exp Mar Biol Ecol
+      335:292–301
+
+
+
+
+123
+

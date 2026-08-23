@@ -1,0 +1,682 @@
+                                             MARINE ECOLOGY PROGRESS SERIES
+   Vol. 96: 189-198, 1993                                                                                          Published June 17
+                                                    Mar. Ecol. Prog. Ser.
+
+
+
+
+  Effects of coral bleaching on tissue regeneration
+             potential and colony survival
+                                      Erik H. Meesters'r3, Rolf P. M. ~                            a       k        ~       ~        ~
+                                 '
+                               Carmabi Institute, PO Box 2090, Curaqao, Netherlands Antilles
+          'Netherlands Institute for Sea Research (NIOZ), PO Box 59, 1790 AB Den Burg, Texel. The Netherlands
+                   Institute of Taxonomic Zoology, PO Box 4766, 1009 AT Amsterdam, The Netherlands
+
+
+
+
+            ABSTRACT We assessed the influence of coral 'bleaching on the regenerative potential of corals in a
+            senes of field expenments with artificial lesions on colony surfaces These lesions w e r e m a d e d u n n g a
+            mass bleaching event in 1990 on normally coloured and bleached colonies of 3 species A4ontastrea
+            annulans, the main reef-building coral in the Caribbean P o r ~ t e sastreo~des,a relatively c o n m o n and
+            opportunistic coral, and M e a n d r ~ n a meandntes, a species common on the deeper reef slope
+            Regeneration charactenshcs studied included rate of tissue growth, recovery of lesion area and
+            restoration of hssue colour Tissue regenerahon rates were lower in all species when companng
+            bleached with unbleached colonies, although there were species-specific differences Long-tern~
+            exposure to increased temperature probably affects regeneration as bleached colonies of P a s t r e o ~ d e s
+            in the thermal effluent of a power plant regenerated as rapidly as normal colonies situated upcurrent
+            and downcurrent of the power plant Colour recovery of bleached colonies was closely associated with
+            seawater temperature When ambient seawater temperature started to decrease (<3OoC),colonies
+            began to regain thelr normal colour Colour restoration was slowest in M a n n u l a r ~ sNormal colour of
+            coral colonies in the power plant effluent returned at the same t ~ r n e ,but at temperatures 2°C hlgher
+            than elsewhere on the reef Mortality on bleached colonies of M annulans and P a s t r e o ~ d e swas
+            hlgher than on normal colonies 131 d after the start of the regeneration expenments Large parts of
+            the colony died when the tissue was already regalning its normal colour and lesion regeneration was
+            almost completed Mortality was most severe for colonies In the effluent We recorded the sensitivity of
+            coral species to bleaching in surveys over the reef downcurrent and upcurrent of the power plant
+            These showed that community structure and colony condit~onon the shallow terrace downcurrent
+            differed noticeably from the upcurrent site Downcurrent, specles diversity was lower malnly because
+            of high d e n s i t ~ e sof Pontes a s t r e o ~ d e sand D ~ p l o n astngosa Bleaching was also more prominent down-
+            current The decreased regeneration rates and increased mortality of bleached colonies (in Montastrea
+            a n n u l a r ~ sin 30 % of the colonies), d u n n g and subsequent to bleaching clearly Indicate the increased
+            vulnerability of coral reefs d u n n g penods of thermal stress Coral reef management should consider
+            limiting activities resulting in small lesions under penods of Increased environmental stress
+
+
+
+
+                    INTRODUCTION                                        partly) surrounded by the remaining living tissue.
+                                                                        Such a lesion can become a permanent feature,
+  Corals are prone to damage by a multitude of agents,                  colonised by competing organisms (e.g. algae and
+such as hurricanes (Stoddart 1963),sedimentation (Bak                   excavating sponges), but often a colony will restore its
+& Elgershuizen 1976, Bak 1978), temperature changes                     former integrity through the regeneration of tissue and
+(Roberts et al. 1982), emersion at low tide (Loya 1972),                skeleton (Loya 1976, Bak et al. 1977, Bak & Steward-
+predation (Ott & Lewis 1972, Endean 1973, Bak & van                     van Es 1980, Bak 1983).
+Eys 1975), competition (Lang & Chornesky 1990), and                       Regeneration plays a fundamental role in colony
+man (Brown & Howard 1985). Because of their clonal                      survival. Because it requires energy, regeneration
+characteristics (Jackson & Coates 1986), mortality of                   affects growth (Bak 1983), reproduction (Rinkevich &
+coral colonies will often be only partial and result in                 Loya 1989), and probably also resistance to diseases
+a patch of bare skeleton, a lesion that is (wholly or                   and competitive ability.
+
+O Inter-Research 1993
+                                                                                                   meandrftes
+                                             Mar. Ecol. Prog. Ser. 96: 189-198, 1993
+
+
+
+   A phenomenon of widespread global occurrence on                 ing at different sites and to assess a possible influence
+ coral reefs that attracts much attention of reef scientists       of the thermal effluent on community structure.
+is 'bleaching' (e.g. Brown 1990). Bleaching of corals
+is associated with the loss of zooxanthella pigment,
+ either by decreasing the cellular concentration of                              MATERIALS AND METHODS
+chlorophyll per zooxanthella or by the expulsion of
+zooxanthellae (Kinzie et al. 1984, Szmant & Gassman                    The study sites were on the leeward coast of
+ 1990). As a result the coral tissue loses its colour, and          C u r a ~ a o ,Netherlands Antilles (Fig. 1). Here fringing
+colonies turn white because the white skeleton reflects             reefs stretch across a distance of 50 to 100 m from the
+through the tissue. Ecological and physiological re-                coast to a depth of 7 to 12 m. Seawards the reefs
+search on bleaching of reef corals repeatedly stressed              steeply slope to a depth of 50 to 60 m (Bak 1975). On
+the crucial role of elevated temperatures in bleaching              these reefs, in September 1990, many colonies of
+ (Jokiel & Coles 1974, Glynn 1984, Lasker et al. 1984,              various coral species started to pale, eventually turning
+Cook et al. 1990, Gates 1990, Jokiel & Coles 1990).                 white, in an interval of 2 to 3 wk. Not all species
+Elevated temperatures affect coral growth, calcifi-                 seemed to be equally affected, and also within species
+cation, photosynthesis, respiration and reproduction                bleaching intensity varied considerably between
+(Clausen & Roth 1975, Coles & Jokiel 1977, 1978, Jokiel             colonies.
+& Coles 1977, Jokiel & Guinther 1978). Field studies                  Three categories of colouration were observed in the
+have reported the cessation of growth (Goreau &                     field: bleached colonies - completely white colonies;
+Macfarlane 1990) and reproduction (Szmant & Gassman                 partially bleached colonies - colonies displaying a
+1990) in bleached corals. Bleaching appears to be                   reduced pigmentation compared to surrounding
+potentially relevant to an energy-demanding, vital                  normal colonies or colonies showing bleached patches
+process such as regeneration.                                       or patches of reduced pigmentation; and normal
+   To study the effects of bleaching on the regeneration            colonies - colonies of a colour corresponding to that
+capabilities and survival of coral colonies, we carried             observed during periods of normal seawater tempera-
+out in situ experiments with 3 hermatypic zooxanthel-              tures. In our experiment all colonies belonged to one
+late coral species in a period preceded by increasing              of the unequivocal categories: bleached or normally
+seawater temperatures and a mass bleaching event. To               coloured.
+study the effect of long-term elevated temperatures on                Two regeneration experiments were carried out. The
+regeneration, we have compared regeneration charac-                first experiment assessed the influence of bleaching on
+teristics of bleached corals situated in the thermal               the regeneration ability of 3 common species. Artificial
+effluent of a power plant with colonies upcurrent and              lesions were made on normal and bleached colonies of
+downcurrent of the plant. Reefs were surveyed to                   Montastrea annularis (7 November 1990; n,,,,,,          = 24,
+record the sensitivity of the coral community to bleach-           nbleaChd= 50; depth: 7 to 10 m), Porites astreoides
+                                                                                     (31 October 1990; n,,,,,l  = 20, nbleached=
+                                                                                     27; depth: 3 to 6 m), and Meandrina
+                                                                                     meandrites (6 November 1990; nnOrmd     = 5,
+                                                                                     nbleached= 9; depth: 17 to 25 m) at Site 1
+                                                                                     (Fig. 1). M. annularis is the main reef-
+                                                                                     building coral in Curacao and most other
+                                                                                    places in the Caribbean. P. astreoides is
+                                                                                    very common to dominant in shallow
+                                                                                    water, though occurring down to 40 m.
+                                                            wind
+                                                                                    M. meandrites is also distributed over a
+                                                                                    large depth range, but is most prominent
+                                                                                    on the reef slope (Bak 1975, 1977).
+                                                                                       Lesions were made on top of hap-
+                                                                                    hazardly selected colonies with a sub-
+                                                                                    mersible drill powered by a SCUBA tank
+     100 m                                                                          and equipped with a small grinding point
+                                                                                    that created flat circular patches of
+                                                                                    scraped skeleton of approximately 1 cm
+Fig. 1. Location of Curagao and study sites. Species Involved In the experi-        diameter and 2 mm depth in the living
+ments on each site, and main wind and current directions are shown. Water
+is discharged by the power plant in a lagoon and flows through a small                     tissue. M .                     were
+channel along a barrier of concrete and basalt blocks onto the reef                 flat (diameter: 20 to 30 cm), and lesions
+                                         Meesters & Bak. Effects of coral bleaching                                     191
+
+
+
+
+were made in between the collines, on top of a polyp               To assess the sensitivity of different species to bleach-
+mouth, and approximately in the middle of the colony.           ing and to the possible influence of the thermal effluent,
+M. annularis (the massive morphotype; Van Veghel &              the coral communities at Sites 1 & 3 were surveyed in
+Bak 1993), and P. astreoides colonies were approxi-             terms of coral cover, distribution, and health (tissue
+mately hemispherical (height: 40 to 80 and 12 to                colour and mortality). At each site, 4 line transects of
+25 cm respectively). Lesion area was measured with a            50 m each were roped off parallel to the coast at 2
+plexiglass ruler divided into 2 mm squares. At the              depths (3 to 5, and 8 to 10 m, 26 to 27 November 1990).
+start of the experiments lesion depth was measured              On each line 10 random points were sampled (point-
+with calipers to calculate the area of the lesion wall.         quarter method; Dodge et al. 1982).Plots of the average
+This area was included in the estimation of the total           cumulative number of species versus transect length
+lesion area.                                                    levelled off at 200 m or less, indicating that our sample
+   To describe coral regeneration accurately, we intro-         size was sufficient. In addition to colony length, width,
+duce the following definitions:                                 and distance to the random point, we noted colony
+-Regeneration rate: the mean rate at which the lesions          colour (bleached, partially bleached or normal), and
+recover. This is expressed as area covered per unit of          mortality (partially, with new dead spots surrounded by
+time, and is species specific.                                  living tissue, or completely, with no living tissue left).
+- Lesion recovery: the mean percentage of lesion sur-              Statistics. Differences in regeneration rates were
+face area recovered per unit time.                              tested for significance by comparing the mean regener-
+   To calculate regeneration rate and lesion recovery,          ated area d-' after 8 d with Student's t-test (comparing
+lesion size was followed through time. At each data             bleached and normal colonies within 1 species) and 1-
+point we also noted colony colour, signs of mortality,          way ANOVA followed by multiple comparisons using
+infections by other organisms and the appearance of             the Tukey-Kramer method (comparing all Pontes
+polyps and septa. Total observation time was 131 d.             astreoides groups). Differences between regression
+  The second experiment was carried out to investi-             slopes (lesion size versus time) were tested with the
+gate if long-term exposure to higher then normal                GT2-method and Gabriel's approximate method (Sokal
+seawater temperatures influences regeneration. Three            & Rohlf 1981). To normalise the data, lesion measure-
+series of lesions were made: (1) On bleached Porites            ments were logarithmically transformed. Differences
+astreoides colonies (25 October 1990; n = 32; depth:            between frequency distributions of the condition of the
+3 to 5 m) situated in the thermal effluent of a power           colonies after 131 d were tested by the G-test. Three-
+plant (Site 2, Fig. 1).There were no norn~allycoloured          way analyses of frequency data from the reef survey,
+colonies at this site. After the cooling water of the plant     measuring the health status of the colonies, were done
+has been discharged into the lagoon, it flows through           by log-linear modelling (Sokal & Rohlf 1981).
+an outfall channel onto the reef. The thermal effluent            Correlation between water temperature and tissue
+is carried along the coast by the current, which pre-           colour was calculated with the non-parametric Spear-
+dominantly flows in a northwesterly direction. (2) On           man rank-order coefficient, and tested on a 2-tailed
+bleached colonies (25 October 1990; n = 23; depth:              basis (Siege1 & Castellan 1988).
+2 to 5 m) that had been transplanted out of the effluent
+to Site 3, which was situated 100 m upcurrent, and
+assumed to be unaffected by the thermal effluent.                                          RESULTS
+Here temperatures were on average 1.3"C lower than
+at Site 2 (ranging from OS°C at the beginning of the                                  Lesion regeneration
+experiment to 1.5"C at the end; this study). (3) On
+normally coloured colonies (25 October 1990; n = 31;               Two days after the start of the experiments most
+depth: 2 to 5 m) at Site 3.                                     lesions were already decreasing in size (Fig. 2). A
+  Seawater temperatures were measured with cali-                tissue layer had started to grow inwards from the edge
+brated maximum-minimum thermometers. Because of                 of the lesion, covering the bare skeleton. Polyps devel-
+the considerable depth range between the experimen-             oped in the new tissue layer after approximately 1 wk.
+tal species at Site 1, 2 thermometers were used here:           During the first week filamentous algae settled in the
+one in between the Pontes astreoides colonies, situ-            lesions, but this did not appear to retard lesion recov-
+ated at 3 to 6 m depth, and one between the                     ery, because they were overgrown by the coral tissue.
+Montastrea annularis colonies, situated at 7 to 10 m            Algae became more conspicuous later in the experi-
+depth. Temperatures could be read accurately to 0.2 "C.         ment when regeneration rate had largely decreased.
+The thermometers remained submerged during the                  Closed lesions remained visible for some time as a
+whole period and were read at each data point (6 to 8           slightly lighter coloured, shallow depression in the
+times during the research period).                              skeleton. These slowly disappeared through locally
+192                                              Mar. Ecol. Prog. Ser. 96: 189-198,1993
+
+
+
+
+                                                                                    during the first 8 d ( p = 0.040, l-tailed t-
+           Slte 1
+                     M. annularis
+                                                Site 1
+                                                                     M. meandrites
+                                                                                                           l
+                                                                                    test for differences between means). Mean
+                                                                                    regeneration rate (Fig. 3) of bleached
+                                                                                    Pontes astreoides colonies (n = 23) was
+                                                                                    5.4 mm2 d-l, while normal colonies (n = 19)
+                                                                                    recovered at a rate of 9.0 mm2 d-' (P =
+                                                                                    0.042, 1 -tailed t-test). Meandrina mean-
+                                                                                    drites showed the most rapid recovery
+                                                                                    (Figs. 2 & 3). Lesions were closed at a
+                                                                                    mean rate of 18.7 (normal; n = 5) and 15.4
+                                                                                    (bleached; n = 9) mm2 d-' (p = 0.016, 1-
+                                                                                    tailed t-test), even though the initial lesion
+                                                                                    size in the normal group was somewhat
+                                                                                    larger than that of the bleached group (1.6
+                                                                                    vs 1.3 cm2; p = 0.027, 2-tailed t-test).
+                                                                                    Regeneration rate in all species did not
+                                                                                    vary during the first week, but decreased
+                                                                                    sharply in the 2 following weeks.
+                                                                                       Long-term exposure to higher tempera-
+                                                                                    tures probably influences regeneration
+                                             D Normal colonies                      (Figs. 2 & 3). Regeneration rates during the
+           " ' ~ ~ ' ' ' ' ' ~ ~ ~ ' " ' ~ ~ " ' ~ ~ ~ " "
+                                            ~     s      '   "   m l * , ~ f l r , l l
+                                                                 l    ~   ~   ~   '   ~    i   ~   ~   '       ~   ~   '
+
+         0     10   20    30   40   50    60    10    20      30 40   50   60       first 8 d were 12.4, 14.3, and 8.9 mm2 d-'
+                                       Time (d)                                     for normal (n = 31, Site 3), bleached trans-
+                                                                                    planted (n = 23, Site 3), and bleached
+Fig. 2. Montastrea annularis, Meandrina meandrites and Porites astreoldes.          in situ (n = 32, Site 2, in effluent) colonies
+Mean lesion surface area (mm2+ SD) through time for regenerating lesions.           respectively. Colonies in the effluent re-
+Lines fitted to the exponential model Size = slob OdYS, calculated with
+                                                                                    generated at the same rate as normal
+   log(x+l)transformed data, are shown in each graph (see also Table 2)
+                                                                                    colonies at Site 1 (Table 1). There was no
+                                                                                    statistical difference between colonies in
+increased calcification after the new polyps appeared               the effluent, normally coloured colonies at Site 1, and
+in the tissue.                                                      normally coloured colonies at Site 3. Temperature is
+   In Pontes astreoides lesions small fragments of tissue           probably the main difference between sites, and it ap-
+sometimes occurred free of the regenerating tissue                  pears likely that colonies in the effluent have become
+rim, probably from tissue remains located deep in                   acclimatised to the higher water temperatures. Mean
+the perforate skeleton. Montastrea annulans lesions                 regeneration rate of bleached colonies transplanted
+always closed from the periphery of the lesion. New
+polyps developed in between and on the remaining                                                   .    .    l                           I
+
+
+
+calices. Lesions in Meandrina meandrites were very                                                      ; +       :    -
+                                                                           M annulanc 1
+rapidly covered by new tissue, and new polyps devel-
+oped in the old calices only. New septa appeared
+                                                                                                   l                                     '
+immediately after lesions had been closed by the                           t L I meandntes 1       i    /    /    i
+                                                                                              -    !    i   U ;        -
+tissue, and reached their original size (10 to 12 mm) on                                                     .    .
+                                                                                              -    i +       :
+Day 64.                                                                    P. astreoldes 1
+   Some lesions on bleached colonies of Montastrea
+annularis and Porites astreoides enlarged to many                          P asbeoidec E2 -
+times their initial size, occasionally resulting in the                    P. astreoides 3
+death of the whole colony. Such lesions are only in-
+                                                                           P a~freoidec T3
+cluded in the mortality assessment.
+
+
+                    Regeneration rate                                                                                      Mean regeneration rate (mm2 d-l)
+
+  Bleaching affected lesion regeneration of all species
+                                                                                          Fig 3 . Montastrea annulans, Meandrina rneandntes and
+(Figs. 2 & 3). Mean regeneration rate of Montasfrea an-                                   Porites astreojdes. Mean regeneration rate (-2        d - ~
+                                                                                                                                                    and 95 %
+nularis (Fig. 3) was 10.5 (n = 41) and 13.9 mm2 d-'                                       CL) durins the first 8 d followinq lesion infliction. Numbers
+(n = 26) for bleached and normal colonies respectively                                       refer to the different sites; E in effluent; T: transplanted
+                                            Meesters & Bak: Effects of coral bleaching                                        193
+                                                                                                -       -
+
+
+
+
+Table 1 Porites astreoides. Results of Tukey-Kramer comparisons after l-way ANOVA between the mean regeneration rates
+                               +
+(mmz tissue regeneration d-' SE, bold type) of the first 8 d of colonies at Sites 1, 2. & 3. B: bleached; N: normal; BE: bleached
+                    in effluent; BT. bleached transplanted colonies. Significant comparisons are underlined
+
+                           B Site 1                N Site 1             BE Site 2               N Site 3             BT Site 3
+
+ B Site 1                  5.4 f 1.5                 0.187               0.117                   0.000                 0.000
+ N Site 1                                          9.0 k 1.2             0.999                   0.181                 0,O lCl
+ BE Site 2                                                              8.9? 1.1                 0.066                 0.001
+ N Site 3                                                                                           +
+                                                                                               12.4 0.5                0.676
+ BT Site 3                                                                                                                +
+                                                                                                                     14.3 0.7
+
+
+
+out of the effluent upcurrent to Site 3 was comparable             was 49 %, while normal and bleached transplanted P.
+to that of the normal colonies at Site 3 (no statistical           astreoides colonies at Site 3 had recovered respec-
+difference). Transplantation is not likely to affect               tively 62 and 65 %.
+regeneration, because transplantation effects have not
+been found in the past (l-way ANOVA of regeneration
+regression coefficients comparing in situ colonies with                                  Regression analyses
+transplanted colonies, p = 0.4; Meesters unpubl.).
+                                                                     Regeneration was characterized by an exponential
+                                                                   decrease in lesion size (Fig. 2, Table 2). Consequently,
+                      Lesion recovery                              regeneration rate, being the first derivate of the
+                                                                   regression, also decreases exponentially. All species
+   Lesion recovery of bleached colonies after 8 d was              and treatments were compared in a single comparison
+56 and 35 % of the initial lesion surface area of                  of regression slopes, using the data of both experi-
+Montastrea annularis and Porites astreoides respec-                ments (Fig. 4). The differences between slopes are
+tively. At this time normal colonies had already recov-            comparable to the differences in average regenerated
+ered 70 and 51 % respectively. Lesion recovery of both             surface during the first 8 d (Table 1, Fig. 3). Regression
+normal and bleached colonies of Meandrina mean-                    slope of bleached colonies of Porites astreoides and
+drites was 93 % of the initial lesion surface area after           Montastrea annularis was lower than in all other
+8 d. In the thermal effluent, lesion recovery after 8 d            groups (Fig. 4). P. astreoides at Sites 2 & 3 (bleached
+                                                                   in effluent, bleached transplanted to Site 3, and normal
+                                                                   at Site 3) regenerated at the same rate as normal
+Table 2. Montastrea annularis, Meandrina meandrites and            colonies of M. annularis and P. astreoides at Site 1.
+Porites astreoides. Results of regression calculations of lesion   There was no difference between the 2 series of
+size through time (Fig 2). Regression hnes were fitted to the      A4eandrina meandrites, the species which regenerated
+model Size = a 1 0 ~ ~ " All~ 'data were log(x+l) transformed
+to reduce heteroscedacity. The number of days included in
+                                                                   much faster than all other species and treatments.
+the regression calculation is shown in parentheses. N: normal
+colonies; B: bleached colonies; BE: bleached in effluent;
+                  BT: bleached transplanted                                                Tissue colour
+
+ Experiment                    a        b        R2       P          The number of experimental bleached colonies that
+                                                                   had recovered their normal pigmentation started to
+ Site 1
+                                                                   increase approximately 1 mo after the onset of bleach-
+ M annularis
+                                                                   ing (Fig. 5). At that time lesions had already recovered
+                                                                   well over 70 O/O of their initial surface area.
+ M. meandrites
+                                                                     On Montastrea annularis pigmentation first reap-
+ P astreoides                                                      peared in irregular patches on the sides of the colonies,
+                                                                   while the upper surfaces were the last part to acquire
+ Site 2                                                            their normal colouration. Pigmentation returned more
+ P. astreoides                                                     evenly over colonies of Pontes astreoides, there being
+ Site 3
+                                                                   no clear distinction between upper surfaces and sides.
+                                                                   Meandrina meandrites (which was the first species to
+ P. astreoides
+                                                                   show signs of bleaching) was the first to recover pig-
+                                                                   mentation completely.
+ 194                                             Mar. Ecol. Prog. Ser. 96: 189-198, 1993
+
+
+
+
+                                                                       experiments, only 38 % of the Montastrea annulan-S
+                                                                       colonies had regained their natural colour. No normal
+                                             M. annularis 1
+                                                                       colonies appeared until temperatures were below
+                                                                       27.8 "C. Pigmentation in Meandtina meandrites re-
+                                             M , meandrites 1          turned quickly, as soon as temperatures came down
+                                                                       below 30.8 "C (Fig. 5A).
+                                                                         In the effluent at Site 2 (Fig. 5C), temperatures
+                                                                       dropped more slowly and not as much as at the other
+                                                                       locations. Porites astreoides colonies in the effluent
+                                                                       already recovered normal colouration when water
+                                             P. astreoides 3           temperature was still 30.8"C. P. astreoides colonies at
+                                                                       Sites 1 & 3 regained their normal colour only when
+                                             P. astreoides T 3
+                                                                       temperatures dropped below 28.5 "C (Fig. 5B, D). Tem-
+                                                                       peratures in the shallow part of Site 1 (Fig. 5B) were
+         -0.20   -0.15   -0.10   -0.05   0.00
+                                                                       higher than in the deeper part (Fig. 5A). The warm
+                   Regression slope                                    water from the power plant apparently keeps close to
+                                                                       the shore and affects the temperature around the
+Fig. 4. Montastrea annularis, Meandrina meandrites and
+Porites astreoides. Regression coefficients and 95 % com-              Pontes colonies, rather then around the Montastrea-
+parison intervals of the species in the 2 experiments. Slopes          Meandrina group.
+are significantly Mferent at the 0.05 level if their intervals
+           do not overlap. Site numbers as in Fig. 3
+                                                                                            Coral mortality
+  Colour restoration appeared to be negatively corre-
+lated with decreasing water temperature (Fig. 5).                        Mortality resulted from the disappearance of
+When the other species had already completely                          bleached tissue peeled off the skeleton, and the sub-
+recovered their normal pigmentation, at the end of the                 sequent colonization by filamentous algae of the ex-
+                                                                       posed skeleton. Reactions of the experimental colonies
+                                                                       differed between species after 131 d (Table 3). All
+                                                                       lesions of Meandrina meandrites regenerated, and no
+                                                                       mortality occurred on normal or bleached colonies.
+                                                                       Bleached colonies of Montastrea annularis and Pontes
+                                                                       astreoides showed significantly more mortality than
+                                                                       normal colonies. Bleached P. astreoides colonies in the
+                                                                       effluent and at Site 1 suffered most, more than 90%
+                                                                       and 60 % of the colonies showing respectively signs of
+                                                                       mortality (p < 0.05 for comparison of bleached colonies
+                                                                       in the effluent with bleached colonies at Site 1).
+                                                                       There was no significant difference between mortality
+                                                                       patterns of bleached transplanted colonies, normal
+                                                                       colonies at Site 3, and normal colonies at Site 1.
+
+
+                                                                          Community structure and condition of colonies
+
+                             Time (d)                                    Colony density and coral cover differed markedly
+                                                                       between Sites 1 & 3 (Table 4). Mean colony density
+Fig. 5. Montastrea annularis, Meandrina meandrites and                 on the terrace at Site 1 is h g h e r than at Site 3 (t-test
+Porites astreoides. Mean water temperature (average of
+                                                                       for unequal variances, p = 0.04). This is largely
+maximum and rmnimum temperature during preceding
+period) at the 3 sites during the research period, and percent-        attributable to the occurrence of extremely high num-
+age of the total number of bleached colonies in the 2 experi-          bers of small Pontes astreoides colonies, and to a lesser
+ments that had restored pigmentation ( m ) Temperature.                extent to a higher density of Diploria strigosa. This
+Spearman rank correlation coefficients (rS):(A) Site 1: ( A ) M.       phenomenon also influences the terrace diversity
+annularis (rS= -0.68, p = 0.140);(0)M. meandrites (rS= -0.93,
+p = 0.008). (B) Site 1: ( a ) P astreoides (rs = -0.61, p = 0.190).    index at Site 1, although the low number of species is
+(C) Site 2: ( 0 ) P. astreoides in effluent (rs = -0.95, p = 0.003).   mostly responsible for the lower diversity indices.
+(D) Site 3: ( o )P. astreoides transplanted (r, = -0.94, p = 0.005)    Colony density at the reef-slopes is approximately
+                                             Meesters & Bak: Effects of coral bleaching                                                    195
+
+
+
+
+Table 3. Montastrea annularis, Meandrjna meandrites and Pontes astreoides. Percentage of corals affected by different cate-
+gones of mortality after 131 d . Statistics (G) and associated probabilities are given on differences between mortality categones
+( w ~ t htotal and partial mortality grouped) among bleached and normal colonies per species. Categories - closed: lesion closed,
+no mortality; not closed: lesion not closed and not enlarged; partial mortality: lesion enlarged; total mortality: no living tissue left.
+                                         n: no. of colonies per group. Other codes as in Table 2
+
+ Experiment                       Closed           Not closed       Partial mortality        Total mortality          G               n
+
+ Site 1
+ M. annularis           N            71                29                   0                       0               17.9              24
+                        B            32                36                  32                       0             (<0.001)            50
+ M. meandrites          N           100                 0                   0                       0                                  5
+                        B           100                 0                   0                       0                                  9
+ P. astreoides          N            70                20                   5                       5               18.1              20
+                        B            15                26                  56                       4             (<0.001)            27
+ Site 2
+ P. astreoides          BE             6                3                  87                       3                                 31
+ Site 3
+ P. astreoides          N            77                13                  10                       0                5.2              31
+                        BT           60                 5                  30                       5               (0.07)            20
+ Total                               47.5              19.4                33.2                     1.8                           217
+
+
+Table 4. Colony density ( % of total number of colonies per 100 m2 reef bottom) and coral cover (%) for each species at the shallow
+and deeper reef terrace at Sites 1 & 3. Shannon-Wiener diversity indices: H',, = -Xni Inn,, and H; = -Cc, ln c,, where
+                 ni = proportion of individuals of each species and c, = proportion of coverage for each species
+
+   Species                                         Site 1                  Site 3                   Site 1                     Site 3
+                                                  (3-5 m)                 (3-5 m)                 (8-10 m)                   (8-10 m)
+
+   Density
+   Agan'cia h umilis                                0.0                     1.2                      0.0                       2.6
+   Colpophyllia natans                              0.0                     0.0                      1.3                       0.0
+   Diploria clivosa                                 2.5                     3.6                      0.0                       0.0
+   Dendrogyra cylindrus                             0.0                     0.0                      0.0                       2
+   Dichocoenia stokes1                              0.0                     2.4                     21.5                      17 2
+   Diploria strigosa                               20.1                    23.0                     11.4                      17.2
+   Montastrea annularis                             0.0                     3.6                     10.1                       5.3
+   Montastrea cavernosa                             0.0                     1.6                      6.3                      11.3
+   Millepora cornplana ta                           5.8                    13.1                      0.0                       0.0
+   Madracis decactis                                0.0                     0.0                      2.5                       0.7
+   Meandnna meandrites                              0.0                     2.0                     12.7                       9.9
+   Madracis mirabilis                               0.0                     0.0                      5.1                       1.3
+   Porites astreoides                              65.2                    44.0                     14.6                      12.6
+   Stephanocoenja rnichelinii                       0.0                     0.4                      1.9                       4.0
+   Siderastrea siderea                              6.4                     4.0                     12.7                      14.6
+   No. of colonies                               1178                     630                      27 1                      482
+   No. of species                                   5                      11                       11                        12
+   H'n                                              1.03                    1.70                     2.16                      2.24
+   Cover
+   Dendrogyra cylindrus                             0.0                      0.0                     0.0                       4.0
+   Dichocoenia stokesi                              0.0                      0.3                     0.8                       1.5
+   Diploria strigosa                                2.3                      3.4                     0.8                       3.3
+   Montastrea annularis                             0.0                      0.3                     1.3                       1.1
+   Mon tastrea ca vernosa                           0.0                      0.1                     0.3                       1.0
+   Millepora complanata                             0.6                      1.5                     0.0                       0.0
+   Meandrina meandrites                             0.0                      0.0                     0.4                       1.O
+   Madracis mira bilis                              0.0                      0.0                     0.5                       1.4
+   Porites astreoides                               3.0                      1.4                     0.8                       0.2
+   Siderastrea siderea                              0.3                      0.3                     0.5                       2.5
+   Total cover                                      6.2                      7.3                     5.4                      16.0
+   H'c                                              1.27                     1.6                     2.17                      2.02
+   Average (5 SD), n = 4
+   Density (m-')                                12.08 f 3.47             6.34 f 0.52             3.03 f 1.45               5.81 ? 2.90
+   Cover                                         6.80 f 2.61             7.70 f 2.40             7.41 f 4.26              17.07 f 4.34
+196                                                       Mar. Ecol. Prog. Ser. 96: 189-198, 1993
+
+
+
+
+equal between the 2 sites (p = 0.14; t-test). Mean coral                                  Es 1980, Bak 1983). A species such as Acropora
+cover on the reef terrace is not statistically different be-                             palmata, fast growing, and recruiting mainly through
+tween the 2 sites (p = 0.63),but differs between the re-                                 fragmentation (Bak & Engel 1979), regenerates small
+spective reef-slopes. At Site 3, upcurrent from the                                      lesions very rapidly (Bak 1983).Contrastingly, Agaricia
+power plant outfall, coral cover was more than twice                                     agaricites, growing more slowly and depending for
+the cover at Site l (p = 0.02).                                                          propagation mainly on sexual reproduction (Bak &
+  The surveyed colonies were classified as normal,                                       Engel 1979), is a poor regenerator (Bak & Steward-van
+partially bleached, completely bleached, partially                                       Es 1980). In this study, bleached colonies of Montastrea
+dead, or completely dead (Fig. 6). At the time of                                         annularis, Pontes astreoides, and Meandrina mean-
+the survey only a single Porites astreoides colony and a                                  drites regenerated their lesions more slowly than
+few Millepora complanata colonies on the terrace at                                      normal colonies.
+Site 1 showed signs of mortality. Apart from the differ-                                    Coral tissues are damaged continually through the
+ence in species number between the terrace at Sites 1                                    activities of fishes, echinoids, asteroids, molluscs, poly-
+& 3, bleaching was more pronounced at Site 1 (p =                                        chaetes, microorganisms, and man (reviews by Pearson
+0.016, test for 3-factor interaction using log-linear                                     1981, Brown & Howard 1985, Hutchings 1986). Inva-
+model). Species on the terrace of Site 1 were equally                                    sion of these patches by other organisms, such as exca-
+affected (p = 0.12), while the same species at Site 3                                    vating sponges or algae, may result in weakening of
+were not ( p < 0.001), indicating possibly different                                     the skeleton or in overgrowth, and subsequent death
+environmental conditions a1 the 2 sites. Both reef-                                      of the whole or part of the colony. At least 2 factors are
+slope sites were equally affected ( p = 0.22, test for                                   important in this process. Firstly, regeneration rates
+3-factor interaction), and species differed in the way                                   decrease exponentially through time, as was shown by
+they were affected (p<0.0001). Of the surveyed                                           the good fit to exponential regression lines (Table 2).
+Montastrea annularis colonies and Dichocoenia stokesi                                    Secondly, the lesions are invariably colonized by fila-
+100 and 88 % respectively were bleached or partly                                        mentous algae which become conspicuous after 2 to
+bleached. In contrast, only 19 % of P. astreoides were                                   3 wk. A result of the first factor is that larger lesions on
+bleached.                                                                                corals may not close at all (e.g. Bak & Steward-van Es
+                                                                                         1980). During this study we never observed regenera-
+                                                                                         tion of the large lesions, resulting from mortality of
+                              DISCUSSION                                                 bleached tissue. Lesions on normal colonies close more
+                                                                                         efficiently even though they are also always colonised
+  This study shows that regeneration is not only                                         by algae. It appears that the simple presence of fila-
+species specific, but also negatively influenced by                                      mentous algae is not important as long as there is
+bleaching. Regeneration rates of corals have been                                        active regeneration (Bak & Steward - van Es 1980).
+shown to be species specific, and associated with life                                     Meandrina meandrites regenerated extremely rapidly.
+history strategies (Bak et al. 1977, Bak & Steward-van                                   A difference in the regeneration rate between normal
+
+
+                                        Deeper terrace                                                          Shallow terrace
+                              Site 1                             Site 3                            Site l                             Site 3
+
+
+
+
+ -   -   -.- - - -
+                                                                                               C o q l e t d y bleached
+M. cavemosa
+C natans
+
+                                                                                     1
+                                                     I
+                                             * +          1.-
+D stokesi
+                                                                     -   7
+
+
+
+
+.A.. ..-. ----
+     h~lrnrllc
+ M rneandn'tes   - 1 -
+M complanata
+S srderea
+D. divosa
+                               I
+D. stn'oosa
+P astreoldes
+
+                     0   20   40   60   80         100   20     40       60   80
+                                                                                     l
+                                                                                    100 0    20    40     60      80      100   20   40   60   80 100
+                                                                                                                                                        18.19,99.72
+
+
+
+                                                                                   PERCENT
+
+Fig 6. Colony condlt~onof the species at the shallow and deeper terrace of Sites 1 & 3. Total number of colonies per species
+                               per site are given at end of bars at right. Species as in Table 4
+                                        Meesters & Bak: Ef fects of coral bleaching                                       197
+
+
+
+
+and bleached colonies could only be measured during             sensitive to bleaching and consequent n~ortality.From
+the first 8 d. At the next survey, after 16 d regeneration,     a conservation and management point of view it
+many lesions of both normal and bleached colonies               appears strongly advisable to reduce human activities
+had already closed. The lack of difference between              in times of stress to limit possible damage to corals
+the regression coefficients of M. meandrites must be            as much as possible, because the ability of corals to
+attributed to the low numbers of colonies in the exper-         regenerate damage appears to decrease under stress.
+iment, and the fact that the initial lesions were larger          In conclusion, bleaching limits the potential of corals
+in normal colonies than in bleached colonies.                   to recover from small wounds. Small patches of bare
+   Our field study strongly suggests that the corals            skeleton may enlarge, resulting in partial or total death
+living in the power plant effluent have become accli-           of the colony. Mortality in corals, among them
+matised. Regeneration rate of bleached Porites as-              A4ontastrea annulans, the main reef-building coral in
+treoides colonies situated in the thermal effluents of a        the Caribbean, was very high, when damaged in
+power plant was just as high as that of normal colonies         bleached condition.
+at the other 2 sites. Furthermore, they regained their
+normal colour at higher temperatures than colonies in
+the other experiment. Colonies transplanted out of the          Acknowledgements. We thank the Carmabi dive buddies for
+                                                                their help and advice, M. Brown and 0.Wijker for their assis-
+effluent upcurrent also regenerated at a rate compa-
+                                                                tance under water and J. Vermeulen and G . Nieuwland for
+rable to normally coloured colonies. Previous labora-           logistical support. The manuscript benefitted from the com-
+tory studies have already indicated the possibility of          ments of L. Fernandes and 3 anonymous reviewers. This
+corals acclimatizing to higher than ambient tempera-            research was supported by a grant from the Netherlands
+tures (Clausen & Roth 1975, Coles & Jokiel 1978).               Foundation for the Advancement of Tropical Research
+                                                                (WOTRO) W84-311.
+   The power plant is suspected to have changed com-
+munity structure at the shallow part of Site 1, 500 m
+downcurrent, where Porites astreoides and Diploria
+strigosa densities were higher, and diversity was                                     LITERATURE CITED
+lower, when compared to Site 3 , upcurrent of the              Bak, R. P. M. (1975). Ecological aspects of the distribution of
+power plant. Positive effects on coral recruitment have           reef corals in the Netherlands Antilles. Bijdr. Dierk. 45:
+been reported by Edmondson (1946) and Coles (1984),               181-190
+who found increased settlement rates at higher tem-            Bak, R. P. M. (1977) Coral reefs and their zonation in
+peratures.                                                        Netherlands Antilles. Studles in Geology, AAPG 4 - 3-16
+                                                               Bak, R. P. M. (1978).Lethal and sublethal effects of dredging
+   A delayed effect of bleaching was indicated by the             on reef corals. Mar. Biol. 9: 14-16
+increase in mortality of bleached colonies at a time           Bak, R. P. M. (1983).Neoplasia, regeneration and growth in the
+when water temperature was approaching normal                     reef-buildmg coral Acroporapalmata. Mar. Biol. 77: 221-227
+values, colonies had almost regained their normal              Bak, R. P. M.. Brouns, J. J. W. M,, Heys. F. IM. L. (1977).
+                                                                  Regeneration and aspects of spatial competition in the
+colour, and the majority of the lesions were almost               scleractinian corals Agaricia agaricites and Montastrea
+closed. This could mean that colonies were drawing on             annularis. Proc. 3rd int. Symp. coral Reefs 143-149
+their reserves, which became depleted during this              Bak, R. P. M,, Elgershuizen, J. H. B. W. (1976).Patterns of oil-
+period. Davies (1991) estimates that through metaboli-            sediment rejection in corals. Mar. Biol. 37: 105-113
+sation of Lipid reserves corals can survive periods of         Bak, R. P. M . , Engel, M . S. (1979). Distribution, abundance
+                                                                  and survival of juvenile hermatypic corals (Scleractinia)
+low photosynthetic productivity for 28 to 114 d. Mor-             and the importance of life history strategies in the parent
+tality was especially high for corals in the effluent,            coral community. Mar Biol. 54: 341-352
+which might indicate that their reserves were less than        Bak, R. P. M,, Steward-van Es, Y (1980). Regeneration of
+those of the other corals. During this study Montastrea           superficial damage in the scleractinian corals Agancia
+                                                                  agancites f. purpurea and Porites astreoides. Bull. mar.
+annularis was not as badly affected by mortality as the           Sci. 30: 883-887
+other species, but later observations on the reef terrace      Bak, R. P. M,, Van Eys. G. (1975). Predation by the sea urchin
+showed severe mortality on top of many columnar and               Diadema antillarum Philippi on living coral. Oecologia
+massive colonies. Most lesions, resulting from the                20: 111-115
+                                                               Brown, B. E. (ed.) (1990) Bleaching. Coral Reefs, Special
+death of bleached patches, will not recover because
+                                                                  issue 8(4):135-232
+they are too large. Our reef survey, which was done            Brown, B. E., Howard, L S. (1985). Assessing the effects of
+at the time when water temperatures were highest,                 'stress' on reef corals. Adv. mar. Biol. 22: 1-63
+indicates that all Ad. annularis colonies displayed signs      Clausen, C., Roth, A A (1975). Effect of temperature adap-
+of bleaching. The fact that in our experiments M. an-             tation on calcification rate in the hermatypic coral Pocil-
+                                                                  lopora damicornis. Mar. Biol. 33: 93-100
+nularis was the last species to start recovery, and that       Coles, S. L. (1984). Colonization of Hawaiian reef corals on
+30 % of our experimental colonies showed signs of                 new and denuded substrata in the vicinity of a Hawaiian
+partial mortality, indicates that M. annularis is very            power station. Coral Reefs 3: 123- 130
+198                                             Mar Ecol. Prog. Ser. 96: 189-198, 1993
+
+
+
+
+Coles, S. L., Jokiel, P. L. (1977). Effects of temperature on        I n z i e , R. A. Ill, Jokiel, P. L., York. R. H. Jr (1984). Effects
+     photosynthesis and respiration in hermatypic corals. Mar.            of light of altered spectral composition on coral zoo-
+     Biol. 43: 209-216                                                    xanthellae associations and on zooxanthellae in vitro. Mar.
+Coles, S. L., Jokiel, P. L. (1978).Synergistic effects of temper-         Biol. 78: 239-248
+     ature, salinity and light on the hermatypic coral Montipora     Lang, J. C., Chornesky, E. A. (1990). Competition between
+      verrucosa. Mar. Biol. 49: 187-195                                   scleractinian reef corals - a review of mechanisms and
+Cook, C. B., Logan, A., Ward, J., Luckhurst, B., Berg, C. J . Jr          effects. In: Dubinsky, Z. (ed.)Ecosystems of the world 25,
+      (1990). Elevated temperatures and bleaching on a high               Coral reefs. Elsevier, Amsterdam, p. 209-252
+     latitude coral reef: the 1988 Bermuda event. Coral Reefs        Lasker, H. R., Peters, E. C., Coffroth, M. A. (1984). Bleaching
+     9: 45-49                                                             of reef coelenterates in the San Blas Islands, Panama.
+Dodge, E. D., Logan, A., Antonius, A. (1982). Quantative reef             Coral Reefs 3: 183-190
+     assessment studies in Bermuda: a comparison of methods          Loya, Y (1972). Community structure and species diversity of
+     and preliminary results. Bull. mar. Sci. 32: 745-760                 hermatypic corals at Eilat, Red Sea. Mar. Biol. 13: 100-123
+Davies, P. S. (1991).Effect of daylight variations on the energy     Loya, Y. (1976). Skeletal regeneration in a Red Sea sclerac-
+     budgets of shallow-water corals. Mar. Biol. 108: 137-144             tinian coral population. Nature 261: 490-491
+Edmondson, C. H. (1946). Behavior of coral planulae under            Ott, B., Lewis, J . B. (1972).The importance of the gastropod
+     altered saline and thermal conditions. Bernice P. Bishop             Coralliophila abbreviata (Lamarck) and the polychaete
+     Mus. Occ. Pap. 18: 283-304                                           Hermodice carunculata (Pallas) as coral reef predators.
+Endean, R. (1973). Destruction and recovery of coral reef                 Can. J. Zool. 50: 1651-1656
+     communities. In: Jones, 0. A., Endean, R. (eds.) Biology        Pearson, R . G. (1981). Recovery and recolonization of coral
+     and geology of coral reefs, 111, Biology 2. Academic Press,          reefs. Mar. Ecol. Prog. Ser. 4: 105-122
+     New York, p. 215-254                                            Rinkevich, B., Loya, Y. (1989). Reproduction in regenerating
+Gates, R. D. (1990).Seawater temperature and sublethal coral              colonies of the coral Stylophora pistillata. In: Spanier, E..
+     bleaching in Jamaica. Coral Reefs 8: 193-197                         Steinberger, Y , Luria, M. (eds.) Environmental quality
+Glynn, P. W. (1984).Widespread mortality and the 1982-1983                and ecosystem stability. IV B, Environmental quality.
+     El Nifio warming event. Environ. Consew. 11: 133-146                 Hebrew University, Jerusalem, p. 257-265
+Goreau, T. J., Macfarlane, A. H. (1990).Reduced growth rate          Roberts, H. H., Rouse, L. J. Jr, Walker, N. D., Hudson, J. H.
+     of Montastrea annularis following the 1987-1988 coral-               (1982). Cold-water stress in Florida Bay and northern
+     bleaching event. Coral Reefs 8: 211-215                              Bahamas: a product of winter cold-air outbreaks. J. sedim.
+Hutchings, P. A. (1986). Biological destruction of coral reefs.           Petrol. 52: 145-155
+     Coral Reefs 4: 239-252                                          S ~ e g e l ,S., Castellan, N. J . (1988).Nonparametric statistics for
+Jackson, J. B. C., Coates, A. G. (1986).Life cycles and evolution         the behavioral sciences, 2nd edn. McGraw-Hill, New York
+     of clonal (modular) animals. Phil. Trans. R. Soc. B 313: 7-22   Sokal, R. R., Rohlf, F. J . (1981). Biometry. W. H. Freeman and
+Jokiel, P. L., Coles, S. L. (1974) Effects of heated effluents on         Co., New York
+     hermatypic corals at Kahe Point, Oahu. Pacif. Sci. 28: 1-18     Stoddart, D. R. (1963). Effects of Huricane Hattie on the
+Jokiel, P. L., Coles, S. L. (1977). Effects of temperature on             British Honduras reefs and cays, October 30-31. 1961.
+     the mortality and growth of Hawaiian reef corals. Mar.               Atoll. Res. Bull. 95: 1-142
+     Biol. 43: 201-208                                               Szmant, A. M,, Gassman, N. J . (1990).The effects of prolonged
+J o h e l , P. L., Coles, S. L. (1990). Response of Hawaiian and          bleaching on the tissue biomass and reproduction of the
+     other Indo-Pacific reef corals to elevated temperature.              reef coral Montastrea annularis. Coral Reefs 8: 217-224
+     Coral Reefs 8: 155-162                                          Van Veghel, M. L. J . , Bak, R. P. M. (1993). lntraspecific
+J o h e l , P. L., Guinther, E. B. (1978). Effects of temperature        variahon of a dominant Caribbean reef building coral,
+     on reproduction in the hermatypic coral Pociflopora darni-           Montastrea annularis: genetic, behavioral and morpho-
+     cornis. Bull. mar. Sci. 28: 786-789                                 metric aspects. Mar. Ecol. Prog. Ser. 92: 255-265
+
+This article was submitted to the editor                             Manuscript first received: February 14,1992
+                                                                     Revised version accepted: March 24, 1993
+

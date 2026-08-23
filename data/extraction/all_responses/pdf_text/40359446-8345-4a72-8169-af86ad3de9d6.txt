@@ -1,0 +1,791 @@
+   Vol. 409: 51–63, 2010                       MARINE ECOLOGY PROGRESS SERIES
+                                                                                                                 Published June 23
+   doi: 10.3354/meps08595                              Mar Ecol Prog Ser
+
+
+                                                                                                                    OPEN
+                                                                                                                    ACCESS
+
+   Response of Pocillopora verrucosa to corallivory
+        varies with environmental conditions
+                                    Hunter S. Lenihan1,*, Peter J. Edmunds2
+            1
+                Bren School of Environmental Science and Management, University of California, Santa Barbara,
+                                                California 93106-5131, USA
+                 2
+                     Department of Biology, California State University, Northridge, California 91330-8303, USA
+
+
+
+
+      ABSTRACT: We wounded Pocillopora verrucosa to simulate injury caused by fish corallivores, and
+      then evaluated impacts of this damage on coral performance under different temperatures (26.6 and
+      29.6°C) and flow speeds (6 and 21 cm s–1) in microcosms. Colony growth (weight), photosynthetic effi-
+      ciency (maximum dark-adapted quantum yield of PSII, Fv /Fm [where PSII is Photosystem II, Fv vari-
+      able fluorescence and Fm maximum fluorescence yield in the dark]), and the healing of lesions were
+      measured during 2 replicate 10 d trials. Injury caused growth to increase in 3 of 4 treatments: high
+      flow, high temperature; low flow, high temperature; and low flow, low temperature. However, growth
+      was greatest for uninjured corals in the high-flow, low temperature treatment, which appears to pro-
+      vide optimal conditions for P. verrucosa (when not injured). Temperature alone had little effect on
+      growth but influenced Fv /Fm, as did flow; Fv /Fm was 5% greater at 26.6°C than 29.6°C, and 3% higher
+      at 21 cm s–1 than 6 cm s–1. Injury had little effect on Fv /Fm, and neither temperature nor flow affected
+      the rate of healing that occurred at 17 to 25% of the lesion area in 10 d. Results from a field ex-
+      periment, in which growth of P. verrucosa was tested as a function of flow speed (~14 cm s–1 versus
+      ~3 cm s–1) and fish predation (predators versus no predators), but not temperature, supported results
+      of the microcosm experiment. Growth was greatest for corals in the high-flow, no predator treatment,
+      and relatively high for injured corals in low flow. Together, these results suggest that P. verrucosa, a
+      common branching coral, prioritizes overall growth over repair when injured by fish feeding, which
+      differs from the outcome observed in a companion study in which juvenile colonies of massive Porites
+      were subjected to similar injuries.
+
+      KEY WORDS: Coral · Predation · Flow · Temperature · Scleractinia
+                                Resale or republication not permitted without written consent of the publisher
+
+
+
+                       INTRODUCTION                                       performance of prey (Peterson & Quammen 1982,
+                                                                          Zajac 1985) under varying environmental conditions
+   The foundation of modern ecology includes research                     (Lincoln et al. 1993, Powers & Peterson 2000, Powers &
+conducted in marine ecosystems that reveals how abi-                      Kittinger 2002). Partial predation can trigger complex
+otic conditions influence biotic interactions, including                  responses in prey that alter demographic performance,
+competition, predation, and positive relationships (e.g.                  especially growth (Skilleter & Peterson 1994) and
+Connell 1961a,b, Paine 1966, Dayton 1971, Bertness &                      reproductive output (Strauss & Agrawal 1999).
+Callaway 1994). Similar physical–biological interac-                         Corals are frequently attacked and injured by coral-
+tions occur in terrestrial (Crawley 1985, Belsky et al.                   livorous fishes and invertebrates (Moran 1986, Turner
+1989), freshwater (Cardinale et al. 1997), and estuarine                  1994, Rotjan & Lewis 2008), and corallivory appears to
+(Lenihan & Peterson 1998, Leonard et al. 1998) eco-                       be an important factor regulating coral abundance,
+systems. A subset of this work focused on non-fatal                       distribution, and fitness, especially for the most pre-
+injuries caused by herbivory (‘incomplete grazing’)                       ferred coral taxa, Acropora, Pocillopora, and Porites
+and predation (‘partial predation’) that influence the                    (Cole et al. 2008). Partial predation of corals has prob-
+
+
+*Email: lenihan@bren.ucsb.edu                                             © Inter-Research 2010 · www.int-res.com
+52                                          Mar Ecol Prog Ser 409: 51–63, 2010
+
+
+
+
+ably played a significant role in coral evolution              can be deposited directly within the wound, thereby
+through its effect on morphology, physiology, and eco-         supporting rapid increases in weight of damaged
+logical adaptation (Wood 1998). Such injuries can              corals. Such an outcome is reminiscent of the ‘compen-
+reduce coral performance (Frydl 1979, Neudecker                satory growth’ shown by some plants in response to
+1979, Cox 1986, Rotjan & Lewis 2009), in part because          herbivores (McNaughton 1983). In our earlier work,
+corals may allocate limited resources to repair injuries       we found that the healing of injured Porites was modi-
+and regenerate lost tissue (Hall 2001, Henry & Hart            fied by temperature, with tissue regeneration and
+2005). The regeneration of tissue is affected by other         growth greater at 27°C than 30°C (Edmunds & Lenihan
+intrinsic factors besides resources, such as the innate        2010), probably because the lower temperature is close
+capacity for regeneration (Meesters et al. 1997),              to the thermal optimum for a variety of physiological
+translocation within the colony (Oren et al. 2001), dis-       processes in corals (Buddemeier & Kinzie 1976, Igle-
+ease (Aeby & Santavy 2006), and the capacity for the           sias-Prieto et al. 1992, Edmunds 2005).
+induction of biochemical responses to the initial distur-         Following our analysis of the effects of damage on
+bance (Gochfeld 2004) (reviewed in Henry & Hart                massive Porites, here we expand our study to branch-
+2005). Extrinsic factors, such as the abiotic conditions,      ing Pocillopora spp. (henceforth Pocillopora) based on
+can also affect the healing of coral tissues by limiting       the rationale that a dissimilar response might be antic-
+the availability of energetic and cellular resources nec-      ipated given the dissimilar morphologies and life-his-
+essary for regeneration (Henry & Hart 2005). Competi-          tory strategies of the 2 taxa. Our reasoning for suspect-
+tion between regrowing coral tissue and taxa that have         ing dissimilar responses between the taxa was
+colonized the lesion can also affect the rate of recovery      fourfold. First, Pocillopora has an imperforate skeleton
+(Titlyanov et al. 2005). In general, however, the ways in      with tissue constrained to the outer surface, and there-
+which corals respond in terms of individual perfor-            fore it is easy for a fish bite to remove the entire tissue
+mance to partial predation under varying environmen-           layer and force subsequent healing to occur by mar-
+tal conditions has not been sufficiently assessed (Cole        ginal processes alone. Second, with only superficial tis-
+et al. 2008; but see Lester & Bak 1985, Nagelkerken et         sue it is possible that the translocation of metabolites
+al. 1999, Kramarsky-Winter & Loya 2000).                       necessary for healing could be slowed by a gastrovas-
+   In a study that served as a companion to the present        cular system that is less extensive in Pocillopora than
+analysis (Edmunds & Lenihan 2010), we found that               Porites. Third, the morphology of Pocillopora is likely
+juvenile colonies of massive Porites spp. (henceforth          to affect the response to corallivory, because growth
+Porites) healed following a single bite-like injury, and       tends to occur apically in branching corals (Allemand
+that growth rates were higher for injured than unin-           & Benazet-Tambutte 1996), where Pocillopora is bitten
+jured colonies under relatively high flow speed                most frequently (Cole et al. 2008), but more uniformly
+(21 cm–2) and low temperature (27°C). The injuries to          across the colony in massive corals such as Porites
+massive Porites spp. (henceforth Porites) were inflicted       (Barnes & Devereux 1988). Finally, Pocillopora and
+with pliers, and were designed to simulate fish coralli-       massive Porites represent contrasting life-history
+vores in the excavating functional feeding group               strategies, with Pocillopora favoring an opportunistic
+(sensu Bellwood & Choat 1990). We hypothesized that            (‘weedy’) strategy, with high rates of growth and
+the response to injury was a result of the ability of pori-    reproduction and rapid generation time (Ayre et al.
+tid corals to allocate resources towards healing of dam-       1997), while massive Porites displays relatively slow
+aged areas (Hall 1997). Further, we speculated that the        growth, high resistance to physical stress, and slow
+capacity to translocate resources in a source-sink             rates of population turnover (Done 1987, Lough &
+model (e.g. Pearse & Muscatine 1971) would be accen-           Barnes 2000). Together, these characteristics suggest
+tuated in corals with thick tissues that permeate deeply       that Pocillopora may be less well suited to enduring
+(1.6 to 5.2 mm; Edmunds 2008) into the perforate skele-        partial predation than massive Porites. Our decision to
+ton and contain extensions of the gastrovascular cavity        examine the effects of partial predation on Pocillopora
+through which metabolites are moved (Oren et al.               in the present study was also driven by Pocillopora’s
+2001). Through this mechanism, superficial wounds              ecological relevance in corallivore–coral interactions.
+that remove the outer layer of tissue (but not the full        Recent reviews suggest that while many corallivores
+thickness) are likely to heal faster than severe wounds        prey on both massive Porites and branching Pocillo-
+that excise the entire tissue depth, because superficial       pora (Cole et al. 2008, Rotjan & Lewis 2009), a higher
+wounds can heal both marginally (i.e. from the edge of         proportion of predators preferred Pocillopora (22%) to
+the wound) and basally (i.e. from the abraded tissue in        Porites (8%) as their major prey (Cole et al. 2008). In
+the base of the wound) (Henry & Hart 2005). The inclu-         contrast, we recently found in a demographic study
+sion in abraded tissue of calicoblastic ectoderm and           conducted in the back reef of Moorea, French Polyne-
+gastrovascular canals makes it likely that new skeleton        sia — the same system as that studied in this paper —
+                                     Lenihan & Edmunds: Response of corals to injury                                   53
+
+
+
+
+that 20 to 43% of juvenile Pocillopora and 17 to 43% of        which PSII harvests light, and indirectly assesses the
+juvenile Porites (10 to 44 mm in diameter) were bitten         capacity to fix carbon through photosynthesis
+and injured by corallivorous fishes, depending on              (Maxwell & Johnson 2000). We reasoned that a metric
+where they were located and on what substrate type             (i.e. Fv /Fm) evaluating the capacity to supply organic
+they were found (H. Lenihan unpubl. data). Acropora            carbon by photosynthesis and drive changes in con-
+generally appears to be the most preferred coral taxa          centration of dissolved inorganic carbon would be
+(55%; Cole et al. 2008).                                       helpful in identifying a mechanism causing variation in
+   The objective of the present study was to test the          growth and healing of corals (Furla et al. 2000, Henry
+hypothesis that growth rates of small colonies of Pocil-       & Hart 2005). We used small branches (13 to 42 mm
+lopora verrucosa are reduced through injury associ-            long; ‘nubbins’) of P. verrucosa as a model system; we
+ated with partial predation by fishes, but that the            collected these from 3 to 4 m depth in the back reef of
+response varies with seawater temperature and water            Moorea. These corals were allocated to 1 of 2 groups:
+flow, both of which vary across reefscapes and influ-          one was left unmanipulated, and the other was injured
+ence coral demographic rates (Lenihan et al. 2008). As         with pliers in a treatment designed to simulate the
+a means to this end, microcosms were used to expose            effects of excavating corallivores. The 2 groups of
+corals to combinations of treatments consisting of             corals were incubated in 2 indoor tanks that were
+physical injury designed to simulate predation by cer-         maintained at different temperatures and contained 2
+tain fishes, temperatures, and flow regimes. To test           flow speed treatments. The experiment was replicated
+whether the results of the laboratory experiment help          with different corals in 2 sequential trials (5 d apart) to
+predict the response of P. verrucosa to corallivory            exploit temporal replication and address some of the
+under natural environmental conditions, we conducted           limitations of a pseudoreplicated design in which mul-
+a field experiment in which we examined the growth             tiple corals were incubated in each tank.
+of juvenile P. verrucosa as it varied as a function of            The tanks were 200 × 95 cm, and filled to 14 cm
+biotic and abiotic factors. Specifically, we examined          depth with unfiltered seawater pumped from Cook’s
+coral growth under varying regimes of fish predation           Bay. When filled, these tanks contained 266 l of seawa-
+(controlled by exclusion cages) and flow speed (con-           ter that was continuously refreshed at 1 l min–1, with
+trolled by placing corals on natural substrata differing       the volume replaced within 5 h. Each tank was fitted
+in exposure to flow speeds). We explore the contrast-          with a chiller and heater that maintained the tempera-
+ing responses observed for branching P. verrucosa (in          ture at either ∼27 or ∼29°C, and was illuminated on a
+this study) and massive Porites (Edmunds & Lenihan             12:12 h light:dark cycle with two 1000 W metal halide
+2010) to identify general ecophysiological mechanisms          lamps (Sylvania BT37, Metalarc). The higher tempera-
+by which corals may respond to corallivory under vary-         ture was close to the ambient seawater temperature
+ing environmental conditions.                                  when the 2 trials of the experiment were completed in
+                                                               April/May 2008, and both temperatures spanned the
+                                                               normal range that occurs in the shallow back reef of
+            MATERIALS AND METHODS                              Moorea (Lenihan et al. 2008, P. Edmunds unpubl.
+                                                               data). The lamps were screened with neutral density
+   Laboratory study. A laboratory experiment was con-          mesh to ∼700 µmol photons m–2 s–1 (measured with a
+ducted during April and May 2008 at the University of          LiCor LI 193SA), which, although lower than the high-
+California-Berkeley Richard B. Gump South Pacific              est irradiance recorded at the collection site at noon on
+Research Station in Moorea (17° 30’ S, 149° 50’ W),            a sunny day, ensured that the daily integrated irradi-
+French Polynesia. This experiment was designed to              ance (∼30 E m–2 d–1 supplied as a square function over
+test the prediction that injuries similar to those caused      12 h) was close to that experienced in the field (sup-
+by corallivorous fishes in the excavating functional           plied as a sine function over 12 h with a maximum of
+group (Bellwood & Choat 1990) influence the growth             1200 µmol photons m–2 s–1). Two 170 cm long raceways
+of Pocillopora verrucosa, but that the response varies         were constructed from PVC sheets in each tank, and
+with abiotic conditions. Specifically, we tested whether       each was fitted at one end with 1 or 2 aquarium pumps
+water motion (‘flow speed’) and temperature influ-             (2600 l h–1; Rio Aqua) that created either a low- or a
+enced growth, maximum dark-adapted quantum yield               high-flow treatment, respectively. The outflow from
+of PSII, Fv /Fm [where PSII is Photosystem II, Fv is vari-     each pump passed through a 5 cm long flow straight-
+able fluorescence and Fm is maximum fluorescence               ener to reduce turbulence, and was adjusted with a
+yield in the dark] a measure of photosynthetic effi-           valve to achieve target flow speeds of about 5 and
+ciency; Maxwell & Johnson 2000), and the sizes of the          20 cm s–1. These flow speeds were selected to simulate
+sites of injuries (hereafter ‘lesions). Fv /Fm was exam-       the differences in flow utilized in the field experiment
+ined because it directly quantifies the efficiency with        by growing corals on top of bommies (dead or partially
+54                                         Mar Ecol Prog Ser 409: 51–63, 2010
+
+
+
+
+dead coral structures; see 'Field experiment' for defin-         Following preparation, the corals were buoyant
+ition) or lower down on the adjacent benthos (Lenihan         weighed (Davies 1989) so that their growth (change in
+et al. 2008).                                                 weight) could be determined; they were then returned
+   The corals were collected on 12 April 2008 (Trial 1)       to the racks in the tank held at ambient temperature.
+and 27 April 2008 (Trial 2) from the back-reef hard           Following 3 h of darkness (beginning at 18:30 h), the
+substrate (‘pavement’) at 3 m depth. For each trial, 80       photosynthetic efficiency of the corals was assessed as
+short branches of Pocillopora verrucosa were broken           Fv /Fm using a Diving-PAM (Walz) fitted with an 8 mm
+from colonies that were selected haphazardly, and one         diameter probe and operated with constant settings for
+branch was broken from each colony to increase the            all corals. Fv /Fm was measured with the probe held
+likelihood that each represented a unique coral geno-         ∼5 mm above the coral tissue, and all measurements
+type. The freshly collected branches were returned to         were made at haphazard positions on the coral surface
+the lab, where the apices were trimmed to a length of         and, for the injured corals, outside the area of damage.
+13 to 42 mm using bone shears. Trimming was accom-            Finally, the corals were allocated randomly to each of
+plished with care to ensure that the branch apices            4 racks, with 20 undamaged and 20 damaged colonies
+were undamaged and were of similar, digitate shapes.          on each rack. The experimental incubation began the
+The branches were glued (with Z Spar, A788 epoxy) to          following morning (∼66 h after collection), on either
+the tops of pieces of individually numbered PVC pipe          15 April (Trial 1) or 30 April (Trial 2), with the alloca-
+(∼2 cm long and 1.5 cm diameter), the bottoms of which        tion of the racks at random to either the high-flow or
+were fitted with a 6 mm diameter nylon screw. This            the low-flow speed treatments within the ambient and
+procedure created experimental units — with corals            the cool tanks. Thereafter, each trial was maintained
+attached to the PVC with minimal contact between the          for 10 d until its conclusion at 20:00 h on either 25 April
+coral tissue and the epoxy — that could be inserted into      (Trial 1) or 10 May 2008 (Trial 2).
+PVC racks drilled to accept the screw attached to the            Throughout the experiment, the seawater tempera-
+base of the pipe; each rack held 20 corals upright in a       ture was recorded every 30 min with loggers (Hobo
+linear array.                                                 Aquapro II, Onset Computer Company), and light
+   The prepared corals were inserted into the PVC             intensity and water transport were measured periodi-
+racks and left to recover for ∼36 h in the tank held at       cally. The light intensity was measured using a 4π
+ambient temperature and illuminated for 12 h each day         quantum sensor (LiCor LI 193SA) that was positioned
+at 700 µmol photons m–2 s–1. Following recovery, 40 of        beneath the water at 3 positions along each of the 2
+the corals in each trial were exposed to a simulated          raceways in each tank. The water motion within the
+effect of fish predation achieved by scraping the             raceways was assessed as net water transport, which
+colonies with 10 mm wide, snub-nose pliers. The               was measured by timing the repeated passage of neu-
+scrapes were made in haphazard locations on the               trally buoyant particles along a known distance. This
+colonies, and the pliers were applied to create a pair of     technique was not intended to measure the absolute
+rectangular lesions ∼12 × 8 mm in size. The pliers were       flow speed experienced by each coral, but instead,
+rinsed in seawater between colonies to reduce the             characterized the net movement of water along the
+chance of contamination, and the sizes of the lesions         raceways. As the water motion varied along the race-
+(length × width) were recorded with calipers (±1 mm).         way, and upstream corals affected the flow around
+The scraping removed superficial skeleton to 1 to             downstream corals, the position of all corals within
+2 mm depth, as well as the entire tissue layer, and           each raceway was randomized daily. Randomization
+caused damaged areas similar in dimension to those            was achieved by removing the corals from the racks
+seen naturally on Pocillopora on the reefs of Moorea          each morning and replacing them in the same racks
+(H. Lenihan unpubl. data). While our experimental             but at new, randomly selected positions; this was
+approach assessed the response to injury in nubbins           accomplished without touching the coral tissue or
+that had already been broken from donor colonies, we          removing the corals from the seawater.
+rationalized this approach in 2 ways. First, any effect of       At the conclusion of the experiment, Fv /Fm was again
+the fracturing necessary to collect the corals would be       measured after 3 h of dark adaptation, the sizes of the
+consistent among all nubbins and independent of the           damage lesions were measured and the buoyant
+lesions created on some of the corals to simulate coral-      weights recorded. All measurements were completed
+livory. Second, the fractured surface resulting from          in an identical manner to the initial measurements.
+collection was immediately placed into epoxy to pre-          The changes in buoyant weight were converted to dry
+pare the corals as upright nubbins, and, therefore,           weight assuming that the skeletal aragonite had a den-
+there was no potential for the tissue to heal across          sity of 2.93 g cm– 3 (Jokiel et al. 1978). Following the
+this surface (as was the case with the experimental           final weighing, the corals were dried at 60°C, and their
+lesions).                                                     tissue areas measured using the wax dipping tech-
+                                    Lenihan & Edmunds: Response of corals to injury                                55
+
+
+
+
+nique (Stimson & Kinzie 1991) to normalize growth             using cages (‘no predation’ treatment) and cage con-
+rates to area (mg cm–2 d–1); the comparison of these          trols (‘predation’ treatments, composed of half cages),
+growth rates among treatments assumes that they               which we deployed on the tops of bommies. Cages
+were linear over the study.                                   consisted of 6-sided enclosures (15 × 15 × 15 cm) made
+   Field experiment. We conducted a field experiment          of Vexar® plastic (1 cm mesh size), and cage controls
+in January 2008 to test whether the growth of juve-           were the same design but with 2 sides missing to allow
+nile Pocillopora verrucosa varied with flow speed and         corallivorous fishes access while exposing corals to
+partial predation in the back reef of Moorea. The             hydrodynamic conditions similar to those within cages
+experiment was conducted in a mid-lagoon area,                (H. Lenihan unpubl. data). We used this size of cage
+located ~200 m from the reef crest, at 3 m depth near         control (and thus cages), because in a preliminary test
+Cook’s Bay. The mid-lagoon is dominated by pave-              we observed D. hystrix, A. hispidus, and B. undulates
+ment together with patches of Porites lobata, Porites         biting Pocillopora verrucosa corals within the cage
+australiensis, Porites lutea, and Porites rus. These          controls and leaving distinctive lesions. A no-cage
+coral structures, referred to as ‘bommies’, can reach         treatment was deemed unnecessary because prior tri-
+> 3 m diameter and > 2 m height, and are often colo-          als revealed no difference in coral growth and intensity
+nized by smaller branching corals, other inverte-             of corallivory on corals in cage versus no cage treat-
+brates, and algae. In a recent demographic survey of          ments. One replicate coral was placed in each cage or
+branching corals in the back reef of Moorea, we               cage control using Z-Spar® marine epoxy, and each
+found that growth and survival of juvenile Pocillopora        pair of cages was attached either to a bommie or the
+verrucosa (colonies < 40 mm diameter) was higher on           adjacent seafloor (n = 12 replicates for each of the 2
+bommies compared with the adjacent seafloor,                  substrate types). Growth of the corals was measured as
+because bommies provide access to increased water             change in buoyant weight after 30 d, converted to dry
+flow (Lenihan et al. 2008), a greater flux of zooplank-       weight using the density of aragonite (2.93 mg cm3),
+ton (Alldredge & King 2009), and reduced rates of             and normalized to area (mg cm–2 d–1) as determined
+sedimentation (Lenihan et al. 2008). We have found            using the wax dipping technique (Stimson & Kinzie
+only minor differences in temperature and light be-           1991).
+tween the seafloor and the tops of bommies in this              To characterize the flow regimes in the 2 substrata
+location (Lenihan et al. 2008), and differences in            treatments, flow speed and direction were measured
+these factors are probably not responsible for the            on the tops of bommies and on the adjacent seafloor
+observed differences in coral performance on these 2          (n = 8 of each type) on 14 January 2008, using an
+substrate types.                                              Acoustic Doppler Velocimeter (ADV; 6 MHz Nortek
+   On 2 January 2008, 48 juvenile Pocillopora verru-          Vector). We measured horizontal current speed,
+cosa colonies (30 to 35 mm diameter) were collected           defined as √!U 2! V "2 , where U and V are the east-west
+                                                                               +!
+from the back reef near Cook’s Bay, and transported to        and north-south velocity components, respectively (the
+seawater tables at the research station. After 24 h, they     sign convention is that east and north are positive), on
+were buoyant weighed, and within an additional 24 h,          the top of each bommie and on the adjacent seafloor
+returned to the reef, where they were placed on the           for a 15 min period. An additional set of flow speed
+tops of bommies (∼1 m in height at ∼2 m water depth)          measurements was made in June 2008, in which an
+or the adjacent seafloor (3 m water depth). These 2           ADV was placed on the top of a 1.1 m tall bommie and
+locations were selected to provide a natural contrast of      another on the adjacent seafloor, and data were col-
+flow regimes (Lenihan et al. 2008), and corals were           lected for a 24 h period. Data were recorded every sec-
+allocated at random to each location.                         ond but averaged over 15 min periods. Water tempera-
+   Moorea’s back reef supports populations of coralliv-       ture was recorded 10 times (about every other day)
+orous porcupinefish Diodon hystrix (Diodentidae),             during the 30 d experiment with a hand-held ther-
+white-spotted pufferfish Arothon hispidus (Tetradonti-        mometer (accuracy ± 0.5°C) placed within 10 cm of the
+dae), and orange-striped triggerfish Balistapus undu-         replicate cage and cage control pairs.
+lates (Balistidae) (H. Lenihan unpubl. data) that belong        Finally, we estimated the abundance of coral preda-
+to the excavating functional feeding group (Bellwood          tors in the relative vicinity of the field experiment by
+& Choat 1990) that consumes coral tissue as well as           counting all corallivorous fishes along transect lines
+underlying skeleton. Butterflyfishes (Chaetodontidae)         located on the forereef (just outside of the lagoon;
+are also common in this habitat, but most of these            250 m from our experiments; 6 m water depth), in the
+fishes eat only the soft tissues of coral and do not          back reef (within the lagoon; 10 to 100 m from the reef
+remove the underlying skeleton (Bellwood & Choat              crest; 100 to 190 m from our experiments; 2 m water
+1990; but see Motta 1979). We manipulated the access          depth), and in the mid-lagoon (150 to 250 m from the
+of corallivorous fishes to our experimental corals by         reef crest; surrounding our experiments; 3 m water
+56                                           Mar Ecol Prog Ser 409: 51–63, 2010
+
+
+
+
+depth). Fish counts were made by              Table 1. Physical conditions (mean ± SE; n in parentheses) maintained in the
+scuba divers during early morning             incubation tanks during Trial 1 (15 to 25 April 2008) and Trial 2 (30 April to 10
+daylight hours. Four transects (50 m                                            May 2008)
+long × 4 m wide) at each site were
+sampled on each of 2 successive days            Trial   Treatment           Temperature          Variable      Light (µmol
+in austral summer (January 2008) and                                            (°C)               Flow      photons  m–2 s–1)
+                                                                                                       –1
+winter (July 2008). The forereef and                                                             (cm s )
+back reef generally have higher cur-
+                                                1     High temperature
+rent speeds and more turbulence (due
+                                                       High flow          29.6 ± 0.01 (513) 18.0 ± 0.3 (30) 768 ± 20 (36)
+to swell, waves, and swash) than the
+                                                       Low flow           29.6 ± 0.01 (513)    6.8 ± 0.2 (30) 768 ± 20 (36)
+mid-lagoon (H. Lenihan & J. Hench
+                                                      Low temperature
+unpubl. data), especially during aus-
+                                                       High flow          26.6 ± 0.01 (513) 19.7 ± 0.6 (30) 621 ± 16 (36)
+tral summer months when the signifi-                   Low flow           26.6 ± 0.01 (513)    6.3 ± 0.2 (30) 621 ± 16 (36)
+cant wave height (i.e. the largest one-
+                                                2     High temperature
+third of waves) is greatest, and the
+                                                       High flow          29.6 ± 0.01 (528) 21.8 ± 0.7 (30) 808 ± 15 (36)
+highest volume of water enters the                     Low flow           29.6 ± 0.01 (528)    5.8 ± 0.3 (30) 808 ± 15 (36)
+lagoon through waves breaking over
+                                                      Low temperature
+the reef crest. Austral winter months                  High flow          26.7 ± 0.01 (533) 21.0 ± 0.5 (30) 732 ± 32 (36)
+usually have the lowest significant                    Low flow           26.7 ± 0.01 (533)    5.6 ± 0.1 (30) 732 ± 32 (36)
+wave height and thus volume of water
+entering the lagoon (H. Lenihan & J.
+Hench unpubl. data).                                                                      RESULTS
+   Statistical approach. To detect differences in growth
+and Fv /Fm in the microcosm experiment, we used a 3-                              Laboratory experiment
+way blocked ANOVA in which injury (injured versus
+uninjured), flow speed (high versus low), and tempera-             The microcosms were effective in maintaining the
+ture (high versus low), were orthogonal fixed factors,          treatments, with seawater temperature remaining
+and trial (n = 2) was the blocking factor. For the change       almost identical in both trials, and mean light levels
+in the size of the lesion (i.e. ‘healing’), we compared         differing between trials by only 40 µmol photons m–2
+treatments using a 2-way blocked ANOVA in which                 s–1 in the high-temperature tank, and 111 µmol pho-
+flow speed and temperature were crossed, fixed fac-             tons m–2 s–1 in the low-temperature tank (Table 1).
+tors, and trial (n = 2) was the blocking factor. A 1-way        Mean temperature differed between treatment micro-
+ANOVA was used to test for differences in initial Fv /Fm        cosms (26.7 versus 29.6°C ± < 0.1°C SE), but differed
+between injured and uninjured corals in the labora-             by < 0.1°C within each microcosm between trials
+tory. To detect differences in growth among treatments          (Table 1). Light intensities were statistically indistin-
+in the field experiment, we used a 2-way ANOVA, in              guishable between trials (F1,179 = 3.07, p = 0.08) but
+which substrate type (bommie top versus seafloor) and           varied significantly between tanks (F1,179 = 3.07, p =
+caging treatment (cages versus cage controls) were              0.02) due to random effects such as differential aging
+crossed, fixed factors.                                         of bulbs. The difference in light levels between micro-
+   For the laboratory experiment, a 1-way ANOVA                 cosms averaged across trials was trivial in biologically
+blocked by trial was used to compare light levels               meaningful terms (low-temperature microcosm: 692 ±
+among treatments, and a 2-way ANOVA, in which                   25 µmol photons m–2 s–1 versus high-temperature tank:
+tank and flow treatment were crossed, fixed factors,            772 ± 25 µmol photons m–2 s–1). Flow speed (Table 1)
+and trial was the blocking factor, was used to test for         varied between flow treatments (i.e. raceways; F1, 47 =
+differences in water motion. Differences in flow speed          6.17, p = 0.02) but not with trial (F1, 47 = 1.76, p = 0.19),
+and temperature between bommies and the seafloor                tank (i.e. temperature; F1, 47 = 0.89, p = 0.35), or the
+were compared with 1-way ANOVAs. Before complet-                interaction between flow treatment and tank (F1, 47 =
+ing the ANOVAs, all data were tested for homogeneity            0.90, p = 0.35).
+of variances using Cochran’s C-test. Proportional data             The nubbins of Pocillopora verrucosa survived well
+were arsine transformed prior to analysis, and post hoc         through the 2 trials, with no mortality, no signs of par-
+contrasts among treatments were conducted with                  tial tissue mortality, and normal nighttime polyp
+Student-Newman-Keuls (SNK) tests. Simple linear                 expansion. However, at the end of the first trial (but not
+regression was used to test the relationship between            the second), many of the corals were slightly pale in
+growth rates and flow speed (measured in January                color, particularly in the high-flow, high-temperature
+2008) in the field experiment.                                  (HH; 55% of the corals) and high-flow, low-tempera-
+                                          Lenihan & Edmunds: Response of corals to injury                                            57
+
+
+
+
+ture (HL; 50%) conditions, and to a lesser extent, in the            Table 3. Results of a 3-way, blocked ANOVA comparing dark
+low-flow, low-temperature (LL; 45%) and high-flow,                   adapted yield (variable fluorescence/maximum fluorescence
+                                                                     yield in the dark, Fv /Fm) of Pocillopora verrucosa nubbins as a
+low-temperature (HL; 20%) conditions. Mean (± SE)
+                                                                     function of injury, flow speed, temperature, and their interac-
+growth rates ranged from 0.46 ± 0.05 mg cm–2 d–1 (LH,                tion in the laboratory experiment. Trials, of which there were
+no predation, Trial 1) to 0.89 ± 0.16 mg cm–2 d–1 (HL,               2, was the blocking factor. n = 10 replicates per treatment in
+no predation, Trial 1), but it did not vary between trials           each trial. I: injury; F: flow speed; T: temperature. Results in
+(Table 2). Growth did, however, vary as a function of                                        bold are significant
+the interactive effects of injury, flow speed, and tem-
+perature (Table 2). The 3-way interaction was signifi-                Source         df        SS        MS          F          p
+
+                                                                      Trial          1       0.006      0.006      9.61        0.002
+Table 2. Results of a 3-way, blocked ANOVA comparing the              I              1       0.000      0.000      0.29        0.59
+growth in buoyant weight of Pocillopora verrucosa nubbins as          F              1       0.001      0.001      1.24        0.27
+a function of injury, flow speed, temperature, and their              T              1       0.021      0.021     33.720     < 0.0001
+interaction in the laboratory experiment. Trials, of which            I×F            1       0.001      0.001      1.90        0.17
+there were 2, was the blocking factor. n = 10 replicates per          I×T            1       0.000      0.000      0.57        0.45
+treatment in each trial. I: injury; F: flow speed; T: temperature.
+                                                                      T×F            1       0.002      0.002      3.22        0.07
+                 Result in bold is significant
+                                                                      I×T×F          1       0.000      0.000      0.67        0.42
+                                                                      Error         144      0.089
+ Source         df        SS          MS           F         p
+
+ Trial          1        0.008       0.008       0.20      0.66
+ I              1        0.000       0.000       0.01      0.94
+                                                                     cant because injured corals outgrew uninjured corals
+ F              1        0.012       0.012       0.29      0.59
+                                                                     in all treatments (HH, LH, LL) except the high-flow-
+ T              1        0.076       0.076       1.85      0.18
+                                                                     speed and low-temperature (HL) treatment (Fig. 1;
+ I×F            1        0.038       0.038       0.92      0.34
+                                                                     SNK, p < 0.05), in which corals grew the most (SNK, p <
+ I×T            1        0.155       0.155       3.76      0.05
+                                                                     0.05). Uninjured corals in the HH treatment grew less
+ F×T            1        0.000       0.000       0.00      0.96
+                                                                     than all corals (SNK, p < 0.05).
+ I×F×T          1        0.208       0.208       5.05      0.03
+                                                                        The mean (± SE) value of Fv /Fm for the freshly
+ Error         142       5.841       0.041
+                                                                     collected Pocillopora verrucosa was 0.691 ± 0.004 (n =
+                                                                     80) and 0.648 ± 0.004 (n = 77) in Trial 1 and 2, respec-
+                                                                     tively. Following the incubations, mean Fv /Fm (± SE)
+                                                                     ranged between 0.558 ± 0.012 (LL, predation, Trial 2)
+                                                                     to 0.646 ± 0.016 (HH, no predation, Trial 2), and dif-
+                                                                     fered significantly between trials (Table 3); the mean
+                                                                     value was higher in Trial 1 than Trial 2. Fv /Fm was also
+                                                                     significantly lower in the low-temperature treatment
+                                                                     (0.594 ± 0.004; Table 3) than the high-temperature
+                                                                     treatment (0.630 ± 0.004). Relative to the high-temper-
+                                                                     ature treatment, Fv /Fm was more depressed at low tem-
+                                                                     perature in Trial 1 (7% depression) than Trial 2 (4%
+                                                                     depression).
+                                                                        The extent of lesions ranged in mean area from 74 ± 4
+                                                                     to 125 ± 7 mm2 when they were initially applied, but af-
+                                                                     ter 10 d they had declined in area in all treatment/trial
+                                                                     combinations. The mean rate of change in the size of
+                                                                     lesions (i.e. ‘healing’) ranged from –1.3% d–1 (HH) to
+                                                                     –2.5% d–1 (LL), and differed significantly between trials
+                                                                     (F1, 78 = 20.98, p < 0.0001), with more rapid healing in
+Fig. 1. Pocillopora verrucosa. Growth after 10 d incubation at       Trial 1 (0.32 ± 0.06% d–1) compared to Trial 2 (0.07 ±
+high flow and high temperature (HH), high flow and low tem-          0.03% d–1). There was no significant influence on heal-
+perature (HL), low flow and high temperature (LH), and low           ing of flow speed (F1, 78 = 0.19, p = 0.65), temperature
+flow and low temperature (LL) (summarized in Table 1), for           (F1, 78 = 2.97, p = 0.09), or their interaction (F1, 78 = 0.03, p =
+corals that were injured or uninjured in 2 replicate trials
+(Trial 1 or Trial 2); means (+ SE) shown are pooled from 2 tri-
+                                                                     0.87). However, there was a nonsignificant trend across
+als (n = 20 for each bar). A–D: results of Student-Newman-           both trials for greater healing in the low-temperature
+     Keuls (SNK) post hoc tests (A > B > C > D) at p < 0.05          than high-temperature treatments (Fig. 2).
+58                                                 Mar Ecol Prog Ser 409: 51–63, 2010
+
+
+
+
+                                                                       Table 4. Results of a 2-way ANOVA comparing the growth in
+                                                                       buoyant weight of juvenile Pocillopora verrucosa as a func-
+                                                                       tion of substrate type (bommie versus seafloor), predation
+                                                                       (predator exclusion cages versus cage controls in which
+                                                                       predators attacked corals), and their interaction. n = 12 repli-
+                                                                       cates per treatment. S: substrate; P: predation. Values in bold
+                                                                                               are significant
+
+
+                                                                        Source          df      SS        MS         F          p
+
+                                                                        S             1       0.202      0.202     38.37    < 0.0001
+                                                                        P             1       0.025      0.025      4.82      0.03
+                                                                        S×P           1       0.016      0.016      3.09      0.09
+                                                                        Error         44      0.231
+
+
+
+                                                                       of the 23 bitten corals had 2 bite marks, 1 had 3 bite
+                                                                       marks, and the remaining 19 had 1 bite mark each; all
+Fig. 2. Pocillopora verrucosa. Mean % (+ SE) of lesions healed
+at the end of the 10 d trials; results from the 2 trials are pooled.   bites removed the apices of branches, and were 16 to
+There was no statistically significant difference among treat-         81 mm2 in size. We do not know how much biomass
+      ments. Corals were the same as described in Fig. 1               was removed with each bite, but all affected corals
+                                                                       grew. Although these predation events were not wit-
+                                                                       nessed, we believe they were caused by porcupinefish,
+                                                                       orange-striped triggerfish, and white-spotted puffer-
+                                                                       fish, as these corallivores are frequently seen foraging
+                                                                       in the study area (H. Lenihan unpubl. data).
+                                                                          Growth rates of Pocillopora verrucosa were higher
+                                                                       on the tops of bommies than on the adjacent seafloor
+                                                                       (Fig. 3, Table 4; SNK, p < 0.05), and the corals grew
+                                                                       more on bommies when protected from corallivores
+                                                                       than when unprotected (SNK, p < 0.05). In January
+                                                                       2008, the mean flow speed on the tops of bommies was
+                                                                       14.3 ± 2.9 cm s–1 (± SE), which was significantly higher
+                                                                       (F1,15 = 478.51, p = 0.0001) than flow speed over the
+                                                                       adjacent seafloor (3.4 ± 1.2 cm s–1). During the 24 h
+                                                                       ADV deployment in June 2008, there was a greater
+                                                                       frequency of relatively high flow speeds measured on
+                                                                       the tops of bommies than on the adjacent seafloor
+                                                                       (Fig. 4). There was no significant difference in mean
+Fig. 3. Pocillopora verrucosa. Growth after 30 d in the field on
+                                                                       temperatures (F1,19 = 0.16, p = 0.69) between treat-
+top of bommies (high flow; mean speed 14.3 ± 7.7 cm s–1                ments (bommies: 27.2 ± 0.2°C versus seafloor: 27.3 ±
+[± SE]) and seafloor (low flow, mean speed 3.2 ± 2.1 cm s–1).          1.0°C). For the corals transplanted to the tops of bom-
+Corals were placed in either cages (no predation) or cage con-         mies, there was a significant and positive correlation
+trols (predation) in both habitats (n = 12 for each bar). A, B:
+                                                                       between flow speed and growth in the no predation
+                results of SNK (A > B at p < 0.05)
+                                                                       treatments (r = 0.79, p < 0.0001) but not in the preda-
+                                                                       tion treatments (r = 0.14, p > 0.09).
+                       Field experiment
+
+  All corals survived the 30 d predator exclusion                                             DISCUSSION
+experiment, but corals were consistently bitten (mostly
+frequently by butterflyfishes) in the ‘predator’ treat-                  The present study demonstrates that small colonies
+ment (H. Lenihan pers. obs.). Although we witnessed                    of Pocillopora verrucosa are well suited to resisting
+only one attack by an excavating corallivore — a soli-                 certain types of physical damage, but that the environ-
+tary porcupinefish — by the end of the study, 23 of the                ment can play an important role in determining the
+24 corals exposed to corallivores showed distinctive                   rate of growth and healing in response to this damage.
+bites characteristic of fish corallivores in the excavat-              Results of our microcosm experiment indicate that
+ing functional group (Bellwood & Choat 1990). Three                    coral growth in response to injuries, executed to mimic
+                                      Lenihan & Edmunds: Response of corals to injury                                     59
+
+
+
+
+Fig. 4. Flow speeds measured over a coral bommie (1.1 m tall) and the adjacent seafloor in June 2008. Data are % of current
+speeds measured in the horizontal direction taken over a 24 h period, with average flow speed calculated every 15 s (n = 5760
+                                           total measurements per substrate type)
+
+
+those caused by corallivorous fishes, depended on flow           simulated by gouging) and sustained damaging bites
+speed and water temperature. In 3 of 4 combinations of           that were similar in size and characteristics to lesions
+flow and temperature, growth rates were higher in                that we created in the laboratory.
+corals that had been injured than those that were unin-             Enhanced growth following simulated biting by
+jured. However, highest overall growth occurred in               excavating fish corallivores may have a strong selec-
+uninjured corals in the high-flow (21 cm s–1) low-               tive value for a coral with an opportunistic life history
+temperature (26.6°C) treatment, which we construe,               strategy, particularly for juvenile life stages. Pocillo-
+therefore, to be closer to the optimal conditions for this       pora rapidly colonizes open patches of substrate on
+species, at least relative to the range of treatment con-        shallow reefs in the Pacific, and therefore can experi-
+ditions employed. The literature suggests that the ther-         ence high rates of predation from fish corallivores (e.g.
+mal optimum for Pocillopora growth is close to the low-          Berumen & Pratchett 2006). Responding to injury with
+temperature treatment (26.6°C), although it has a wide           strong compensatory growth increases the probability
+range (26 to 31°C) depending on species and location             that small corals will escape total mortality from preda-
+(Jokiel & Coles 1977, 1990, Edmunds 2005). Critically,           tion by growing fast enough to reach a size refuge
+however, the growth of Pocillopora declines at temper-           (Jackson 1977). Growth of individual branches, and
+atures greater than the threshold value(s), as is true for       potentially their injury or loss, is unlikely to have great
+corals in general (Buddemeier & Kinzie 1976), and is             biological significance to a coral colony if other
+probably an important factor explaining why growth of            branches provide access to nutrients through photo-
+uninjured corals in the present study was higher at              synthesis, particle capture, and beneficial interactions
+26.6 compared to 29.6°C, at least under high flow.               with moving seawater (i.e. to enhance turbulence; Pat-
+Results for P. verrucosa from the microcosm experi-              terson 1992).
+ment are supported by our field experiment, which                   One of the striking outcomes of the present analysis is
+demonstrated that growth was greatest for unbitten               the contrast in growth results for Pocillopora verrucosa
+corals in high flow (and low temperature: 26.6°C), and           relative to the outcome of our companion study with
+revealed a trend for elevated growth in injured corals           massive Porites (Edmunds & Lenihan 2010). We hypo-
+at low flow speeds. Potentially, some of this slight             thesize that the differences between taxa can be attrib-
+increase in growth at the low flow speed in situ was a           uted to an interaction between morphology and en-
+result of increased sedimentation under reduced water            vironmentally induced tradeoffs between localized
+motion, and it would be productive in future studies to          healing and whole colony growth. Whereas the growth
+assess the effects of this factor (i.e. sedimentation) on        of P. verrucosa was enhanced by injury under all condi-
+the healing response of corals following corallivory.            tions except high flow and low temperature, for mas-
+Importantly, in our field analysis, corals were actually         sive Porites growth was only marginally influenced by
+bitten by fish (rather than being subjected to predation         flow (i.e. p = 0.06 for the flow × injury interaction), but
+60                                         Mar Ecol Prog Ser 409: 51–63, 2010
+
+
+
+
+was strongly affected by the interaction of damage and        cating flow that were detected in a microcosm study
+temperature with the greatest growth in injured corals        would likely be modified through the roles of water
+under high-flow and low-temperature conditions. A             motion in modulating the fluxes of zooplanktivorous
+priori, we predicted for P. verrucosa that injured colo-      food (Alldredge & King 2009) and particle capture
+nies would grow more slowly than uninjured colonies           rates (Sebens et al. 1998).
+because their superficial tissues and imperforate skele-         The enhancement of growth by injury under most
+ton (cf. Porites) limit the capacity for translocating        combinations of flow and temperature suggests that
+metabolites to wounds and further ensure that the heal-       Pocillopora verrucosa has a greater relative capacity
+ing of lesions occurs marginally only (i.e. not marginally    than massive Porites for compensatory growth (sensu
+and basally as in Porites; Edmunds & Lenihan 2010).           McNaughton 1983), even though it deposits CaCO3
+This would restrict the capacity for compensatory             (~0.6 mg cm–2 d–1) at about half the rate of massive
+growth (sensu McNaughton 1983) — achieved through             Porites (~1.5 mg cm–2 d–1). Yet because lesions on P.
+the deposition of new skeleton within the lesion to ac-       verrucosa can heal only marginally, the compensatory
+complish regeneration (sensu Henry & Hart 2005). Our          growth in this species is not regenerative per se (sensu
+prediction for P. verucossa was in part based on the out-     Henry & Hart 2005), rather it must occur over the
+comes of our experiment with massive Porites (Ed-             undamaged colony surface, at the foci of rapid growth
+munds & Lenihan 2010), in which damage resulted in            (e.g. apical corallites Pearse & Muscatine 1971), or
+the highest growth rates, as well as interactive effects      through reoriented growth (Romano 1990). Determin-
+between flow and temperature that altered Fv /Fm. We          ing where on the colony surface the compensatory
+attributed these patterns in massive Porites to thick tis-    growth is occurring may be key to understanding the
+sue and a perforate skeleton, which increased the like-       outcome of incubating injured and uninjured P. verru-
+lihood that gouging would leave behind residual tissue        cosa under low temperature and high flow. For
+and portions of the gastrovascular cavity through which       instance, if compensatory growth occurs on the flanks
+metabolites could be translocated.                            of the branches under low-flow conditions, then
+   We suspect that integration within massive Porites         growth could be higher in injured compared to unin-
+colonies (sensu Oren et al. 2001) is enhanced by thick        jured corals, and under these conditions the effects of
+tissue, which can serve to transport resources to the         temperature might be obscured by mass-transfer limi-
+lesion (e.g. carbon) to facilitate healing and to cause       tations. If flow enhances growth on the tips of branches
+metabolic processes within a lesion (e.g. healing and         through turbulence near the apices (Chang et al.
+calcification) to have effects outside the immediate          2009), and low temperature at high flow accelerates
+lesion area. These ‘integration effects’ could have           growth because of the proximity of this temperature to
+important implications under varying conditions of            the growth optimum (Jokiel & Coles 1977, 1990,
+flow and temperature, which independently and col-            Edmunds 2005), when mass transfer limitation is less
+lectively alter metabolic rates (Coles & Jokiel 1977,         likely (Patterson 1992) then growth would be greatest
+Patterson 1992) and can create conditions when meta-          in uninjured branches under high-flow, low-tempera-
+bolic processes are limited by common resources such          ture conditions (Fig. 1). Perhaps under these conditions
+as HCO3–1. For instance, if low temperatures favor            apical growth of injured branches would be impaired
+rapid calcification compared to higher temperatures           by the proximity of apices to the lesion.
+(Jokiel & Coles 1977), the increased demand of calcifi-          The present study, together with our companion
+cation for HCO3– could limit this process through mass        study on massive Porites, reveals different responses to
+transfer limitation (Patterson 1992), which would be          fish corallivores that we suspect are caused by mor-
+alleviated by increased flow (Patterson 1992, Lesser et       phological differences between the corals. These dif-
+al. 1994, Nakamura & Yamasaki 2005). The extent to            ferences may have functional significance with regard
+which calcification might be limited by mass transfer of      to their life history strategies and the habitats in which
+HCO3– would depend on the reliance of this process on         they are common. In Moorea, predator–prey interac-
+the dissolved inorganic carbon (DIC) content of seawa-        tions between corals and fishes are common (e.g. Beru-
+ter (versus internal DIC; Allemand et al. 2004). Con-         men & Pratchett 2006, Schmitt et al. 2009), and in most
+ceivably, competition between photosynthesis and cal-         locations within the lagoon, between 17 and 46% of
+cification for limited HCO3– could impact Fv /Fm in a         juvenile massive and branching corals are found with
+pattern dependent on flow and temperature (as in              bite marks, depending on the location and habitat type
+massive Porites; Edmunds & Lenihan 2010), although            (H. Lenihan unpubl. data). Massive Porites, like those
+evidence from Stylophora pistillata suggests this might       used in our companion study (Edmunds & Lenihan
+only occur at very low concentrations of HCO3–1 (Furla        2010), grow in size (i.e. diameter) relatively slowly
+et al. 2000). Flow can impact corals in more ways than        (Lough & Barnes 2000), although they deposit CaCO3
+mass transfer alone, and on the reef the patterns impli-      at rates (e.g. ∼1.6 mg cm–2 d–1; Edmunds & Lenihan
+                                        Lenihan & Edmunds: Response of corals to injury                                         61
+
+
+
+
+                                                                                         LITERATURE CITED
+
+                                                                  ä Aeby GS, Santavy DL (2006) Factors affecting susceptibility of
+                                                                       the coral Montastrea faveolata to black-band disease. Mar
+                                                                       Ecol Prog Ser 318:103–110
+                                                                  ä Alldredge AL, King JM (2009) Near-surface enrichment of
+                                                                       zooplankton over a shallow back reef: implications for
+                                                                       coral reef food webs. Coral Reefs 28:895–908
+                                                                  ä Allemand D, Benazet-Tambutte S (1996) Dynamics of calci-
+                                                                       fication in the Mediterranean red coral, Corallium rubrum
+                                                                       (Linnaeus) (Cnidaria, Octocorallia). J Exp Zool 276:
+                                                                       270–278
+                                                                    Allemand D, Ferrier-Pages C, Furla P, Houlbreque F and oth-
+                                                                       ers (2004) Biomineralization in reef-building corals: from
+                                                                       molecular mechanisms to environmental control. CR
+                                                                       Palevol 3:453–467
+                                                                  ä Ayre DJ, Davis AR, Billingham M, Llorens T, Stryan C (1997)
+Fig. 5. Mean density (± SE) of all corallivorous fishes counted        Genetic evidence for contrasting patterns of dispersal in
+along transect at stations located on the forereef (6 m water          solitary and colonial ascidians. Mar Biol 130:51–61
+depth; outside of the lagoon), back reef (in the lagoon; 2 m      ä Barnes DJ, Devereux MJ (1988) Variations in the skeletal
+depth), and mid-lagoon (near coral experiment; 3 m depth).             architecture associated with density banding in the hard
+n = 8 transects sampled at each site in austral summer                 coral Porites. J Exp Mar Biol Ecol 121:37–54
+           (January 2008) and winter (July 2008)                  ä Bellwood DR, Choat JH (1990) A functional analysis of graz-
+                                                                       ing in parrotfishes (family Scaridae): the ecological impli-
+                                                                       cations. Environ Biol Fishes 28:189–214
+2010) faster than Pocillopora verrucosa (present study)
+                                                                  ä Belsky   AJ, Amundson RG, Duxbury JM, Riha SJ, Ali AR,
+and a number of other coral species (Clausen & Roth                    Mwonga SM (1989) The effects of trees on their physical,
+1975, Edmunds 2005). For massive Porites that survive                  chemical and biological environments in a semi-arid
+the juvenile stage, subsequent growth can produce                      savanna in Kenya. J Appl Ecol 26:1005–1024
+exceptionally large colonies (Brown et al. 2009), espe-           ä Bertness MD, Callaway R (1994) Positive interactions in com-
+                                                                       munities. Trends Ecol Evol 9:191–193
+cially in mid-lagoon and back-lagoon areas, such as
+those in Moorea, that support relatively few coralli-
+                                                                  ä Berumen ML, Pratchett MS (2006) Recovery without
+                                                                       resilience: persistent disturbance and long-term shifts in
+vores, at least during seasons when ocean conditions                   the structure of fish and coral communities at Tiahura
+are calm (Fig. 5). In contrast, the back-reef and fore-                Reef, Moorea. Coral Reefs 25:647–665
+                                                                  ä Brown   DP, Bash L, Barshis D, Forsman Z, Fenner D, Goldberg
+reef areas have relatively high densities of Pocillopora
+                                                                       J (2009) American Samoa’s island of giants: massive
+(Schmitt et al. 2009), and a relatively high abundance                 Porites colonies at Ta’u island. Coral Reefs 28:735
+of corallivores, except during seasons when wave size               Buddemeier RW, Kinzie RA (1976) Coral growth. Oceanogr
+and energy are highest (Fig. 5). Newly settled Pocillo-                Mar Biol Annu Rev 14:183–225
+pora in these areas depend on their ability to sustain            ä Cardinale BJ, Burton TM, Brady VJ (1997) The community
+                                                                       dynamics of epiphytic midge larvae across the pelagic-
+partial predation and grow to a size where they effec-                 littoral interface: Do animals respond to changes in the
+tively escape the risks of predation. Based on the                     abiotic environment? Can J Fish Aquat Sci 54:2314–2322
+results of this study and our previous work (Edmunds &              Chang S, Elkins C, Alley M, Eaton J, Monismith S (2009) Flow
+Lenihan 2010), we speculate that the response of corals                inside a coral colony measured using a magnetic reso-
+                                                                       nance velocimeter. Limnol Oceanogr 54:1819–1827
+to fish predation will depend first on the type of dam-
+age that fish inflict (Bellwood & Choat 1990), second on          ä Clausen CD, Roth AA (1975) Effect of temperature and tem-
+                                                                       perature adaptation on calcification rate in the hermatypic
+the physical attributes of the environment within                      coral Pocillopora damicornis. Mar Biol 33:93–100
+which the damage is inflicted, and third on the mor-                Cole AJ, Pratchett MS, Jones GP (2008) Diversity and func-
+phology of the affected corals.                                        tional importance of coral-feeding fishes on tropical coral
+                                                                       reefs. Fish Fish 9:286–307
+                                                                  ä Coles SL, Jokiel P (1977) Effects of temperature on photosyn-
+Acknowledgements. This research was supported by grant                 thesis and respiration in hermatypic corals. Mar Biol 43:
+OCE 04-17412 from the National Science Foundation and                  209–216
+gifts from the Gordon and Betty Moore Foundation, and was         ä Connell JH (1961a) Influence of interspecific competition and
+completed under a research permit issued by the French                 other factors on distribution of the barnacle Chthamulus
+Polynesian Ministry of Research. We are grateful to N. Davies          stellatus. Ecology 42:710–732
+and the staff of the UC Berkeley, Richard B. Gump South           ä Connell JH (1961b) Effects of competition, predation by Thais
+Pacific Research Station for making our visits to Moorea pro-          lapillus, and other factors on natural populations of barna-
+ductive and enjoyable, V. Moriarty for technical support, and          cle Balanus balanoides. Ecol Monogr 31:61–92
+W. Goldenheim and N. Colvard for field assistance. This is a      ä Cox EF (1986) The effects of a selective corallivore on growth
+contribution of the Moorea Coral Reef (MCR) LTER Site, and             rates and competition for space between two species of
+is contribution number 161 of the Marine Biology Program of            Hawaiian corals. J Exp Mar Biol Ecol 101:161–174
+California State University, Northridge, and 184 of the           ä Crawley ML (1985) Reduction of oak fecundity by low-density
+Richard B. Gump South Pacific Research Station.                        herbivore populations. Nature 314:163–164
+  62                                              Mar Ecol Prog Ser 409: 51–63, 2010
+
+
+
+
+ä Davies PS (1989) Short-term growth measurements of corals               interactions in rocky intertidal communities. Ecology
+      using an accurate buoyant weighing technique. Mar Biol              80:2711–2726
+      101:389–395                                                    ä Lesser MP, Weis VM, Patterson MR, Jokiel JP (1994) Effects of
+ä Dayton PK (1971) Competition, disturbance, and community                morphology and water motion on carbon delivery and pro-
+      organization: the provision and subsequent utilization of           ductivity in the reef coral Pocillopora damicornis (Lin-
+      space in a rocky intertidal community. Ecol Monogr 41:              neaeus): diffusion barriers, inorganic carbon limitation, and
+      351–389                                                             biochemical plasticity. J Exp Mar Biol Ecol 178:153–179
+ä Done TJ (1987) Simulation of the effects of Acanthaster planci     ä Lester RT, Bak RPM (1985) Effects of environment on regen-
+      on the population structure of massive corals in the genus          eration rate of tissue lesions in the reef coral Montastrea
+      Porites: evidence of population resilience. Coral Reefs 6:          annularis (Scleractinia). Mar Ecol Prog Ser 24:183–185
+      75–90                                                          ä Lincoln DE, Fajer ED, Johnson RH (1993) Plant-insect herbi-
+ä Edmunds PJ (2005) The effect of sub-lethal increases in tem-            vore interactions in elevated CO2 environments. Trends
+      perature on the growth and population trajectories of               Ecol Evol 8:64–68
+      three scleractinian corals on the southern Great Barrier       ä Lough JM, Barnes DJ (2000) Environmental controls on
+      Reef. Oecologia 146:350–364                                         growth of the massive coral Porites. J Exp Mar Biol Ecol
+ä Edmunds PJ (2008) The effects of temperature on the growth              245:225–243
+      of juvenile scleractinian corals. Mar Biol 154:153–162         ä Maxwell K, Johnson GN (2000) Chlorophyll fluorescence — a
+  Edmunds PJ, Lenihan HL (2010) The effect of sub-lethal dam-             practical guide. J Exp Bot 51:659–668
+      age to juvenile colonies of massive Porites under contrast-    ä McNaughton SJ (1983) Compensatory plant growth as a
+      ing regimes of temperature and water flow. Mar Biol 157:            response to herbivory. Oikos 40:329–336
+      887–897                                                        ä Meesters EH, Pauchli W, Bak RPM (1997) Predicting regener-
+  Frydl P (1979) The effect of parrotfish (Scaridae) on coral in          ation of physical damage on a reef-building coral by
+      Barbados, WI. Int Revue Ges Hydrobiol 64:737–748                    regeneration capacity and lesion shape. Mar Ecol Prog Ser
+ä Furla P, Galgani I, Durand I, Allemand D (2000) Sources and             146:91–99
+      mechanisms of inorganic carbon transport for coral calcifi-      Moran PJ (1986) The Acanthaster phenomenon. Oceanogr
+      cation and photosynthesis. J Exp Biol 203:3445–3457                 Mar Biol Annu Rev 24:379–480
+ä Gochfeld DJ (2004) Predation-induced morphological and               Motta P (1979) The dentition of seven species of butterflyfish
+      behavioral defenses in a hard coral: implications for forag-        (Chaetodontidae) and their related feeding behavior. Pac
+      ing behavior of coral-feeding butterflyfishes. Mar Ecol             Sci 33:123–133
+      Prog Ser 267:145–158                                           ä Nagelkerken I, Meesters EH, Bak RPM (1999) Depth-related
+ä Hall  VR (1997) Interspecific differences in the regeneration of        variation in regeneration of artificial lesions in the
+      artificial injuries on scleractinian corals. J Exp Mar Biol         Caribbean corals Porites astreoides and Stephanocoenia
+      Ecol 212:9–23                                                       michelinii. J Exp Mar Biol Ecol 234:29–39
+ä Hall VR (2001) The response of Acropora hyacinthus and             ä Nakamura T, Yamasaki H (2005) Requirement of water-flow
+      Montipora tuberculosa to three different types of colony            for sustainable growth of pocilloporid corals during high
+      damage: scraping injury, tissue mortality, and breakage.            temperature periods. Mar Pollut Bull 50:1115–1120
+      J Exp Mar Biol Ecol 264:209–223                                ä Neudecker S (1979) Effects of grazing and browsing on the
+ä Henry LA, Hart M (2005) Regeneration from injury and                    zonation of corals in Guam. Ecology 60:666–672
+      resource allocation in sponges and corals—a review. Int          Oren U, Benayahu Y, Lubinevsky H, Loya Y (2001) Colony
+      Rev Hydro 90:125–158                                                integration during regeneration in the stony coral Favia
+ä Iglesias-Prieto R, Matta JL, Robins WA, Trench RK (1992)                favus. Ecology 82:802–813
+      Photosynthetic response to elevated temperature in the         ä Paine RT (1966) Food web complexity and species diversity.
+      symbiotic dinoflagellate Symbiodinium microadriaticum               Am Nat 100:65–83
+      in culture. Proc Natl Acad Sci USA 89:10302–10305                Patterson MR (1992) A chemical engineering view of cnidar-
+ä Jackson JBC (1977) Competition on marine hard substrata:                ian symbioses. Am Zool 32:566–582
+      the adaptive significance of solitary and colonial strate-     ä Pearse VB, Muscatine L (1971) Role of symbiotic algae (zoo-
+      gies. Am Nat 111:743–767                                            xanthellae) in coral calcification. Biol Bull 141:350–363
+ä Jokiel PL, Coles S (1977) Effects of temperature on the mortal-    ä Peterson CH, Quammen ML (1982) Siphon nipping: its impor-
+      ity and growth of Hawaiian reef corals. Mar Biol 43:                tance to small fishes and its impact on growth of the
+      201–208                                                             bivalve Prothaca staminea (Conrad). J Exp Mar Biol Ecol
+ä Jokiel PL, Coles S (1990) Response of Hawaiian and other                63:249–268
+      Indo-Pacific reef corals to elevated temperature. Coral        ä Powers SP, Kittinger JN (2002) Hydrodynamic mediation of
+      Reefs 8:155–162                                                     predator-prey interactions: differential patterns of prey
+  Jokiel PL, Maragos JE, Franzisket L (1978) Coral growth:                susceptibility and predator success explained by variation
+      buoyant weight technique. UNESCO Monogr Oceanogr                    in water flow. J Exp Mar Biol Ecol 273:171–187
+      Methodol 5:529–542                                               Powers SP, Peterson CH (2000) Conditional density depen-
+ä Kramarsky-Winter E, Loya Y (2000) Tissue regeneration in                dence: the flow trigger to expression of density-dependent
+      the coral Fungia granulosa: the effect of extrinsic and             emigration in bay scallops. Limnol Oceanogr 45:727–732
+      intrinsic factors. Mar Biol 137:867–873                        ä Romano   SL (1990) Long-term effects of interspecific aggres-
+ä Lenihan HS, Peterson CH (1998) How habitat degradation                  sion on growth of the reef-building corals Cyphastrea
+      through fishery disturbance enhances effects of hypoxia             ocellina (Dana) and Pocillopora damicornis (Linnaeus).
+      on oyster reefs. Ecol Appl 8:128–140                                J Exp Mar Biol Ecol 140:135–146
+ä Lenihan HS, Adjeroud M, Kotchen MJ, Hench JL, Nakamura             ä Rotjan RD, Lewis SM (2008) Impact of coral predators on trop-
+      T (2008) Reef structure regulates small-scale spatial varia-        ical reefs. Mar Ecol Prog Ser 367:73–91
+      tion in coral bleaching. Mar Ecol Prog Ser 370:127–141         ä Rotjan RD, Lewis SM (2009) Predators selectively graze
+  Leonard GH, Levine JM, Schmidt PR, Bertness MD (1998)                   reproductive structures in a clonal marine organism. Mar
+      Testing the relative contribution of positive and negative          Biol 156:569–577
+                                          Lenihan & Edmunds: Response of corals to injury                                            63
+
+
+
+
+ä Schmitt RJ, Holbrook SJ, Brooks AJ, Lape JCP (2009)                     control conditions. J Exp Mar Biol Ecol 153:63–74
+     Intraguild predation in a structured habitat: distinguishing   ä Strauss SY, Agrawal AA (1999) The ecology and evolution of
+     multi-predator effects from competitor effects. Ecology              plant tolerance to herbivory. Trends Ecol Evol 14:179–185
+     90:2434–2443                                                     Turner SJ (1994) The biology and population outbreaks of the
+ä Sebens KP, Grace SP, Helmuth BST, Maney EJ, Miles SJ                    corallivorous gastropod Drupella on Indo-Pacific reefs.
+     (1998) Water flow and prey capture by three scleractinian            Oceanogr Mar Biol Annu Rev 32:461–530
+     corals, Madracis mirabilis, Montastrea cavernosa, and            Titlyanov EA, Titlyanova TV, Yakovleva IM, Nakona Y, Bha-
+     Porites porites, in a field enclosure. Mar Biol 131:347–360          gooli R (2005) Regeneration of artificial injuries on sclerac-
+ä Skilleter GS, Peterson CH (1994) Central foraging behavior of           tinian corals and coral/algal competition for newly formed
+     individuals within an ecosystem context: the clam                    substrate. J Exp Mar Biol Ecol 323:27–42
+     Macoma balthica and interactions between competition           ä Wood R (1998) The ecological evolution of reefs. Annu Rev
+     and siphon cropping. Oecologia 100:268–278                           Ecol Syst 29:179–206
+ä Stimson J, Kinzie RA (1991) The temporal pattern and rate of      ä Zajac RN (1985) The effects of sublethal predation on repro-
+     release of zooxanthellae from the reef coral Pocillopora             duction in the spioned polychaete Polydora ligni (Web-
+     damicornis (Linnaeus) under nitrogen enrichment and                  ster). J Exp Mar Biol Ecol 88:1–19
+
+  Editorial responsibility: Charles Birkeland,                        Submitted: November 9, 2009; Accepted: March 20, 2010
+  Honolulu, Hawaii, USA                                               Proofs received from author(s): June 12, 2010
+

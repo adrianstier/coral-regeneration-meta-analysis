@@ -1,0 +1,474 @@
+Marine Biology 81,209-215 (1984)
+                                                                                                        Marine
+                                                                                                          Biology
+                                                                                                        ..........
+
+                                                                                                                     9 Springer-Verlag 1984
+
+
+
+
+Growth of A cropora pulchra
+II. Responses of natural and transplanted colonies to temperature and day length *
+
+
+H. T. Yap and E. D. Gomez
+
+Marine Sciences Center, University of the Philippines; Diliman, Quezon City 3004, Philippines
+
+
+Abstract                                                                  Observed trends in the initiation of branching ("bud-
+                                                                      ding") throughout the year are related to trends in growth
+The growth of both undisturbed colonies and transplants               rate. Data on the regeneration of broken branches within
+of the branching coral Acropora pulchra (Brook) was                   a year's time are also presented, and related to projected
+studied over a 17-month period in the reef of Bolinao,                annual growth rates of the species.
+Pangasinan, northern Philippines. Growth rate was moni-                   Relatively few studies exist on the effects of tempera-
+tored using linear measurement techniques. Of the envi-               ture, acting alone or in concert with other factors, on coral
+ronmental factors measured, both temperature and day                  growth in the tropics and subtropics (Clausen, 1971; Jones
+length, in the range of natural conditions encountered,               and Randall, 1973; Jokiel and Coles, 1974, 1977; Coles
+correlated negatively with the growth and branching of the            etal., 1976; Hudson, 1981). In some cases, sublethal
+undisturbed corals and, to a lesser extent, growth of the             elevation of temperature has been shown to reduce growth
+transplants. Temperature, in addition, appeared to affect             rates in certain coral species (Jones and Randall, 1973).
+mortality of the transplants significantly. Using various             High light intensities combined with extreme temperatures
+methods of computation of data for the undisturbed                    likewise appeared to affect coral physiology adversely
+colonies, the projected annual growth rate of the species             (Coles and Jokiel, 1978).
+was found to range from 13.1 to 15.8cmyr -1. Growth
+rates of the transplants were in general considerably lower.
+                                                                      Material and methods
+                                                                      Location
+Introduction
+                                                                      Bolinao, Pangasinan is located at the northwestern corner
+In a previous paper (Yap and Gomez, 1981), the growth                 of Lingayen Gulf, northern Philippines, approximately
+rate of the branching coral species Acropora ?ulehra was              between Lat. 16o21' and 16~           and between Long.
+shown to be negatively correlated with temperature.                    119~ ' and 120~          The study area, situated in the
+Mortality likewise appeared to be significantly related to            lagoon of Santiago Island in Bolinao, is described in detail
+temperature, the latter's effects possibly compounded by              in Yap and Gomez (1981). SitesA, B and D are natural
+additional stress caused by sedimentation. The present                A cropora pulchra (Brook) patches, while Site C is a rub-
+study covers the period October 1980 to March 1982,                   ber-tire artificial reef divided into four groups of tires
+building on and concluding the first study, which spanned             called "modules" and situated in a bare, silty portion of
+the months of October 1980 to May 1981. It includes                   the reef. Depths vary from 3 to 5 m, depending on the
+analyses of records of an additional factor, day length,              tide.
+here representing an alternative means of measuring light.
+Day length, along with temperature, is shown to correlate             Measurement of growth and transplantation of corals
+negatively with coral growth rate. These factors together
+characterize the warm summer months believed to be                    At least 15 naturally-established colonies growing side by
+stressful for growth of the species in shallow water.                 side in each of Sites A, B and D were designated as the
+                                                                      controls. Two branches per colony (to make a total of at
+* Contribution No. 100 of the Marine Sciences Center, University      least 30 branches per site) were tied with plastic-coated
+  of the Philippines                                                  copper wire. This served as a means of identification as
+210                                                              H.T. Yap and E. D. Gomez: Responses ofA croporapulchra to temperature and day length
+
+well as a measuring base. Linear branch increment was                                                spanning October 1980 to September 1981 are plotted in
+monitored by measuring branch length from the wire base                                              Fig. 1 a. Shorter days were generally associated with lower
+to the tip at monthly intervals with an architect's plastic                                          water temperatures, although the extreme lows of each did
+flexible curve graduated in millimeters.                                                             not coincide. The shortest average day length, 11.29 h, was
+    Other colonies at Sites A and B served as sources of the                                         recorded for the period December 1980 to January 1981,
+transplants. A minimum of 15 coral fragments were                                                    while mean temperature was lowest at 26.0~ for the
+broken off and reattached within their same sites of origin                                          period January to February 1981. No data are available
+(A and B), as well as transplanted to Site C, the artificial                                         for later months.
+reef. A corals were transplanted to Module IV, and B
+corals to Module I. Transplants were attached to rubber
+                                                                                                     Growth
+tires and concrete flagstones by means of underwater
+epoxy. Two branches per transplant were tagged and                                                   Trends in growth of controls and transplants were inferred
+monitored in the same manner as the controls.                                                        from the data by means of analysis of variance (ANOVA)
+    Mortality was taken to be the number of dead, marked                                             tests (Sokal and Rohlf, 1969).
+branches over the total number of marked branches at
+each site.
+                                                                                                     Controls
+
+Measurement of environmental parameters                                                              Mean monthly growth rates of the control colonies at each
+                                                                                                     site are depicted in Fig. 1 b, c, and d. These ranged from a
+Records of day length were procured from weather re-                                                 low of 0.3 to a high of 2.3 cm/mo. Negative increments,
+ports. Temperature was continuously monitored with a                                                 such as those brought about by mechanical breakage or
+Peabody-Ryan Model "J" Thermograph tied to the bottom                                                predation, were excluded from the averages. In general, no
+of the artificial reef.                                                                              significant differences in growth rates among the different
+                                                                                                     sites were registered.
+Results                                                                                                  Significant trends were revealed upon testing for varia-
+                                                                                                     tion of growth rates over time. Monitoring of growth
+Environmental factors                                                                                started well into the cool season (October 1980) when
+Mean values for water temperature and day length for                                                 growth rates were at their high points. With the onset of
+each measurement interval within the observation period                                              the warmer months (April to June), growth rates at all
+
+
+
+   12.97-
+   12.7S
+                                                                                    ~                31.0
+cn 12.49                                                                                          I- 30,0
+o~ 12.25                                                                                          i- 29.0
+   12.01     =~ T                                                                                 [-28.0
+0  II ,77           ~"-e_
+                    ~"-e_       /'~                                                               i-27"0
+~= II .53                           /                                                             [-26.0
+   11.29                                                                                            25.0
+
+
+
+ E 2.1
+ E
+                                                                            -- - - - - o -   --
+
+
+      O.9
+ O          A       CONTROLS                     -_
+ o    0.3
+
+
+
+  E 2.1
+ -%
+ E
+ w-
+ .~ 0.9
+             B      CONTROLS                                                                                      Fig. 1. Acropora pulchra. (a) Temperature and day
+      0.3
+                                                                                                                  length curves for the months October t980-July 1981
+                                                                                                                  and October 1980-September 1981, respectively. T=
+ E                                                                                                                Temperature, D=Day length. (b-d) Mean monthly
+ "~. 2.1
+ E                                                                                 d                              growth rates (cm/mo) of control colonies at Sites A, B,
+      1.5
+                                                                                                                  and D, from October 1980 to March 1982. Solid fines
+                                                             /
+      0.9                                             .it"                                                        represent significant differences (P= 0.05) between data
+ o           D      CONTROLS                                                                                      points, and dashed lines insignificant differences. Data
+      0.3                                                                                                         for Site D from December 1980
+            O'D      D-Ja   Ja-F'       F'Ap   A;-My My-Jn' dn-dl' dI-Au' Au-S'                      / ~ S - Mr
+             '80      '81                                                                                 '82
+    H. T.Yap and E. D. Gomez: Responses of Acroporapulchra to temperature and day length                                                                          211
+
+sites decreased significantly, and remained at a constant                                          od) was 36.4%. This figure does not include branches that
+low for the duration of the entire summer. The onset of                                            could not be located at the end of the observation period.
+the rainy months of July and August was again accom-                                               These preliminary observations indicate that an average of
+panied by a significant growth spurt of the corals. Data for                                       12.6 cm of new growth may be regenerated in a year's
+the interval September 1981 to March 1982 represent                                                time, provided the coral survives the trauma of breakage
+increments over a six-month period and are similar to                                              and concomitant stresses.
+growth rates observed for the cool months.
+
+                                                                                                   Mortality (transplants)
+    Transplants
+                                                                                                   Percentage mortalities of branches of transplants are
+Trends in mean monthly growth rates of the transplants                                             plotted in Fig. 4. Comparisons of responses of transplants
+are presented in Fig. 2. Values ranged from 0 to 1.1 cm/mo.                                        among the different sites showed no significant differences.
+As in the case of the controls, no significant differences                                         On the other hand, increases in percentage mortality for
+existed among transplants at the different sites. A pattern                                        transplants at all sites again occurred during the warm
+could also be discerned of higher growth rates during the                                          months.
+cool season.
+    As a corollary to the monitoring of growth rates, the                                          Budding
+percentages of branches of transplants that did not register
+any growth for a particular time interval were recorded for                                        Data on the initiation of new branches on the same
+each site. The greater percentages of branches registering                                         observed branches at Sites A, B and D for each time
+zero growth rates were obtained during the warm season                                             interval within the study period are presented in Table 2.
+roughly spanning the months of April to June (Fig. 3).                                             Branches that did not bud during the entire observation
+                                                                                                   period were not included in the computations. These
+                                                                                                   "dormant" branches comprised 3.7, 26.5 and 14.3% of the
+Regeneration of broken branches                                                                    total branches monitored at Sites A, B and D respectively.
+                                                                                                   As indicated by the data in Table 2, budding seems to
+Data on the regeneration and growth of broken branches                                             have been more profuse during the cooler season as
+are presented in Table 1. Percentage mortality (i.e. of                                            compared to the warmer season - the same period when
+branches that did not survive the entire monitoring peri-                                          growth rates were also relatively high.
+
+
+                          GROWTH             OF    TRANSPLANTS
+
+
+
+
+       1.5
+
+~-     0,9
+E
+o
+       0.3
+
+
+
+
+       1.5
+
+       0.9           9 .....     0%                                                            b
+
+      0.3
+
+
+
+
+      1.5
+o
+E     0.9                                                                                  C
+E
+      0.3
+
+
+                                                                                                          Fig. 2. Aeropora pulehra. Mean monthly growth rates
+                                                                                                          (cm/mo) of transplants from December 1980 to March
+o
+      1,5                                                                                                 1982. Solid lines represent significant differences (P=
+E                                                                                          d              0.05) between data points, and dashed lines insignificant
+      0.9
+E
+                                                                                                          differences. (a) Transplants at Site A; (b) Transplants at
+o     0.3                                                                                                 Site B; (c) Transplants at Module I, Site C; (d) Trans-
+                                             ",,     .,   ....   9. . . .
+                                                                                                          plants at Module IV, Site C
+             o2o D-Jo          Jo-F   F-Ap    Ap-My My-dn Jn' JI            JI-Au   ~u-s           S-Mr
+             '80   '81                                                                              '82
+212                                                                         H.T. Yap and E. D. Gomez: Responses ofAeroporapulchra to temperature and day length
+
+                ZERO     GROWTH       OF        TRANSPLANTS
+
+    I00
+
+      90
+
+    80
+
+      70
+
+      60
+%                                          /i-"                    ,.t
+      50
+
+      40                                                                                                        Fig. 3. Acropora pulchra. Percentages of branches of
+                                                                                                                transplants that registered zero growth increments for
+    30                         9-Tu/<.L~                           ~         ~o._A,\ ,," I,          \          each monthly interval from December 1980 to Septem-
+    2O                                                                                                          ber 1981, and for the period September 1981-March
+                                                                                                                1982. (a) Site A transplants; (b) Site B transplants; (c)
+      I0                                                                                                        Module I, Site C transplants; (d) Module IV, Site C
+                          i                 E          i               t                 i       r   ~r $-~dr   transplants
+                o~o D-da       da'F    F-Ap Ap-My Mu                       Jn~-dl dl-Au      Au-S
+                '80      '81                                                                             ~82
+
+
+
+Table 1. Aeropora pulchra. Regeneration and growth of broken                                             coefficients (Pearson's Product-Moment Correlation
+branches                                                                                                 Coefficient, Sokal and Rohlf, 1969) were used to infer
+                                                                                                         relationships between growth, mortality and budding and
+Branch            Length of new        Growth period                       Projected growth
+no.               growth (cm)          (d)                                 rate (cm yr -1)               each of the two environmental variables (Table 3). Only
+                                                                                                         the biological parameters that showed significant varia-
+1                  2.3                 336                                  2.5                          tions over time, viz. growth rates of controls and trans-
+2                 13.9                 336                                 15.1                          plants, percentage zero growth of transplants, percentage
+3                  8.2                 336                                  8.9                          mortalities of transplants, and budding of controls were
+4                 14.7                 336                                 16.0
+5                 20.9                 336                                 22.7                          tested.
+6                 21.1                 336                                 22.9
+7                 13.4                 336                                 14.6                          Growth
+8                  6.4                 302                                  7.7
+9                  2.5                 302                                  3.0                          In the case of the controls, up to 90% of the variation in
+Average _+ SD:                                                             12.6-+ 7.6                    growth may be attributed to negative effects of tempera-
+                                                                                                         ture or day length, or both. As can be seen from Table 3,
+                                                                                                         both factors may be considered significant in terms of
+Correlation of trends in day length and temperature with                                                 effects on growth rate, except for controls at Site D in
+growth, mortality and budding                                                                            which case temperature appears to be the more dominant
+                                                                                                         variable.
+An assumption in this study is that day length and                                                           Day length and temperature are negatively correlated
+temperature each varied linearly with growth, mortality                                                  in varying degrees with growth rates of the transplants.
+and budding. Based on this assumption, simple correlation                                                Temperature appears to be the more significant variable.
+
+
+                       MORTALITIES         OF     TRANSPLANTS
+
+
+            1
+                                                       y"~~\, d
+                                                      /      \
+    8O
+                9                                 /            ~                   a
+    70          ',,                              //                            \
+o   60
+
+1oool
+    40-
+                                                                                                                  Fig. 4. Acropora pulchra. Percentage mortalities of
+    30-
+                                                                                                                  branches of transplants for each monthly interval from
+    20-
+                                      I ,'                 i                '\.'A"-,.Y,'----*
+                                                                                            ....                  October 1980 to September 1981, and for the period
+                                                                                                                  September 1981-March 1982. (a) Site A transplants; (b)
+      I0'                                                                                                         Site B transplants; (c) Module I, Site C transplants; (d)
+                                                                                                                  Module IV, Site C transplants
+                                                                                       ,,:';ao
+ H. T. Yap and E. D. Gomez: Responses of Acroporapulchra to temperature and day length                                                  213
+
+ Table 2. Acropora pulchra. Average number of new buds per site for each time interval (n = number
+ of branches observed at the beginning of the study; losses at Sites A, B and D as the study progressed
+ were 30.8, 16 and 6.7% respectively)
+
+ Site                Oct-     Dec       Jan-      Feb-        Apr-      May-       June-    July-   Aug-
+                     Dec      1980      Feb       Apr         May       June       July     Aug     Sept
+                     1980     -Jan      1981      1981        1981      1981       1981     1981    1981
+                              1981
+
+ Site A (26)         1.96     1.77      1.28      0.36        0.53      0.22       0.06     0.42    0.53
+ Site B (25)         1.53     1.42      0.83      0.29        0.27      0.10       0.15     0.58    0.60
+ Site D (30)                  0.50      1.10      0.20        0.21      0.04      0.86      0.68    0.89
+
+
+
+
+     Percentages of branches of transplants at all sites                       temperature, and is significant for transplants at Sites A
+ exhibiting zero growth are significantly positively cor-                      and C.
+ related with temperature alone. Consistent positive cor-
+ relations, though not significant, also exist with respect to
+ day length.                                                                   Budding
+
+                                                                               In control colonies at Sites A and B, budding is signifi-
+ Mortality                                                                     cantly negatively correlated with day length. Budding o f
+                                                                               corals at Site D, on the other hand, does not correlate with
+No attempt was made to correlate day length with                               day length. Temperature in all cases appears to exert no
+percentage mortality of transplants as this factor is nor-                     significant effect.
+mally not known to bring about coral mortality. A positive
+correlation exists between percentage mortality and
+                                                                               Discussion
+
+                                                                               Seasonality in coral growth and branching
+Table 3. A croporapulchra. Correlation coefficients (r) showing the
+relationship between certain biological parameters and the en-              Based on the results o f this study, coral growth within one
+vironmental factors, day length and temperature (** significant at
+the 5% level; * significant at the 10% level)                               year is perceived to exhibit a certain pattern. High growth
+                                                                            rates occur during the relatively cooler times of the year,
+Site                                 Day length          Temperature        and low growth rates during the warmer periods. Cool
+                                                                            months in the Philippines coincide roughly with the
+A. Growth rates of controls                                                 greatest intensity of the northeast monsoon, which is
+   A                               -0.88157"*            - 0.92749"*        approximately from N o v e m b e r to January. During the
+   B                               -0.88819**            -0.92208**
+   D                               - 0.57205             - 0.91009 **       transition to the other monsoon regime in the country, the
+                                                                            southwest, temperatures observed during the period of the
+B. Growth rates of transplants
+   A                               - 0.40057         - 0.70589              study were rather variable, but increased on the average.
+   B                               -0.70350*         -0.81044*             Temperatures then decreased gradually during the rainy
+   C, I                            -0.78186**        - 0.80455"            months of July through October towards the shift once
+   C, IV                           -0.51576          - 0.82585"*           more to the northeast monsoon. It is possible that the
+C. Percentage zero growth of transplants                                   apparent seasonality in coral growth observed in Bolinao
+   A                                 0.44337              0.79823"         is a more general phenomenon, particularly with respect
+   B                                 0.60410              0.79912"
+   C, I                              0.59034              0.76407 *        to temperate species which are subject to larger tempera-
+   C, IV                             0.41967              0.74684*         ture fluctuations. Knowledge of seasonality would have
+D. Percentage mortality of transplants                                     applications in management, such as in coral transplanta-
+   A                                                      0.95961 **       tion and harvesting schemes.
+   B                                                      0.63204               Preliminary observations indicate that the appearance
+   C, I                                                   0.88727**        of new branches likewise exhibits a certain seasonality,
+   C, IV                                                  0.98107**
+                                                                           being more marked during the cooler months o f October
+E. Budding of controls                                                     to February. Shinn (1976) observed that staghorn coral
+   A                              -0.9149261**       -0.6219097
+   B                              - 0.8677062"*      - 0.6134047           consistently initiated branching between December and
+   D                              - 0.2268210        -0.6523813            February. In this study, there appears to be a connection
+                                                                           between high growth rates and prolificity of branching,
+214                                            H.T. Yap and E. D. Gomez: Responses of Acroporapulchra to temperature and day length
+
+and the two may have been influenced by a common                         from 0.5 to 2 m. This is higher than the result of this study,
+factor or set of factors.                                                probably because their figure was derived from a moni-
+                                                                         toring period of only 58 d, comprising the relatively cool
+                                                                         months of October to December. Our earlier paper (Yap
+Projected annual growth rate                                             and Gomez, 1981) also quoted a slightly higher figure,
+                                                                         18.1 c m y r -1, again because this represented a less com-
+Using data for net growth (the value at the beginning                    plete cycle, leaving out some of the warm months. If the
+subtracted from the value at the end) measured over the                  same monitoring period as that of Tamura and Hada
+entire observation period from October 1980 to March                     (1932), i.e. October to December, were applied to the
+1982, and averaging for the controls at all sites, a value of            study of the species in Bolinao, a projected annual growth
+15.3 c m y r -~ was derived (Table4, I). In the hope of                  rate of 20.9 cm yr -1 would be obtained. This is very close
+obtaining more representative values for a year's growth,                to their estimate of 22.58 cm yr-L
+the above 17-month period was split into two slightly                        It would therefore seem that period or duration of
+overlapping annual cycles, October 1980 to September                     observation tends to affect estimates of growth rate signifi-
+1981, and February 1981 to March 1982. Mean growth rates                 cantly. This constitutes an artifact to be avoided as much
+thus computed were 14.8 and 13.8 cm yr -1, respectively                  as possible in field investigations.
+(Tables4, II and III), Statistical tests (ANOVA, 0.95
+confidence coefficient), however, indicated no significant
+differences among the values yielded by these three                      Possible effects of environmental factors
+different treatments.
+    If mean monthly growth rates are used as a basis for                 The parameter day length, which is the total number of
+computation, figures ranging from 13.1 to 15.8 cm yr -~ are              hours of daylight, is considered here to represent light,
+obtained. Broken branches, on the other hand, were                       although it is only one of several ways of representing or
+observed to regenerate an average new growth of 12.6 cm                  measuring this environmental factor. It gives an indica-
+within a year's time. All these values are close to the above            tion, at the very least, of the quantity of light that was
+estimates, and agree well with those quoted in the litera-               available, or that the corals were exposed to. The times of
+ture. Mayor (1924) gave an estimated annual growth rate                  the year in the Philippines characterized by longer day
+of 12.0 cm yr -~ for Acropora pulchra and related forms in               lengths, the summer months, were also associated with
+Samoa. This figure appears to conform to that of 10.0 to                 clear skies and, thus, more intense solar insolation. It is to
+ 12.5 c m y r -1 given by Guppy (1889) and Wood-Jones                    be expected that the extended periods of high light intensi-
+(1912) for A cropora spp. at Cocos-Keeling Atoll in the Indian           ties related to the longer day lengths and clear skies of
+Ocean (both cited in Mayor, 1924).                                       summer resulted in warmer ambient temperatures, par-
+     Likewise, Tamura and Hada (1932) discovered Acro-                   ticularly in the shallow depths characteristic of the habitat
+pora pulchra to be the most rapid grower among the coral                 ofA cropora pulchra.
+species covered by their study. Their observations yielded                   In this study, growth rate was negatively correlated
+a projected annual growth rate of 22.58 cm yr -1 for this                with both day length and temperature. This trend was
+species at Yap Island in the Carolines, at depths ranging                highly significant in the case of the controls, and was
+
+
+Table 4. Acroporapulchra. Projected annual growth rates (values stand for mean _+ SD cm yr -1)
+
+                                         Site A           Site B              Site D          Mean
+                                         controls         controls            controls
+
+  I. Observation period: October 1980-March 1982
+     Based on net growth over           16.8 • 6.3        15.2 _+9.7          13.9 _+9.6       15.3
+     entire observation period
+     Based on mean monthly              16.1               16.1                15.2            15.8
+     growth rates
+ II. Observation period: October 1980-September 1981
+     Based on net growth over           15.8 • 5.0        13.8 +_8.6           14.8 +_8.5      14.8
+     entire observation period
+     Based on mean monthly              16.0               15.7                15.3            15.7
+     growth rates
+III. Observation period: February 1981-March 1982
+     Based on net growth over           14.3 • 6.9         13.8__ 10.7         13.3 +_9.7      13.8
+     entire observation period
+     Based on mean monthly              12.3               13.4                13.7            13.1
+     growth rates
+H. T. Yap and E. D. Gomez: Responses ofA croporapulchra to temperature and day length                                              215
+
+discernible in the case o f the transplants. The warm              than reduced temperatures, may play a role in the initia-
+summer months m a y then be considered a probable                  tion of budding. Other factors, however, should be investi-
+stressful period for growth of the species.                        gated as well.
+    Large populations of tropical species (and certain sub-
+tropical species) live at temperatures precariously close to
+their upper lethal limits during the summer (Coles et al.,         Literature cited
+1976). Warming of the water, therefore, from the cool to           Buskirk, R. E., F. W. Taylor, W. P. O'Brien, P. Maillet and L.
+the warm season implies approaching these upper limits                 Gilpin: Seasonal growth patterns and mortality of corals in
+for growth and survival, so that lowered growth rates m a y            the New Hebrides (Vanuatu). Proc. 4th int. Coral Reef Symp.
+be expected (see also discussion in Yap and Gomez, 1981).              2, 197-200 (1981)
+                                                                   Clausen, C. D.: Effects of temperature on the rate of 45Ca uptake
+    The lowest mean temperature recorded at Bolinao,                   by Pocillopora damicornis. In: Experimental coelenterate
+26 ~ was also the temperature associated with the highest              biology, pp 246-259. Ed. by H. M. Lenhoff, L. Muscatine and
+mean growth rates. It is unknown whether growth would                  L. V. Davis. Honolulu: University of Hawaii Press 197l
+have continued to rise had mean temperatures dropped               Coles, S. L. and P. L. Jokiel: Synergistic effects of temperature,
+below this level, or if this point already constituted an              salinity and light on the hermatypic coral Montipora verrucosa.
+                                                                       Mar. Biol. 49, 187-195 (1978)
+optimum. O p t i m u m temperatures of 26 ~ for Pocillopora        Coles, S. L., P. L. Jokiet and C. R. Lewis: Thermal tolerance in
+darnicornis, Montipora verrucosa and Fungia scutaria, and              tropical versus subtropical Pacific reef corals. Pacif. Sci. 30,
+27~     for P. damicornis were postulated by Jokiel and                159-166 (1976)
+Coles (1977) and Clausen (1971), respectively. Growth              Hudson, J. H.: Response of Montastrea annularis to environ-
+                                                                       mental change in the Florida Keys. Proc. 4th int. Coral Reef
+rates in both studies were shown to decline above (as well
+                                                                       Syrup. 2, 233-240 (1981)
+as below) these values, growth behaving in a curvilinear           Jokiet, P. L. and S. L. CoIes: Effects of heated effluents on herma-
+fashion with temperature. A similar trend may apply to                 typic corals at Kahe Point, Oahu. Pacif. Sci. 28, 1-18 (1974)
+A cropora pulchra.                                                 Jokiel, P. L. and S. L. Coles: Effects of temperature on the
+    In addition, light and temperature m a y have acted               mortality and growth of Hawaiian reef corals. Mar. Biol. 43,
+                                                                      201-208 (1977)
+synergistically in terms of their influence on coral growth.       Jones, R: S. and R. H. Randall: A study of biological impact
+That light and temperature, a m o n g other environmental             caused by natural and man-induced changes on a tropical
+variables, can behave synergistically, is indicated by the            reef. University of Guam, Marine Laboratory Technical
+observations of Coles and Jokiel (1978). In their study, the          Report No. 7, 184pp. Agana:University of Guam Marine
+                                                                      Laboratory 1973
+effect of light was most clearly evident at near-lethal
+                                                                   Mayor, A. G.: Growth-rate of Samoan corals. Carnegie Inst.
+temperatures. High light intensities at these temperatures            Wash. Pub. 340, 51-72 (1924)
+were shown to interfere with vital temperature-related             Shinn, E. A.: Coral reef recovery in Florida and the Persian Gulf.
+physiological mechanisms o f the coral, such as calcifica-            Environ. Geol. L 241-254 (1976)
+tion. This again could explain the low growth rates o f            Sokal, R. R. and F. J. Rohlf: Biometry, 776 pp. San Francisco: W.
+                                                                      H. Freeman and Co. 1969
+Acropora pulchra during the warm months, when possible             Tamura, T. and Y. Hada: Growth rate of reef building corals
+stress to the corals was seen in paler colors attributable to         inhabiting in the South Sea Island. Sci. Rep. Tohoku Univ. 7,
+"bleaching" or expulsion o f the algal symbionts - an                 433-455 (1932)
+observation also made by Buskirk etal. (1981) on Go-               Yap, H. T. and E. D. Gomez: Growth of Acropora pulchra
+niastrea retiformis in Vanuatu.                                       (Brook) in Bolinao, Pangasinan, Philippines. Proc. 4th int.
+                                                                      Coral Reef Symp. 2, 207-213 (1981)
+    In the case of the appearance of new branches, it is not
+clear which environmental factors are operative. There are         Date of final manuscript acceptance: April 30, 1984.
+indications, though, that reduced daylight hours, more             Communicated by M. Anraku, Hiroshima
+

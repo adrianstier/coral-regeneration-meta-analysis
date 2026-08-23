@@ -1,0 +1,407 @@
+                         Journal of Experimental Marine Biology and Ecology,
+                                          234 (1999) 29–39                                L
+Depth-related variation in regeneration of artificial lesions in
+the Caribbean corals Porites astreoides and Stephanocoenia
+                          michelinii
+                      I. Nagelkerken a , *, E.H. Meesters b , R.P.M. Bak b ,c
+              a
+                Carmabi Foundation, P.O. Box 2090, Piscaderabaai z /n, Curaçao, Netherlands Antilles
+b
+    Netherlands Institute for Sea Research ( NIOZ), P.O. Box 59, 1790 AB Den Burg, Texel, The Netherlands
+     c
+       Institute for Systematics and Population Biology, University of Amsterdam, P.O. Box 94766, 1090 GT
+                                           Amsterdam, The Netherlands
+       Received 1 December 1997; received in revised form 18 August 1998; accepted 22 August 1998
+
+
+
+Abstract
+
+   Regeneration of artificial lesions was studied along a depth gradient from 5–35 m in the
+Caribbean corals Porites astreoides (brown morph) and Stephanocoenia michelinii (massive
+morph). During the first 3–4 weeks of the regeneration process tissue recovery in both coral
+species was higher in shallow water than in deep water colonies. After 7 weeks when the lesions
+were almost closed, however, shallow as well as deep water colonies had restored the damage to
+the same degree, showing that regeneration is a high priority process in coral ecology. The deep
+water colonies did not show signs of photoacclimatization. The zooxanthellae densities and the
+total chlorophyll concentration per algal cell in the coral tissue did not vary significantly with
+depth. Furthermore, there was no decrease with depth of the chlorophyll a /c 2 ratio, which would
+have indicated photoacclimatization by means of a relative increase of chlorophyll c 2 which is
+more efficient in using the blue light available at depth. One possibility which may explain the
+slower tissue recovery in deep water colonies during the first stage of the regeneration process, is a
+combination of the reduced light levels at depth and a lack of chlorophyll acclimatization in the
+deep water colonies.  1999 Elsevier Science B.V. All rights reserved.
+
+Keywords: Corals; Damage; Depth gradient; Lesions; Regeneration; Tissue recovery
+
+
+
+
+1. Introduction
+
+     Regeneration is an important life history strategy in corals (Bak, 1983; Meesters et al.,
+
+*Corresponding author. Tel.: 1 31-5999-4624242; fax: 1 31-5999-4627680; e-mail: inagelk@ibm.net
+
+0022-0981 / 99 / $ – see front matter  1999 Elsevier Science B.V. All rights reserved.
+PII: S0022-0981( 98 )00147-6
+30                I. Nagelkerken et al. / J. Exp. Mar. Biol. Ecol. 234 (1999) 29 – 39
+
+
+1992; Meesters and Bak, 1995; Meesters et al., 1996). Corals can be damaged as a result
+of various biotic and abiotic causes (see review by Pearson, 1981) and with failing of
+regeneration, lesions will become a permanent feature on the colony surface (Meesters et
+al., 1996, 1997b).
+   Regeneration has been studied in relation to colony size (Loya, 1976), spatial
+competition (Bak et al., 1977), lesion size and shape (Bak and Steward Van-Es, 1980;
+Meesters et al., 1997a; Oren et al., 1997), lesion position on the colony (Meesters et al.,
+1992; Meesters and Bak, 1995), environmental factors (Lester and Bak, 1985),
+sedimentation (Meesters et al., 1992), coral bleaching (Meesters and Bak, 1993),
+fecundity (Van Veghel and Bak, 1994), growth (Bak, 1983; Meesters et al., 1994), and as
+an ecophysiological trait in coral morphs (Nagelkerken and Bak, 1998). However, all
+these studies were largely limited to the reef crest, the reef terrace or the shallow reef
+slope. Various coral species are distributed along a relatively large depth range, but little
+is known of the regeneration of coral colonies in deeper water.
+   Corals often have limited energy budgets, and energy is partitioned over important
+processes such as growth, reproduction and regeneration (Bak, 1983; Edmunds and
+Spencer Davies, 1986; Spencer Davies, 1991). Regeneration is fuelled by the polyps
+surrounding and in the vicinity of the lesion and requires a considerable amount of
+energy (Meesters et al., 1994, 1997a; Oren et al., 1997). In spite of the high energetic
+cost, a trade-off in energy exists in favor of regeneration and to the detriment of growth
+(Bak, 1983; Meesters et al., 1994) and fecundity (Van Veghel and Bak, 1994), which
+indicates the importance of this process.
+   Light is of primary importance for the survival of reef-building corals (Chalker et al.,
+1988). Photosynthetically fixed carbon is translocated from the symbiotic algae to the
+coral host and serves as a source of energy (Patton et al., 1977; Crossland et al., 1980;
+Muscatine et al., 1984; Stimson, 1987). Light intensity decreases with depth (e.g.
+Bosscher and Meesters, 1992) and corals living at greater depths may have less energy
+for regeneration and other processes. Several studies have already shown that corals
+growing in deeper waters and / or at reduced light levels show a decrease in other
+energy-requiring physiological functions, such as growth rate (Dustan, 1975; Hubbard
+and Scaturo, 1985; Huston, 1985; Bosscher and Meesters, 1992), fecundity (Kojis and
+Quinn, 1984) and respiration rate (Spencer Davies, 1977, 1980; Chalker et al., 1983).
+   Our hypothesis is that as a result of the decreasing light intensity at increasing depth
+corals have less energy reserves available for the regeneration process, resulting in a
+lower regeneration rate in corals growing at greater depths. To test this hypothesis, the
+regeneration of artificial lesion was studied in two Caribbean coral species along a depth
+range from 5–35 m. To account for the effect of photoacclimatization—the process as a
+result of which corals can acclimatize to lower light levels trough, for example, a change
+in the photosynthetic pigment content and organization—we measured densities of
+zooxanthellae and concentrations of chlorophyll a and chlorophyll c 2 per algal cell.
+
+
+2. Materials and methods
+
+     The scleractinian corals Porites astreoides (Lamarck) and Stephanocoenia michelinii
+                 I. Nagelkerken et al. / J. Exp. Mar. Biol. Ecol. 234 (1999) 29 – 39   31
+
+
+(Milne-Edwards and Haime) were selected to study the regeneration of artificial lesions
+in relation to water depth. Both coral species have a relatively flat colony surface with
+small polyps, facilitating infliction of artificial lesions, and resulting in an evenly
+distributed light regime over the colony’s surface.
+   The study site was located at the Seaquarium reef on the leeward coast of Curaçao,
+Netherlands Antilles. A detailed description of the reef structure and distribution of
+corals on the reefs of Curaçao is given by Bak (1975), (1977).
+   Along a depth-gradient from 5 to 35 m, 41 colonies of Porites astreoides and 29
+colonies of Stephanocoenia michelinii were haphazardly selected. These two coral
+species both consist of at least two morphs, which show a different rate of regeneration
+(Nagelkerken and Bak, 1998). In this study we used the brown morph of P. astreoides
+and the massive morph of S. michelinii (see Nagelkerken and Bak, 1998). Cylindrical
+lesions of approximately 1 cm in diameter and 2–3 mm deep were inflicted in situ on
+top of the experimental colonies, during January 1993. The lesions were made with a
+small grinding stone attached to a pneumatic drill powered by a SCUBA tank. Mean
+lesion size (6S.D.) after lesion infliction was 2.260.3 cm 2 for P. astreoides and 2.060.6
+cm 2 for S. michelinii. Recovery of lesions was assessed after approximately 4, 7, 15, 21,
+29, 36 and 49 days following lesion infliction and was measured as described by
+Meesters and Bak (1993).
+   All experimental colonies were collected at the end of the regeneration experiment.
+Using a drilling machine with a hollow drill, cores of the skeleton plus tissue were
+drilled adjacent to the lesions. The cores had a diameter of 2.5 cm for Porites astreoides
+and 1.2 cm for Stephanocoenia michelinii. The live tissue was removed from the cores
+and zooxanthellae densities and chlorophyll a and chlorophyll c 2 concentrations were
+determined as in Szmant and Gassman (1990).
+   Recovery of lesions was expressed as the percentage of the initial lesion area closed.
+Regression slopes (percentage lesion area closed versus depth) were calculated at each
+time interval using least-squares linear regression (Sokal and Rohlf, 1995). Regression
+slopes were compared using the T 9-method and Gabriel’s approximate method (Sokal
+and Rohlf, 1995).
+
+
+3. Results
+
+3.1. Regeneration
+
+   The data show that regeneration is influenced by depth in both coral species (Fig. 1,
+2). When lesion recovery is depicted versus time for the 10 shallowest (5–10 m for
+Porites astreoides, 5–16 m for Stephanocoenia michelinii) and 10 deepest (24–34 m for
+P. astreoides, 21–30 m for S. michelinii) experimental colonies, a consistent pattern is
+visible (Fig. 1a,b). During the first 3–4 weeks more tissue was regenerated in lesions on
+shallow water colonies than on deep ones, whereas after that time the recovery was more
+or less similar.
+   In shallow water colonies of both coral species an average of about 40% of the lesion
+area was recovered in just 4 days, compared to 20% in the deep water Porites astreoides
+32                   I. Nagelkerken et al. / J. Exp. Mar. Biol. Ecol. 234 (1999) 29 – 39
+
+
+
+
+Fig. 1. Lesion recovery as a function of time for shallow and deep water colonies of (a) Porites astreoides, (b)
+Stephanocoenia michelinii.
+
+
+
+and only 5% in the deep water Stephanocoenia michelinii (Fig. 1a,b). In both species,
+shallow and deep water colonies had regenerated an average of approximately 90% of
+the total lesion area after 49 days, and most lesions were not completely closed at the
+                 I. Nagelkerken et al. / J. Exp. Mar. Biol. Ecol. 234 (1999) 29 – 39    33
+
+
+end of the experiment. Considering all colonies along the entire depth range, only 15%
+of all lesions in P. astreoides and 10% in S. michelinii were closed after 49 days.
+   The regression slopes of the regeneration curves (i.e. percent lesion area recovered vs
+depth) were initially negative in Porites astreoides and Stephanocoenia michelinii, but
+later approached zero and ultimately became slightly positive (Fig. 2). The largest
+difference with depth (i.e. steepest slope) at any time was observed at day 4 in both
+species (Fig. 2). The relatively strong negative slope indicates that recovery is much
+higher in shallower water colonies than in deep water colonies. The slope in both species
+gradually became less steep and as of day 29 in P. astreoides and day 21 in S. michelinii
+it became zero (Fig. 2), indicating there was no difference any longer in the lesion
+recovery between shallow water and deep water colonies. Afterwards, the regression
+slopes became slightly positive in both species, indicating that recovery was slightly
+higher in deep water colonies compared to the shallow ones (Fig. 2). The slope at day 4
+was significantly lower than the slope at day 36 in P. astreoides, while in S. michelinii
+the slope at day 4 was significantly lower than the slope at day 21, 30, 37 and 49 (Fig.
+2).
+   The pattern of regeneration versus depth differed somewhat between Porites as-
+treoides and Stephanocoenia michelinii. At days 4, 7 and 15, the regression slope was
+steeper in S. michelinii than in P. astreoides (Fig. 2), indicating a larger difference in
+recovery between shallow and deep water colonies in S. michelinii during the first 15
+days of the regeneration process.
+
+3.2. Zooxanthellae
+
+  Densities of zooxanthellae did not differ significantly with depth (P . 0.209) in
+Porites astreoides or in Stephanocoenia michelinii (Fig. 3).
+
+3.3. Chlorophyll
+
+   The total chlorophyll concentration (i.e. chl. a 1 c 2 ) per algal cell did not show any
+significant differences with depth (P . 0.090) in Stephanocoenia michelinii or in Porites
+astreoides (Fig. 4). For the chlorophyll a /c 2 ratio a significant increase with depth
+(P 5 0.028) was found in P. astreoides (Fig. 5), although only a relatively small part of
+the relation could be explained by the factor depth (r 2 5 0.12). In S. michelinii, the
+chlorophyll a /c 2 ratio did not show a significant variation with depth (P 5 0.510).
+
+
+4. Discussion
+
+   The data in the present study show that regeneration varies with depth in both coral
+species. The recovery of artificial lesions in Porites astreoides and Stephanocoenia
+michelinii is negatively related with water depth, but only during the initial phase of the
+regeneration process. When the lesions are almost closed, however, the mean percentage
+of recovered lesion area is similar for shallow and deep water colonies. Bak (1983)
+studied the recovery of lesions in P. astreoides colonies at 10 and 23 m depth and found
+34                   I. Nagelkerken et al. / J. Exp. Mar. Biol. Ecol. 234 (1999) 29 – 39
+
+
+
+
+Fig. 2. Regression slopes calculated at each of the time intervals for the relation between percentage lesion area
+recovered versus water depth (a) Porites astreoides, (b) Stephanocoenia michelinii. Bars indicate the 95%
+confidence interval. Slopes are significantly different (0.05 level) if their intervals do not overlap.
+
+
+the percentage of recovered lesions to be higher in shallow water colonies. This also
+suggests an influence of depth on coral regeneration, but the results cannot directly be
+related to the present data due to difference in lesion characteristics.
+                      I. Nagelkerken et al. / J. Exp. Mar. Biol. Ecol. 234 (1999) 29 – 39                        35
+
+
+
+
+Fig. 3. Zooxanthellae counts and fitted regression lines of zooxanthellae density in the coral tissue near the
+lesions as a function of water depth.
+
+
+
+
+Fig. 4. Total chlorophyll (i.e. chl. a 1 c 2 ) concentration per zooxanthellae cell and fitted regression lines as a
+function of water depth.
+36                 I. Nagelkerken et al. / J. Exp. Mar. Biol. Ecol. 234 (1999) 29 – 39
+
+
+
+
+         Fig. 5. Chlorophyll a /c 2 ratio and fitted regression lines as a function of water depth.
+
+
+
+   Colonies of Porites astreoides and Stephanocoenia michelinii did not show signs of
+photoacclimatization with depth by means of an increase of the total chlorophyll
+concentration per cell or a variation in the zooxanthellae density. It is known that various
+coral species are able to photoacclimatize when living at greater depths (Chalker et al.,
+1988). As a response to the reduced light levels deep water corals often have increased
+levels of pigments in their tissue (Porter et al., 1984; Battey and Porter, 1988). A further
+indication of lack of photoacclimatization in P. astreoides and S. michelinii is the lack of
+a decrease in the chlorophyll a /c 2 ratio with depth. Chlorophyll c 2 is much more
+efficient in absorbing the blue light available at greater depths. A decrease in the
+chlorophyll a /c 2 ratio with depth would therefore indicate a relative increase in the
+chlorophyll c 2 concentration compared to that of chlorophyll a, allowing for a more
+efficient use of the light available at depth (Battey and Porter, 1988).
+   The lack of chlorophyll acclimatization in combination with reduced light levels at
+increasing depth may be the responsible factors which could explain the faster response
+of tissue recovery in shallow water corals compared to deep water corals in Porites
+astreoides and Stephanocoenia michelinii. Regeneration of tissue requires, apart from
+nitrogen acquired through heterotrophic feeding, a considerable amount of energy which
+must be supplied by the polyps surrounding and in the vicinity of the lesion (Meesters et
+al., 1994, 1997a; Oren et al., 1997). In shallow water, corals are often metabolically
+supersaturated with light resulting in a reserve of excess energy (Muscatine et al., 1984;
+Spencer Davies, 1984; Edmunds and Spencer Davies, 1986), while lipid production has
+also been shown to be light-dependent (Patton et al., 1977; Crossland et al., 1980; Battey
+and Porter, 1988). Consequently, deep water corals receiving lower light levels may be
+restricted in their energy reserves. Porter et al. (1984) calculated that shade-acclimatized
+                 I. Nagelkerken et al. / J. Exp. Mar. Biol. Ecol. 234 (1999) 29 – 39    37
+
+
+colonies of Stylophora pistillata acquire less than half of their metabolic carbon through
+photosynthesis, while Stimson (1987) showed that corals kept at experimentally low
+light levels had reduced lipid levels. Hence, one possibility which may explain the faster
+response of tissue recovery in shallow water corals may be the presence of more
+extensive energy reserves, in comparison to deep water corals. Further work on the
+carbon and nitrogen budgets of P. astreoides and S. michelinii should indicate whether
+this hypothesis is correct. In Stephanocoenia michelinii, larger energy reserves in
+shallow water corals are probably not acquired by means of an increase in fatty acids, as
+these have been found to be relatively constant along a depth gradient of 3–24 m
+(Meyers et al., 1978). An alternative hypothesis is that the deep water colonies harbor
+different species of zooxanthellae (Rowan and Knowlton, 1995; Rowan et al., 1997)
+than the shallow water colonies, and have a different rate of photosynthesis or
+translocation of photosynthetic energy to the coral.
+   The fact that ultimately the degree of lesion area which has been recovered is similar
+in shallow water and deep water colonies (Fig. 1), shows that regeneration is an
+important process in coral ecology (Bak, 1983; Meesters et al., 1994). In spite of the fact
+that deep water colonies live at lower light levels and did not show signs of
+photoacclimatization, shallow as well as deep water colonies of Porites astreoides and
+Stephanocoenia michelinii had both regenerated an average lesion area of about 90%
+after 49 days. As the recovery was faster in shallow water colonies during the initial
+phase of lesion recovery, it is apparent that the regeneration rate must have been higher
+in the deep water colonies during the last phase of the recovery in order to ultimately
+result in the same degree of tissue recovery.
+   Two of the possibilities which may explain the origin of the energy required for faster
+recovery in deep water corals during the last phase of the regeneration process are: (1)
+deep water colonies of P. astreoides and S. michelinii may be more dependent on
+additional sources of energy through heterotrophic feeding. Various studies have already
+suggested that deep water colonies of various coral species, including P. astreoides, are
+dependent on allochthonous sources of carbon (Meyers, 1979; Wellington, 1982;
+Muscatine et al., 1989). (2) Deep water colonies of P. astreoides and S. michelinii may
+be more dependent on translocation of energy for regeneration from other physiological
+processes. Energy can be translocated to the regeneration site to the detriment of other
+physiological processes. For example, coral growth is negatively affected in regenerating
+corals, even in water as shallow as 1–2 m (Bak, 1983) and 7 m (Meesters et al., 1994),
+while the fecundity and number of gonads per polyp are reduced near regenerating
+lesions of corals at a depth of 11–16 m (Van Veghel and Bak, 1994).
+
+
+Acknowledgements
+
+   We thank Oscar Frans and Frank Isabella for logistic support in the field. This study
+was funded by a grant from the ‘Overlegorgaan Kulturele Samenwerking Nederlandse
+Antillen’ (OKSNA, 92 / 983) to I.N., and by a grant from the Netherlands Foundation for
+the Advancement of Tropical Research (WOTRO, W84-311) to E.H.M. The manuscript
+benefited from the comments and suggestions of two anonymous reviewers.
+38                   I. Nagelkerken et al. / J. Exp. Mar. Biol. Ecol. 234 (1999) 29 – 39
+
+
+References
+
+Bak, R.P.M., 1975. Ecological aspects of the distribution of reef corals in the Netherlands Antilles. Bijdr.
+   Dierk. 45, 181–190.
+Bak, R.P.M., 1977. Coral reefs and their zonation in the Netherlands Antilles. Stud. Geol. 4, 3–16.
+Bak, R.P.M., 1983. Neoplasia, regeneration and growth in the reef-building coral Acropora palmata. Mar.
+   Biol. 77, 221–227.
+Bak, R.P.M., Steward Van-Es, Y., 1980. Regeneration of superficial damage in the scleractinian corals Agaricia
+   agaricites f. purpurea and Porites astreoides. Bull. Mar. Sci. 30, 883–887.
+Bak, R.P.M., Brouns, J.J.W.M., Heys, F.M.L., 1977. Regeneration and aspects of spatial competition in the
+   scleractinian corals Agaricia agaricites and Montastrea annularis. Proc. 3rd. Int. Coral Reef Symp. 1,
+   143–149.
+Battey, J.F., Porter, J.W., 1988. Photoadaption as a whole organism response in Montastrea annularis. Proc.
+   6th Int. Coral Reef Symp. 3, 79–87.
+Bosscher, H., Meesters, E., 1992. Depth related changes in the growth of Montastrea annularis. Proc. 7th Int.
+   Coral Reef Symp. 1, 507–512.
+Chalker, B.E., Dunlap, W.C., Oliver, J.K., 1983. Bathymetric adaptations of reef-building corals at Davies
+   Reef, Great Barrier Reef Australia. II. Light saturation curves for photosynthesis and respiration. J. Exp.
+   Mar. Biol. Ecol. 73, 37–56.
+Chalker, B.E., Barnes, D.J., Dunlap, W.C., Jokiel, P.L., 1988. Light and reef-building corals. Interdis. Sci. Rev.
+   13, 222–237.
+Crossland, C.J., Barnes, D.J., Borowitzka, M.A., 1980. Diurnal lipid and mucus production in the staghorn
+   coral Acropora acuminata. Mar. Biol. 60, 81–90.
+Dustan, P., 1975. Growth and form in the reef-building coral Montastrea annularis. Mar. Biol. 33, 101–107.
+Edmunds, P.J., Spencer Davies, P., 1986. An energy budget for Porites porites (Scleractinia). Mar. Biol. 92,
+   339–347.
+Hubbard, D.K., Scaturo, D., 1985. Growth rates of seven species of scleractinian corals from Cane Bay and
+   Salt Rivers, St. Croix, USVI. Bull. Mar. Sci. 36, 325–338.
+Huston, M., 1985. Variation in coral growth rates with depth at Discovery Bay, Jamaica. Coral Reefs 4, 19–25.
+Kojis, B.L., Quinn, N.J., 1984. Seasonal and depth variation in fecundity of Acropora palifera at two reefs in
+   Papua New Guinea. Coral Reefs 3, 165–172.
+Lester, R.T., Bak, R.P.M., 1985. Effect of the environment on regeneration of tissue lesions in the reef coral
+   Montastrea annularis (Scleractinia). Mar. Ecol. Prog. Ser. 24, 183–185.
+Loya, Y., 1976. Skeletal regeneration in a Red Sea scleractinian coral population. Nature 261, 490–491.
+Meesters, E.H., Bak, R.P.M., 1993. Effects of coral bleaching on tissue regeneration potential and colony
+   survival. Mar. Ecol. Prog. Ser. 96, 189–198.
+Meesters, E.H., Bak, R.P.M., 1995. Age-related deterioration of a physiological function in the branching coral
+   Acropora palmata. Mar. Ecol. Prog. Ser. 121, 203–209.
+Meesters, E.H., Bos, A., Gast, G.J., 1992. Effects of sedimentation and lesion position on coral tissue
+   regeneration. Proc. 7th Int. Coral Reef Symp. 2, 681–688.
+Meesters, E.H., Noordeloos, M., Bak, R.P.M., 1994. Damage and regeneration: links to growth in the
+   reef-building coral Montastrea annularis. Mar. Ecol. Prog. Ser. 112, 119–128.
+Meesters, E.H., Wesseling, I., Bak, R.P.M., 1996. Partial mortality in three species of reef- building corals
+   (Scleractinia) and the relation with colony morphology. Bull. Mar. Sci. 58, 838–852.
+Meesters, E.H., Pauchli, W., Bak, R.P.M., 1997a. Predicting regeneration of physical damage on a reef-building
+   coral by regeneration capacity and lesion shape. Mar. Ecol. Prog. Ser. 146, 91–99.
+Meesters, E.H., Wesseling, I., Bak, R.P.M., 1997b. Coral colony tissue damage in six species of reef-building
+   corals: partial mortality in relation with depth and surface area. J. Sea Res. 37, 131–144.
+Meyers, P., 1979. Polyunsaturated fatty acids in coral: indicators of nutritional sources. Mar. Biol. Lett. 1,
+   69–75.
+Meyers, P.A., Porter, J.W., Chad, R.L., 1978. Depth analysis of fatty acids in two Caribbean reef corals. Mar.
+   Biol. 49, 197–202.
+Muscatine, L., Falkowski, P.G., Porter, J.W., Dubinsky, Z., 1984. Fate of photosynthetic fixed carbon in light
+   and shade-adapted colonies of the symbiotic coral Stylophora pistillata. Proc. R. Soc. London B 222,
+   181–202.
+                     I. Nagelkerken et al. / J. Exp. Mar. Biol. Ecol. 234 (1999) 29 – 39                    39
+
+Muscatine, L., Porter, J.W., Kaplan, I.R., 1989. Resource partitioning by reef corals as determined from stable
+   isotope composition. I. 13 C of zooxanthellae and animal tissue vs depth. Mar. Biol. 100, 185–193.
+Nagelkerken, I., Bak, R.P.M., 1998. Differential regeneration of artificial lesions among sympatric morphs of
+   the Caribbean corals Porites astreoides and Stephanocoenia michelinii. Mar. Ecol. Prog. Ser. 163, 279–283.
+Oren, U., Benayahu, Y., Loya, Y., 1997. Effect of lesion size and shape on regeneration of the Red Sea coral
+   Favia favus. Mar. Ecol. Prog. Ser. 146, 101–107.
+Patton, J.S., Abraham, S., Benson, A.A., 1977. Lipogenesis in the intact coral Pocillopora capitata and its
+   isolated zooxanthellae: evidence for a light-driven carbon cycle between symbiont and host. Mar. Biol. 44,
+   235–247.
+Pearson, R.G., 1981. Recovery and colonization of coral reefs. Mar. Ecol. Prog. Ser. 4, 105–122.
+Porter, J.W., Muscatine, L., Dubinsky, Z., Falkowski, P.G., 1984. Primary production and photoadaption in
+   light- and shade-adapted colonies of the symbiotic coral, Stylophora pistillata. Proc. R. Soc. London B 222,
+   161–180.
+Rowan, R., Knowlton, N., 1995. Intraspecific diversity and ecological zonation in coral- algal symbiosis. Proc.
+   Natl. Acad. Sci. USA 92, 2850–2853.
+Rowan, R., Knowlton, N., Baker, A., Jara, J., 1997. Landscape ecology of algal symbionts creates variation in
+   episodes of coral bleaching. Nature 388, 265–269.
+Sokal, R.R., Rohlf, F.J., 1995. Biometry, 3rd ed. W.H. Freeman, New York, 887 pp.
+Spencer Davies, P., 1977. Carbon budgets and vertical zonation of Atlantic reef corals. Proc. 3rd Int. Coral
+   Reef Symp. 1, 391–396.
+Spencer Davies, P., 1980. Respiration in some Atlantic reef corals in relation to vertical distribution and
+   growth form. Biol. Bull. 158, 187–194.
+Spencer Davies, P., 1984. The role of zooxanthellae in the nutritional energy requirements of Pocillopora
+   eydouxi. Coral Reefs 2, 181–186.
+Spencer Davies, P., 1991. Effect of daylight variations on the energy budgets of shallow-water corals. Mar.
+   Biol. 108, 137–144.
+Stimson, J.S., 1987. Location, quantity and rate of change in quantity of lipids in tissue of Hawaiian
+   hermatypic corals. Bull. Mar. Sci. 41, 889–904.
+Szmant, A.M., Gassman, N.J., 1990. The effects of prolonged ‘bleaching’ on the tissue biomass and
+   reproduction of the reef coral Montastrea annularis. Coral Reefs 8, 217–224.
+Van Veghel, M.L.J., Bak, R.P.M., 1994. Reproductive characteristics of the polymorphic Caribbean reef
+   building coral Montastrea annularis. III. Reproduction in damaged and regenerating colonies. Mar. Ecol.
+   Prog. Ser. 109, 229–233.
+Wellington, G.M., 1982. An experimental analysis of the effects of light and zooplankton on coral zonation.
+   Oecologia 52, 311–320.
+

@@ -1,0 +1,644 @@
+Mar Biol (2010) 157:887–897
+DOI 10.1007/s00227-009-1372-1
+
+ ORIGINAL PAPER
+
+
+
+EVect of sub-lethal damage to juvenile colonies of massive
+Porites spp. under contrasting regimes of temperature
+and water Xow
+Peter J. Edmunds · Hunter S. Lenihan
+
+
+
+
+Received: 16 September 2009 / Accepted: 7 December 2009 / Published online: 29 December 2009
+© The Author(s) 2009. This article is published with open access at Springerlink.com
+
+
+Abstract In this study, juvenile colonies of massive                 was 11% lower at 26.7°C than at 29.6°C, but was
+Porites spp. (a combination of P. lutea and P. lobata) from          unaVected by temperature at 6 cm s¡1. The lesions declined
+the lagoon of Moorea (W 149°50!, S 17°30!) were damaged              in area at similar rates (4–5% day¡1) under all conditions,
+and exposed to contrasting conditions of temperature and             although the tissue within them regained a normal appear-
+Xow to evaluate how damage and abiotic conditions inter-             ance most rapidly at 26.7°C and 6 cm s¡1. These Wndings
+act to aVect growth, physiological performance, and recov-           show that the response of poritid corals to sub-lethal dam-
+ery. The experiment was conducted in April and May 2008              age is dependent partly on abiotic conditions, and they are
+and consisted of two treatments in which corals were either          consistent with the hypothesis that following damage, calci-
+undamaged (controls) or damaged through gouging of tis-              Wcation and photosynthesis can compete for metabolites
+sue and skeleton in a discrete spot mimicking the eVects of          necessary for repair, with the outcome aVected by Xow-
+corallivorous Wshes that utilize an excavating feeding               mediated mass transfer. These results may shed light upon
+mode. The two groups of corals were incubated for 10 days            the ways in which poritid corals respond to biting by certain
+in microcosms that crossed levels of temperature (26.7 and           corallivorous Wshes.
+29.6°C) and Xow (6 and 21 cm s¡1), and the response
+assessed as overall colony growth (change in weight), dark-
+adapted quantum yield of PSII (Fv/Fm), and healing of the            Introduction
+gouged areas. The inXuence of damage on growth was
+aVected by temperature, but not by Xow. When averaged                The performance of juvenile corals (·40 mm diameter)
+across Xow treatments, damage promoted growth by 25% at              plays an important role in coral community dynamics, par-
+26.7°C, but caused a 25% inhibition at 29.6°C. The damage            ticularly following large-scale disturbances (Nuedecker
+also aVected Fv/Fm in a pattern that diVered between Xow             1979; Vermeij and Sandin 2008). During recovery from
+speeds, with a 10% reduction at 6 cm s¡1, but a 4% increase          severe disturbances, environmental stressors can inXuence
+at 21 cm s¡1. Regardless of damage, Fv/Fm at 21 cm s¡1               rates of coral recruitment and the growth and survival of
+                                                                     juvenile corals (Connell et al. 1997; Edmunds and Elahi
+                                                                     2007; Lenihan et al. 2008), so that coral community struc-
+                                                                     ture is a product of chronic and acute events acting on
+Communicated by J. P. Grassle.                                       diVerent but overlapping time scales. In many locations,
+                                                                     corals are frequently disturbed by corallivores (Bouchon-
+P. J. Edmunds (&)
+Department of Biology, California State University,
+                                                                     Navaro 1986; Cole et al. 2008; Rotjan and Lewis 2008),
+Northridge, CA 91330-8303, USA                                       and such events can result in damage that is usually chronic
+e-mail: peter.edmunds@csun.edu                                       (Cole et al. 2008; Rotjan and Lewis 2008) and sometimes
+                                                                     acute (Bruckner et al. 2000; Bruckner and Bruckner 1998).
+H. S. Lenihan
+Bren School of Environmental Science and Management,
+                                                                     Adult corals have a good chance of recovery from coralli-
+University of California, Santa Barbara,                             vory (Rotjan and Lewis 2008), particularly when it is
+CA 93106-5131, USA                                                   chronic, but for juvenile corals, the reduction in performance
+
+                                                                                                                        123
+888                                                                                                 Mar Biol (2010) 157:887–897
+
+
+arising from non-fatal injuries (Grottoli-Everett and            Johnson 1991). Surprisingly, interactions among factors
+Wellington 1997; Miller and Hay 1998; Jayewardene and            such as temperature, current velocity, and light intensity in
+Birkeland 2006; Christiansen et al. 2009) probably contrib-      the performance of damaged corals and their ability to
+utes to the high mortality of this size class (Edmunds and       regenerate tissue are still poorly known (Bak and Steward-
+Gates 2004) and can aVect the rate of recovery of popula-        Van Es 1980; Lester and Bak 1985; Nagelkerken et al.
+tions following disturbances (Knowlton et al. 1988; Miller       1999; Kramarsky-Winter and Loya 2000).
+et al. 2000; Rotjan et al. 2006).                                   Corallivorous Wsh are a conspicuous component of coral
+   There is widespread recognition of the importance of          reefs, with at least 128 species from 11 families occupying
+corallivory to both corals and organisms that feed upon          this ecological niche (Cole et al. 2008; Rotjan and Lewis
+them (Cole et al. 2008; Rotjan and Lewis 2008), and              2008). One-third of these feed almost exclusively on corals,
+numerous studies have addressed the eVects of corallivory        with more than 80% of their diet based on this source
+on coral colonies (e.g., Frydl 1979; Rotjan and Lewis 2006,      (Pratchett et al. 2004; Pratchett 2005). On account of their
+2009) and their populations (Frydl 1979; Littler et al.          feeding preferences, corallivorous Wshes are functionally
+1989). There has also been interest in the rates of healing of   dissimilar with regard to their impacts on corals, and can be
+artiWcial lesions (e.g., Oren et al. 1997; Nagelkerken and       partitioned into mucus feeders, browsers, scrapers, and
+Bak 1998; Nagelkerken et al. 1999; Oren et al. 2001), in         excavators (Bellwood and Choat 1990; Rotjan and Lewis
+part because such analyses provide insights into how corals      2008). Excavators, such as certain scarids, have the greatest
+recover from corallivory. Despite interest in the eVects of      impact on corals, and typically remove bites of tissue and
+corallivory and localized damage on reef corals, few exper-      skeleton. In addition to variation in feeding modes, coral-
+iments have addressed the eVects of physical conditions on       livorous Wshes also show prey preferences, and usually
+the ability of corals to recover from sub-lethal damage          favor species in the genera Acropora, Pocillopora, and
+(Lester and Bak 1985; Nagelkerken et al. 1999; Kramar-           Porites (Cole et al. 2008). Based on experiments completed
+sky-Winter and Loya 2000). Nevertheless, it is clear that        in natural habitats, these genera have been ranked
+corallivory can increase coral mortality (Frydl 1979; Miller     Acropora > Pocillopora > Porites in terms of their ability
+et al. 2000) and that the damage that corallivores cause can     to regenerate following localized damage (Hall 1997), and
+reduce growth rates (Cox 1986), in part because it is            therefore it is reasonable to hypothesize that Porites spp.
+hypothesized that corals allocate limited resources to repair    are susceptible to Wsh predation, although it might not be
+damage and regenerate lost tissue (Hall 2001; Henry and          the Wrst choice of Wsh for food. Interestingly, Porites spp.
+Hart 2005). In addition to the consequences of limited           have frequently been studied with regard to its susceptibil-
+resources for wound repair, the regeneration of tissue is        ity to corallivory and its ability to recovery from sub-lethal
+aVected by other intrinsic factors, such as the capacity for     damage (Frydl 1979; Littler et al. 1989; Nagelkerken et al.
+regeneration (Meesters et al. 1997), translocation within        1999; Rotjan and Lewis 2005).
+the colony (Oren et al. 2001), disease (Aeby and Santavy            The objective of this study was to explore the physiolog-
+2006), and the potential induction of morphological, behav-      ical responses of juvenile corals to sub-lethal damage under
+ioral, and biochemical responses to the initial disturbance      combinations of physical conditions. We sought to experi-
+(Gochfeld 2004) (reviewed in Henry and Hart 2005).               mentally determine the individual and interactive roles of
+   Extrinsic factors can also aVect the healing of coral tis-    temperature and Xow on the ability of corals to recover
+sues following damage because the availability of energetic      from damage. Although the damage we inXicted was not
+and cellular resources for regeneration may be altered by        identical to that resulting from Wsh corallivores, we chose a
+the physical environment (Henry and Hart 2005). Tempera-         technique that left two parallel lesions that were broadly
+ture is a compelling example of such a physical factor           similar in area and depth to those resulting from excavation
+through its direct eVects on coral metabolism and growth         by certain scarids (Bellwood and Choat 1990). Thus, while
+(Kramarsky-Winter and Loya 2000; Jokiel 2004; Edmunds            our research is focused on the recovery of corals from sub-
+2008). Such eVects are likely to be non-linear, typically        lethal damage, our Wndings are also relevant to understand-
+increasing to a threshold value and declining thereafter         ing how small poritids respond to corallivory by Wshes in
+(Iglesias-Prieto et al. 1992; Edmunds 2005), and therefore       the excavating functional group. We reasoned that the out-
+the impact of temperature on the regeneration of coral tis-      come of sub-lethal damage for corals is likely to be context
+sue is likely to be complex, and even unpredictable. A sim-      speciWc in terms of the physical environment, given the
+ilar response characterizes the eVects of water Xow on           Xexibility of coral phenotypes in response to varying condi-
+corals, with physiological traits increasing with Xow speed      tions including Xow, temperature, and light (Lesser et al.
+when they are mass transfer limited, with the response           1994; Edmunds 2008; Lenihan et al. 2008). Further, we
+aVected by the size and shape of the organism (Patterson         reasoned that the eVects of sub-lethal damage would be
+1992) and the mechanical properties of tissues (Sebens and       accentuated in juvenile corals that have fewer metabolic
+
+123
+Mar Biol (2010) 157:887–897                                                                                               889
+
+
+resources to draw upon relative to larger colonies (Kramarsky-   when the experiment was conducted in April/May 2008,
+Winter and Loya 2000), and which experience high rates           and both temperatures spanned the range that occurs in the
+of mortality (Edmunds and Gates 2004). Studies on the            shallow lagoon of Moorea (Lenihan et al. 2008). The lamps
+early life stages of corals will help to elucidate the fac-      were screened to t700 !mol photons m¡2 s¡1 (measured
+tors regulating the size of scleractinian populations            with a LiCor LI 193SA), which is lower than the highest
+(Vermeij and Sandin 2008). To achieve our objective, we          irradiance recorded at the collection site at noon on a sunny
+used a manipulative experiment in microcosms to test the         day (t1,200 !mol photons m¡2 s¡1). The lower intensity
+hypothesis that the growth, photophysiological, and healing      was selected to ensure that the daily integrated light in the
+response of juvenile colonies of massive Porites spp.            experiment was similar to that delivered as a sine curve by
+(a combination of P. lutea and P. lobata as described here)      normal daylight in the Weld. Two 170-cm-long raceways
+to sub-lethal damage is independent of temperature and           were constructed from PVC sheets inserted into each tank,
+water Xow.                                                       and each raceway was Wtted at one end with one or two sub-
+                                                                 mersible pumps (2,600 l h¡1) that created a low or a high
+                                                                 Xow treatment, respectively. The outXow from each pump
+Materials and methods                                            passed through a 5-cm long Xow straightener to reduce tur-
+                                                                 bulence, and was adjusted with a valve to achieve target
+The experiment employed two indoor tanks that were main-         Xow speeds of about 5 and 20 cm s¡1, which are ecologi-
+tained at diVerent temperatures and contained two Xow            cally relevant for the shallow lagoon where the corals were
+treatments, and it utilized small colonies (·40 mm diame-        collected (Lenihan et al. 2008; H. Lenihan, unpublished
+ter) of massive Porites spp. The juvenile corals were col-       data). These pumps also maintained vigorous mixing within
+lected from the lagoon of Moorea (French Polynesia) and          the tanks that ensured the water was fully aerated.
+were damaged by gouging with pliers or left undamaged                The corals were collected on April 27, 2008, from reef
+(controls). The corals were exposed to combinations of           pavement at 3–4 m depth in the lagoon where high Xow
+temperature and Xow, and the responses were assessed             speeds (ca. 20 cm s¡1) are common (Lenihan et al. 2008).
+through growth, maximum dark-adapted quantum yield of            Eighty juvenile colonies of massive Porites spp. were col-
+PSII (Fv/Fm, a measure of photosynthetic eYciency, Max-          lected haphazardly and were removed from the substratum
+well and Johnson 2000), and change in the size of the            with a chisel that caused minimal damage to the coral tis-
+lesions. Whole-colony growth was used as a dependent var-        sue. Microscopic inspection of a subset (n = 20) of colonies
+iable as it measured the response of colonies to the treat-      that were killed and bleached at the end of the experiment
+ments and indirectly assessed the regeneration of skeletal       revealed that 85% were P. lutea and 15% P. lobata. It
+material following grazing. As growth was determined as          proved unreliable to identify the corals to species when
+the overall change in weight, it was not possible to distin-     they were alive before the experiment began, but the ran-
+guish growth of the undamaged portion of the colony from         dom allocation of colonies to treatments reduced the likeli-
+regeneration. We reasoned that colony growth was most            hood that taxonomic eVects inXuenced the experimental
+relevant to juvenile corals subject to partial mortality         outcomes.
+(instead, for example, of growth within the lesion), because         Freshly collected corals were returned to the laboratory
+in small size classes, colony growth is critical in escaping     and glued (with Z Spar, A788 epoxy) to the tops of pieces
+the risks of mortality through an increase in size (Jackson      of numbered PVC pipe (t2 cm long and 1.5 cm diameter),
+1977). Fv/Fm was measured to assess the eVect of the treat-      the bottoms of which were Wtted with a 6-mm diameter
+ments on Symbiodinium sp. physiology, and the size of the        nylon screw. This procedure created experimental units that
+lesions was used as a measure of tissue growth and healing       could be inserted into PVC racks drilled to accept the screw
+at the site of damage.                                           attached to their bases, thereby holding 20 corals upright in
+    The tanks were 200 cm £ 95 cm and Wlled to 14-cm             a linear array. The prepared corals were Wtted onto the PVC
+depth with unWltered seawater pumped directly from               racks and left to recover for t36 h in the tank held at ambi-
+Cook’s Bay (located adjacent to the laboratory; pumping          ent temperature and illuminated for 12 h each day at
+distance »10 m). These tanks contained 266 l of seawater         700 !mol photons m¡2 s¡1. Following recovery, 40 corals
+that was continuously refreshed at 1,000 ml min¡1, with the      were injured by gouging with 10-mm wide, snub nose pli-
+entire volume replaced every 4.4 h. Each tank was Wtted          ers. The gouges were made in haphazard locations on the
+with a chiller and heater that maintained the temperature at     colonies, and the pliers were applied to create a single scar
+either t26.7 or t29.6°C and was illuminated on a 12-h            (mimicking one bite on each colony) consisting of a pair of
+light/12-h dark cycle with two 1,000-W metal halide lamps        rectangular lesions t12 mm £ 6 mm. The pliers were
+(Sylvania BT37, Metalarc) suspended overhead. The higher         rinsed in seawater between damaging colonies to reduce
+temperature was close to ambient seawater temperature            contamination, and the sizes of the lesions (length £ width)
+
+                                                                                                                   123
+890                                                                                                    Mar Biol (2010) 157:887–897
+
+
+were recorded with calipers (§1 mm). The gouging                   buoyant particles along a known distance. This technique
+removed tissue and skeleton to 1–2 mm depth but did not            was not intended to measure the absolute Xow speed expe-
+remove the full thickness of tissue, which extends 2–5 mm          rienced by each coral, but instead, characterized the net
+into the skeleton of massive Porites spp. (Edmunds 2008).          movement of water along the raceway. As the water motion
+These lesions are similar in dimensions and shape both to          varied along the raceway, and upstream corals aVected the
+the paired lesions seen naturally on Porites spp. on the reefs     Xow around downstream corals, the position of all corals
+of Moorea (P. J. Edmunds, personal observation), and those         within each raceway was randomized daily. Randomization
+frequently recorded on Porites spp. and attributed to the          was achieved by removing the corals from the racks each
+excavating bites of scarids (e.g., Fig. 14B in Bellwood and        morning and replacing them in the same racks but at new,
+Choat 1990; Fig. 1a in Rotjan and Lewis 2008). In cases            randomly selected positions; this was accomplished with-
+where scarids (and other Wshes) remove the entire tissue           out touching the coral tissue or removing them from the
+thickness when they bite poritid corals, the outcome (i.e.,        seawater.
+the extent of recovery) is likely to diVer from that reported         At the conclusion of the experiment, Fv/Fm was again
+here.                                                              measured after 3 h of dark adaptation, the status and sizes
+   Following gouging, the corals (undamaged and dam-               of the lesions was measured, and the buoyant weights
+aged) were weighed by a buoyant procedure (Davies 1989)            recorded. The status and size of lesions were measured by
+so that their growth (change in weight of the skeleton)            ranking them based on signs of healing (evidenced by the
+could be determined and returned to the tank at ambient            return of color and tissue over the skeleton), or as almost/
+temperature. Following 3 h of darkness (beginning at               fully healed (where the color was almost the same as the
+18:30 h), photosynthetic eYciency of the corals was                rest of the coral and the lesion was indistinct), and assess-
+assessed as maximum dark-adapted quantum yield of PSII             ing their sizes as described earlier. The buoyant weights
+(Fv/Fm) using a Diving-PAM (Walz GmbH) Wtted with an               were recorded, and the change in buoyant weight converted
+8-mm diameter probe and operated with constant settings.           to dry weight assuming that the skeletal aragonite had a
+Fv/Fm was selected as an dependent variable because pho-           density of 2.93 g cm¡3 (Jokiel et al. 1978). Following the
+tosynthesis is aVected by temperature and Xow (Patterson           Wnal weighing, the corals were dried at 60°C, and their tis-
+1992; Jones et al. 1998) and, therefore, we reasoned that          sue areas measured using aluminum foil (Marsh 1970) to
+such eVects might inXuence the response to damage                  normalize growth rates to area (mg cm¡2 day¡1).
+through modiWed availability of photosynthetically Wxed               To test for treatment eVects, three-way Wxed-eVects
+carbon. Measurements of Fv/Fm were made with the probe             ANOVAs were used in which growth and Fv/Fm were
+held 5-mm above the tissue using a plastic spacer, and all         dependent variables in two separate analyses, and the Wxed
+measurements were made at haphazard positions on the               factors were damage regime (undamaged vs. damaged),
+corals, and for the damaged corals, t10 mm outside the             temperature (two levels), and water motion (two levels);
+area of gouging. The initial records of Fv/Fm were used to         interaction terms were pooled with the error term when not
+evaluate the overall condition of the corals at the start of the   signiWcant at P ¸ 0.25 (Quinn and Keough 2002). The per-
+experiment, and to determine whether the incubation proce-         centage change in lesion areas during the experiment was
+dure caused a deterioration in condition of the corals,            compared between treatment combinations with a one-way
+regardless of the temperature and Xow speeds employed.             ANOVA. Fv/Fm values were log transformed prior to anal-
+Finally, the corals were allocated randomly to each of the         yses, and the statistical assumptions of the procedures were
+four racks, with 20 undamaged and 20 damaged colonies              tested through a graphical analysis of residuals. Planned
+on each rack. The following morning (April 30), the incu-          comparisons between undamaged and damaged corals were
+bations began with the allocation of the racks at random to        completed according to Sokal and Rohlf (1995). The eVect
+either the high Xow or the low Xow treatments within the           of the treatments on the status of the lesions at the conclu-
+ambient and the cool tanks. Thereafter, the experiment was         sion of the experiment was evaluated with a 2 £ 4 contin-
+maintained for 10 days until its conclusion at 20:00 h on          gency table in which the number of corals with lesions
+May 10, 2008.                                                      categorized as “showing signs of healings” versus “almost/
+   Throughout the experiment, the seawater temperature             fully healed” was tested for independence of the treatment
+was recorded (every 30 min) with loggers (Hobo Aquapro,            levels using a "2 test. Coral colonies were treated as statisti-
+Onset Computer Company), and light intensity and water             cal replicates in all analyses, even though the experimental
+motion were measured periodically. The light intensity was         design was pseudoreplicated (Hurlbert 1984). We rational-
+measured using a 4! quantum sensor (LiCor LI 193SA) at             ized our statistical approach by the independence of the
+three positions along each of the two raceways in each tank.       corals created by their small aggregated tissue volume rela-
+Water motion was assessed as net water transport, which            tive to that of seawater in the tanks (a volume ratio of
+was measured by timing the repeated passage of neutrally           <1:7,300), and the rapid replacement of this water (every
+
+123
+Mar Biol (2010) 157:887–897                                                                                                                  891
+
+
+4.4 h) by the constant inXow. Nevertheless, we cannot                    or between high speed treatments (t-test, t = 1.004, df = 58,
+exclude the possibility that our treatments were biased by               P = 0.320).
+an undetected eVect that was unique to one of the tanks. An                  During the 10-day incubations, none of the massive
+additional experiment with the same apparatus demon-                     Porites spp. died, although one colony showed signs of par-
+strated, however, that the treatment eVects were reproduc-               tial mortality. Apart from this colony, all others appeared
+ible, and therefore not simply a result of a temporally                  healthy throughout the experiment, and there were no signs
+random process such as a dead animal falling into one tank.              of bleaching or poor health. Growth rates were obtained
+In the additional experiment, a manipulation similar to the              from the majority (96%) of the corals, but three colonies
+one described here was completed with Pocillopora verru-                 were excluded from the analysis due to computational
+cosa, although it was replicated in two independent trials,              errors. Overall, growth rates ranged from 0.04 to
+one of which was concurrent with the present experiment                  7.81 mg cm¡2 day¡1, and the mean rates for each treatment
+(H. Lenihan and P.J. Edmunds, unpublished data). Statisti-               varied from 1.09 § 0.17 to 1.95 § 0.31 mg cm¡2 day¡1 in
+cal analysis of the P. verrucosa experiment revealed no                  the low Xow/high temperature and high Xow/low tempera-
+eVect of trial, thereby demonstrating that the treatment con-            ture treatments, respectively (§SE, n = 8–10). The damage
+ditions (as used here for Porites spp.) were reproducible.               aVected growth (Fig. 1), but the eVects were dependent on
+                                                                         temperature (Table 1). The interaction between damage and
+                                                                         temperature reXected outcomes that were unaVected by
+Results                                                                  Xow, with damage increasing mean growth rates by 25% at
+                                                                         26.7°C (from 1.39 to 1.74 mg cm¡2 day¡1), but reducing
+The microcosms maintained the treatments with a high                     them 25% at 29.6°C (from 1.58 to 1.18 mg cm¡2 day¡1); in
+degree of precision. The mean temperatures in the two                    both cases, these percentages reXect the diVerences in the
+tanks were 26.7 § 0.01°C (n = 533) and 29.6 § 0.01°C                     response to damage at each temperature after averaging
+(n = 528) (§SE), and the mean light level in the tanks was               across Xow regimes (Fig. 1). In addition to these statisti-
+770 § 12 !mol photons m¡2 s¡1 (§SE, n = 72). The mean                    cally signiWcant eVects, there was also a trend (P = 0.060)
+low Xow speed was 5.6 § 0.1 cm s¡1 (§SE; n = 30 for all                  for the eVects of damage to interact with Xow, with damage
+Xow measurements) in the low temperature tank, and                       increasing mean growth (pooled between temperatures)
+5.8 § 0.3 cm s¡1 in the high temperature tank. For the high              rates by 27% at 21 cm s¡1, but reducing them by 23% at
+speed treatments, Xow was 21.0 § 0.5 cm s¡1 (low temper-                 6 cm s¡1 (Fig. 1). Relative to undamaged corals, planned
+ature tank) and 21.8 § 0.7 cm s¡1 (high temperature tank)                contrasts revealed that damage increased growth signiW-
+(all §SE, n = 30). Net water transport did not vary between              cantly under the high Xow/low temperature treatment
+low speed treatments (t-test, t = 0.908, df = 58, P = 0.368)             (ANOVA, F = 4.773, df = 1,70, P = 0.032), and there was a
+
+
+
+
+Fig. 1 Interaction plots for juvenile massive Porites spp. displaying    within each temperature and Xow combination were completed accord-
+a whole-colony growth (i.e., growth of undamaged portion of the colony   ing to Sokal and Rohlf (1995) using the MSerror from the ANOVAs for
+plus regeneration of skeleton within the lesion) and b maximum dark-     signiWcance testing; ns = not signiWcant at P > 0.050, * = signiWcant at
+adapted quantum yield of PSII (Fv/Fm) for colonies either undamaged      P · 0.050, ** = P < 0.010), and *** = P < 0.001. Contrasts tested for
+(circles) or damaged (triangles) and exposed for 10 days to orthogonal   diVerences between circle and triangle symbols of the same color
+combinations of temperature [low (26.7°C) or high (29.6°C)] and Xow      located within each temperature treatment in each panel of the Wgure.
+[low (6 cm s¡1, Wlled symbols) or high (21 cm s¡1, open symbols)].       Means § SE displayed (n = 10), with symbols oVset for clarity
+Results of planned contrasts of undamaged versus damaged groups
+
+
+                                                                                                                                    123
+892                                                                                                          Mar Biol (2010) 157:887–897
+
+
+Table 1 Results of a three-way model I ANOVA comparing growth         Table 2 Results of a three-way model I ANOVA comparing maxi-
+rate (mg cm¡2 day¡1) of juvenile massive Porites spp. among Xow       mum dark-adapted quantum yield of PSII (Fv/Fm, log transformed) of
+regimes, temperatures, and damage treatments (all Wxed factors)       juvenile massive Porites spp. among Xow regimes, temperatures, and
+                                                                      damage treatments (all Wxed factors)
+Source                   SS         df   MS       F        P
+                                                                      Source                         SS       df   MS    F       P
+Damage                    0.020      1   0.020    0.030    0.864
+Temperature               0.584      1   0.584    0.885    0.350      Damage                         0.019     1 0.019    2.069 0.155
+Flow                      0.059      1   0.059    0.089    0.766      Temperature                    0.090     1 0.090 10.061 0.002
+Damage £ temperature      2.642      1   2.642    4.006    0.049      Flow                           0.096     1 0.096 10.750 0.002
+Damage £ Xow              2.420      1   2.420    3.669    0.060      Damage £ temperature           0.006     1 0.006    0.724 0.398
+Error                    46.172     70   0.660                        Temperature £ Xow              0.048     1 0.048    5.330 0.024
+                                                                      Damage £ Xow                   0.088     1 0.088    9.832 0.003
+Statistical interactions of Xow £ temperature and Xow £
+temperature £ damage were not signiWcant (P ¸ 0.472) and were         Damage £ temperature £ Xow 0.034         1 0.034    3.837 0.054
+pooled with the error term (and are not displayed in the table) for   Error                          0.628 70 0.009
+signiWcance testing (Quinn and Keough 2002)
+
+
+trend for damage to reduce growth under the low Xow/high              but causing a 4% increase at 21 cm s¡1 (from 0.572 to
+temperature treatment (F = 2.905, df = 1,70, P = 0.093); the          0.593) (Fig. 1).
+other two contrasts were also not signiWcant but showed no               Virtually all of the corals appeared to recover quickly
+trend (ANOVA, F < 0.754, df = 1,70, P > 0.388).                       from damage, with only one developing a small lesion that
+   At the start of the experiment, mean Fv/Fm for the                 exposed the carbonate skeleton. In the Wrst few days fol-
+freshly collected corals was 0.631 § 0.005 (§SE, n = 80)              lowing the gouging, most corals in all treatments produced
+and was not diVerent between the damaged and undamaged                excess mucus near the site of damage, but mucus produc-
+corals (t-test, t = 0.466, df = 78, P = 0.643). After the incu-       tion declined rapidly (<3 h) so that undamaged and dam-
+bation, Fv/Fm for individual corals ranged from 0.519 to              aged corals appeared identical with regard to mucus
+0.753. At the end of the experiment, mean Fv/Fm for each              release. After the Wrst few days, the gouged areas quickly
+treatment ranged from 0.496 § 0.015 under the low Xow/                developed the normal yellow/green color of healthy
+low temperature conditions to 0.620 § 0.015 under the                 (undamaged) coral tissue, and the margins became less
+high Xow/high temperature (§SE, n = 10 for all groups).               distinct. By the end of the experiment, six of the damaged
+Damage and temperature aVected Fv/Fm, in both cases in                corals (7.5%) appeared to have recovered fully in terms of
+patterns that diVered between Xow treatments (Table 2).               tissue color and tissue continuity within the lesion,
+The statistically signiWcant interaction between temperature          although the margins of the lesion were still visible. As
+and Xow was a result of eVects that were independent of               most of the lesions, regardless of treatment, showed signs
+damage, with Fv/Fm largely unaVected by temperature at                of recovery, it often proved challenging to identify the mar-
+6 cm s¡1, but stimulated 12% by the high temperature at               gins with conWdence when the Wnal measurements of size
+21 cm s¡1 (i.e., when damage treatments are pooled,                   were taken. Nevertheless, the mean areas of the lesions,
+Fig. 1). The marginally signiWcant three-way interaction              which initially ranged from 58 § 3 to 75 § 7 mm2 (§SE,
+among the main eVects (ANOVA, P = 0.054, Table 2),                    n = 10) in each of the treatments, decreased, ending the
+however, suggested that Fv/Fm was aVected by an interac-              experiment with mean areas ranging from 32 § 8 to
+tion between damage and Xow that varied between temper-               42 § 4 mm2 (§SE; n = 10). The percentage decline in size
+atures. To unravel the complexity of three-way interaction,           of the lesions did not vary between temperatures (ANOVA,
+planned contrasts were conducted, which revealed that                 F = 1.340, df = 1,36, P = 0.255) or Xow speeds (ANOVA,
+damage increased Fv/Fm signiWcantly under the high Xow/               F = 0.351, df = 1,36, P = 0.557), and there was no signiW-
+high temperature treatment (ANOVA, F = 19.579,                        cant interaction between temperature and Xow (ANOVA,
+df = 1,70, P < 0.001), but caused declines under both the             F = 0.032, df = 1,36, P = 0.582). The mean rates of decline
+low Xow/high temperature and low Xow/low temperature                  in lesion areas over the 10-day experiment ranged from
+treatments (ANOVA, F > 9.526, df = 1,70, P < 0.003);                  42 § 5 to 54 § 9% (§SE, n = 10) depending on treatment
+there was no eVect under the high Xow/low temperature                 (Fig. 2), and were equivalent to healing rates of 4–
+treatment (ANOVA, F = 2.761, df = 1,70, P = 0.101).                   5% day¡1. Although the sizes of all of the lesions decreased
+Finally, the interaction between damage and Xow reXected              at similar rates, the visual assessment of the lesion condi-
+eVects that that were not inXuenced by temperature, with              tion was aVected by the treatments (Table 3). Under the low
+damage depressing the mean Fv/Fm values (pooled between               Xow/low temperature treatment, more corals than expected
+temperatures) by 10% at 6 cm s¡1 (from 0.559 to 0.503),               showed signs of complete healing, whereas under the high
+
+123
+Mar Biol (2010) 157:887–897                                                                                                          893
+
+
+                                                                          and at 21 cm s¡1 compared with 6 cm s¡1 (Patterson 1992),
+                                                                          it is reasonable to predict that our corals should have grown
+                                                                          most rapidly at 26.7°C and 21 cm s¡1. Moreover, because
+                                                                          host–symbiont communication is poorly understood (Baird
+                                                                          et al. 2009), when we began the experiment, we had no evi-
+                                                                          dence that localized damage would aVect the performance
+                                                                          of Symbiodinium sp. in nearby tissue. In contrast to these
+                                                                          expectations, our analyses revealed only equivocal separate
+                                                                          eVects of damage, temperature, or Xow on growth, and
+                                                                          instead, demonstrated that damage elicited growth
+                                                                          responses that depended on temperature, and statistically
+                                                                          were unaVected by Xow. Surprisingly, photophysiological
+                                                                          performance (Fv/Fm) was also aVected by damage, and the
+                                                                          relationship varied with Xow speed in a pattern that diVered
+Fig. 2 Percentage change in lesion size (area) on juvenile colonies of
+massive Porites spp. after 10 days under treatments of high Xow and       between temperatures.
+high temperature (HH), high Xow and low temperature (HL), low Xow             Our results show that juvenile Porites spp. subject to
+and high temperature (LH), and low Xow and low temperature (LL);          sub-lethal damage: (1) grew fastest at 26.7°C compared to
+mean § SE shown (n = 10 for all). Change in lesion area was unaVect-
+                                                                          29.6°C, and faster than undamaged corals, and while not
+ed by treatment (ANOVA, F = 0.667, df = 3,36, P = 0.587), and size of
+lesions (mm2, data not shown) was unaVected by temperature, Xow, or       statistically signiWcant, growth also tended to be greater at
+the interaction between the two (P ¸ 0.255). At the start of the exper-   21 cm s¡1 compared to 6 cm s¡1 (as predicted), (2) under-
+iment, mean size of all lesions was 68 § 3 mm2 (§SE, n = 40)              went changes that aVected Fv/Fm of Symbiodinium sp. out-
+                                                                          side the lesion, causing increases at high Xow, and
+                                                                          reductions at low Xow, and (3) displayed regenerative
+Table 3 Contingency table showing number of Porites spp. colonies
+at the end of the experiment with scars scored as either showing signs
+                                                                          capacities that caused damaged tissue to regain its normal
+of some healing or mostly/fully healed under the four treatment com-      appearance most rapidly at low Xow and low temperature,
+binations; n = 10 corals for each treatment combination in the damaged    although the healing of the lesions (i.e., their size) was
+group                                                                     unaVected by Xow or temperature. These results demon-
+               High Xow                    Low Xow                        strate for juvenile massive Porites spp. in shallow water
+                                                                          that localized, sub-lethal damage can be highly survivable.
+               High        Low         High        Low
+               temperature temperature temperature temperature            Further, they suggest that the ability of corals to recover
+                                                                          from such damage is driven by rapid changes in growth and
+Some healing 10              6             6              3               photophysiology modulated by temperature and Xow,
+Mostly/fully    0            4             4              6               including mass transfer eVects (Patterson 1992), as well as
+ healed
+                                                                          integration between the cnidarian host and the Symbiodi-
+Only one coral showed no healing, as determined from a lesion that        nium sp. symbionts. Juvenile Porites spp. colonies exposed
+revealed fully exposed skeleton. Observations in rows were not inde-      to high Xow at low temperatures appear to experience a
+pendent of observations in columns ("2 = 9.5, df = 3, P = 0.024)
+                                                                          growth advantage as a result of damage, thereby promoting
+                                                                          a positive feedback between certain kinds of damage and
+Xow/high temperature treatment, more corals than expected                 colony growth. Previous studies of the eVects of injuries on
+show some signs of healing, but none were scored as fully                 coral growth have reported conXicting results, with the
+healed.                                                                   growth of Stylophora pistillata accelerated by damage
+                                                                          (branch breakage) in the Red Sea (Loya 1976), but the
+                                                                          growth of Montastraea annularis impeded for a protracted
+Discussion                                                                period (56 days) by small lesions on a reef in Curaçoa
+                                                                          (Meesters et al. 1994). There are several reasons for these
+The results of our experiment reveal interactions between                 contrasting outcomes with S. pistillata and M. annularis,
+temperature and Xow on the response of corals to damage,                  including diVerences in seawater temperature when the
+with the outcomes diVering from those expected from the                   studies were completed, and dissimilar reproductive strate-
+linear combination of the component eVects. For example,                  gies, but the diVerences in depth are particularly interesting.
+if coral metabolism is accelerated at 26.7°C compared with                Notably, S. pistillata was studied in shallow water (2–4 m)
+29.6°C (Edmunds 2005)—assuming thermal optima for                         compared to M. annularis (7 m), and this contrast in depth
+physiological processes of t26–29°C (Buddemeier and                       is consistent with the stimulatory eVect of light on coral
+Kinzie 1976; Iglesias-Prieto et al. 1992; Edmunds 2005)—                  repair (Bak and Steward-Van Es 1980; Nagelkerken et al.
+
+                                                                                                                              123
+894                                                                                                Mar Biol (2010) 157:887–897
+
+
+1999) and the Wnding in the present study (which was also            The eVects of damage on skeletal growth were inXu-
+conducted at high light) that Xow tended to enhance              enced by temperature, with damaged corals maintaining
+growth.                                                          growth rates that were virtually indistinguishable from
+   Damage to a coral colony requires energy to heal, and         undamaged corals at 26.7°C and 6 cm s¡1, but were nearly
+this energy fuels replacement of the tissue and the aragonite    double those of undamaged corals at 26.7°C and 21 cm s¡1;
+skeleton. These two processes are not independent, because       damage impeded growth at 29.6°C, regardless of Xow
+tissue cannot be formed without underlying skeleton, and         regime. Although we cannot rule out the possibility that
+skeleton cannot be formed without overlying tissue (Barnes       damage aVected growth throughout the coral, for example
+1973). However, the relationship between the two is looser       through reoriented growth outside the damaged areas (Tan-
+than was previously recognized (Anthony et al. 2002), with       ner 1997), in the absence of evidence to the contrary, we
+some corals maintaining skeletal extension at the expense        infer that the eVects of damage on growth were largely a
+of biomass (Anthony et al. 2002), and many increasing bio-       result of skeletogenesis within the lesions. Enhancement of
+mass independent of skeletal growth as suggested by sea-         growth at 27°C compared with 30°C suggests that the ther-
+sonal variation in biomass (Fitt et al. 2000). In the case of    mal optimum for growth in massive Porites spp. is <30°C,
+lesions on the surface of a coral, the extent to which such      which is consistent with the eVects of temperature on a
+damage is repaired depends on the size of the lesion and the     variety of corals (Buddemeier and Kinzie 1976; Edmunds
+size of the coral (Oren et al. 2001), whether Xeshy algae or     2005). However, temperature clearly is not the only factor
+other biota colonize the exposed skeleton before a repair        determining the growth rates in the present study, because
+can be eVected (Meesters et al. 1997), and a variety of abi-     there was also a trend for it to be aVected by a
+otic factors (Henry and Hart 2005), two of which (tempera-       Xow £ damage interaction, with damage tending to
+ture and Xow) are the subject of this study. If the tissue is    enhance growth at 21 cm s¡1, but depress it at 6 cm s¡1.
+removed completely, then healing can only be initiated           Since a primary eVect of Xow in aquatic environments is to
+marginally (Meesters et al. 1997), whereas incomplete            modulate the transfer of nutrients to benthic taxa (Patterson
+tissue removal (for example, leaving tissue within injured       1992), a parsimonious explanation for the Xow £ damage
+corallites) creates the possibility for healing from both the    interaction on growth is that the growth response to damage
+margins of the lesion and the residual tissue (Bak and           is limited by the transport of nutrients from seawater. Given
+Steward-Van Es 1980; Meesters et al. 1997). It is also pos-      the importance of exogenous DIC (i.e., from the seawater)
+sible that “prioritization rules” dictate whether resources      to coral calciWcation (Allemand et al. 2004), the present
+(e.g., stem cells and energy) should be allocated to healing,    results are consistent with the hypothesis that higher Xow
+reproduction, or other needs (Rinkevich 1996), with the          speeds increase DIC transport into coral tissues, thereby
+trade-oV made more complex by the possibilities of uncou-        sustaining the enhanced demands for DIC as growth within
+pling skeletal and tissue repair (Anthony et al. 2002).          the lesion accelerates at a lower temperature.
+   In the case of juvenile massive Porites spp., coral tissue        Symbiodinium sp. are not autonomous from their coral
+extends 2–4 mm into the perforate skeleton (Edmunds              host, being dependent on them for nitrogen and in return
+2008), and it was not completely removed by the damage           are regulated by them (Yellowlees et al. 2008). Neverthe-
+we inXicted. Careful inspection of the freshly gouged corals     less, we did not expect damage to aVect Fv/Fm in areas
+revealed tissue in the sheared corallites within the lesions,    adjacent to the lesions. In contrast, damage aVected Fv/Fm
+and we suggest that this tissue played an important role in      in these areas, although the eVect was small (·16%) and
+the regrowth of the damaged area. The principal evidence         inXuenced by Xow. This Wnding suggests that localized
+for the role of this residual tissue in healing is the speed     injury, or recovery from it, perturbs the internal milieu
+with which the normal tissue coloration returned to the          within the Porites spp. colonies, thereby aVecting the phot-
+lesions (i.e., <10 days for lesions up to 75 mm2 in area, cf.    ophysiology of Symbiodinium sp. in areas outside of the
+Henry and Hart 2005), and the absence of signs that the tis-     area of damage. This study did not identify how localized
+sue Wrst encroached from the margins of the wound. As the        injury might have more distant eVects within the colony,
+wounds healed, the skeleton appeared to be replaced at a         which might be a consequence of competition between the
+dissimilar rate to that of the tissue, because the lesions at    host tissue and Symbiodinium sp. for metabolites used in
+the end of the study still appeared slightly Xattened and        repair and photosynthesis, respectively. Again, the strong
+characterized by sheared corallites. Interestingly, the return   inXuence of Xow in modulating the eVect of damage on Fv/
+of relatively normal tissue color within the lesions occurred    Fm suggests that mass transfer eVects can modulate this
+most frequently in the low temperature and low Xow treat-        competition under certain circumstances. One situation
+ment, which suggests that these conditions promote the           through which such a circumstance might arise, is the
+growth of coral tissue and perhaps their Symbiodinium sp.        demand for DIC for skeletogenesis (which is accentuated at
+(but not necessarily the skeleton).                              26.7°C as described earlier) and carbon Wxation through
+
+123
+Mar Biol (2010) 157:887–897                                                                                                           895
+
+
+photosynthesis (Langdon and Atkinson 2005). Conceiv-              2009), and experimental analyses of coral performance
+ably, the demands for DIC for damage repair at low Xow            (i.e., colony growth), as completed here, may help to
+conditions could create limited supplies of this metabolite,      explain how corallivory can have eVects that cascade to the
+thereby causing incomplete photosynthetic quenching of            community level (but see Cox 1986; Littler et al. 1989;
+high energy electrons originating in the light reactions          Grottoli-Everett and Wellington 1997; Rotjan and Lewis
+of photosynthesis, and hence promoting the formation of           2005; Chasqui-Velasco et al. 2007).
+superoxide radicals (O2¡) (Jones et al. 1998). Once formed,
+O2¡ function as oxidants and can depress Fv/Fm through a          Acknowledgments This research was supported by grant OCE 04-
+                                                                  17412 from the National Science Foundation and gifts from the Gor-
+variety of mechanisms known as photoinhibition (Franklin
+                                                                  don and Betty Moore Foundation and was completed under a research
+et al. 2006). If this model is applied to the present results,    permit issued by the French Polynesian Ministry of Research.
+Fv/Fm is depressed by damage because recovery creates a           Additional support was provided by the Bren School of Environmental
+shortage of DIC throughout the corals, which leads to the         Science and Management at the UC Santa Barbara. We are grateful to
+                                                                  N. Davies and the staV of the UC Berkeley, Richard B. Gump South
+formation of harmful O2¡; high Xow enhances the supply of         PaciWc Research Station for making our visits to Moorea productive
+DIC, hastens the removal of O2¡, and prevents photoinhibi-        and enjoyable; V. Moriarty for technical support; W. Goldenheim and
+tion of Fv/Fm.                                                    N. Colvard for Weld assistance; and three anonymous reviewers as well
+    While we contend that our study provides valuable             as R. Rotjan for providing comments that improved an earlier draft of
+                                                                  this paper. This is a contribution of the Moorea Coral Reef (MCR)
+insights into the response of Porites spp. to Wsh predation, it
+                                                                  LTER Site and is contribution number 157 of the Marine Biology Pro-
+is important to recognize that our analysis has three limita-     gram of California State University, Northridge. This contribution
+tions. First, logistics restricted our experiment to a pseu-      number 183 from the Richard B. Gump South PaciWc Research Station.
+doreplicated design that makes it impossible to reject the
+alternative hypothesis that the treatment eVects were con-        Open Access This article is distributed under the terms of the Crea-
+                                                                  tive Commons Attribution Noncommercial License which permits any
+founded. As described earlier in the methods, there is            noncommercial use, distribution, and reproduction in any medium,
+strong evidence to argue against this interpretation. Second,     provided the original author(s) and source are credited.
+while the damage we inXicted was with pliers (i.e., not Wsh
+corallivory), the damage was similar to that caused by the
+excavating functional group of corallivorous Wshes (Bell-         References
+wood and Choat 1990; Rotjan and Lewis 2008), at least
+when they feed in a spot biting mode. Thus, it is reasonable      Aeby GS, Santavy DL (2006) Factors aVecting susceptibility of the
+to infer that the response of juvenile Porites spp. to damage          coral Montastrea faveolata to black-band disease. Mar Ecol Prog
+in the present study provides a good indication of how they            Ser 318:103–110
+                                                                  Allemand D, Ferrier-Pages C, Furla P, Houlbreque F, Puverel S,
+might respond to Wsh predation in shallow habitats where               Reynaud S, Tambutte E, Tambutte S, Zoccola D (2004) Biomin-
+the conditions are similar to those employed in the micro-             eralisation in reef-building corals: from molecular mechanisms to
+cosms. Third, because small colonies of Porites spp. were              environmental control. C R Palevol 3:453–467
+used, and each was exposed to only one simulated Wsh bite,        Anthony KRN, Connolly SR, Willis BL (2002) Comparative analysis
+                                                                       of energy allocation and skeletal growth in corals. Limnol Ocea-
+our conclusions are only truly valid for functionally similar          nogr 47:1417–1429
+corals subject to similar damage. Work with the Caribbean         Baird AH, Bhagooli R, Ralph PJ, Takahashi S (2009) Coral bleaching:
+congener P. astreoides supports this assertion, because                the role of the host. Trends Ecol Evol 24:16–20
+P. astreoides colonies that are heavily impacted by Wsh           Bak RPM, Steward-Van Es Y (1980) Regeneration of superWcial dam-
+                                                                       age in the scleractinian corals Agaricia agaricites F. purpurea and
+corallivory rarely recover (Rotjan and Lewis 2005). Never-             Porites astreoides. Bull Mar Sci 30:883–887
+theless, our results demonstrate why the interactions             Barnes DJ (1973) Growth in colonial scleractinians. Bull Mar Sci
+between excavating corallivorous Wshes and corals might                23:280–298
+be expected to be complex and dependent on environmental          Bell JD, Galzin R (1984) The inXuence of live coral cover on coral-reef
+                                                                       Wsh communities. Mar Ecol Prog Ser 15:265–274
+conditions. Just as the death of corals can aVect the diver-      Bellwood DR, Choat JH (1990) A functional analysis of grazing in
+sity and abundance of coral reef Wshes through changes in              parrotWshes (family Scaridae): the ecological implications. Env
+habitat quantity and quality (Bell and Galzin 1984; Jones              Biol Fishes 28:189–214
+et al. 2004; Wilson et al. 2006), so too can changes in the       Berumen ML, Pratchett MS (2006) Recovery without resilience:
+                                                                       persistent disturbance and long-term shifts in the structure of Wsh
+abundance and diversity of corallivores aVect the distribu-            and coral communities at Tiahura Reef, Moorea. Coral Reefs
+tion of corals (McClanahan and Graham 2005; Berumen                    25:647–653
+and Pratchett 2006; Cole et al. 2008), in part through eVects     Bouchon-Navaro Y (1986) Partitioning of food and space resources by
+on coral performance. To date, few studies have examined               Chaetodontid Wshes on coral reefs. J Exp Mar Biol Ecol 103:21–40
+                                                                  Bruckner AW, Bruckner RJ (1998) Destruction of coral by Sparisoma
+ecological mechanisms by which corallivory inXuences                   viride. Coral Reefs 17:350
+coral distribution (but see Nuedecker 1979; Miller and Hay        Bruckner AW, Bruckner RJ, Sollins P (2000) ParrotWsh predation on
+1998; Miller et al. 2000; Cumming 2002; Rotjan and Lewis               live coral: “spot biting” and “focused biting”. Coral Reefs 19:50
+
+
+                                                                                                                             123
+896                                                                                                                   Mar Biol (2010) 157:887–897
+
+
+Buddemeier RW, Kinzie RA (1976) Coral growth. Ocean Mar Biol                Jayewardene D, Birkeland C (2006) Fish predation on Hawaiian
+     Ann Rev 14:183–225                                                           corals. Coral Reefs 25:328
+Chasqui-Velasco L, Alvarado E, Acero A, Zapata FA (2007) EVect of           Jokiel PL (2004) Temperature stress and coral bleaching. In: Rosen-
+     herbivorous and corallivorous Wshes on the survival of trans-                berg E, Loya Y (eds) Coral health and disease. Springer, Berlin,
+     planted corals in the Colombian Caribbean. Rev Biol Trop                     pp 401–425
+     55:825–837                                                             Jokiel PL, Maragos JE, Franzisket L (1978) Coral growth: buoyant weight
+Christiansen NA, Ward S, Harii S, Tibbetts IR (2009) Grazing by a                 technique. Monogr Oceanogr Method (UNESCO) 5:529–542
+     small Wsh aVects the early stages of a post-settlement stony coral.    Jones RJ, Hoegh-Guldberg O, Larkum AWD, Shreiber U (1998) Tem-
+     Coral Reefs 28:47–51                                                         perature-induced bleaching of corals begins with impairment of
+Cole AJ, Pratchett MS, Jones GP (2008) Diversity and functional                   the CO2 Wxation mechanism in zooxanthellae. Plant Cell Environ
+     importance of coral-feeding Wshes on tropical coral reefs. Fish              21:1219–1230
+     Fish 9:286–307                                                         Jones GP, McCormick MI, Srinivasan M, Eagle JV (2004) Coral
+Connell JH, Hughes TP, Wallace CC (1997) A 30-year study of coral                 decline threatens Wsh biodiversity in marine reserves. Proc Natl
+     abundance, recruitment, and disturbance at several scales in space           Acad Sci USA 101:8251–8253
+     and time. Ecol Monogr 67:461–488                                       Knowlton N, Lang JC, Keller BD (1988) Fates of staghorn coral iso-
+Cox EF (1986) The eVects of a selective corallivore on growth rates               lates on hurricane damaged reefs in Jamaica: the role of predators.
+     and competition for space between two species of Hawaiian                    In: Proceedings of 6th international coral reef symposium, vol 2,
+     corals. J Exp Mar Biol Ecol 101:161–174                                      pp 83–88
+Cumming RL (2002) Tissue injury predicts colony decline in reef-            Kramarsky-Winter E, Loya Y (2000) Tissue regeneration in the coral
+     building corals. Mar Ecol Prog Ser 242:131–141                               Fungia granulosa: the eVect of extrinsic and intrinsic factors. Mar
+Davies PS (1989) Short-term growth measurements of corals using an                Biol 137:867–873
+     accurate buoyant weighing technique. Mar Biol 101:389–395              Langdon C, Atkinson MJ (2005) EVects of elevated pCO2 on photo-
+Edmunds PJ (2005) The eVect of sub-lethal increases in temperature on             synthesis and calciWcation of corals and interactions with seasonal
+     the growth and population trajectories of three scleractinian corals         change in temperature/irradiance and nutrient enrichment. J Geo-
+     on the southern Great Barrier Reef. Oecologia 146:35–364                     phys Res 110:C09S07. doi:10.1029/2004JC002576
+Edmunds PJ (2008) The eVects of temperature on the growth of juve-          Lenihan HS, Adjeroud M, Kotchen MJ, Hench JL, Nakamura T (2008)
+     nile scleractinian corals. Mar Biol 154:153–162                              Reef structure regulates small-scale spatial variation in coral
+Edmunds PJ, Elahi R (2007) The demographics of a 15-year decline in               bleaching. Mar Ecol Prog Ser 370:127–141
+     cover of the Caribbean reef coral Montastraea annularis. Ecol          Lesser MP, Weis VM, Patterson MR, Jokiel JP (1994) EVects of mor-
+     Monogr 77:3–18                                                               phology and water motion on carbon delivery and productivity in
+Edmunds PJ, Gates RD (2004) Size-dependent diVerences in the photo-               the reef coral Pocillopora damicornis (Linnaeus): diVusion barri-
+     physiology of the reef coral Porites astreoides. Biol Bull                   ers, inorganic carbon limitation, and biochemical plasticity. J Exp
+     206:61–64                                                                    Mar Biol Ecol 178:153–179
+Fitt WK, McFarland FK, Warner ME, Chilcoat GC (2000) Seasonal               Lester RT, Bak RPM (1985) EVects of environment on regeneration
+     patterns of tissue biomass and densities of symbiotic dinoXagel-             rate of tissue lesions in the reef coral Montastrea annularis (Scler-
+     lates in reef corals and relation to coral bleaching. Limnol Ocea-           actinia). Mar Ecol Prog Ser 24:183–185
+     nogr 45:677–685                                                        Littler MM, Taylor PR, Littler DS (1989) Complex interactions in the
+Franklin DJ, Cedres CMM, Hoegh-Guldberg O (2006) Increased mor-                   control of coral zonation on a Caribbean reef Xat. Oecologia
+     tality and photoinhibition in the symbiotic dinoXagellates of the            80:331–340
+     Indo-PaciWc coral Stylophora pistillata (Esper) after summer           Loya Y (1976) Skeletal regeneration in a Red Sea scleractinian coral
+     bleaching. Mar Biol 149:633–642                                              population. Nature 261:490–491
+Frydl P (1979) The eVect of parrotWsh (Scaridae) on coral in Barbados,      Marsh JA (1970) Primary productivity of reef-building calcareous red
+     WI. Int Revue Ges Hydrobiol 64:737–748                                       algae. Ecology 51:255–263
+Gochfeld DJ (2004) Predation-induced morphological and behavioral           Maxwell K, Johnson GN (2000) Chlorophyll Xuorescence—a practical
+     defenses in a hard coral: implications for foraging behavior of              guide. J Exp Bot 51:659–668
+     coral-feeding butterXyWshes. Mar Ecol Prog Ser 267:145–158             McClanahan TR, Graham NAJ (2005) Recovery trajectories of coral
+Grottoli-Everett AG, Wellington GM (1997) Fish predation on the                   reef Wsh assemblages within Kenyan marine protected areas. Mar
+     scleractinian coral Madracis mirabilis controls its depth distribu-          Ecol Prog Ser 294:241–248
+     tion in the Florida Keys, USA. Mar Ecol Prog Ser 160:291–293           Meesters EH, Noordeloos M, Bak RPM (1994) Damage and regenera-
+Hall VR (1997) InterspeciWc diVerences in the regeneration of artiWcial           tion: links to growth in the reef-building coral Montastrea annu-
+     injuries on scleractinian corals. J Exp Mar Biol Ecol 212:9–23               laris. Mar Ecol Prog Ser 112:119–128
+Hall VR (2001) The response of Acropora hyacinthus and Montipora            Meesters EH, Pauchli W, Bak RPM (1997) Predicting regeneration of
+     tuberculosa to three diVerent types of colony damage: scraping inju-         physical damage on a reef-building coral by regeneration capacity
+     ry, tissue mortality and breakage. J Exp Mar Biol Ecol 264:209–223           and lesion shape. Mar Ecol Prog Ser 146:91–99
+Henry LA, Hart M (2005) Regeneration from injury and resource allo-         Miller MW, Hay ME (1998) EVects of Wsh predation and seaweed
+     cation in sponges and corals—a review. Int Rev Hydrobiol                     competition on the survival and growth of corals. Oecologia
+     90:125–158                                                                   113:231–238
+Hurlbert SH (1984) Pseudoreplication and the design of ecological           Miller MW, Weil E, Szmant AM (2000) Coral recruitment and juve-
+     Weld experiments. Ecol Monogr 54:187–211                                     nile mortality as structuring factors for reef benthic communities
+Iglesias-Prieto R, Matta JL, Robins WA, Trench RK (1992) Photosyn-                in Biscayne National Park, USA. Coral Reefs 19:115–123
+     thetic response to elevated temperature in the symbiotic dinoXa-       Nagelkerken I, Bak RPM (1998) DiVerential regeneration of artiWcial
+     gellate Symbiodinium microadriaticum in culture. Proc Natl Acad              lesions among sympatric morphs of the Caribbean corals Porites
+     Sci USA 89:10301–10305                                                       astreoides and Stephanocoenia michelinii. Mar Ecol Prog Ser
+Jackson JBC (1977) Competition on marine hard substrata: the adap-                163:279–283
+     tive signiWcance of solitary and colonial strategies. Am Nat           Nagelkerken I, Meesters EH, Bak RPM (1999) Depth-related variation
+     980:743–767                                                                  in regeneration of artiWcial lesions in the Caribbean corals Porites
+
+
+123
+Mar Biol (2010) 157:887–897                                                                                                                 897
+
+
+     astreoides and Stephanocoenia michelinii. J Exp Mar Biol Ecol      Rotjan RD, Lewis SM (2006) ParrotWsh and selective corallivory on a
+     234:29–39                                                               Belizean coral reef. J Exp Mar Biol Ecol 335:292–301
+Nuedecker S (1979) EVects of grazing and browsing on the zonation of    Rotjan RD, Lewis SM (2008) Impact of coral predators on tropical
+     corals in Guam. Ecology 60:666–672                                      reefs. Mar Ecol Prog Ser 367:73–91
+Oren U, Benayahu Y, Loya Y (1997) EVect of lesion size and shape on     Rotjan RD, Lewis SM (2009) Predators selectively graze reproductive
+     regeneration of the Red Sea coral Favia favus. Mar Ecol Prog Ser        structures in a clonal marine organism. Mar Biol 156:569–577
+     46:101–107                                                         Rotjan RD, Dimond JL, Thornhill DJ, Leichter JJ, Helmuth B, Kemp
+Oren U, Benayahu Y, Lubinevsky H, Loya Y (2001) Colony integra-              DW, Lewis SM (2006) Chronic parrotWsh grazing impedes coral
+     tion during regeneration in the stony coral Favia favus. Ecology        recovery after bleaching. Coral Reefs 25:361–368
+     82:802–813                                                         Sebens KP, Johnson AS (1991) EVects of water movement on prey
+Patterson MR (1992) A chemical engineering view of cnidarian sym-            capture and distribution of reef corals. Hydrobiologia 226:91–101
+     bioses. Am Zool 32:566–582                                         Sokal RR, Rohlf FJ (1995) Biometry. WH Freeman, New York
+Pratchett MS (2005) Dietary overlap among coral-feeding butter-         Tanner JE (1997) InterspeciWc competition reduces Wtness in sclerac-
+     XyWshes (Chaetodontidae) at Lizard Island, northern Great Bar-          tinian corals. J Exp Mar Biol Ecol 214:19–34
+     rier Reef. Mar Biol 148:373–382                                    Vermeij MJA, Sandin SA (2008) Density-dependent settlement and
+Pratchett MS, Wilson SK, Berumen ML, McCormick MI (2004)                     mortality structure the earliest life phases of a coral population.
+     Sublethal eVects of coral bleaching on an obligate coral feeding        Ecology 89:1994–2004
+     butterXyWsh. Coral Reefs 23:352–356                                Wilson SK, Graham NAJ, Pratchett MS, Jones GP, Polunin NVC
+Quinn GP, Keough MJ (2002) Experimental design and data analysis             (2006) Multiple disturbances and the global degradation of coral
+     for biologists. Cambridge University Press, Cambridge                   reefs: are reef Wshes at risk or resilient? Glob Change Biol
+Rinkevich B (1996) Do reproduction and regeneration in damaged corals        12:2220–2234
+     compete for energy allocation. Mar Ecol Prog Ser 143:297–302       Yellowlees D, Rees TAV, Leggat W (2008) Metabolic interactions
+Rotjan RD, Lewis SM (2005) Selective predation by parrotWshes on             between algal symbionts and invertebrate hosts. Plant Cell Environ
+     the reef coral Porites astreoides. Mar Ecol Prog Ser 305:193–201        31:679–694
+
+
+
+
+                                                                                                                                   123
+

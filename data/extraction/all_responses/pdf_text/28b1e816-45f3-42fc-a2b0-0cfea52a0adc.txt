@@ -1,0 +1,628 @@
+                                                         Journal of Experimental Marine Biology and Ecology 481 (2016) 15–24
+
+
+
+                                                                    Contents lists available at ScienceDirect
+
+
+                                    Journal of Experimental Marine Biology and Ecology
+
+                                                      journal homepage: www.elsevier.com/locate/jembe
+
+
+
+
+Patterns of surface lesion recovery in the Northern Star Coral,
+Astrangia poculata
+Lukas DeFilippo a,b,1, Elizabeth M. Burmester a,b, Les Kaufman a,b, Randi D. Rotjan a,⁎
+a
+    John H. Prescott Marine Laboratory, New England Aquarium, 1 Central Wharf, Boston, MA 02110, USA
+b
+    Boston University Department of Biology, 5 Cummington Mall, Boston, MA 02115, USA
+
+
+
+a r t i c l e           i n f o                            a b s t r a c t
+
+Article history:                                           Corals regularly experience partial mortality due to grazing, sedimentation, disease, and abrasion. Because a
+Received 22 October 2015                                   colony's ability to heal such surface lesions can reﬂect its overall health, recovery from artiﬁcial wounds has
+Received in revised form 22 March 2016                     been posed as a potential in situ measure of coral status and resilience. In this study, the response of a temperate,
+Accepted 23 March 2016
+                                                           facultatively symbiotic coral, Astrangia poculata, to wounds of varying size and shape was measured, along with
+Available online 30 April 2016
+                                                           the inﬂuence of Symbiodinium psygmophilum. Because most tropical corals host an obligate symbiosis, the impact
+Keywords:
+                                                           of the symbionts on lesion recovery cannot be quantiﬁed separately from the hosts. Here, symbiotic and
+Astrangia poculata                                         aposymbiotic A. poculata colonies were subjected to lesions representing 25%, 50%, and 75% total colony loss,
+Facultative symbiosis                                      with varying wound shape. Colonies were monitored for recovery, mortality of living tissue, photosynthetic efﬁ-
+‘Phoenix effect’                                           ciency and approximated chlorophyll density. Recovery was observed to occur primarily from within the lesion
+Lesion recovery                                            site, demonstrating a ‘Phoenix effect’ healing pattern whereby recovery stems from tissue remnants in the
+Temperate coral                                            wound area. Recovery was best explained by an interaction effect between symbiotic state (symbiotic versus
+                                                           aposymbiotic) and the amount of residual tissue visible after wounding. Per unit area of residual tissue, healing
+                                                           was greater in symbiotic colonies. Symbiotic colonies also exhibited higher estimates of photochemical efﬁciency
+                                                           and approximated chlorophyll density, likely contributing to their enhanced healing capacity. These results sup-
+                                                           port previously documented reductions in wound recovery among bleached corals, and suggest that symbiont
+                                                           loss itself, rather than associated stress or physiological disruption contributes to the diminished healing capacity
+                                                           of bleached colonies. Tissue mortality in un-wounded colony portions was greatest among symbiotic corals ex-
+                                                           posed to 50% colony loss amassed over two wounds, suggesting that corals with multiple injuries may experience
+                                                           greater tissue loss compared to single-wounded colonies, which can help inform methods for wound proxy met-
+                                                           rics in the ﬁeld. Dissected decalciﬁed A. poculata colonies revealed deep (~4–6 mm) corallite and polyp penetra-
+                                                           tion, suggesting that surface lesions in this species are likely to leave tissue remnants buried within the skeleton.
+                                                           As such, it appears that A. poculata and corals with similar morphologies are predisposed to ‘Phoenix effect’ recov-
+                                                           ery, since most natural lesions would not fully penetrate the full depth of their corallites.
+                                                                                                                                         © 2016 Elsevier B.V. All rights reserved.
+
+
+
+
+1. Introduction2                                                                               1994; Rotjan and Lewis, 2005). Because of the ecological and adaptive
+                                                                                               importance of wound healing, conservation and monitoring efforts are
+   Partial mortality is a constant source of sublethal stress for most co-                     beginning to explore recovery from artiﬁcial wounds as a proxy for or-
+lonial, sessile, and modular organisms (Mistri and Ceccherelli, 1995;                          ganismal status and resilience to a variety of stressors (as in Fisher
+Harmelin and Marinopoulos, 1994; Meszaros and Bigger, 1999;                                    et al., 2007; Meesters and Bak, 1994; Meesters et al., 1992). However,
+Jackson and Winston, 1981; Crawley, 1983). The ability of these organ-                         wounds are highly variable (Meesters et al., 1997b; Lirman, 2000) and
+isms to repair wounds quickly and successfully can have major conse-                           relationships between wound characteristics and recovery must be
+quences for their survival, growth, and reproduction (Meesters et al.,                         established before lesion healing can serve as a reliable proxy for organ-
+1996; Rinkevich, 1996; Rinkevich and Loya, 1989; Meesters et al.,                              ismal status.
+                                                                                                   Partly due to its utility as a proxy for colony health and performance,
+                                                                                               wound healing has been relatively well studied in corals. One of the ear-
+  ⁎ Corresponding author.                                                                      liest hypotheses generated by this research was ‘localized regeneration’
+    E-mail address: rrotjan@neaq.org (R.D. Rotjan).                                            (LR), which posits that the energy for recovery is provided entirely by a
+    1
+    Present address: School of Aquatic and Fishery Sciences, University of Washington,
+1122 NE Boat Street, Seattle, WA 98105, USA.
+                                                                                               narrow region of living tissue directly bordering the lesion (Meesters
+ 2
+    RGB: Red, Green, Blue.                                                                     et al., 1994, 1997a; Bak and Steward-Van Es, 1980). Consequently, this
+P:SA: Perimeter to surface area ratio.                                                         hypothesis purports that the ratio of a wound's perimeter to its surface
+
+
+http://dx.doi.org/10.1016/j.jembe.2016.03.016
+0022-0981/© 2016 Elsevier B.V. All rights reserved.
+16                                       L. DeFilippo et al. / Journal of Experimental Marine Biology and Ecology 481 (2016) 15–24
+
+
+area (P:SA) is the primary determinant of healing capacity (Meesters                    dichotomy allows examination of the impact of Symbiodinium on various
+et al., 1997a; Van Woesik, 1998). Studies spanning multiple species sup-                aspects of coral biology, without the confounding effects of stress
+port this hypothesis by demonstrating a positive functional relationship                and physiological disruption associated with bleaching in obligate symbi-
+between healing rate and lesion P:SA (Meesters et al., 1997a; Van                       otic taxa (Glynn et al., 1985). The Northern Star Coral has already been
+Woesik, 1998). Under LR, colony size has no inﬂuence on healing capac-                  used to investigate the impacts of algal symbiosis on host nutrition
+ity, although small colonies may be unable to withstand extensive                       (Szmant-Froelich and Pilson, 1980, 1984), resistance to acidiﬁcation
+lesioning and suffer whole colony mortality (Meesters et al., 1996).                    (Holcomb et al., 2010, 2012), vulnerability to sedimentation (Peters and
+    While the LR hypothesis is well supported in the literature, there are              Pilson, 1985), calciﬁcation, and metabolism (Jacques and Pilson, 1980;
+alternative healing patterns documented in corals. Oren et al. (1997,                   Jacques et al., 1983; Cummings, 1983), and has proved to be a tractable
+2001) described a recovery model involving more widespread ‘colony                      experimental system with exciting potential for addressing fundamental
+integration’ (CI). These authors observed only relatively small lesions                 questions of coral biology.
+(b 1 cm2) behaving as expected under the LR hypothesis, with larger                         This study aimed to 1) directly evaluate the inﬂuence of Symbiodinium
+wounds drawing resources from portions of the colony as distant as                      symbiosis on recovery and maintenance in A. poculata, and 2) describe the
+10–15 cm from the lesion site. Thus, for larger lesions, recovery did                   physical and temporal patterns of wound recovery in A. poculata, and the
+not depend solely on a thin band of adjacent tissue, but on the colony's                extent to which it adheres to any of the previously described healing
+total size and available energy reserves. Importantly, both CI and LR de-               models (localized regeneration (LR), colony integration (CI), or Phoenix
+scribe recovery that originates from the lateral margins of the wound,                  effect (PE)). By evaluating the relationship between lesion P:SA, and col-
+driven by contributions from the living colony (Meesters et al., 1997a;                 ony size with healing capacity, as well as measuring any recovery from re-
+Oren et al., 1997, 2001).                                                               sidual tissue fragments in the lesion site, it is possible to identify the
+    In addition to the LR and CI models, there is a third, functionally dis-            dominant healing pattern(s) exhibited by A. poculata. Additionally, com-
+tinct recovery pattern documented in corals. Krupp et al. (1992) ob-                    paring recovery between symbiotic and aposymbiotic A. poculata pro-
+served recovery from osmotically induced mortality in Fungia scutaria                   vides novel insights into the contributions of Symbiodinium to coral
+to be driven by cryptic residual tissue within the skeleton. Despite                    wound healing and resilience.
+complete withdrawal of surface tissues, the authors found intact
+messentarial ﬁlaments and undifferentiated tissue 2–7 mm beneath                        2. Methods
+the skeletal surface. This recovery pattern, creatively dubbed the ‘Phoe-
+nix effect’ (PE), was also implicated in the rapid recovery of Porites col-             2.1. Collection and husbandry
+onies after a mass bleaching event (Roff et al., 2014). Jokiel et al. (1993)
+also described recovery of Porites colonies after a freshwater kill to be                   Coral specimens were collected in October 2013 from depths of 6–
+driven by undifferentiated tissue within the coral skeleton, and                        10 m at Fort Wetherill National Park in Jamestown, Rhode Island (41
+Meesters et al. (1992) noted accelerated recovery of shallow lesions in                 28° 40°° N, 71 21° 34°° W) using SCUBA. Once collected, corals were ac-
+Porites asteroides driven by tissue remnants in the skeleton. To date,                  climated for two months in an integrated, ﬂow-through aquarium sys-
+most published descriptions of PE recovery have focused on                              tem supplied with ultraviolet-sterilized, particulate-ﬁltered seawater
+ecosystem-wide patterns, and in depth descriptions at the organism                      from Boston Harbor. During acclimation, research specimens were re-
+level have yet to be reported.                                                          moved of all visible epibionts, which included sponges, polychaete
+    Like most corals, the taxa in which wound healing has been previ-                   worms, and algae. After acclimation, colonies were randomly and
+ously researched, (Acropora, Montipora, Diploria, Porites, Agaricia,                    evenly allocated among two integrated 30 gallon tanks such that ap-
+Orbicella, Favia, Siderastrea, and Fungia) (Hall, 2001; Meesters et al.,                proximately equal numbers from each symbiotic state and wound treat-
+1996; Titlyanov et al., 2008; Denis et al., 2011; Jayewardene, 2010;                    ment group were present in each. Lighting was provided by high output
+Van Woesik, 1998; Bak and Steward-Van Es, 1980; Meesters et al.,                        (HO) T5 ﬂuorescent ﬁxtures (Hamilton Technology, Gardena, CA, Aruba
+1997a,b; Fisher et al., 2007; Mascarelli and Bunkley-Williams, 1999;                    Sun T5-V series) each housing one 54-watt daylight and actinic bulb. A
+Oren et al., 1997, 2001; Kramarsky-Winter and Loya, 2000;                               stable temperature of 18 °C was maintained for the duration of the accli-
+Kramarsky-Winter and Loya, 1996) all maintain obligate symbioses                        mation and experimental periods by a water chiller. Other water quality
+with photosynthetic dinoﬂagellates (Symbiodinium spp.). Interruption                    parameters, such as pH, nitrate, phosphate, calcium, and alkalinity were
+of this symbiosis, commonly known as ‘bleaching’, is usually accompa-                   monitored and recorded weekly for the duration of the experiment.
+nied by stress and physiological disruption (Glynn et al., 1985), con-                  Coral specimens were placed on raised plastic grids, each containing six-
+founding comparisons between bleached and healthy corals for                            teen to eighteen colonies in separate slots to limit inter-colonial antag-
+assessing the role of Symbiodinium in wound recovery. While previous                    onism. Each day, A. poculata specimens received targeted ad libitum
+studies have been crucial to elucidating the general patterns and mech-                 feedings of copepods (JEHM Co., Inc.), and each aquarium was scrubbed
+anisms of coral lesion healing, these efforts did not determine the role of             and siphoned to remove uneaten food, detritus and algae. Individual
+algal symbiosis in recovery. As has been previously noted, determining                  colonies were identiﬁed with numbered tags that were afﬁxed to the
+the beneﬁts of symbiosis to the host and symbionts under normal con-                    corals' non-living base with cyanoacrylate.
+ditions has lagged behind understanding symbiosis during stress and
+bleaching (Edmunds and Gates, 2003).                                                    2.2. Experimental design
+    The Northern Star Coral, Astrangia poculata (=Astrangia danae; Peters
+et al., 1988), is a temperate coral that facultatively associates with                      This experiment included eight distinct treatments (four wounding
+Symbiodinium psygmophilum (LaJeunesse et al., 2012; Dimond and                          patterns among two symbiotic states) intended to directly model the
+Carrington, 2007, 2008), sympatrically displaying multiple visually                     effects of zooxanthellae symbiosis and lesion P:SA on recovery in
+distinct ‘symbiotic states’ (sensu Dimond and Carrington, 2007;                         A. poculata (Fig. 1). Coral specimens (n = 50 colonies, n = 5 of each
+Mitchelmore et al., 2003) in shallow waters: brown, symbiotic, and                      symbiotic state per wound treatment and control group) were visually
+white, aposymbiotic, with some intermediate colonies. The aposymbiotic                  categorized as symbiotic or aposymbiotic, and veriﬁed as such using a
+state retains chronically reduced symbiont densities, maintained by pro-                chlorophyll proxy equation generated for A. poculata by Dimond and
+portionally greater expulsion rates than their fully symbiotic counterparts             Carrington (2007). Colonies displaying polyps of mixed symbiotic
+(Dimond and Carrington, 2008). As such, while aposymbiotic colonies are                 state were not selected for the study, but changes in symbiotic state
+not completely azooxanthellate, they do not functionally receive any pho-               among individual polyps of aposymbiotic colonies were observed dur-
+tosynthetic beneﬁts from S. psygmophilum. This unique intraspeciﬁc                      ing the acclimation and experimental periods.
+                                                 L. DeFilippo et al. / Journal of Experimental Marine Biology and Ecology 481 (2016) 15–24                                             17
+
+
+
+
+Fig. 1. Experimental design for colony wounding. Intact colonies (A, F), 25% (B, G), 50% adjacent (C, H), 50% separate (D, I), and 75% wounded. Brown and white circles represent wounding
+schema in symbiotic and aposymbiotic colonies of A. poculata, respectively. Shaded areas indicate wounded portions of the colony. N = 5 colonies for each wound group per symbiotic
+state.
+
+
+    For the designation of wounding pattern, the surface of each                                    Once total live surface area had been measured, wound area was
+A. poculata colony was measured and considered as four quadrants of                             designated by assigning a percentage of the tin foil's mass correspond-
+equal surface area. In quarter colony (25%) lesions, a single quadrant                          ing to the coral's wound treatment group (e.g. 25, 50, 75%) for removal.
+of the coral was ablated (Fig. 1 B, G). Two quadrants were ablated in                           All wound designations were made within ± 5% of the target tin foil
+the 50% adjacent (Fig. 1 C, H) and 50% separate (Fig. 1 D, I) lesion groups,                    weight. Wounding consisted of ﬁrst removing the visible polyp and
+adjacent to, and opposite of one another respectively to manipulate                             coenenchyme tissue with a Waterpik©, and then eroding the raised
+margin damage while keeping wound area constant. Three contiguous                               corallite structure until relatively ﬂat with a diamond coated ﬁle. No ef-
+quadrants of the colony were wounded in the 75% lesion group (Fig. 1                            fort was made to destroy the remaining septa once the corallite struc-
+E, J). These four wound types were intended to differ relatively predict-                       ture had been leveled, nor to remove any tissue fragments visible in
+ably in their P:SA, with the greatest ratio in the 25% and 50% separate                         the lesion after the prescribed treatment. These wounds were not
+groups, followed by the 50% adjacent group, and lowest in the 75%                               intended to replicate any speciﬁc natural lesioning agent, but constitute
+wound group. Total wound perimeter estimates were also measured                                 a generalized surface ablation such as might be incurred from a variety
+in ImageJ (NIH) so wound P:SA could be calculated for consideration                             of mechanical stressors including storms and scraping corallivores
+as a continuous variable. Colony size was evaluated as a continuous var-                        (Woodley et al., 1981; Bonaldo et al., 2011).
+iable based on the initial live surface area of each colony. Additionally,                          Wounded A. poculata specimens were re-photographed within 48–
+10 colonies were allocated as controls (Fig. 1 A, F) and received no                            72 h of wounding, and again at 7, 10, 15, 20, 30 and 60 days after
+wounding treatment, although the photochemical efﬁciency of these                               wounding. These time points were selected to yield a ﬁne-scale time se-
+corals was monitored during the study (Fig. 5 C).                                               ries of the early stages of recovery, as well as coarser patterns occurring
+                                                                                                over longer time periods. Photographs were analyzed in ImageJ (NIH) to
+                                                                                                measure the surface area of recovered tissue and mortality of live tissue.
+2.3. Data collection                                                                            Total estimates were made by summing planar measurements of these
+                                                                                                parameters across photographs from the top and all four sides of the
+    Prior to wounding, each A. poculata specimen was photographed                               coral, excluding redundant area across angles. Photographs for two
+from the top and all four sides to fully image the entire colony. A two-                        coral specimens were deemed unreliable due to shifts in coral position
+way ANOVA was used to assess potential biases in colony size (mea-                              across photographs, and were excluded from analysis. When measuring
+sured as live surface area) between symbiotic states and wound treat-                           recovery, a distinction was made between tissue regenerating from the
+ment groups. Initial live surface area of colonies was estimated by                             perimeter (characteristic of both LR and CI healing) versus the interior
+enveloping their living portions in aluminum foil, trimming it to account                       (central/PE recovery) of the lesion (Fig. 2).
+for creases and dead areas. The tin foil was then weighed, and a                                    Maximum quantum yield (Fv/Fm) measures the photosynthetic ca-
+predetermined surface area to weight ratio for the foil was used to cal-                        pacity of photosystem II (PS II), also known as photosynthetic efﬁciency.
+culate the coral's surface area (Marsh, 1970). This method was selected                         A Walz Junior pulse-amplitude modulated (PAM) ﬂuorescence meter
+over surface area measurements derived from whole-colony photo-                                 was used to measure the photosynthetic efﬁciency of each A. poculata
+graphs because image analysis can only estimate surface area in two di-                         colony prior to wounding, and again 3, 15, 30, and 60 days after
+mensions. For measuring recovery or mortality, this bias was less of an                         wounding. Readings were taken between 1300 and 1500 h on each
+issue because the three-dimensionality of the colony is less pronounced                         day to minimize the effects of diurnal ﬂuctuations (Brown et al., 1999)
+over the localized spatial scales at which recovery/mortality was ob-                           on the time series data. After 30 min of dark acclimation in a close-
+served. However, for estimating an entire colony's size and designating                         topped black plastic container, individual colonies were transferred to
+wound area, planar estimates would have grossly underestimated the                              a glass beaker ﬁlled with 2–3 in. of aquarium seawater that was placed
+true surface area of the colony. Aposymbiotic corals exhibited signiﬁ-                          within a dark plastic box where PAM readings were taken. A colony's
+cantly greater live surface area (11.78 ± 5.58 cm2) compared to symbi-                          photosynthetic efﬁciency at each time point was determined as the av-
+otic colonies (8.48 ± 2.54 cm2) (F(1,44) = 7.548, p = 0.009). However,                          erage maximum quantum yield measured from three haphazardly se-
+this difference is reﬂective of the size distribution observed at the collec-                   lected polyps. Brieﬂy, 6 s of far red illumination was given to
+tion site (DeFilippo, personal observation). Colonies were randomly                             determine minimal ﬂuorescence in the dark adapted state (F0), and a
+assigned to wound treatments, and no signiﬁcant size bias was detected                          saturating pulse (10,000 μmol m−2 s−1) was applied over 0.6 s to deter-
+between wound groups (F(4,44) = 1.508 p = 0.216).                                               mine maximum ﬂuorescence (Fm). Illumination was applied by a light
+18                                                 L. DeFilippo et al. / Journal of Experimental Marine Biology and Ecology 481 (2016) 15–24
+
+
+
+
+Fig. 2. Time series of wounding and recovery in A. poculata. Pre-wounding (A), after 3 days (B), 7 days (D), 10 days (F), 15 days (H), 20 days (J), 30 days (L), and 60 days (N). Insets: close-up
+of single polyp recovery (indicated with square) post-wounding after 3 days (C), 7 days (E), 10 days (G), 15 days (I), 20 days (K), 30 days (M), and 60 days (O). Newly formed tentacles
+denoted by “t,” areas of algal overgrowth denoted by “a.” Circles in lower right corner represent simpliﬁed diagrams of recovery: areas in brown signify live tissue cover while black regions
+signify removed tissue.
+
+
+ﬁber held ~1 mm from the oral disk of each polyp at an angle of approx-                             multiplied by −1 to induce realistic directionality, and were normalized
+imately 45–60°. The change in ﬂuorescence (ΔF) caused by the saturat-                               to zero by adding the absolute value of the lowest transformed mea-
+ing pulse was divided by maximal ﬂuorescence to yield the maximum                                   surement to all values. To convert polyp color to approximated chloro-
+quantum yield, Fv/Fm.                                                                               phyll density, the adjusted PC values were applied to the equation
+    Polyp color was analyzed from photographs taken before wounding,                                developed by Dimond and Carrington (2007)
+and 3, 15, 30, and 60 days after wounding. Polyp color values were ob-
+tained by quantifying red, green, and blue (RGB) pixels in 10 randomly                              y ¼ 0:044x2 þ 0:0335x                                                                    ð1Þ
+selected polyps per colony against a color standard using a custom anal-
+ysis script written in MATLAB (version R2007b, The MathWorks, Natick,                               where y = approximated chlorophyll density (μg cm−2) and x = polyp
+MA). This method corrects for changes in absolute illumination and any                              color PC (R2 = 0.89). Although chlorophyll density is not a strict mea-
+color imparted by ambient light to allow comparison between images.                                 surement of symbiont density because zooxanthellae pigment concen-
+Following the protocol of Dimond and Carrington (2007), RGB values                                  trations ﬂuctuate (Warner et al., 2002; Cummings, 1983; Fitt et al.,
+were condensed to a single value using principal component analysis.                                2000), it has been shown to be a reliable symbiosis parameter for
+The resulting principal component (PC) explained an average of                                      distinguishing symbiotic states in A. poculata (Dimond and Carrington,
+70.6 ± 4.72% of the variation in RGB, and component loadings averaged                               2007). Additionally, in situ zooxanthellae counts require destructive tis-
+88.4 ± 4.04, 93 ± 3.32, and 66 ± 18.53 for red, green, and blue respec-                             sue subsampling, which would inﬂict a second source of partial mortal-
+tively across all days measured. Principal component values were                                    ity to wounded colonies. The use of a symbiosis proxy (approximated
+                                        L. DeFilippo et al. / Journal of Experimental Marine Biology and Ecology 481 (2016) 15–24                                19
+
+
+chlorophyll density) in A. poculata represents an important tool for en-               performed between levels of factors and interactions when necessary
+abling non-destructive assessments that do not interfere with or con-                  using the ‘glht’ function of the ‘multcomp’ package.
+found the recovery potential of colonies.                                                  For all analyses, model assumptions were graphically assessed when
+    Additional wounded and control A. poculata specimens not associat-                 necessary using quantile–quantile plots, density plots, and/or residual
+ed with the wounding experiment were ﬁxed in formaldehyde, and                         by predicted plots. For all response variables except mortality, wound
+their skeletons were dissolved in hydrochloric acid for morphological                  treatment had no observed statistical effect. Therefore, all samples with-
+observations of corallite and tissue penetration depth, allowing a more                in each symbiotic state were pooled together for analyses, increasing
+detailed examination via tissue dissection of the wounding treatment's                 the effective sample size to 20 colonies per symbiotic state.
+effect on the lesion site.
+                                                                                       3. Results
+2.4. Statistical analysis
+                                                                                           To determine the occurrence of central (PE) healing versus perime-
+    All statistical analyses were performed using the R software package,              ter recovery (characteristic of both LR and CI recovery), the surface area
+version 3.2.0 (R Core Team (2015). All group means are reported as                     of tissue originating within the lesion site from residual tissue fragments
+± standard deviation. Because centrally recovered tissue indicates                     was compared to tissue regenerating from the margins of the wound.
+‘Phoenix effect’ (PE) healing, and perimeter recovery is characteristic                Perimeter recovery was observed in 15 out of the 38 (39.47%) recover-
+of both ‘colony integration’ (CI) and ‘localized regeneration’ (LR), the               ing corals, accounting for only 5.77% of the total surface area of tissue re-
+amount of central versus perimeter recovery observed was compared                      covered in this study. Among the colonies that did exhibit it, perimeter
+with Welch's paired t-test. For perimeter recovery, CI and LR can be fur-              recovery constituted a relatively small portion of total recovery, averag-
+ther distinguished by a positive relationship between wound P:SA and                   ing only 0.05 ± 0.05 cm2, or 21.64 ± 21.01% (Fig. 3 D). By contrast, cen-
+colony size with recovery, respectively. Thus, wound P:SA, wound treat-                tral recovery was observed in 100% of coral specimens examined,
+ment, and colony size, in addition to symbiotic state and residual tissue              contributing an average of 0.35 ± 0.31 cm2 of new tissue per coral,
+(tissue visible in the lesion site within 48–72 h after wounding) were                 and accounting for 94.23% of total observed recovery (Fig. 3 D). Welch's
+evaluated as potential independent variables when modeling recovery.                   paired t test conﬁrmed that central recovery was the dominant healing
+Surface area of recovered tissue was divided by initial wound size and                 pattern exhibited in this study (t = 6.473, 38.248, p b 0.001) (Fig. 3 D).
+the resulting proportions were ﬁtted to a beta regression model with a                 The infrequency with which perimeter recovery was observed made ex-
+logit link function using the ‘betareg’ package, which accommodates                    planatory statistical analyses intractable, so the ﬁnal healing model de-
+proportional data bounded between 0 and 1 (Ferrari and Cribari-Neto,                   scribes only central (PE) recovery.
+2004).                                                                                     Recovery originated primarily from minor tissue remnants visible in
+    Live tissue mortality was examined for potential associations with                 the lesion site, which expanded and coalesced to eventually form differ-
+continuous independent variables such as colony surface area, but                      entiated structures (e.g. tentacles) and complete functional polyps. In all
+none were detected. Therefore, a factorial approach was used for analy-                groups, recovered tissue increased sharply after wounding, stabilizing
+sis. A two-way ANOVA was used to compare relative tissue mortality                     midway through the experimental period and eventually declining as
+across symbiotic states and wound treatment groups. The mortality                      undifferentiated tissue was overgrown by algae (Figs. 3 A–C, 2 J–N).
+data exhibited pronounced heteroscedasticity, which transformations                    Out of wound treatment, wound P:SA, colony surface area, symbiotic
+failed to resolve. Since transformations did not correct the violation                 state, and residual tissue, the most parsimonious beta regression
+but altered the ANOVA outcomes, the untransformed results are pre-                     model of recovery included only symbiotic state and residual tissue,
+sented, but should be interpreted cautiously.                                          with an interaction between the two effects (Table 1). The most plausi-
+    To conﬁrm the difference in symbiosis levels that distinguish symbi-               ble models that did include initial live surface area, P:SA, or wound
+otic from aposymbiotic A. poculata colonies, approximated chlorophyll                  treatment lacked substantial support (Table 2). Additionally, each of
+density was ﬁtted to a restricted maximum likelihood (REML) linear                     these models was simply the best model (containing only the interac-
+mixed effects (LME) model, with symbiotic state, wound treatment                       tion between residual tissue and symbiotic state), with either initial
+group, and day as potential ﬁxed effects, and coral specimen ID as a ran-              live surface area, P:SA, or wound treatment added (Table 2). That
+dom effect. To compare functional photosynthetic efﬁciency between                     these models showed reduced plausibility despite added complexity
+symbiotic states and assess possible variation among wound treatment                   suggests that these additional parameters were not informative, and
+groups, Fv/Fm values were also ﬁtted to an LME model with the same                     that the best model was that which contained only the interaction be-
+suite of candidate ﬁxed and random effects. While there was no biolog-                 tween residual tissue and symbiotic state. Final recovery was similar
+ical basis to expect differences in photosynthetic efﬁciency or approxi-               among aposymbiotic (20.04 ± 13.47%) and symbiotic corals (21.92 ±
+mated chlorophyll density among wound treatment groups, it was                         19.46%) (Fig. 3 C). However, the relative amount of residual tissue re-
+important to assess whether such variation was present and potentially                 maining in the lesion site was greater among aposymbiotic (9.52 ±
+confounding the effects of the wounding treatments themselves on                       5.33%) compared to symbiotic (7.03 ± 3.99%) colonies. As such, while
+healing or mortality.                                                                  there was no signiﬁcant difference in ﬁnal recovery between symbiotic
+    Model selection for wound recovery, Fv/Fm, and approximated chlo-                  states, the effect of residual tissue on ﬁnal recovery was signiﬁcantly
+rophyll density was based on Akaike's Information Criterion adjusted                   greater in symbiotic corals (Table 1).
+for small sample size (AICc), which balances model ﬁt against                              Mortality of the remaining colony tissue was observed to occur almost
+overparameterization. Models containing every possible combination                     exclusively on the coenenchyme rather than the polyps themselves. Mor-
+of candidate independent variables were ﬁtted and ranked according                     tality was highest early in the experimental period, though early recovery
+to AICc, using the ‘dredge’ function of the ‘MuMIn’ package, and the dif-              was greater (Figs. 3, 4). A signiﬁcant interaction between wound treat-
+ference between each model and the best model was calculated accord-                   ment and symbiotic state was observed (F(3, 30) = 3.437, p = 0.029,
+ing to                                                                                 Table 3), and post hoc Tukey comparisons indicated that the relative mor-
+                                                                                       tality of the symbiotic corals in the 50% separate wound group (29.58 ±
+Δi ¼ AICc i −AICc min :                                                      ð2Þ       26.23%) exceeded that of the symbiotic (5.68 ± 4.22%) and aposymbiotic
+                                                                                       (3.88 ± 1.57%) corals of the 25% wound group, the symbiotic corals of the
+   A Δi of 0–2 indicates “substantial” support for model ‘i’, while 4–7 is             50% adjacent wound group (4.80 ± 0.69%), and the aposymbiotic corals
+“considerably less”, and N10 is “essentially none” (Burnham and                        in the 50% separate wound group (7.95 ± 4.94) (Fig. 4 A, B). It should
+Anderson, 2002). Simultaneous Tukey pairwise comparisons were                          be noted that the large variance in the mortality of symbiotic corals in
+20                                               L. DeFilippo et al. / Journal of Experimental Marine Biology and Ecology 481 (2016) 15–24
+
+
+
+
+Fig. 3. Healing patterns in A. poculata. Mean proportion of the lesion area recovered for each wound group of (A) symbiotic A. poculata colonies, (B) aposymbiotic A. poculata colonies, and
+(C) all wound groups of symbiotic and aposymbiotic colonies combined. (D) mean surface area of new tissue by recovery type (central vs. perimeter). Error bars represent standard error
+from the mean.
+
+
+
+the 50% separate wound group (Fig. 4 A) was driven by a single individual                        model for approximated chlorophyll density included only symbiotic
+exhibiting relatively low mortality.                                                             state as a ﬁxed effect, with coral specimen as a random effect. Approxi-
+    Maximum quantum yield (Fv/Fm) values were signiﬁcantly greater                               mated chlorophyll density was signiﬁcantly greater among symbiotic
+among symbiotic A. poculata at every day on which measurements                                   A. poculata for the duration of the experiment (Fig. 5, Table 5) There
+were taken, but temporal trends differed between symbiotic states. Pat-                          was very little support (ΔAICc N 9) for all other candidate models con-
+terns in photosynthetic efﬁciency were best explained by an interaction                          sidered, including those incorporating wound treatment, day, and all
+effect between symbiotic state and day, with coral specimen as a ran-                            possible combinations of interaction and main effects (Table 2).
+dom effect (Table 4). There was little support (ΔAICc N 4) for models                                Dissection of preserved and decalciﬁed A. poculata specimens
+containing only main effects of these two parameters or symbiotic                                showed unexpectedly deep polyp penetration, extending roughly 4–
+state by itself, and essentially no support (ΔAICc N 10) for all other can-                      6 mm into the skeleton. Specimens wounded according to the same
+didate models, including those containing wound treatment and all                                protocol as those in this study were similarly dissected, revealing pre-
+other possible combinations of main and interaction effects (Table 2).                           served tissue remnants in the lesion site immediately after wounding.
+Mean Fv/Fm values across the time series were 0.61 ± 0.06 for wounded
+symbiotic A. poculata, and 0.46 ± 0.09 for wounded aposymbiotic colo-                            4. Discussion
+nies. Wounding had no effect on Fv/Fm, and the values for the control
+group averaged 0.62 ± 0.07 for symbiotic corals, and 0.45 ± 0.08 for                                 This study makes several new contributions to our understanding of
+aposymbiotic corals. For symbiotic A. poculata, Fv/Fm values on day 3                            symbiosis in the recovery and maintenance of A. poculata coral hosts.
+were signiﬁcantly greater than those taken prior to wounding, or 30                              First, the physical and temporal patterns of wound recovery in
+and 60 days after wounding (Fig. 5 C). Conversely, for aposymbiotic                              A. poculata were examined and no difference between symbiotic states
+A. poculata, Fv/Fm values taken on days 3, 15, 30, and 60 were each sig-                         in ﬁnal recovery was observed, suggesting that the absence of symbiosis
+niﬁcantly greater than those taken prior to wounding, and measure-                               does not preclude timely recovery. However, the effect of residual tissue
+ments taken on day 60 were signiﬁcantly greater than those from                                  on ﬁnal recovery was signiﬁcantly greater in symbiotic corals, suggest-
+days 3, and 30 (Fig. 5 C).                                                                       ing that photosynthetic capability is advantageous. Most importantly,
+    Mean baseline polyp color PC values for symbiotic and aposymbiotic                           previously described healing models (‘localized regeneration (LR)’, ‘col-
+A. poculata established prior to wounding were 2.84 ± 0.47, and 1.11 ±                           ony integration (CI)’, or ‘Phoenix effect (PE)’) were evaluated and the
+0.51 respectively, indicating total approximated chlorophyll concentra-                          dominance of recovery originating from within the lesion site rather
+tions of 0.46 ± 0.14 and 0.10 ± 0.06 μg cm−2. The most parsimonious                              than its perimeter suggests that A. poculata exhibited primarily PE re-
+                                                                                                 covery in this study. This suggests that the mechanism of wound recov-
+Table 1                                                                                          ery across species should be considered when using healing as a proxy
+Model summary of beta regression for central recovery with logit link function. Pseu-            for coral health, since recovery style may inﬂuence the rate and likeli-
+do-R2 = 0.555, Log-likelihood = 39.651, AICc = − 67.427. ϕ (Phi) serves as the pre-              hood of recovery.
+cision parameter of the beta density for this model. Aposymbiotic A. poculata serve as
+                                                                                                     The prevalence of PE recovery in A. poculata is likely due to two fac-
+the reference category for all effects that include symbiotic state.
+                                                                                                 tors. Firstly, the deep corallite structure provides a refuge for polyp tis-
+  Parameter                         Estimate       Std. error      z             p               sue against all but the most invasive lesioning agents. The presence of
+  Intercept (aposymbiotic)          −2.519         0.324           −7.776        b0.001          tissue remnants deep within dissected corallites immediately after
+  Symbiotic                         −0.447         0.449           −0.997         0.319          wounding strongly suggests that even the most severe natural
+  Residual tissue                   10.896         2.645            4.119        b0.001          wounding would not fully extirpate tissue from the lesion site, and
+  Symbiotic × residual tissue       11.272         4.445            2.536         0.011
+                                                                                                 that residual polyp tissue would be the main driver of tissue recovery
+  ϕ (Phi)                           15.550         3.550
+                                                                                                 in this species. Corals of the genus Porites exhibit deep tissue
+                                                 L. DeFilippo et al. / Journal of Experimental Marine Biology and Ecology 481 (2016) 15–24                                             21
+
+
+Table 2
+Model selection results for recovery (a), photosynthetic efﬁciency (b), and approximated chlorophyll density (c). Only candidate models within N10 ΔAICc are presented. For each out-
+come, models are ranked from most plausible (ΔAICc = 0) to least plausible; df is the degrees of freedom for each model.
+
+  Response variable                                Model parameters                                                                           Log likelihood           df       ΔAICc
+
+  (a) Recovery                                     Symbiotic, residual tissue, symbiotic × residual tissue                                     39.651                   5       0.00
+                                                   Symbiotic, residual tissue, symbiotic × residual tissue, initial live tissue                39.844                   6       2.45
+                                                   Symbiotic, residual tissue, symbiotic × residual tissue, P:SA                               39.722                   6       2.69
+                                                   Symbiotic, residual tissue                                                                  36.344                   4       3.95
+                                                   Symbiotic, residual tissue, symbiotic × residual tissue, initial live tissue, P:SA          40.177                   7       4.81
+                                                   Symbiotic, residual tissue, P:SA                                                            36.743                   5       5.82
+                                                   Symbiotic, residual tissue, initial live tissue                                             36.509                   5       6.28
+                                                   Symbiotic, residual tissue, symbiotic × residual tissue, wound treatment                    40.649                   8       7.09
+                                                   Symbiotic, residual tissue, initial live tissue, P:SA                                       37.381                   6       7.37
+                                                   Residual tissue                                                                             33.073                   3       7.99
+                                                   Residual tissue, P:SA                                                                       34.070                   4       8.50
+                                                   Symbiotic, residual tissue, symbiotic × residual tissue, P:SA, wound treatment              41.058                   9       9.74
+  (b) Photosynthetic efﬁciency                     Symbiotic, day, symbiotic × day                                                            287.255                  12       0.00
+                                                   Symbiotic, day                                                                             280.632                   8       4.53
+                                                   Symbiotic                                                                                  276.276                   4       4.80
+  (c) Approximated chlorophyll density             Symbiotic                                                                                  106.446                   4       0.00
+                                                   Symbiotic, day                                                                             105.878                   8       9.69
+
+
+
+penetration as well (Davies, 1991), and are also one of the only other                          A. poculata was observed to have a thin coenenchyme, often partially
+coral taxa in which PE healing has been documented (Roff et al., 2014;                          missing prior to collection or lost to varying extents during the study.
+Jokiel et al., 1993; Meesters et al., 1992), suggesting a morphological                         This observation may indicate low levels of colony integration (Soong
+basis for this healing mode that may be consistent across taxa. Second,                         and Lang, 1992), potentially impeding translocation of photosynthate
+                                                                                                to the wound site from healthy polyps as required for LR and CI healing.
+                                                                                                    Although LR is among the more common mechanisms of healing in
+                                                                                                corals (Meesters et al., 1994; Bak and Steward-Van Es, 1980; Meesters
+                                                                                                et al., 1997a; Van Woesik, 1998), in this study there was insubstantial
+                                                                                                evidence that either wound treatment or wound P:SA inﬂuenced recov-
+                                                                                                ery. This is consistent with biological expectations, as the LR hypothesis
+                                                                                                assumes that no tissue remains in the lesion site after wounding
+                                                                                                (Meesters et al., 1997a) and is predicated on the expectation that recov-
+                                                                                                ery originates from the lateral margins of the wound (Meesters et al.,
+                                                                                                1994; Bak and Steward-Van Es, 1980; Meesters et al., 1997a; Van
+                                                                                                Woesik, 1998). Our decalciﬁed and dissected colonies indicated tissue
+                                                                                                remnants in the lesion site, providing further support for a PE-driven re-
+                                                                                                covery mechanism. Moreover, the CI model also assumes that recovery
+                                                                                                originates from the lesion perimeter, which was seldom observed.
+                                                                                                    The amount of residual tissue remaining after wounding had a
+                                                                                                signiﬁcant impact on ﬁnal recovery for multiple possible reasons:
+                                                                                                (1) given equal rates of recovery, a coral with a greater amount of initial
+                                                                                                tissue has a ‘head start’ over other colonies. However, the regression co-
+                                                                                                efﬁcients for residual tissue indicate that its inﬂuence is beyond a mere
+                                                                                                additive contribution (Table 1). (2) If ‘Phoenix effect’ recovery proceeds
+                                                                                                only from residual tissue fragments, the number and size of these frag-
+                                                                                                ments may constitute a limiting factor in recovery, particularly if they
+                                                                                                depend on their own photosynthate for expansion. In both LR and CI,
+                                                                                                the energy for recovery is provided by translocation of photoassimilates
+                                                                                                from healthy polyps adjacent to, or distant from the lesion site respec-
+                                                                                                tively (Taylor, 1977; Gladfelter, 1983; Meesters et al., 1997a, 1994;
+                                                                                                Oren et al., 2001, 1997). If residual tissue fragments are isolated from
+                                                                                                the rest of the colony, they may need to provide their own energy for ex-
+                                                                                                pansion and development of differentiated structures. Residual tissue
+                                                                                                fragments were never observed bearing feeding tentacles, but they did
+                                                                                                appear to retain the normal pigmentation of the living colony, suggest-
+                                                                                                ing the continued presence of S. psygmophilum in symbiotic colonies. If
+                                                                                                photosynthesis is indeed the primary energy source for recovery, then
+
+
+                                                                                                Table 3
+                                                                                                ANOVA summary for adjusted mortality.
+
+                                                                                                  Parameter                                  df    SSE         MSE      F       p
+
+                                                                                                  Symbiotic state                             1    0.020       0.020    1.920   0.176
+Fig. 4. Tissue mortality patterns in A. poculata. Mean proportion of living tissue lost for
+                                                                                                  Wound treatment                             3    0.109       0.036    3.492   0.028
+each wound group of (A) symbiotic A. poculata colonies, (B) aposymbiotic A. poculata
+                                                                                                  Symbiotic state × wound treatment           3    0.107       0.036    3.437   0.029
+colonies, and (C) all wound groups of symbiotic and aposymbiotic colonies combined.
+                                                                                                  Residuals                                  30    0.311       0.010
+Error bars represent standard error from the mean.
+22                                              L. DeFilippo et al. / Journal of Experimental Marine Biology and Ecology 481 (2016) 15–24
+
+
+Table 4                                                                                        Table 5
+Summary of REML ﬁtted linear mixed effects model for Fv/Fm. For symbiotic state,               Summary of REML ﬁtted linear mixed effects model for chlorophyll density. The reference
+aposymbiotic corals serve as the reference category, and for day, the pre-wound measure-       category for symbiotic state is the aposymbiotic corals. Log likelihood = 106.45, AICc =
+ments serve as the reference category. Log likelihood = 287.255, AICc = −549.193. Coral        −204.69. Coral specimen was included in the model as a random effect.
+specimen was included in the model as a random effect.
+                                                                                                 Parameter                         Estimate      Std. error      t           p
+  Parameter                      Estimate       Std. error       t             p
+                                                                                                 Intercept (aposymbiotic)          0.150         0.028           5.419       b0.001
+  Intercept (aposymbiotic)        0.389         0.014            28.086        b0.001            Symbiotic                         0.281         0.039           7.153       b0.001
+  Symbiotic                       0.187         0.020             9.535        b0.001
+  Day 3                           0.064         0.018             3.477         0.006
+  Day 15                          0.079         0.018             4.326        b0.001
+  Day 30                          0.073         0.018             3.976         0.001          Rotjan and Lewis, 2005, 2008) severe hurricane damage (Woodley et al.,
+  Day 60                          0.133         0.018             7.232        b0.001          1981; Bythell et al., 1993), dynamite, and ship groundings (Riegl, 2001)
+  Symbiotic × day 3               0.026         0.026             0.998         0.320          may be less likely to illicit PE healing. Thus, the encouragingly rapid re-
+  Symbiotic × day 15             −0.025         0.026            −0.966         0.335
+  Symbiotic × day 30             −0.051         0.026            −1.972         0.05
+                                                                                               covery that Roff et al. (2014) observed in Porites after mass bleaching
+  Symbiotic × day 60             −0.124         0.026            −4.766        b0.001          may not be as likely in response to more invasive wounding agents.
+                                                                                                    The only signiﬁcant differences in relative mortality involved the
+                                                                                               symbiotic corals exposed to the 50% separate wound treatment. The
+a greater area of tissue in the wound site would achieve greater net car-                      wounding treatment itself likely contributed to the greater mortality
+bon ﬁxation than a smaller one (Jokiel and Morrissey, 1986), providing                         of this group by disrupting the living colony's integrity more extensively
+more energy for expansion and differentiation. This could also explain                         than the other lesion types (Fig. 1). While this wounding pattern was
+why symbiotic A. poculata, with their greater symbiont/chlorophyll                             designed to maximize the perimeter of living tissue in contact with
+densities (Dimond and Carrington, 2007, 2008) and photosynthetic ca-                           the wound site to potentially provide greater opportunity for recovery,
+pacity (Jacques et al., 1983), achieved more recovery per unit area of re-                     it also achieved maximal disruption of colony cohesion. Only the symbi-
+sidual tissue, even with daily ad libitum feedings to all colonies.                            otic colonies exposed to this wounding treatment suffered greater mor-
+    Previous descriptions of PE recovery have occurred in response to                          tality, adding to a small but growing body of evidence that algal
+hyposalinity (Krupp et al., 1992; Jokiel et al., 1993) and thermally in-                       symbiosis can exert an energetic demand on corals (Sachs and Wilcox,
+duced bleaching (Roff et al., 2014). Interestingly, both of these sources                      2006; Burmester and Rotjan, pers. obs.).
+of mortality are mediated by contact of the colony surface with the sur-                            As anticipated, photosynthetic efﬁciency and approximated chlo-
+rounding water, and may not impact deeper portions of the coral. By                            rophyll density were both greater among symbiotic compared to
+contrast, more invasive sources of mortality such as excavating sponges                        aposymbiotic A. poculata on all days measured. Neither parameter dif-
+(Chaves-Fonnegra and Zea, 2011), and parrotﬁsh (Bonaldo et al., 2011;                          fered among wound treatments, suggesting that the greater mortality
+
+
+
+
+Fig. 5. Photosynthetic efﬁciency and chlorophyll density in A. poculata. Mean photosynthetic efﬁciency (Fv/Fm) over time for each wound group of (A) symbiotic A. poculata colonies,
+(B) aposymbiotic A. poculata colonies, and (C) all wound groups combined for symbiotic and aposymbiotic colonies (including unwounded controls). Mean color score and
+approximated chlorophyll density over time for each wound group of (D) symbiotic A. poculata colonies, (E) aposymbiotic A. poculata colonies, and F) all wound groups combined for
+symbiotic and aposymbiotic colonies. Error bars represent standard error from the mean.
+                                        L. DeFilippo et al. / Journal of Experimental Marine Biology and Ecology 481 (2016) 15–24                                                 23
+
+
+observed among symbiotic corals of the 50% separate wound group was                    submit the article for publication. However, institutional funding
+due to the wounding pattern itself. Moreover, the consistently greater                 sources were not involved in any of the above.
+Fv/Fm values of symbiotic A. poculata indicate greater photosynthetic ca-
+pacity of PS II, further suggesting that elevated symbiont densities and               Acknowledgments
+photosynthetic yield are responsible for the greater healing capacity ob-
+served in these colonies. While chlorophyll density estimated through                      We would like to thank Tasia Blough, Katrina Malakhoff, Aaron
+polyp color cannot distinguish between changes in symbiont densities                   Pilnick, Jesse Mathews, Julio Camperio-Ciani, Georgia Luddecke and
+versus changes in the chlorophyll densities of symbionts (Warner                       Nicholas Lawrence for the assistance in data collection and aquarium
+et al., 2002; Cummings, 1983; Fitt et al., 2000), it has nonetheless                   husbandry. We also thank Jeff Chabot for programming RGB color anal-
+been demonstrated as a viable and non-destructive tool to estimate                     ysis in MATLAB, and Thomas Buehrens for the statistical advice. [SS]
+symbiosis in A. poculata (Dimond and Carrington, 2007). Because direct
+zooxanthellae counts are destructive, the in situ measurement of
+symbiont densities would have been a confounding factor, acting as a                   References
+de facto wound beyond our experimental construct. Interestingly, the                   Bak, R.P.M., Steward-Van Es, Y., 1980. Regeneration of superﬁcial damage in the
+approximated chlorophyll densities estimated in this study for both                          scleractinian corals Agaricia agaricites f. purpurea and Porites astreoides. Bull. Mar.
+symbiotic states were lower than those described by Dimond and                               Sci. 30, 883–887.
+                                                                                       Bonaldo, R.M., Krajewski, J.P., Bellwood, D.R., 2011. Relative impact of parrotﬁsh grazing
+Carrington (2007), possibly reﬂecting the effects of stress induced by                       scars on massive Porites corals at Lizard Island, Great Barrier Reef. Mar. Ecol. Prog.
+wounding and/or captivity on symbiont/pigment concentrations.                                Ser. 423, 223–233.
+                                                                                       Brown, B.E., Ambarsari, I., Warner, M.E., Fitt, W.K., Dunne, R.P., Gibb, S.W., Cummings,
+                                                                                             D.G., 1999. Diurnal changes in photochemical efﬁciency and xanthophyll concentra-
+5. Conclusions                                                                               tions in shallow water reef corals: evidence for photoinhibition and photoprotection.
+                                                                                             Coral Reefs 18, 99–105.
+                                                                                       Burnham, K.P., Anderson, D.R., 2002. Model Selection and Multimodel Inference: A Prac-
+    Symbiotic and aposymbiotic varieties of A. poculata exist sympatri-                      tical Information-theoretic Approach. Springer Science & Business Media, New York.
+cally, suggesting that both symbiotic states regularly persist in nature.              Bythell, J.C., Gladfelter, E.H., Bythell, M., 1993. Chronic and catastrophic natural mortality
+One potential advantage conferred by symbiosis is greater healing ca-                        of three common Caribbean reef corals. Coral Reefs 12, 143–152.
+                                                                                       Chaves-Fonnegra, A., Zea, S., 2011. Coral colonization by the encrusting excavating Carib-
+pacity with single wounds, regardless of size, most likely attributable                      bean sponge Cliona delitrix. Mar. Ecol. 32, 162–173.
+to increased photosynthetic yield. However, our results indicate that                  Core Team, R., 2015. R: A Language and Environment for Statistical Computing. R Founda-
+when multiple large wounds are inﬂicted, there is little impact on                           tion for Statistical Computing, Vienna, Austria.
+                                                                                       Crawley, M.J., 1983. Herbivory: The Dynamics of Animal–Plant Interactions. Blackwell Sci-
+wound size or position on recovery, and corals in both symbiotic and                         entiﬁc Publications, Oxford.
+aposymbiotic states were still able to demonstrate recovery.                           Cummings, C., 1983. The Biology of Astrangia danae PhD Dissertation University of Rhode
+    This study supports a morphological basis for PE recovery in corals,                     Island, Kingston.
+                                                                                       Davies, P.S., 1991. Effect of daylight variations on the energy budgets of shallow-water
+which can be used to predict the occurrence of this healing pattern in re-
+                                                                                             corals. Mar. Biol. 108, 137–144.
+sponse to lesions of varying invasiveness. Considering that PE recovery                Denis, V., Debreuil, J., De Palmas, S., Richard, J., Guillaume, M.M., Bruggemann, J.H., 2011.
+has been implicated in the rapid, large scale recovery of corals with                        Lesion regeneration capacities in populations of the massive coral Porites lutea at Ré-
+                                                                                             union Island: environmental correlates. Mar. Ecol. Prog. Ser. 428, 05–117.
+deep-bodied polyps, these results will have useful applications towards
+                                                                                       Dimond, J., Carrington, E., 2007. Temporal variation in the symbiosis and growth of the
+predicting the ecological consequences of disturbances for reefs, and fu-                    temperate scleractinian coral Astrangia poculata. Mar. Ecol. Prog. Ser. 348, 161–172.
+ture studies should consider the role of polyp depth in colony recovery                Dimond, J., Carrington, E., 2008. Symbiosis regulation in a facultatively symbiotic temper-
+potential. Additionally, our results indicate that different conﬁgurations                   ate coral: zooxanthellae division and expulsion. Coral Reefs 27, 601–604.
+                                                                                       Edmunds, P.J., Gates, R.D., 2003. Has coral bleaching delayed our understanding of funda-
+of the same relative lesion size can have markedly different impacts on                      mental aspects of coral–dinoﬂagellate symbioses? Bioscience 53, 976–980.
+colony health, informing the use of recovery from artiﬁcially inﬂicted                 Ferrari, S., Cribari-Neto, F., 2004. Beta regression for modelling rates and proportions.
+wounds as a proxy for coral status.                                                          J. Appl. Stat. 31, 799–815.
+                                                                                       Fisher, E.M., Fauth, J.E., Hallock-Muller, P., Woodley, C.M., 2007. Lesion regeneration rates
+                                                                                             in reef-building corals Montastraea spp. as indicators of colony condition. Mar. Ecol.
+Declared author contributions                                                                Prog. Ser. 339, 61–71.
+                                                                                       Fitt, W.K., McFarland, F.K., Warner, M.E., Chilcoat, G.C., 2000. Seasonal patterns of tissue
+                                                                                             biomass and densities of symbiotic dinoﬂagellates in reef corals and relation to
+    LD: Carried out the experiment, analyzed the images, performed the                       coral bleaching. Limnol. Oceanogr. 45, 677–685.
+statistical analyses, graphed the data, wrote the manuscript, and con-                 Gladfelter, E.H., 1983. Circulation of ﬂuids in the gastrovascular system of the reef coral
+                                                                                             Acropora cervicornis. Biol. Bull. 165, 619–636.
+tributed funding.                                                                      Glynn, P.W., Peters, E.C., Muscatine, L., 1985. Coral tissue microstructure and necrosis: re-
+    EMB: Collected specimens, collaborated in project design and imple-                      lation to catastrophic coral mortality in Panama. Dis. Aquat. Org. 1, 29–37.
+mentation, assisted with ﬁgure creation, and manuscript writing, and                   Hall, V.R., 2001. The response of Acropora hyacinthus and Montipora tuberculosa to three
+                                                                                             different types of colony damage: scraping injury, tissue mortality and breakage.
+contributed resources and funding.                                                           J. Exp. Mar. Biol. Ecol. 264, 209–223.
+    LK: Contributed useful conversations and input.                                    Harmelin, J.G., Marinopoulos, J., 1994. Population structure and partial mortality of the
+    RR: Conceived and designed the experiment, helped to perform the                         gorgonian Paramuricea clavata (Risso) in the north-western Mediterranean (France,
+                                                                                             Port-Cros Island). Mar. Life 4, 5–13.
+experiment, assisted with graphics, and manuscript writing and con-                    Holcomb, M., McCorkle, D.C., Cohen, A.L., 2010. Long-term effects of nutrient and CO2 en-
+tributed space, other resources, and funding.                                                richment on the temperate coral Astrangia poculata (Ellis and Solander, 1786). J. Exp.
+    All authors have agreed to the submission of the article and declare                     Mar. Biol. Ecol. 386, 27–33.
+                                                                                       Holcomb, M., Cohen, A.L., McCorkle, D.C., 2012. An investigation of the calciﬁcation re-
+no conﬂicts of interest.
+                                                                                             sponse of the scleractinian coral Astrangia poculata to elevated pCO2 and the effects
+                                                                                             of nutrients, zooxanthellae and gender. Biogeosciences 9, 29–39.
+                                                                                       Jackson, J.B.C., Winston, J.E., 1981. Modular growth and longevity in bryozoans. In:
+Role of the funding source                                                                   Larwood, G.P., Nielson, C. (Eds.), Recent and Fossil Bryozoa. Olsen & Olsen,
+                                                                                             Fredensborg, pp. 121–126.
+   This research was funded by a grant from the PADI Foundation                        Jacques, T.G., Pilson, M.E.Q., 1980. Experimental ecology of the temperate scleractinian
+                                                                                             coral Astrangia danae. I. Partition of respiration, photosynthesis and calciﬁcation be-
+awarded to EMB, an Undergraduate Research Grant from the Boston
+                                                                                             tween host and symbionts. Mar. Biol. 60, 167–178.
+University Marine Program awarded to LD, and a grant from the Cell Sig-                Jacques, T.G., Marshall, N., Pilson, M.E.Q., 1983. Experimental ecology of the temperate
+naling Technologies Environmental Small Grants Program awarded to                            scleractinian coral Astrangia danae. Mar. Biol. 76, 135–148.
+RR. Personnel from both Boston University and the New England Aquar-                   Jayewardene, D., 2010. Experimental determination of the cost of lesion healing on Porites
+                                                                                             compressa growth. Coral Reefs 29, 131–135.
+ium were directly involved in the study design, collection, analysis and               Jokiel, P.L., Morrissey, J.I., 1986. Inﬂuence of size on primary production in the reef coral
+interpretation of data, in writing the report, and in the decision to                        Pocillopora damicornis and the macroalga Acanthophora spicifera. Mar. Biol. 91, 15–26.
+24                                                 L. DeFilippo et al. / Journal of Experimental Marine Biology and Ecology 481 (2016) 15–24
+
+Jokiel, P.L., Hunter, C.L., Taguchi, S., Watarai, L., 1993. Ecological impact of a fresh-water    Peters, E.C., Cairns, S.D., Pilson, M.E.Q., Wells, J.W., Jaap, W.C., Lang, J.C., Vasleski, C.E., St
+    “reef kill” in Kaneohe Bay, Oahu, Hawaii. Coral Reefs 12, 177–184.                                 Pierre-Gollahon, L., 1988. Nomenclature and biology of Astrangia poculata (=A.
+Kramarsky-Winter, E., Loya, Y., 1996. Regeneration versus budding in fungiid corals: a                 danae, =A. astreiformis) (Cnidaria: Anthozoa). Proc. Biol. Soc. Wash. 101, 234–250.
+    trade-off. Mar. Ecol. Prog. Ser. 134, 179–185.                                                Riegl, B., 2001. Degradation of reef structure, coral and ﬁsh communities in the Red Sea by
+Kramarsky-Winter, E., Loya, Y., 2000. Tissue regeneration in the coral Fungia granulosa:               ship groundings and dynamite ﬁsheries. Bull. Mar. Sci. 69, 595–611.
+    the effect of extrinsic and intrinsic factors. Mar. Biol. 137, 867–873.                       Rinkevich, B., 1996. Do reproduction and regeneration in damaged corals compete for en-
+Krupp, D.A., Jokiel, P.L., Chartrand, T.S., 1992. Asexual reproduction by the solitary                 ergy allocation? Mar. Ecol. Prog. Ser. 143, 297–302.
+    Scleractinian coral Fungia scutaria on dead parent coralla in Kaneohe Bay, Oahu, Ha-          Rinkevich, B., Loya, Y., 1989. Reproduction in regenerating colonies of the coral Stylophora
+    waiian Islands. In: Richmond, B.M. (Ed.), Proceedings of the Seventh International                 pistillata. Environ. Qual. Ecos. Stab. 4, 257–265.
+    Coral Reef Symposium, Hawaii, pp. 527–534.                                                    Roff, G., Bejarano, S., Bozec, Y.M., Nugues, M., Steneck, R.S., Mumby, P.J., 2014. Porites and
+LaJeunesse, T.C., Parkinson, J.E., Reimer, J.D., 2012. A genetics-based description of                 the Phoenix effect: unprecedented recovery after a mass coral bleaching event at
+    Symbiodinium minutum sp. nov. and S. psygmophilum sp. nov. (Dinophyceae), two di-                  Rangiroa Atoll, French Polynesia. Mar. Biol. 161, 1385–1393.
+    noﬂagellates symbiotic with cnidaria. J. Phycol. 48, 1380–1391.                               Rotjan, R.D., Lewis, S.M., 2005. Selective predation by parrotﬁshes on the reef coral Porites
+Lirman, D., 2000. Lesion regeneration in the branching coral Acropora palmata: effects of              astreoides. Mar. Ecol. Prog. Ser. 305, 193–201.
+    colonization, colony size, lesion size, and lesion shape. Mar. Ecol. Prog. Ser. 197,          Rotjan, R.D., Lewis, S.M., 2008. Impact of coral predators on tropical reefs. Mar. Ecol. Prog.
+    209–215.                                                                                           Ser. 367, 73–91.
+Marsh Jr., J.A., 1970. Primary productivity of reef-building calcareous red algae. Ecology        Sachs, J.L., Wilcox, T.P., 2006. A shift to parasitism in the jellyﬁsh symbiont Symbiodinium
+    51, 255–263.                                                                                       microadriaticum. Proc. R. Soc. Lond. B Biol. Sci. 273, 425–429.
+Mascarelli, P.E., Bunkley-Williams, L., 1999. An experimental ﬁeld evaluation of healing in       Soong, K., Lang, J.C., 1992. Reproductive integration in reef corals. Biol. Bull. 183, 418–431.
+    damaged, unbleached and artiﬁcially bleached star coral, Montastraea annularis. Bull.         Szmant-Froelich, A., Pilson, M.E.Q., 1980. The effects of feeding frequency and symbiosis
+    Mar. Sci. 65, 577–586.                                                                             with zooxanthellae on the biochemical composition of Astrangia danae Milne Ed-
+Meesters, E.H., Bak, R.P.M., 1994. Effect of coral bleaching on tissue regeneration potential          wards & Haime 1849. J. Exp. Mar. Biol. Ecol. 48, 85–97.
+    and colony survival. Mar. Ecol. Prog. Ser. 96, 189–198.                                       Szmant-Froelich, A., Pilson, M.E.Q., 1984. Effects of feeding frequency and symbiosis with
+Meesters, E.H., Bos, A., Gast, G.J., 1992. Effects of sedimentation and lesion position on             zooxanthellae on nitrogen metabolism and respiration of the coral Astrangia danae.
+    coral tissue regeneration. Proceedings of the 7th International Coral Reef Symposium.              Mar. Biol. 81, 153–162.
+    Vol. 2, pp. 681–688.                                                                          Taylor, D.L., 1977. Intra-colonial transport of organic compounds and calcium in some At-
+Meesters, E.H., Noordeloos, M., Bak, R.P.M., 1994. Damage and regeneration links to coral              lantic reef corals. International Proceedings of the 3rd International Coral Reef Sym-
+    growth in the reef-building coral Montastrea annularis. Mar. Ecol. Prog. Ser. 112,                 posium. Vol. 1, pp. 431–436.
+    119–128.                                                                                      Titlyanov, E.A., Titlyanova, T.V., Chapman, D., 2008. Recovery dynamics of mechanically
+Meesters, E.H., Wesseling, I., Bak, R.P.M., 1996. Partial mortality in three species of reef-          damaged scleractinian corals of the genus Porites under different light intensities.
+    building corals and the relation with colony morphology. Bull. Mar. Sci. 58, 838–852.              Galaxea, J. Coral Reef Stud. 10, 69–76.
+Meesters, E.H., Pauchli, W., Bak, R.P.M., 1997a. Predicting regeneration of physical damage       Van Woesik, R., 1998. Lesion healing on massive Porites spp. corals. Mar. Ecol. Prog. Ser.
+    on a reef-building coral by regeneration capacity and lesion shape. Mar. Ecol. Prog.               164, 213–220.
+    Ser. 146, 91–99.                                                                              Warner, M., Chilcoat, G., McFarland, F., Fitt, W., 2002. Seasonal ﬂuctuations in the photo-
+Meesters, E.H., Wesseling, I., Bak, R.P.M., 1997b. Coral colony tissue damage in six species           synthetic capacity of photosystem II in symbiotic dinoﬂagellates in the Caribbean
+    of reef-building corals: partial mortality in relation with depth and surface area. J. Sea         reef-building coral Montastraea. Mar. Biol. 141, 31–38.
+    Res. 37, 131–144.                                                                             Woodley, J.D., Chornesky, E.A., Clifford, P.A., Jackson, J.B.C., Kaufman, L.S., Knowlton, N.,
+Meszaros, A., Bigger, C., 1999. Qualitative and quantitative study of wound healing pro-               Lang, J.C., Pearson, M.P., Porter, J.W., Rooney, M.C., Rylaarsdam, K.W., Tunnicliffe,
+    cesses in the coelenterate, Plexaurella fusifera: spatial, temporal, and environmental             V.J., Wahle, C.M., Wulff, J.L., Curtis, A.S.G., Dallmeyer, M.D., Jupp, B.P., Koehl, M.A.R.,
+    (light attenuation) inﬂuences. J. Invertebr. Pathol. 73, 321–331.                                  Neigel, J., Sides, E.M., 1981. Hurricane Allen's impact on a Jamaican coral reef. Science
+Mistri, M., Ceccherelli, V.U., 1995. Damage and partial mortality in the gorgonian                     214, 749–754.
+    Paramuricea clavata in the Strait of Messina (Tyrrhenian Sea). Mar. Life Vol. 5,
+    43–49 Marseille.
+Mitchelmore, C.L., Ringwood, A.H., Weis, V.M., 2003. Differential accumulation of cadmi-          Glossary
+    um and changes in glutathione levels as a function of symbiotic state in the sea anem-
+    one Anthopleura elegantissima. J. Exp. Mar. Biol. Ecol. 284, 71–85.                           Polyp: Genetically identical functional units that make up the feeding portion of a living
+Oren, U., Rinkevich, B., Loya, Y., 1997. Oriented intra-colonial transport of super (14) C la-    coral colony. Consists of a stalk terminating in an oral disk surrounded by a ring of
+    beled materials during coral regeneration. Mar. Ecol. Prog. Ser. 161, 117–122.                tentacles.
+Oren, U., Benayahu, Y., Lubinevsky, H., Loya, Y., 2001. Colony integration during regener-        Coenenchyme: The tissue layer found in between the polyps of the living coral animal.
+    ation in the stony coral Favia favus. Ecology 82, 802–813.                                    Corallite: Walled cup-like units of the coral skeleton in which the polyps are seated.
+Peters, E.C., Pilson, M.E.Q., 1985. A comparative study of the effects of sedimentation on        Septa: Vertical blades arranged radially in the corallite.
+    symbiotic and asymbiotic colonies of the coral Astrangiadanae Milne Edwards and               Mesenteries: Thin folds of tissue found within the polyp.
+    Haime 1849. J. Exp. Mar. Biol. Ecol. 92, 215–230.
+

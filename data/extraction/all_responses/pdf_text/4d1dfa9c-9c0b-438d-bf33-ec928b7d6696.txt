@@ -1,0 +1,431 @@
+Fast Growth May Impair Regeneration Capacity in the
+Branching Coral Acropora muricata
+Vianney Denis1,2*¤a, Mireille M. M. Guillaume2,1,3, Madeleine Goutx4,5, Stéphane de Palmas1¤a,
+Julien Debreuil1¤b, Andrew C. Baker6, Roxane K. Boonstra6, J. Henrich Bruggemann1,3
+1 Laboratoire d’Ecologie Marine – FRE 3560 CNRS, Université de La Réunion, Saint-Denis, La Réunion, France, 2 Département Milieux et Peuplements Aquatiques, UMR
+CNRS-MNHN-UPMC-IRD BOrEA, Muséum National d’Histoire Naturelle, Paris, France, 3 Laboratoire d’Excellence ‘CORAIL,’ Perpignan, France, 4 Aix-Marseille Université,
+CNRS/INSU, IRD, Mediterranean Institute of Oceanography (MIO), UM 110, Marseille, France, 5 Université de Toulon, CNRS/INSU, IRD, Mediterranean Institute of
+Oceanography (MIO), UM 110, La Garde, France, 6 Division of Marine Biology and Fisheries, Rosenstiel School of Marine and Atmospheric Science, University of Miami,
+Miami, Florida, United States of America
+
+
+
+     Abstract
+     Regeneration of artificially induced lesions was monitored in nubbins of the branching coral Acropora muricata at two reef-
+     flat sites representing contrasting environments at Réunion Island (21u079S, 55u329E). Growth of these injured nubbins was
+     examined in parallel, and compared to controls. Biochemical compositions of the holobiont and the zooxanthellae density
+     were determined at the onset of the experiment, and the photosynthetic efficiency (Fv/Fm) of zooxanthellae was monitored
+     during the experiment. Acropora muricata rapidly regenerated small lesions, but regeneration rates significantly differed
+     between sites. At the sheltered site characterized by high temperatures, temperature variations, and irradiance levels,
+     regeneration took 192 days on average. At the exposed site, characterized by steadier temperatures and lower irradiation,
+     nubbins demonstrated fast lesion repair (81 days), slower growth, lower zooxanthellae density, chlorophyll a concentration
+     and lipid content than at the former site. A trade-off between growth and regeneration rates was evident here. High growth
+     rates seem to impair regeneration capacity. We show that environmental conditions conducive to high zooxanthellae
+     densities in corals are related to fast skeletal growth but also to reduced lesion regeneration rates. We hypothesize that a
+     lowered regenerative capacity may be related to limited availability of energetic and cellular resources, consequences of
+     coral holobionts operating at high levels of photosynthesis and associated growth.
+
+  Citation: Denis V, Guillaume MMM, Goutx M, de Palmas S, Debreuil J, et al. (2013) Fast Growth May Impair Regeneration Capacity in the Branching Coral Acropora
+  muricata. PLoS ONE 8(8): e72618. doi:10.1371/journal.pone.0072618
+  Editor: Benjamin Ruttenberg, California Polytechnic State University, United States of America
+  Received April 2, 2013; Accepted July 12, 2013; Published August 30, 2013
+  Copyright: ! 2013 Denis et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+  unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+  Funding: A PhD fellowship to VD and a research grant to JHB and MMMG (ITUE program) were provided by the Regional Council of Réunion Island. CNRS-INSU
+  and MIO financially support this collaborative work. VD is currently the recipient of a postdoctoral fellowship from the National Science Council of Taiwan. The
+  funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+  Competing Interests: The authors have declared that no competing interests exist.
+  * E-mail: vianney.denis@gmail.com
+  ¤a Current address: Coral Lab, Biodiversity Research Center, Academia Sinica, Taipei, Taiwan
+  ¤b Current address: Centre Scientifique de Monaco, Monaco
+
+
+
+Introduction                                                                          resources among units [10,11], to which polyps proximal to the
+                                                                                      damaged area contribute the most [14,17]. Lesion regenerative
+   Disturbances from multiple biotic and abiotic factors cause                        capacity varies with the lesion size and shape [18–20], colony
+recurring losses of living tissues from coral colonies [1] and may                    morphology and species (see review in [21]), and environmental
+result in sporadic severe reductions of living corals at the reef scale               conditions [8,22]. Also, coral colony growth is known to vary with
+[2]. A colony’s integrity is maintained through rapid tissue repair                   these parameters (e.g. in [23–25]). While trade-offs between colony
+[3], while regrowth from surviving colony parts greatly accelerates                   growth and lesion repair were documented at the level of
+the recovery of damaged reefs [4] and may even reverse coral-                         individual colonies [17], high skeletal extension rates are generally
+algal phase shifts [5]. Thus, the growth and regenerative capacities                  associated with an efficient lesion-repair capacity (see review in
+of corals are fundamental to determining the resilience of reefs                      [21]). Hence, fast-growing branching corals have higher lesion
+[5,6] and are often used as indicators of coral colony condition and                  regeneration rates with full recovery [26] compared to more-
+generalized to define a reef’s health status [7,8].                                   slowly growing massive corals [17].
+   Coral colony growth and regeneration are likely closely related                       The present study was designed to investigate the lesion
+processes, involving calcification and tissue extension [9]. Repair                   regenerative capacity of the branching coral Acropora muricata at
+of damaged colony parts (hereafter defined as ‘lesions’) requires                     Réunion Island in contrasting natural environments. An earlier
+energy [10] and interstitial cells [11–13] and competes for these                     study on this species revealed a trade-off between regeneration and
+limited resources with other essential biological processes, such as                  growth, and indicated that they were independent of size [27]. We
+growth [14], reproduction [15], disease resistance, and competitive                   further investigated relationships between skeletal growth and
+ability [16]. Lesion regeneration is facilitated by the clonal                        lesion regeneration by monitoring both processes in experimental
+architecture of corals, enabling the transport and reallocation of                    coral nubbins on two reef flats, Planch’Alizé and Kiosque, selected
+
+
+PLOS ONE | www.plosone.org                                                        1                               August 2013 | Volume 8 | Issue 8 | e72618
+                                                                                                    Growth and Regeneration in Acropora muricata
+
+
+for their contrasting environmental conditions that induced strong            experiments. On March 8, 2008, 5 replicate nubbins from each
+differences in coral growth rates. We not only show that coral                colony were randomly selected, and artificial circular lesions of
+growth is inversely related to the rate of lesion repair, but also that       11.560.6 mm in diameter and 3 mm in depth were inflicted using
+high coral growth rates may harm regeneration capacity in A.                  a grinding stone at mid-height on the side of each branch,
+muricata. We suggest that rapid coral growth, promoted by a high              removing all traces of living tissue. Particular care was taken to
+zooxanthellae density and high photosynthetic efficiency, com-                induce lesions of a constant size and depth. Nubbins were then left
+promised their capacity to invest energy and cellular resources in            to heal at their respective native sites.
+lesion repair. We hypothesize that maintaining coral-symbiont                    The surface area of lesions and projected vertical surface area of
+functioning under conditions that boost zooxanthellae densities               nubbins were monitored until April 30, 2008 and quantified with
+and their photosynthetic rate implies their sequestering of an                CPCe software [32] from digital photographs taken with a camera
+important share of host resources. This may particularly involve              mounted on a support (in order to maintain a constant distance to
+the use of the energy-rich photosynthetic compounds produced by               the sample) equipped with a scale. The monitoring frequency was
+the Symbiodinium.                                                             adjusted to the rate of regeneration.
+                                                                                 The relative mass increase (% d21) of nubbins was calculated
+Methods                                                                       from the difference between the initial and final projected nubbin
+                                                                              surface area multiplied by the mean site-specific skeletal density,
+Ethics Statement                                                              divided by the duration of the experiment. The calcification rate,
+  This experiment was conducted and corals were sampled with                  or mass of CaCO3 deposited per unit area per day (g cm22 d21),
+permission granted by the Réserve Naturelle Marine de la                     was estimated for each nubbin as the product of its linear
+Réunion. All survey procedures carried out were done with                    extension and skeletal density. The skeletal density (g cm23) of
+proper precautions to minimize impacts to the reefs.                          nubbins was calculated as the dry weight-to-volume ratio,
+                                                                              following Bucher et al. [33]. The volume was determined by
+Study Area and Species                                                        dipping nubbins in molten paraffin wax to form a water-tight
+   Experiments were conducted on the west coast of Réunion                   barrier and determining their buoyant mass in distilled water at
+Island (21u079S, 55u329E) at two shallow (1,2 m deep) reef-flat               20uC.
+sites 11 km apart from each other: Planch’Alizé and Kiosque. At                 The remaining undamaged nubbins (9 or 10 per colony) were
+each site, the seawater surface temperature (SST) was measured at             used as controls, and their growth (relative increases in the
+hourly intervals using calibrated underwater temperature loggers              buoyant mass and surface area) was monitored simultaneously.
+(Hobo Water Temp Pro, with an accuracy of 0.2uC, Onset
+Computer Corp., USA). Solar radiation (J cm22) data were
+obtained from the French Meteorological Service on land at
+                                                                              Photosynthetic Efficiency, Symbiodinium Identification,
+station close to each site (stations no. 97415590 and 97413545).              Density of Zooxanthellae, and Biochemical Composition
+   Situated at the la Saline reef, Planch’Alizé is a sheltered site,         of Holobionts
+located downstream of seawater flowing over the 500-m-wide reef                  The photosynthetic efficiency of nubbins was quantified using
+flat. Low water flow and high solar radiation contribute to heating           the maximum dark-adapted quantum yield, Fv/Fm (Fv is the
+the reef water during the day, inducing important daily SST                   difference between F0, the initial fluorescence, and Fm, the
+variations (Fig. 1a) and higher average SSTs compared to the                  maximum fluorescence [34]). Measurements were made with a
+second site. In contrast, Kiosque is an exposed site located at the           diving-PAM (Walz, Germany) at night, 1 h after sunset in order to
+Saint-Leu reef; waves impinging on the narrow reef flat (200 m                maximize the frequency of open photosystem II reaction centres,
+wide) induce strong water motion and an influx of coastal water               using a custom-built nubbin holder to ensure a constant probe
+that reduces daily SST fluctuations (Fig. 1b). Moreover, solar                distance and measurement location. Following diving-PAM
+radiation at this site is often tempered due to cloud formation               settings were used along the experiment: saturating intensity = 8,
+along the steep slopes above the Saint-Leu reef, especially during            saturating width = 0.6, gain = 4, damping = 2. On injured nubbins,
+the hot season. Further details of environmental conditions at                Fv/Fm was assessed at each monitoring time, about 2 cm away
+these study sites can be found in [22].                                       from the lesion borders. Fv/Fm of control nubbins was determined
+   The branching coral A. muricata (Linnaeus, 1758), senior                   at the beginning, half-way, and end of the experiment.
+synonym of A. formosa [28], is a dominant species of Réunion                    For 3 of the 5 colonies per site, 1 undamaged nubbin was
+reef-flat coral communities and a common species in the Indo-                 sampled before the beginning of the experiment (February 28,
+Pacific region [28]. At Planch’Alizé, this species often co-occurs           2008), snap frozen in liquid nitrogen and stored at 280uC.
+with Montipora circumvallata and Porites (Synaraea) rus, forming large        Genomic DNA was then extracted from a subsample using a
+thickets. At this site, benthic communities comprise a high                   QiagenH Blood and Tissue Kit (Santa Clarita, CA, USA). The
+proportion of dead corals covered by algal turfs (,30% in 2008,               internal transcribed spacer (ITS)-2 region of Symbiodinium ribo-
+data from GCRMN monitoring). This site is further characterized               somal (r) DNA was amplified using the primers ‘‘ITSintfor2’’ and
+by nutrient enrichment originating from N-rich groundwater                    ‘‘ITS2revclamp’’ [35] under the following conditions: an initial
+seepage near the shore [29]. At Kiosque, coral diversity is higher,           denaturing step of 94uC for 3 min followed by 35 cycles of 1 min
+but the density of A. muricata is lower than at Planch’Alizé [30,31].        at 94uC, 1 min at 58uC, and 1 min at 74uC, followed by a single
+                                                                              cycle of 7 min at 74uC. Amplified DNA was then analyzed by
+Sample Preparation and Monitoring of Lesion                                   denaturing gradient gel electrophoresis (DGGE; CBS Scientific,
+Regeneration and Growth                                                       Del Mar, CA, USA) using a denaturant gradient of 35% to 75%.
+   At each site, 15 nubbins (7 cm long) were sampled from each of             Prominent bands characterizing different profiles were excised, re-
+5 haphazardly selected A. muricata colonies separated by .10 m in             amplified, and sequenced as described by LaJeunesse [36].
+distance. Nubbins were glued onto numbered acrylic glass tiles,               Sequences were identified using BLAST searches of GenBank,
+mounted on racks positioned in a representative area at each                  and exact matches were reported using the nomenclature
+native reef flat site, and left to recover for 2 months prior to the          established by LaJeunesse [35].
+
+
+PLOS ONE | www.plosone.org                                                2                           August 2013 | Volume 8 | Issue 8 | e72618
+                                                                                                  Growth and Regeneration in Acropora muricata
+
+
+
+
+Figure 1. Environmental conditions. Daily average sea surface temperature (SST; 6 SD, gray area) and cumulative daily solar radiation during the
+experimental period at (a) Planch’Alizé and (b) Kiosque.
+doi:10.1371/journal.pone.0072618.g001
+
+   Tissues were removed from the skeleton using a dental jet                  Conformity with parametric assumptions was visually assessed
+(Waterpik Technologies, Fort Collins, CO, US) with recycled                from residual plots. A potential site difference in the initial lesion
+freshly filtered seawater [37], and the obtained coral blastate was        size was tested using a 1-way analysis of variance (ANOVA).
+homogenized with a potter homogenizer (5 min, 2000 rpm).                   Possible effects of the initial lesion size on the regression slopes
+Zooxanthellae densities were determined from an aliquot of the             were analyzed using an analysis of covariance (ANCOVA) with
+homogenate by first separating zooxanthellae from host tissue by           the initial lesion size as the co-variable. A site difference in model
+centrifugation, suspension, and homogenization of the pellet in            slopes was investigated using an ANOVA, with ‘‘colony’’ as the
+2 mL of a formalin solution (5%). Zooxanthellae were then                  random factor. For each site, mean slopes were used to simulate
+counted in 5 subsamples (0.2 mm3 each) using a hemocytometer at            regeneration during 300 days. The difference in relative growth
+4006magnification. The chlorophyll (Chl) a concentration was               between sites and treatments was compared using a 2-way
+determined by spectrometric absorbance at 664 nm [38]. The                 ANOVA, and Tukey’s honest significant difference (HSD) test
+protein concentration was determined from 0.1 mL of homoge-                was used for post-hoc comparisons.
+nate following a modified protocol [39] of the Lowry method [40],             Welch’s t-test was used to compare biochemical properties of
+using the Folin reagent with phenol and bovine serum albumin as            nubbins between sites at the onset of the lesion regeneration
+standards. Finally, total lipids were extracted using a monophasic         experiment. As a parametric assumption could not be met, non-
+solvent mixture (CH2Cl2: CH3OH: H2O; 1:2: 0.8 v/v/v) [41]                  parametric Mann-Whitney U-test was used to compare Fv/Fm of
+with 100 mL of an internal standard (hexadecanone, GC grade,               injured and control nubbins at the beginning, middle, and end of
+Sigma Chemical, St. Louis, MO, USA) during 12 h at 4uC.                    the experiment, and was also used to assess site differences in Fv/
+CH2Cl2 and H2O (1:1 v/v) were added to the supernatant to                  Fm of injured nubbins. Friedman’s ANOVA was used to test
+create a biphasic mixture. The organic (dichloromethane) phase             temporal variations in Fv/Fm, where values obtained from the
+was collected in glass bottles with Teflon caps, evaporated under          same nubbin over time were considered dependent. Results are
+nitrogen, and stored under a nitrogen atmosphere at 220uC until            presented as the mean 6 standard deviation (SD).
+being analyzed. The total lipid content was then determined using
+thin-layer chromatography coupled with flame-ionization detec-             Results
+tion (TLC-FID) on an Iatroscan apparatus model MK6-s (with
+hydrogen flow of 160 mL min21 and air flow of 2000 mL min21)                  Acropora muricata nubbins were consistently associated with C3
+and an i-Chromstar 6.1 integration system (SCPA, Bremen,                   Symbiodinium. Corals from the sheltered site Planch’Alizé were
+                                                                           characterized by a higher zooxanthellae density, Chl a concen-
+Germany).
+                                                                           tration, and total lipid content, but also not significant lower tissue
+                                                                           biomass and protein content compared to those from the exposed
+Statistical Analysis                                                       site Kiosque (Table 1).
+  Regeneration of each nubbin was quantified by fitting the                   The initial lesion size was 104611 mm2 (n = 48) and did not
+remaining lesion size (%) over time using a least-squared                  differ between sites (F1,47 = 2.21, p.0.05) or colonies (F9,39 = 1.98,
+regression and an exponential decay model, allowing full recovery          p.0.05). Two nubbins at Kiosque died before the onset of
+[20]. We used the following formula:                                       regeneration monitoring; these were not included in the analysis.
+                                                                           There was no mortality of nubbins during the experimental
+                       size~sizereg |e(slope|t)                            period. The lesion size decreased rapidly over time (Fig. 2). After
+                                                                           53 days, lesions in nubbins at Kiosque were at 3% of their initial
+where size is the remaining lesion size (%), sizereg is the maximum        size, while those in nubbins at Planch’Alizé were still at 24% of
+area that can be fully regenerated, slope is the regression slope,         their initial size. Based on the outcomes of the exponential decay
+and t is the time in days. Since there is no natural logarithm for 0       model, lesions healed completely after on average 81 days at
+(when a lesion is completely healed), +1 was added to the                  Kiosque and 192 days at Planch’Alizé (Fig. 3). Regression slopes
+remaining lesion size for the calculations.                                significantly differed between Planch’Alizé (20.02460.012,
+
+
+PLOS ONE | www.plosone.org                                             3                            August 2013 | Volume 8 | Issue 8 | e72618
+                                                                                                     Growth and Regeneration in Acropora muricata
+
+
+
+ Table 1. Biochemical properties of nubbins of Acropora
+ muricata at the onset of the lesion regeneration experiment.
+
+
+ Parameter                                 Planch’Alizé   Kiosque
+
+ Tissue biomass (mg dry weight cm22)       3.27 (60.49)    4.13 (60.83)
+ Zooxanthellae density (106 cells cm22)*   2.11 (60.08)    1.85 (60.60)
+ Chl a concentration (mg cm22)**           9.68 (61.88)    8.74 (62.09)
+ Protein content (mg cm22)                 1.99 (60.19)    2.30 (60.34)
+ Total lipids in holobiont (mg C cm22)*    0.81 (60.26)    0.51 (60.10)
+
+ *p,0.05;
+ **p,0.01;
+ ***p,0.001.
+ doi:10.1371/journal.pone.0072618.t001
+
+
+n = 25) and Kiosque (20.05760.017, n = 23; F1,8 = 32.89,
+p,0.001, inset in Fig. 3), and the difference was not related to
+colony (F8,38 = 2.17, p.0.05) or initial lesion size (F1,43 = 1.79,
+p.0.05). Increases in the relative surface area of nubbins (Fig. 4)
+varied with site (F1,142 = 121.04, p,0.001) and treatment
+(F1,142 = 25.10, p,0.001), with a significant interaction term                Figure 3. Lesion regeneration of Acropora muricata. Predicted size
+observed between the two factors (F1,142 = 7.15, p,0.01).                     of artificial lesions over time in nubbins at Planch’Alizé and Kiosque
+   At Kiosque, the calcification rates of the injured nubbins were            according to slopes estimated from the regeneration model (inset).
+lower than that of the controls (p,0.001), and rates of calcification         doi:10.1371/journal.pone.0072618.g003
+and lesion regeneration were negatively correlated (R2 = 0.532,
+p,0.001; Fig. 5). At Planch’Alizé, no difference in growth was               Preponderance of autotrophic energy sources in A. muricata at this
+observed between injured and control nubbins (p = 0.3). At this               site is further reflected in the high lipid and low protein content of
+latter site, lesion regeneration rates were slow and not related to           the nubbins. Indeed, lipids are mainly derived from excess carbon
+growth (Fig. 5).                                                              fixed by zooxanthellae [43]. Due to its sheltered location and high
+   Fv/Fm values of injured and control nubbins were respectively              irradiance, stressful conditions for corals may also be expected to
+0.67760.016 (n = 25) and 0.68460.021 (n = 50) at Planch’Alizé,               occur frequently here (Fig. 1a). Lipids represent important energy
+and 0.68260.020 (n = 23) and 0.69060.016 (n = 50) at Kiosque.                 at reserves during stressful periods [44], and integrated symbionts-
+Fv/Fm did not significantly differ between sites or treatments                host lipogenesis is considered as a photoprotective mechanism
+(Mann-Whitney U-tests, p.0.05), and no significant temporal                   during periods of excess irradiance [45].
+variation was observed for injured nubbins (Planch’Alizé:                       At Kiosque, the tissue biomass of nubbins tended to be higher
+X2 = 9.64, p.0.05, df = 6; Kiosque: X2 = 6.82, p.0.05, df = 6).               than at Planch’Alizé, although the difference was not significant.
+                                                                              Higher tissue biomass may reflect the opportunities corals have for
+Discussion                                                                    heterotrophic feeding (see review in [46]). The exposed site
+   While the existence of a trade-off between growth and                      Kiosque, which receives a regular influx of coastal water, provides
+regeneration was clearly identified for some coral species [17], it           this advantage and allows corals to maintain vital processes during
+is not known whether this relationship varies with environmental              periods when photosynthetic function is compromised. In an
+conditions. Here, we identified that a specific environment                   earlier study on the lesion regeneration in massive corals at same
+conducive to high zooxanthellae densities in coral tissues may                sites, the potential importance of heterotrophic feeding at Kiosque
+favour growth regardless of damage to the colony.                             reef flat during the summer season [22] was already highlighted.
+   Environmental conditions at Planch’Alizé, including low water                While the contrasted light and temperature regimes between
+flow, high mean SST and high SST variation, combined with                     Planch’Alizé and Kiosque were expected to affect the photosyn-
+nutrient enrichment from N-rich groundwater seepage [29], likely              thetic efficiency in corals, Fv/Fm values measured in A. muricata
+boost zooxanthellae densities and chlorophyll concentrations [42].            nubbins did not differ between these sites. Furthermore, lesion
+
+
+
+
+Figure 2. Acropora muricata. Lesion regeneration pattern at Kiosque, almost completely healed after 53 days. Scale bar = 5 mm.
+doi:10.1371/journal.pone.0072618.g002
+
+
+PLOS ONE | www.plosone.org                                                4                            August 2013 | Volume 8 | Issue 8 | e72618
+                                                                                                     Growth and Regeneration in Acropora muricata
+
+
+
+
+Figure 4. Growth of Acropora muricata. The mean (6 SD) relative
+increase in the projected surface area (% d21) of control and injured         Figure 5. Calcification and lesion healing of Acropora muricata.
+nubbins by site.                                                              Relationship between calcification rates and lesion healing for injured
+doi:10.1371/journal.pone.0072618.g004                                         nubbins from Planch’Alizé and Kiosque.
+                                                                              doi:10.1371/journal.pone.0072618.g005
+infliction did not affect Fv/Fm values in nubbins, in spite of the
+stress this likely represents. High Fv/Fm values were maintained              lesion infliction and may be driven by a high supply of
+throughout the experiment. Measured photosynthetic efficiencies               photosynthetic products from zooxanthellae. Indeed, a previous
+were higher than those of A. muricata nubbins from the Great                  study suggested the stimulating role of photosynthesis on
+Barrier Reef kept at a non-stressful temperature [47]. This further           calcification induced by nutrient enrichment at this site [41].
+suggests that specific environmental conditions at Planch’Alizé did          Whereas the lesion regenerations rates at Planch’Alizé were slower
+not impair the photosynthesis of A. muricata at this site and may not         and not related to growth, at Kiosque both the reduced skeletal
+have been stressful for nubbins there. Differences in the                     growth of injured lesions compared to controls and the negative
+photosynthetic efficiency may also be related to differences in               relationship between calcification and lesion regeneration rates
+zooxanthellae genotypes [48]. However, while in Chagos Archi-                 suggest competition for limited resources between these vital
+pelago, A. muricata is commonly associated with C1-Symbiodinium               processes. While a high lesion regeneration rate is generally
+[49], on the Great Barrier Reef, C3-Symbiodinium is the predom-               assumed in fast-growing corals [21], our observations suggest that
+inant subclade present in Acropora spp. [50,51] as identified here.           environmental conditions that promote fast skeletal growth may
+   Homogeneity of lesion sizes avoids an important confounding                compromise rather than boost the lesion regeneration capacity.
+factor that complicates drawing viable inferences about the                   This observation may help explain the paradox that while fast
+regeneration capacity of corals under different environmental                 growing corals such as Acropora spp. are capable of fast tissue
+conditions [19]. Lesion size in A. muricata decreased exponentially           regeneration [5,14,53], they may nevertheless be prone to
+over time, which corresponds to the common pattern observed for               substantial partial mortality in their natural environment [54,55].
+corals [14,17,20]. Despite significantly lower skeletal growth at                 Energetic reserves such as lipids are considered to uphold vital
+Kiosque, the mean time required for complete lesion healing was               life processes [43]. Despite A. muricata nubbins from Planch’Alizé
+shorter here (81 days) than at Planch’Alizé (192 days). This result is       having high lipid content, they regenerated lesions slowly. Tissue
+remarkable because it contradicts the general positive relationship           biomass of nubbins may be a better predictor of the regenerative
+found between coral growth and lesion repair ability (see review in           capacity, as nubbins from Kiosque showed both high tissue
+[21]). Most studies on lesion regeneration in corals have used                biomass and fast regeneration. Essential resources required for
+massive species (see review in [21]), and only a few studies on               lesion regeneration not only involve energy but also interstitial
+Acropora spp. are available to compare the slopes of the exponential          cells, which are shared among different life functions, including
+decay model obtained here. Slopes observed at Planch’Alizé were              reproduction, growth, repair [11,56] and mucus production. The
+higher than those of the Caribbean A. palmata regenerating similar-           trade-off between growth and lesion regeneration observed in
+sized lesions (20.04060.007 [52]), indicating a lower regenerative            nubbins from Kiosque complement this view. Very high skeletal
+capacity than that for this flattened branching coral. In contrast,           extension rates, as observed in nubbins from Planch’Alizé may
+the very steep slopes obtained for A. muricata nubbins at Kiosque             exert an important drain on interstitial cell availability for tissue
+attest to favourable environmental conditions for coral regenera-             repair and may compromise a coral’s regenerative capacity. As
+tion at this exposed site.                                                    proposed by Rinkevich [12], the availability (or depletion) of stem
+   Vigorous skeletal growth, both in terms of linear extension and            cells will ultimately control observed trade-offs among life-history
+calcification, of nubbins from Planch’Alizé was not affected by              traits, which are independent of energy availability.
+
+
+PLOS ONE | www.plosone.org                                                5                            August 2013 | Volume 8 | Issue 8 | e72618
+                                                                                                                                  Growth and Regeneration in Acropora muricata
+
+
+   The fact that corals living with high zooxanthellae densities                                     repair in A. muricata at this site during the same hot and warming
+under high irradiation levels require more photosynthetically                                        seasons.
+derived energy to maintain the stability of this symbiosis may                                          An understanding of key processes of corals is critical to
+provide an alternative explanation for the reduced regeneration                                      appreciating the divergent population trajectories after exposure to
+capacity of nubbins at Planch’Alizé. While CO2-concentrating                                        disturbances [60]. Our results suggest that the path to recovery
+mechanisms are highly energy consuming, they may play an                                             (growth, regeneration, etc.) may strongly differ according to local
+essential role in preventing CO2 limitation of zooxanthellae and its                                 environmental conditions. Such conditions need to be taken into
+deleterious consequences for both photosystem II and the coral                                       account when assuming the resilience capacities of coral reefs
+host [57]. Such energetic demands could interfere with lesion                                        exposed to increasing levels of disturbances.
+regeneration. At Planch’Alizé, where environmental conditions
+boost zooxanthellae densities alongside with high photosynthetic                                     Acknowledgments
+and calcification rates, our results suggest that growth demands
+have priority over other life processes. At Kiosque, where                                           We thank members of ECOMAR laboratory and MIO for their help and
+zooxanthellae densities, light levels and photosynthetic demands                                     comments on this manuscript, and staff members of the Réserve Naturelle
+are lower, corals show the expected trade-off between growth and                                     Marine de la Réunion for assistance in sample collection. We are also
+                                                                                                     grateful to Allen Chen (Academia Sinica) for his suggestions to improve this
+regeneration rates.
+                                                                                                     manuscript. Meteo France kindly provided solar radiation data.
+   Eventually, competition with organisms (such as algae or
+microbes) that settle inside lesions may hamper lesion regeneration
+as an energetically costly mechanism [58]. Chronic nutrient                                          Author Contributions
+enrichment at Planch’Alizé reef flats favours particularly the                                      Conceived and designed the experiments: VD MMMG JHB. Performed
+development of benthic algae, especially during the hot rainy                                        the experiments: VD SdP JD RKB. Analyzed the data: VD MMMG MG
+season [27,59]. We suggest that this chronic disturbance contrib-                                    ACB JHB. Contributed reagents/materials/analysis tools: MMMG MG
+uted to the seasonal impairment of the lesion regenerative capacity                                  ACB JHB. Wrote the paper: VD MMMG JHB.
+of P. lutea [22] and may also have contributed to the slower lesion
+
+References
+ 1. Bythell JC, Gladfelter EH, Bythell M (1993) Chronic and catastrophic natural                     19. Oren U, Benayahu Y, Loya Y (1997) Effect of lesion size and shape on
+    mortality of three common Caribbean reef corals. Coral Reefs 12: 143–152.                            regeneration of the Red Sea coral Favia favus. Mar Ecol Prog Ser 146: 101–107.
+ 2. Connell JH (1997) Disturbance and recovery of coral assemblages. Coral reefs                     20. van Woesik R (1998) Lesion healing on massive Porites spp. corals. Mar Ecol Prog
+    16: 101–113.                                                                                         Ser 164: 213–220.
+ 3. Bak RPM, Steward-Van Es Y (1980) Regeneration of superficial damage in the                       21. Henry LA, Hart M (2005) Regeneration from injury and resource allocation in
+    scleractinian corals Agaricia agaricites f. purpurea and Porites astreoides. B Mar Sci 30:           sponges and corals–a review. Int Rev Hydrobiol 90: 125–158. doi:10.1002/
+    883–887.                                                                                             iroh.200410759.
+ 4. Jones RJ (2008) Coral bleaching, bleaching-induced mortality, and the adaptive                   22. Denis V, Debreuil J, de Palmas S, Richard J, Guillaume MMM, et al. (2011)
+    significance of the bleaching response. Mar Biol 154: 65–80. doi:10.1007/                            Lesion regeneration capacities in populations of the massive coral Porites lutea at
+    s00227-007-0900-0.                                                                                   Réunion Island: environmental correlates. Mar Ecol Prog Ser 428: 105–117.
+ 5. Diaz-Pulido G, McCook LJ, Dove S, Berkelmans R, Roff G, et al. (2009) Doom                           doi:10.3354/meps09060.
+    and boom on a resilient reef: climate change, algal overgrowth and coral                         23. Scoffin TP, Tudhope AW, Brown BE, Chansang H, Cheeney RF (1992)
+    recovery. PLoS One 4: e5239. doi:10.1371/jourbal.pone.0005239.                                       Patterns and possible environmental control of skeletogenesis of Porites lutea,
+ 6. Crabbe MJC (2009) Scleractinian coral population size structures and growth                          South Thailand. Coral Reefs 11: 1–11.
+    rates indicate coral resilience on the fringing reefs of North Jamaica. Mar                      24. Harriott (1999) Coral growth in subtropical eastern Australia. Coral Reefs 18:
+    Environ Res 67: 189–198. doi:10.1016/j.marenvres.2009.01.003.                                        281–291.
+ 7. Guzman HM, Burns KA, Jackson JBC (1994) Injury, regeneration and growth                          25. Lough JM, Barnes DJ (2000) Environmental controls on growth of the massive
+    of Caribbean reef corals after a major oil spill in Panama. Mar Ecol Prog Ser                        coral Porites. J Exp Mar Biol Ecol 254: 225–243.
+    105: 231–241.                                                                                    26. Hall VR (1997) Interspecific differences in the regeneration of artificial injuries
+ 8. Fisher EM, Fauth JE, Hallock P, Woodley CM (2007) Lesion regeneration rates                          on scleractinian corals. J Exp Mar Biol Ecol 212: 9–23.
+    in reef-building corals Montastraea spp. as indicators of colony condition. Mar                  27. Okubo N (2008) Size-independent investment allocation to regeneration and
+    Ecol Prog Ser 339: 61–71.                                                                            growth of the branching coral Acropora muricata. Galaxea 10: 83–87.
+ 9. Lester RT, Bak RPM (1985) Effect of environment on regeneration of tissue                        28. Wallace C (1999) Staghorn corals of the world: a revision of the coral genus
+    lesions in the reef coral Montastrea annularis (Scleractinia). Mar Ecol Prog Ser 24:                 Acropora. Collingwood: CSIRO. 421 p.
+    183–185.                                                                                         29. Mioche D, Cuet P (1999) Métabolisme du carbone, des carbonates et des sels
+10. Oren U, Rinkevich B, Loya Y (1997) Oriented intra-colonial transport of 14C                          nutritifs en saison chaude, sur un récif frangeant soumis à une pression
+    labeled materials during coral regeneration. Mar Ecol Prog Ser 161: 117–122.                         anthropique (ı̂le de la Réunion, océan Indien). CR Acad Sci II a 329: 53–59.
+11. Fine M, Oren U, Loya Y (2002) Bleaching effect on regeneration and resource                      30. Bruggemann H, Guillaume M, Bigot L, Chabanet P, Denis V, et al. (2008) Mise
+    translocation in the coral Oculina patagonica. Mar Ecol Prog Ser 234: 119–125.                       en oeuvre de l’effet réserve: développement des protocoles et établissement de
+12. Rinkevich B (1996) Do reproduction and regeneration in damaged corals                                l’état initial de la Réserve Naturelle Nationale Marine de la Réunion (secteurs de
+    compete for energy allocation? Mar Ecol Prog Ser 143: 297–302.                                       la Saline–Souris Blanche et de Saint-Leu). 74 pp, Annexes 42 pp.
+13. Brickner I, Oren U, Frank U, Loya Y (2006) Energy integration between the                        31. Naim O (2006) The structure of coral reef benthic communities at Saint-Gilles la
+    solitary polyps of the clonal coral Lobophyllia corymbosa. J Exp Biol 209: 1690–                     Saline in 1987 (Réunion, Mascarene Archipelago, SW Indian Ocean). J Nat 18:
+    1695. doi:10.1242/jeb.02168.                                                                         13–31.
+14. Bak RPM (1983) Neoplasia, regeneration and growth in the reef-building coral                     32. Kohler KE, Gill SM (2006) Coral Point Count with Excel extensions (CPCe): A
+    Acropora palmata. Mar Biol 77: 221–227.                                                              Visual Basic program for the determination of coral and substrate coverage
+15. Veghel MLJ, Bak RPM (1994) Reproductive characteristics of the polymorphic                           using random point count methodology. Comp Geosci 32: 1259–1269.
+    Caribbean reef building coral, Montastrea annularis. III. Reproduction in damaged                    doi:10.1016/j.cageo.2005.11.009.
+    and regenerating colonies. Mar Ecol Prog Ser 109: 229–233.                                       33. Bucher DJ, Harriott VJ, Roberts LG (1998) Skeletal micro-density, porosity and
+16. Bak RPM, Criens SR (1981) Survival after fragmentation of colonies of Madracis                       bulk density of acroporid corals. J Exp Mar Biol Ecol 228: 117–136.
+    mirabilis, Acropora palmata and A. cervicornis (Scleractinia) and the subsequent                 34. Maxwell K, Johnson GN (2000) Chlorophyll fluorescence–a practical guide.
+    impact of a coral disease. Proc 4th Int Coral Reef Symp 2: 221–227.                                  J Exp Bot 51: 659.
+17. Meesters EH, Noordeloos M, Bak RPM (1994) Damage and regeneration: links                         35. LaJeunesse TC (2001) Investigating the biodiversity, ecology, and phylogeny of
+    to growth in the reef-building coral Montastrea annularis. Mar Ecol Prog Ser 112:                    endosymbiotic dinoflagellates in the genus Symbiodinium using the ITS region: in
+    119–128.                                                                                             search of a ‘‘species’’ level marker. J Phycol 37: 866–880. doi:10.1046/j.1529-
+18. Meesters EH, Wesseling I, Bak RPM (1997) Coral colony tissue damage in six                           8817.2001.01031.x.
+    species of reef-building corals: partial mortality in relation with depth and                    36. LaJeunesse TC (2002) Diversity and community structure of symbiotic
+    surface area. J Sea Res 37: 131–144.                                                                 dinoflagellates from Caribbean coral reefs. Mar Biol 141: 387–400.
+
+
+
+PLOS ONE | www.plosone.org                                                                       6                                  August 2013 | Volume 8 | Issue 8 | e72618
+                                                                                                                        Growth and Regeneration in Acropora muricata
+
+
+37. Johannes RE, Wiebe WJ (1970) Method for determination of coral tissue                       species in the Chagos Archipelago, central Indian Ocean. PLoS ONE 7: e35836.
+    biomass and composition. Limnol Oceanogr 15: 822–824.                                       doi:10.1371/journal.pone.0035836.
+38. Jeffrey SW, Humphrey GF (1975) New spectrophotometric equations for                     50. LaJeunesse TC, Loh WKW, van Woesik R, Hoegh-Guldberg O, Schmidt GW,
+    determining chlorophylls a, b, c1 and c2 in higher plants, algae and natural                et al. (2003) Low symbiont diversity in southern Great Barrier Reef corals,
+    phytoplankton. Biochem Physiol Pfl 167: 1–194.                                              relative to those of the Caribbean. Limnol Oceanogr 48: 2046–2054. doi:
+39. Markwell MAK, Haas SM, Bieber LL, Tolbert NE (1978) A modification of the                   10.4319/lo.2003.48.5.2046.
+    Lowry procedure to simplify protein determination in membrane and                       51. LaJeunesse TC, Bhagooli R, Hidaka M, deVantier L, Done T, et al. (2004)
+    lipoprotein samples. Anal Biochem 87: 206–210.                                              Closely related Symbiodinium spp. differ in relative dominance across environ-
+40. Lowry OH, Rosebrough NJ, Farr AL, Randall RJ (1951) Protein measurement                     mental, latitudinal and biogeographic gradients. Mar Ecol Prog Ser 284: 147–
+    with the Folin phenol reagent. J Biol Chem 193: 265–275.                                    161.
+41. Bligh EG, Dyer WJ (1959) A rapid method of total lipid extraction and                   52. Lirman D (2000) Lesion regeneration in the branching coral Acropora palmata:
+    purification. Can J Biochem Phys 37: 911–917.                                               effects of colonization, colony size, lesion size, and lesion shape. Mar Ecol Prog
+42. Chauvin A, Denis V, Cuet P (2011) Is the response of coral calcification to                 Ser 197: 209–215.
+    seawater calcification related to nutrient loading? Coral Reefs 30: 911–923. doi:       53. Meesters EH, Bos A, Gast (1992) Effects of sedimentation and lesion position on
+    10.1007/s00338-011-0786-7.                                                                  coral tissue regeneration. Proc 7th Int Coral Reef Symp 2: 671–678.
+43. Muscatine L, Cernichiari E (1969) Assimilation of photosynthetic products of            54. Meesters EH, Wesseling I, Bak RP (1996) Partial mortality in three species of
+    zooxanthellae by a reef coral. Biol Bull 137: 506–523.                                      reef-building corals and the relation with colony morphology. Bull Mar Sci 58:
+44. Grottoli AG, Rodrigues LJ, Palardy JE (2006) Heterotrophic plasticity and                   838–852.
+    resilience in bleached corals. Nature 440: 1186–1189. doi:10.1038/na-                   55. Pratchett MS, Pisapia C, Sheppard CRC (2013) Background mortality rates for
+    ture04565.                                                                                  recovering populations of Acropora cytherea in the Chagos Archipelago, central
+45. Wooldridge SA (2009) A new conceptual model for the enhanced release of                     Indian Ocean. Mar Environ Res 86: 29–34. doi: 10.1016/j.mar-
+    mucus in symbiotic reef corals during «bleaching» conditions. Mar Ecol Prog                 envres.2013.02.007.
+    Ser 396: 145–152. doi:10.3354/meps08310.                                                56. Kramarsky-Winter E, Loya Y (2000) Tissue regeneration in the coral Fungia
+46. Houlbrèque F, Ferrier-Pagès C (2009) Heterotrophy in tropical scleractinian               granulosa: the effect of extrinsic and intrinsic factors. Mar Biol 137: 867–873.
+    corals. Biol Rev 84: 1–17. doi:10.1111/j.1469-185X.2008.00058.x.                        57. Wooldridge SA (2010) Is the coral algae symbiosis really ‘mutually beneficial’ for
+47. Middlebrook R, Anthony KR, Hoegh-Guldberg O, Dove S (2010) Heating rate                     the partners? BioEssays 32: 615–625. doi:10.1002/bies.200900182.
+    and symbiont productivity are key factors determining thermal stress in the reef-       58. Titlyanov EA, Titlyanova TV (2008) Coral-algal competition on damaged reefs.
+    building coral Acropora formosa. J Exp Biol 213: 1026–1034. doi:10.1242/                    Russ J Mar Biol 34: 199–219. doi: 10.1134/S1063074008040019.
+    jeb.031633.                                                                             59. Naim O (1993) Seasonal responses of a fringing reef community to
+48. Fisher P (2006) Investigating the photo-physiology of Symbiodinium sub-clades and           eutrophication (Reunion Island, Western Indian Ocean). Mar Ecol Prog Ser
+    its relationship to coral bleaching. PhD thesis, Centre for Marine Studies,                 99: 137–151.
+    University of Queensland, Brisbane, Australia.                                          60. van Woesik R, Jordán-Garza AG (2011) Coral populations in a rapidly changing
+49. Yang SY, Keshavmurthy S, Obura D, Sheppard CRC, Visram S, et al. (2012)                     environment. J Exp Mar Biol Ecol 408: 11–20. doi:10.1016/
+    Diversity and distribution of Symbiodinium associated with seven common coral               j.jembe.2011.07.022.
+
+
+
+
+PLOS ONE | www.plosone.org                                                              7                                 August 2013 | Volume 8 | Issue 8 | e72618
+

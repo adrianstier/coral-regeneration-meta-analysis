@@ -54,62 +54,49 @@ It then assigns each paper to one of these buckets:
 - `exclude_scope`: outside the meta-analysis scope
 - `exclude_review`: review/methods paper, not a primary-data study
 
-## Historical Snapshot
+## Current Generated Snapshot
 
-From the rebuilt manifest before final adjudication:
+From `pipeline/PRISMA_COUNTS.md` and `pipeline/PIPELINE_QA_REPORT.md` after final adjudication:
 
-- 156 canonical paper records
-- 128 NotebookLM sources
-- 151 local PDFs
-- 123 records matched across both NotebookLM and local PDFs
-- 104 records already have at least one audit verdict
-- 16 records still have conflicting audits
+- 156 adjudicated full-text records
+- 128 NotebookLM-covered records
+- 152 local PDFs under `literature/`
+- 76 primary quantitative records
+- 20 mechanism-only records
+- 20 primary records ready for table/text extraction
+- 56 primary records needing figure/table digitization
+- 0 primary records missing a local PDF
+- 0 folder placements currently needing review
 
-Bucket counts:
+Final status counts:
 
-- `include_primary`: 16
-- `include_primary_needs_fulltext`: 12
-- `include_primary_conflicted`: 10
-- `include_mechanism_only`: 10
-- `review_fulltext_needed`: 43
-- `review_needed`: 55
-- `exclude_scope`: 7
-- `exclude_review`: 3
+- `duplicate_alias`: 6
+- `exclude_review`: 8
+- `exclude_scope`: 46
+- `include_mechanism_only`: 20
+- `include_primary`: 76
 
-Response-variable coverage among currently tagged candidates:
+Response-variable coverage:
 
-- `rate`: 54
-- `growth`: 22
-- `mechanism`: 13
-- `survival`: 9
-- `reproduction`: 6
+- `rate`: 57
+- `growth`: 30
+- `mechanism`: 32
+- `survival`: 27
+- `reproduction`: 7
 
-## Historical Immediate Implications
+## Current Implications
 
 - Do not use the old `data/screening/SCREENING_LOG.csv` for screening decisions.
-- Do not trust current folder placement by itself.
-- Use `data/screening/SCREENING_LOG_V2.csv` as the working manifest during manifest rebuilds only.
-- Use `data/screening/SCREENING_REVIEW_QUEUE.csv` to prioritize manual adjudication during manifest rebuilds only.
+- Do not use folder placement by itself as screening truth.
+- Treat `data/screening/SCREENING_LOG_V2.csv` and `data/screening/SCREENING_REVIEW_QUEUE.csv` as historical rebuild artifacts only.
+- Use `pipeline/EXTRACTION_WORKPLAN.csv` for the current response-level extraction queue.
+- Use `digitization/source_review/FIGURE_QUEUE_AUDIT_STATUS.csv` and `digitization/figures/FIGURE_CROP_MANIFEST.csv` for current figure/table clipping and crop-review work.
 
-Examples of papers currently misfiled in `META_ANALYSIS_POOL` but tagged as hard excludes:
+## Current Recommended Next Step
 
-- `Ayling - 1983 ... DEMOSPONGIAE ...`
-- `Barton et al. - 2017 ... review ...`
-- `Henry and Hart - 2005 ... Review`
+After any screening edit, rebuild the generated outputs, then resolve digitization work in this order:
 
-Examples of papers currently sitting in excluded folders but still needing review:
-
-- `Bruckner et al. - 2000 ...`
-- `Fox et al. - 2019 ...`
-- `Glynn et al. - 2025 ...`
-
-## Historical Recommended Next Step
-
-Work down `data/screening/SCREENING_REVIEW_QUEUE.csv` and adjudicate the papers in this order:
-
-1. `include_primary_conflicted`
-2. `include_primary_needs_fulltext`
-3. `review_fulltext_needed`
-4. `review_needed`
-
-After that, extraction tables should be rebuilt from the cleaned manifest rather than from the current folder structure.
+1. Re-check rows marked `no_valid_candidate_found` and record final extractability decisions.
+2. Human-QA crop proposals before digitizing or transcribing values.
+3. Run `python3 tools/audit_figure_indexing.py` after any crop or digitized-data path is promoted.
+4. Fill legacy extraction provenance before pooling existing extraction rows.

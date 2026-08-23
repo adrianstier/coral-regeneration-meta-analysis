@@ -1,0 +1,367 @@
+                                                                                                       l
+                                                    MARINE ECOLOGY PROGRESS SERIES
+    Vol. 121: 203-209, 1995                                                                            1     Published May 25
+                                                            Mar Ecol Prog Ser
+                                                                                                       I
+
+
+
+
+      Age-related deterioration of a physiological
+   function in the branching coral Acropora palmata
+                                               Erik H. ~ e e s t e r s ' ,Rolf P. M. ~ a k ' v ~ l *
+              'Institute of Systematics and Population Biology, PO Box 94766, 1090 GT Amsterdam, The Netherlands
+                  etherla lands Institute for Sea Research (NIOZ), PO Box 59, 1790 AB Den Burg, The Netherlands
+
+
+
+
+               ABSTRACT: Regeneration potential of the branching coral Acropora palmata (Lamarck, 1816) was
+               assessed at distances of 3, 12, and 66 cm from the branch tip. Artificial lesions (colony surface wounds)
+               were made on 3 randomly selected branches of 21 colonies and regeneration was followed over 30 d.
+               Regeneration was measured as tissue regrowth (mm2d - ' ) durlng the first 6 d of regeneration and as the
+               slope of a n exponential regression of lesion surface area through time. Both measurements showed that
+               regenerative potential could be fitted to a n exponential function, decreasing from tip to base. Regener-
+               ation capability decreases rapidly in the first 25 cm from the distal end and only slowly beyond. This
+               decrease in regeneration capability appears to be related to polyp age and constitutes the first report of
+               potent~alsenescence in corals. There are direct consequences for population dynamlcs in this branch-
+               ing Acropora species. Invasion of lesions by excavating sponges will occur more In proximal portions of
+               the colony because the slow regeneration potential in this area results in long-term skeletal exposure.
+               This may promote the fragmentation of branches with a length sufficient to ensure a high survivorship
+
+               KEY WORDS: Regenerdtion . Modular organisms Corals . Ecology . Damage . Age                 Senescence .
+               Growth . Scleractinia
+
+
+
+
+                         INTRODUCTION                                     branching corals do not appear to be strongly commit-
+                                                                          ted to their bases (Highsmith et al. 1980).The potential
+   Corals are basically modular organisms (sensu                          for breakage is high in arborescent corals because
+Chapman 1981), every module (i.e. polyp) in a coral                       branches grow rap~dlyin length, are produced in large
+colony having the same potential for any physiological                    numbers, and break readily as a result of biological
+function. However, in some coral species parts of                         and physical disturbances. If branches do not break as
+colonies appear to be able to differentiate, becoming                     a result of disturbances because they may ultimately
+functionally distinct from the rest of the colony. For                    break of their own weight (Maragos 1972, Bak 1976).
+instance, parts are more sensitive to mortality (Tunni-                   Breaking of branches, fragmentation, is very common
+cliffe 1978, 1981) or have a higher fecundity (Harrison                   in branching corals and probably evolved as a n adap-
+& Wallace 1990, Soong & Lang 1992, Van Veghel &                           tation to high energy environments (Highsmith 1982).
+Kahmann 1994).                                                            Dead parts on arborescent colonies are readily
+   Functional separation of colony parts appears to be                    infected by boring sponges that weaken the skeletal
+most developed in branching corals (Soong & Lang                          structure (Tunnicliffe 1978. Gladfelter 1982). Tunni-
+1992). Jackson (1979) postulated that branching, tree-                    cliffe (1978) proposed that excavations by boring
+like morphologies of clonal organisms must have a                         sponges may promote fragmentation in the coral Acro-
+strong commitment to their limited areas of attachment                    pora cervicornis and aid in its asexual reproduction.
+(e.g. defence structures on proximal parts). However,                       The detachment of branches during disturbances
+                                                                          may constitute the primary mode of reproduction and
+                                                                          distribution for Acropora palmata (Highsmith et al.
+'Addressee for correspondence (at NIOZ)                                   1980, Highsmith 1982), and, in a study on the origin of
+
+O Inter-Research 1995
+Resale of full article not p e r m ~ t t e d
+204                                            Mar Ecol Prog Ser
+
+
+
+
+A. palmata colonies, Highsmith (1982) found an aver-               the maximum area that will be regenerated. S,,,,, plus
+a g e of 69% asexually denved colonies. Survival of A.             S, make up the initial lesion surface area.
+palmata fragments increases with branch length                        Because differences in init~alesion area and lesion
+(Highsmith et al. 1980). Bak (1983) showed that A.                 depth can affect regeneration rate (Bak & Steward-van
+palmata has a high capability to regenerate and heal               Es 1980, Meesters unpubl.), the 3 groups of lesions (3,
+damage compared to non-branching species. Frag-                     12, and 66 cm from branch tlp) were tested for differ-
+mentatlon and regeneration thus appear to be deeply                ences in these parameters by a l-way ANOVA.
+integrated within the life history of this species.                   The assumptions underlying the statistical analyses
+   In this paper w e show intra-colony differences in a            were assessed by graphical methods (Wilkinson 1989).
+physiological function, namely regeneration, to be                 If necessary, data were transformed (logarithmically)
+linked with polyp a g e in the branching coral Acropora            and means reported as geometric means with 95%
+palmata. These differences may affect colony frag-                 confidence limits.
+mentation patterns a n d promote breakage of branches
+after having reached a certain length.
+                                                                                           RESULTS
+
+              MATERIALS AND METHODS                                                Initial lesion parameters
+
+   A total of 21 colonies of the branching species Acro-              Mean lesion surface area and lesion depth, directly
+ pora palmata (Lamarck) were haphazardly selected on               after lesion infliction, did not differ between the 3
+ the fringing reef in front of the Curaqao Seaquarium at           groups of 3, 12, and 66 cm from branch tip (l-way
+ 2 to 4 m depth. Curacao is part of the Netherlands                ANOVA, p = 0.64 a n d p = 0.49 for, respectively, surface
+ Antilles a n d is situated in the southern Caribbean. At          area and depth). Overall, mean lesion surface area and
+ each colony, 3 branches were randomly chosen. Each                lesion depth (SE in parentheses, n = 21) were respec-
+ branch received a single lesion at approximately 3, 12,           tively 159.4 mm2 (5.5)and 1.90 mm (0.11).
+ or 66 cm from the tip of the branch. In most branches,
+ 66 cm was close to the base of the branch a n d the base
+ of the colony. Lesions were made with a submersible                            Visual aspects of regeneration
+ pneumatic drill powered by a SCUBA tank and
+ equipped with a small grinding point that created                    The 2 groups of lesions closest to the top of the branch
+ cylindrical patches of scraped skeleton of approxi-                started their regeneration with the formation of a very
+ mately 1 cm diameter and 2 mm depth. Lesion area                   thin transparent veneer of undifferentiated tissue,
+ was measured with a Plexiglas ruler divided into 2 mm              which was almost invisible during the first week
+ squares. At the start of the experiment lesion depth               (Fig. 1A).Apparently no calcification was talung place.
+was measured with calipers to calculate the surface                 During this phase the new tissue was transparent and
+area of the lesion wall. This area was included in the              appeared completely white because of the underlying
+estimation of the total lesion area. All lesions were              white skeleton and the lack of zooxanthellae. At the end
+made within 3 h on November 7 , 1991.                              of the first week filamentous algae could be observed to
+   Regeneration of the different groups of lesions was             have settled on the bare unrecovered skeleton (Fig. 1B).
+analysed by a randomized blocks design followed by                 In the second week the new tissue layer grew thicker,
+pairwise comparisons by the Tukey HSD test (Sokal &                polyp outlines, small polyps, and calices emerged,
+Rohlf 1981). As dependent variables w e used (1)                   and the new tissue started to develop pigmentation
+regeneration rate, i.e. area recovered (mm2d - l ) during          (Fig. 1C). Orientation of the new polyps was distinct
+the first 6 d (sensu Meesters & Bak 1993) and (2) the              from that of the surrounding polyps and appeared rather
+regression slope describing the regeneration process               random. This random aspect however disappeared, and
+(Bak 1983, Meesters et al. 1992, Meesters & Bak 1993).             after 1 to 2 mo any trace of lesions had disappeared.
+Regression slopes were calculated by a non-linear line                Proximal lesions regenerated very differently. Tis-
+fitting program. Because regeneration slows down                   sue, polyps, and skeleton were formed simultaneously,
+over time, lesions do not always close completely. Ini-            but much more slowly than In the distal lesions. There
+tially intrinsic a n d later extrinsic factors, such as settle-    was no quick expansion of tissue, but a slow growth
+ment of organisms in the lesions, can be responsible.              inwards from the boundaries of the lesion. Often a
+Lesion surface area (S)is best described by the model              thick pigmented lip would develop at the edge and
+Lesion Size = S, + [S,,,,, X 1 0 ~ ~ ' ~ p ]~ ' ~ "
+                                              (Meesters
+                                                    ~ ' ' et al.   start growing inwards. This new pigmented tlssue was
+1994).This model simply states that lesion surface area            lighter in colour than the undamaged tissue surround-
+decreases exponentially to a n asymptote (S,). S,,,,, is           ing the lesion.
+                                Meesters & Bak: Senescence and regeneration in Acropora palrnata
+
+
+
+
+Fig. 1.Acropora palmata. Regeneration of a lesion, situated close to the tip of a branch, in progress from top left to bottom right.
+(A) Directly after lesion infliction small skeletal remains are still visible. ( B ) After 1 w k lesion has been covered completely by a
+thin veneer of new tissue. Two tufts of filamentous algae are still protruding through the new tlssue. (C) Halfway through the sec-
+ond week outlines of new polyps emerge. New tissue layer appears more solid. (D) After 2 wk formation of new polyps almost
+                                                 finished. Lesions flush with skeleton
+
+
+                    Lesion regeneration
+
+                    Lesion surface area
+
+  Lesion regeneration of Acropora paln~ata was also
+quantitatively, in terms of regenerated area, different
+at different places on colony branches (Fig. 2 ) . Within
+1 wk, 33% of the lesions nearest the tips of branches
+had been closed. After 12 d percentages of closed
+lesions were 62, 29, a n d 0 for respectively distal, mid-
+dle, and proximal treatments (Test of independence;
+C = 24.1, df = 2, p < 0.0001). At the end of the experi-
+ment (30 d) all l e s ~ o n swere completely closed, except
+for 33 % of the proximal lesions, which were still open.
+                                                                                 0              10                 20         30
+                                                                                                     Time (days)
+
+                     Regeneration rate                                Fig. 2. Acropora palrnata. Regeneration of lesions at 3, 12, and
+                                                                      66 cm from branch tip. Mean lesion surface area (95% confi-
+                                                                      dence limits) measured at time intervals during regeneration
+  During the first week the decrease in lesion area was               (n = 21) Lines show the average regression line as calculated
+very fast (Fig. 2). The mean area recovered per day                         with a non-linear line-fitting program (see Table 1)
+    206                                                     Mar Ecol Prog Ser 121. 203-209. 1995
+
+
+
+
+                        3         12       h6
+                  Distance from branch tip (cm)                                                   Distance from branch tip (cm)
+
+    Fig. 3. Acropora palrnata. Initial regeneration             Fig. 4. Acropora palmata. Regeneration potential expressed as (A) regenera-
+    rates of lesions. Mean daily growth of tissue               tion rate and (B) regression slope, as a function of distance from branch tip.
+    from the lesion boundaries inwards during                   Values are means and 95% confidence limits (n = 21 for each data point).
+    the first 6 d after lesion infliction. Lesions at 3,        Mean slope is geometric mean. Regressions: Mean area d-' = 28.8 -
+    12, and 66 cm from branch tip. Vertical lines               6.875 loglo(Distance),r2 = 0.34, p < 0.00001; mean slope = -0.323 ~ i s t a n c e - ' ~ ' ~ ,
+            indicate 95 % confidence limits                                                   r2 = 0.43, p < 0.00001
+
+
+
+    during the first 6 d showed that regeneration rates                            completely) is slightly negative. S,,, (maximum lesion
+    increased toward the tip of the branch (Fig. 3). Regen-                        that will be regenerated completely) is larger than the
+    eration was fast for lesions closest to the branch tip,                        average initial lesion area of 159.4 mm2.
+    slow for lesions furthest from the tip, and intermediate                         Mean regression slopes of the regeneration at the 3
+    for the middle group. The mean regeneration rates dif-                         distances differed significantly (p < 0.01 for all pair-
+    fered significantly (p < 0.01 for all pairwise compar-                         wise comparisons, Tukey HSD test). The slope was
+    isons except 3 cm vs 12 cm where p = 0.012, Tukey                              steepest (fastest regeneration) for the lesions at 3 cm
+    HSD test). On average, tissue in the lesions had regen-                        from the tip, intermediate for the lesions at 12 cm, and
+    erated at approximately 20.5 mm2d-' after the first 6 d.                       least steep in the lesions at 66 cm from the branch tip.
+
+
+                Regeneration regression coefficients                                                   Regeneration gradient
+
+   The exponential model used to describe regenera-                Both regression parameters (coefficients and rates)
+tion proved to be a close approximation to the actual           decreased from distal to proximal over branches of
+regeneration process (Fig. 2, Table 1).                         Acropora palmata (Fig. 4). The calculated regression
+  The estimated parameters (Table 1) indicate that              lines, which are highly significant, describe regenera-
+Acroporapalmata is probably able to regenerate lesions          tion at any distance from the branch tip. The graphs
+larger than those made in this study. S, (the asymptotic        indicate an extremely high potential for regeneration
+lesion surface area resulting if lesions do not regenerate      close to the tip of the branch. This capacity decreases
+                                                                       very rapidly within the first 25 cm. Beyond that
+                                                                       the regeneration potential appears to change
+Table 1. Acropora palmata Regression parameters for lesions 3, 12      much more slowly.
+and 66 cm from branch t ~ p .Results of non-linear fitting of les~onslzes
+to the model: Les~onSlze = S , c [S,,,,, X 10~":"~"""'"' 1. Medns are
+       based on parameters for each individual lesion (n = 21)
+                                                                                                                DISCUSSION
+I                                                                                  1
+     Distance           S,,.                 %,X                   -Slope
+       (cm)         (95'Y. CL)           (951; CL)               (95 CL)"
+                                                                    "19
+                                                                                            All of our experimental data show regenera-
+                                                                                         tion capability to decrease rapidly, from tip to
+           3       1 . 3 (*1.03)        164.3 (i6.2)         0.213 (0.170/0.267)         base, along branches of Acropora palmata. The
+          12       -2.9 (+2.40)         160.1 ( i 5 . 6 )    0.127 (0.095/0.170)         inevitable quest,on is, does this gradient in
+          66       -3.3 ( ~ 8 . 3 0 )   162.3 ( i 9 . 2 )    0.065 (0.050/0.085)
+                                                                                         regeneration arise from extra- or intra-colony
+I dGeometricmean                                                                   I     causes? And, subsequently, what are the ecolog-
+                                                                                         ical consequences?
+                            Meesters & Bak: Senescence and regeneration in Acropora palnldts                      207
+
+
+
+
+               Potential external causes                      regeneration of young polyps is very fast and regener-
+                                                              ation capacity decreases rapidly during the first 2 to
+   Environmental conditions are known to differ inside        3 yr of polyp life (approximately 18 to 24 cm linear
+branched colonies, e.g. light and nutrient availability       growth). This means (see Fig. 4 ) that regeneration
+(Chamberlain & Graus 1975).In the present study irra-         rates at the branch tip should even be higher than
+diance could not have been limiting because all lesions       those measured at 3 cm from the tip. Regeneration of
+were situated on the upperside of branches, without           damaged branch tips has been observed to occur
+any shadowing. Chamberlai & Graus (1975) found less           within 1 d (E.H.M. pers. obs.). Rapid regeneration of
+food availability inside tightly branched colonies.           young polyps in new colonies would also be an effec-
+However, branching in the Acropora palmata colonies           tive strategy to cope with the high mortality experi-
+of our study was not very dense and branches were not         enced by juvenile colonies (Connell 1973, Bak & Engel
+fused into dense stands. The highly exposed location of       1979) Tissue in basal regions of colonies of A. palnlata
+the experimental colonies, at 2 to 3 m depth, facing          appears more vulnerable and less vigorous than at
+incoming waves, also precludes food limitation as a           branch ends. Gladfelter (1982) observed that the white
+possible reason for the regeneration gradients. More-         band disease progresses from proximal to distal, possi-
+over, because the number of branches and branch ori-          bly indicating a higher vulnerability of the older parts
+entation differed substantially between our experi-           of the colony.
+mental colonies, any environmental effect that is                Clonal organisms theoretically have indeterminate
+related to those factors, would have produced regener-        growth, and senescence, a breakdown in the efficiency
+ation rates of proximal lesions that varied much more         of functioning of an organism with age, appears to be
+than those found in this study (Table 1).                     almost absent in clonal plants (Harper 1977). However,
+                                                              senescence of the modules of clonal growth, mostly
+                                                              involving proximal margins, has been reported many
+               Potential internal causes                      times (e.g. Watt 1947, Kershaw 1962). Palumbi & Jack-
+                                                              son (1983) reported senescence in the bryozoan Ste-
+                 Physiological effects                        ginoporella sp. Their conclusion was partly based on
+                                                              results that indicated loss of regenerative potential in
+  The observed gradient in regenerative potential is          proximal regions. Distal regions of the bryozoan grew
+very steep at the tip of the branch, decreasing only          vigorously and had high overgrowth ability, while
+very slowly beyond the distal 25 cm. This immediately         proximal regions slowly deteriorated. Higher mortality
+implies a relation of regeneration to the main centers of     of proximal parts of colonies, rapid distal growth, and
+growth in branching corals, i.e. the branch ends.             high overgrowth ability of distal parts have also been
+Regeneration is known to reduce growth, indicating            observed in Acropora spp. (Bak & Criens 1981, Tunni-
+that energy supplies are limited (Bak 1983, Meesters et       cliffe 1981), but these were not regarded as signs of
+al. 1994).The vigorous growth (linear extension) of the       senescence. Also, new branches do not develop in
+zooxanthellae-free branch ends in Acropora primata            older parts of the colony, but only at the growing
+requires the mobilisation of energy from the tissue           branch tips or in new tissue that is formed when
+containing zooxanthellae (Pearse & Muscatine 1971,            branches fracture (authors' pers. obs.). The regenera-
+Fang et al. 1989).This tissue often appears not to pro-       tion data presented here, combined with the character-
+duce gametes (Harrison & Wallace 1990, Soong & Lang           istics on growth, mortality, and competitive ability,
+1992). Very likely mobilised energy is easily re-             indicate that senescence occurs in older sections in
+allocated to another energy-demanding process, such           coral colonies.
+as regeneration. This may explain the observed gradi-
+ent. The availability of mobilised energy probably de-
+creases very rapidly from branch tip to branch base.                               Fragmentation
+
+                                                                The possible adaptive significance of partial senes-
+                                                              cence in Acropora palmata may lie in the promotion of
+                                                              fragmentation. Fragmentation and dispersal of frag-
+  Most polyps at 66 cm from the tip will be approxi-          ments that have a high chance of survival will increase
+mately 7 yr older than polyps at 3 cm from the tip,           the species' chances of a successful rapid invasion of
+assuming continual growth of branch end (Bak 1983).           new space in the same area (Highsmith 1982). Frag-
+The directional growth of Acropora palmata branches           mentation will also decrease the possibility of food and
+creates an age gradient with mostly young polyps at           light limitation within the colony (Chamberlain &
+the tip and mostly old polyps at the base. Apparently,        Graus 1975). Slow regeneration at the base of the
+                                              Mar Ecol Prog Ser 121: 203-209, 1995
+
+
+
+
+branch increases the chances of infection by boring               Bak RPM, Criens SR (1981) Survival after fragmentation
+sponges. Sponge excavations weaken the skeleton                       of colonies of M a d r a n s mirabilis, Acropora palmata and
+                                                                      A. cervicornis (Scleractinia) and the subsequent impact
+substantially (Chamberlain 1978, Tunnicliffe 1978).
+                                                                      of a coral disease. Proc 4th int Symp Coral Reefs 2:
+Gladfelter (1982) noticed that excavating sponges                     221 -227
+became increasingly prevalent in dead parts of older              Bak RPM, Engel MS (1979) Distribution, abundance and sur-
+branches. After infection the branch will continue to                 vival of juvenile hermatypic corals (Scleractinia) and the
+grow while its strength will decrease where the                       Importance of life-history strategies in the parent coral
+                                                                      community. Mar Blol 54:341-352
+sponge is excavating the skeleton: at the proximal end.           Bak RPM, Steward-van Es Y (1980) Regeneration of superfi-
+Fragmentation will occur at some stage, probably as a                 cial damage in the scleractinian corals Agaricia agaricites
+result of physical disturbance, and the fragment is                  f. purpurea and Porites astreoides. Bull mar Sci 30:
+likely to be in a size class that will have a high chance             883-887
+                                                                  Chamberlain JA J r (1978) Mechanical properties of coral
+of survival.
+                                                                      skeleton: compressive strength and ~ t sadaptive signifi-
+   Highsmith et al. (1980) showed that fragment sur-                  cance. Paleob~ology4;419-435
+vival of Acropora palmata branches is dependent on                Chamberlain JA Jr, Graus RR (1975) Water flow and hydro-
+branch length. However, after a certain length the                   mechanical adaptations of branched reef corals. Bull mar
+chances of survival no longer increase (Fig. 4 in High-              Sci 25:112-125
+                                                                  Chapman G (1981) Individuality and modular organisms. Biol
+smith et al. 1980). For a coral species that appears to              J Linn Soc 15:177-183
+depend mainly on asexual recruitment for its survival,            Connell J H (1973) Population ecology of reef-building corals.
+incorporation of a process that increases the chances of             In: Jones OA, Endean R (eds) Biology and geology of coral
+fragmentation after branch survival becomes indepen-                 reefs. Academic Press, London, p 271-324
+                                                                  Fang LS, Chen YWJ, Chen CS (1989) Why does the white tip
+dent of branch length seems logical.
+                                                                     of stony coral grow so fast without zooxanthellae? Mar Biol
+  Regeneration of basal regions in branches that have                 103:359-363
+attained a considerable length is still high when                 Gladfelter EH (1982) White-band disease in Acropora pal-
+compared with other species (Meesters et al. 1992,                   mata: implications for the structure and growth of shallow
+Meesters & Bak 1993). This means that the fractured                  reefs. Bull mar Sci 32:639-643
+                                                                 Harper J L (1977) Population biology of plants. Academlc
+area of the parental colony will regenerate relatively               Press, London
+rapldly. The new polyps and tissue will produce new              Harrison PL, Wallace CC (1990) Reproduction, dispersal and
+branches within a short period of time.                              recruitment of scleractinian corals. In: Dubinsky 2 (ed)
+                                                                     Ecosystems of the world 25. Coral reefs. Elsevier, Amster-
+                                                                     dam, p 133-208
+                                                                 Highsmith RC (1982) Reproduction by fragmentation in
+                     CONCLUSIONS                                     corals. Mar Ecol Prog Ser 7:207-226
+                                                                 Highsmith RC, Riggs AC, D'antonio CM (1980) Survival of
+  Regeneration capability of branches of Acropora                    hurricane-generated coral fragments and a disturbance
+palmata decreases exponentially from tip to base. This               model of reef calcification/growth rates. Oecologia 46:
+                                                                     322-329
+appears to constitute the first evidence of senescence           Jackson JBC (1979) Morphological strategies of sessile ani-
+in a coral because polyp age generally increases                     mals. In: Larwood G, Rosen BR (eds) Biology and system-
+toward the base of the colony. Slower regeneration in                atics of colonial organisms. Academic Press, London, p
+proximal parts of the colony may promote infestation                 499-555
+                                                                 Kershaw KA (1962) Quantitative ecological studies from
+by excavating sponges that will augment the chances
+                                                                     Landmannahellir, Iceland. I. Eriophorum angustifohurn
+of fragmentation of branches with lengths that ensure               J ECO~   50: 163- 169
+a high survivorship of fragments.                                Maragos J (1972) A study of the ecology of Hawaiian reef
+                                                                     corals. PhD thesis, University of Hawaii. Honolulu
+Acknowledgements. We thank the Carmabi Institute for pro-        Meesters EH, Bak RPM (1993) Effects of coral bleaching on
+viding logistic support and 0. Frans, F. Isabella and A. Thiel      tissue regeneration and colony survival. Mar Ecol Prog Ser
+for diving and other assistance in the field We thank 3 anony-      96:189-1 98
+mous reviewers for the11 suggestions. This research was sup-     Meesters EH, Bos A , Gast GJ (1992) Effects of sedimentation
+ported by a grant from the Netherlands Foundation for the           and lesion position on coral tissue regeneration. Proc 7th
+Advancement of Tropical Research (WOTRO) W84-311.                   int Symp Coral Reefs 1:681-688
+                                                                 Meesters EH, Noordeloos M, Bak RPM (1994) Damage and
+                                                                    regeneration: links to growth in the reef-building coral
+                    LITERATURE CITED                                Montastrea annularis. Mar Ecol Prog Ser 112:119-128
+                                                                 Palumbi RP, Jackson JBC (1983) Aging in modular organisms:
+Bak RPM (1976) The growth of coral colonles and the impor-          ecology of zooid senescence in Steginoporella sp. (Bryo-
+   tance of crustose coralline algae and burrowing sponges          zoa; Cheilostomata). Biol Bull 164 267-278
+   In relation with carbonate accurnulat~on.Neth J Sea Res       Pearse VB, Muscatine L (1971) Role of symbiotic algae (Zoo-
+   10:285-337                                                       xanthellae) In coral calcification. Biol Bull 141:350-363
+Bak RPM (1983) Neoplasia, regeneration and growth in the         Sokal RR, Rohlf FJ (1981) Biometry. WH Freeman and CO,
+   reef-building coral Acropora palmata. Mar Biol77:21-227          New York
+                               Meesters & Bak: Senescence and regeneration In Acropora palmata                                   209
+
+
+
+
+Soong K, Lang JC (1992) Reproductive integration in reef           Van Veghel MLJ, Kahmann MEH (1994) Reproductive char-
+   corals. Biol Bull 183:418-431                                      acteristics of the polymorphic Caribbean reef building
+Tunnicliffe V (1978) T h e role of boring sponges in coral frac-      coral Montastrea annularis. 11. Fecundity a n d colony struc-
+   ture. In- Levi C, Boury-Esnault N (eds) Biologie des spon-         ture Mar Ecol Prog Ser 109:221-227
+   giaires C:olloques lnternationaux CNRS, Paris, p 309-315        Watt AS (1947) Contributions to the ecology of bracken. IV.
+Tunnicliffe V (1981) Breakage and propagdtion of the stony            The structure of the colnmunity New Phytol 46.97-121
+   coral Acropora cervicorn~s.Proc natl Acad Sci USA 78:           Wilkinson L (1989) Systat: thc system for statistics. Systat. Inc.
+   2427-2431                                                          Evanston, IL
+
+This article was submitted to the editor                           Man~~scnp    t received: S e p t e m b e r 23, 1994
+                                                                              first
+                                                                   Revlsed version accepted: J a n u a r y 23, 1995
+

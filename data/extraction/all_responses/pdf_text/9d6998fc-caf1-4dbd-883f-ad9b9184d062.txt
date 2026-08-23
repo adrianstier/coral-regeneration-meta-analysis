@@ -1,0 +1,689 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/311944803
+
+
+
+Effects of predation and nutrient enrichment
+on the success and microbiome of a
+foundational coral
+
+Article · December 2016
+DOI: 10.1002/ecy.1709
+
+
+
+
+CITATIONS                                                            READS
+
+0                                                                    52
+
+
+6 authors, including:
+
+             Andrew A Shantz                                                     Ryan Christopher McMinds
+             University of California, Santa Barbara                             Oregon State University
+             24 PUBLICATIONS 194 CITATIONS                                       6 PUBLICATIONS 76 CITATIONS
+
+                SEE PROFILE                                                          SEE PROFILE
+
+
+
+             Deron E. Burkepile                                                  Rebecca Vega Thurber
+             Florida International University                                    Oregon State University
+             85 PUBLICATIONS 2,640 CITATIONS                                     71 PUBLICATIONS 3,664 CITATIONS
+
+                SEE PROFILE                                                          SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+                Epigenetic mechanisms mediating acclimatory responses to nutrient exposure and thermal stress in
+                stony corals View project
+
+
+
+
+ All content following this page was uploaded by Rebecca Vega Thurber on 03 April 2017.
+
+ The user has requested enhancement of the downloaded file. All in-text references underlined in blue are added to the original document
+ and are linked to publications on ResearchGate, letting you access and read them immediately.
+Ecology, 98(3), 2017, pp. 830–839
+© 2016 by the Ecological Society of America
+
+
+
+
+         Effects of predation and nutrient enrichment on the success
+                    and microbiome of a foundational coral
+               ELIZABETH C. SHAVER ,1,4 ANDREW A. SHANTZ,2 RYAN MCMINDS,3 DERON E. BURKEPILE,2
+                                REBECCA L. VEGA THURBER,3 AND BRIAN R. SILLIMAN1
+                 1Division of Marine Science and Conservation, Nicholas School of the Environment, Duke University,
+                                                Beaufort, North Carolina 28516 USA
+                   2Department of Ecology, Evolution, & Marine Biology, University of California, Santa Barbara,
+                                                Santa Barbara, California 93106 USA
+                3Department of Microbiology, Oregon State University, 454 Nash Hall, Corvallis, Oregon 97331 USA
+
+
+
+                 Abstract. By inflicting damage to prey tissues, consumer species may increase stress in prey
+             hosts and reduce overall fitness (i.e., primary effects, such as growth or reproduction) or cause
+             secondary effects by affecting prey interactions with other species such as microbes. However,
+             little is known about how abiotic conditions affect the outcomes of these biotic interactions. In
+             coral reef communities, both nutrient enrichment and predation have been linked to reduced
+             fitness and disease facilitation in corals, yet no study to date has tested their combined effects
+             on corals or their associated microbial communities (i.e., microbiomes). Here, we assess the
+             effects of grazing by a prevalent coral predator (the short coral snail, Coralliophila abbreviata)
+             and nutrient enrichment on staghorn coral, Acropora cervicornis, and its microbiomes using a
+             factorial experiment and high-throughput DNA sequencing. We found that predation, but not
+             nutrients, significantly reduced coral growth and increased mortality, tissue loss, and turf algae
+             colonization. Partial predation and nutrient enrichment both independently altered coral
+             microbiomes such that one bacterial genus came to dominate the microbial community.
+             Nutrient-enriched corals were associated with significant increases in Rickettsia-like organ-
+             isms, which are currently one of several microbial groups being investigated as a disease agent
+             in this coral species. However, we found no effects of nutrient enrichment on coral health,
+             disease, or their predators. This research suggests that in the several months following coral
+             transplantation (i.e., restoration) or disturbance (i.e., recovery), Caribbean acroporid corals
+             appear to be highly susceptible to negative effects caused by predators, but not or not yet sus-
+             ceptible to nutrient enrichment despite changes to their microbial communities.
+                 Key words: community ecology; coral reef; corallivore; gastropod; microbial interactions.
+
+
+                          INTRODUCTION                                 eastern US salt marshes have been lost due to a combi-
+                                                                       nation of drought and fungal infection facilitated by
+   Across diverse ecosystems, changing environmental
+                                                                       grazing periwinkle snails (Silliman et al. 2005). These
+conditions are affecting ecological interactions, such as
+                                                                       interactions between abiotic conditions, grazers, and
+predator-prey interactions, and their outcomes (Githeko
+                                                                       opportunistic microbial infections not only lead to
+et al. 2000, Silliman et al. 2013). In addition to the primary
+                                                                       declines in host foundation species but may present chal-
+effects of complete predation (e.g., mortality) or partial
+                                                                       lenges to the successful restoration of critical habitats.
+predation on prey (e.g., reduced fitness), consumers may
+                                                                          In coral reef ecosystems, nutrient enrichment is an
+also inflict secondary effects by altering associations with
+                                                                       environmental factor often studied in connection to
+microbial communities. When these changes favor or
+                                                                       coral disease. For instance, nutrient enrichment has
+facilitate pathogenic microbes, whole ecological commu-
+                                                                       been shown to increase the progression of yellow band
+nities can be affected if disease hosts are also foundation
+                                                                       disease (Bruno et al. 2003) and black band disease
+species. For example, pine trees in the southwest United
+                                                                       (Voss and Richardson 2006), the severity of aspergil-
+States are commonly grazed on by scolytid pine bark
+                                                                       losis in sea fans (Bruno et al. 2003), and the prevalence
+beetles that facilitate fungus in their grazing wounds
+                                                                       of dark spots disease (Vega Thurber et al. 2014). Excess
+(Paine et al. 1997). During intense drought, major die-off
+                                                                       nutrients can also increase virulence genes expressed by
+events of pine trees have occurred as drought-stressed
+                                                                       microbes living on the coral surface mucosal layer
+trees succumbed to fungal infections and beetle grazing
+                                                                       (Vega Thurber et al. 2009), ultimately affecting the
+(Raffa et al. 2008). Similarly, thousands of hectares of
+                                                                       microbial communities believed to help maintain coral
+                                                                       fitness (Rosenberg et al. 2007) and protect corals
+   Manuscript received 22 October 2016; revised 14 December
+2016; accepted 20 December 2016. Corresponding Editor: John
+                                                                       against invading pathogens (Ritchie 2006). Most
+F. Bruno.                                                              recently, nutrients have been found to interact with
+   4E-mail: elizabeth.schrack@duke.edu                                 coral predation, leading to increased mortality after
+
+                                                                 830
+March 2017                       PREDATOR AND NUTRIENT EFFECTS ON CORALS                                                 831
+
+
+corals received grazing wounds by parrotfish (Zaneveld          settings, we conducted surveys of both natural and
+et al. 2016). These results suggest that changing abiotic       restored colonies across four coral reefs in the Florida
+conditions may interact with coral predators to affect          Keys National Marine Sanctuary (Molasses Reef: N 25
+microbes and disease.                                           0.579, W 80 22.471; Pickles Reef: N 24 59.170, W 80
+   Like other grazers, coral predators may be able to alter     24.940; Conch Reef: N 24 57.110, W 80 27.564; American
+coral-associated microbial communities by creating open         Shoals: N 24 31.568, W 81 31.383). At each site, we sur-
+feeding wounds. Several studies have found corals               veyed all A. cervicornis colonies found in 15–20, 2 × 20 m
+developed disease signs when in the presence of diseased        belt transects and recorded the density of C. abbreviata
+corals and when open wounds were created by either              per colony, as well as colony height, length, and width to
+coral predators or simulated damage (Aeby and Santavy           the nearest cm.
+2006, Page and Willis 2008). In the Caribbean, predation
+by the corallivorous gastropod Coralliophila abbreviata
+                                                                             Predation × nutrient experiment
+(the short coral snail) can increase transmission of disease
+symptoms similar to white band disease (Williams and               To assess how predation and nutrients affect corals and
+Miller 2005, Gignoux-Wolfsohn et al. 2012) between              their microbiomes, we exposed colonies of A. cervicornis to
+healthy and diseased colonies of corals of the genus            a fully factorial field experiment from June to August 2013.
+Acropora. In addition, grazers and nutrients may interact       Due to the threatened status of this species, this exper-
+to facilitate disease through increased rates or intensity of   iment could not be conducted in natural reef settings or
+grazing, for example by increasing grazing rates on             with already-restored colonies. Thus, we conducted this
+nutrient-enriched tissues (marsh grasses: Silliman and          experiment in the Coral Restoration Foundation’s coral
+Zieman 2001, terrestrial plants: Throop and Lerdau              nursery in Key Largo, FL, USA in an open sand flat (30-ft
+2004), or increasing grazer population density (e.g.,           depth) using corals grown through established propa-
+crown-of-thorns starfish: Brodie et al. 2005). However,         gation techniques (Johnson et al. 2011). We collected coral
+little is known about the primary effects of these factors      fragments using wire cutters from visually healthy (e.g.,
+on corals in combination or their secondary effects on          non-diseased) colonies of two genotypes (Upper Keys 2,
+altering specific microbial taxa or overall microbial           “U-2”; Upper Keys 8, “U-8”) due to possible genotypic
+communities.                                                    variation in disease susceptibility. All coral fragments were
+   Here, we explore these interactions in coral reef eco-       ~10 cm long to approximate coral transplant sizes used in
+systems using a fully factorial field experiment on the         restoration activities and due to limits in using nursery
+Caribbean staghorn coral, Acropora cervicornis,                 corals. Using All Fix Marine Epoxy, we secured each coral
+assessing primary effects on corals (e.g., survivorship,        fragment to an individual structure consisting of a con-
+growth) and secondary effects for coral microbiomes.            crete slab with attached vertical PVC pipes, with corals
+Historically one of the most abundant reef-building             attached to the top of one PVC pipe. Structures were
+corals in the Caribbean, this species is currently listed as    placed 3 m apart in all directions and were cleaned of all
+critically endangered under the IUCN Red List                   fouling organisms prior to experimentation.
+(Aronson et al. 2008) and threatened under the US                  After a 1-week acclimation period, we assigned
+Endangered Species Act (Hogarth 2006) after disease             corals to one of four treatments: (1) snail + nutrient;
+caused extensive population mortality in the 1980s              (2) snail-only; (3) nutrient-only; and (4) no snails or
+(Aronson and Precht 2001). Although efforts to restore          nutrients (control). Each treatment consisted of 10 repli-
+A. cervicornis populations are currently underway               cates per genotype for a total of 80 colonies. To ensure
+across the Caribbean, acroporid corals continue to              variation in environmental conditions did not affect
+succumb to predation, disease, and harmful abiotic con-         treatment results, we evenly distributed genotypes and
+ditions (Williams and Miller 2012). Both predation by           treatments throughout the experimental site. For nutrient
+C. abbreviata and nutrient enrichment have been cited           addition treatments, diffusion tubes were secured to PVC
+as major concerns for practitioners engaged in coral reef       tubes ~5 cm below coral colonies and replaced every
+restoration (Miller 2001, Johnson et al. 2011, Young            2–3 weeks. Diffusion tubes consisted of a 6-inch long ×
+et al. 2012, National Marine Fisheries Service 2014).           1-inch wide PVC pipe with 16, 3/8-inch holes drilled into
+Given these restoration priorities, determining how             the side and covered in mesh screen. Tubes were filled
+these top-down and bottom-up factors affect the success         with 70 g Osmocote 19-6-12 Smart-Release plant ferti-
+of restoration efforts is both timely and important as          lizer pellets following the methods of Worm et al. (2000).
+coral decline continues.                                        To ensure nutrient diffusion tubes were effective in
+                                                                releasing nutrients, we analyzed inorganic nitrogen and
+                                                                phosphorus spectrophotometrically from water samples
+                         METHODS
+                                                                taken within ~3 cm of 5 control corals and ~1 cm from
+        Survey of corallivory on staghorn colonies              5 nutrient diffusion tubes a few days after diffusion
+                                                                tubes were established (UV-2450, Shimadzu; Southeast
+  To determine the prevalence of predation on Acropora          Environmental Research Center, Miami, Florida, USA).
+cervicornis by Coralliophila abbreviata in natural              Inorganic nutrients were significantly higher in water
+832                                            ELIZABETH C. SHAVER ET AL.                                   Ecology, Vol. 98, No. 3
+
+
+
+
+  FIG. 1. (A) Coralliophila abbreviata on Acropora cervicornis (“SN”) creating feeding scars identified as white skeleton at base of
+coral, (B) tissue sloughing (“TS”) off Acropora cervicornis after snail removal, and (C) tissue sloughing leading to rapid coral
+mortality.
+
+
+immediately adjacent to the nutrient tubes                                Coral microbiome collections and processing
+(N = 1.474 ppm; P = 0.4211 ppm) relative to controls
+(N = 0.007 ppm, PN = 0.012; P = 0.007 ppm, PP = 0.006).               To determine the effects of nutrients and predators on
+Though samples were not directly next to corals, we                coral microbiomes, we randomly selected five colonies
+believe this suggests corals received heightened levels of         from each treatment (including both genotypes) for sam-
+nutrients throughout the experiment.                               pling at the end of the experiment. Part of the main
+   For predator addition treatments, we collected                  branches of corals were clipped and placed in 50 mL cen-
+C. abbreviata snails from non-diseased corals on nearby            trifuge tubes and frozen until analysis. Feeding scars were
+corals reefs and starved snails in an aquarium for one             included in samples for all snail addition treatments. We
+week to ensure that any potential pathogens were not               did not sample corals with disease signs as rapid mor-
+transmitted through fecal matter. We placed two snails at          tality occurred before sampling could be conducted. We
+the base of each snail-only and snail + nutrient coral,            used high-throughput 16S amplicon sequencing to assess
+which approximated naturally high snail densities on sur-          the bacterial and archaeal communities associated with
+veyed A. cervicornis colonies harboring C. abbreviata              each coral. To do this, we isolated and homogenized
+when corrected for colony height (see Results). Every              coral tissue from both the tip and the base of each coral
+2–3 days, we examined corals for predation scars indi-             fragment with a WaterPik and sterile Milli-Q water.
+cated by white coral skeleton (Fig. 1A) and removed                Total DNA was extracted from 200 μL of the resulting
+snails from colonies when a large portion of tissue (~30%          tissue slurry with a MoBio PowerSoil kit according to
+of colony surface area) was consumed. We recorded                  manufacturer’s protocol. Barcoded primers 515F and
+colony mortality, tissue loss, and disease signs (e.g., tissue     806R and ToughMix PCR (Quanta BioSciences,
+sloughing; Fig. 1B, C) for all treatments every 2–3 days           Gaithersburg, Maryland, USA) were used to amplify and
+during the study. To assess coral growth, we measured the          tag the V4 region of the bacterial and archaeal 16S rRNA
+total linear extension (e.g., additive length of all branches,     gene. Samples were amplified in triplicate, with each tech-
+TLE) of corals at the beginning and end of the exper-              nical replicate given a different combination of barcodes.
+iment. After observing that turf algae began colonizing            Triplicates were pooled, cleaned, and quantified before
+the bare coral skeleton left by snail feeding scars, we addi-      all samples were combined in equimolar ratios.
+tionally measured algal colonization on coral colonies at          Multiplexed libraries were submitted to Oregon State
+the end of the experiment. This was done by visually esti-         University’s Center for Genome Research and
+mating the percent cover of algae within snail feeding             Biocomputing (CGRB) for sequencing on the Illumina
+scars and on live coral tissue to the nearest 5%.                  MiSeq platform.
+March 2017                      PREDATOR AND NUTRIENT EFFECTS ON CORALS                                               833
+
+
+   MiSeq data was processed in the QIIME pipeline using       Holmes 2014, R Core Team 2015). We used Levene’s tests
+MacQIIME v1.9.1 Reads were first separated by barcode         and ANOVAs to assess treatment affects for PCoA axes
+tags and processed for quality by trimming low-quality        using the car package v2.0.25 in R. Correlations between
+bases, discarding short reads, and filtering chimeras         OTUs and PCoA axes were determined with QIIME
+with USEARCH 6.1544 default parameters (Caporaso              using the rarefied table and observation_metadata_corre-
+et. al 2010). Reads were clustered into operational taxo-     lation.py. Correlations with family-level taxa were
+nomic units (OTUs) using pick_open_reference_otus.py a        assessed by pooling these OTUs with summarize_taxa.py.
+97% similarity threshold, and USEARCH v6.1544. OTUs              Prior to differential abundance analysis, OTUs present
+were assigned taxonomy using UCLUST and the                   in fewer than four samples (>0.5n) were removed from the
+Greengenes 13_10 97% reference database. Mitochondrial        pre-rarefaction OTU table. Additionally, we used only
+and chloroplast OTUs were filtered from the data based        OTUs that were found in at least 25% of samples and with
+on taxonomy. Data from the tip and base of each indi-         counts of at least 10 (out of 30,000 reads). R packages
+vidual coral were then pooled informatically to create the    Phyloseq and DESeq2 v1.8.2 (Love et al. 2014) were used
+“raw” OTU table.                                              to perform Wald tests for differential abundance of indi-
+                                                              vidual OTUs using the model formula ~nutrients + snails
+                                                              + nutrients:snails. The effect of genotype on microbial
+                   Statistical analysis
+                                                              communities was not explored due to limited sample sizes.
+   Coral fragments that went missing due to roaming           Correlation of OTUs with coral growth rate, tissue loss,
+turtles and storms were removed from statistical analyses     and algal colonization was assessed in QIIME by rare-
+(snail + nutrient: n = 3; snail-only: n = 2; nutrient-only:   fying the filtered OTU table to 30,000 reads per sample
+n = 0; control: n = 3). Colony mortality was defined as a     and using observation_metadata_correlation.py. All
+total loss of living tissue from the coral fragment and was   reported P-values are FDR-corrected.
+analyzed using a generalized linear model (GLM) with a
+binomial distribution due to uneven sample sizes between
+                                                                                       RESULTS
+treatments. Tissue loss was only observed on snail
+addition colonies during our experiment; therefore, we                 Surveys of predation on staghorn corals
+examined the effects of nutrients on tissue predation. To
+do this, we estimated the area of tissue predation using        A total of 198 Acropora cervicornis colonies were
+the equation for the area of an ellipse (A = πab) to          recorded across the four reefs surveyed. Of these, 15.2%
+approximate the natural shape of C. abbreviata feeding        (n = 30) were found harboring Coralliophila abbreviata.
+scars. We used measurements of the maximum height             Snail density ranged from 0 to 7 snails per colony and
+and width of scars taken at the end of the experiment or      averaged 0.35 ± 1.01 snails per colony (mean ± SD)
+before tissue sloughing was observed on corals. When          across all colonies surveyed, but increased to 2.30 ± 1.51
+predation scars extended across the circumference of the      snails on colonies harboring snails (range: 1–7 snails per
+coral, we averaged the maximum and minimum scar               colony). When standardizing C. abbreviata density by
+height and multiplied it by the circumference measured at     colony branch length, we found snail density averaged
+the base of each individual coral. Tissue loss data were      0.01 ± 0.01 snails per cm. Because C. abbreviata do not
+square root transformed to meet the assumptions of par-       often climb onto secondary branches of A. cervicornis
+ametric statistics and Analysis of Variance (ANOVA)           (E. C. Shaver, personal observation), we also calculated
+was used to analyze the effect of nutrient enrichment and     snail density per colony height (e.g., of the primary
+coral genotype on tissue predation. To examine treatment      branch) and found C. abbreviata averaged 0.14 ± 0.08
+effects on coral growth, corals that suffered full colony     individuals per cm.
+mortality or were broken and reattached in the middle of
+the experiment were excluded from this analysis. Growth
+                                                                    Effects of nutrients and predation on growth,
+data were analyzed using a GLM (nutrients × pre-
+                                                                               tissue loss, and mortality
+dation + genotype). The percent cover of filamentous turf
+algae on coral colonies was analyzed using beta regression      Predation by Coralliophila abbreviata lead to the death
+with the betareg package in R (Cribari-Neto and Zeileis       of 33% of snail addition colonies by the end of the exper-
+2010), as beta regression is used to model continuous         iment (n = 11; Fig. 2A); in contrast, no nutrient-only or
+sample proportions. All analyses were conducted in R          control colonies suffered full mortality (GLM,
+version 3.2.1 (R Core Team 2015).                             Psnail < 0.0001, χ2 = 16.9). Snails were removed from 10
+   To assess treatment effects on coral microbiomes, we       corals in snail-only treatments and five corals in snail +
+performed Principal Coordinates Analysis (PCoA) using         nutrient treatments after large predation scars were made
+QIIME’s beta_diversity_through_plots.py. We calcu-            and 60% of these corals suffered full mortality after snails
+lated weighted UniFrac distances and principal coordi-        were removed. These corals included 29.4 ± 11.4% of
+nates after rarefying the raw OTU table to a uniform          snail + nutrient (n = 5) and 33.3 ± 12.1% (n = 6) of
+depth of 43,000 reads per sample. Data were loaded into       snail-only colonies. When comparing only snail-addition
+R using the Phyloseq package v1.12.2 (McMurdie and            corals, we found no effect of nutrient enrichment
+834                                             ELIZABETH C. SHAVER ET AL.                                   Ecology, Vol. 98, No. 3
+
+
+
+
+   FIG. 2. Effects of predation by Coralliophila abbreviata and nutrient enrichment on (A) full colony mortality (as the proportion
+of colonies per treatment), (B) tissue loss per coral colony, (C) growth as a measure total linear extension of all branches, and (D)
+turf algae colonization on colonies (as the percent of colony surface area). Error bars represent standard error of the mean.
+Significance values are denoted as such: “***” for P < 0.0001, “**” for P = 0.0001–0.001, and “*” for P = 0.001–0.05.
+
+
+(P = 0.797, t = −0.257). We additionally found no effect               The colonization of turf algae on coral colonies was
+of genotype (P = 0.6314, z = 0.48). We observed disease             also significantly affected by predation (Fig. 2D;
+symptoms similar to those reported for rapid tissue loss            P = 0.0026, z = 3.009), but not by nutrients (P = 0.7604,
+syndrome (e.g., rapid death, tissue sloughing) on all               z = 0.0305), genotype (P = 0.9793, z = −0.026), or the
+corals that suffered full mortality (Williams and Miller            interaction between predation and nutrients (P = 0.8845,
+2005, Miller et al. 2014b).                                         z = 0.145). Algae covered 18.1 ± 3.4% of total colony
+   Coral tissue loss increased from 0% without snails to            surface area in corals subjected to predation, while algal
+approximately ~30% of live tissue surface area with snail           colonization on nutrient-only and control colonies was
+predation (GLM, Psnail = 0.0005, χ2 = 12.4). We found no            rare (~0.01% algal cover). The majority of algal coloni-
+effects of nutrient enrichment (with nutrients:                     zation occurred within snail predation scars (92.0 ± 3.3%),
+5.60 ± 3.94 cm2, without nutrients: 3.84 ± 3.37 cm2;                covering on average 57.4 ± 6.7% of snail scars, while little
+P = 0.192, F1,34 = 1.773) or genotype (P = 0.621,                   colonization occurred on live coral tissue (1.1 ± 0.22%
+F1,34 = 0.248) on tissue predation (Fig. 2B). The growth            algal cover).
+of corals with snail predation was reduced by 64% rel-
+ative to corals without predation (P = 0.0107, t = −2.687)
+                                                                       Effects of nutrients and predators on A. cervicornis
+(Fig. 2C). However, growth was most significantly
+                                                                                           microbiomes
+affected by genotype, where U-8 corals grew 71% more
+than U-2 corals (U-8: 5.75 ± 0.74 cm, U-2: 3.35 ± 0.50 cm;            Overall, 64.84% of the variation observed in coral
+P = 0.0020, t = 3.328). We found no effect of nutrients             microbiomes was explained by the first two PCoA axes
+(P = 0.5281, t = 0.637) or the interaction between                  (Appendix S1: Fig. S1). Variation in PC1 was signifi-
+predation and nutrients (P = 0.1881, t = −1.341). While             cantly greater in nutrient-enriched corals (Levene test,
+nutrient-only and control corals grew the most during               P = 0.017; Fig. 3A), and was correlated with the abun-
+this experiment (N: 6.74 ± 0.95 cm; C: 6.04 ± 1.21 cm),             dance of OTU 150441 (Rickettsiales; R2 = 0.992,
+growth of snail-only and snail + nutrient corals                    P < 0.0001; Fig. 3B). The relative abundance of this
+were reduced to 3.06 ± 0.83 cm and 1.38 ± 1.02 cm,                  Rickettsiales OTU increased from at most 11.4% of the
+respectively.                                                       bacterial community without nutrients to at most 87.9%
+March 2017                                                                        PREDATOR AND NUTRIENT EFFECTS ON CORALS                                                                                                                 835
+
+
+                                                                                         One Rickettsiales OTU                                                                                                     Three Corynebacteriaceae
+                                                                                         with DESeq2 p < 0.05                                                                                                         OTUs with DESeq2
+                      Levene test: p = 0.017                                              (nutrient vs. control)                             Levene test: p = 0.82                                                 p < 0.05 (snail vs. control)
+                0.5   A                                                                  B                                                   C                                                                       D
+
+
+                                                                                  80%                                                  0.2                                                                   30%
+                0.4
+
+
+
+
+                                                                                                                                                                     Corynebacteriaceae Relative Abundance
+                                               Rickettsiales Relative Abundance
+                                                                                                                                                                                                             25%
+                0.3
+                                                                                  60%
+                                                                                                                                       0.1
+
+
+
+
+PC1 (53.00%)                                                                                                           PC2 (11.84%)
+                                                                                                                                                                                                             20%
+                0.2
+
+
+                                                                                  40%
+                                                                                                                                                                                                             15%
+                0.1
+                                                                                                                                       0.0
+
+
+
+                0.0                                                                                                                                                                                          10%
+                                                                                  20%
+
+
+               −0.1                                                                                                                   −0.1                                                                   5%
+
+
+
+                                                                                   0%
+                                                                                                                                                                                                             0%
+                          C   N   S    SN                                                    C    N   S    SN                                    C   N    S   SN                                                         C   N     S    SN
+
+
+   FIG. 3. Results of Principle Coordinates Analysis (PCoA) for each of the four treatments examined in the field experiment
+(C = control/no snails or nutrients; N = nutrient-only; S = snail-only; SN = snail + nutrient). The variance in PC1 was significantly
+greater in nutrient-enriched samples (A), which was strongly correlated with the abundance of a single OTU in the order Rickettsiales
+(B). The variance in PC2 was not significantly affected by either treatment (C), however predation by Coralliophila abbreviata was
+strongly correlated with the abundance of five OTUs in the family Corynebacteriaceae (D).
+
+
+with nutrient enrichment (Wald test, P = 0.030; Fig. 3B).                                                              in control and nutrient-only corals, but increased to at
+One other OTU (#12574, Actinomyces) increased due to                                                                   most 10.0% in snail-only and snail + nutrient corals. All
+nutrients, where it was at most 0.8% in control corals but                                                             Corynebacteriaceae together comprised at most 9.5%
+increased to at most 1.1% of the community in enriched                                                                 without snails and at most 33.2% with snails (Fig. 3D).
+corals (Wald test, P = 0.04) (Table 1).                                                                                Two Actinomyces OTUs were also more abundant in snail
+   The variance of PC2 was not significantly different                                                                 treatments (Wald test, both P < 0.03). No OTUs had sig-
+among treatments (Levene test, P = 0.82). However, PC2                                                                 nificant interactions between the treatments (Table 1).
+was correlated with the abundance of the genus                                                                            Although no bacteria were correlated with coral growth
+Corynebacteriaceae (R2 = 0.708, P < 0.0001; Fig. 3C),                                                                  across treatments, we found a strong negative corre-
+which had three OTUs significantly increased in snail                                                                  lation between coral growth and OTU 150441
+treatments (Wald test, all P < 0.03). The most abundant of                                                             (Rickettsiales) in the nutrient-only treatment (R2 = 0.999;
+these, OTU 1015518, was at most 2.2% of the community                                                                  P < 0.001; Appendix S1: Fig. S2). In contrast, we found no
+
+
+
+TABLE 1. Effects of predation by the short coral snail, Coralliophila abbreviata, and nutrient enrichment on the differential
+  abundance of microbial operational taxonomic units (OTUs) using DESeq2.
+
+Sig. factor                         OTU #                                               Control %                  Treatment %                           P-value                                                     Taxonomy
+
+Nutrients                          150441                                                  4.5                        35.3                                0.03                                                  Rickettsiales
+Nutrients                           12574                                                   0                         0.19                                0.04                                                  Actinomyces
+Snails                              377613                                                 0.04                        1.1                                0.01                                                 Corynebacterium
+Snails                             1015518                                                 0.09                        3.0                                0.02                                                 Corynebacterium
+Snails                              410908                                                0.007                       0.17                                0.03                                                 Corynebacterium
+Snails                             4334479                                                   0                        0.09                                0.01                                                  Actinomyces
+Snails                               12574                                                   0                        0.15                                0.03                                                  Actinomyces
+836                                           ELIZABETH C. SHAVER ET AL.                             Ecology, Vol. 98, No. 3
+
+
+TABLE 2. Significant correlations among microbial OTUs in coral microbiomes and metrics of coral health. P-values are false
+  discovery rate (FDR) corrected which depicts the number of type 1 errors detected by this analysis.
+
+Sig. factor                Within treatment          OTU              R2           P-value             Taxonomy
+
+Coral growth                Nutrients-only           150441        −0.9986         0.0030             Rickettsiales
+Algal colonization         Snail treatments         4448456         0.8295         0.0310             Streptococcus
+Coral tissue loss          Snail + Nutrient          136025         0.9610         0.0196               Ralstonia
+Coral tissue loss          Snail + Nutrient          254888         0.9551         0.0196           Comamonadaceae
+Coral tissue loss          Snail + Nutrient           66026         0.9532         0.0196                 Vibrio
+
+
+
+relationship between growth and OTU 150441 in the              1990, Baums et al. 2003b). Other studies have also found
+control, snail-only, or snail + nutrient treatments (all       continued loss of A. cervicornis tissue post predation by
+P > 0.47) (Table 2; Appendix S1: Fig. S2). Across both         the bearded fireworm (Hermodice carunculata, Miller
+snail treatments, OTU 448456 (Streptococcus sp.) was pos-      et al. 2014a); however, we observed complete coral colony
+itively correlated with algal colonization (R2 = 0.830,        mortality after predatory snails were removed, with tissue
+P = 0.03). In the snail + nutrient treatment, three OTUs       sloughing similar to disease symptoms observed in the
+belonging to the taxa Ralstonia, Commamonadaceae, and          field (Williams and Miller 2005). In our study, we allowed
+Vibrio were positively correlated with tissue loss (all        tissue sloughing to continue in order to observe the fre-
+R2 > 0.953, P < 0.02). No other OTUs were correlated with      quency with which partial predation lead to full colony
+coral growth, tissue loss, or algal colonization (Table 2).    mortality and were therefore unable to obtain microbial
+Overall microbial diversity did not vary across treatments,    samples from corals with apparent disease signs.
+likely due to low sample sizes (Appendix S1: Fig. S3).            Predation also reduced the growth of experimental
+                                                               corals by nearly 65% relative to control colonies, a result
+                                                               similar to other studies suggesting that predation increases
+                        DISCUSSION
+                                                               energetic demands and may reduce overall coral fitness
+   In this study, coral predators had significant primary      (Oren et al. 1998, Rotjan and Lewis 2008). For instance,
+effects on the success of Acropora cervicornis colonies,       predation by butterflyfish reduced the growth of the coral
+including survivorship and growth, while both predation        Montipora verrucosa by 55% relative to caged colonies
+and nutrient enrichment independently altered coral-           protected from predators (Cox 1986). Results of our
+associated microbial communities. Each factor altered          survey and others suggest the impacts of predation may
+coral microbiomes such that particular bacteria genera         be limited to a small portion of Caribbean acroporid pop-
+came to dominate microbial communities, and several            ulations (here, 15.2% of A. cervicornis; Schopmeyer and
+microbial OTUs strongly correlated with coral growth,          Lirman 2015: 7.9, % of A. cervicornis; Miller et al. 2008:
+algal colonization, and tissue loss. While nutrient            ~5% of A. palmata). However, top-down control of corals
+enrichment had the strongest effect on coral microbiomes,      by predators may increase as prey (coral) decline and
+we found no effects of nutrients on coral health or disease    predators aggregate on remaining colonies, a process that
+in our experiment. These results suggest that small acro-      has been documented in several other ecosystems including
+porid corals may be highly susceptible to negative effects     coral reefs (Silliman et al. 2013). Finally, corals subjected
+caused by predators in the months following restoration        to predation were six times more likely to become colo-
+or disturbance, but are not or not yet susceptible to          nized by turf algae due to predation scars. This is likely
+nutrient enrichment despite its effects on coral microbial     due to the feeding characteristics of this and other coralli-
+communities. Further research is required to determine         vorous snails, which feed continuously on coral tissue and
+how responses of coral microbiomes to external forces          create large feeding scars, inhibiting tissue repair and
+ultimately affect coral health.                                allowing for the colonization of turf algae (Van Woesik
+   We found that partial, sub-lethal predation on healthy      1998). Although we were unable to quantify the effects of
+corals could lead to rapid colony mortality when grazing       predator-facilitated algae on coral fitness or microbiomes,
+wounds became large (here, ~30% of coral surface area).        recent research shows that contact with algae can alter
+In our experiment, corals with partial tissue predation by     microbial communities leading to coral tissue loss, disease,
+Coralliophila abbreviata were nearly five times more likely    and mortality (Zaneveld et al. 2016). We did, however,
+to suffer complete mortality than corals without pred-         find a positive correlation between algal colonization and
+ators. While the densities of corallivorous snails used in     an OTU in the genus Streptococcus.
+our experimental predator additions were on the high end          These results suggest that coral predators may have
+of naturally observed densities found in our survey (exper-    strong effects on small A. cervicornis colonies being
+iment: 0.2 snails/cm of coral; survey: 0.14 ± 0.08 snails/cm   restored, potentially limiting the recovery of this species.
+of coral), our results are similar to other studies showing    While the manual removal of C. abbreviata from resto-
+particularly high feeding rates on acroporid corals by         ration sites is cited as a priority for improving acroporid
+C. abbreviata (Brawley and Adey 1982, Knowlton et al.          restoration success (National Marine Fisheries Service
+March 2017                        PREDATOR AND NUTRIENT EFFECTS ON CORALS                                                  837
+
+
+2014), increased understanding of natural mechanisms             that are closely associated with the health of terrestrial
+controlling their populations are also needed. For               plants (Johnson et al. 2003). Determining the potential
+instance, overfishing of reef predators has been suspected       role of the coral microbiome in affecting coral health,
+of causing corallivore outbreaks in the Indo-Pacific             disease, and fitness is similarly an important research
+(Sweatman 2008), Hawaii (Gochfeld and Aeby 1997), and            frontier (Thompson et al. 2015). Importantly, in our study
+Kenya (McClanahan 1997), and manipulative removals               we did not observe any nutrient effects on corals despite
+of pufferfish in Florida led to a 19-fold increase in coralli-   strong changes to the composition of their microbiomes.
+vorous gastropods that prey on soft corals (Burkepile and        As our study was conducted in a mid-shelf sandflat, future
+Hay 2007). Although the extent of top-down control of            research should seek to compare microbial responses to
+C. abbreviata populations remain unknown, a trophic              multiple factors under natural coral reef conditions and
+cascade may contribute to their regulation and their con-        over longer time periods.
+sumer pressure on habitat-building corals as these snails           The strong effects of nutrients on the microbiomes of
+may be consumed by high-value commercial species such            A. cervicornis corals were largely driven by increases in
+as the Caribbean spiny lobster (Panulirus argus), hogfish        Rickettsia-like organisms. Rickettsiales belong to a group
+(family: Labridae), or triggerfish (family: Balistidae) (as      of obligate intracellular parasites that are currently one of
+proposed in Baums et al. 2003a).                                 several suspected pathogens of white band disease (Miller
+   In contrast, we did not find any effects of nutrient          et al. 2014b, Gignoux-Wolfsohn and Vollmer 2015), a
+enrichment on coral tissue loss, mortality, growth, or           disease that caused the near collapse of A. cervicornis and
+algal colonization. The lack of nutrient effects may have        A. palmata populations throughout the Caribbean in the
+been due to the short duration of our experiment, par-           1980s (Aronson and Precht 2001). As this disease con-
+ticularly as turf algae can overgrow dead surfaces of coral      tinues to cause significant mortality for these coral species
+colonies under nutrient enrichment conditions                    (Williams and Miller 2012), determining the factors con-
+(McClanahan et al. 2003, Vermeij et al. 2010). The rela-         trolling disease prevalence is critical for their recovery and
+tionship between nutrients and coral growth can also             the functioning of many Caribbean coral reef systems.
+vary across nutrient concentrations (Gil 2013, Shantz            Although nutrient loading has been positively correlated
+and Burkepile 2014), and therefore results of our presence/      with coral disease prevalence in the Pacific (Haapkylä
+absence nutrient treatments also limit our interpretation.       et al. 2011, Kaczmarsky and Richardson 2011) and found
+Additionally, the levels of nutrients exposed to corals          to increase disease prevalence in Siderastrea spp. corals
+also likely affected our results; however, we did not            over longer time periods (Vega Thurber et al. 2014), we
+attempt to determine these levels through seawater sam-          found that only predation, and not nutrient enrichment,
+pling as nutrient concentrations often vary with changes         lead to coral mortality and signs of disease with
+in temperature, flow, and other environment variables.           A. cervicornis.
+Nutrient exposure in our methods closely followed other             We did not find evidence of interactive effects between
+studies (here: ~5.0 g Osmocote/day; Bruno et al. 2003:           predation and nutrient enrichment on primary metrics of
+~4.3 g Osmocote/day; Vega Thurber et al. 2009: ~5.4 g            coral success or on coral microbial communities.
+Osmocote/day), which reported increased seawater                 Interestingly, we did find strong positive correlations
+nutrient levels within the range of anthropogenic nutrient       between the relative abundances of several bacterial genera
+pollution (2–5× higher than ambient seawater: Bruno              (Commamonadaceae, Ralstonia, and Vibrio) and tissue
+et al. 2003, 3× higher than ambient seawater: Szmant             loss within snail + nutrient treatments, suggesting that
+2002, Vega Thurber et al. 2009). Though increased                these microbes may have been responding to both coral
+nutrient exposure may have resulted in effects on coral          predation and nutrients. Our findings contrast with recent
+health or disease, the lack of precise measurements of           research showing that nutrient enrichment exacerbates the
+nutrient-exposed seawater surrounding corals limits our          effects of coral predation leading to increased coral mor-
+interpretation of anthropogenic pollution effects on             tality (Zaneveld et al. 2016). This study, however, was con-
+small acroporid corals.                                          ducted over 3 yr and with other coral species. Indeed, future
+   While only predation affected coral success, we found         research is required to determine whether these factors
+that coral microbiomes strongly responded to both pre-           interact to affect endangered Caribbean acroporids.
+dation and nutrient enrichment. This study demonstrates             Diverse ecosystems are increasingly under siege from
+that both bottom-up and top-down forces can be                   anthropogenic stressors. While anthropogenic nutrient
+important regulators of coral-associated microbial com-          enrichment has been cited as a globally pervasive threat to
+munities, and may be for other foundation species and            many coastal and marine habitats (Lotze et al. 2006, Wear
+mutualistic microbes. Though both factors had significant        and Vega Thurber 2015), overfishing and climate change
+effects, we found nutrient enrichment caused the most            have increased populations of consumers that control
+dramatic changes to coral microbiomes. These results are         critical foundation species including marsh grasses, kelps,
+similar to studies in plant communities where altered            trees, and coral reefs (reviewed in Silliman et al. 2013).
+species dominance occurred in response to nutrient               Though these factors have interacted in other systems to
+enrichment (Tilman 1987, Levine et al. 1998). Nutrient           facilitate disease or mortality, our results suggest that
+loading has also been shown to alter mycorrhizal fungi           small corals may be highly susceptible to negative effects
+838                                              ELIZABETH C. SHAVER ET AL.                                   Ecology, Vol. 98, No. 3
+
+
+caused by partial predation, but not nutrient enrichment,            Gil, M. A. 2013. Unity through nonlinearity: a unimodal coral–
+in the months following disturbance or restoration. While              nutrient interaction. Ecology 94:1871–1877.
+coral-associated microbial communities responded                     Githeko, A. K., S. W. Lindsay, U. E. Confalonieri, and J. A.
+                                                                       Patz. 2000. Climate change and vector-borne diseases: a
+strongly to both biological and physical factors, the                  regional analysis. Bulletin of the World Health Organization
+ultimate effects of these microbial changes on coral health            78:1136–1147.
+remain to be examined.                                               Gochfeld, D. J., and G. S. Aeby. 1997. Control of populations
+                                                                       of the coral-feeding nudibranch Phestilla sibogae by fish and
+                      ACKNOWLEDGMENTS                                  crustacean predators. Marine Biology 130:63–69.
+                                                                     Haapkylä, J., R. K. Unsworth, M. Flavell, D. G. Bourne,
+   We thank M. Ladd, M. Hahn, and M. Kelly for field support,          B. Schaffelke, and B. L. Willis. 2011. Seasonal rainfall and
+and M. Underwood and K. Wong for assistance with the molec-            runoff promote coral disease on an inshore reef. PLoS One
+ular biology. The National Science Foundation supported ECS            6:e16893.
+(GRFP DGE 1106401), DEB and RLVT (BIO-OCE 1130786),                  Hogarth, W. 2006. Federal Register 71:26853–26872.
+and BRS (BIO-OCE 1056980). AAS was supported by a Florida            Johnson, N. C., D. L. Rowland, L. Corkidi, L. M. Egerton-
+International University DEA fellowship. The permits                   Warburton, and E. B. Allen. 2003. Nitrogen enrichment
+FKNMS-2013-073 and FKNMS-2014-081 were obtained from                   alters mycorrhizal allocation at five mesic to semiarid grass-
+the Florida Keys National Marine Sanctuary. ECS, AAS, BRS,             lands. Ecology 84:1895–1908.
+and DEB designed research; ECS and AAS performed research;           Johnson, M. E., S. Key, E. Bartels, D. Beach, and L. Larson.
+RM and RLVT performed microbial analysis; ECS, RM,                     2011. Caribbean Acropora restoration guide: best practices
+RLVT, DEB, and BRS wrote the paper.                                    for propagation and population enhancement. The Nature
+                                                                       Conservancy, Arlington, Virginia, USA.
+                                                                     Kaczmarsky, L., and L. L. Richardson. 2011. Do elevated
+                       LITERATURE CITED
+                                                                       nutrients and organic carbon on Philippine reefs increase the
+Aeby, G. S., and D. L. Santavy. 2006. Factors affecting suscep-        prevalence of coral disease? Coral Reefs 30:253–257.
+  tibility of the coral Montastraea faveolata to black-band          Knowlton, N., J. Lang, and B. Keller. 1990. Case study of
+  disease. Marine Ecology Progress Series 318:103–110.                 natural population collapse: post-hurricane predation on
+Aronson, R. B., and W. F. Precht. 2001. White-band disease             Jamaican staghorn corals. Smithsonian Contributions to the
+  and the changing face of Caribbean coral reefs. Hydrobiologia        Marine Sciences 31:1–25.
+  460:25–38.                                                         Levine, J. M., J. S. Brewer, and M. D. Bertness. 1998. Nutrients,
+Aronson, R., A. Bruckner, J. Moore, B. Precht, and E. Weil.            competition and plant zonation in a New England salt marsh.
+  2008. Acropora cervicornis. The IUCN Red List of                     Journal of Ecology 86:285–292.
+  Threatened Species 2008: e.T133381A3716457. https://doi.           Lotze, H. K., H. S. Lenihan, B. J. Bourque, R. H. Bradbury,
+  org/10.2305/IUCN.UK.2008.RLTS.T133381A3716457.en                     R. G. Cooke, M. C. Kay, S. M. Kidwell, M. X. Kirby, C. H.
+Baums, I. B., M. W. Miller, and A. M. Szmant. 2003a. Ecology           Peterson, and J. B. Jackson. 2006. Depletion, degradation,
+  of a corallivorous gastropod, Coralliophila abbreviata, on two       and recovery potential of estuaries and coastal seas. Science
+  scleractinian hosts. I: Population structure of snails and cor-      312:1806–1809.
+  als. Marine Biology 142:1083–1091.                                 Love, M. I., W. Huber, and S. Anders. 2014. Moderated estima-
+Baums, I. B., M. W. Miller, and A. M. Szmant. 2003b. Ecology           tion of fold change and dispersion for RNA-seq data with
+  of a corallivorous gastropod, Coralliophila abbreviata, on two       DESeq2. Genome Biology 15:1–21.
+  scleractinian hosts. II. Feeding, respiration and growth.          McClanahan, T. R. 1997. Dynamics of Drupella cornus
+  Marine Biology 142:1093–1101.                                        populations on Kenyan coral reefs. Proceedings of the 8th
+Brawley, S. H., and W. H. Adey. 1982. Coralliophila abbreviata: A      International Coral Reef Symposium, pp. 633–638.
+  significant corallivore!. Bulletin of Marine Science 32:595–599.   McClanahan, T. R., E. Sala, P. A. Stickels, B. A. Cokos, A. C.
+Brodie, J., K. Fabricius, G. De’ath, and K. Okajic. 2005. Are          Baker, C. J. Starger, and S. H. Jones IV. 2003. Interaction
+  increased nutrient inputs responsible for more outbreaks of          between nutrients and herbivory in controlling algal commu-
+  crown-of-thorns starfish? An appraisal of the evidence.              nities and coral condition on Glover’s Reef, Belize. Marine
+  Marine Pollution Bulletin 51:266–278.                                Ecology Progress Series 261:135–147.
+Bruno, J. F., L. E. Petes, C. Drew Harvell, and A. Hettinger.        McMurdie, P. J., and S. Holmes. 2014. Waste not, want not:
+  2003. Nutrient enrichment can increase the severity of coral         why rarefying microbiome data is inadmissible. PLoS
+  diseases. Ecology Letters 6:1056–1061.                               Computational Biology 10:e1003531.
+Burkepile, D. E., and M. E. Hay. 2007. Predator release of the       Miller, M. W. 2001. Corallivorous snail removal: evaluation of
+  gastropod Cyphoma gibbosum increases predation on gorgon-            impact on Acropora palmata. Coral Reefs 19:293–295.
+  ian corals. Oecologia 154:167–173.                                 Miller, S. L., M. Chiappone, L. M. Rutten, and D. W. Swanson.
+Caporaso, J. G., J. Kuczynski, J. Stombaugh, K. Bittinger,             2008. Population status of Acropora corals in the Florida
+  F. D. Bushman, and E. K. Costello. 2010. QIIME allows                Keys. Proceedings of the 11th International Coral Reef
+  analysis of highthroughput community sequencing data.                Symposium, pp. 775–779.
+  Nature Methods 7:335–336.                                          Miller, M. W., C. Marmet, C. M. Cameron, and D. E. Williams.
+Cox, E. F. 1986. The effects of a selective corallivore on growth      2014a. Prevalence, consequences, and mitigation of fireworm
+  rates and competition for space between two species of               predation on endangered staghorn coral. Marine Ecology
+  Hawaiian corals. Journal of Experimental Marine Biology              Progress Series 516:187–194.
+  and Ecology 101:161–174.                                           Miller, M. W., K. E. Lohr, C. M. Cameron, D. E. Williams, and
+Cribari-Neto, F., and A. Zeileis. 2010. Beta regression in R.          E. C. Peters. 2014b. Disease dynamics and potential mitiga-
+  Journal of Statistical Software 34:1–24.                             tion among restored and wild staghorn coral, Acropora cervi-
+Gignoux-Wolfsohn, S. A., C. J. Marks, and S. V. Vollmer. 2012.         cornis. PeerJ 2:e541.
+  White band disease transmission in the threatened coral,           National Marine Fisheries Service. 2014. Recovery plan for
+  Acropora cervicornis. Scientific Reports 2:804.                      Elkhorn (Acropora palmata) and Staghorn (A. cervicornis)
+         March 2017                           PREDATOR AND NUTRIENT EFFECTS ON CORALS                                                      839
+
+
+            Corals. Acropora Recovery Team, Silver Spring, Maryland,             runaway collapse in ecosystems. Annual Review of Ecology,
+            USA.                                                                 Evolution, and Systematics 44:503–538.
+         National Oceanic and Atmospheric Administration (NOAA)                Sweatman, H. 2008. No-take reserves protect coral reefs from
+            Fisheries. Updated March 2015. Staghorn Coral (Acropora              predatory starfish. Current Biology 18:598–599.
+            cervicornis). http://www.fisheries.noaa.gov/pr/species/inverte     Szmant, A. M. 2002. Nutrient enrichment on coral reefs: is it a
+            brates/coral/staghorn-coral.html                                     major cause of coral reef decline? Estuaries 25:743–766.
+         Oren, U., I. Brickner, and Y. Loya. 1998. Prudent sessile feeding     Thompson, J. R., H. E. Rivera, C. J. Closek, and M. Medina.
+            by the corallivore snail, Coralliophila violacea on coral energy     2015. Microbes in the coral holobiont: partners through
+            sinks. Proceedings of the Royal Society of London B:                 evolution, development, and ecological interactions.
+            Biological Sciences 265:2043–2050.                                   Frontiers in Cellular and Infection Microbiology 4:176.
+         Page, C. A., and B. L. Willis. 2008. Epidemiology of skeletal         Throop, H. L., and M. T. Lerdau. 2004. Effects of nitrogen
+            eroding band on the Great Barrier Reef and the role of injury        deposition on insect herbivory: implications for community
+            in the initiation of this widespread coral disease. Coral Reefs      and ecosystem processes. Ecosystems 7:109–133.
+            27:257–272.                                                        Tilman, D. 1987. Secondary succession and the pattern of plant
+         Paine, T. D., K. F. Raffa, and T. C. Harrington. 1997.                  dominance along experimental nitrogen gradients. Ecological
+            Interactions among scolytid bark beetles, their associated           Monographs 57:189–214.
+            fungi, and live host conifers. Annual Review of Entomology         Van Woesik, R. 1998. Lesion healing on massive Porites spp.
+            42:179–206.                                                          corals. Marine Ecology Progress Series 164:213–220.
+         R Core Team. 2015. R: a language and environment for statisti-        Vega Thurber, R. L., D. Willner-Hall, B. Rodriguez-Mueller,
+            cal computing. R Foundation for Statistical Computing,               C. Desnues, R. A. Edwards, F. Angly, E. Dinsdale, L. Kelly,
+            Vienna, Austria. https://www.R-project.org/                          and F. Rohwer. 2009. Metagenomic analysis of stressed coral
+         Raffa, K. F., B. H. Aukema, B. J. Bentz, A. L. Carroll, J. A.           holobionts. Environmental Microbiology 11:2148–2163.
+            Hicke, M. G. Turner, and W. H. Romme. 2008. Cross-scale            Vega Thurber, R. L., D. E. Burkepile, C. Fuchs, A. A. Shantz,
+            drivers of natural disturbances prone to anthropogenic am-           R. McMinds, and J. R. Zaneveld. 2014. Chronic nutrient
+            plification: the dynamics of bark beetle eruptions. BioScience       enrichment increases prevalence and severity of coral disease
+            58:501–517.                                                          and bleaching. Global Change Biology 20:544–554.
+         Ritchie, K. 2006. Regulation of microbial populations by coral        Vermeij, M. J., I. Van Moorselaar, S. Engelhard, C. Hörnlein,
+            surface mucus and mucus-associated bacteria. Marine                  S. M. Vonk, and P. M. Visser. 2010. The effects of nutrient
+            Ecology Progress Series 322:1–14.                                    enrichment and herbivore abundance on the ability of turf
+         Rosenberg, E., O. Koren, L. Reshef, R. Efrony, and I. Zilber-           algae to overgrow coral in the Caribbean. PLoS One 5:e14312.
+            Rosenberg. 2007. The role of microorganisms in coral health,       Voss, J. D., and L. L. Richardson. 2006. Nutrient enrichment
+            disease and evolution. Nature Reviews Microbiology 5:                enhances black band disease progression in corals. Coral
+            355–362.                                                             Reefs 25:569–576.
+         Rotjan, R. D., and S. M. Lewis. 2008. Impact of coral pre-            Wear, S. L., and R. Vega Thurber. 2015. Sewage pollution:
+            dators on tropical reefs. Marine Ecology Progress Series             mitigation is key for coral reef stewardship. Annals of the
+            367:73–91.                                                           New York Academy of Sciences 1355:15–30.
+         Schopmeyer, S. A., and D. Lirman. 2015. Occupation dynamics           Williams, D. E., and M. W. Miller. 2005. Coral disease outbreak:
+            and impacts of damselfish territoriality on recovering popula-       pattern, prevalence and transmission in Acropora cervicornis.
+            tions of the threatened staghorn coral, Acropora cervicornis.        Marine Ecology Progress Series 301:119–128.
+            PLoS One 10:e0141302.                                              Williams, D. E., and M. W. Miller. 2012. Attributing mortality
+         Shantz, A. A., and D. E. Burkepile. 2014. Context-dependent             among drivers of population decline in Acropora palmata in
+            effects of nutrient loading on the coral–algal mutualism.            the Florida Keys (USA). Coral Reefs 31:369–382.
+            Ecology 95:1995–2005.                                              Worm, B., T. Reusch, and H. K. Lotze. 2000. In situ nutrient
+         Silliman, B. R., and J. C. Zieman. 2001. Top-down control of            enrichment: methods for marine benthic ecology.
+            Spartina alterniflora production by periwinkle grazing in a          International Review of Hydrobiology 85:359–375.
+            Virginia salt marsh. Ecology 82:2830–2845.                         Young, C. N., S. A. Schopmeyer, and D. Lirman. 2012.
+         Silliman, B. R., J. Van de Koppel, M. D. Bertness, L. E.                A review of reef restoration and coral propagation using the
+            Stanton, and I. A. Mendelssohn. 2005. Drought, snails, and           threatened genus Acropora in the Caribbean and western
+            large-scale die-off of southern US salt marshes. Science 310:        Atlantic. Bulletin of Marine Science 88:1075–1098.
+            1803–1806.                                                         Zaneveld, J. R., et al. 2016. Overfishing and nutrient pollution
+         Silliman, B. R., M. McCoy, C. Angelini, B. Holt, J. Griffin, and        interact with temperature to disrupt coral reefs down to
+            J. von de Koppel. 2013. Consumer fronts, global change and           microbial scales. Nature Communications 7:11833.
+
+
+                                                                SUPPORTING INFORMATION
+         Additional supporting information may be found in the online version of this article at http://onlinelibrary.wiley.com/
+         doi/10.1002/ecy.1709/suppinfo
+
+
+
+
+View publication stats
+

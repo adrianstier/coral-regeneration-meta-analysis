@@ -1,0 +1,543 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/225167998
+
+
+
+Chronic parrotfish grazing impedes coral
+recovery after bleaching
+
+Article in Coral Reefs · August 2006
+DOI: 10.1007/s00338-006-0120-y
+
+
+
+
+CITATIONS                                                            READS
+
+45                                                                   107
+
+
+7 authors, including:
+
+            Randi D Rotjan                                                       Daniel J. Thornhill
+            Boston University                                                    National Science Foundation
+            32 PUBLICATIONS 617 CITATIONS                                        137 PUBLICATIONS 1,852 CITATIONS
+
+                SEE PROFILE                                                          SEE PROFILE
+
+
+
+            Brian Helmuth                                                        Sara M Lewis
+            Northeastern University                                              Tufts University
+            118 PUBLICATIONS 5,018 CITATIONS                                     95 PUBLICATIONS 3,371 CITATIONS
+
+                SEE PROFILE                                                          SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+                Hint - Impacts of Climate Change on European Rocky Intertidal Ecosystems: Coupling Ecological,
+                Physiological and Genetic Approaches View project
+
+                Predicting how fine-scale temperature variation will affect the spatial distribution and temporal
+                stability of species and communities under climate change View project
+
+
+
+
+ All content following this page was uploaded by Brian Helmuth on 13 June 2017.
+
+ The user has requested enhancement of the downloaded file. All in-text references underlined in blue are added to the original document
+ and are linked to publications on ResearchGate, letting you access and read them immediately.
+Coral Reefs (2006) 25: 361–368
+DOI 10.1007/s00338-006-0120-y
+
+ R EP O RT
+
+
+
+Randi D. Rotjan Æ James L. Dimond
+Daniel J. Thornhill Æ James J. Leichter
+Brian Helmuth Æ Dustin W. Kemp Æ Sara M. Lewis
+
+Chronic parrotfish grazing impedes coral recovery after bleaching
+
+
+Received: 20 October 2005 / Accepted: 11 April 2006 / Published online: 31 May 2006
+! Springer-Verlag 2006
+
+Abstract Coral bleaching, in which corals become visibly           symbiosis, such abiotic-biotic interactions may contribute
+pale and typically lose their endosymbiotic zooxanthel-            to spatial variation in bleaching processes.
+lae (Symbiodinium spp.), increasingly threatens coral
+reefs worldwide. While the proximal environmental                  Keywords Predation Æ Coral bleaching Æ
+triggers of bleaching are reasonably well understood,              Trophodynamics Æ Environmental stress Æ
+considerably less is known concerning physiological and            Zooxanthellae Æ Symbiodinium
+ecological factors that might exacerbate coral bleaching
+or delay recovery. We report a bleaching event in Belize
+during September 2004 in which Montastraea spp. corals             Introduction
+that had been previously grazed by corallivorous par-
+rotfishes showed a persistent reduction in symbiont                Coral reef ecosystems worldwide are in decline, associ-
+density compared to intact colonies. Additionally,                 ated with escalating stressors such as pollution, eutro-
+grazed corals exhibited greater diversity in the genetic           phication, and increases in water temperature (Gardner
+composition of their symbiont communities, changing                et al. 2003; Pandolfi et al. 2003). These anthropogenic
+from uniform ITS2 type C7 Symbiodinium prior to                    stressors have been implicated in coral bleaching events,
+bleaching to mixed assemblages of Symbiodinium types               during which corals become visibly pale typically due to
+post-bleaching. These results suggest that chronic                 declines in endosymbiont (zooxanthellae) density and/or
+predation may exacerbate the influence of environmen-              changes in pigment concentration (Glynn 1991; Hoegh-
+tal stressors and, by altering the coral-zooxanthellae             Guldberg 1999). While it is well established that
+                                                                   abnormally high seawater temperatures act as proximal
+                                                                   triggers of coral bleaching (Coles and Brown 2003),
+                                                                   other contributing factors including high light, pollu-
+Communicated by Ecology Editor P.J. Mumby                          tion, low salinity, restricted water flow and disease have
+R. D. Rotjan (&) Æ S. M. Lewis                                     also been implicated (Lesser 2004). Even though the
+Department of Biology, Tufts University,                           frequency of coral bleaching has increased dramatically
+Medford, MA 02155, USA                                             over the past three decades (Hoegh-Guldberg 1999;
+E-mail: randi.rotjan@tufts.edu                                     Hughes et al. 2003), little is known concerning how key
+Tel.: +1-617-6272904
+Fax: +1-617-6273805                                                biological factors interact to influence coral survival and
+                                                                   recovery during bleaching events.
+J. L. Dimond                                                           Coral bleaching responses often vary substantially in
+Department of Biological Sciences, University of Rhode Island,     their extent and severity, even for corals occupying the
+Kingston, RI 02881, USA
+                                                                   same physical environment (Rowan et al. 1997; Fitt
+D. J. Thornhill Æ D. W. Kemp                                       et al. 2000; Baker 2003). Variation in bleaching suscep-
+Institute of Ecology, University of Georgia,                       tibility has been attributed to physiological and/or
+Athens, GA 30602, USA                                              morphological diﬀerences within and between coral
+J. J. Leichter                                                     species (Edmunds 1994; Marshall and Baird 2000; Loya
+Scripps Institution of Oceanography, UCSD,                         et al. 2001), and to small-scale variability in microhab-
+La Jolla, CA 92093, USA                                            itat conditions (Nakamura and van Woesik 2001; Finelli
+                                                                   et al. 2006). Bleaching variability has also been attrib-
+B. Helmuth                                                         uted to genetic diﬀerences in the coral’s community of
+Department of Biological Sciences and Marine Science Program,
+University of South Carolina, Columbia, SC 29208, USA              photosymbiotic Symbiodinium (Rowan et al. 1997). The
+362
+
+genus Symbiodinium is genetically diverse consisting of
+eight sub-generic clades (A-H), each comprised of
+numerous ‘‘types’’ (Baker 2003; LaJeunesse 2005). While
+these studies indicate that both intrinsic diﬀerences and
+external environmental heterogeneity can contribute to
+bleaching variability among corals, few studies have
+examined whether extrinsic biotic factors such as pre-
+dation can influence coral bleaching susceptibility,
+intensity, and subsequent recovery.
+   In the Caribbean, herbivorous fishes (parrotfishes
+and surgeonfishes) are critical to maintaining healthy
+coral reefs, as they benefit corals by removing competi-
+tively superior macroalgae (Lewis 1986; Hughes 1994).
+However, some parrotfish also consume live coral, with
+direct detrimental eﬀects on coral growth and survival
+(Meesters et al. 1994; McClanahan et al. 2005; Rotjan
+and Lewis 2005). Parrotfish preferentially graze certain
+coral species (Garzon-Ferreira and Reyes-Nivia 2001;
+Rotjan and Lewis 2006), as well as particular colonies
+within a species (Sanchez et al. 2004; Rotjan and Lewis
+2005). Parrotfish predation produces characteristic,
+highly conspicuous grazing scars (Fig. 1a), and often
+results in partial colony mortality. Although the proxi-
+mal cause of feeding selectivity is not known, parrotfish
+often repeatedly graze the same coral colonies (Bruckner
+and Bruckner 1998; Bruckner et al. 2000; Sanchez et al.
+2004; Rotjan and Lewis 2005). Because corals are clonal
+organisms, partial predation by parrotfish is likely to be
+an important source of chronic stress for reef corals.
+   In this study, we document a non-catastrophic coral
+bleaching event in Belize in September 2004 that coin-
+cided with elevated seawater temperatures, storm surge
+from Hurricane Ivan, and seasonal variability in zoo-
+xanthellae densities. In the context of these stressors, we
+examined the eﬀects of chronic parrotfish grazing on the
+coral-algal symbiosis. Specifically, we tested whether
+Montastraea spp. coral colonies exposed to chronic
+parrotfish grazing showed a greater reduction in sym-
+biont density during this bleaching event compared to
+intact conspecific colonies over time. Finally, we inves-
+tigated the genetic stability of Symbiodinium spp. com-
+munities in grazed versus intact coral colonies over the
+course of this bleaching event.
+
+
+Materials and methods
+
+Study site and sampling
+                                                              Fig. 1 Time series of a single grazed Montastraea spp. coral colony
+This study was conducted at Carrie Bow Cay, Belize (16"       from a pre-bleaching in August 2004 to b October during bleaching
+                                                              to c recovery in January at Carrie Bow Cay, Belize. Relative
+48’ N and 88" 05’ W) on the outer ridge of the Belize         bleaching levels can be visualized by contrasting the varying
+barrier reef (!18 m depth). Montastraea faveolata and         appearance of the colony to the reef floor. Arrows in (a) indicate
+Montastraea franksi are the major reef building corals in     representative grazing scars; the star in all three photos represents a
+this habitat, and 21 out of 63 (!33%) colonies examined       sampling scar on the colony
+exhibited recent grazing scars. We sampled individually
+marked colonies of grazed and intact M. faveolata and M.      sampling periods bracketed a period of considerable
+franksi corals at three time periods: in August 2004          environmental disturbance characterized by unseasonably
+(N = 64 colonies), October 2004 (N = 22) and in               high temperatures concurrent with physical destruction
+mid-January 2005 (N = 24). August and October 2004            caused by storm surge from Hurricane Ivan, in addition to
+                                                                                                                       363
+
+seasonal lows in zooxanthellae densities (described by          Establishing Symbiodinium spp. ITS2 type
+Fagoonee et al. 1999; Fitt et al. 2000). The January/Feb-
+ruary 2005 sampling occurred during the coolest months          To determine the genetic identity of Symbiodinium spp.
+of the year, when corals generally exhibit the fastest rates    populations associated with the coral colonies, zooxan-
+of skeletal growth and increase in tissue mass (Fitt et al.     thellae (algal cells) were isolated from the remaining
+1993; Fitt et al. 2000). We classified coral colonies as        coral tissue by centrifugation at !6700 g for 3–4 min.
+grazed if they showed at least 6 distinct grazing scars; most   Algal pellets preserved in 70% ethanol were transported
+grazed colonies had more than 30 distinct bites. Intact         back to the U.S., and nucleic acids were extracted using
+colonies had no grazing scars. Small samples ( < 5 cm2)         the Wizard DNA preparation protocol (Promega) fol-
+were collected by SCUBA with a hammer and chisel;               lowing the methods of LaJeunesse et al. (2003). The
+sampling locations on the top or sides of each colony were      internal transcribed spacer 2 region (ITS 2) of nuclear
+selected haphazardly, with no diﬀerences between grazed         ribosomal RNA was used to discriminate molecular
+and intact colonies in sampling locations. When sampling        types of Symbiodinium (LaJeunesse 2001, 2002). This
+grazed colonies, care was taken to remove tissue only from      region was amplified from the DNA extract for dena-
+areas adjacent to grazing scars rather than from the scars      turing-gradient gel electrophoresis (DGGE) using
+themselves. We measured each colony’s size (length x            primers ‘‘ITS 2 clamp’’ (5¢CGCCCGCCGC GCC
+width using a flexible ruler) and colony size did not           CCGCGCC CGTCCCGCCG CCCCCGCCC GGGA
+diﬀer between groups: intact colonies            X! " SE ¼      TCCATA TGCTTAAGTT CAGCGGT-3¢) and
+1645 " 225 cm2 ; grazed colonies X! ¼ 1934 " 282 cm2 ;          ‘‘ITSintfor 2’’ (5¢GAATTGCAGA ACTCCGTG-3¢).
+t = 0.8049, df = 63, p = 0.4239).                               PCR amplification followed the ‘‘touchdown’’ thermal
+                                                                cycle protocol of LaJeunesse (2002). Products of these
+                                                                PCR reactions were checked by electrophoresis on
+Temperature analysis                                            agarose gels (0.8% agarose in 40 mM Tris-acetate, 1mM
+                                                                EDTA solution). Successfully amplified PCR products
+Ambient water temperatures were recorded from March             were subsequently electrophoresed on denaturing
+2000 through February 2005 using a combination of               gradient gels (45–80% formamide, 8% acrylamide
+Onset Computer Corporation Stowaway, Tidbit, and                denaturing gradient gels; 100% consists of 7 M urea and
+Watertemp Pro loggers with 0.2"C resolution and a               40% deionized formamide) following the protocol of
+1–5 min response time. These instruments sampled                LaJeunesse and Trench (2000), with the modifications of
+temperature every 0.5 s and recorded 10–16 min                  LaJeunesse et al. (2003).
+averages (except Watertemp Pro loggers which recorded
+10–16 min interval points). Instruments were calibrated
+against a Seabird Electronic SBE 39 logger (0.001"C
+resolution, 20 s response time) in the laboratory and in        Results
+the field, and were found to be within factory specifi-
+cations. Daily average water temperatures for 2004 were         Temperature patterns
+compared to day-of-the-year averages calculated across
+the preceding 4 years.                                          Coral bleaching was evident in that colonies appeared
+                                                                visibly pale in October compared to August, and
+                                                                re-gained considerable color by January (Fig. 1). The
+Zooxanthellae density                                           observed coral bleaching coincided with high seawater
+                                                                temperatures at 18 m depth, which were unusually high
+To determine zooxanthellae density for Montastraea              during August–November 2004 compared to the same
+colonies, we completely removed approximately 5 cm2             periods in 2000–2003 (Fig. 2). Most coral bleaching
+of coral tissue from colony samples using a WaterPik#           models agree that bleaching occurs when corals are
+with filtered seawater (Johannes and Wiebe 1970). Tis-          exposed to water temperatures 1–2"C above the average
+sue was homogenized with a blender and zooxanthellae            local maximum for extended periods (Hoegh-Guldberg
+were counted at 100· magnification using a hemacy-              1999). The HotSpot temperature threshold for this
+tometer (10 replicate subsamples). The total volume of          Belizean reef, reflecting the average local maximum
+the tissue homogenate was recorded and coral surface            temperature at 2 m depth, has previously been estimated
+area was measured using aluminum foil (Marsh 1970) in           to be 29.85"C (Aronson et al. 2002). Our data show that
+order to calculate zooxanthellae density per cm2 of coral       in 2004, daily average water temperature measured at
+tissue. A 2-way ANOVA was used to examine condition             18 m exceeded this threshold for a total of 36 days,
+(grazed vs. intact), time (month), and interaction eﬀects.      including a period of 19 consecutive days in 2004 (Sep-
+To determine specific diﬀerences between grazed and             tember 15–October 3). This is likely an underestimate of
+intact colonies during each sampling period, we used            the number of potentially stressful days, as the 29.85"C
+linear contrast t-tests for pre-planned multiple compar-        threshold is based on 2 m depth, and the average local
+isons (SAS); power analyses for linear contrasts                maximum temperature at 18 m is lower than this
+(2-sample t tests) were conducted using SYSTAT 11.              threshold. This factor is reflected by the observation that
+364
+
+                                                                                                                       Intact
+
+
+
+
+                                                                       Zooxanthellae density (#/cm )
+                                                                      2
+                                                                                                       7.5x10 6
+                          30                                                                                           Grazed
+                          29
+                          28                                                                           5.0x10 6
+                                                                                                                                                             *
+                          27                          2004
+
+
+
+
+      Temperature (°C)
+                          26                          20002003
+                                                                                                       2.5x10 6
+                                J   F M A M J   J A S O N D J
+
+                                                                                                                  31    33           12        10       13   11
+                         30.5                                                                                0
+                                                                                                                  August             October            January
+
+                         29.5
+                                                                                                                                     Month
+                                                                      Fig. 3 Zooxanthellae densities within parrotfish-grazed versus
+                         28.5                                         intact Montastraea spp. colonies in 2004–2005 prior to the
+                                                           2004       bleaching event (August), immediately following the bleaching
+                                                                      event (October), and during recovery from bleaching (January).
+                                A         S           O           N   Sample sizes are represented within each bar; bars represent
+                                              Month                   mean ± S.E. Linear contrasts were used to compare grazed and
+                                                                      intact colonies for each month; *Indicates p < 0.05
+Fig. 2 Changes in water temperature over time at 18 m depth on
+the Belize Barrier Reef, Carrie Bow Cay (CBC), Belize. Top panel
+shows the average daily water temperatures for 2004 compared to a     event, power to detect an eﬀect size of 0.80 = 0.87) or
+7 day running mean of the day-of-the-year average for the previous    October (during the bleaching event; power to detect an
+4 years (2000–2003). Dashed line represents the Pathfinder HotSpot
+threshold, 29.85"C, for 2 m depth at Carrie Bow Cay established by    eﬀect size of 0.80 = 0.50), indicating that grazed and
+Aronson et al. (2002). Bottom panel shows a close-up of 10 min        intact Montastraea spp. colonies were probably equally
+interval temperature data around the time of the bleaching event,     susceptible to bleaching. However, during recovery from
+August–November 2004. Arrow at the top indicates when storm           bleaching in January 2005, intact Montastraea spp.
+surge from Hurricane Ivan first aﬀected CBC (12–15 Sept 2004).
+Bold ticks along the bottom of the top panel indicate the period of
+                                                                      colonies showed significantly higher zooxanthellae den-
+the close-up shown in the lower panel                                 sities than grazed colonies (Table 1). It should be noted
+                                                                      that the ANOVA revealed no significant interaction,
+temperatures at 18 m were as much as 0.8"C warmer in                  likely due to the fact that grazed colonies always showed
+September 2004 compared to temperatures recorded                      slightly reduced zooxanthellae densities compared to
+during the same times in previous (non-bleaching) years               intact colonies (Fig. 2), suggesting that grazing may
+(Fig. 2). Coincident with this period of increased sea-               cause a weak chronic impact that becomes most acute in
+water temperatures, the Belizean barrier reef was af-                 the post-bleaching recovery phase.
+fected in mid-September 2004 by storm surge from
+Hurricane Ivan; we therefore cannot de-couple these
+events. Hurricane Ivan was a Category 5 storm located
+approximately 600 km from Carrie Bow Cay at its
+closest point of 20.4"N, 84.1"W on September 13, 2004,                Table 1 Statistical analysis of changes in zooxanthellae density in
+with wind speeds of 140 kt (Stewart 2005).                            Montastraea spp. corals in Belize
+
+                                                                      Source                                            SS                df        F            p
+
+Zooxanthellae density                                                 Condition (G vs. I)                                  11.809         1          5.43        0.0217
+                                                                      Time (Aug, Oct, Jan)                                 43.636         2         10.03        0.0001
+Coral colonies experienced a major decline in zooxan-                 Condition · Time                                      4.544         2          2.27        0.3556
+                                                                      Linear Contrasts:
+thellae density between August and October 2004                       August (G vs. I)                                       1.193        1          0.55        0.4607
+(Fig. 3), resulting in highly significant diﬀerences in               Pre-bleaching
+zooxanthellae density over time (Table 1). There was                  October (G vs. I)                                      2.220        1          1.02        0.3148
+also a significant eﬀect of Montastraea spp. colony                   During-bleaching
+                                                                      January (G vs. I)                                      9.967        1          4.58        0.0347
+condition (grazed vs. intact) on zooxanthellae density                Post-bleaching recovery
+(Table 1), with grazed coral colonies showing lower                   Error                                             228.48            105
+zooxanthellae densities when averaged across all time-                Total                                              57.76            5          5.31        0.0002
+points (Fig. 3). When the eﬀects of colony condition on
+                                                                      Two-way ANOVA shows eﬀects of coral condition (grazed versus
+zooxanthellae densities were examined at each sampling                intact), sampling time, and interaction. Grazed versus intact colo-
+date using linear contrasts, no significant diﬀerences                nies were compared at each sampling month using planned linear
+were found in either August (prior to the bleaching                   contrasts
+                                                                                                                                                                   365
+
+Genetic identity of Symbiodinium spp.                          able diversity in Symbiodinium spp. populations com-
+                                                               pared to intact coral colonies. Although chronic
+Prior to the September bleaching event, we detected            parrotfish grazing appears to be associated with de-
+exclusively type C7 zooxanthellae in all Montastraea           creased zooxanthellae densities across all timepoints, we
+spp. corals (N = 50) (Fig. 4). In October, following the       found no strong evidence that parrotfish grazing altered
+declines in zooxanthellae densities (Fig. 3), mixed sym-       zooxanthellae densities prior to or during the bleaching
+biont assemblages of Symbiodinium type C7 with types           event. Bleaching is an indicator of physiological stress in
+B1, various C types, or D1a were detected in several           corals (Jones 1997; Hoegh-Guldberg 1999) that, com-
+Montastraea spp. colonies (N = 6 out of 36 colonies            bined with parrotfish predation, may alter coral-algal
+sampled). Furthermore, by recovery in January, colonies        symbioses.
+showed mixed symbiont assemblages (N = 14 out of                  Reductions in zooxanthellae density are often asso-
+64), but grazed Montastraea spp. colonies were signifi-        ciated with bleaching, though it has been shown that
+cantly more likely to have new Symbiodinium spp. types         zooxanthellae densities fluctuate seasonally (Fagoonee
+than intact colonies (Table 2, test of homogeneity of          et al. 1999; Fitt et al. 2000). Studies have documented
+proportions, v2 = 8.317, p = 0.0063). For those colo-          regular reductions of symbiont density during the
+nies in which new symbionts were detected, we always           warmest times of year, a phenomenon assumed to be
+found Symbiodinium D1a in intact colonies, whereas we          pantropical in corals (Fagoonee et al. 1999; Fitt et al.
+detected a greater diversity of symbiont types in grazed       2000). Although the bleaching extent did not reach
+colonies including types B1, various C types, and D1a.         catastrophic levels, the zooxanthellae reductions and
+                                                               visible bleaching that we observed likely go beyond
+                                                               seasonal lows, intensified by the abnormally high sea-
+Discussion                                                     water temperatures and possibly by Hurricane Ivan
+                                                               storm surge as well. It is important to note that overall,
+This study documents a coral bleaching event in Sep-           the zooxanthellae densities that we observed before,
+tember 2004 in Belize associated with unusually high           during, and after bleaching are higher than reported
+temperatures during the warmest season of the year,            elsewhere in the Caribbean for this genus (Fitt et al.
+coupled with storm surge from Hurricane Ivan. Fol-             1993, 2000). Nonetheless, the pale appearance of our
+lowing this event, M. franksi and M. faveolata colonies        colonies in October (Fig. 1) along with the observed
+that had been previously grazed by parrotfish showed           reduction in zooxanthellae density (Fig. 3) suggests
+both reduced zooxanthellae density and greater detect-         that corals experienced considerable bleaching stress.
+
+Fig. 4 PCR-DGGE profile of                Treatment:                  Intact                                           Grazed
+the Symbiodinium ITS 2 region
+showing symbiont types                    Sample #:          300           303       305             309         337                   310              313
+detected in representative
+grazed versus intact                      Date:        Aug     Jan   Aug     Jan   Aug   Jan   Aug     Jan   Aug   Jan           Aug     Jan          Aug   Jan
+Montastraea spp. colonies
+(N = 64) sampled prior to
+bleaching (August 2004) and
+during bleaching recovery
+(January 2005). Profile is
+presented as a reverse image.
+Diagnostic bands are labeled
+for types B1, C7, and D1a
+
+                                                  C7
+
+
+
+
+                                                                                                           D1a
+
+
+
+
+                                                                                                                                  B1
+
+
+
+
+                                          ITS type:    C7     C7     C7     C7     C7    C7    C7      C7     C7       C7, D1a    C7         C7, B1    C7     C7
+366
+
+Table 2 Number and percentage of Montastraea colonies exhibit-        significantly greater proportion of grazed Montastraea
+ing increased diversity in Symbiodinium communities from August       spp. corals that had previously been subject to parrotfish
+(pre-bleaching) to January (post- bleaching recovery)
+                                                                      grazing experienced a change in detectable symbiont
+                  Increased           No                Percentage    diversity. While all colonies maintained a population of
+                  clade               change            of            type C7 symbionts, many of the corals experienced
+                  diversity                             change        changes in detectable symbiont communities. The
+                                                                      reportedly stress-tolerant Symbiodinium type D1a (Tol-
+Grazed            10                  20                33
+Intact            4                   28                13            ler et al. 2001a, b), was detected in 5 out of 63 colonies.
+                                                                      Baker (2001) and Thornhill et al. (2006) observed
+The same colonies were sampled at each time point. Grazed             Symbiodinium D1a in Montastraea spp. colonies fol-
+Montastraea spp. colonies were significantly more likely to display   lowing bleaching. Whether their newly detected symbi-
+an increase in detectable Symbiodinium spp. types than intact col-
+onies (test of homogeneity of proportions, v2 = 8.317,                onts were previously present at sub-detection densities
+p = 0.0063)                                                           or were newly acquired externally was not determined. It
+                                                                      is also interesting to note that we detected Symbiodinium
+                                                                      type B1 only in grazed corals; type B1 is commonly
+Additionally, it is possible that other mechanisms such               found throughout the Caribbean in Montastraea spp.
+as decreased symbiont pigmentation or decreased coral                 colonies, and may also be considered somewhat of a
+tissue thickness contributed to the colonies bleached                 generalist due to its symbiosis with a wide variety of
+appearance.                                                           cnidarian hosts (LaJeunesse 2002). In any case, parrot-
+    Although grazing did not appear to influence the                  fish predation appears to increase detectable symbiont
+susceptibility of colonies to bleaching, it did significantly         diversity.
+aﬀect recovery in January. Previous studies suggest that                  These results suggest that parrotfish grazing may alter
+winter is the time when corals typically reach their                  coral response to other stressors. An alternative expla-
+highest host tissue mass, symbiont densities and photo-               nation for the observed relationship between grazing
+synthetic capacity, which ultimately drives coral growth              and symbiont diversity is that parrotfishes might selec-
+and reproductive output (Fitt et al. 2000; Warner et al.              tively graze coral tissue rich in C7 symbionts. However,
+2002). Szmant and Gassman (1990) found that the de-                   it is unlikely that parrotfish are preferentially choosing
+gree of recovery of zooxanthellae populations after a                 colonies based on symbiont type because during August
+severe bleaching event determined whether or not a coral              (pre-stress), both grazed and intact Montastraea spp.
+could complete gametogenesis the following year. In                   (n = 50) colonies uniformly showed exclusively type C7
+addition to zooxanthellae loss, physical damage also has              Symbiodinium spp. (Fig. 4). While it is possible that
+reproductive consequences for corals: Montastraea spp.                corals with lower symbiont densities were preferentially
+polyps adjacent to artificially damaged areas were shown              grazed by parrotfish in August, perhaps based on dif-
+to have lower fertility and fecundity compared to                     ferences in coral color, we did not detect any diﬀerence
+undamaged coral tissue (Van Veghel and Bak 1994). The                 in zooxanthellae densities at this timepoint, even with a
+combination of symbiont loss and physical damage may                  large sample size. Nonetheless, the possibility remains
+also interact. Meesters and Bak (1993) created artificial             that parrotfish may selectively target colonies with lower
+lesions on bleached and non-bleached Montastraea                      zooxanthellae densities, although we consider it more
+annularis colonies and found that bleached colonies                   likely that parrotfish grazing might influence zooxan-
+exhibited less tissue growth, slower lesion recovery,                 thellae densities within a colony. Future experiments are
+slower tissue color restoration, and higher mortality.                needed to more explicitly address these hypotheses.
+Since parrotfish grazing similarly removes coral tissue,                  Our results suggest that chronic predation coupled
+grazed colonies are also likely to have slower tissue re-             with coral bleaching can exacerbate coral stress and
+growth following bleaching. These findings, combined                  significantly alter the coral-zooxanthellae symbiosis.
+with our results, suggest that parrotfish grazing and                 Predation stress may thus contribute to spatial variation
+bleaching may act synergistically to reduce coral fitness.            in the bleaching process. There has been much recent
+However, as the relationship between symbiont density                 attention given to the role of parrotfish in coral reef
+and fitness is non-linear (Fitt et al. 1993) and may be               resilience: although increased parrotfish abundance in
+site-specific, further study is needed to determine the               marine protected areas indirectly benefits corals by
+physiological and fitness consequences of the reduced                 decreasing macroalgal cover (Mumby et al. 2006), this
+symbiont densities we document here.                                  study shows that parrotfish grazing may play a more
+    Environmental change has been previously shown to                 complex role. It is well established that reef fish com-
+cause changes in Symbiodinium spp. communities (Ro-                   munities are rapidly changing, (Nystrom et al. 2000;
+wan et al. 1997; Baker 2001; Lewis and Coﬀroth 2004).                 Myers and Worm 2003), coral cover is declining
+Prior to the bleaching event, we detected only type C7                (Gardner et al. 2003; Pandolfi et al. 2003), and the
+Symbiodinium in our colonies, as expected since various               world’s oceans are getting warmer (Hughes et al. 2003).
+types of clade C are frequently found in deep-water                   As a result, it is crucial to understand the synergistic
+Montastraea spp. throughout the Western Atlantic                      eﬀects of multiple stressors, including chronic fish
+(LaJeunesse 2002). After bleaching, we found that a                   grazing, on coral survival and recovery.
+                                                                                                                                        367
+
+Acknowledgements The authors thank Sam Benson, Dan Miller,               Johannes RE, Wiebe WJ (1970) A method for determination of
+and Claudette DeCourley for diving assistance; Jeﬀ Chabot for               coral tissue biomass and composition. Limnol Oceanogr
+equipment design and data collection; Davey Kline, and Hiro                 15:822–824
+Fukami for species identification; Michael Reed for statistical ad-      Jones RJ (1997) Zooxanthellae loss as a bioassay for assessing
+vice; William Fitt, Gregory Schmidt, James Porter, Ken Sebens,              stress in corals. Mar Ecol-Prog Ser 149:163–171
+Emily Carrington, Todd LaJeunesse, and Mike Lesser provided              LaJeunesse TC (2001) Investigating the biodiverstiy, ecology, and
+insightful comments. Peter Mumby and two anonymous reviewers                phylogeny of endosymbiotic dinoflagellates in the genus Sym-
+greatly improved this manuscript. We thank Mike Carpenter and               biodinium using the ITS region: in search of a ‘‘species’’ level
+Klaus Ruetzler for their kind support and William Fitt and                  marker. J Phycol 37:866–880
+Gregory Schmidt for their generous lab support and funding for           LaJeunesse TC (2002) Diversity and community structure of sym-
+the genetic aspects of this study (NSF 9906976 and 0137007 Fitt).           biotic dinoflagellates from Caribbean coral reefs. Mar Biol
+This research was funded by the Smithsonian Caribbean Coral                 141:387–400
+Reef Ecosystems Program (CCRE contribution #718), the Tufts              LaJeunesse TC (2005) ‘‘Species’’ radiations of symbiotic dinofla-
+Institute for the Environment, and PADI Project AWARE (to                   gellates in the Atlantic and Indo-Pacific since the Miocene-
+RDR).                                                                       Pliocene transition. Mol Biol Evol 22:570–581
+                                                                         LaJeunesse TC, Trench RK (2000) The biogeography of two spe-
+                                                                            cies of Symbiodinium (Freudenthal) inhabiting the intertidal
+                                                                            anemone Anthopleura elegantissima (Brandt). Biol Bull
+References                                                                  199:126–134
+                                                                         LaJeunesse TC, Loh WKW, van Woesik R, Hoegh-Guldberg O,
+Aronson RB, Precht WF, Toscano MA, Koltes KH (2002) The                     Schmidt GW, Fitt WK (2003) Low symbiont diversity in
+    1998 bleaching event and its aftermath on a coral reef in Belize.       southern Great Barrier Reef corals, relative to those of the
+    Mar Biol 141:435–447                                                    Caribbean. Limnol Oceanogr 48:2046–2054
+Baker AC (2001) Reef corals bleach to survive change. Nature             Lesser MP (2004) Experimental biology of coral reef ecosystems.
+    411:765–766                                                             J Exp Mar Biol Ecol 300:217–252
+Baker AC (2003) Flexibility and specificity in coral-algal symbiosis:    Lewis SM (1986) The role of herbivorous fishes in the organization
+    diversity, ecology, and biogeography of Symbiodinium. Annu              of a Caribbean reef community. Ecol Monogr 56:183–200
+    Rev Ecol Evol S 34:661–689                                           Lewis CL, Coﬀroth MA (2004) The acquisition of exogenous algal
+Bruckner AW, Bruckner RJ (1998) Destruction of coral by Spari-              symbionts by an octocoral after bleaching. Science 304:1490–
+    soma viride. Coral Reefs 17:350                                         1492
+Bruckner AW, Bruckner RJ, Sollins P (2000) Parrotfish predation          Loya Y, Sakai K, Yamazato K, Nakano Y, Sambali H, van Wo-
+    on live coral: ‘‘spot biting’’ and ‘‘focused biting’’. Coral Reefs      esik R (2001) Coral bleaching: the winners and the losers. Ecol
+    19:50                                                                   Lett 4:122–131
+Coles SL, Brown BE (2003) Coral bleaching—capacity for accli-            Marsh JA (1970) Primary productivity of reef-building calcareous
+    matization and adaptation. Adv Mar Biol 46:183–223                      red algae. Ecology 51:255–263
+Edmunds PJ (1994) Evidence that reef-wide patterns of coral              Marshall PA, Baird AH (2000) Bleaching of corals on the Great
+    bleaching may be the result of the distribution of bleaching-           Barrier Reef: diﬀerential susceptibility among taxa. Coral Reefs
+    susceptible clones. Mar Biol 121:137–142                                19:155–163
+Fagoonee I, Wilson HB, Hassell MP, Turner JR (1999) The                  McClanahan TR, Maina J, Starger CJ, Herron-Perez P, Dusek E
+    dynamics of zooxanthellae populations: a long-term study in             (2005) Detriments to post-bleaching recovery of corals. Coral
+    the field. Science 283:843–845                                          Reefs 24:230–246
+Finelli CM, Helmuth BST, Pentcheﬀ ND, Wethey DS (2006) Water             Meesters EH, Bak RPM (1993) Eﬀects of coral bleaching on tissue
+    flow influences oxygen transport and photosynthetic eﬃciency            regeneration potential and colony survival. Mar Ecol-Prog Ser
+    in corals. Coral Reefs 25:47–57                                         96:189–198
+Fitt WK, Spero HJ, Halas J, White MW, Porter JW (1993)                   Meesters EH, Noordeloos M, Bak RPM (1994) Damage and
+    Recovery of the coral Montastrea annularis in the Florida Keys          regeneration: links to growth in the reef-building coral Mon-
+    after the 1987 ‘bleaching event’. Coral Reefs 12:57–64                  tastrea annularis. Mar Ecol-Prog Ser 112:119–128
+Fitt WK, McFarland FK, Warner ME, Chilcoat GC (2000) Sea-                Mumby PJ, Dahlgren CP, Harborne AR, Kappel CV, Micheli F,
+    sonal patterns of tissue biomass and densities of symbiotic di-         Brumbaugh DR, Holmes KE, Mendes JM, Broad K, Sanchi-
+    noflagellates in reef corals and relation to coral bleaching.           rico JN, Buch K, Box S, Stoﬄe RW, Gill AB (2006) Fishing,
+    Limnol Oceanogr 45:677–685                                              trophic cascades, and the process of grazing on coral reefs.
+Gardner TA, Cote IM, Gill JA, Grant A, Watkinson AR (2003)                  Science 311:98–101
+    Long-term region-wide declines in Caribbean corals. Science          Myers RA, Worm B (2003) Rapid worldwide depletion of preda-
+    301:958–960                                                             tory fish communities. Nature 423:280–283
+Garzon-Ferreira J, Reyes-Nivia MC (2001) Incidence of fish pre-          Nakamura T, van Woesik R (2001) Waterflow rates and passive
+    dation on stony corals at four atolls of the archipelago of San         diﬀusion partially explain diﬀerential survival of corals during
+    Andres and Providencia (Colombian Caribbean). Bol Inv Mar               the 1998 bleaching event. Mar Ecol-Prog Ser 212:301–304
+    Costeras 30:133–150                                                  Nystrom M, Folke C, Moberg F (2000) Coral reef disturbance and
+Glynn PW (1991) Coral reef bleaching in the 1980s and possible              resilience in a human-dominated environment. Trends Ecol
+    connections with global warming. Trends Ecol Evol 6:175–179             Evol 15:413–417
+Hoegh-Guldberg O (1999) Climate change, coral bleaching and the          Pandolfi JM, Bradbury RH, Sala E, Hughes TP, Bjorndal KA,
+    future of the world’s coral reefs. Mar Freshwater Res 50:839–           Cooke RG, McArdle D, McClenachan L, Newman M, Pare-
+    866                                                                     des G, Warner RR, Jackson JBC (2003) Global trajectories of
+Hughes TP (1994) Catastrophes, phase shifts, and large scale                the long-term decline of coral reef ecosystems. Science
+    degradation of a Caribbean coral reef. Science 256:1574–1551            301:955–958
+Hughes TP, Baird AH, Bellwood DR, Card M, Connolly SR,                   Rotjan RD, Lewis SM (2005) Selective predation by parrotfishes
+    Folke C, Grosberg R, Hoegh-Guldberg O, Jackson JBC,                     on the reef coral Porites astreoides. Mar Ecol-Prog Ser 305:193–
+    Kleypas J, Lough JM, Marshall P, Nystrom M, Palumbi SR,                 201
+    Pandolfi JM, Rosen B, Roughgarden J (2003) Climate change,           Rotjan RD, Lewis SM (2006) Parrotfish abundance and selective
+    human impacts, and the resilience of coral reefs. Science               corallivory on a Belizean coral reef. J Exp Mar Biol Ecol (in
+    301:929–933                                                             press). DOI 10.1016/j.jembe.2006.03.015
+368
+
+Rowan R, Knowlton N, Baker AC, Jara J (1997) Landscape                 Toller WW, Rowan R, Knowlton N (2001a) Repopulation of
+   ecology of algal symbionts creates variation in episodes of coral      zooxanthellae in the Caribbean corals Montastraea annularis
+   bleaching. Nature 388:265–269                                          and M. faveolata following experimental and disease-associated
+Sanchez JA, Gil MF, Chasqui LH, Alvarado EM (2004) Grazing                bleaching. Biol Bull 201:360–373
+   dynamics on a Caribbean reef-building coral. Coral Reefs            Toller WW, Rowan R, Knowlton N (2001b) Zooxanthellae of the
+   23:578–583                                                             Montastraea annularis species complex: patterns of distribution
+Stewart SR (2005) Tropical cyclone report: Hurricane Ivan.                of four taxa of Symbiodinium on diﬀerent reefs and across
+   National      Hurricane     Center.   http://www.nhc.noaa.gov/         depths. Biol Bull 201:348–359
+   2004ivan.shtml?                                                     Van Veghel MLJ, Bak RPM (1994) Reproductive characteristics of
+Szmant AM, Gassman NJ (1990) The eﬀects of prolonged                      the polymorphic Caribbean reef building coral Montastrea
+   ‘‘bleaching’’ on the tissue biomass and reproduction of the reef       annularis. III. Reproduction in damaged and regenerating col-
+   coral Montastrea annularis. Coral Reefs 8:217–224                      onies. Mar Ecol-Prog Ser 109:229–233
+Thornhill DJ, LaJeunesse TC, Kemp DW, Fitt WK, Schmidt GW              Warner ME, Chilcoat GC, McFarland FK, Fitt WK (2002) Sea-
+   (2006) Multi-year, seasonal genotypic surveys of coral-algal           sonal fluctuations in the photosynthetic capacity of photosys-
+   symbioses reveal prevalent stability or post-bleaching reversion.      tem II in symbiotic dinoflagellates in the Caribbean reef-
+   Mar Biol 148:711–722                                                   building coral Montastrea. Mar Biol 141:31–38
+
+
+
+
+View publication stats
+

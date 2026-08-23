@@ -1,0 +1,787 @@
+Damage and regeneration: links to growth in the reef-building coral Montastrea
+annularis
+Author(s): Erik H. Meesters, Marco Noordeloos and Rolf P. M. Bak
+Source: Marine Ecology Progress Series , September 8 1994, Vol. 112, No. 1/2 (September
+8 1994), pp. 119-128
+Published by: Inter-Research Science Center
+
+Stable URL: https://www.jstor.org/stable/24847643
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+
+
+
+            is collaborating with JSTOR to digitize, preserve and extend access to Marine Ecology Progress
+            Series
+
+
+
+
+                                                    This content downloaded from
+                                  128.163.239.178 on Thu, 17 Mar 2022 13:06:30 UTC
+                                            All use subject to https://about.jstor.org/terms
+   v«i 119. 110 19« 1 Qû/i MARINE ECOLOGY PROGRESS SERIES _ ... , , c 4 . 0
+    Vol. 112: 119-128, 1994 Published September 8
+                        Mar. Ecol. Prog. Ser. *
+
+
+
+
+      Damage                                                    and                         regener
+            reef-building coral Montastrea annularis
+                    Erik H. Meesters1, Marco Noordeloos1, Rolf P. M. Bäk1,2
+                  'Institute of Taxonomic Zoology, PO Box 4766, 1009 AT Amsterdam, The Netherlands
+              Netherlands Institute for Sea Research (NIOZ), PO Box 59, 1790 AB Den Burg, The Netherlands
+
+
+
+
+            ABSTRACT: The influence of colony tissue regeneration on growth was studied in the reef-building
+            coral Montastiea annularis (Ellis & Solander, 1786) by buoyant weighing. Experimental corals
+            consisted of a series of cores, 2 cores from each of 20 colonies. One core of each pair was artificially
+            damaged by removing approximately 1 cm2 of tissue and skeleton, the other served as a control for nor
+            mal growth. Growth was measured as calcification, i.e. mg calcium carbonate production. There was a
+            linear relation between growth and solar radiation. Variation in growth, calculated before the regener
+            ation experiment, was insignificant between cores from the same colony but significantly different
+            between colonies. Growth was reduced in damaged cores when compared to controls. Calcification
+            decreased immediately upon damage and remained reduced during the whole study (56 d). Lesions
+            caused by physical damage did not always close completely. We propose and test a model that
+            describes regeneration in terms of closure of lesions. This model includes an asymptote in an exponen
+            tially decreasing function. Calcification remained suppressed after regeneration slowed down and
+            lesions were still not completely closed, probably because of the formation of polyps and skeletal fea
+            tures in the new tissue. We suggest regeneration to be fuelled by polyps and tissue directly bordering
+            the damaged area. Also, successful regeneration depends on the amount of tissue bordering a lesion
+            and not on colony size.
+
+            KEY WORDS: Coral ■ Damage • Regeneration • Growth • Lesion • Energy • Scleractinia
+
+
+
+
+                    INTRODUCTION                                      & Eys 1975, Cameron et al. 1991), competition (Lang &
+                                                                      Chornesky 1990), and man (Brown & Howard 1985).
+  Reefs throughout the world are degrading                 through
+                                                        Polyps  are the modules building the coral colony,
+anthropogenic disturbances (Colloquium and                Forum
+                                                      which has   clonal characteristics (Jackson & Coates
+on Global Aspects of Coral Reefs, Miami, FL, USA,     1986). Mortality of polyps will result in partial mortal
+1993). The most imminent anthropogenic threats to ity of coral colony surfaces. Such lesions, patches of
+coral reefs are nutrient enrichment and increased sed bare skeleton, are (wholly or partly) surrounded by the
+imentation (e.g. Tomascik & Sander 1985, 1987a, b,    remaining living colony surface tissue. Lesions can
+Rogers 1990, Tomascik 1990, 1991, Babcock & Davies    become a permanent feature, colonised by competing
+1991, Hunte & Wittenberg 1992, Wittenberg & Hunte organisms (e.g. algae, excavating sponges), but often a
+1992). Human disturbances may act synergistically colony will restore its former integrity through the
+with other disturbances (human or nonhuman) and       regeneration of tissue and skeleton (Loya 1976, Bäk
+irreversibly increase damage and mortality on coral et al. 1977, Bäk & Steward-van Es 1980, Bäk 1983,
+reefs. Hermatypic corals, the main actors in the con Meesters et al. 1992, Meesters & Bäk 1993).
+struction and maintenance of coral reefs, suffer dam    Regeneration plays a fundamental role in colony sur
+age from hurricanes (Rogers 1993), sedimentation (Bak vival. Because it requires energy, regeneration affects
+& Elgershuizen 1976, Bak 1978), temperature (Jokiel & growth (Bak 1983), reproduction (Rinkevich & Loya
+Coles 1990), emersion at low tide (Loya 1972, Babcock 1989), and possibly also resistance to diseases (Bak &
+1991), prédation (Ott & Lewis 1972, Endean 1973, Bak  Criens 1981), as well as competitive ability. The regen
+
+© Inter-Research 1994
+
+Resale of full article not permitted
+
+
+
+
+                                                 This content downloaded from
+                               128.163.239.178 on Thu, 17 Mar 2022 13:06:30 UTC
+                                         All use subject to https://about.jstor.org/terms
+120 Mar. Ecol. Prog. Ser. 112: 119-128, 1994
+
+
+
+
+ eration of a wound starts by the sacrificed.             formation          of a
+                                                                    Dodge et al.      new
+                                                                                 (1984)       tis (1989) modi
+                                                                                        and Davies
+sue layer that is formed by the surrounding tissue.      fied the method of buoyant weighing (Franzisket 1964,
+Polyps and new septa start to emerge in this layer after Bak 1973), which is non-destructive, to provide short
+approximately 2 wk. In fast regenerating species (e.g.   term measurements of coral growth. In this paper we
+Acropora palmata and Meandrina meandrites) this                      report the influence of the regeneration of small
+means that lesions may be completely closed by new                   lesions on the short-term growth of the coral Montas
+tissue before any sign of new polyps appears in the                  trea annularis (Ellis & Solander, 1786) using the
+new tissue. In general, the regeneration of a lesion,                method of Davies (1989). We propose a model that
+expressed in terms of a reduction in lesion size, follows            accurately describes complete and incomplete regen
+an exponentially decreasing curve (Bak 1983,                         eration.
+
+Meesters et al. 1992, Meesters & Bak 1993). However,
+environmental stress, lesion size, and competition can
+prevent lesion closure (Bak et al. 1977, Bak & Steward                               MATERIALS AND METHODS
+van Es 1980, Meesters et al. 1992, Meesters & Bak
+1993). In such cases lesion size may never approach       We studied the effects of lesion regeneration
+zero (although the exponential regression line does).   growth of the coral Montastrea annularis, the main
+When the regeneration rate is lower, lesions remain     reef-building coral in the Caribbean, at the island of
+open longer. This means increased possibility of suc    Curaçao, Netherlands Antilles. The experiments were
+cessful settlement of alien organisms in this new patch restricted to the columnar morphotype (Van Veghel &
+of bare skeleton. Subsequent competition between        Bak 1993), which is the most common type on the reefs
+coral and settler may result in coral damage and mor    of Curaçao. Two cores (diameter 3.7 cm) were sawcut
+tality.                                                 from each of 20 haphazardly collected colonies. In this
+    Growth rates of corals have often been used as a    way 2 samples of the same genetic identity were
+measure of environmental stress (e.g. Dodge et al.      obtained that enabled determination of intra-colony
+ 1974, Bak 1978, Hudson 1981, Neudecker 1981, Ken       growth variation and that, more importantly, made the
+dall et al. 1983, Cortes & Risk 1985). Damage to a coralregeneration experiment a pairwise design, excluding
+means metabolic stress, because the regeneration of     variation between colonies. The cores were clamped
+damage implies loss of energy. Bak (1983) found         into pre-weighed tight-fitting PVC tubes and returned
+reduced growth (measured as skeletal extension) in      to the collecting site (Carmabi buoy 1, depth 7 m;
+Acropora palmata 2 mo after lesion infliction. Methods Fig. 1). They were left undisturbed on the reef while
+for measuring growth often have the disadvantage of     the tissue on the edge of the cores regenerated. After
+either requiring long time intervals to measure a sub   3 wk all core edge damage had been regenerated and
+stantial growth increment or to require the coral to be the cores were ready for the experiments.
+                                                                                             Growth. Growth of the cores was
+
+                                                                                           determined by buoyant weighing
+                                                                                           (Franzisket 1964, Bak 1973, 1976, Jok
+                                                                                           iel et al. 1978, Dodge et al. 1984),
+                                                                                           recently modified by Davies (1989)
+                                                                                           to increase accuracy. We applied this
+                                                                                           modified method using a Sartorius
+                                                                                           1217 MP electronic balance. To weigh
+                                                                                           the cores they were retrieved from the
+                                                                                           reef, quickly transported to the labora
+                                                                                           tory, and returned within 2 to 6 h. The
+                                                                                           cores were kept underwater and heav
+                                                                                           ily shaded during the whole process.
+                                                                                           Practically, they received light only
+                                                                                           when in situ on the reef. Mean density
+                                                                                           of PVC was determined by weighing
+                                    -m
+                                                                                           10 pieces of PVC in air and water with
+                                                                                           known density. Calcium carbonate
+                                                                                           density was calculated by weighing 10
+                                                                                           small cores in water with known den
+
+                                                                                           sity and in air after drying to constant
+         Fig. 1. Montastrea annularis. Experimental cores inweight.
+                                                             situ
+
+
+
+
+                                                This content downloaded from
+                              128.163.239.178 on Thu, 17 Mar 2022 13:06:30 UTC
+                                        All use subject to https://about.jstor.org/terms
+                                Meesters et al.: Damage and regeneration of a <                                      J.Z, ±
+
+
+
+
+  Three factors potentially influence growth in cores    our with and without a lesion could only be more and
+experiments: light, handling, and regeneration. To      not less.
+
+separate them we first assessed the effects of light and Lesion recovery was followed through time in terms
+handling.                                               of lesion size. Simple exponential regression (Lesion
+  Light. Coral calcification is closely linked to photo size = S0 x I0(slope x days)) has been used effectively to
+synthesis (Kawaguti & Sukamoto 1948, Goreau 1963),      describe lesion regeneration (Bak 1983, Meesters &
+and is therefore light-enhanced (Goreau 1959). Calcifi Bak 1993). This model assumes that lesion size will
+cation and photosynthesis can be described by the       eventually approach zero. However, lesions are some
+same light-dependent model (Bosscher & Meesters         times not completely closed. Initially intrinsic, later
+1992). Total integrated irradiance during an overcastextrinsic factors such as settlement of organisms in the
+day may be less than 50 % of a normal sunny day and lesions can be responsible. Consequently, regenera
+this can influence growth (Davies 1991).                tion may be better described by the model: Lesion size
+  In our experiments cores could not be weighed at = S„ + (Smax x io|slope x days)), which is a modification of
+exactly the same time each measuring day. Conse         the equations of Bertalanffy (1957). This model simply
+quently they received different amounts of light. states that lesion size decreases exponentially to an
+Therefore, and to correct for daily variations in irradiasymptote (SJ determined by the initial lesion size,
+ance, we standardised growth to the average inte        which is the sum of the asymptotic value (SJ and the
+grated daily radiation. Standardisation was done by     maximum lesion size that will be closed completely
+dividing growth by total irradiance integrated over the (Smax). The slope and Smax depend on the regeneration
+time the core was at the experimental site and multi    potential of the species and environmental conditions.
+plying that by the amount of light of a normal day. We  Sn depends on species and initial lesion size. As regen
+tested the assumption of a linear relation between      eration rate decreases, alien organisms become more
+growth and light. Hourly radiation measurements         firmly established in the lesion and lesion size
+were obtained from the Curaçao Meteorological Sur       approaches SM.
+vey at Hato Airport. During our study total integrated     Statistics. The influence of handling (every 2, 4 or
+irradiance of an average day was approximately 49.8 E   8 d) was tested with a nested ANOVA (Sokal & Rohlf
+m~2 of photosynthetically active radiation (PAR; 400 1981, Zar 1984). The model describing lesion regener
+to 700 nm wavelength). This equals approximately     ation was calculated by an iterative line fitting method
+3000 Wh nr2.                                                      using least squares (the 'Simplex estimation method').
+  Handling. To assess the influence of handling,                  To calculate the standard error of the mean lesion size
+
+including repeated transport to the laboratory andat each data point, the mean square error (MSE) of
+repeated weighing, a nested design was used. The          repeated-measures ANOVA was used. The assump
+20 colonies (2 cores colony-1) were randomly assigned tion of no interaction between time and lesions in this
+to 3 groups that were weighed at different intervals analysis is valid because all lesions displayed the same
+during a 16 d period. Cores of the first group were       regeneration pattern. The effect of lesion regeneration
+measured at the end of every second day; cores of the     on growth was tested by a repeated-measures ANOVA
+second and third group were measured at the end of (the same cores were measured through time). Since
+every fourth and eighth day respectively. After 16 d      the statistical design is basically a repeated-measures
+the total increase in weight was determined for each      ANOVA with paired data, we simplified the analysis
+core. Because cores of the first group had been han       by taking the difference in growth between the cores
+dled, respectively, 2 and 4 times as often as the second from the same colony (one with, and one without a
+and third group (and the second group twice as often      lesion) as dependent variable. A priori planned com
+as the third group), thus receiving less light, growth of parisons were between growth difference before
+each core was standardised to average accumulated         lesion infliction, after, and the interaction between
+daily radiation.                                          before and after. The assumption of no interaction be
+  Regeneration and growth. To study regeneration, atween time and colonies was justified by a pilot study
+lesion was made on one of the 2 cores from each colonywith replicated data, which revealed no significant
+with a cylindrical grinding stone (0 10 mm). The aver     interaction between these factors (F27,4o = 1.25, n = 80,
+age lesion surface area (including the shallow wall of p = 0.26). Furthermore, a correction of the MSE was
+the lesion) and depth were respectively 170 mm2 (SE = calculated with Tuckey's test for non-additivity (Sokal
+6.6) and 2.16 mm (0.19, n = 20). The initial area of liv& Rohlf 1981). ANOVA assumptions of all analyses
+ing tissue that was removed with lesion infliction was were graphically checked. Standard errors and confi
+subtracted from the total core area when growth was       dence limits in figures were calculated from the MSE
+calculated per cm2. This makes our growth estimatesin the statistical tests. All analyses were performed
+conservative in that the difference in growth between with the program Systat (Wilkinson 1989).
+
+
+
+
+                                              This content downloaded from
+                            128.163.239.178 on Thu, 17 Mar 2022 13:06:30 UTC
+                                      All use subject to https://about.jstor.org/terms
+ 122 Mar. Ecol. Prog. Ser. 112: 119-128, 1994
+
+
+
+
+                                                                                                RESULTS
+
+
+
+                                                                                                    Light
+
+                                                                         There is a linear relationship between growth, mea
+                                                                      sured as weight increase, and the amount of irradiance
+                                                                      a core had received since the previous weighing
+                                                                      (Fig. 2). Because average daily irradiance was about
+                                                                      49.8 E m"2, data points in the figure represent approx
+                                                                      imately 1, 2, 4 and 7 d of light. The variation between
+                                                                      colonies is of the same magnitude whether corals were
+                                                                      weighed after 1, 2, 4 or 7 d. Calcification increases by
+                      100   200    300      400
+                                                                      1 mg cm-2 every additional 16 E m 2 (PAR) and on an
+                      Light            (Einsteins                       m-2)
+                                                                        irr2)
+                                                                      average day weight increases about 3 mg cm"2.
+
+ Fig. 2. Montastrea annularis. Mean growth of rando
+ lected growth measurements (n = 30) in our data se
+to received radiation. Regression: Growth = 2.58 + (0.06 x Handling
+                  Light); r2 =0.67; p < 0.001
+                                                                         Handling included collecting, transporting to the
+                                                                      laboratory, weighing and taking the corals back to the
+                                                                      reef. Mean growth of 3 groups of colonies (2 cores per
+                                                                      colony) handled 2, 4 or 8 times in 16 d is shown in
+                                                                      Fig. 3.
+                                                                         If there had been a handling effect, one would
+                                                                      expect growth to be higher when a colony is handled
+                                                                      less. Instead, mean growth for colonies sampled only
+                                                                      once every 8 d was even less than for colonies in the
+                                                                      other 2 treatments. However, there was no significant
+                          2   4   8                                   difference in growth between the 3 handling intensi
+                           Interval                               ties
+                                                                (days) (Table 1). The overall mean growth was 3.60 mg
+                                                                      cm-2 d"1 (SE = 0.20; range 1.78 to 5.45).
+  Fig. 3. Montastrea Table                                      annularis.                     Mean
+                                                                     1 shows a large added variance component colo
+of series of colonies measured every 2, 4, and 8 d. Vertical
+                                                             among colonies within each treatment (p < 0.001). This
+lines denote 95% confidence limits. Number of samples per
+                group: n2 = 10; n4 = 10; n8 = 20             is caused by large differences in growth between
+                                                                      colonies (Fig. 4). The coefficient of variation, i.e. the
+                                                                      standard deviation expressed as a percentage of the
+                                                                      mean, a measure that is independent of the unit of
+                                                                      measurement, was 27.3 % for colony growth. The MSE
+                                                                      of Table 1, estimating the average variance between
+                                                                      the 2 cores of each colony, is very small. Cores from the
+                                                                      same colony grow approximately equally fast, but
+                                                                      mean growth between colonies may differ by a factor
+
+
+
+                                                                      Table 1. Montastrea annularis. Nested ANOVA on mean daily
+                                                                      growth of colonies sampled every 2, 4, and 8 d at the end of
+                                                                      a 16 d period. Colonies are nested within the 3 treatments.
+                                                                                               "*p< 0.001
+
+
+                                                                        Source of variation    SS           df    MS      F
+                  Growth Core I (mg cm"2 d"1)
+                                                                        Interval               9.16          2   4.578   2.93
+Fig. 4. Montastrea annularis. Similarity in growth between
+                                                                 Colony x Interval            26.60         17   1.565   8.34"*
+the 2 cores (Core I and Core II) of each colony (n = 20), after
+                                                                 Error                         3.75         20   0.188
+18 d. Dashed line represents equal growth. Solid line is
+regression line; Growth core II = 0.85 + (0.83 x Growth core I); Total                        39.51         39
+
+                     r2 = 0.71, p< 0.001
+
+
+
+
+                                                  This content downloaded from
+                                128.163.239.178 on Thu, 17 Mar 2022 13:06:30 UTC
+                                          All use subject to https://about.jstor.org/terms
+                                          Meesters et al.: Damage and regeneration of a coral 123
+
+
+
+
+of 2.5. This is illustrated in Fig. 4 by the spread of the
+points along the regression line, which approximates
+variation between colonies, and the average smallest
+distance of the data points to the regression line, which
+is approximately equal to the variation between cores.
+  Growth (standardised to an average day of 49.8 E
+m 2, PAR) was not significantly different between
+cores from the same colony. A regression analysis of
+the data in Fig. 4 gives a slope of 0.83 (± 0.27, 95 % CL)
+with a coefficient of determination (r2) of 0.71. This
+slope is not significantly different from 1 (t-test, t =
+1.36, df = 18, p > 0.1), meaning that there is no differ
+ence between cores from the same colony.
+
+
+                                                                            Fig. 5. Montastrea annularis. Mean lesion size (± SE) at in
+                Regeneration and growth                                     fliction of lesion and subsequently through time. The model,
+                                                                            Size = S» + (Smax x I0,slope x days>), results in the line Size = 35 +
+  After lesions were made, the surrounding tissue                           (130 x io(_0 05 x days>), r2 = 0.73, n = 240. For abbreviations in the
+                                                                                                     model see text
+started to recover the bare skeleton at a fast rate
+
+(Fig. 5). Mean lesion size decreased with time (re
+peated-measures ANOVA, p < 0.001), but no lesion          aged cores. Growth remained suppressed in the
+was closed during this study and mean lesion size         regenerating cores even after lesion tissue regenera
+reached an asymptote at approximately 35 mm2.             tion (Fig. 5) stopped after approximately 30 d.
+  The theoretical model [Lesion size = + (Smax x            There was no significant difference in growth of all
+lO^iope x days)^ included an asymptote, proved            cores at both dates before lesion infliction (Fig. 7,
+a good approximation for the regeneration processTable 3). After lesion infliction there is also no differ
+(Table 2). The line that is estimated by the model is     ence between days (factor 'After' in Table 3). However,
+shown in Fig. 5 (r2 = 0.73). Lesions with an average size during this period there is a large difference in growth
+of 170 mm2 regenerated only to a size of 35 mm2 (SJ; between undamaged and regenerating cores (signifi
+the maximal closable lesion size (Smax) is 130 mm2. An cant interaction term in Table 3). Mean growth differ
+alternative model, which uses an exponential regres       ences (mg cm"2 d"1 ± 95% CL) for the period before
+sion and assumes no asymptote (Size = Constant x          and after are respectively 0.26 (± 0.28) and 0.70
+lO'siope x days))r accounted for only 53% of the total (± 0.13). Before lesion infliction the difference in
+variation.                                                growth was not different from zero, while after lesion
+   Mean growth of undamaged cores and regenerating        infliction the difference between cores with and with
+
+cores is shown in Fig. 6. Before lesion infliction the    out a lesion was negative, which means that cores
+average growth of the 2 groups of cores was 3.65 and without a lesion were growing faster.
+3.39 mg cm-2 d_1 (SE = 0.10). During the period after
+infliction of lesions there was a large difference in
+growth between damaged and undamaged cores. The
+average growth during this period was 1.49 mg cm-2
+d"1 for damaged cores and 2.19 (SE = 0.05) for undam
+
+
+Table 2. Estimated parameters (± SE) in the model: Lesion size
+= S„ + (Smax x io(slope x daYs'). The parameters were estimated by
+an iterative line fitting model using least squares. S„: the size
+to which an average lesion (of size S„ + Smax) in Montastrea
+annularis will be healed; Smax: the maximum lesion size that
+will completely regenerate; Slope: the slope of the regression                          -15       0
+                                                                                                  0    15
+                                                                                                       15 30
+                                                                                                          30 45
+                                                                                                             45                    60
+                         line; n = 240
+                                                                                                     Days                    after                   le
+
+               S„            Q
+                            '-'max          Slope         r2                    Fig.                 6.          Montastr
+                                                                               from  20  colonies
+ Mean         35.02        130.27         -0.050         0.73                  sion infliction. O
+ SE            3.14           5.19          0.005                              while the  other s
+                                                                                                     have no lesion
+
+
+
+
+                                                       This content downloaded from
+                                     128.163.239.178 on Thu, 17 Mar 2022 13:06:30 UTC
+                                               All use subject to https://about.jstor.org/terms
+ 124 Mar. Ecol. Prog. Ser. 112: 119-128, 1994
+
+
+
+
+                                                                         damaged cores also showed a decrease in growth dur
+                                                                         ing time, although this might have been affected by
+                                                                         regeneration (Flg n = 29.04, p < 0.001).
+
+
+
+                                                                                                   DISCUSSION
+
+
+                                                                                             Regeneration and growth
+
+
+                                15        30     45
+                                                                            The results clearly demonstrate that growth de
+                                                                         creases in Montastrea annularis after lesion infliction
+                        Days                     after                  lesion                     infliction
+                                                                 (Figs. 6 & 7, Table 3). A lesion of only 8.8% of the to
+Fig. 7. Montastrea annularis. Mean difference in growth          tissue area of the core suppressed growth by approxi
+(mg cm-2 d"\ ± SE) between damaged and undamaged cores mately 32% during a period of at least 56 d. Growth
+relative to the time of lesion infliction. Horizontal line repre
+                                                                 remained suppressed even after regeneration, in terms
+                     sent equal growth
+                                                                 of lesion tissue recovery, stopped (Figs. 5 & 7). The for
+                                                                 mation of septa, polyps and internal structures that
+  Growth of both groups, i.e. undamaged cores and                emerge when tissue regeneration slows down is prob
+regenerating cores, appeared to be decreasing                            ably responsible for the prolonged reduction of
+                                                  growth. A similar prolonged impact of damage has
+through time (Fig. 6). This was affirmed by an ANOVA
+on the growth data of the cores without a lesion             been recorded as a decrease in skeletal extension over
+
+(Table 4). The same analysis of the growth data of thean extended period of time (Bak & Criens 1981, Bak
+                                                             1983) and a decrease in reproductive output (Rinke
+                                                             vich & Loya 1989, Meesters unpubl.).
+                                                               Damage is a serious intervention in coral colony
+Table 3. Montastrea annularis. Repeated-measures ANOVA
+on the difference in growth between cores with and without a processes. Corals respond by diverting a considerable
+lesion through time. Time is partitioned into measurements amount of available energy to regeneration and this
+before lesions were made, measurements after lesions were    reduces growth. Regeneration of damage in corals dif
+made, and an interaction between before and after, "p < 0.05;fers between species and is affected by sedimentation,
+                         **p<0.01
+                                                             bleaching, kind of damage and surface area of the
+                                                                         lesion (Bak et al. 1977, Bak & Steward-van Es 1980,
+ Source of variation     SS      df            MS        F
+                                                                         Bak & Criens 1981, Bak 1983, Lester & Bak 1985,
+                                                                         Meesters et al. 1992, Meesters & Bak 1993).
+ Colony                 95.60     19           5.03    6.22**
+                                                       6.22"
+ Time                    7.82     11           0.71    0.88               An intrinsic characteristic of the regeneration pro
+   Before                0.07         1        0.10    0.12              cess appears to be the exponential decrease in lesion
+   After                 1.63         9        0.18    0.22
+                                                                         size (Bak 1983, Meesters et al. 1992). But this decrease
+   Before x After        6.12         1        6.12    7.57"
+ Error                 170.76    209           0.82
+                                                                         in size often ceases before lesions are completely
+   Non-additivity        3.30         1        3.30   4.08*
+                                                      4.08'              closed; a simple exponential regression, as it will al
+   Errorcorrected      168.10    208           0.81                      ways approach zero, will not provide the best descrip
+ Total                 282.69    239                                     tion of the process. With the introduction of an asymp
+                                                              tote in the exponential regression, regeneration and
+                                                              cessation of regeneration is much better described
+                                                              (Fig. 5).
+Table 4. Montastrea annularis. Repeated-measures ANOVA
+and regression of the growth of the cores without a lesion
+                                                                 We do not know why regeneration stops before a
+through time (n = 240). Resulting linear regression equation: wound    is fully closed. During the first week after lesion
+Growth = 3.36-(0.03xTime); r2 = 0.20. "pcO.Ol; ""p<0.001 infliction the only organisms that settle in lesions are
+                                                              filamentous algae. They do not appear to slow down
+ Source of variation   SS       df      MS        F           regeneration. Corals are known to overgrow algae that
+                                                              have infested dead parts of colonies (Fishelson 1973,
+ Cores                 113.16     19           5.96    9.87"'
+                                                                        Bak et al. 1977).
+  Time                 137.06     11       12.46      20.64"'
+                                                                          Lesion size is important in regeneration, because
+         Regression     74.26         1    74.26      11.87"
+     Deviations         62.79     10           6.28   10.40""           lesions above a certain size will not be recovered by
+ Error
+ Error                 126.16    209           0.60                     new tissue and will be colonised by other organisms.
+ Total                 376.38    239                                    But even in large lesions there will be an initial phase
+                                                                        of regeneration, an effort of the coral to close the
+
+
+
+
+                                                        This content downloaded from
+                                 :ffff:ffff:ffff:ffff:ffff:ffff on Thu, 01 Jan 1976 12:34:56 UTC
+                                               All use subject to https://about.jstor.org/terms
+                                 Meesters et al.: Damage and regeneration of a coral 125
+
+
+
+
+lesion. It is remarkable that regeneration
+                                      high of
+                                           mortality
+                                               largerbecause they do not recover from
+lesions stops after approximately the same             damage.
+                                                            time as in
+smaller lesions (Bak et al. 1977, Bäk & Steward-van Es   Our data emphasise the importance of the ratio
+1980, Meesters unpubl.). This indicates that regenera              lesion size / lesion perimeter, which will determine
+tion is primarily fuelled by a definite and limited                whether a lesion will be closed or not. This ratio
+
+source, presumably by the polyps and tissue directly      appears to be of general importance in the eco
+bordering the lesion. Regeneration per lesion perime patches (Sousa 1984). The importance of patch
+ter length should then be the same in small and large(Paine & Levin 1981) has not been assessed quantita
+lesions. Regenerative effort, the total amount of tissue tively in the recovery of space in coral reefs. The rate at
+regenerated per initial lesion perimeter length, was      which a patch is closed depends on the ratio of patch
+approximately the same (2.5 and 2.25 mm2 mnr1) for perimeter length / patch surface area in benthic com
+large (5 cm2) and small (1 cm2) lesions in Pontes munities (Sousa 1984). Small patches in mono-specific
+astreoides (Bak & Steward-van Es 1980).                   stands are closed by vegetative ingrowth from the
+  This means that an influence of colony size on regen perimeter. In larger patches growth from the perimeter
+eration is only expected in very small colonies, where    is approximately the same and not enough to close the
+the perimeter of a lesion includes all supportive tissue. patch (Paine & Levin 1981).
+Loya (1976) found survival in regenerating colonies of
+Stylophora pistillata smaller than 1.5 cm (average
+radius) to be low when compared to larger colonies.                             Growth
+
+These small colonies were probably below a threshold
+size. No such relation was found in colonies ranging        Removing the cores from the reef and measuring
+from 150 to 1100 cm2 (Bak & Steward-van Es 1990).         their growth did not affect calcification. This confirms
+  If we assume that growth rates are normal in the Davies' (1989) results, which showed no difference be
+larger part of the core surface but zero in an area along tween colonies measured daily, weekly, and every
+the perimeter of the lesion, we can calculate the size of 3 wk.
+the affected area. The average growth rate of a dam          Two undamaged cores of the same colony always
+aged core was 1.49 mg cm"2 d"1. Its total tissue surface showed very similar growth rates, but between
+area was approximately 9.75 cm2 [i.e. 10.75 minus the colonies there was large variation (Fig. 4). Because we
+(projected) lesion area of 1 cm2]. A damaged core compared the average difference in growth between
+would therefore calcify 14.5 mg d1. This can be the 2 cores from the same colony, we corrected for the
+accounted for by 6.6 cm2 of tissue from an undamaged variation between colonies. Because the damaged and
+core (mean growth of an undamaged core was 2.19 mg        control group consisted of the same genetic material,
+cm"2 d"1. Because the core is circular, we assume that growth patterns of these 2 groups are very similar
+the area of normally growing tissue is situated in a ring through time (Fig. 6). Large, possibly inherent, inter
+from the outer edge inwardly. Subtracting the 6.6 cm2 colony variability has been reported before (Bak 1976,
+from the total core area of 10.75 cm2 results in a total  Barnes & Crossland 1982, Dodge et al. 1984). The
+area, including the lesion, with a radius of 11.5 mm. coefficient of variation in this study was 27%, while
+This means that the affected area stretches only 6 mm     others have reported values of 35 % (Dodge et al. 1984)
+from the edge of the lesion, approximately the width of             and 50% (Barnes & Crossland 1982). This difference in
+2 polyps.                                                           coefficients may be caused by methodological differ
+  The loss of energy to regeneration may thus depend                ences or may be a species-specific characteristic.
+on the length of lesion perimeter, and not on lesion                  Davies (1990) reports growth rates of Montastrea
+size or colony size. If the lesion perimeter / lesion sur           annularis of 1.9 to 1.1 mg cm-2 d"1 (same depth as in
+face-area ratio is high, the lesion will be closed and
+                                                     this study), which are generally lower than ours (3.6 to
+the regeneration process may not use the potentially 1.5 mg cm"2 d"1). This difference in growth might be
+maximal amount of energy that can be allocated to re due to generally higher water transparency in Cura
+generation. If on the other hand this ratio is low, re çao. Using reported water transparency values (Tom
+generation will use all available energy and a lesion  ascik & Sander 1985) for the station where Davies
+may be closed or more likely remain open when avail found the highest growth, we calculated that the light
+able energy is insufficient. Below a certain ratio, le extinction coefficient was about twice as high as that
+sions will not be closed by tissue regeneration and    found normally in Curaçao (Bosscher & Meesters
+energy loss will increase linearly with lesion perime  1992).
+ter. Damage in very small colonies is likely to leave    Growth increased linearly with the amount of irradi
+too little tissue to supply enough energy for complete ance (Fig. 2). This is not contradictory to the notion that
+regeneration. Consequently, small colonies may have the relation growth-irradiance follows a hyperbolic
+
+
+
+
+                                               This content downloaded from
+                             128.163.239.178 on Thu, 17 Mar 2022 13:06:30 UTC
+                                       All use subject to https://about.jstor.org/terms
+126 Mar. Ecol. Prog. Ser. 112: 119-128, 1994
+
+
+
+
+tangent curve (Chalker et al. 1988, Bosscher & Mee    Acknowledgements. Werner Pauchli's marine and terrestr
+sters 1992) because we measured growth on a daily     support is gratefully acknowledged. We thank the Carma
+                                                      Institute for providing logistic support, and O. Frans, F.
+basis. During most of a normal day, PAR intensity is
+                                                      Isabella and A. Thiel for diving and other assistance in the
+above Io g5, the irradiance at which photosynthesis isfield. This research was supported by a grant from the
+95 % of the maximum photosynthesis (Barnes & ChalNetherlands Foundation for the Advancement of Tropical
+ker 1990). Therefore growth versus the daily increaseResearch (WOTRO) W84-311.
+in received radiation can be described by a straight
+line (Bak 1974, Gladfelter 1984).                                         LITERATURE CITED
+  However, growth decreased through time in our
+experiment, approaching the values found by Davies Babcock, R. C. (1991). Comparative demography of t
+(1990). Handling (tested during 16 d) had no influence cies of scleractinian corals using age- and size-de
+                                                          classifications. Ecol. Monogr. 61: 225-244
+on growth, but other factors such as temperature
+                                                     Babcock, R., Davies, P. (1991). Effects of sedimentatio
+(Clausen & Roth 1975, Houck et al. 1977, Jokiel &       tlement of Acropora millepora. Coral Reefs 9: 205
+Coles 1977), sedimentation (Dodge et al. 1974, Bak   Bak, R. P. M. (1973). Coral weight increment in situ.
+1978), eutrophication (Tomascik & Sander 1985,          method to determine coral growth. Mar. Biol. 20:
+                                                     Bak, R. P. M. (1974). Available light and other factor
+Tomascik 1990), and availability of plankton (Lewis
+                                                        encing growth of stony corals through the year in
+1974, Wellington 1982) are known to affect calcifica    Proc. 2nd int. Symp. coral Reef 2: 229-233
+tion. The decreasing growth rate through time in our Bak, R. P. M. (1976). The growth of coral colonies and the
+experiments is probably caused by temperature. We       importance of crustose coralline algae and burrowing
+found a significant inverse relationship between        sponges in relation with carbonate accumulation. Neth. J.
+                                                                           Sea Res. 10: 285-337
+itJiiipeiaiuit; ^ineaauieu wim a Lanuiateu cicl-u unit
+                                                                       Bak, R. P. M. (1978). Lethal and sublethal effects of dre
+thermometer) and growth (Spearman correlation                  coefBull. 9: 14-16
+                                          on reef corals. Mar. Pollut.
+ficient rs = -0.65, p = 0.022; Fig. 8). Daily   radiation          was
+                                        Bak, R. P. M. (1983). Neoplasia,     regeneration and growth in
+rather constant during the period of the       reef-building
+                                          this study,             coralall
+                                                                and     Acropora palmata. Mar. Biol. 77:
+                                                                           221-227
+ growth data were standardised to a normal day. We
+                                                         Bak, R. P. M., Brouns, J. J. W. M„ Heys, F. M. L. (1977). R
+ show that light was the main factor influencing           eration and aspectsgrowth
+                                                                                   of spatial competition in the Scler
+but superimposed was another pattern that is corre         tinian corals Agaricia agaricites and Montastrea annul
+lated with temperature. Gladfelter (1984) also found       Proc. 3rd int. Symp. coral Reef 1: 143-149
+decreasing growth with increasing ambient tempera        Bak, R. P. M., Criens, S. R. (1981). Survival after fragme
+                                                           tion of colonies of Madracis mirabilis, Acropora palm
+tures. Growth of Pacific corals at temperatures close to
+                                                           and A. cervicornis (Scleractinia) and the subsequent
+our study (Clausen & Roth 1975; their temperature T 4)     impact of a coral disease. Proc. 4th int. Symp. coral Reef 2:
+also decreased at a shift from 26 to 27 °C.                                221-227
+
+  We conclude that regeneration is an important pro                    Bak, R. P. M., Elgershuizen, H. B. W. (1976). Patterns of
+                                                                         sediment rejection in corals. Mar. Biol. 37: 105-113
+cess in coral ecology. It results in an energy drain for
+                                                                       Bak, R. P. M., Eys, G. v. (1975). Prédation of the sea urchi
+the tissue bordering damaged areas and, conse                            Diadema antillarum Philippi on living coral. Oecologia
+quently, a decrease in the chance of long-time survival 111-115
+of the colony as a whole.                                              Bak, R. P. M., Steward-van Es, Y. (1980). Regeneration of
+                                                                          superficial damage in the scleractinian corals Agaricia
+                                                                          agaricites f. purpurea and Pontes astreoides. Bull. mar.
+                                                                           Sei. 30: 883-887
+
+                                                        27.5          Barnes, D. J., Chalker, B. E. (1990). Calcification and photo
+                                                                         synthesis in reef-building corals and algae. In: Dubinsky,
+                                                                         Z. (ed.) Ecosystems of the world. Elsevier, Amsterdam,
+                                                                         p. 109-131
+                                                                      Barnes, D. J., Crossland, C. J. (1982). Variability in the calcifi
+                                                                         cation rate of Acropora acuminata measured with
+                                                                         radioisotopes. Coral Reefs 1: 53-57
+                                                                      Bertalanffy, L. v. (1957). Quantitative laws in metabolism and
+                                                                         growth. Quant. Rev. Biol. 32: 217-231
+                                                                      Bosscher, H., Meesters, E. H. (1992). Depth related changes in
+                                                                         the growth of Montastrea annularis. Proc. 7th int. coral
+                                                                         Reef Symp. (in press)
+  09/02 19/02                                                         Brown, B. E., Howard, L. S. (1985). Assessing the effects of
+                                                                           'stress' on reef corals. Adv. mar. Biol. 22: 1-63
+                                                    Cameron, A. M., Endean, R., DeVantier, L. M. (1991). The
+                                                       effects
+Fig. 8. Montastrea annularis. Increase in temperature (•) and of Acanthaster planci prédation on populations of
+decrease in the mean growth of cores without a lesion  two
+                                                         (■)species of massive coral. Hydrobiologia 216/217:
+                                                       257-262
+from February to April. Straight line is calculated regression
+                   line (Table 4)                   Chalker, B. E., Barnes, D. J., Dunlap, W. C., Jokiel, P. L.
+
+
+
+
+                                                 This content downloaded from
+                               128.163.239.178 on Thu, 17 Mar 2022 13:06:30 UTC
+                                         All use subject to https://about.jstor.org/terms
+                                   Meesters et al.: Damage and regeneration of a coral 127
+
+
+
+
+                                               4: 65-70 Sei. Rev.
+   (1988). Light and reef-building corals. Interdis.
+   13: 222-237                                       Kendall, J. J., Powell, E. N„ Connor, S. J., Bright, T. J. (198
+Clausen, C. D., Roth, A. A. (1975). Effect of temperature
+                                                        Theandeffects of drilling fluids (muds) and turbidity on th
+   temperature adaptation on calcification in the hermatypic
+                                                        growth and metabolic state of the coral Acropora cervic
+   coral Pocillopora damicornis. Mar. Biol. 33: 93-100 nis, with comments on methods of normalisation for coral
+                                                        data.
+Cortes, N. J., Risk, M. J. (1985). A reef under siltation     Bull. mar. Sei. 33: 336-352
+                                                          stress,
+   Cahuita, Costa Rica. Bull. mar. Sei. 36: 339-356   Lang, J. C., Chornesky, E. A. (1990). Competition between
+Davies, P. S. (1989). Short-term growth measurements of                  scleractinian reef corals — a review of mechanisms and
+   corals using an accurate buoyant weighing technique.           effects. In: Dubinsky, Z. (ed.) Ecosystems of the world 25
+   Mar. Biol. 101: 389-395                                        Coral reefs. Elsevier, Amsterdam, p. 209-252
+Davies, P. S. (1990). A rapid method for assessing growth      Lester, R.ratesT., Bäk, R. P. M. (1985). Effect of environment on
+   of corals in relation to water pollution. Mar. Pollut. Bull.   regeneration
+                                                                          21 :       of tissue lesions in the reef coral Montastre
+   346-348                                                        annularis (Scleractinia). Mar. Ecol. Prog. Ser. 24: 183-185
+Davies, P. S. (1991). Effect of daylight variations on the       energy
+                                                               Lewis,   J. B. (1974). The importance of light and food upon th
+   budgets of shallow-water corals. Mar. Biol. 108: 137-144       early growth of the reef coral Favia fragum. J. exp. ma
+Dodge, R. E., Aller, R., Thomson, J. (1974). Coral growth         Biol. Ecol. 15: 299-304
+
+   related to resuspension of bottom sediments. Nature 247: Loya, Y. (1972). Community structure and species diversit
+   574-577                                                        hermatypic corals at Eilat, Red Sea. Mar. Biol. 13: 100-1
+Dodge, R. E., Wyers, S. C., Frith, H. R., Knap, A. H.,         Loya, Y.
+                                                                    Smith,  (1976). Skeletal regeneration in a Red Sea sclerac
+   S. R., Cook, C. B., Sleeter, T. D. (1984). Coral calcification ian coral population. Nature 261: 490-491
+   rates by the buoyant weight technique: effects Meesters,               E. H., Bak, R. P. M. (1993). Effects of coral bleach
+                                                                of alizarin
+   staining. J. exp. mar. Biol. Ecol. 75: 217-232                 ing on tissue regeneration and colony survival. Mar. Ecol.
+Endean, R. (1973). Destruction and recovery of coral reef         Prog. Ser. 96: 189-198
+   communities. In: Jones, O. A., Endean, R. (eds.) Biology    Meesters, E. H., Bos, A., Gast, G. J. (1992). Effects of sedi
+   and geology of coral reefs. Academic Press, London, p.         mentation and lesion position on coral tissue regeneration.
+   271-324                                                        Proc. 7th int. coral Reef Symp. (in press)
+Fishelson, L. (1973). Ecological and biological phenomena      Neudecker, S. (1981). Growth and survival of scleractinian
+   influencing coral-species composition on the reef tables at    corals exposed to thermal effluents at Guam. Proc. 4th int.
+   Eilat (Gulf of Aquaba, Red Sea). Mar. Biol. 19: 183-196        coral Reef Symp. 1: 173-180
+Franzisket, L. (1964). Die Stoffwechselintensität der Riff     Ott, B., Lewis, J. B. (1972). The importance of the gastropod
+   korallen und ihre ökologische, phylogenetische und sozi        Coralliophila abbreviata (Lamarck) and the polychaete
+   ologische Bedeutung. Z. vergl. Physiol. 49: 91-113             Hermodice carunculata (Pallas) as coral reef predators.
+Gladfelter, E. H. (1984). Skeletal development in Acropora        Can. J. Zool. 50: 1651-1656
+   ceivicoinis. III. A comparison of monthly rates of linear   Paine, R. T., Levin, S. A. (1981). Intertidal landscapes: distur
+   extension and calcium carbonate accretion measured over        bance and the dynamics of pattern. Ecol. Monogr. 51:
+   a year. Coral Reefs 3: 51-57                                   145-178
+
+Goreau, T. F. (1959). The physiology of skeleton formation     Rinkevich,
+                                                                        in      B., Loya, Y. (1989). Reproduction in regenera
+   corals. I. A method for measuring the rate of calcium depo     colonies of the coral Stylophora pilstillata. In: Spanier,
+   sition by corals under different conditions. Biol. Bull. 116:  Steinberger, Y., Luria, M. (eds.) Environmental quality
+   59-75                                                          and ecosystem stability. Hebrew University, Jerusale
+Goreau, T. F. (1963). Calcium carbonate deposition by             p.257-265
+   coralline algae and corals in relation to their role as reefRogers, C. S. (1990). Responses of coral reefs and reef organ
+   builders. Ann. N.Y. Acad. Sei. 109: 127-167                    isms to sedimentation. Mar. Ecol. Prog. Ser. 62: 185-202
+Houck, J. E., Buddemeier, R. W., Smith, S. V., Jokiel, P. L.   Rogers, C. S. (1993). Hurricanes and coral reefs: the interme
+   (1977). The response of coral growth rate and skeletal         diate disturbance hypothesis revisisted. Coral Reefs 12:
+   strontium content to light intensity and water tempera         127-137
+   ture. Proc. 3rd int. coral Reef Symp. 2: 425-431            Sokal, R. R., Rohlf, F. J. (1981). Biometry, 2nd edn. W. H. Fre
+Hudson, J. H. (1981). Response of Montastrea annularis to         man and Company, New York
+   environmental change in the Florida Keys. Proc. 4th int.    Sousa, W. P. (1984). The role of disturbance in natural com
+   coral Reef Symp. 2: 233-240                                    munities. A. Rev. Ecol. Syst. 15: 353-391
+Hunte, W., Wittenberg, M. (1992). Effects of eutrophication    Tomascik, T. (1990). Growth rates of 2 morphotypes of Mon
+   and sedimentation on juvenile corals. 2. Settlement. Mar.      tastrea annularis along a eutrophication gradient, Barba
+   Biol. 114: 625-631                                                    dos, W.I. Mar. Pollut. Bull. 21: 376-381
+Jackson, J. B. C., Coates, A. G. (1986). Life cycles and           evolu
+                                                              Tomascik,  T. (1991). Settlement patterns of Caribbean scler
+   tion of clonal (modular) animals. Phil. Trans. R. Soc.           Lond.corals on artificial substrata along a eutrophica
+                                                                 actinian
+   B 313: 7-22                                                   tion gradient, Barbados, West Indies. Mar. Ecol. Prog. Ser.
+Jokiel, P. L., Coles, S. L. (1977). Effects of temperature77:      on  the
+                                                                     261-269
+
+   mortality and growth of Hawaian reef corals. Mar. Biol.    Tomascik,
+                                                                     43:     T., Sander, F. (1985). Effects of eutrophication
+   201-208                                                       reef-building corals. I. Growth rate of the reef-buildi
+Jokiel, P. L., Coles, S. L. (1990). Response of Hawaiian and     coral Montastrea annularis. Mar. Biol. 87: 143-155
+   other Indo-Pacific reef corals to elevated temperature.    Tomascik, T., Sander, F. (1987a). Effects of eutrophication o
+   Coral Reefs 8: 155-162                                        reef-building corals. II. Structure of scleractinian coral
+Jokiel, P. L., Maragos, J. E., Franzisket, L. (1978). Coral      communities on fringing reefs, Barbados, West Indies.
+   growth: buoyant weight technique. Monogr. oceanogr.           Mar. Biol. 94: 53-75
+   Methodol. (UNESCO) 5: 529-542                              Tomascik, T., Sander, F. (1987b). Effects of eutrophication
+Kawaguti, S., Sukamoto, D. (1948). The effect of light on the    reef-building corals. III. Reproduction of the reef-build
+   calcium depostion of corals. Bull. Oceanogr. Inst. Taiwan     coral Pontes pontes. Mar. Biol. 94: 77-94
+
+
+
+
+                                                 This content downloaded from
+                               128.163.239.178 on Thu, 17 Mar 2022 13:06:30 UTC
+                                         All use subject to https://about.jstor.org/terms
+128 Mar. Ecol. Prog. Ser. 112: 119-128, 1994
+
+
+
+
+Van Veghel, M. L. J., Bäk, R. P. M.Wilkinson,                (1993). L. (1989).        Systat: the system
+                                                                           Intraspecific              varia for statistics. Systa
+   tion of a dominant Caribbean reef Inc.,                         Evanston, IL coral, Montas
+                                                                building
+   trea annularis: genetic, behavioral and morphometry     Wittenberg, M., Hunte, W. (1992). Effects of eutrophication
+  aspects. Mar. Ecol. Prog. Ser. 92: 255-265                  and sedimentation on juvenile corals. Mar. Biol. 112:
+Wellington, G. M. (1982). An experimental analysis of the     131-138
+
+  effects of light and Zooplankton on coral zonation. Oeco Zar, H. Z. (1984). Biostatistical analysis, 2nd edn. Prentice
+  logia 52: 311-320                                           Hall, Inc., Englewood Cliffs, NJ
+
+This article was submitted to the editor                                  Manuscript first received: December 16, 1993
+                                                                          Revised version accepted: June 7, 1994
+
+
+
+
+                                                     This content downloaded from
+                                   128.163.239.178 on Thu, 17 Mar 2022 13:06:30 UTC
+                                             All use subject to https://about.jstor.org/terms
+

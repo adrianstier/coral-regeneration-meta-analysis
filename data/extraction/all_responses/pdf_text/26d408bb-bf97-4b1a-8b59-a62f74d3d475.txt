@@ -1,0 +1,393 @@
+                                           MARINE ECOLOGY PROGRESS SERIES
+   Vol. 164: 213-220, 1998                                                                                Published April 9
+                                                   Mar Ecol Prog Ser
+                                                                                                                              -
+
+
+
+
+        Lesion healing on massive Porites spp. corals
+                                                     R. van Woesik*
+         Department of Marine Sciences, University of the Ryukyus, Senbaru 1, Nishihara, Okinawa 903-0213, Japan
+
+
+
+
+             ABSTRACT: Sn~alltissue lesions 15 to 1310 mm2 were inflicted on massive Porites spp. corals living in
+             a shallow moat ( < 3 m) in Okinawa, Japan. All but 1 lesion, affected by extreme mid-winter low tides,
+             healed completely within 19 mo. Regenerat~onrates decreased exponentially over time and decreased
+             in accordance with the lesion's surface area. The best predictive models were those using the deriva-
+             tives of the exponential equations. A high perimeter to surface area ratio was a consequence of, and
+             appeared to facilitate, regeneration. There was no significant difference in the rate of lesion regenera-
+             tion between Porites lutea and Porites lobata.
+
+             KEY WORDS: Lesions . Massive Porjtes . Healing rates
+
+
+
+
+                     INTRODUCTION                                  mortality during episodes of Acanthaster planci preda-
+                                                                   tion (author's pers, obs.).
+  Massive Porites corals are prolific throughout the                  Studies on the regeneration of coral lesions extend
+world's tropical oceans (Veron 1995);they are particu-             back several decades (Stephenson & Stephenson 1933,
+larly common on reefs nearshore and are arguably the               Kawaguti 1936, Fishelson 1973, Loya 1976). The
+most important reef-building corals on the inner Great             capacity to regenerate appears to be species specific
+Barrier Reef (Australia) (Hopley 1982, Davies 1983).               and dependent on lesion size, sea-surface tempera-
+Porites colonies have long been recognised for their               ture, water depth and whether the colony has been
+usefulness as temporal analogues (Buddemeier &                     recently bleached (Lester & Bak 1985, Meesters & Bak
+Kinzie 1976) and have become the focus of palaeo-                  1993, Meesters et al. 1994), but appears to be indepen-
+climatic studies. They have been used as proxies for               dent of calcification rate (Bak & Steward-van Es 1980).
+terrestrial runoff (Isdale 1984, Boto & Isdale 1985),pre-          Regeneration often follows negative exponential
+dictors of sea-surface temperature (McCullock et al.               curves, with the rate of regeneration decreasing after
+1994), indicators of past spawning events (Gagan et al.            some time, although many studies on massive sclerac-
+1994) and recorders of sea level (Woodroffe & McLean               tinian corals show that healing is often partial and
+1990).                                                             incomplete (Stephenson & Stephenson 1933, Meesters
+  In the Ryukyu Islands, the island chain in southern              et al. 1994).
+Japan, massive Porites spp. colonies are common in                    Regeneration of Pontes spp. was first reported for
+shallow moats < 3 m deep. Disturbances to these Porites            branching colonies by Kawaguti (1937). He indicated
+spp. colonies are frequent and range from (1) small                healing took place by the proliferation of boundary
+lesions caused by gastropod and fish predation to                  polyps. Done (1987) reported on regeneration of mas-
+(2) patchy die-off during low spring tides in winter to            sive Porites following Acanthaster planci predation
+(3) sand-scouring around the base of the colonies dur-             and suggested that living portions of injured colonies
+ing the typhoon season to (4) partial or whole colony              rarely encrust onto adjacent surfaces but tend to grow
+                                                                   primarily in the direction of the original colony's radii,
+                                                                   indicating that upward growth and subsequent fusion
+                                                                   is most likely after infliction of wounds 230000 mm2
+                                                                   (which is a n approximate size estimate of a n extrud-
+
+0 Inter-Research 1998
+Resale of full artlcle not pernutfed
+214                                         hlar Ecol Prog Se
+
+
+
+
+able stomach of a sexually mature A planci starflsh             complete h e a l ~ n g 19 mo later Monitoilng involved
+using Birkeland 3 989)                                          rncdsurlng the lesion S longest axls and the length of ~ t s
+  The survsval of subsurface tissue In Hawaiian Pontes          perpendicular axis to the nearest m ~ l l ~ m e t r e ,
+                                                                                                                   sketching
+compressa colonies snduccs a n unusual regeneration             each leslon (to assess changes in lesion morphology)
+response, where colonles appear dead but regenerate             and measunng at least 4 other axes and thelr orienta-
+through subsurface projections (Joklel et a1 1993) In           tion depending on the lesion's shape Care was taken
+contrast, Atlantic Pontes astreoldes colonles have poor         not to dlsturb sediment or algae on the lesions These
+regenerative capacities, especially when lesions are            measurements were later transcribed to mm2 grid
+>500 mm2 (Bak & Steward-van Es 1980), but are qulte             paper from whlch the lesion s surface area and penme-
+capable of regenerating smaller leslons (Meesters &             ter length were calculated
+Bak 1993) Emplncal measurements are not available                  Given the usefulness of massive Pontes as sclero-
+on individual massive Porites spp from the Indo-                chronological indicators ~twas hypothesized that they
+Paclfic reglon, although rapid regeneration of massive          may also record partial mortality and healing events in
+P o r ~ t e slutea, after suffenng tlssue damage due to sed-    their skeletons To test this hypothesis, a core, 55 mm In
+imentation effects, can be Inferred from community              d a m e t e r and 50 mm long, was extracted from 3 different
+data in Brown et a1 'S second table (1990) The present          Pontes colon~esusing a pneumatic dnll The cores were
+study focuses on the most common masslve Pontes                 taken precisely over the areas where the C slze lesions
+spp in the Indo-Paciflc, P lutea and P lobata, a n d            had healed Cores were subsequently cut longitudinally
+shows that 9 7 % of tlssue lesions <l310 mm2 recover            a n d examlned under nlagnlficatlon for scars
+completely w ~ t h l n19 mo and that regeneratlon rates            Data analysis. TWOdata sets were derived from the
+exponentially decrease with an lncrease in lesion size          fleld measurements, one recorded a change in the
+                                                                lesion's surface area over time the other recorded the
+                                                                lesion's penmeter to surface area ratio A general
+                       METHODS                                  model without an asymptote was used to estlmate the
+                                                                regeneratlon abllltles of the corals The changes in sur-
+   Field measurements. The study was undertaken in a            face areas over tlme were analysed using the exponen-
+ well-flushed, clear water, inner reef moat, no more            tlal equation
+ than 3 m deep at low s p n n g tide, on the eastern side of
+                                                                         Leslon surface area y = be-"'                   (1
+Ikei Island, Okinawa, Japan (lat. 26" 23' N, long.
+ 128" 00' E). The experiment commenced on 22 Septem-            where b is the intercept, e is the exponential, a is the
+ber 1994 and ended 19 mo later. Treatments involved             slope of the curve, and t the time in days, and the
+malung 3 differently sized tissue lesions to each of 10         equivalent equation
+massive Porites spp. colonies that ranged In size from
+                                                                                      lny = l n b - at                   (2)
+70 to 100 cm in diameter. Small samples were ex-
+tracted from each colony, well away from the experi-            where the dependent vanable is transformed to a nat-
+mental lesions, for species identification.                     ural logarithm. Since there is no natural logarithm for a
+   Lesions were inflicted in colonies between the               dependent variable of 0, that is, where a lesion is com-
+depths of 10 a n d 50 cm below low water datum, at sim-         pletely healed, + l was added to the dependent vari-
+ilar angles ranging from 15 to 40' to the horizontal            able for calculations. It follotvs that the time constant
+plane. To create the lesions, plastic plates with circular      l / a is the length of time it takes for the original quan-
+stencil holes, 100, 200 and 400 mm2 in area, were held          tity lnb to be reduced to l / e of its onginal value. Least-
+over each colony while a jet of high pressure air was           squared regressions, fitting data to Eq. (2), and slope
+blasted over the plates. Lesions were at least 50 cm            comparisons (vla analysis of covariance after testing
+apart. Because the 30 subsequent lesions vaned in size          the slopes for assumptions of parallelism, Sokal & Rohlf
+a n d shape they were categorized into 3 size classes           1995) were undertaken initially on data for Porites
+( A 15-150, B 151-350, C 351-131.0 mm2). For lesion             lutea and P. lobata. There were no significant differ-
+identlficatlon, stainless steel nalls were set either side      ences in the slopes (Table 1); therefore, the surface
+of each lesion along its central axis. The distance             area estimates were amalgamated for each size class at
+between the nail markers varied consistently in accor-          each observation time and used as replicates in the cal-
+dance with the lesion size class. Nails were set 10 cm          culations. To calculate the rate of change in healing
+apart for A size lesions, 12 cm apart for B size lesions        over time, Eq. (1) was differentiated to get
+and 15 cm apart for C size leslons.
+   Lesion recovery, together with algal density and
+abundance of sediment on each lesion, were moni-                To test the hypothesis that a lesion's perimeter to sur-
+tored biweekly for a month, then intermittently until           face area ratio had no significant association with heal-
+                                            van Woesik: Lesion healing on massive corals                                             215
+
+
+
+
+Table l . Porites lutea and P. lobata. Regression analyses and slope comparisons for lesion healing on massive corals. Data were
+fltted to the equation Inp = lnb - at, where Iny is natural logarithm transformation of the lesion size + 1, b is the intercept, a is the
+slope of the Line, and t the time in days, n is the number of data points, R'lddl is the percentage variance accounted for, p,,., is the
+      probab~htyof regression, and p,,,, is the probability of no difference between slopes. "'p < 0.001, ns: not significant
+
+
+ Species                               Intercept (SE)         Slope (SE)             n             R2,,,~,         Prey          Pcomp
+
+ Lesions 15-150 mm2
+ P. lutea                               3.07 (0.20)         -0.027 (0.003)           20            0.798            ...            ns
+ P. lobata                              3.54 (0.41)         -0.028 (0.007)           18            0 494            ...
+ Lesions 151-300 mm2
+ P. l utea                              4.96 (0.38)         -0.019 (0.003)           24            0.601            ...
+ P. Iobata                              4.83 (0.35)         -0.018 (0.003)           23            0.604            ...            ns
+
+ Lesions 301-1310 mm2
+ P lutea
+ P. lobata
+                                        6.32 (0.32)
+                                        5.92 (0.36)
+                                                            -0.013 (0.002)
+                                                            -0.014 (0.002)
+                                                                                     22
+                                                                                     19
+                                                                                                   0.676
+                                                                                                   0.61 1           ......         ns
+
+
+
+
+ing rate, the ratios and times until complete healing                  classes are given in Fig. 1. Lesions decreased expo-
+were analysed for concordance via Kendall's r statistic                nentially in size through time. Using Eq. ( 3 ) ,the deriv-
+(Sokal & Rohlf 1995).                                                  ative of the negative exponential function, the healing
+                                                                       rate for a lesion y between 15 and 150 mm2 is - 0 . 0 2 9 ~
+                                                                       mm2 d-'; for a lesion y between 151 and 350 mm2 the
+                          RESULTS                                      healing rate is -O.O1?y mm2 d-'; for a lesion y between
+                                                                       351 and 1310 mm2 the healing rate is - 0 . 0 1 2 ~mm2 d-'.
+   All lesions were covered with approximately 3 0 %                   These functions show that the rate of healing
+filamentous algae after 2 wk and with at least 60%                     decreases as the size of the lesion increases (Fig. 1).
+algae and conspicuous deposits of sediment after 1 mo.                    Lesions progressively healed from variable shapes to
+Regeneration commenced with an initial 2 to 3 mm                       ovals and circles, consequently inducing a higher
+upward growth of the healing edge followed by lateral                  perimeter to surface area ratio. Indeed, leslons with a
+encroachment of soft tissue and skeleton toward the                    high perimeter to surface area ratio showed significant
+lesion's centre within the first month. The healing edge               negative correlations with healing time (for lesions 15
+was a conspicuous pink colour in the first month, then                 to 150 mm2 Kendall's t = -0.52, p < 0.001; for lesions
+became pale.                                                           between 151 and 350 mm2 Kendall's r = -0.48, p <
+   Macroalgae (Padina sp.) were common on the                          0.001; for lesions between 351 and 1310 mm2 Kendall's
+lesions in winter (December 1994)-4 mo after the                       t = -0.62, p < 0.001; Table 2). In other words, lesions
+lesions were inflicted. No macroalgae were present                     with a high perimeter to surface area ratio healed
+after February 1995. Lesion recovery was not deterred                  faster than those with a low ratio. Rarely (6% of the
+by filamentous or macroalgae. No evidence of grazing                   time) did sequential ratios decrease over time
+was seen on the lesions througho.ut the study. A pink                  (Table 2). The edges of some narrow, elongate lesions
+fleck consistently appeared on the healing edge as it                  bridged at their narrowest point to form 2 lesions. This
+closed. The fleck turned pale 1 mo prior to complete                   increased the perimeter to surface area ratio, effec-
+healing. The lowest tides of the year were CO-incident                 tively facilitating healing.
+with the coldest yearly air temperatures (in December                     All 3 cores examined showed scars where the leslons
+and January 1994/1995 the early morning low spring                     had been. Lesions healed over accumulated debris and
+tides extended to -22 and -23 cm respectively, while                   sediment (Fig. 2a, b). Spaces between the trabeculae
+the air temperature averaged 6°C). It was during this                  and synapticulae were conspicuously large directly
+period that 3 lesions expanded (2 of them were at the                  above the dam.aged surface, giving a porous appear-
+most shallow depths, i.e. at -11 cm and -13 cm below                   ance (Fig. 2c).
+datum; mean lesion depth below datum was -29.8 cm,
+with a standard deviation of 10.4;Table 2).
+   Function equations for Porites lutea and P. lobata                                          DISCUSSION
+showed slight differences between the intercepts b,
+because of initial differences in lesion size, and slight,               Massive Porites spp. generally grow laterally by ex-
+but non significant, differences in the slopes a                       tratentacular budding of corallites that are no larger
+(Table 1). The healing functions for all 3 lesion size                 than 1.5 mm, and grow vertically by periodic and
+216                                              Mar Ecol Prog Ser 164: 213-220, 1998
+
+
+
+
+                                                            T ~ m e(days)
+
+Fig. 1. Regeneration of lesions on massive Pontes spp using the exponential equation y = be "'and its equivalent Iny = Inb - at,
+fitted regressions and 95% confidence llrn~ts(dashed lines) are drawn on each graph. (a) (Size A) Lesion size y = 3.36 - 0.029 X
+days (SE for b is 0.21, SE for a is 0.003, R',,, = 0.641, p < 0.001). Note overlap of 2 (*)and 6 (t)data points at 0 on the left y-axls
+(b) (Size B) Lesion size y = 4.89 - 0.017 X days (SE for b is 0.23, SE for a is 0.002, RZad,= 0.625, p < 0.001). Note instances of over-
+lap of 3 data points each (*,t, *)at 0 on the left y-axis. (c) (Size C) Lesion size y = 5.91 - 0.012 X days (SE for b is 0.22, SE for a is
+0.001, ~ ' , d , = 0.690, p < 0.001). Note overlap of 4 (*) and 3 (t)data points at 0 on the left y-axis. Lesion A from Colony 4 and lesion
+C from Colony 9 were removed from the model because of their considerable expansion in winter; these lesions were at the most
+shallow depths, i.e. at -13 cm and -11 cm low water datum, respectively (Table 2). The time constants I/a for (a), (b),and (c) are
+                                                          34, 59 and 83 d, respectively
+                                              van Woesik: Lesion healing on massive corals                                         217
+
+
+
+
+Table 2. Porites lobata, P. lutea and P. solida. Ratio of lesion perimeter to surface area on massive corals, where H indicates com-
+pletely healed, and R indicates the lesion was re-classified into a smaller size class at the first observation. Depth of lesion below
+                                  low water datum (LWD,cm) is given. nc: data no longer collected
+
+
+
+l   Date
+                        Colony 1 Colony 2 Colony 3 Colony 4 Colony 5 Colony 6 Colony 7 Colony 8 Colony 9 Colony 10
+                        P. lobata P. lobata P. soljda P. Jotea P. lobata P. lutea P. Jutea P, lutea P. lutea P. lobata
+
+    A size lesions (15 to 150 mm2)
+    Depth below LWD         -20       -34         -29       -13       -25       -37          -47      -28        - 10       -46
+    Sep 1994              0.36        2.25        0.54      0.48      0.34      0.73         0.65     0.65       1.33       0.59
+    Oct 1994              0.53        3.14        0.84      0.65      0.58      1.08         0.95     1.24       1.26       1.08
+    Nov 1994              0.81         H          0.95      0.85      0.71       1.5          1.4     3.14       1.50       1.12
+    Dec 1994               1.5                     H        1.27      2 07      3.14          2.5     4.00         H        2.63
+    Feb 1995               H                                0.76'      H         H            H        H                      H
+    Apr 1995                                                1.23
+    Sep 1995                                                 H
+
+    B size lesions (151 to 300 mm2)
+    Depth below LWD         -25       -45         -32       -18       -30       -35          -40      -25                   -42
+    Sep 1994                0.33      0.31        0.28      0.25      0.27      0.23         0.21     0.47         R        0.28
+    Oct 1994                0.37      0.45b       0.35      0.33      0.29      0.31         0.22     0.72                  0.45
+    Nov 1994                0.33      1.32        0.38      0.32      0.30      0.40         0.24     1.28                  0.75
+    Dec 1994                0.44      2.23b       0.51      0.36      0.36      0.76         0.52     3.14                  3.38
+    Feb 1995                1.25       H          0.92      0.48      0.46      3.00         3.14      H                     H
+    Apr 1995                2.11                  1.07      1-00       H         H            H
+    Sep 1995                 H                     H         H
+
+    C size lesions (301 to 1310 mm2)
+    Depth below LWD       -34         -27         -26       -30       -32       -38          -32
+    Sep 1994              0.22        0.18        0.19      0 17      0.14      0.16         0.20
+    Oct 1994              0.33        0.22        0.29      0.19      0.23      0.17         0.23
+    Nov 1994              0.39        0.25        0.25      0.19      0.27      0.23         0.24
+    Dec 1994              1.6gb       0.28        0.37      0.21      0.90      0.39         0.31
+    Feb 1995              3.14        0.32        1.17      0.25      0.50a     0.38         0.42
+    Apr 1995               H          0.43        2.00      0.38      0.61      0.39         0.82
+    Sep 1995                          0.43         H        1.33       H         l .S         H
+    Apr 1996                           H                     H                   H
+    aRatio is less than previous ratio
+    bLesion bridged at centre and formed 2 lesions
+
+
+
+abrupt uplift of the lower margin of the tissue layer,                through sclerochronological investigations (Cameron
+with calcification concentrated at the surface (Barnes &              & Endean 1985, Done 1987, Endean et al. 1988,
+Lough 1993).Similarly, this study showed that a lesion                Keesing et al. 1992) and refine predictive models on
+regenerates firstly by upward extension of the sur-                   the occurrence of small lesions on Porites astreoides,
+rounding polyps, and secondly by extratentacular bud-                 for which laudable sclerochronological studies have
+ding and lateral encroachment over the dead area.                     been carried out (Ruesink 1997).
+  The presence of filamentous algae on the lesions did                   Some previous studies reported no linear relation-
+not deter regeneration as long as there was an active                 ship between colony size and regeneration capacity
+regenerating edge. These findings are in agreement                    (Bak & Stewart-van Es 1980). Meesters et al. (1994)
+with Bak & Stewart-van Es (1980) and Meesters & Bak                   suggested that healing rates of Montastrea annulans
+(1993),but I extend the generalisation that healing of                depended on the length of the lesion perimeter, but not
+lesions is not hindered by some filamentous and                       on the size of the lesion or size of the colony. Oren et al.
+macroalgae (e.g. Padina sp.)and a light sediment load-                (1997) showed that the perimeter length of lesions on
+ing (Barnard et al. 1974, Brown et al. 1991, Meesters et              Favia favusinfluenced recovery rates in the first month
+al. 1992).Lesion scars were evident in the core samples               of regeneration, but in months following recovery was
+and clearly the trabeculae structures over the healed                 influenced more by the lesion's surface area, and the
+lesions were more porous. than in other parts of the                  surface area to perimeter ratio. Regeneration does
+colony. Indeed, their existence may help clarify the                  however appear to be dependent on the amount of tis-
+extent of historical damage to Indo-Pacific Porites spp.              sue bordering the lesion, since Meesters et al. (1996)
+                                                Mar Ecol Prog Ser 164: 213-220, 1998
+
+
+
+
+Fig. 2. Poritrs lutea and t u ~ l r a aluuara. ~ross-beciionsof coral colonies showing lesion scars from C size lesions. The top left of
+each photo is near the outer edge of the colony. (a) Lesion scar from Colony 7, P. Jutea. Arrow points to the underside of the scar.
+(b) x~idgnificationof scar in (a). Arrow points to sediment particles retained on the lesion. (c) Lesion scar from Colony 10, P. lobata.
+Arrow points to the porous structure between trabeculae (vertical) and synapticulae (horizontal) directly above the healed lesion
+                                                    van Woesik: Lesion healing on massive corals                                               219
+
+
+
+
+showed small colonies with lesions suffered high mor-                                ronmental index in tropical reef corals. Nature 252:
+tality. The findings of the present study corroborate the                            219-220
+                                                                                  Barnes DJ, Lough JM (1993) O n the nature and causes of den-
+idea that the length of the lesion perimeter influences
+                                                                                     sity banding in massive coral skeletons. J Exp Mar Biol
+the healing process, as a high perimeter to surface area                             Ecol 167:91-108
+ratio greatly facilitates healing, and add that regenera-                         Birkeland C (1989) The faustian traits of the crown-of-thorns
+tion rates are largely dependent on the size of the                                  starfish. Am Sci 77:154-163
+lesions.                                                                          Boto K, Isdale P (1985) Fluorescent bands in massive corals
+                                                                                     result from terrestrial fulvic a c ~ dinputs to nearshore zone.
+   Studies on the massive Atlantic scleractinian corals                              Nature 315:396-397
+Agaricia a g a r i c i t e s and M o n t a s t r e a a n n u l a r i s indicate   Brown BE, Le Tissier MDA, Scoffin TP, Tudhope AW [1990)
+that lesions stop regenerating simultaneously and                                    Evaluation of the e n v i r o n m c ~ ~ t a l
+                                                                                                                               impact of dredging on
+independently of lesion size (Bak et al. 1977, Bak &                                 intertidal coral reefs at KOPhuket, Thailand, using ecolog-
+                                                                                     ical and physiogical parameters. Mar Ecol Prog Ser 65:
+Steward-van Es 1980). Such a response was inter-                                     273-281
+preted as a termination of the energy source that                                 Brown BE, Tudhope AW, Le Tissier MDA, Scoffin TP (1991) A
+fueled the healing process (Bak & Steward-van Es                                     novel mechanism for iron incorporation into coral skele-
+1980). The present study on massive Indo-Pacific                                     tons. Coral Reefs 10:211-215
+Porites spp. showed that once healing begins on                                   Buddemeier RW, f i n z i e RA (1976) Coral growth. Oceanogr
+                                                                                     Mar Biol Annu Rev 14:183-225
+lesions <l310 mm2 it progresses until closure. How-                               Cameron AM, Endean R (1985) Do long-lived species struc-
+ever, this study also showed that regeneration rates                                 ture coral reef ecosystems? Proc 5th Int Coral Reef Symp 6:
+decreased with increasing lesion size. Since the                                     211-216
+response appears to be gradual, it is presumably not a                            Davies PJ (1983) Reef growth. In: Barnes DJ (ed) Perspectives
+                                                                                     on coral reefs. Australian Institute of Manne Science Publ,
+chemical on/off mechanism (Thompson 1917).
+                                                                                     Canberra, p 69-106
+   A metabolic diffusion gradient and/or active p.ump-                            Done TJ (1987) Simulation of the effects of Acanthasterplancj
+ing (Taylor 1977, Gladfelter 1983) allows photo-                                     on the population structure of massive corals in the genus
+synthetic products to be translocated from areas where                               Porites: evidence of population resilience? Coral Reefs 6:
+they are produced to areas where they are in demand,                                 75- 90
+                                                                                  Endean R, Cameron AM, De Vantier LM (1988) Acanthaster
+for example to growing axial polyps (Fang et al. 1989)                               planci predation on massive corals: the myth of rapid
+or regenerating edges, where zooxanthellae numbers                                   recovery of devastated reefs. Proc 6th Int Coral Reef Symp
+may be low. The present results suggest that transloca-                              2:143-148
+tion inay become more difficult with increasing lesion                            Fang LS, Chen YWJ, Chen CS (1989) Why does the white tip
+                                                                                     of stony coral grow so fast wlthout zooxanthellae? Mar Biol
+size as energy reserves are depleted (Rinkevich 1996).                                103:359-363
+If lesions are too large they will not heal thro.ugh lat-                         Fishelson L (1973) Ecological and biological phenomena
+eral encroachment over the damaged area (Done                                        influencing coral-species composit~onon the reef tables at
+1987). The peripheral edge may gradually cease to                                    Ellat (Gulf of Aqaba, Red Sea). Mar Biol 19:183-196
+respond as a unit because of physical constraints pre-                            Gagan MK, Chivas AR, lsdale PJ (1994) High-resolution iso-
+                                                                                     tope records from corals using ocean temperature and
+venting the establishment of a coordinated transloca-                                mass-spawning chronometers. Earth Planet Sci Lett 121:
+tion gradient. Establishing a multi-directional gradient                             549-558
+may be more limiting than the establishment of a uni-                             Gladfelter EH (1983) Circulation of fluids in the gastrovascu-
+directional response.                                                                lar system of the reef coral Acropora cervicornis. Biol Bull
+                                                                                     (Woods Hole) 165:619-636
+                                                                                  Hopley D (1982) The geomolphology of the Great Barrier
+                                                                                     Reef: quaternary development of coral reefs. John Wiley-
+Acknorvledyements. Many thanks to Sandra van Woesik for                              Interscience, New York
+research ilssistance, Masashl Yamaguchi, Yossi Loya and 3                         Isdale P (1984) Fluorescent bands in massive corals record
+anonymous reviewers for comments on the manuscript, and                              centuries of coastal rainfall Nature 310:578-579
+the Japanese Ministry of Education for funding the study xvith                    Jokiel PL, Hunter CL, Taguchi S, Watari L (1993) Ecological
+Grant No. 07740601 In 1995                                                           Impact of a freshwater 'reef kill' In Kaneohe Bay, Oahu,
+                                                                                     Hawaii. Coral Reefs 12:177-184
+                                                                                  Kawaguti S (1937) On the physiology of reef corals. 111.
+                         LITERATURE CITED                                            Regeneration and phototropism in reef corals. Palao Trop
+                                                                                     Biol Stn Stud 1(2):209-216
+Bak RPM, Brouns JJ\Yh?, Heys FML (1977) Regeneration and                          Keesing JK, Bradbury RH, De Vantier LM, Riddle MJ, De'ath
+   aspects of spdtial competition in the scleractinian corals                        G (1992) Geological evidence for recurring outbreaks of
+   Agaricia agaricites and Montastrea annularis. Proc 3rd Int                        crown-of-thorns starfish: a reassessment from an ecologi-
+   Coral Reef Symp 1:143-149                                                         f d l perspective. Coral Reefs 11 79-85
+Bak RPM, Steward-van Es Y (1980) Regeneration of superfi-                         Lester RT, Bak RPM (1985) Effects of en.v.ironment on regen-
+   cial damage In the sclcract~niancorals Agaricia agancltes                         eration rate of tissue lesions In the reef coral Montastrea
+   f . Purpurea and Porltes astreoides. Bull Mar Sci 30(4).883-                      annularis (Scleractinia).Mar Ecol Prog Ser 24: 183-185
+   887                                                                            Loya Y (1976) Skeletal regeneration in a Red Sea scleractin-
+Barnard LA, MacIntyre IG, Pierce JW (1974) Poss~bleenvl-                             ian coral population. Nature 261:490-491
+220                                               Mar Ecol Prog Ser 164 213-220, 1998
+
+
+
+
+McCullock M T Gagan MK. Mortimer GE C h ~ v a sAR, Isdale                   aged corals compete for energy allocation' V a r Ecol Prog
+     PJ (1994) A high-resolutton Sr/Ca a n d S1'O coral record              Ser 143 297-302
+     from t h e Great Barner Reef, Australia and the 1982-1983           Ruesink JL (1997) Coral inlury a n d recovery matnx models
+     E1 Nino Geochim Cosmochim Acta 58 2727-2754                            llnk plocess to pattsrn J Exp hfar B101 Ecol 210 187-208
+hleesters EH, Bak RPM (1993) Effects of coral bleaching on               Sokal RR Rohlf FJ (1995) Blometry Wf I Freeman and Com-
+     tissue regeneration potential a n d colony survlval Mar                pany, New York
+     Ecol Prog Ser 96 189-198                                            Stephenson TA, Stephenson A (1933) Growth and asexual
+Meesters EH, Bos A Gast GJ (1992) Effects of s e d i m e n t a t ~ o n      reproduction in corals Great Barner Reef Expedition
+     a n d lesion position on coral tissue regeneration Proc 7th            1928-29 Scientific Reports, Bntish Museum, London 3(7)
+     Int Coral Reef Symp 2 671-678                                          167-217
+Meesters EH, Noordeloos M , Bak RPM (1994) Damage a n d                  Taylor DL (1977) Intra-colonial transport of organic com-
+     regeneratlon links to growth in the reef-buildlng coral                pounds and calcium in some Atlantlc reef corals Proc 3rd
+     Montastrea annulans Mar Ecol Prog Ser 112 119-128                      Int Coral Reef Symp 1 431-436
+Meesters E H , Wesseling I, Bak RPM (1996)Partial mortal~tyin            Thompson DCV (1917) On growth a n d form C a m b n d g e Unl-
+     three species of reef-buildmg corals a n d the relation with           versity Press, C a m b n d g e
+     colony mortality Bull Mar SCI58(3) 838-852                          Veron J E N (1995) Corals In space a n d t ~ m ethe biogeography
+Oren U , Benayahu Y, Loya Y (1997) T h e effect of lesion size              a n d evolulon of the scleractlnia University of New South
+     a n d s h a p e on regenerahon of the Red-Sea coral Favla              Wales Press Sydney
+     favus Mar Ecol Prog Ser 146 101-107                                 Woodroffe C , McLean R (1990) Mlcroatolls a n d recent sea
+k n k e v l c h B (1996) Do reproduct~onand regeneratlon In d a m -         level change on coral atolls Nature 344 531-534
+
+Editorial res-ponsibility. Ofto Kinne (Ed~tor),                          Submrtted. July 31. 1997. Accepted: J a n u a r y 7 1998
+OldendorfILuhe, Ger~lidrly                                               Proofs received from author(s1: March 13, 1998
+

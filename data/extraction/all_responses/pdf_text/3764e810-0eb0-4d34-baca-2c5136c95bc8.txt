@@ -1,0 +1,419 @@
+    Vol. 197: 209-215.2000
+                                            MARINE ECOLOGY PROGRESS SERIES
+                                                    Mar Ecol Prog Ser
+                                                                                                     1      Published May 12
+
+
+
+
+       Lesion regeneration in the branching coral
+    Acropora palmata: effects of colonization, colony
+            size, lesion size, and lesion shape
+                                                       Diego Lirman*
+            Center for Marine and Environmental Analyses. Rosenstiel School of Marine and Atmospheric Science,
+                         University of Miami, 4600 Rickenbacker Cswy, Miami, Florida 33149, USA
+
+
+
+
+              ABSTRACT: The regeneration of lesions caused by the fragmentation of Acropora palrnata colonies
+              was examined in the northern Florida Reef Tract, USA. The recovery of A. palmata lesions followed a
+              negative exponential model. Lesion regeneration was influenced by the initial size and perimeter of
+              lesions, but was not affected by the presence of colonizers or the size of the colonies or fragments bear-
+              ing the lesions. Significant ddferences in regeneration rates were found among small (0-5 cm2),
+              medium (5-10 cm2),and large (10-20 cm2)lesions. The largest lesions (>20 cm2)did not show a signif-
+              icant recovery over time. When the total area recovered during the first 30 d was normalized to Initial
+              perimeter length, both small and large lesions regenerated similar amounts of tissue. However, closure
+              rates (the rate of movement of the growing lip towards the center of the lesion) were significantly faster
+              for small lesions (7.3 [SE = 1.31 mm mo-') compared to medium (4.9 [0.4] mm mo-'1 and large (4.3
+              [0.3]mm mo-') lesions. Results of this study support previous studies suggesting that the regeneration
+              process is sustained by a limited, initial amount of energy that may be determined by the extent of dam-
+              age experienced by the colony.
+
+              KEY WORDS: Coral lesions - Lesion regeneration . Acropora palmata . Coral fragmentation - Lesion
+              size and shape
+
+
+
+
+                      INTRODUCTION                                  have long-lasting effects on the composition and sur-
+                                                                    vivorship of reef communities (Loya 1976, Gladfelter et
+  Coral colonies experience frequent, small-scale dis-              al. 1977, Bak 1983, Wahle 1983, Kobayashi 1984, Liddle
+turbances that result in the partial loss of tissue.                & Kay 1987. Meesters et al. 1992, 1994, 1996, Guzman
+Injuries or lesions on corals can be created by physical            et al. 1994, Van Veghel & Bak 1994, Lirman 1997).
+and biological agents such as storms, sedimentation,                    Previous research on the regeneration of experi-
+diseases, high temperature, predation, competition for              mentally inflicted coral lesions has shown that several
+primary space, human activities, and pollution (Con-                factors can influence the recovery process, including
+nell 1973, Glynn 1973, Loya 1976, Bak & Van Es 1980,                lesion size and shape, overall extent of damage, posi-
+Bak & Criens 1981, Knowlton et al. 1981, 1988, Rogers               tion of lesions within a colony, and size of the colonies
+et al. 1982, Bak 1983, Hutchings 1986, Hawkins &                    bearing the lesions (Loya 1976, Bak et al. 1977, Bak &
+Roberts 1992, Bythell & Sheppard 1993, Guzman et al.                Van Es 1980, Bak 1983, Chadwick & Loya 1990,
+1994).The regeneration of lesions can represent a sig-              Meesters et al. 1992, 1994, 1997, Oren et al. 1997, van
+nificant drain on the energetic resources available for             Woesik 1998).The fragmentation of Acropora palmata
+coral maintenance, growth and reproduction, and can                 colonies by storms and boat impacts provided an
+                                                                    excellent opportunity to test the effects of these and
+                                                                    some additional factors on the regeneration of lesions
+                                                                    created by the detachment of coral branches.
+
+O Inter-Research 2000
+Resale of full article not permitted
+210                                            Mar Ecol Prog Ser 197: 209-215, 2000
+
+
+
+
+     Acropora palmata (elkhorn coral) is a dominant spe-              storm damage was detected (as evidenced by the
+ cies in the shallow, exposed areas of reefs throughout               appearance of coral lesions showing a bright, white
+ the Caribbean (Wells 1988). The dominance of this                    skeleton devoid of significant algal colonization), le-
+ coral species in high-energy zones has been attributed               sions were labeled and subsequently photographed at
+ to its plastic morphology, strong skeleton, rapid growth,            different time intervals with a Nikonos V camera equip-
+ and ability to form new colonies from fragments (Graus               ped with a 28 mm lens and close-up lens outfit. Out-
+ et al. 1977, Chamberlain 1978, Gladfelter et al. 1978,               lines for all lesions were scanned and surface area and
+ Schuhrnacher & Plewka 1981, Highsmith 1982, Glad-                    perimeter for each lesion were estimated with NIH
+ felter 1991, Lirman & Fong 1997). A. palmata has also                Image Software.
+ good regenerative capabilities, as evidenced by the                    The recovery process was evaluated by calculating:
+ rapid recovery of small, circular experimental lesions               (1) regeneration rates (change in lesion size with time;
+ (Bak 1983, Meesters & Bak 1995). Colonies of A. pal-                 cm2 d-'), (2) linear closure rates (rate of movement of
+ mata on the Florida Reef Tract undergo periodic frag-                the growing lip towards the center of the lesion; mm
+ mentation (Lirman 1997),and the resulting lesions can                mo-'), and (3) total amount of tissue regenerated dur-
+ be colonized by algae and other organisms (Rogers et                ing the first 30 d (cm2).To determine closure rates, 12
+ al. 1982, Bak 1983). Since linear extension of broken A.            radial measurements were taken for each lesion from
+palmats branches can be delayed or slowed down -mti!                  the edge of the g r o w i g lip towards t l i e center of the
+the resulting lesions are completely recovered, and the              lesion along 6 axes drawn on acetate paper and placed
+ colonization of lesions by bioeroders can weaken co-                over the photographs. Measurement were taken at
+lonies ( ~ e r n a n d e z - ~ v ietl aal. 1977, Mitchell-Tapping    each time interval and averaged for small, medium,
+ 1983), it is of great importance for A. palmata colonies            and large lesions.
+to recover these lesions rapidly.                                       Effects of colonizers. Thirty lesions created by a boat
+    Although large scale, acute events such as hurri-                grounding in June 1994 were tagged and assigned to
+canes, disease or predator outbreaks, and bleaching                   1 of 2 groups at random. Lesions in the experimental
+concentrate scientific attention due to their often cata-            group were brushed free of any filamentous algae at
+strophe effects; smaller scale, chronic disturbances                 bi-weekly intervals using a plastic denture brush. The
+may also have considerable impacts on coral popula-                  algal removal was done with extreme care to avoid
+t i o n ~ .The regeneration of lesions caused by the peri-           damaging the coral polyps developing along the grow-
+odic fragmentation of Acropora palmata by storms or                  ing edge of the lesions. To minimize any differences
+boat impacts may represent a significant energetic                   between groups resulting from the stress caused by
+drain for damaged colonies and, considering that le-                 brushing, the brush was passed very lightly over the
+sion regeneration can affect other vital processes such              control lesions without removing any of the colonizing
+as growth and sexual reproduction, it may play a sig-                algae.
+nificant role in the long-term survivorship of A. pal-                  Effects of lesion size and shape. Seventy Acropora
+mata populations in the Florida Reef Tract. The objec-               palmata lesions caused by Tropical Stornl Gordon
+tives of this study were to test if regeneration of A.               were marked in November 1994,less than a week after
+palmata lesions caused by fragmentation is affected                  the storm, and their recovery followed through time.
+by: (1)the size of the colonies or fragments bearing the             Lesions were grouped into 4 size categories: small
+lesions; (2) the size and shape of lesions; and (3) the              (0-5 cm2),medium (5-10 cm2),large (10-20 cm2),and
+colonization of lesions by algae and other organisms.                extra-large (>20 cm2).
+                                                                        Recovery of lesions on colonies and fragments. In
+                                                                    August 1995, a boat impacted the Acropora palmata
+                         METHODS                                    population on Elkhorn Reef and many of the frag-
+                                                                    ments produced could be found resting on top of
+  The recovery of lesions on Acropora palmata co-                   their colony of origin or on the bottom nearby. Newly
+lonies and fragments was examined at Elkhorn Reef                   created fragments were chosen so that their lesions
+(25"21.766' N, 80" 09.961' W) in the northern Florida               matched those on their colonies of origin, and lesions
+Reef Tract, USA. This reef has a well-developed A.                  were tagged on both colonies and fragments. The
+palmata coral population that undergoes periodic                    fragments were tied with monofilament line to large
+fragmentation (Lirman & Fong 1995, 1996).The lesions                pieces of coral rubble and placed on the bottom near
+monitored in this study were all produced by the                    the standing colonies. Maximum linear diameter of
+detachment of A. palmata branches from adult col-                   colonies bearing the lesions and surface area of the
+onies as a result of storms or boat impacts.                        fragments were estimated to evaluate the effects of
+  Elkhorn Reef was surveyed at weekly intervals dur-                colony and fragment size on the regeneration of
+ing the summers of 1994 and 1995. Whenever boat or                  lesions.
+                                         Lirman: Lesion regeneration in Acropora palmata                                                211
+
+
+
+
+   Statistical methods. Size of lesions was regressed                 Linear closure rates decreased exponentially with
+against time since injury. To normalize the data,                  time for all lesion sizes (Fig. 3) and were influenced by
+lesion size was logarithmically transformed (ln(x+l);              initial lesion size. Mean closure rates for the first 30 d
+Sokal & Rohlf 1981). Data for each lesion were fitted              were significantly faster for small lesions (7.3[SE = 1.31
+to the exponential model: lesion size = a . e t d bdayS)           mm mo-') compared to medium (4.9 [0.4] mm mo-')
+using a least squares procedure. Regression para-                  and large (4.3 [0.3] mm mo-l) lesions (ANCOVA,
+meters (slope and intercept) were averaged within                 p < 0.05, Tukey a posterion comparisons test). No sig-
+groups (Meesters et al. 1997). Differences among re-               nificant differences in closure rates were found be-
+generation rates were tested among all groups w t h                tween medium and large lesions.
+ANCOVA (Sokal & Rohlf 1981). The relationships be-                    For the lesions created by Tropical Storm Gordon on
+tween lesion size, perimeter, shape (perimeter/area               Elkhorn Reef, lesion perimeter and initial area were
+ratio), colony and fragment size, and the amount of               positively correlated (r = 0.90). In contrast, the com-
+tissue regenerated during the first 30 d were tested              plexity of lesion shape, as estimated by the perimeter/
+with regression.                                                  area-ratio, was negatively correlated with lesion size
+                                                                   (r = -0.91). The total amount of tissue regenerated dur-
+                                                                  ing the first 30 d was significantly affected by lesion
+                          RESULTS                                 size (Fig.4A, r2 = 0.59, p c 0.01) and perimeter (Fig.4B,
+                                                                  r2 = 0.50, p c 0.01). When the area recovered during
+  A thick, growing Lip developed within 2 wk around               this period was normalized to initial perimeter length,
+the edges of the lesions (Fig. 1). New polyps could be            although large lesions appeared to recover a larger
+observed behind this growing lip as it moved towards              amount of tissue, no significant relationships were
+the center of the lesion. Regeneration rates of lesions           established (Fig. 4C, r2 = 0.08, p > 0.1).
+on Acropora palmata decreased exponentially with                      Control lesions that were heavily colonized by algae
+time as shown by a good fit to the exponential model              shortly after fragmentation recovered faster than
+(Table 1). An exception to this pattern are the extra-            brushed lesions devoid of colonizers (Table 1,
+large lesions (c20 cm2)that did not show a significant            ANCOVA, p c 0.05). At the end of this experiment
+recovery over the time of the study. Regeneration rates           (138 d), control colonies had recovered a larger per-
+were strongly size-dependent (Table 1, Fig. 2), and sig-          centage of their initial lesion area (94 %) compared to
+nificant differences in regeneration rates were found             brushed lesions (81%).
+among all 3 groups tested (i.e., small, medium, and                  Although standing colonies regenerated lesions of
+large; ANCOVA, p c 0.05). Given the lack of regener-              equal size slightly faster than fragments placed on the
+ation, extra-large lesions were excluded from the                 bottom, this difference was not statistically significant
+analysis.                                                         (Table 1, ANCOVA, p > 0.1). After 3 mo, colonies re-
+                                                                  covered a larger percentage of their original lesion
+                                                                  area (89%)compared to fragments (70%).No signifi-
+                                                                  cant relationships were found between either colony or
+                                                                  fragment size and the total amount of tissue regener-
+                                                                  ated during the first 30 d (regression, p > 0.1).
+
+                                                                  Table 1. Regression parameters for the regression between
+                                                                  lesion size and regeneration time. Regression parameters for
+                                                                  each group represent means (*l SE) of individual lesions fit-
+                                                                  ted to the model: lesion size = a - e '-b'days) . ns = not significant,
+                                                                                 p,,, = probabiltity of regression
+
+
+                                                                   Lesions         N    Intercept       Reg. coeff.       rZ     p,,,
+
+                                                                   Small           20
+                                                                   Medium          20
+                                                                   Large           12
+                                                                   Extra-large     12
+
+                                                                   Controls        15
+Fig 1. Acropora palrnata. Close-up photograph of a lesion          Brushed         15
+caused by the detachment of a branch dunng Tropical Storm
+Gordon (November 1994)showing the formation of the grow-           Colonies        15
+ing lip that moves towards the center of the lesion as regener-    Fragments       15
+                       ation proceeds
+ 212                                        Mar Ecol Prog Ser 193:209-215,2000
+
+
+
+
+                                                             TlME (days)
+
+Fig. 2. Acropora palmata. Change in mean size (*l SEM) with time for (A) small (<5 cm2, n = 20),(B)medium (5-10 cm2, n = 20),
+(C)large (10-20cm2,n = 12),and (D)extra-large (>20cm2, n = 12)lesions. Regression lines are averaged for individual lesions
+            within groups fitted to the model: lesion size = a . e Regression coefficients can be found in Table 1
+
+
+
+                      DISCUSSION                                    tation of Acropora palmata colonies. For A, palmata
+                                                                   lesions created by storms or boat groundings, regener-
+   Lesion regeneration on corals has been studied ex-               ation rates were dependent on initial lesion size and
+tensively using mainly small ( c 5 cm2),experimentally-             decreased exponentially with time. Whereas more
+created lesions. In this study, it is shown that several           than half of small lesions (<5 cm2) recovered com-
+previous findings can also be applied to the regenera-             pletely during the first 30 d, the largest lesions (>20cm2)
+tion of a wide range of lesion sizes caused by fragmen-            did not show any significant recovery over time. Simi-
+                                                                   lar effects of initial lesion size on recovery rates has
+                                                                   been documented for experimental lesions (e.g.,Bak &
+                                                A   small          van Es 1980, Oren et al. 1997, van Woesik 1998).
+                                                                      The exponential decrease in both lesion size and the
+                                                    medium
+                                                                   movement rate of the growing lip with time observed
+                                                    large          here support the hypothesis that the regeneration of
+                                                                   coral lesions is fueled by an initial, limited supply of
+                                                                   energy drawn from the undamaged tissue on the
+                                                                   colony bearing the lesion as proposed by Bak (1983)
+                                                                   and Meesters et al. (1992, 1994, 1997).The faster initial
+                                                                   closure rates of small lesions indicate that the regener-
+                                                                   ation process and the amount of resources available for
+                                                                   regeneration may be related to the extent of the dam-
+                                                                   age experienced by the fragmented colonies. In Acro-
+                                                                   pora palmata, the size of a lesion is determined by the
+                                                                   cross section of the broken branch. The detachment of
+                                            l                I I
+       0
+                  I
+                 30          60
+                               I
+                                           90               120    a large branch results in a significant biomass loss and
+                          TlME (days)                              a potential drain of resources, resulting in the slower
+                                                                   closure rates recorded for larger lesions.
+Fig. 3.Acropora palmata. Mean closure rates (movement of              The recovery of Acropora palmata lesions was influ-
+the growing lip towards center of lesion, i 1 SEM). Small =
+<5 cm2, medium = 5-10 cm2, large = 10-20 cm2. Given the
+                                                                   enced by lesion size and shape. The total amount of tis-
+lack of recovery observed for lesions >20 cm2, these were          sue recovered during the first month of regeneration
+                excluded from the analyses                         was proportional to lesion size and perimeter. How-
+                                              Lirman: Lesion regenera tion in Acropora palmata                              213
+
+
+
+
+ever, when the amount of tissue recovered was nor-                       lesions with small initial areas and short perimeters
+malized to initial perimeter length, small and large le-                 suggest that size effects cannot be dismissed. Further
+sions recovered similar amounts of tissue. Similar re-                   studies such as those by Oren et al. (1997)that manipu-
+sults were obtained by Meesters et al. (1997) who                        late both size and shape are needed to fully under-
+concluded that perimeter length is the most important                   stand the role of lesion size and perimeter on regenera-
+variable affecting lesion regeneration. In contrast,                    tion.
+Oren et al. (1997) found that lesions with longer peri-                    Another factor that may influence the recovery of
+meters recovered relatively more tissue than lesions                    lesions is their location within the damaged colonies.
+with shorter perimeters. Although these reports high-                   Meesters & Bak (1995) documented a regeneration-
+light the influence of perimeter length and lesion                      potential gradient along Acropora palmata branches
+shape, the faster closure rates documented here for                     that decreases as distance from the branch tips in-
+                                                                        creases. This regeneration gradient was attributed to
+                                                                        the younger age of polyps at the branch tips, and the
+                                                                        general mobilization of energy from basal portions
+                                                                        towards the ends of branches where linear extension
+                                                                        takes place (Pearse & Muscatine 1971). The role of
+                                                                        lesion position on regeneration of lesions created by
+                                                                        fragmentation was not tested in this study but merits
+                                                                        further investigation.
+                                                                           Previous studies suggest that Acropora pahata frag-
+                                                                        ments and colonies may have different resource allo-
+                                                                        cation strategies after fragmentation. Since lesions on
+      90                              1                        1        colonies have to heal completely before linear exten-
+            0   2       4       6    8 10 12 14      16   18   20
+                                                                        sion of the damaged branches can resume (Lirman
+                                INITIAL AREA (cm )
+                                                                        1997), the rapid regeneration of lesions on colonies is
+                                                                        crucial for the continued growth of damaged colonies.
+                                                                        In contrast, newly-formed fragments direct most of
+                                                                        their energy initially towards cementation to the bot-
+                                                                        tom, and new growth was found to be delayed until
+                                                                        this process is complete (Lirman & Fong 1997). Based
+                                                                        on this, it was hypothesized that lesions on colonies
+                                                                       would recover faster than on fragments. Results pre-
+                                                                        sented here did not support the differential resource
+                                                                        allocation hypothesis; although colonies regenerated a
+                                                                       larger percentage of their initial lesion area compared
+            0   2   4       6   8 10 12 14 16 18 20 22 24 26           to fragments, no significant differences in recovery
+     -
+     E
+     P
+                            PERIMETER LENGTH (cm)                      rates were detected, suggesting that lesion recovery
+                                                                       may be an important process for both A. palmata colo-
+                                                                       nies and fragments.
+                                                                           The effects of colony size on lesion regeneration
+                                                                       have been studied previously with differing results.
+                                                                       Connell (1973) and Loya (1976) showed reduced
+                                                                       regeneration capabilities in small coral colonies (8 to
+                                                                       80 cm2), whereas Bak & Van Es (1980) and Wahle
+                                                                       (1983) did not find any relationship between colony
+                                                                       size and regeneration rates. Moreover, Chadwick &
+                                                                       Loya (1990)found that small solitary corals can recover
+     5U    0    2       4       6    8 10 12 14      16   18   20      faster than larger corals with similar amounts of dam-
+     4                          INITIAL AREA (cm                       age. In this study, no significant relationship was found
+                                                                       between regeneration of lesions and fragment or
+Fig. 4 . Acropora palmata. Relationships between area recov-           colony size, indicating that even small colonies (50 cm
+ered during the first month and (A) initial lesion size, (B) ini-      in diameter) and fragments (50 cm2) are capable of
+tial perimeter length, and (C) between area recovered per
+perimeter length and initial lesion size. Given the lack of            regenerating lesions at rates similar to those of larger
+recovery observed for lesions >20 cm2, these were excluded             units. This supports the concept that the resources
+                      from the analyses                                required for regeneration can be drawn from the tissue
+ 214                                            Mar Ecol Prog Ser 197: 209-215, 2000
+
+
+
+
+ found in the vicinity of the lesion, and that if the ratio of            age in the scleractinian corals Agarida agaricites f , pur-
+ damaged to undamaged polyps within a certain area of                    purea and Porites astreoides. Bull Mar Sci 30:883-887
+                                                                     Bak RPM, Brouns JJWM, Heys FML (1977) Regeneration and
+ the colony is low enough to support regeneration,
+                                                                         aspects of spatial competition in the scleractinian corals
+ lesions may recover independently of colony size (Mee-                  Agaricia agaricites and Montastrea annulan's. Proc 3rd Int
+ sters et al. 1994).                                                     Coral Reef Symp, Miami 2:143-148
+   The colonization of skeletal lesions can be rapid, and            Bythell J , Sheppard C (1993) Mass mortality of Caribbean
+ a dense community of filamentous algae can develop                      shallow corals. Mar Pollut Bull 26:296-297
+                                                                     Chadwick NE, Loya Y (1990) Regeneration after experimental
+ within 2 to 3 wk. Bak & Van Es (1980) and Van Woesik                    breakage in the solitary reef coral Fungia granulosa Klun-
+ (1998) observed that the regeneration of coral lesions                  zinger, 1879. J Exp Mar Biol Ecol 142:221-234
+ can proceed even in the presence of colonizing organ-               Chamberlain JA Jr (1978) Mechanical properties of coral
+ isms. In fact, Rogers et al. (1982) showed that the                     skeleton: compressive strength and its adaptive signifi-
+                                                                         cance. Paleobiology 4:419-435
+recovering coral tissue can grow right over the algal
+                                                                     Comell J H (1973) Population ecology of reef-building corals.
+ community. In the algal removal experiment, control                     In: Jones OA, Endean R (eds) Biology and geology of coral
+lesions grew faster and recovered a higher percentage                    reefs, Vol2. Academic Press, New York, p 205-245
+of their initial lesion area than lesions that were                  Gladfelter EH, Monahan RK, Gladfelter WB (1978) Growth
+scraped free of colonizers, confirming that lesion re-                   rates of five reef-building corals in the northeastern
+                                                                         Caribbean. Bull Mar Sci 28:728-734
+ganeiation can take place normally even i? the pres-                 Gladfelter WB (1991) Population structure of Acropora
+ence of coloIlizers. Although extreme care was exer-                    palmata on the windward forereef, Buck Island National
+cised to avoid damaging coral polyps along the                           Monument: seasonal and catastrophic changes 1988-1989.
+periphery of the lesions, the slower regeneration of                     In: Gladfelter EH, Bythell JC, Gladfelter WB (eds) Ecolog-
+                                                                         ical studies of Buck Island Reef National Monument, St.
+brushed lesions may be attributed to the stress created
+                                                                         Croix, US Virgin Islands. A quantitative assessment of
+by the removal of colonizers.                                            selected components of the coral reef ecosystem and
+   The recovery of Acropora palmata lesions caused by                    establishment of long term monitoring sites, Part I, Chap 5.
+fragmentation provided a test for several hypotheses                     US Department of the Interior, National Park Service, US
+proposed by previous studies based on the regenera-                     Virgm Islands, p 1-21
+                                                                    Gladfelter WB, Gladfelter EH, Monahan R . , Ogden JC, Dill
+tion of experimental lesions. Results presented here                    RF (1977) Environmental studies of Buck Island Reef
+show that, as was the case for the recovery of small                    National Monument, St. Croix, US Virgin Islands. US
+(1-5 cm2) circular lesions on several coral species, re-                Department of the Interior, National Park Service, US
+covery can be affected by lesion size, shape, and the                   Virgin Islands
+                                                                    Glynn PW (1973) Aspects of the ecology of coral reefs in the
+extent of the initial damage. Similarly, the recovery of
+                                                                        western Atlantic region. In: Jones OA, Endean R (eds)
+A, p a h a t a lesions of a wide size range (1-20 cm2)was               Biology and geology of coral reefs, Vol 2. Academic Press,
+found to be dependent on a limited amount of energy                     New York, p 271-325
+that results in an initial burst of regeneration, followed          Graus RR, Chamberlain JA, Boker AM (1977) Structural mod-
+by an exponential response in recovery rates with time.                 ification of corals in relation to waves and currents. In:
+                                                                        Frost SH, Weiss MP, Saunders JB (eds) Reefs and related
+                                                                        carbonates-ecology and sedirnentology. Studies in Geo-
+Acknowledgements. This research was funded by NSF grant                 logy, no. 4. Am Assoc Petr Geol Mem Ann Arbor, MI.
+no. OCE-9-00649 to the University of Miami, the E. 0 . Dunn             p 135-153
+Foundation, Key Biscayne Rotary Club, Sanibel Captiva Shell         Guzmtin HM, Burns KA, Jackson JBC (1994) Injury, regener-
+Club, Bader Fund, and Reitmeister Fellowship. Biscayne                 ation and growth of Caribbean reef corals after a major oil
+National Park (BNP) provided boat and dive support. I thank            spill in Panama. Mar Ecol Prog Ser 105:231-241
+Fbchard Curry, Science Director for BNP, as well as C. Rivero       Hawkins JP, Roberts CM (1992) Effects of recreational
+and J . Paddon for their help. This manuscript benefited from          SCUBA diving on fore-reef slope communities of coral
+comments by M. Harwell, P. Fong, N. Ehrhardt, P. W. Glynn,             reefs. Biol Conserv 62:1?1-178
+R. Curry, J . Bohnsack, W. P. Cropper Jr, and 3 anonymous           ~ernandez-AvilaML, Roberts HH, Rouse W (1977) Hurri-
+reviewers.                                                             cane-generated waves and coastal boulder rampart for-
+                                                                       mation. Proc 3rd Int Coral Reef Symp, Miami 1:?1-78
+                                                                    Highsmith RC (1982) Reproduction by fragmentation in
+                                                                       corals. Mar Ecol Prog Ser 7:207-226
+                     LlTERATURE CITED                               Hutchings PA (1986) Biological destruction of coral reefs.
+                                                                       Coral Reefs 4:239-252
+Bak RPM (1983) Neoplasia, regeneration and growth in the            Knowlton N, Lang JC, Rooney MC, Chfford P (1981) Evidence
+   reef-building coral Acropora palmata. Mar Biol 77:                  for delayed mortality in hurricane-damaged Jamaican
+   221-227                                                             staghorn corals. Nature 294:251-252
+Bak RPM, Criens SR (1981) Survival after fragmentation of           Knowlton N, Lang JC, Keller BD (1988) Fate of staghorn coral
+   colonies of Madracis mirabdis, Acropora palrnata, and A.            isolates on hurricane-damaged reefs in Jamaica: the role of
+   c e ~ c o n r i s(Scleractinia) and the subsequent impact of a      predators. Proc 6th Int Coral Reef Symp Australia 243-88
+   coral disease. Proc 4th Int Coral Reef Symp, Manila 2:           Kobayashi A (1984) Regeneration and regrowth of frag-
+   221-227                                                             mented colonies of the hermatypic corals Acropora for-
+Bak RPM, Van Es YS (1980) Regeneration of superficial dam-             mosa and Acropora nasuta. Galaxea 3:13-23
+                                        Lirman: Lesion regeneration in Acropora palmata                                    215
+
+
+
+
+Liddle MJ, Kay AM (1987) Resistance, survival and recovery           ous corals in the reef environment. Caribb J Sci 19:49-51
+   of trampled corals on the Great Barrier Reef. Biol Conserv     Oren U, Benayahu Y, Loya Y (1997) Effect of lesion size and
+   42:l-18                                                           shape on regeneration of the Red Sea coral Favia favus.
+Lirman D (1997) Disturbance ecology of the Caribbean coral           Mar Ecol Prog Ser 146.101-107
+   Acropora palmata. PhD dissertation, University of ~Miami       Pearse VB, Muscatine L (1971) Role of symbiotic algae (zoo-
+Lirman D , Fong P (1995)The effects of Hurricane Andrew and          xanthellae) in coral calcification. Biol Bull 141:350-363
+   Tropical Storm Gordon on Florida reefs. Coral Reefs 14:        Rappaport EN, Avila LA (1995) 1994 Atlantic hurricane sea-
+    172                                                              son summary. In: Tait LS (ed) Hurricanes: different faces
+Lirman D, Fong P (1996) Susceptibility of coral communities          in different places. Proc 17th Annual National Hurricane
+   to storm intensity, duration, and frequency. Proc 8th Int         Conference, Atlantic City, p 1-8
+   Coral Reef Symp, Panama 1.561-566                              Rogers CS, Suchanek, TH, Pecora FA (1982) Effects of hurri-
+Lirman D, Fong P (1997) Patterns of damage to the branching          canes David and Frederic (1979) on shallow Acropora
+   coral Acropora palrnata following Hurricane Andrew:               palmata reef co~nrnunities.St. Croix, U S. Virgin Islands.
+   damage and survivorship of hurr~cane-generatedasexual             Bull Mar Sci 32532-548
+   recruits. J Coastal Res 13:67-72                               Schuhmacher H, Plewka M (1981) The adaptlve significance
+Loya Y (1976) Skeletal regeneration in a Red Sea scleractin-         of mechanical properties versus morphological adjust-
+   ian coral population. Nature 261:490-491                          ments in skeletons of Acropora palrnata and Acropora cer-
+Meesters EH, Bak RPM (1995) Age-related deterioration of a           vicornis (Cnidaria, Scleractinia). Proc 4th Int Coral Reef
+   physiological function in the branching coral Acropora            Syrnp, Manila 2:121-128
+   palmata. Mar Ecol Prog Ser 121:203-209                         Sokal RR, Rohlf FJ (1981)Biometry, 2nd edn W H Freeman &
+Meesters EH, Bos A, Gast GJ (1992) Effects of sedimentation          CO,New York
+   and lesion position on coral tissue regeneration. Proc 7th     Storm Data (1994) National CLunatic Data Center. NOAA.
+   Int Coral Reef Syrnp, Guam 2:681-688                              Asheville, NC
+Meesters EH, Noordeloos M, Bak RPM (1994) Damage and              Van Veghel M U , Bak RPM (1994) Reproductive characteris-
+   regeneration: links to growth in the reef-building coral          tics of the polymorphic Caribbean reef building coral
+   Montastrea annularis. Mar Ecol Prog Ser 112:119-128               Montastrea annularis. 111. Reproduction in damaged and
+Meesters EH, Wesseling I, Bak RPM (1996) Partial mortahty in         regenerating colonies Mar Ecol Prog Ser 109.229-233
+   three specles of reef-building corals (Scleractinia) and the   Van Woesik R (1998) Lesion healing on massive Pontes spp.
+   relation w ~ t hcolony morphology Bull Mar Sci 58:838-852         corals. Mar Ecol Prog Ser 164:213-220
+Meesters EH, Pauchli W, Bak RPM (1997) Predicting regener-        Wahle CM (1983) Regeneration of injuries among Jamaican
+   ation of physical damage on a reef-building coral by re-          gorgonians: the roles of colony physiology and environ-
+   generation capacity and lesion shape. Mar Ecol Prog Ser           ment. Biol Bull 165:778-790
+   146:91-99                                                      Wells SM (ed) (1988) Coral reefs of the world. Vol 1
+Mitchell-Tapping HJ (1983) Experimental fracturing of vari-          UNEP/IUCN, Columbia University Press, New York
+
+Editorial responsib~lity:Rolf Bak (Contributing Editor),          Submitted: August 25, 1999; Accepted: November 10, 1999
+Den Bwg, The Netherlands                                          Proofs recelved from author(s): March 28, 2000
+

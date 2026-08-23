@@ -1,0 +1,865 @@
+                                                                  Marine Pollution Bulletin 95 (2015) 253–264
+
+
+
+                                                                Contents lists available at ScienceDirect
+
+
+                                                             Marine Pollution Bulletin
+                                              journal homepage: www.elsevier.com/locate/marpolbul
+
+
+
+
+Environmental conditions influence tissue regeneration rates
+in scleractinian corals
+Alexis M. Sabine a,⇑, Tyler B. Smith b, Dana E. Williams c, Marilyn E. Brandt b
+a
+    Master of Marine and Environmental Science Program, University of the Virgin Islands, 2 John Brewers Bay, St. Thomas, USVI 00802, USA
+b
+    Center for Marine and Environmental Studies, University of the Virgin Islands, 2 John Brewers Bay, St. Thomas, USVI 00802, USA
+c
+    Cooperative Institute for Marine and Atmospheric Studies, University of Miami, 4600 Rickenbacker Causeway, Miami, FL 33149, USA
+
+
+
+a r t i c l e           i n f o                          a b s t r a c t
+
+Article history:                                         Natural and anthropogenic factors may influence corals’ ability to recover from partial mortality. To
+Received 17 October 2014                                 examine how environmental conditions affect lesion healing, we assessed several water quality param-
+Revised 5 April 2015                                     eters and tissue regeneration rates in corals at six reefs around St. Thomas, US Virgin Islands. We hypoth-
+Accepted 10 April 2015
+                                                         esized that sites closer to developed areas would have poor water quality due to proximity to
+Available online 13 May 2015
+                                                         anthropogenic stresses, which would impede tissue regeneration. We found that water flow and turbidity
+                                                         most strongly influenced lesion recovery rates. The most impacted site, with high turbidity and low flow,
+Keywords:
+                                                         recovered almost three times slower than the least impacted site, with low turbidity, high flow, and low
+Coral lesions
+Tissue regeneration
+                                                         levels of anthropogenic disturbance. Our results illustrate that in addition to lesion-specific factors
+Water flow                                               known to affect tissue regeneration, environmental conditions can also control corals’ healing rates.
+Turbidity                                                Resource managers can use this information to protect low-flow, turbid nearshore reefs by minimizing
+U.S. Virgin Islands                                      sources of anthropogenic stress.
+Orbicella annularis                                                                                                          ! 2015 Elsevier Ltd. All rights reserved.
+
+
+
+
+1. Introduction                                                                             known to be species-specific and can also be affected by lesion size,
+                                                                                            shape, and position (Bak et al., 1977; Meesters et al., 1992, 1996,
+    Coral reefs are increasingly affected by natural and anthro-                            1997; Hall, 1997; Cróquer et al., 2002).
+pogenic processes that cause partial mortality in scleractinian cor-                            While this information has been confirmed by several studies,
+als (Gardner et al., 2003; Hughes, 1984; Rogers and Miller, 2006;                           less is known about the potential effects of environmental condi-
+Smith et al., 2008). Both acute and prolonged stresses acting on a                          tions on lesion regeneration. The few studies that have investi-
+reef can cause lesions, including storm damage (Rogers et al.,                              gated associations between environmental factors and lesion
+1982), diseases (Brandt et al., 2013), predation (Rotjan and Lewis,                         recovery rates have targeted only one specific variable rather than
+2008), algal overgrowth (Jompa and McCook, 2002), sedimentation                             a suite of water quality parameters. For example, coral colonies
+(Bak and Engel, 1979; Rogers, 1983), and boat groundings (Lirman,                           located in areas with high sedimentation rates have been observed
+2000). The resulting lesions are characterized by the loss of tissue                        to recover from lesions slower than those in areas with low sedi-
+and exposure of skeleton, which may also be damaged depending                               ment accumulation (Meesters et al., 1992; Rogers, 1983; Cróquer
+on the severity of the injury (van Woesik, 1998). The ability of cor-                       et al., 2002; Nugues and Roberts, 2003). Sediment deposition can
+als to recover from partial mortality has been documented in early                          slow lesion recovery by increasing stress on corals through hypoxia
+experiments by Bak et al. (1977), Bak and Steward-Van Es (1980),                            and bleaching (Wesseling et al., 2001; Fabricius, 2005). Small ter-
+and Hughes (1984). These studies as well as more recent papers                              rigenous particles are particularly easily trapped in corals’ mucous
+(e.g., van Woesik, 1998; Fisher et al., 2007) demonstrated that                             layers and can prevent light from reaching corals, impairing photo-
+the rate and degree of healing can vary under the influence of a                            synthesis and hindering tissue regeneration (Weber et al., 2006).
+number of intrinsic and extrinsic factors. Regeneration rates are                           However, the effects of sediment deposition can vary with coral
+                                                                                            species, as some species are more adept than others at rejecting
+                                                                                            particles and may not suffer from reduced regeneration rates when
+                                                                                            covered with sediment (Meesters et al., 1992).
+ ⇑ Corresponding author at: Division of Fish and Wildlife, U.S. Virgin Islands
+                                                                                                Aside from the effects of sedimentation on lesion recovery,
+Department of Planning and Natural Resources, 6291 Estate Nazareth, St. Thomas,
+USVI 00802, USA.                                                                            much remains unknown about how environmental factors affect
+   E-mail address: alexiss88@gmail.com (A.M. Sabine).                                       tissue regeneration, as results from studies on the subject have
+
+http://dx.doi.org/10.1016/j.marpolbul.2015.04.006
+0025-326X/! 2015 Elsevier Ltd. All rights reserved.
+254                                            A.M. Sabine et al. / Marine Pollution Bulletin 95 (2015) 253–264
+
+
+been inconsistent. Algal colonization of lesion area has been shown               2. Materials and methods
+to have negative effects on lesion recovery in some cases
+(Kramarsky-Winter and Loya, 2000; Fisher et al., 2007) but no                     2.1. Study area
+effect in others (Bak et al., 1977; Rogers et al., 1982; van Woesik,
+1998; Vermeij et al., 2010). Furthermore, it is unknown whether                       The study was conducted from November 2012 to January 2013
+impacts such as habitat degradation and anthropogenic pollution                   at reefs located on the south side of St. Thomas, USVI (18!200 N,
+are reliable indicators of regeneration potential at a site. Fisher               64!550 W, Fig. 1). The six sites represented a variety of environmental
+et al. (2007) found that corals regenerated tissue significantly fas-             conditions and levels of water quality around the island, including
+ter at protected reefs than at reefs located near developed, urban-               varying distances from shore and along a longitudinal gradient. All
+ized areas that had high input of pollution and nutrients. In                     sites were shallow fringing reefs (maximum depth of 7–10 m) dom-
+contrast, Lester and Bak (1985) found the opposite: corals regener-               inated by the reef-building scleractinian corals O. annularis, O. fave-
+ated lesions faster at a site that received industrial discharge from             olata, and O. franksi. Three sites were nearshore locations (<0.25 km
+a power plant than at a pristine reef with minimal anthropogenic                  from shore): Brewers Bay (BB), Perseverance Bay (PB), and Rupert’s
+disturbance. These results ran contrary to their expectations, and                Rock (RR); and three were reefs adjacent to uninhabited rocks or
+a temperature difference between the two sites was cited as a pos-                cays (‘‘offshore’’ sites, 3–5 km from shore): Flat Cay (FC), Porpoise
+sible explanation. Inconsistencies in corals’ regenerative capabili-              Rocks (PR), and Saba Island (SI). Coral cover at these sites ranges
+ties in different environments emphasize the need for further                     from 12% to 24% and is not significantly different among sites
+research into how tissue regeneration is influenced by environ-                   (Ennis, 2014). FC and SI are frequented by several of the SCUBA div-
+mental conditions.                                                                ing companies on St. Thomas; moorings present at these locations
+    Lesions can impair corals’ growth and reproductive activity and               make them popular diving destinations. Additionally, FC is located
+can increase their susceptibility to bleaching and disease (Hughes                downstream of a busy commercial port and sewage outflow
+and Connell, 1987; Jayewardene, 2010; Meesters et al., 1994).                     (Smith et al., 2012). The third offshore site was PR, an area of high
+Furthermore, corals that sustain lesions are more vulnerable to                   surge with waves commonly breaking over the rocks. RR is located
+receiving repeated injuries in the future (Hughes, 1984). Lesions                 adjacent to a cruise ship dock in Charlotte Amalie Harbor. The dock
+can even reduce genetic diversity by causing complete mortality                   can hold up to four cruise ships at a time, which have been observed
+or fission, whereby the growing lesion causes the coral to subdi-                 to churn up sediment in the harbor, making the water very turbid
+vide into genetically identical colonies (Hughes, 1984; Hughes                    (authors, unpub. observations). Of the other two nearshore sites,
+and Jackson, 1985). Additionally, areas of partial mortality are sus-             BB is more sheltered from wave action but is fronted by a beach that
+ceptible to colonization by macroalgae or bioeroding organisms                    is highly frequented with many visitors and high traffic. PB is more
+such as boring sponges that can weaken the coral skeleton and                     exposed to wind and waves to the east and can experience moder-
+cause further fragmentation (Meesters and Bak, 1993; McCook                       ately strong currents, but the beach at PB is not easily accessible
+et al., 2001). With corals facing such severe threats, it is of the               and is not as developed as BB.
+utmost importance that we fully understand the specific controls
+affecting their ability to return to a healthy state. This information            2.2. Coral lacerations
+will facilitate the work of natural resource managers in mitigating
+potential stressors to foster better water quality in which corals                   Experimental lesions were created on 10 O. annularis colonies at
+can thrive. Reefs that are identified as highly threatened or having              least 10 cm in maximum diameter (mean diameter 14.5 ± 3.7 cm,
+low resilience can then be managed more appropriately to improve
+tissue regeneration rates in corals.
+    The boulder star coral Orbicella annularis (formerly Montastraea
+annularis) is a dominant framework-building species in the U.S.
+Virgin Islands (USVI) and the wider Caribbean (Goreau, 1959;
+Sheppard, 1982; Smith et al., 2008). Yet this important species is
+in decline in the USVI (Edmunds and Elahi, 2007; Miller et al.,
+2009) and was recently listed as threatened under the
+Endangered Species Act (ESA) of 1973, as amended (Anonymous,
+2014). In the past few years, over 60% of corals surveyed in the
+Territorial Coral Reef Monitoring Program in the USVI exhibited
+some degree of partial mortality, with 10–15% showing signs of
+recent mortality that occurred within the past year (Smith et al.,
+2013). It is clear that corals in this region are suffering from what
+is likely a combination of stresses causing lesions on coral surfaces.
+The goal of the present study was to assess how the environment
+affects recovery of coral lesions in the primary ecosystem engineer
+O. annularis in the USVI. A water quality gradient exists around St.
+Thomas, with sedimentation and macroalgal cover decreasing fol-
+lowing a nearshore to offshore gradient (Smith et al., 2008). Coral
+cover and coral health generally increase along this gradient, with
+lower incidence of bleaching and partial mortality observed at sites
+farther from shore (Smith et al., 2008). This study used a total of six
+research locations, including nearshore and offshore reefs. It was
+hypothesized that the nearshore study sites would be character-
+ized by poorer water quality due to their proximity to                            Fig. 1. Locations of study sites around St. Thomas, US Virgin Islands: Brewers Bay
+                                                                                  (BB), Flat Cay (FC), Perseverance Bay (PB), Porpoise Rocks (PR), Rupert’s Rock (RR),
+land-based anthropogenic stresses, and that this would slow                       and Saba Island (SI). Sites were varying distances from shore and were exposed to
+recovery of coral lesions at these sites.                                         different levels of water quality and levels of impact.
+                                                A.M. Sabine et al. / Marine Pollution Bulletin 95 (2015) 253–264                                       255
+
+
+mean ± SE) at a depth of 6 m at each site. No colonies had any vis-                2.3.3. Water quality measurements
+ible signs of bleaching, disease, or other negative health impacts,                    Water quality parameters were measured approximately every
+and all were located at least 1 m apart from each other. The corals                two weeks using a CTD Profiler (Sea-bird Electronics Sealogger,
+were photographed using a Canon G12 camera fitted with an                          Model SBE 25) with a sampling rate of 8 Hz. Variables measured
+underwater housing. Colony size in a planar view was assessed                      were temperature (SBE 3F), conductivity (SBE 4C), pressure (SBE
+from these initial photographs using image analysis software. A                    29), and dissolved oxygen (SBE 43), with chlorophyll and turbidity
+scraping laceration was inflicted on each colony using a 1.5 cm                    measured fluorometrically with an attached fluorometer (WETLabs
+diameter chisel to remove a roughly circular area of tissue about                  Model ECO-FLU). Conductivity and pressure served as proxies for
+3 mm deep down to the skeleton. Mean initial lesion area was                       salinity and depth, respectively. The instrument was deployed
+3.7 ± 0.09 cm2 (hereafter, mean ± SE), which resulted in removal                   from the boat to the depth of the reef to record a full profile from
+of polyps to the skeleton. Mean ratio of lesion area to overall col-               surface to substrate. The data were clipped to analyze the bottom
+ony area was 2.9 ± 0.22%. Mean lesion perimeter was                                meter (approximately 4.5–5.5 m depth), to represent the portion of
+7.23 ± 0.10 cm. All lesions were created in the center of the colony               the water column directly affecting the corals.
+and were completely surrounded by living tissue. Colonies were
+re-photographed on days 3, 8, 14, 20, 31, 40, 48, and 64 after initial
+                                                                                   2.4. Data analyses
+lesion creation, using a ruler in the frame for scale. Any algae or
+sediment that settled in the lesion areas was not disturbed during
+                                                                                       Statistical analysis was performed using JMP Version 10.0 (SAS
+the surveys. Photographs were analyzed using NIH ImageJ 1.45s
+                                                                                   Institute) with alpha = 0.05 for all tests. Site differences in lesion
+software, where the lesion borders were traced and areas and
+                                                                                   perimeter and ratio of lesion size to coral size were tested via
+perimeters were calculated. Lesion recovery was observed to be a
+                                                                                   one-way ANOVAs. Lesion recovery rates (mm2 d"1) were deter-
+multi-step process, involving growth of new tissue in the site of
+                                                                                   mined by dividing the amount of tissue recovered for each lesion
+the injury, formation of new complete corallites and polyps, and
+                                                                                   by the number of days between each successive set of measure-
+return of pigmentation.
+                                                                                   ments. Repeated-measures ANOVA (RM ANOVA) tested for differ-
+                                                                                   ences in recovery rates among sites over time, considering lesion
+2.3. Environmental characterization                                                perimeter and the ratio of initial lesion area: colony area as covari-
+                                                                                   ates (Sokal and Rohlf, 1995). After running the repeated-measures
+2.3.1. Water flow                                                                  analysis, a two-way ANOVA model was run looking at the
+    Clod cards were used to determine water current strength at                    site ⁄ time interaction with a post hoc Tukey Honestly Significant
+each site (McClanahan et al., 2011). This technique is based on                    Difference (HSD) test.
+the principle that water motion causes molded calcium sulfate                          Sediment flux was divided into its components of organic, car-
+‘‘clods’’ to dissolve to a fraction of their initial weight due to oscil-          bonate, and terrestrial flux. Accumulation of each component was
+latory flow and unidirectional current. Clods were made following                  compared across sites and sampling periods using RM ANOVA. A
+the methodology of Doty (1971), which involved mixing 50 g of                      two-way ANOVA with a Tukey HSD test served as a post hoc anal-
+plaster of paris (DAP) for every 45 ml of water, resulting in clods                ysis. Differences in mean clod card dissolution were analyzed in
+that were 80 ± 1 g. The clods were glued to 5 ! 7 cm plastic cards                 the same manner. Site differences in water quality parameters
+with waterproof contact cement and attached to lead weights.                       measured by the CTD were tested via one-way ANOVAs with
+Experimental clods were arranged on reef substrate near each                       Tukey HSD and nonparametric Kruskal–Wallis tests for post hoc
+transect; control clods were placed in a weighted and covered                      analyses. A Principal Components Analysis (PCA) was also run,
+20 L bucket that was tied down to the substrate, preventing water                  including all environmental parameters. The first two principal
+flow from acting on the controls. A 1 cm diameter hole was drilled                 components were analyzed to determine which parameters con-
+through the side of each bucket to maintain temperature and salin-                 tributed most to water quality differences among sites. Pearson’s
+ity of the water inside and to allow dissolved material to exit, pre-              partial correlation analysis was performed to test for significant
+venting saturation of the water (Jokiel and Morrissey, 1993). The                  correlations between all pairs of variables. Finally, multiple regres-
+clods were retrieved after 24 h. No evidence of abrasion or preda-                 sion examined the effects of environmental variables on lesion
+tion was seen on the clods.                                                        regeneration rates. In this analysis, effects of the variables that con-
+    Dry weight lost by the clods was converted to a percentage of                  tributed most strongly to site differences were examined. Total
+the initial weight to account for the small differences in starting                sediment flux was used rather than the individual components to
+weights. Dissolution values were obtained by determining differ-                   summarize each site.
+ences in loss between clods exposed to water flow and clods in
+calm-water (control) conditions, allowing water movement to be
+                                                                                   3. Results
+compared across sites (Doty, 1971). Three batches of clods were
+created using identical methods, and one trial was deployed each
+                                                                                   3.1. Environmental data
+month that the lesion recovery study was conducted.
+                                                                                       The PCA (Fig. 2) revealed that carbonate and terrestrial sedi-
+2.3.2. Sedimentation                                                               ment flux contributed the most to Principal Component (PC) 1,
+    Three sediment traps were installed at each site to measure trap               and that water flow and dissolved oxygen were the strongest con-
+accumulation as a proxy for sedimentation rates. The PVC cups                      tributors to PC 2. These two PCs accounted for 88% of the variance
+(height = 20.3 cm, aperture = 5.0 cm) were suspended 50 cm above                   (p < 0.05). Several pairs of variables were significantly correlated
+the substrate and were changed every three to four weeks. Upon                     (Table 1). These included temperature with each component of
+collection, loss-on-ignition analysis was conducted using a muffle                 sediment flux; chlorophyll with water flow; dissolved oxygen with
+furnace to combust samples first at 550 !C and then at 950 !C, to                  organic flux; and salinity with terrestrial flux. Additionally, when
+determine percent composition of organic, carbonate, and terres-                   overall sediment flux was substituted for the three individual flux
+trial material (Heiri et al., 2001). Weights of each component were                components, there was no significant correlation between this
+converted to flux rates by taking into account the size of the traps               parameter and the rest of the variables (r = 0.49; p = 0.3245).
+and duration of collection period.                                                 Overall sediment flux was used to summarize each site in the
+256                                                     A.M. Sabine et al. / Marine Pollution Bulletin 95 (2015) 253–264
+
+
+                                                                                           Table 2
+                                                                                           Results of multiple regression examining effects of environmental variables on lesion
+                                                                                           recovery rates, including Variance Inflation Factor (VIF) scores.
+
+                                                                                                 Effect                            F                P                   VIF
+                                                                                                 Whole model                       3216.21          0.0132*              .
+                                                                                                 Water flow                        7123.27          0.0075*             5.88
+                                                                                                 Dissolved oxygen                  1910.40          0.0146*             4.66
+                                                                                                 Turbidity                          429.58          0.0307*             3.99
+                                                                                                 Total sediment flux                 24.05          0.1281              5.98
+                                                                                             *
+                                                                                                  Indicates significant result (p < 0.05).
+
+
+
+
+Fig. 2. Results of the Principal Components Analysis (PCA) showing separation of
+study sites due to environmental factors. Carbonate and terrestrial sedimentation
+contributed most strongly to the first principal component, and water flow and
+dissolved oxygen contributed the strongest to the second principal component.
+
+
+
+
+Table 1
+Pairwise correlation analysis of environmental variables.
+
+     Variable 1                Variable 2             Correlation         P
+     Chlorophyll               Temperature            !0.3791             0.4586
+     Turbidity                 Temperature            !0.5415             0.2671
+     Turbidity                 Chlorophyll             0.5822             0.2254
+     Salinity                  Temperature            !0.6508             0.1616
+     Salinity                  Chlorophyll             0.6453             0.1664
+     Salinity                  Turbidity               0.6939             0.1262
+                                                                                           Fig. 3. Mean clod card dissolution as a percentage of original clod card weight ± SE
+     Dissolved oxygen          Temperature            !0.6707             0.1448
+                                                                                           for each month. Means labeled with the same letter are not significantly different
+     Dissolved oxygen          Chlorophyll            !0.3199             0.5366
+                                                                                           (Tukey HSD post hoc test). N = 5 clod cards for each trial at each site.
+     Dissolved oxygen          Turbidity              !0.1079             0.8388
+     Dissolved oxygen          Salinity                0.0241             0.9639
+     Organic flux              Temperature            !0.9519             0.0034*
+     Organic flux              Chlorophyll             0.1431             0.7868           which also contributed strongly to site differences along the sec-
+     Organic flux              Turbidity               0.387              0.4485           ond PC. Water flow, turbidity, and dissolved oxygen were signifi-
+     Organic flux              Salinity                0.4173             0.4104
+     Organic flux              Dissolved oxygen        0.8455             0.0340*
+                                                                                           cantly associated with lesion recovery rates across sites, with
+     Carbonate flux            Temperature            !0.991              0.0001*          water flow accounting for most of the variance (R2 = 0.99,
+     Carbonate flux            Chlorophyll             0.2831             0.5866           p < 0.05, Table 2); however, there was no significant association
+     Carbonate flux            Turbidity               0.4594             0.3594           between lesion healing rates and sedimentation. Variance
+     Carbonate flux            Salinity                0.6238             0.1857
+                                                                                           Inflation Factor (VIF) scores were also analyzed for each of the
+     Carbonate flux            Dissolved oxygen        0.7222             0.1050
+     Carbonate flux            Organic flux            0.9548             0.0030*          independent variables in the multiple regression. High VIFs (>10)
+     Terrestrial flux          Temperature            !0.8616             0.0274*          indicate collinearity among variables. All independent variables
+     Terrestrial flux          Chlorophyll             0.2426             0.6432           included in the model had low VIF scores (<10), indicating that
+     Terrestrial flux          Turbidity               0.6784             0.1385           these parameters did not have a strong degree of collinearity with
+     Terrestrial flux          Salinity                0.8117             0.0498*
+     Terrestrial flux          Dissolved oxygen        0.4785             0.3370
+                                                                                           each other.
+     Terrestrial flux          Organic flux            0.7666             0.0754               Water flow increased along a nearshore to offshore gradient
+     Terrestrial flux          Carbonate flux          0.8682             0.0249*          (Fig. 3). Clod card dissolution differed by site (F5,24 = 92.63,
+     Water flow                Temperature             0.241              0.6455           p < 0.0001) but not by trial. Only PB and BB showed an effect of
+     Water flow                Chlorophyll            !0.8532             0.0307*
+                                                                                           an interaction of site ⁄ trial on dissolution (F9.6,46.2 = 7.20,
+     Water flow                Turbidity              !0.7967             0.0578
+     Water flow                Salinity               !0.526              0.2838           p < 0.0001), each having one trial different than the other two.
+     Water flow                Dissolved oxygen        0.4147             0.4137           This indicates that all three offshore sites are consistently well
+     Water flow                Organic flux           !0.0609             0.9087           flushed due to constant exposure to the prevailing wind and cur-
+     Water flow                Carbonate flux         !0.1161             0.8266           rent direction, while RR has consistently low flow due to a high
+     Water flow                Terrestrial flux       !0.2253             0.6678
+                                                                                           level of protection within the inner harbor.
+ *
+      Indicates significant correlation (p < 0.05).                                            RR had the highest total sedimentation regime, showing the
+                                                                                           greatest accumulation of terrestrial as well as carbonate material
+                                                                                           (Fig. 4). However, terrestrial flux at SI was not significantly lower
+multiple regression analysis, as carbonate and terrestrial fluxes                          than RR due to the high variance associated with the latter site.
+contributed almost equally to the first PC. The regression consid-                         Organic flux did not differ by site (Table 3). Total sediment, terres-
+ered the effects of water flow, sedimentation, and turbidity, which                        trial, and organic accumulation increased with time at all sites
+were significantly different among sites, and dissolved oxygen,                            (Table 4). Indicative of resuspension activity, carbonate made up
+                                                   A.M. Sabine et al. / Marine Pollution Bulletin 95 (2015) 253–264                                               257
+
+
+the greatest proportion of sediment collected at each site and                        Table 3
+increased with time to varying degrees across sites.                                  Results of repeated-measures ANOVA examining variations in sediment accumulation
+                                                                                      among sites and sampling months.
+   Turbidity was the only water quality parameter measured by
+the CTD that was significantly different among sites, being highest                         Component         Effect           NumDF    DenDF       F       P
+at RR and lowest at SI and FC (Tables 5 and 6). Turbidity remained                          Total
+relatively constant throughout the study.                                                                     Site             5        9           21.38   0.0001*
+                                                                                                              Time             1.13     10.19       63.23   0.0001*
+                                                                                                              Site* time       5.66     10.19        2.78   0.0742
+3.2. Lesion recovery rates
+                                                                                            Terrestrial
+                                                                                                              Site             5        9           24.93   0.0001*
+    Lesions began to show signs of healing within three days after                                            Time             2        18           7.11   0.0053*
+infliction. During the first week, a layer of new white tissue accu-                                          Site* time       10       18           1.21   0.3465
+mulated at a rate of 11.1 ± 0.88 mm2 d!1 (mean ± SE). These initial                         Organic
+rates varied by site, from 5.0 ± 1.44 mm2 d!1 at RR to                                                        Site             5        9            1.77   0.2162
+17.5 ± 1.06 mm2 d!1 at SI, a difference of a factor of 3.5. Over the                                          Time             1.13     10.19       27.22   0.0003*
+following weeks, recovery slowed as the tissue began to take shape                                            Site* time       5.66     10.19        0.91   0.5231
+
+and new corallites developed. Many of the corallites formed in the                          Carbonate
+same locations that previous corallites had been positioned.                                                  Site             5        9           18.76   0.0002*
+                                                                                                              Time             1.18     10.67       74.56   0.0001*
+However, in some instances new corallites were observed to form
+                                                                                                              Site* time       5.92     10.67        4.01   0.0239*
+wherever there was sufficient space and, as Meesters et al. (1992)
+observed, these had a different orientation than the neighboring
+                                                                                        *
+                                                                                             Indicates significant result (p < 0.05).
+corallites (Fig. 5). Corallite development was followed by the
+return of pigmentation. The time elapsed for complete lesion                          of the study. The healing process generally occurred from the out-
+regeneration ranged from two weeks to over two months, with                           side to the inside, toward the center of the injury, though in some
+85% of lesions having completely regenerated tissue by the end                        cases settlement of sediment particles or algae colonization
+
+
+
+
+                 Fig. 4. Mean total, organic, carbonate, and terrestrial sediment accumulation ± SE for each site. N = 3 for each month at each site.
+258                                                     A.M. Sabine et al. / Marine Pollution Bulletin 95 (2015) 253–264
+
+
+Table 4
+Results of repeated-measures ANOVA post hoc tests of differences in sediment accumulation by site and over time (site codes as in Fig. 1). Uppercase letters signify differences
+among months; lowercase letters signify differences among sites. Blanks indicate no significant difference among factors.
+
+  Sediment component                Month                      Time comparisons              Site comparisons
+                                                                                             RR             BB               PB            FC                PR          SI
+  Total                                                                                      a              b                b             b                 b           b
+                                    November 2012              B
+                                    December 2012              B
+                                    January 2013               A
+  Terrestrial                                                                                a              ab               b             b                 b           ab
+                                    November 2012              A
+                                    December 2012              B
+                                    January 2013               A
+  Organic
+                                    November 2012              C
+                                    December 2012              B
+                                    January 2013               A
+  Carbonate
+                                    November 2012                                            cde            e                e             de                bcde        e
+                                    December 2012                                            abcd           de               e             cde               cde         cde
+                                    January 2013                                             a              bcde             bcde          ab                bcde        abc
+
+
+
+
+                                                                                           regenerated at SI (83% total recovered area). Lesion recovery rates
+Table 5
+Results of statistical analyses comparing CTD parameters across sites.                     were significantly different between SI (6.43 ± 0.95 mm2 d!1) and
+                                                                                           RR (2.34 ± 0.18 mm2 d!1), while the other sites were not different
+  Parameter                         N                F(v2a)               P
+                                                                                           from either of these sites or each other (Fig. 6). Additionally, regen-
+  Temperature                       24               0.26a                0.9983           eration was fastest during the first three days at all sites, after
+  Salinity                          18               1.53a                0.9086
+                                                                                           which rates dropped and remained steady similarly across all sites
+  Dissolved oxygen                  24               0.10                 0.9910
+  Chlorophyll                       24               1.97                 0.1320
+                                                                                           (Table 7, Fig. 7).
+  Turbidity                         18               7.77                 0.0018*              Although the ratio of initial lesion area to colony area differed
+ a
+                                                                                           significantly among sites (F5,53 = 4.88, p = 0.0009), this parameter
+   Indicates where Kruskal-Wallis (v2) test was performed rather than one-way
+ANOVA (F). Degrees of freedom were 5 for all comparisons.
+                                                                                           did not significantly affect lesion recovery rates when considered
+ *
+   Indicates significant result (p < 0.05).                                                in the analysis (p > 0.05). Initial lesion perimeter also varied signif-
+                                                                                           icantly with site (F5,53 = 10.24, p < 0.0001), being largest at RR, PR,
+                                                                                           and SI and smallest at FC. Lesion perimeter did significantly affect
+appeared to prevent tissue expansion in certain parts of the lesion                        lesion recovery rates in the RM ANOVA analysis (F1,44 = 27.02,
+area. A mixture of green turf algae and filamentous algae colonized                        p < 0.0001, Table 7). There was also a significant interaction
+some lesions beginning 1–3 weeks into the study, affecting nine                            between time and initial lesion perimeter, as perimeter had a pos-
+lesions among the corals at the nearshore sites. Complete recovery                         itive effect which was strongest in the first three days and lower
+was prevented in five of these injuries (56%); the remaining four                          thereafter, except during days 14–20, during which it had a nega-
+lesions were able to recover despite the presence of algae.                                tive effect (F7,38 = 5.09, p = 0.0004).
+    Some lesions initially grew larger before beginning to recover,
+as the tissue bordering the injury retracted before the area stabi-
+lized. This occurred in 12 lesions (20%) beginning on day 3 after                           4. Discussion
+lesions were created. However, the lesion growth was temporary
+and by the end of the second week, 11 of those 12 lesions had                               4.1. Effects of water quality on lesion recovery rates
+begun to shrink. The exception was one lesion at PR that expanded
+and after 3 weeks was 64% larger than its initial size. A thick layer                         Anthropogenic activities leading to reduced water quality cause
+of turf algae colonized the area and trapped sediment particles,                           substantial stress to reefs in the USVI (Rogers, 1990; Gray et al.,
+shading the surrounding healthy polyps and appearing to cause                              2008). Development in upland areas disturbs soils and results in
+their mortality. Because this lesion expanded instead of recovering,                       high volumes of eroded material running down steep slopes and
+it was excluded from the tissue regeneration analysis.                                     unpaved roads to marine areas, especially during heavy rainfall
+    There were notable site differences in percentage of completely                        (Ramos-Scharron and MacDonald, 2005). High input of such
+healed lesions and degree of recovery, with 0% of lesions fully                            land-based sources of pollution has been shown to degrade health
+healed at RR (36% total recovered area) and 70% completely                                 of nearshore reefs, with impact tapering off with increasing
+
+
+                Table 6
+                Means of water quality parameters (±SE) measured by CTD for each sampling period.
+
+                  Parameter                           Time 1                        Time 2                         Time 3                      Time 4
+                                                      1 November 2012               15 November 2012               3 December 2012             17 January 2013
+                  Temperature (!C)                    29.3 (0.03)                   28.9 (0.03)                    28.6 (0.02)                 26.1 (0.06)
+                  Salinity (PSU)                      35.4 (0.001)                  35.0 (0.01)                    35.0 (0.01)                 N/A
+                  Dissolved oxygen (ml l!1)           6.0 (038)                     5.4 (0.21)                     7.7 (0.48)                  6.5 (0.03)
+                  Chlorophyll (lg m!3)                0.23 (.014)                   0.19 (0.01)                    0.23 (0.14)                 0.18 (0.02)
+                  Turbidity (NTU)                     0.66 (0.31)                   0.72 (0.38)                    0.75 (0.25)                 N/A
+                                                        A.M. Sabine et al. / Marine Pollution Bulletin 95 (2015) 253–264                                                     259
+
+
+
+
+Fig. 5. Recovery of a lesion beginning 3 days after initial creation showing deposition of new tissue and return of pigmentation. Arrows indicate formation of new corallites in
+locations where corallites did not originally exist.
+
+
+
+distance from shore (Brooks et al., 2007; Fisher et al., 2007; Smith                       end up being correlated with each other in a given setting, it
+et al., 2012). Several of the measured water quality parameters var-                       may still be useful to measure as many as possible. Then, variables
+ied along a nearshore to offshore gradient in this study, likely due                       that are identified as highly correlated with each other may be
+to the level of development occurring around the sites. Despite                            excluded from certain analyses to eliminate the redundancy which
+this, lesion recovery rates were only different between the two                            may cloud the data analyses and results.
+sites that were most strikingly different from each other: the slow-                           Gradients of varying strength were observed in the water qual-
+est recovery at RR was associated with greater environmental                               ity analysis. While temperature, salinity, and dissolved oxygen did
+stress represented by high turbidity and sediment accumulation,                            not differ across sites and total sediment accumulation was similar
+whereas SI, located relatively far from shore, had positive environ-                       at five of the sites, variables including water flow and turbidity fol-
+mental qualities and rapid lesion recovery rates associated with a                         lowed clearer nearshore to offshore gradients. The exposed off-
+more pristine reef. However, many pairs of parameters were corre-                          shore sites (SI and PR) tended to experience high water flow and
+lated, demonstrating the complex nature of assessing water qual-                           low turbidity, and are thus likely to benefit from less sediment
+ity. It would not be appropriate to include all variables in the                           deposition on corals and fewer associated impacts such as abrasion
+regression analysis, since the statistical test would not be able to                       and anoxia, as well as rapid recovery from bleaching and rapid
+detect which variable in a correlated pair to attribute significance                       coral growth due to enhanced transport of nutrients and food to
+to, due to the overlap. For this reason, we included in the multiple                       colonies (Rogers, 1983; Nakamura and van Woesik, 2001;
+regression variables that were not correlated with each other                              Fabricius, 2005). In contrast, the nearshore sites experienced lower
+(water flow, turbidity, and overall sediment flux). The exception,                         flow due to less exposure, higher turbidity, and slightly higher
+dissolved oxygen, was included because it was only weakly corre-                           chlorophyll levels. The increased turbidity suggests that there is
+lated with one other parameter, organic flux, which we grouped                             considerable runoff of terrestrial matter or high primary productiv-
+with the other sediment flux components. Additionally, DO con-                             ity at these sites, as input of sediment and particulate organic mat-
+tributed strongly to the second PC along with water flow, a variable                       ter shades the water column (Fabricius and Wolanski, 2000). RR in
+with which it was not correlated. Carbonate flux being highly                              particular lies in close proximity to the densely populated town of
+correlated with the other components suggests that it may have                             Charlotte Amalie, which delivers runoff of sediment, wastewater,
+only been necessary to measure organic and terrestrial flux, or to                         and other pollutants to the coastal waters. Additionally, the high
+just measure total flux which would account for all components                             levels of commercial development and the steep slopes character-
+and simplify the data collection. Temperature was also highly                              izing the land facilitate runoff into the harbor around RR, con-
+correlated with each sediment component, so it was not necessary                           tributing to heightened turbidity in this region. Similarly, the
+to include this variable in the final analysis since it overlapped so                      elevated chlorophyll levels at this site are representative of phyto-
+strongly. Since it is not possible to discern which variables may                          plankton biomass that is stimulated by the introduction of nutri-
+                                                                                           ents from such terrestrial sources as fertilizers or leaky septic
+                                                                                           systems (Furnas et al., 2005), the latter of which are prevalent on
+                                                                                           St. Thomas (authors, unpub. obs.). An added consideration for RR
+                                                                                           is that passing cruise ships can also agitate sediment, causing
+                                                                                           resuspension and further reducing water clarity. High turbidity
+                                                                                           may produce long-term effects such as increased algal growth,
+                                                                                           reduced species diversity, and reduced coral growth and recruit-
+                                                                                           ment (Fabricius, 2005). This may ultimately lead to a shift in the
+                                                                                           benthic community structure toward higher abundance of small,
+
+
+
+                                                                                           Table 7
+                                                                                           Results of ANCOVA with repeated measures assessing the effects of time, site, initial
+                                                                                           lesion area:colony area, and initial lesion perimeter on lesion recovery rates.
+
+                                                                                                 Effect                                      NumDF   DenDF    F       P
+                                                                                                 Time                                        7       38        3.89   0.0027*
+                                                                                                 Site                                        5       44        7.51   <0.0001*
+                                                                                                 Initial lesion area: colony area            1       44        0.97   0.3299
+                                                                                                 Initial lesion perimeter                    1       44       27.02   <0.0001*
+                                                                                                 Time* site                                  2.79    162.28    2.79   <0.0001*
+                                                                                                 Time* initial lesion area: colony area      7       38        0.27   0.9617
+                                                                                                 Time* initial lesion perimeter              7       38        5.09   0.0004*
+Fig. 6. Mean overall daily tissue regeneration rates ± SE by site. Means labeled with
+the same letters are not significantly different (Tukey HSD post hoc test).                  *
+                                                                                                  Indicates significant result (p < 0.05).
+260                                            A.M. Sabine et al. / Marine Pollution Bulletin 95 (2015) 253–264
+
+
+
+
+                                                   Fig. 7. Mean lesion size over time ± SE for each site.
+
+
+
+
+weedy species and macroalgal dominance of substrate (Fabricius,                   sites compared with five sites that had non-significantly different
+2005). It is also likely that corals on turbid reefs exhibit reduced              sediment fluxes. The lack of relationship may also be explained
+photosynthesis due to the enhanced light attenuation when com-                    by the fundamental differences in what these two variables mea-
+pared with clearer offshore sites (Anthony and Fabricius, 2000). If               sure. The sediment fluxes recorded represent an accumulated
+this is true, it is possible that corals tend toward greater hetero-              response of sedimentation, including large components that do
+trophic feeding to compensate for the lower photosynthetic energy                 not remain suspended in the water column. Meanwhile, turbidity
+production at these nearshore sites (Fabricius, 2005). In addition,               is a point measurement that measures all suspended materials
+higher concentrations of total nitrogen and total phosphorus have                 such as plankton, algae, microbes, and other material which may
+been found at nearshore sites around St. Thomas when compared                     be a result of primary productivity occurring in the water column.
+to offshore sites including SI, PR, and FC (Ennis, 2014). These data                  We must consider that trap accumulation was measured in this
+further emphasize the water quality differences among study sites                 study, which may not accurately reflect the amount of sediment
+and support the conclusion that the nearshore zone is subjected to                that is settling and remaining on the benthos. Trap accumulation
+land-based sources of pollution, in contrast to the offshore sites                is affected by a number of variables, including trap shape and size,
+which are removed from anthropogenic stresses by distances of                     current velocity, particle size, and particle settlement speed (Baker
+3–5 km. This distance buffers the sites from sources of terrestrial               et al., 1988; Bothner et al., 2006; Storlazzi et al., 2009; Storlazzi
+sediment and nutrients, while the more rapid water flow charac-                   et al., 2011). Bloesch and Burns (1979) determined that cylindrical
+teristic of these exposed sites facilitates their dispersal.                      containers with appropriate aspect ratios are less likely to overtrap
+   Previous analyses of sediment accumulation in USVI waters                      or undertrap particles than designs such as funnels, wide- or
+have found that reefs fringing developed watersheds had signifi-                  narrow-mouthed jars, or trays. The aspect ratio of the traps we
+cantly greater sedimentation than reefs in less developed areas                   used (4:1 height to diameter ratio) was similar to the ideal ratios
+(Gray et al., 2008). While sediment flux in our study was highest                 proposed (3:1–10:1, Bloesch and Burns, 1979; Storlazzi et al.,
+at RR, the most highly developed watershed, our results strayed                   2009); however, it is still suspected that the containers over-
+from those of other researchers (i.e. Brooks et al., 2007; Gray                   trapped sediments when considering our intention for using the
+et al., 2008) in that we did not observe overall sediment flux and                traps. Once sediment falls in the traps it is not easily removed
+terrestrial flux to clearly and regularly decrease with increasing                due to the highly retentive trap walls, while sediment landing on
+distance from shore. This may be due to the site with the second                  corals can be dislodged by even low amounts of turbulence and
+highest terrestrial flux being located in front of a small island,                rejected by the corals themselves using their cilia or mucus as a
+despite being situated the farthest from mainland St. Thomas.                     defense (Rogers, 1990; Storlazzi et al., 2011). It is probable that
+This small island is likely the source of the terrestrial sediment col-           sediment deposition is less of a problem affecting the offshore reefs
+lected. Overall sediment flux, however, was significantly higher at               than our results suggest, as the high water motion at those loca-
+RR and lower at all other sites. This was similar to the trend                    tions can clear corals of debris. While the various methods used
+observed with turbidity, which was highest at RR and lowest at                    to quantify sedimentation each have their flaws, an alternate tech-
+SI and FC. Despite this similarity, no correlation was observed                   nique may have suited our needs better for investigating sediment
+between turbidity and any of the sediment fluxes, and there was                   accumulation on corals. For instance, sediment pods, which are
+a lack of collinearity between turbidity and overall sediment flux                rough flat-topped devices rather than open containers that trap
+in the multiple regression model, suggesting no significant rela-                 particles, would better represent coral surfaces and likely provide
+tionship between these variables. This may be due to the fact that                a more accurate measure of the amount and type of sediment
+turbidity decreased more gradually, being moderate at three of the                affecting coral colonies (Field et al., 2013). Fine particles remain
+                                                A.M. Sabine et al. / Marine Pollution Bulletin 95 (2015) 253–264                                      261
+
+
+trapped in the cylindrical PVC tubes but are easily resuspended                    consistent since we were not primarily investigating the effect of
+from the benthos by turbulence, for example (Storlazzi et al.,                     lesion size on recovery rates, and our lesions were relatively small
+2011). It is possible that if the sediment pod method had been                     in relation to the colony sizes. This is in contrast to several of the
+used, sediment deposition would have more accurately mirrored                      studies that documented exponentially decreasing recovery rates,
+the natural processes acting on reefs. It follows that this parameter              which created and analyzed much larger lesions (e.g., Lirman,
+also may have varied along a stronger nearshore to offshore trend                  2000; Oren et al., 1997).
+similar to other variables measured, and thus may have made a                          At the conclusion of our study, several lesions had yet to com-
+greater contribution to site differences in lesion recovery rates.                 pletely regenerate new tissue. Unhealed lesions are susceptible
+    Another possible explanation for why sedimentation did not                     to colonization by turf algae and filamentous cyanobacteria (Bak
+significantly affect lesion recovery rates is that corals may have                 et al., 1977; van Woesik, 1998), various species of foliose macroal-
+adapted to the conditions at their respective sites, making it diffi-              gae (McCook et al., 2001; Aronson and Precht, 2006), and bioerod-
+cult to detect differences. For example, corals at RR may have                     ing organisms such as sponges or zoanthids (Bak et al., 1977; Bak
+grown accustomed to the higher levels of sediment deposition that                  and Steward-Van Es, 1980). We observed growth of cyanobacteria
+is typical of this site and have adapted to deal with it, only suffer-             which created algal turfs that trapped sediment on some lesions,
+ing during severe atypical events such as acute storm events. O.                   similar to Bak et al. (1977), but we did not observe colonization
+annularis has shown variable particle rejection rates, and has been                by foliose macroalgae or other invertebrates that could potentially
+documented as being both more efficient than species such as A.                    cause structural damage to the corals. At the slowest healing rate
+palmata and Diploria strigosa in some cases (i.e., Abdel-Salam and                 observed at RR, these unhealed lesions could be expected to be
+Porter, 1988) and less efficient than them in others (Loya, 1976;                  fully healed in 61 ± 12 d (mean ± SE; range 18–124 d) in the
+Rogers, 1990). In order to handle the relatively high sediment accu-               absence of colonization by algae or bioeroding organisms.
+mulation, O. annularis colonies at RR may have improved their effi-                    In addition, several fish species are frequently observed impact-
+ciency at dislodging particles using movement of their tentacles                   ing O. annularis reefs around the USVI, including stoplight and red-
+and cilia, or by maintaining a continuously high production of                     band parrotfish (Sparisoma viride and S. aurofrenatum, respectively)
+mucus, which prevents sediment settlement by trapping particles                    and threespot and dusky damselfish (Stegastes planifrons and S.
+and later sloughing off the colony (Abdel-Salam and Porter,                        adustus, respectively) (authors, unpub. observations). These species
+1988; Stafford-Smith and Ormond, 1992).                                            can cause partial mortality through corallivory and creation of ter-
+    A final consideration to note when drawing conclusions from                    ritorial algal gardens on corals (Bythell et al., 1993). Fish predation
+the results of our water quality analysis is that while spread from                and damselfish territoriality have shown the greatest impact on
+west to east and ranging from 0.1 to 5 km offshore, the reefs sam-                 protected nearshore reefs with many colonies exhibiting several
+pled in this study cover a relatively small area of the USVI.                      scars (Garzon-Ferreira et al., 2005). This suggests another factor
+Sampling alternate sites that are spread across a larger area with                 potentially hindering tissue regeneration in nearshore areas, as
+more extreme differences might yield varying results. If additional                corals with multiple lesions have been found to recover slower
+sites such as deep mesophotic reefs or reefs not adjacent to cays                  (Henry and Hart, 2005). Meesters et al. (1992) reported that several
+had been studied, it is possible that other environmental parame-                  lesions in their study did not regenerate, either remaining the same
+ters would most strongly contribute to differences in lesion recov-                size or enlarging, likely as a result of fish grazing. Fish bites were
+ery rates, depending on the degree of water quality differences                    commonly observed at the nearshore sites of BB and PB in our
+among those sites. This may be particularly true for sedimentation,                study, and could have slowed regeneration rates at these sites by
+since the five sites that had similar sediment fluxes, which were                  causing additional stress to the corals. Furthermore, predation by
+grouped along the first principal component in the PCA, have sim-                  fish and other corallivorous invertebrates is a widespread cause
+ilar geographic locations. The small differences in longitudinal                   of lesions in scleractinian corals and can cause damage to other-
+positioning of these sites potentially weakened the resolution                     wise healthy colonies, in addition to hindering recovery from other
+needed to detect significant effects. Increasing the spatial distribu-             injuries. Predation on corals can slow growth rates and reduce
+tion of study locations may provide more power to detect statisti-                 reproduction potential, while increasing susceptibility to bleach-
+cally significant differences in sedimentation among sites and                     ing, disease vectors, and additional stressors (Meesters et al.,
+more power to assess its potential influence on tissue regeneration                1992; Rotjan et al., 2006; Rotjan and Lewis, 2008; Shantz et al.,
+rates, an important consideration for future studies.                              2011). If the proportion of fish bites that is unable to heal is the
+                                                                                   same as what we observed in our study (approx. 15% of lesions),
+4.2. Effects of biological interactions on lesion recovery                         this indicates that predation may be extremely detrimental toward
+                                                                                   coral health and reef resilience, as predation is so abundant on
+    Lesions began recovering in as little as a few days. Initial recov-            reefs around the world (Rotjan and Lewis, 2008).
+ery rates measured during the first eight days were 5–17.5 mm2 -
+d!1, which is in the range reported in other studies on this                       4.3. Lesion characteristics
+species (Meesters and Bak, 1993; Meesters et al., 1997). Many
+authors reported exponentially decreasing recovery rates with                          Some studies have suggested correlations between lesion
+time (e.g., Bak and Steward-Van Es, 1980; Meesters et al., 1997;                   recovery rates and parameters such as injury shape and size, lesion
+Cróquer et al., 2002). We observed the fastest recovery during                     perimeter, and colony size (e.g., Meesters et al., 1997; Oren et al.,
+the first three to eight days, after which rates of healing remained               1997; van Woesik, 1998). We found mixed results when investi-
+fairly constant. These observed differences may be due to differ-                  gating potential effects of these parameters. Our lesions were a
+ences in techniques used to inflict the lesions among the various                  small range of sizes with small standard errors for both area and
+studies. For example, many of the aforementioned studies                           perimeter. Other studies that showed an effect of injury extent
+employed mechanical methods such as using grinding stones                          on healing rates grouped lesions into size classes of wider ranges
+attached to a pneumatic drill (Bak et al., 1977; Meesters et al.,                  to specifically investigate how lesion size influences recovery
+1992, 1997; Nagelkerken et al., 1999). In contrast, we used a chisel               (e.g., 0–5 cm2, 5–10 cm2, and 10–20 cm2, Lirman, 2000). The size
+to create our lesions by hand, which may have impacted the corals                  differences among our lesions were not large enough to have any
+differently and may have led to varying degrees of uniformity                      effect on recovery rates. Furthermore, by calculating the ratio of
+among lesions. Additionally, the sizes of our lesions were fairly                  lesion area to colony area, we accounted for the parameter of coral
+262                                            A.M. Sabine et al. / Marine Pollution Bulletin 95 (2015) 253–264
+
+
+size. Statistical analysis found that this ratio did not affect tissue            events, predation, or disease outbreaks. This is noteworthy, as par-
+regeneration rates, indicating that colony size is inconsequential                tial mortality can negatively affect coral colonies and reef health on
+for the size range of corals used in this study. Similarly, Bak and               both small and large scales. Lesions have been linked to decreased
+Steward-Van Es (1980) and Fisher et al. (2007) found that lesion                  coral reproduction, reduced photosynthesis and growth, and algal
+recovery rates were not affected by colony size. However, while                   overgrowth of corals (Van Veghel and Bak, 1994; Oren et al.,
+our goal was to create consistent, uniform lesions, we found that                 2001; Bruckner, 2002). High prevalence and slow recovery of such
+initial lesion perimeter did vary by site. Additionally, we observed              injuries contribute to declining reef health, shifting population
+that lesion perimeter did have a significant effect on regeneration               demographics toward more tolerant species and smaller colonies,
+rates, which was strongest in the initial three days of the study                 and reductions in reef resilience. If 15% of injured corals are unable
+and diminished over time. These results support the idea that                     to recover from damage that is so abundant across reefs, partial
+energy for the recovery process is drawn from the polyps immedi-                  mortality may be a valuable parameter to measure when assessing
+ately surrounding the lesion rather than the entire colony (Oren                  reef health, as it may be indicative of biological and ecological
+et al., 2001). However, it is important to note that the two sites                degradation. We can see from this study that low-flow, nearshore
+with the fastest and slowest recovery rates (SI and RR, respec-                   reefs are likely to be the least resilient. Additionally, the tendency
+tively), had non-significantly different initial perimeters, indicating           of sites like Rupert’s Rock to heal lesions slowly suggests that reefs
+that perimeter alone was not responsible for the observed differ-                 subjected to such conditions will recover slowly from other distur-
+ences in tissue regeneration rates.                                               bances such as bleaching or disease outbreaks as well. Since it
+    A related consideration is lesion depth, which may have                       would be a challenge to change the rate of water flow at a site,
+affected recovery rates since it was difficult to control depth while             management efforts might be best focused on minimizing anthro-
+inflicting the injuries. It is possible that not all lesions were pre-            pogenic impacts in order to improve environmental conditions on
+cisely the same depth, and thus that some lesions suffered more                   these reefs.
+skeletal damage while others primarily only had tissue removed.                       Further study should look at recovery from a wider range of
+It is thus a possibility that these lesions recovered at different                injuries, such as coral diseases, algal overgrowth, and predation
+rates. On one hand, deeper injuries result in more surface area                   from a variety of organisms, as healing rates may depend upon
+needing to be repaired, which may slow recovery rates by increas-                 the type of the injury as well as the length of exposure to the stres-
+ing the size of the lesion and requiring regrowth of more material,               sor. Furthermore, measuring additional variables could reveal
+as several authors have found (Bak and Steward-Van Es, 1980; Hall,                effects of other stresses on lesion healing rates that were not con-
+1997; Meesters et al., 1997). On the other hand, Bak et al. (1977)                sidered in this study. For example, while none of the sampled cor-
+examined differences in regeneration rates of tissue vs. skeletal                 als exhibited signs of bleaching or disease, it is possible that these
+lesions of the same size in O. annularis and found that the skeletal              negative health impacts characterize nearby colonies, causing cor-
+injuries healed faster than the lesions that had only suffered tissue             als to have compromised or weakened immune systems that
+damage. Based on this conflicting information, it is not possible to              would slow their healing abilities (Fine et al., 2002; Ritchie,
+say with certainty how small variations in lesion depth affected                  2006). Additionally, genetic variability within and among sites
+our results.                                                                      may have influenced differences in recovery rates. O. annularis
+    The lesions inflicted in this study can represent lacerations                 can fragment, resulting in close distributions of genetically identi-
+caused by storm damage, predation including parrotfish and dam-                   cal colonies on a single reef. No genetic studies of O. annularis were
+selfish bites, disease, or other types of physical injuries (Bak and              performed at these specific sites during this study; however, colo-
+Steward-Van Es, 1980; Hall, 1997; Brandt and McManus, 2009).                      nies sampled were separated by at least one meter and showed
+The artificial lesions we created appeared especially similar to fish             variability in color and morphology. No indication of previous con-
+predation injuries that characterize reefs in the USVI, as parrotfish             nectivity among the colonies, such as rubble between colonies, was
+bites have been observed to recover in a similar time frame of 1–                 found. Assessing these additional variables would provide a more
+2 months (Bythell et al., 1993). Additionally, while typically only               comprehensive view of how rapidly corals around the USVI can
+causing tissue damage rather than affecting the coral skeleton,                   be expected to recover from various disturbances. Other threat-
+coral diseases are increasing in frequency and remain a rapid and                 ened species should also be studied, including Acropora palmata
+widespread mechanism of inducing partial mortality, as disease                    and A. cervicornis, to expand the current state of knowledge of
+lesions are often very large (Miller et al., 2009). Regardless of the             these primary reef-building corals so they can be managed effec-
+cause of lesions, it is expected that regrowth of tissue from natu-               tively. Looking at added sites in this region would serve to identify
+rally caused partial mortality would follow the trends observed                   further local differences in water quality and coral health and shed
+in this study. It is likely that such injuries would also heal faster             more insight into the processes characterizing the ecologically
+at offshore sites where there is higher water flow and lower                      important reefs of the USVI.
+anthropogenic impact that at nearshore sites where water flow is
+lower and sedimentation and turbidity are higher.
+                                                                                  Author contribution
+    With many reefs in a state of decline around the Caribbean, it is
+essential to understand how the environment affects partial mor-
+                                                                                     AM Sabine conducted the research and prepared the
+tality in corals. This study showed that both natural and anthro-
+                                                                                  manuscript.
+pogenic parameters influence tissue regeneration in corals, in
+                                                                                     ME Brandt assisted with fieldwork and design of analysis. ME
+addition to the lesion-specific factors already known to affect
+                                                                                  Brandt, TB Smith, and DE Williams contributed to project design
+recovery. Nine lesions that we created failed to show significant
+                                                                                  and manuscript preparation.
+signs of recovery, an important number as this represents 15% of
+                                                                                     All authors have approved the final article.
+injured corals in our study. The remaining healing time that we
+calculated for the unclosed lesions, ranging from 18 to 124 d, is
+long enough that there is time for ambient conditions to change                   Conflict of interest
+and prevent the slower-healing lesions from recovering. There is
+no guarantee that these remaining lesions would heal completely                      The Virgin Islands Experimental Program to Stimulate
+as there are many extrinsic factors unable to be controlled, such                 Competitive Research and the US National Science Foundation
+as colonization by bioeroding organisms, potential bleaching                      financially supported this research. Neither group had any
+                                                           A.M. Sabine et al. / Marine Pollution Bulletin 95 (2015) 253–264                                                       263
+
+
+influence in project design, data analysis, writing the manuscript,                           Fine, M., Oren, U., Loya, Y., 2002. Bleaching effect on regeneration and energy
+                                                                                                  translocation in the coral Oculina patagonica. Mar. Ecol. Prog. Ser. 234, 119–125.
+or deciding to submit for publication.
+                                                                                              Fisher, E.M., Fauth, J.E., Hallock, P., Woodley, C.M., 2007. Lesion regeneration rates in
+                                                                                                  reef-building corals Montastraea spp. as indicators of colony condition. Mar.
+Acknowledgements                                                                                  Ecol. Prog. Ser. 339, 61–71.
+                                                                                              Furnas, M., Mitchell, A., Skuza, M., Brodie, J., 2005. In the other 90%: phytoplankton
+                                                                                                  responses to enhanced nutrient availability in the Great Barrier Reef Lagoon.
+    This work was supported by Virgin Islands Experimental                                        Mar. Pollut. Bull. 51, 253–265.
+Program to Stimulate Competitive Research (VI-EPSCoR) Grant                                   Gardner, T., Cote, I., Gill, J., Grant, A., Watkinson, A., 2003. Long-term region-wide
+                                                                                                  declines in Caribbean corals. Science 301, 958–960.
+#0814417 as well as a US National Science Foundation                                          Garzon-Ferreira, J., Zea, S., Diaz, J.M., 2005. Incidence of partial mortality and other
+Scholarship     in     Science,  Technology,     Engineering,    and                              health indicators in hard-coral communities of four southwestern Caribbean
+Mathematics. We would like to thank M. Kammann for providing                                      atolls. Bull. Mar. Sci. 76, 105–122.
+                                                                                              Goreau, T.F., 1959. The ecology of Jamaican coral reefs I. Species composition and
+field assistance and for offering helpful comments in a review of                                 zonation. Ecology 40, 67–90.
+the manuscript. We also thank Z. Whitener, R. Brewer, L. Conlon,                              Gray, S., Gobbi, K., Narwold, P., 2008. Comparison of sedimentation in bays and reefs
+B. Honisch, V. Brandtneris, V. Wright, J. Gyory, I. Byrne, and S.                                 below developed versus undeveloped watersheds on St. John, US Virgin Islands.
+                                                                                                  Proc. 11th Int. Coral Reef Symp., 7–11 July 2008.
+Prosterman for providing field and logistical assistance. Finally,
+                                                                                              Hall, V.R., 1997. Interspecific differences in the regeneration of artificial injuries on
+we would like to thank two anonymous reviewers for providing                                      scleractinian corals. J. Exp. Mar. Biol. Ecol. 212, 9–23.
+a helpful critique of the manuscript. Any opinions, findings, conclu-                         Heiri, O., Lotter, A., Lemcke, G., 2001. Loss on ignition as a method for estimating
+sions, or recommendations expressed in the material are those of                                  organic and carbonate content in sediments: reproducibility and comparability
+                                                                                                  of results. J. Paleolimnol. 25, 101–110.
+the authors and do not necessarily reflect the views of the granting                          Henry, L., Hart, M., 2005. Regeneration from injury and resource allocation in
+agencies. This is contribution #98 from the UVI Center for Marine                                 sponges and corals – a review. Int. Rev. Hydrobiol. 90, 125–158.
+and Environmental Studies at the University of the Virgin Islands.                            Hughes, T., 1984. Population dynamics based on individual size rather than age: a
+                                                                                                  general model with a reef coral example. Am. Nat. 123, 778–795.
+                                                                                              Hughes, T., Connell, J., 1987. Population dynamics based on size or age? A reef-coral
+References                                                                                        analysis. Am. Nat. 129, 818–829.
+                                                                                              Hughes, T., Jackson, J., 1985. Population dynamics and life histories of foliaceous
+                                                                                                  corals. Ecol. Monogr. 55, 141–166.
+Abdel-Salam, H.A., Porter, J.W., 1988. Physiological effects of sediment rejection on
+                                                                                              Jayewardene, D., 2010. Experimental determination of the cost of lesion healing on
+    photosynthesis and respiration in three Caribbean reef corals. Proc. 6th Int.
+                                                                                                  Porites compressa growth. Coral Reefs 29, 131–135.
+    Coral Reef Symp. 2, 285–292.
+                                                                                              Jokiel, P., Morrissey, J., 1993. Water motion on coral reefs: evaluation of the ‘clod
+Anonymous, 2014. Endangered and threatened wildlife and plants: final listing
+                                                                                                  card’ technique. Mar. Ecol. Prog. Ser. 93, 175–181.
+    determinations on proposal to list 66 reef-building coral species and to
+                                                                                              Jompa, J., McCook, L., 2002. Effects of competition and herbivory on interactions
+    reclassify elkhorn and staghorn corals; final rule. Fed Register 79 (175),
+                                                                                                  between a hard coral and a brown alga. J. Exp. Mar. Biol. Ecol. 271, 25–39.
+    53852–54123.
+                                                                                              Kramarsky-Winter, E., Loya, Y., 2000. Tissue regeneration in the coral Fungia
+Anthony, K., Fabricius, K., 2000. Shifting roles of heterotrophy and autotrophy in
+                                                                                                  granulosa: the effect of extrinsic and intrinsic factors. Mar. Biol. 137,
+    coral energetics under varying turbidity. J. Exp. Mar. Biol. Ecol. 252, 221–253.
+                                                                                                  867–873.
+Aronson, R., Precht, W., 2006. Conservation, precaution, and Caribbean reefs. Coral
+                                                                                              Lester, R., Bak, R.P.M., 1985. Effects of environment on regeneration rate of tissue
+    Reefs 25, 441–450.
+                                                                                                  lesions in the reef coral Montastrea annularis (Scleractinia). Mar. Ecol. Prog. Ser.
+Bak, R.P.M., Engel, M.S., 1979. Distribution, abundance, and survival of juvenile
+                                                                                                  24, 183–185.
+    hermatypic corals (Scleractinia) and the importance of life history strategies in
+                                                                                              Lirman, D., 2000. Lesion regeneration in the branching coral Acropora palmata:
+    the parent coral community. Mar. Biol. 54, 341–352.
+                                                                                                  effects of colonization, colony size, lesion size, and lesion shape. Mar. Ecol. Prog.
+Bak, R.P.M., Steward-Van Es, Y., 1980. Regeneration of superficial damage in the
+                                                                                                  Ser. 197, 209–215.
+    scleractinian corals Agaricia agaricites f. purpurea and Porites astreoides. Bull.
+                                                                                              McClanahan, T., Huntington, B., Cokos, B., 2011. Coral responses to macroalgal
+    Mar. Sci. 30, 883–887.
+                                                                                                  reduction and fisheries closure on Caribbean patch reefs. Mar. Ecol. Prog. Ser.
+Bak, R.P.M., Brouns, J.J.W.M., Heys, F.M.L., 1977. Regeneration and aspects of spatial
+                                                                                                  437, 89–102.
+    competition in the scleractinian corals Agaricia agaricites and Montastrea
+                                                                                              McCook, L., Jompa, J., Diaz-Pulido, G., 2001. Competition between corals and algae
+    annularis. Proc. 3rd Int. Coral Reef Symp. 1, 143–148.
+                                                                                                  on coral reefs: a review of evidence and mechanisms. Coral Reefs 19,
+Baker, E.T., Milburn, H.B., Tennant, D.A., 1988. Field assessment of sediment trap
+                                                                                                  400–417.
+    efficiency under varying flow conditions. J. Mar. Res. 46, 573–592.
+                                                                                              Meesters, E.H., Bak, R.P.M., 1993. Effects of coral bleaching on tissue regeneration
+Bloesch, J., Burns, N.M., 1979. A critical review of sedimentation trap technique.
+                                                                                                  potential and colony survival. Mar. Ecol. Prog. Ser. 96, 189–198.
+    Schweiz. Z. Hydrol. 42, 15–55.
+                                                                                              Meesters, E.H., Bos, A., Gast, G.J., 1992. Effects of sedimentation and lesion position
+Bothner, M.H., Reynolds, R.L., Casso, M.A., Storlazzi, C.D., Field, M.E., 2006. Quantity,
+                                                                                                  on coral tissue regeneration. Proc. 7th Int. Coral Reef Symp. 2, 671–678.
+    composition, and source of sediment collected in sediment traps along the
+                                                                                              Meesters, E.H., Noordeloos, M., Bak, R.P.M., 1994. Damage and regeneration: links to
+    fringing coral reef off Molokai, Hawaii. Mar. Pollut. Bull. 52, 1034–1047.
+                                                                                                  growth in the reef-building coral Montastraea annularis. Mar. Ecol. Prog. Ser.
+Brandt, M., McManus, J., 2009. Disease incidence is related to bleaching extent in
+                                                                                                  112, 119–128.
+    reef-building corals. Ecology 90, 2859–2867.
+                                                                                              Meesters, E.H., Bak, R.P.M., Wesseling, I., 1996. Partial mortality in three species of
+Brandt, M., Smith, T., Correa, A., Vega-Thurber, R., 2013. Disturbance driven colony
+                                                                                                  reef-building corals and the relation with colony morphology. Bull. Mar. Sci. 58,
+    fragmentation as a driver of a coral disease outbreak. PLoS ONE 8 (2), e57164.
+                                                                                                  838–852.
+Brooks, G., Devine, B., Larson, R., Rood, B., 2007. Sedimentary development of Coral
+                                                                                              Meesters, E.H., Pauchli, W., Bak, R.P.M., 1997. Predicting regeneration of physical
+    Bay, St. John, USVI: a shift from natural to anthropogenic influences. Caribb. J.
+                                                                                                  damage on a reef-building coral by regeneration capacity and lesion shape. Mar.
+    Sci. 43, 226–243.
+                                                                                                  Ecol. Prog. Ser. 146, 91–99.
+Bruckner, A., 2002. Priorities for effective management of coral diseases. NOAA
+                                                                                              Miller, J., Muller, E., Rogers, C., Waara, R., Atkinson, A., Whelan, K., Patterson, M.,
+    Technical Memorandum NMFS-OPR-22. In: National Oceanic and Atmospheric
+                                                                                                  Witcher, B., 2009. Coral disease following massive bleaching in 2005 causes 60%
+    Administration USDoC (Ed.). Silver Spring, MD.
+                                                                                                  decline in coral cover on reefs in the US Virgin Islands. Coral Reefs 28, 925–937.
+Bythell, J., Gladfelter, E., Bythell, M., 1993. Chronic and catastrophic natural
+                                                                                              Nagelkerken, I., Meesters, E.H., Bak, R.P.M., 1999. Depth-related variation in
+    mortality of three common Caribbean reef corals. Coral Reefs 12, 143–152.
+                                                                                                  regeneration of artificial lesions in the Caribbean corals Porites astreoides and
+Cróquer, A., Villamizar, E., Noriega, N., 2002. Environmental factors affecting tissue
+                                                                                                  Stephanocoenia michelinii. J. Exp. Mar. Biol. Ecol. 234, 29–39.
+    regeneration of the reef-building coral Montastraea annularis (Faviidae) at Los
+                                                                                              Nakamura, T., van Woesik, R., 2001. Water-flow rates and passive diffusion partially
+    Roques National Park, Venezuela. Rev. Biol. Trop. 50, 1055–1065.
+                                                                                                  explain differential survival of corals during the 1998 bleaching event. Mar.
+Doty, M., 1971. Measurement of water movement in reference to benthic algal
+                                                                                                  Ecol. Prog. Ser. 212, 301–304.
+    growth. Bot. Mar. 14, 32–35.
+                                                                                              Nugues, M., Roberts, C., 2003. Partial mortality in massive reef corals as an indicator
+Edmunds, P., Elahi, R., 2007. The demographics of a 15-year decline in cover of the
+                                                                                                  of sediment stress on coral reefs. Mar. Pollut. Bull. 46, 314–323.
+    Caribbean reef coral Montastraea annularis. Ecol. Monogr. 77, 3–18.
+                                                                                              Oren, U., Benayahu, Y., Loya, Y., 1997. Effect of lesion size and shape on regeneration
+Ennis, R., 2014. Coral reef health responses to chronic and acute changes along
+                                                                                                  of the Red Sea coral Faviafavus. Mar. Ecol. Prog. Ser. 146, 101–107.
+    water quality gradients in St. Thomas, US Virgin Islands (Masters thesis).
+                                                                                              Oren, U., Benayahu, Y., Lubinevsky, H., Loya, Y., 2001. Colony integration during
+    University of the Virgin Islands, St. Thomas, US Virgin Islands.
+                                                                                                  regeneration in the stony coral Favia favus. Ecology 82, 802–813.
+Fabricius, K., 2005. Effects of terrestrial runoff on the ecology of corals and coral
+                                                                                              Ramos-Scharron, C., MacDonald, L., 2005. Measurement and prediction of sediment
+    reefs: review and synthesis. Mar. Pollut. Bull. 50, 125–146.
+                                                                                                  production from unpaved roads, St. John, US Virgin Islands. Earth Surf. Process.
+Fabricius, K., Wolanski, E., 2000. Rapid smothering of coral reef organisms by
+                                                                                                  Landf. 30, 1283–1304.
+    muddy marine snow. Estuar. Coast. Shelf Sci. 50, 115–120.
+                                                                                              Ritchie, K.B., 2006. Regulation of microbial populations by coral surface mucus and
+Field, M., Chezar, H., Storlazzi, C., 2013. SedPods: a low-cost coral proxy for
+                                                                                                  mucus-associated bacteria. Mar. Ecol. Prog. Ser. 322, 1–14.
+    measuring net sedimentation. Coral Reefs 32, 155–159.
+264                                                         A.M. Sabine et al. / Marine Pollution Bulletin 95 (2015) 253–264
+
+
+Rogers, C.S., 1983. Sublethal and lethal effects of sediments applied to common                Smith, T., Brandt, M., Calnan, J., Nemeth, R., Blondeau, J., Kadison, E., Taylor, M.,
+    Caribbean reef corals in the field. Mar. Pollut. Bull. 14, 378–382.                            Rothenberger, P., 2013. Convergent mortality responses of Caribbean coral
+Rogers, C.S., 1990. Responses of coral reefs and reef organisms to sedimentation.                  species to seawater warming. Ecosphere 4:art87.
+    Mar. Ecol. Prog. Ser. 62, 185–202.                                                         Sokal, R., Rohlf, F., 1995. Biometry. W. H. Freeman and Company, New York, NY.
+Rogers, C.S., Miller, J., 2006. Permanent ‘phase shifts’ or reversible declines in coral       Stafford-Smith, M.G., Ormond, R.F.G., 1992. Sediment-rejection mechanisms of 42
+    cover? Lack of recovery of two coral reefs in St. John, US Virgin Islands. Mar.                species of Australian scleractinian corals. Aust. J. Mar. Freshw. Res. 43,
+    Ecol. Prog. Ser. 306, 103–114.                                                                 683–705.
+Rogers, C.S., Suchanek, T.H., Pecora, F.A., 1982. Effects of hurricanes David and              Storlazzi, C., Field, M., Bothner, M., Presto, M., Draut, A., 2009. Sedimentation processes
+    Frederic (1979) on shallow Acropora palmata reef communities: St. Croix, U.S.                  in a coral reef embayment: Hanalei Bay, Kauai. Mar. Geol. 264, 140–151.
+    Virgin Islands. Bull. Mar. Sci. 32, 532–548.                                               Storlazzi, C., Field, M., Bothner, M., 2011. The use (and misuse) of sediment traps in
+Rotjan, R., Lewis, S., 2008. Impact of coral predators on tropical reefs. Mar. Ecol.               coral reef environments: theory, observations, and suggested protocols. Coral
+    Prog. Ser. 367, 73–91.                                                                         Reefs 30, 23–28.
+Rotjan, R., Dimond, J., Thornill, D., Leichter, J., Helmuth, B., Kemp, D., Lewis, S., 2006.    Van Veghel, M., Bak, R.P.M., 1994. Reproductive characteristics of the polymorphic
+    Chronic parrotfish grazing impedes coral recovery after bleaching. Coral Reefs                 Caribbean reef building coral Montastraea annularis. III. Reproduction in
+    25, 361–368.                                                                                   damaged and regenerating colonies. Mar. Ecol. Prog. Ser. 109, 229–233.
+Shantz, A., Stier, A., Idjadi, J., 2011. Coral density and predation affect growth of a        van Woesik, R., 1998. Lesion healing on massive Porites spp. corals. Mar. Ecol. Prog.
+    reef-building coral. Coral Reefs 30, 363–367.                                                  Ser. 164, 213–220.
+Sheppard, C.R.C., 1982. Coral populations on reef slopes and their major controls.             Vermeij, M., van Moorselaar, I., Englehard, S., Hornlein, C., Vonk, S., Visser, P., 2010.
+    Mar. Ecol. Prog. Ser. 7, 83–115.                                                               The effects of nutrient enrichment and herbivore abundance on the ability of
+Smith, T., Nemeth, R., Blondeau, J., Calnan, J., Kadison, E., Herzlieb, S., 2008.                  turf algae to overgrow coral in the Caribbean. PLoS ONE 5, e14312.
+    Assessing coral reef health across onshore to offshore stress gradients in the US          Weber, M., Lott, C., Fabricius, K., 2006. Sedimentation stress in a scleractinian coral
+    Virgin Islands. Mar. Pollut. Bull. 56, 1983–1991.                                              exposed to terrestrial and marine sediments with contrasting physical, organic
+Smith, T., Kadison, E., Henderson, L., Brandt, M., Gyory, J., Kammann, M., Wright, V.,             and geochemical properties. J. Exp. Mar. Biol. Ecol. 336, 18–32.
+    Nemeth, R., 2012. The United States Virgin Islands territorial coral reef                  Wesseling, I., Uychiaoco, A., Alióo, P., Vermaat, J., 2001. Partial mortality in Porites
+    monitoring program. Year 11 Annual Report. Version 1 243.                                      corals: variation among Philippine reefs. Int. Rev. Hydrobiol. 86, 77–85.
+

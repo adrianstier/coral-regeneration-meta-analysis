@@ -6,25 +6,21 @@ These review files are execution aids. They do not replace the screening source 
 
 ## Figure Source Review
 
-- Review rows: 359
+- Review rows: 367
 
 | Review status | Count |
 | --- | ---: |
-| `blocked_missing_local_pdf` | 2 |
-| `candidate_review_needed` | 357 |
+| `candidate_review_needed` | 367 |
 
 | Caption parse status | Count |
 | --- | ---: |
-| `blocked_missing_local_pdf` | 2 |
-| `parsed` | 357 |
+| `parsed` | 367 |
 
 ## Source Retrieval
 
-- Missing-source rows: 1
+- Missing-source rows: 0
 
-| Retrieval status | Count |
-| --- | ---: |
-| `unavailable_after_local_and_public_search` | 1 |
+- None.
 
 ## Legacy Extraction QA
 

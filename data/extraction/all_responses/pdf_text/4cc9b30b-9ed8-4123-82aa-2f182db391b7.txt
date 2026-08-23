@@ -1,0 +1,278 @@
+Coral Reefs (2010) 29:131–135
+DOI 10.1007/s00338-009-0560-2
+
+ REPORT
+
+
+
+Experimental determination of the cost of lesion healing
+on Porites compressa growth
+D. Jayewardene
+
+
+
+
+Received: 15 May 2009 / Accepted: 20 October 2009 / Published online: 4 November 2009
+! Springer-Verlag 2009
+
+
+Abstract The spotted puffer (Arothron meleagris) com-               (Link 1807) is common on Hawaiian reefs (Jayewardene
+monly feeds on finger coral (Porites compressa) on                  et al. 2009) and involves removal of tissue and chunks of
+Hawaiian shallow reefs. The predation involves removal of           coral skeleton. Despite this damage, field observations
+branch tips, resulting in open lesions that, in the field, heal     indicate that P. compressa bite lesions heal successfully in
+in little over a month. This study determined the cost of           a little over 40 days (Jayewardene et al. 2009).
+tissue regeneration across simulated bite scars on the                 Tissue regeneration across coral lesions is primarily
+growth of experimentally scarred P. compressa nubbins, of           fueled by polyps and tissue directly bordering the lesions
+three different size classes (4, 2, 1 cm tall), in a controlled     (Meesters et al. 1994, 1997; Oren et al. 1997). The rate of
+laboratory environment. The results indicate that inflicted         regeneration is dependent on the length of the living tissue
+P. compressa lesions heal completely within approximately           bordering the lesion and the lesion surface area to perim-
+36 days, on even the smallest nubbins. While growth was             eter ratio (Meesters et al. 1994, 1997; Oren et al. 1997; van
+slowed before lesions closed, the healing process did not           Woesik 1998; Lirman 2000). Regeneration also depends on
+appear to affect the longer-term growth of fragments.               the coral species (Bak 1983; Meesters et al. 1992), coral
+Successful regeneration of tissue may be explained by               morphology (Meesters et al. 1996; Hall 1997), reproductive
+small lesion size, the high surface area to perimeter ratio of      state (Kramarsky-Winter and Loya 2000), and environ-
+the lesions, and the location of lesions on the growing tips.       mental conditions (Lester and Bak 1985; Titlyanov et al.
+The lack of impact on overall growth rate of experimental           2005). Allocation of energy to tissue regeneration
+fragments indicates that under favorable conditions,                adversely affects coral growth (Bak 1983; Meesters et al.
+P. compressa is resilient to predation.                             1994), fecundity (Rinkevich and Loya 1989; Van Veghel
+                                                                    and Bak 1994), disease resistance, and competitive ability
+Keywords Lesion ! Healing ! Regeneration ! Predation !              (Bak and Criens 1981). As the quantity of tissue fueling
+Growth ! Porties compressa                                          regeneration is finite, regeneration may stop at some point,
+                                                                    in favor of other life functions, such as growth, causing
+                                                                    unhealed portions of lesions to become permanent (Me-
+Introduction                                                        esters et al. 1994). Algae and invertebrates may invade the
+                                                                    bare substrate (Titlyanov et al. 2005), leading to competi-
+Feeding by the spotted puffer Arothron meleagris (Lace-             tion and possible coral mortality (Meesters et al. 1996,
+pède 1798) on the tips of the finger coral Porites compressa       1997). In the face of frequent predation and increasing
+                                                                    anthropogenic influences, continuous allocation of energy
+Communicated by Environment Editor Prof. Rob van Woesik             to healing may compromise the function and survival of
+                                                                    corals (Meesters and Bak 1993; Meesters et al. 1992).
+D. Jayewardene (&)                                                     The specific objective of this study was to compare the
+Department of Zoology, University of Hawaii at Manoa,
+                                                                    growth rates of experimentally scarred P. compressa nub-
+2538 McCarthy Mall, Edmondson 152, Honolulu, HI 96822,
+USA                                                                 bins of three different sizes classes (4, 2, 1 cm tall) with
+e-mail: danielle@jayewardene.com                                    undamaged nubbins in a controlled laboratory
+
+
+                                                                                                                      123
+132                                                                                                       Coral Reefs (2010) 29:131–135
+
+
+environment. Nubbin growth was measured during the                       Measurement of healing and growth
+tissue regeneration-healing process and after lesion closure
+using the buoyant weight method (Jokiel et al. 1978).                    Growth following scarring (=day 0) was measured on day
+                                                                         1, 3, 5, 7, 10, 12, 14, 18, 20, 25, 31, 34, 41, 48, 56, 62, 66,
+                                                                         75, 80, and 83. The stage of tissue regeneration across
+Materials and methods                                                    lesions was visually assessed and photographically recor-
+                                                                         ded at each of these times, with the aim of determining the
+Experimental design and preparation                                      average number of days until lesion closure. The buoyant
+                                                                         weight method (Jokiel et al. 1978) was used to measure
+Sixty-four Porites compressa nubbins were haphazardly                    skeletal growth. This involved removing each nubbin from
+collected from the reef at approximately 2 m depth at the                the mesocosm tank, hanging it in a beaker of salt water
+Hawaii Institute of Marine Biology (HIMB). Of these                      from a balance, and recording the weight in grams to three
+specimens, 32 randomly chosen nubbins were cut to 5 cm                   decimal places.
+lengths, 16 nubbins were cut to 3 cm lengths, and another 16                To compare growth rates between treatment groups, the
+nubbins were cut to 2 cm lengths. Using epoxy putty, each                weight gained per unit area of live tissue (g cm-2) was
+nubbin was individually attached to a 2.5 cm 9 2.5 cm                    calculated for each nubbin. The surface area of live tissue
+ceramic tile. Sixteen of the 5-cm nubbins were allocated as              for each nubbin was calculated upon completion of moni-
+controls and remained undamaged, while Arothron melea-                   toring by: (1) weighing each nubbin, dipping the nubbin
+gris bites were simulated on the remainder of the nubbins by             excluding the bottom surface into hot wax (60"C), letting
+removing *1 cm height off each of the nubbin tips using a                the wax cool, and reweighing the nubbin with the wax coat
+7-inch wire cutter (Fig. 1). This created four experimental              on; (2) similarly, weighing and dipping into the wax 12
+treatment groups (5-cm undamaged controls, 4-cm scarred                  standard calcium carbonate blocks with varying yet known
+nubbins, 2-cm scarred nubbins, and 1-cm scarred nubbins),                surface areas, reweighing each of these when covered with
+which were placed randomly in relation to each other in a                wax, calculating the weight of wax per surface area for each
+1 m (w) 9 1 m (l) 9 0.4 m (h) body of water in a meso-                   block, then calculating the mean weight of wax per car-
+cosm tank at HIMB. The nubbins in the tank were shaded                   bonate surface area (36.9 ± 6.6 g cm-2 SD); (3) using this
+from direct irradiance by a mesh and subject to a continuous             standard weight-surface ratio to calculate the total surface
+flow (7–8 l min-1) of sea water, pumped from the adjacent                areas of each of the nubbins based on the weights of their
+reef. The sea water was aerated and exposed to ambient air               wax coats (Stimson and Kinzie 1991). Nubbin tissue surface
+temperature. As closure of lesions was expected to occur                 area for the control was 28.1 ± 4.2 cm2 (mean ± SD),
+within 42 days, based on previous field observations                     21.4 ± 4.2 cm2 (mean ± SD), 8.9 ± 1.2 cm2 (mean ±
+(Jayewardene et al. 2009), nubbins were monitored for a                  SD), and 5.0 ± 1.0 cm2 (mean ± SD) for the 4-, 2-, and
+total of 3 months (April 7, 2007–June 28, 2007) to enable                1-cm treatment, respectively. The surface area of each
+measurement of growth both leading up to the closure of                  inflicted lesion was calculated by measuring the two per-
+lesions, and for an extended period thereafter. Average daily            pendicular diameters [0.9 ± 0.3 cm2 (mean ± SD) (same
+air temperature and average daily solar radiation measured               for all treatments, one-way ANOVA: f = 0.77,
+during the experimental time period at the HIMB weather                  P = 0.469)]. The entire surface area of the lesion was
+station was 25.7 ± 1.1"C (mean ± SD), respectively,                      subtracted from the calculated nubbin surface area, when
+252.9 ± 45.1 calories cm-2 (mean ± SD). Average daily                    calculating weight gain per nubbin surface area on day 0.
+sea water temperature, at the sea water intake (2 m depth on             Subsequently, proportionately less of the lesion area was
+adjacent reef), was 24.4 ± 0.6"C (mean ± SD).                            subtracted from the nubbin surface area until nothing was
+                                                                         subtracted on the day of lesion closure. The relevant pro-
+                                                                         portions of lesion area subtracted for each nubbin were
+                                                                         calculated by generating a set of representative linear
+                                                                         equations using the range in number of healing days and the
+                                                                         assumption that healing was 0% on day 0 and 100% on the
+                                                                         day of lesion closure.
+
+
+                                                                         Data analysis
+Fig. 1 The four treatment groups: 5-cm undamaged controls, 4-cm
+tall scarred nubbins, 2-cm tall scarred nubbins, and 1-cm tall scarred   Lesion-healing rates were compared among treatments
+nubbins                                                                  using a one-way ANOVA. Nubbin growth rates among
+
+
+123
+Coral Reefs (2010) 29:131–135                                                                                                             133
+
+
+treatments and before and after lesion healing were com-                Table 1 Factorial analysis using general linear model to test differ-
+pared using factor analysis (General Linear Model).                     ences in mean nubbins growth rates between the controls and three
+                                                                        scarred nubbins size classes (=treatments), before and after scar
+                                                                        healing (=period)
+
+Results                                                                 Factor                   df       MS              F          P
+
+                                                                        Treatment                     3   0.0000604        2.74          0.047
+Healing and growth                                                      Period                        1   0.0010294       46.64      \0.001
+                                                                        Treatment 9 period            3   0.0001832        8.30      \0.001
+Complete lesions closure occurred within 39 ± 2 days                    Error                    120      0.0000221
+(mean ± SE) for 4-cm treatment, 35 ± 1 days (mean ±
+SE) for 2-cm treatment, and 34 ± 2 days (mean ± SE) for                 Treatment and period were both fixed factors
+1-cm treatment. These healing rates were not statistically
+different (one-way ANOVA: f = 2.47, P = 0.096). Apart
+from an initial loss in weight of 0.001 ± 0.0004 g cm-2
+(mean ± SE) during the first 4 days after scarring for the
+smallest treatment (1 cm), average cumulative weight gain
+(g cm-2), for each of all four treatments over the course of
+the 3-month monitoring period, was positive and linear
+(Fig. 2). The factor analysis indicated that the rate of nubbin
+growth [(end weight–start weight) 9 30 days] was signifi-
+cantly different both between treatments and before versus
+after lesion closure (period) (Table 1). The interaction term
+(treatment 9 period) was also significant, indicating that the
+difference in growth rates among treatments varied between
+periods (Fig. 3). There was no significant difference in
+growth rate among size classes before lesion closure (one-              Fig. 3 The growth rates before and after healing for 5-cm undam-
+                                                                        aged controls, 4-cm treatment nubbins, 2-cm treatment nubbins, and
+way ANOVA: f = 2.52, P = 0.067), but there was a sig-                   1-cm treatment nubbins. Error bars indicate ±1 SE
+nificant difference after lesion closure (one-way ANOVA:
+f = 8.13, P \ 0.001). A Tukey’s multiple comparisons test
+indicated that the difference after lesion closure was                  4-cm treatment (paired comparisons t-test: P = 0.05,
+between the control versus 1-cm treatment, and between the              respectively, P = 0.05), and clearly significant for the 2-cm
+4 versus 2-cm and 1-cm treatments. The difference in growth             and the 1-cm treatment (paired comparisons t-test:
+rate before versus after was significant for the control and            P \ 0.001, respectively, P \ 0.001) (Fig. 3).
+
+
+                                                                        Discussion
+
+                                                                        This study indicates that experimental lesions, simulating
+                                                                        A. meleagris bites, on P. compressa heal in a little over a
+                                                                        month, and with little effect on the long-term growth of
+                                                                        even very small coral fragments (1 cm).
+                                                                           Fast and complete regeneration of tissue across
+                                                                        P. compressa is likely because of the small size of the bite
+                                                                        lesions. A. meleagris feeds on the branch tips of the finger-
+                                                                        like P. compressa, and therefore inflicted lesions will tend
+                                                                        to be circular in shape and similarly limited in size (to the
+                                                                        size of coral branches). Rapid healing of lesions may also
+                                                                        be explained by polyps at the tip of branches being younger
+                                                                        and more active than polyps at the base, as documented for
+Fig. 2 The average cumulative weight gain (g cm-2) for 5-cm             branching Acropora palmata in the Caribbean (Meesters
+undamaged controls, 4-cm treatment nubbins, 2-cm treatment nub-
+                                                                        and Bak 1995). Furthermore, as branched corals are more
+bins, and 1-cm treatment nubbins over the course of the 3-month
+monitoring period. The dashed line indicates the average time of scar   prone to fragmentation, they tend to have rapid rates of
+healing                                                                 tissue regeneration (Hall 1997), which promotes successful
+
+
+                                                                                                                                  123
+134                                                                                                    Coral Reefs (2010) 29:131–135
+
+
+fusion to new substrate (Bak 1983). The lack of effect of         increased frequency of lesion generation resulting from
+P. compressa nubbin size on tissue healing has also been          intensified predation. This might also occur if predation
+documented for A. palmata (Lirman 2000) and may be                pressure remains the same, while there is a reduction in the
+explained by lesions on even the smallest nubbins being           population abundance of P. compressa (Jayewardene et al.
+surrounded by the minimum amount of tissue necessary to           2009), a decrease in the length of branches and/or a higher
+fuel regeneration (Meesters et al. 1994, 1997; Oren et al.        occurrence of small fragments due to fragmentation.
+1997).
+   While the initial brief weight loss in the smallest            Acknowledgments This research was funded by the US Geological
+                                                                  Survey. I thank the Hawaii Institute of Marine Biology for access to
+P. compressa size class indicates a negative response to          mesocosm tanks and Dr. John Stimson for offering logistical support
+lesion infliction, the ability of these very small fragments to   and help in designing the study. I thank Charles Birkeland and Ivor
+recover and continue growth throughout and beyond the             Williams for valuable comments and criticism that helped improve
+lesion-healing process indicates that predation does not          the manuscript.
+constitute a major energy drain on P. compressa. This is
+possibly because environmental conditions under which the
+fragments were maintained in the laboratory were favor-           References
+able (non-extreme temperatures, protection from irradi-
+ance, continuous sea water flow and aeration), potentially        Bak RPM (1983) Neoplasia, regeneration and growth in the reef-
+resulting in a reserve of energy available for tissue regen-           building coral Acropora palmata. Mar Biol 77:221–227
+                                                                  Bak RPM, Criens SR (1981) Survival after fragmentation of colonies
+eration (Muscatine et al. 1984; Spencer Davies 1984;                   of Madracis mirabilis, Acropora palmata and A. cervicornis
+Edmunds and Spencer Davies 1984; Nagelkerken et al.                    (Scleractinia) and the subsequent impact of a coral disease. Proc
+1999).                                                                 4th Int Coral Reef Symp 2:221–227
+   While growth rates were similar among nubbin size              Edmunds PJ, Spencer Davies P (1984) An energy budget for Porites
+                                                                       porites (Scleractinia). Mar Biol 92:339–347
+classes, during lesion healing, growth rates were enhanced        Fine M, Oren U, Loya Y (2002) Bleaching effect on regeneration and
+after lesion closure, especially for the smallest nubbins (1           resource translocation in the coral Oculina patagonica. Mar Ecol
+and 2 cm). Hypothetically, the lack of suppression of                  Prog Ser 235:110–125
+growth rates during healing might have been because of            Fisher EM, Fauth JE, Hillock P, Woodley CM (2007) Lesion
+                                                                       regeneration rates in reef-building corals Montastrea spp. as
+extra resources available for tissue regeneration. The per-            indicators of colony condition. Mar Ecol Prog Ser 339:61–70
+iod of enhanced growth following lesion closure, in the           Hall VR (1997) Interspecific differences in the regeneration of
+smaller nubbins, may have been because smaller nubbins                 artificial injuries on scleractinian corals. J Exp Mar Biol Ecol
+required disproportionally more resources to heal com-                 212:9–23
+                                                                  Jayewardene D, Donahue MJ, Birkeland C (2009) Effects of
+pared with large nubbins. Growth rates for the smaller                 frequent fish predation on corals in Hawaii. Coral Reefs
+nubbins did appear to level off toward the end of the                  28:499–506
+experimental period, indicating a return to baseline growth       Jokiel PL, Coles SL (1977) Effects of temperature on the mortality
+rates. Growth rates were also somewhat higher in the latter            and growth of Hawaiian reef corals. Mar Biol 43:201–208
+                                                                  Jokiel PL, Maragos JE, Franzisket L (1978) Coral growth: buoyant
+half of the experiment for the larger nubbins, possibly a              weight technique. Monogr Oceanogr Methodol (UNESCO)
+result of stimulated growth (Jokiel and Coles 1977; Lester             5:529–542
+and Bak 1985; Miller 1995; Titlyanov et al. 2005) from            Kramarsky-Winter E, Loya Y (2000) Tissue regeneration in the coral
+increasing sea water temperature during the course of                  Fungia granulosa: the effect of extrinsic and intrinsic factors.
+                                                                       Mar Biol 137:867–873
+the experiment. The surface temperature of the sea                Lester RT, Bak RPM (1985) Effect of environment on regeneration of
+water, feeding the experimental tank, was 23.8 ± 0.3"C                 tissue lesions in the reef coral Montastrea annularis (Sclerac-
+(mean ± SD) in April, compared to 24.3 ± 0.4"C                         tinia). Mar Ecol Prog Ser 24:183–185
+(mean ± SD) and 25.1 ± 0.2"C (mean ± SD) in May and               Lirman D (2000) Lesion regeneration in the branching coral Acropora
+                                                                       palmata: effects of colonization, colony size, lesion size, and
+June, respectively.                                                    lesion shape. Mar Ecol Prog Ser 197:209–215
+   The experimental findings indicate that there is little        Meesters EH, Bak RPM (1993) Effects of coral bleaching on tissue
+predation cost to P. compressa growth, unless environ-                 regeneration potential and colony survival. Mar Ecol Prog Ser
+mental conditions interfere that are less than optimal for             96:189–198
+                                                                  Meesters EH, Bak RPM (1995) Age-related deterioration of a
+growth, and/or P. compressa is exposed to stressors such as            physiological function in the branching coral Acropora palmata.
+disease, bleaching, and sedimentation, which have been                 Mar Ecol Prog Ser 121:203–209
+shown to slow the healing of lesions in other corals (Bak         Meesters EH, Bos A, Gast GJ (1992) Effects on sedimentation and
+and Criens 1981; Meesters et al. 1992; Meesters and Bak                lesion position on coral tissue regeneration. Proc 7th Int Coral
+                                                                       Reef Symp 2:681–688
+1993; Kramarsky-Winter and Loya 2000; Fine et al. 2002;           Meesters EH, Noordeloos M, Bak RPM (1994) Damage and
+Fisher et al. 2007). Furthermore, growth might be sup-                 regeneration: links to growth in the reef-building coral Montas-
+pressed by continuous allocation of energy toward                      trea annularis. Mar Ecol Prog Ser 112:119–128
+
+
+123
+Coral Reefs (2010) 29:131–135                                                                                                                 135
+
+Meesters EH, Wesseling I, Bak RPM (1996) Partial mortality in three        Rinkevich B, Loya Y (1989) Reproduction in regenerating colonies of
+     species of reef-building corals and the relation with colony               the coral Stylophora pistillata. In: Spanier E, Steinberger Y,
+     morphology. Bull Mar Sci 58:838–852                                        Luria M (eds) Environmental quality and ecosystem stability.
+Meesters EH, Wesseling I, Bak RPM (1997) Coral colony tissue                    Hebrew University, Jerusalem, pp 257–265
+     damage in six species of reef building corals: partial mortality in   Spencer Davies P (1984) The role of zooxanthellae in the nutritional
+     relation with depth and surface area. J Sea Res 37:131–144                 energy requirements of Pocillopra eydouxi. Coral Reefs 2:181–186
+Miller MW (1995) Growth of a temperate coral—effects of temper-            Stimson J, Kinzie R (1991) The temporal pattern and rate of release of
+     ature, light, depth and heterotrophy. Mar Ecol Prog Ser 122:217–           zooxanthellae from the reef coral Pocillopora damicornis
+     225                                                                        (Linnaeus) under nitrogen-enrichment and control conditions. J
+Muscatine L, Falkowski PG, Porter JW, Dubinsky Z (1984) Fate of                 Exp Mar Biol Ecol 153:63–74
+     photosynthetic fixed carbon in light and shade-adapted colonies       Titlyanov EA, Titlyanova TV, Yakovleva IM, Nakano Y, Bhagooli R
+     of the symbiotic coral Stylophora pistillata. Proc R Soc London            (2005) Regeneration of artificial injuries on scleractinian corals
+     B 222:181–202                                                              and coral/algal competition for newly formed substrate. J Exp
+Nagelkerken I, Meesters EH, Bak RPM (1999) Depth-related                        Mar Biol Ecol 323:27–42
+     variation in regeneration of artificial lesions in the Caribbean      Van Veghel MLJ, Bak RPM (1994) Reproductive characteristics of
+     corals Porites astreoides and Stephanocoenia michelinii. J Exp             the polymorphic Caribbean reef building coral Montastrea
+     Mar Biol Ecol 234:29–39                                                    annularis. III. Reproduction in damaged and regenerating
+Oren U, Benayahu Y, Loya Y (1997) Effect of lesion size and shape               colonies. Mar Ecol Prog Ser 109:229–233
+     on regeneration of the Red Sea coral Favia favus. Mar Ecol Prog       van Woesik R (1998) Lesion healing on massive Porites spp. corals.
+     Ser 146:101–107                                                            Mar Ecol Prog Ser 164:213–220
+
+
+
+
+                                                                                                                                      123
+

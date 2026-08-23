@@ -1,0 +1,397 @@
+Coral Reefs (2010) 29:729–735
+DOI 10.1007/s00338-010-0621-6
+
+ REPORT
+
+
+
+Propagation of the threatened staghorn coral Acropora
+cervicornis: methods to minimize the impacts of fragment
+collection and maximize production
+D. Lirman • T. Thyberg • J. Herlan •
+C. Hill • C. Young-Lahiff • S. Schopmeyer •
+B. Huntington • R. Santos • C. Drury
+
+
+
+Received: 10 January 2010 / Accepted: 5 April 2010 / Published online: 20 April 2010
+Ó Springer-Verlag 2010
+
+
+Abstract Coral reef restoration methods such as coral                  increased biomass accumulation and limited damage to
+gardening are becoming increasingly considered as viable               parental stocks.
+options to mitigate reef degradation and enhance recovery
+of depleted coral populations. In this study, we describe              Keywords Acropora cervicornis  Coral gardening 
+several aspects of the coral gardening approach that dem-              Propagation  Fragmentation
+onstrate this methodology is an effective way of propa-
+gating the threatened Caribbean staghorn coral Acropora
+cervicornis: (1) the growth of colonies within the nursery             Introduction
+exceeded the growth rates of wild staghorn colonies in the
+same region; (2) the collection of branch tips did not result          The recent worldwide decline in coral abundance and
+in any further mortality to the donor colonies beyond the              condition along with associated losses in the key ecosystem
+coral removed for transplantation; (3) decreases in linear             services has prompted a myriad of efforts to mitigate fur-
+extension of the donor branches were only temporary and                ther coral losses and restore lost reef function and structure
+donor branches grew faster than control branches after an              (Edwards and Clark 1998; Edwards and Gomez 2007). One
+initial recovery period of approximately 3–6 weeks; (4)                approach gaining acceptance is the use of coral gardening
+fragmentation did not affect the growth rates of non-donor             or silviculture techniques for coral propagation and the
+branches within the same colony; (5) small branch tips                 production of coral colonies for active reef restoration as
+experienced initial mortality due to handling and trans-               described by Rinkevich (1995). The coral gardening
+portation but surviving tips grew well over time; and (6)              methodology involves three stages: (1) the initial collection
+when the growth of the branch tips is added to the regrowth            of a limited amount of coral biomass (i.e., nubbins, frag-
+of the fragmented donor branches, the new coral produced               ments) from wild or propagated populations; (2) the grow
+was 1.4–1.8 times more than new growth in undisturbed                  out of the coral fragments within a nursery setting; and (3)
+colonies. Based on these results, the collection of small              the outplanting of nursery-reared corals to depleted or
+(2.5–3.5 cm) branch tips was an effective propagation                  damaged reefs (e.g., Shafir et al. 2001; Epstein et al. 2003;
+method for this branching coral species resulting in                   Rinkevich 2006; Shafir and Rinkevich 2008).
+                                                                          While recently gaining wider acceptance, the science of
+                                                                       coral reef restoration is still in its infancy, and science-
+                                                                       based guidelines for reef restoration methods are needed to
+Communicated by Biology Editor Dr. Andrew Baird
+                                                                       evaluate the impacts, efficacy, and efficiency of propaga-
+D. Lirman (&)  T. Thyberg  J. Herlan  C. Hill                      tion and restoration approaches (Precht 2006 and refer-
+C. Young-Lahiff  S. Schopmeyer  B. Huntington  R. Santos           ences therein). One of the largest knowledge gaps and a
+C. Drury                                                               source of criticism for reef restoration programs is the
+Rosenstiel School of Marine and Atmospheric Science,
+                                                                       potential negative effect of collecting whole colonies on
+University of Miami, 4600 Rickenbacker Cswy, Miami,
+FL 33149, USA                                                          the donor coral populations and/or the potential negative
+e-mail: dlirman@rsmas.miami.edu                                        effect of fragmentation on parent colonies (Edwards and
+
+
+                                                                                                                          123
+730                                                                                                Coral Reefs (2010) 29:729–735
+
+
+Clark 1998; Epstein et al. 2003; Forsman et al. 2006).             (Herlan and Lirman 2009). The staghorn colonies used in
+Considering the depleted state of many coral populations,          this study had been growing in the nursery for at least
+this source of concern has often emerged as a roadblock for        2 years and ranged in size from 30 to 295 linear cm. For
+the procurement of permits to conduct reef restoration             each donor colony, two branch tips were clipped using
+activities. This is especially true for the use of the genus       pliers to extract one 2.5 cm (small tip) and one 3.5 cm
+Acropora in restoration activities in the territorial waters of    (large tip) fragment. Each of the donor branches was
+the United States. The drastic decline of both Acropora            marked with a plastic tie placed 2 cm from the lesion
+palmata and A. cervicornis in the region and the 2006              (Fig. 1). A third, unfragmented control branch, was chosen
+listing of this genus as threatened under the US Endangered        from each donor colony and marked at 2 cm from the intact
+Species Act (NMFS 2006) highlight the need to develop              branch tip (Fig. 1). In addition to the donor colonies, a
+science-based collection, propagation, and restoration             subset of colonies was chosen haphazardly as unfrag-
+methodologies that limit immediate negative impacts and            mented controls. Three branches were marked within each
+maximize future gains in coral productivity.                       of these undisturbed colonies at 2 cm from intact branch
+    The collection of coral fragments for reef restoration         tips using plastic ties (Fig. 1). The branch tips collected
+will always cause an immediate negative impact on the              were attached individually to ceramic disks using epoxy
+fragmented donor colonies due to the metabolic costs               and secured to PVC frames in the nursery. The linear
+associated with the repair of newly formed lesions,                extension of the branch tips and the distance between the
+regrowth of axial polyps, and competition with fast-colo-          cable ties and the terminal ends of branches on the donor
+nizing organisms like macroalgae that can establish quickly        and control colonies were measured over time using plastic
+on the exposed skeleton (Lirman 2000a). Additionally,              rulers to evaluate linear growth rates as previously
+metabolic costs will be incurred by the fragments extrac-          described for this species in the Florida Keys by Shinn
+ted, which will need to invest energy in regeneration,             (1966).
+potentially resulting in increased mortality and reduced              The fragmentation experiment was repeated twice using
+growth and reproduction (Lirman and Fong 1997; Lirman              similar methods to assess the potential negative effects of
+2000b; Okubo et al. 2007). Thus, for a coral propagation           transport on branch-tip survivorship. In the first experiment
+and restoration program to be successful, it clearly needs to      (initiated on June 25, 2009 with 15 donor colonies and 7
+minimize the impacts of collection on the parent stock and,        control colonies), the branch tips collected were trans-
+after some period of recovery, result in a net increase in         ported back to the boat anchored at the site and glued to the
+tissue and skeleton production through the aggregate               ceramic disks while on board. The branch tips were always
+growth of the donor colonies and the coral propagules              kept submerged, and they were returned back to the nursery
+extracted from the parent stock.                                   within 1 h of collection. This was done to simulate a sce-
+    In this study, we test whether coral production is ulti-       nario in which staghorn fragments are collected at one site
+mately enhanced or hindered by the removal of branch tips          and out planted to another. In the second experiment (ini-
+from parent colonies of the staghorn coral Acropora cervi-         tiated on July 15, 2009 with 12 donor colonies and 6
+cornis by documenting: (1) the role of branch-tip removal on       control colonies), the branch tips were epoxied to the
+the growth and survivorship of donor colonies; (2) the role of     ceramic disks and deployed onto the PVC frames without
+size and handling methods on the growth and survivorship of        ever leaving the water.
+branch tips; and (3) the role of colony size on the growth rates
+of donor and control branches. By tracking the growth and
+survivorship of both donor colonies and the extracted branch       Results
+tips, we are able to evaluate the value of coral gardening
+methods for the propagation of A. cervicornis.                     The effects of the handling stress of removing the branch
+                                                                   tips from the nursery (and onto the boat) to simulate the
+                                                                   impacts of transportation were clearly influenced by the
+Materials and methods                                              size of the branch tips. While 13 out of 15 of the small tips
+                                                                   (2.5 cm) were dead after 20 days (87% mortality), only 2
+All activities for this project were conducted at the stag-        out of 15 of the larger tips (3.5 cm) experienced complete
+horn coral nursery established by the University of Miami          mortality (13%). In the second experiment, where the tips
+within Biscayne National Park, Florida in 2007 (25°                were epoxied underwater and were not removed from the
+21.7530 N, 80° 09.9850 W, 5.5 m of depth). The nursery             water, mortality was only recorded for 1 out of 12 of the
+consists of cinder blocks and cement platforms deployed            small tips (8% mortality) and none of the large tips after
+on a sand patch onto which staghorn fragments collected            24 days. No subsequent tissue mortality was observed for
+from nearby reefs were cemented using underwater epoxy             the surviving tips over 3–4 months of observation, but
+
+
+123
+Coral Reefs (2010) 29:729–735                                                                                            731
+
+Fig. 1 Photographs of a the
+cinderblocks used as platforms
+to grow colonies of Acropora
+cervicornis in the Florida
+nursery; b staghorn colony
+fragmented in this study
+showing the color plastic ties
+used to measure linear extension
+rates; c branch tips collected
+from staghorn colonies (the
+large tips show healthy growth
+while the small tip in the middle
+is completely dead);
+d fragmented staghorn colony
+showing a skeletal lesion and
+the recovery of the same lesion
+3 weeks later (inset)
+
+
+
+
+some of the tips were broken probably due to predation or          To evaluate the immediate effect of fragmentation on
+physical impacts.                                               branch recovery and growth, the linear growth of the donor
+    For the first experiment, total length of coral collected   and undisturbed branches and colonies was analyzed sep-
+was 90 cm (15 9 2.5 cm, 15 9 3.5 cm). Total aggregate           arately for the first measurement period (i.e., 24–39 days
+length of surviving tips was 55 cm after 39 days, 59 cm         after fragmentation) and the complete growth period (i.e.,
+after 63 days, and 70 cm after 129 days (Fig. 2a). For the      90–129 days after fragmentation) for both experiments
+second experiment, total length collected was 72 cm             combined (Fig. 3). For the first measurement period, the
+(12 9 2.5 cm, 12 9 3.5 cm). Total aggregate length of           daily growth of donor branches (small- and large-tip donor
+surviving tips was 91 cm after 24 days and 110 cm after         branches combined, 0.028 cm d-1, S.D. = ± 0.013) was
+90 days (Fig. 2b). The mean annual growth rate was              significantly slower than that of control branches within
+7.6 cm yr-1 (3.5) for large tips and 5.4 cm yr-1 (2.3) for      donor colonies (0.041 cm d-1, S.D. = ± 0.015) as well as
+small tips. However, when the amount produced was nor-          branches within undisturbed colonies (0.040 cm d-1,
+malized by initial length of fragments, small tips produced     S.D. = ± 0.01) (Mann–Whitney test, df = 3, x2 = 18.9,
+a significantly larger amount of new tissue and skeleton        P = 0.003) (Fig. 3). No significant differences in the re-
+(mean production = 1.4 cm of new length per cm of ori-          growth of donor branches were found based on the size of
+ginal length, S.D. = ± 0.6) compared to the larger tips         the branch tips removed (Wilkoxon test, df = 1, x2 = 0.7,
+(0.9 cm (0.4)) over 90 days (Wilkoxon test, df = 1,             P = 0.78) (Fig. 3). However, the slow down in growth of
+x2 = 4.8, P = 0.028).                                           the donor branches recorded during the first sampling
+    When the initial amount of coral collected is used as a     period of 24–39 days after fragmentation (compared to
+recovery benchmark for donor colonies, full recovery was        control branches) was not evident over the extended time
+achieved by the regrowth of donor branches within               period of 90–129 days after fragmentation. In this case, no
+3–4 months (Fig. 2). The same amount of time was required       significant difference in the growth of any of the control or
+for control colonies to grow a similar amount of coral (based   donor branches was detected (Mann–Whitney test, df = 3,
+on the growth of the marked undisturbed branches). When         x2 = 1.62, P = 0.65) (Fig. 3), highlighting enhanced
+the growth of the surviving transplanted branch tips is added   growth of donor branches after the initial slow-down per-
+to the regrowth of donor branches, the new coral produced is    iod. The annual growth rates calculated in this study were
+1.4–1.8 times more than the amount produced by the same         15.5 cm yr-1 (3.9) for branches in control colonies,
+number of branches in control colonies in 3–4 months            13.3 cm yr-1 (4.2) for unfragmented branches in donor
+(Fig. 2). Thus, coral productivity is clearly enhanced by       colonies, 13.8 cm yr-1 (5.9) for donor branches (small
+pruning activities, even when some mortality of branch tips     tips), and 13.5 cm yr-1 (6.2) for donor branches (large
+is experienced.                                                 tips).
+
+
+                                                                                                                  123
+732                                                                                                                          Coral Reefs (2010) 29:729–735
+
+
+                                                 A
+
+
+
+
+ Coral Skeleton and Tissue (linear length, cm)
+                                                     After 39 days                  s
+
+
+
+                                                 B                   Fragmented
+                                                                     Branches           Fig. 3 Mean daily growth (cm, S.E.) of branches from fragmented
+                                                                     Branch             and unfragmented staghorn colonies. Fragmented Controls = unfrag-
+                                                                     Tips               mented branches from colonies that were fragmented, Fragmented/
+                                                                     Unfragmented       Large Tips = donor branches from which larger tips (3.5 cm) were
+                                                                     Branches
+                                                                                        collected, Fragmented/Small Tips = donor branches from which
+                                                                                        smaller tips (2.5 cm) were collected, Unfragmented Controls = un-
+                                                                                        fragmented branches from colonies that did not experience any
+                                                                                        fragmentation. White bars represent growth from the initial sampling
+                                                                                        period (24–39 d after fragmentation), and black bars represent growth
+                                                                                        from the complete sampling period (90–129 d after fragmentation).
+                                                                                        Data from both experiments were pooled for analysis
+
+
+Fig. 2 Amount of tissue and skeleton (linear length) of staghorn                        Discussion
+branch tips and branches used in experiment 1 (a) and 2 (b). The
+white bars represent the total amount of new coral produced by the
+fragmented donor branches (n = 30 branches for experiment 1 and 24
+                                                                                        In this study, we conducted manipulative experiments with
+for experiment 2). The striped bars represent the total linear length of                colonies of Acropora cervicornis to evaluate whether the
+all surviving branch tips in each experiment (pooled for 2.5- and 3.5-                  coral gardening approach fulfills two key tenets of coral
+cm branch tips). The black bars represent the total amount of new                       restoration: ‘‘do not cause irreversible harm to parent/donor
+coral produced by unfragmented branches in control colonies. The
+dashed horizontal lines represent the total amount of coral collected
+                                                                                        populations’’ and ‘‘maximize coral productivity through
+from colonies at the start of the experiments (30 branch tips in                        vegetative growth’’. We found that (1) the growth of col-
+experiment 1 and 24 branch tips in experiment 2)                                        onies within the nursery exceeded the growth of wild
+                                                                                        staghorn colonies in the same region; (2) the removal of
+   The effect of branch-tip collection on the donor colonies                            branch tips did not result in any mortality to the donor
+was limited to the creation of skeletal lesions, and no                                 colonies (beyond the initial losses due to fragmentation);
+partial or total tissue mortality was observed on either the                            (3) decreases in linear extension of the fragmented donor
+donor or control colonies. The lesions healed quickly, and                              branches were only temporary, and donor branches grew
+new apical polyps were observed after 3 weeks (Fig. 1).                                 faster than control branches after the initial recovery period
+When the size of the donor colonies (30–295 linear cm)                                  of 3–6 weeks, indicating a shift of resources toward
+was regressed against the short-term (24–39 days after                                  recovery; (4) fragmentation did not affect the growth rates
+fragmentation) linear extension rates of the donor branches,                            of control branches in the same colony; (5) small branch
+no significant relationships were found (linear regression,                             tips experienced initial mortality due to handling but sur-
+r2 = 0.12 P = 0.086). When the regressions between                                      viving tips grew well over time, creating new colonies; and
+colony size and linear extension rates were repeated with                               (6) when the growth of the recovering fragmented donor
+data for the longer observation period (90–129 days after                               branches was added to the growth of the surviving tips, the
+fragmentation), the linear extension rates of the donor                                 overall production exceeded that of control branches on
+branches did show a significant positive relationship with                              colonies that were not fragmented, making a strong case
+colony size (linear regression, r2 = 0.28 P = 0.001). No                                for the benefits of sequential pruning of branching colonies
+relationships between linear extension rates and size of                                as a mechanism to maximize coral productivity.
+control colonies were found for either the initial period                                  Coral gardening and nursery activities are commonly
+(linear regression, r2 = 0.08, P = 0.63) or the final period                            initiated with the collection of fragments or colonies from
+(linear regression, r2 = 0.02, P = 0.79).                                               wild coral stocks (Rinkevich 1995). In cases where donor
+
+
+123
+Coral Reefs (2010) 29:729–735                                                                                               733
+
+
+coral populations are severely depleted or highly protected,     Thus, pruning activities can lead to enhanced clonal pro-
+the amount of coral to be collected is often restricted. One     duction of the parent stock, and sequential pruning (frag-
+of the first choices researchers encounter is whether to         ment collection followed by a period of recovery) can be
+collect a single or few large fragments or several small         beneficial for stock enhancement in A. cervicornis and
+fragments (Rinkevich 2000). The results from this study          other clonal taxa like gorgonians that are harvested com-
+provide important insights into this trade-off. From a           mercially (Lasker et al. 2003). The benefits of pruning are
+fragment-survivorship perspective, it is clearly better to       especially evident when taking into account the growth of
+collect larger fragments to minimize fragment mortality          the branch tips collected. In this context, and provided that
+(Bowden-Kerby 1997, 2001; Raymundo and Maypa 2004;               branch mortality is not extremely high, the separation of
+Okubo et al. 2005; Forsman et al. 2006). However, pro-           ramets from the parent colonies is a viable strategy for
+ductivity (i.e., growth normalized by initial amount of coral    sustaining vigorous production and lends support to the
+collected) in this study was related negatively to fragment      coral gardening approach as a successful restoration
+size and smaller fragments produced a larger amount of           approach. While the removal of a limited number of branch
+biomass per unit collected, thus increasing recovery rates.      tips per colony has been shown to enhance productivity, no
+Other researchers have shown also that relative growth or        information is yet available on the maximum amount that
+productivity decreases with increasing ramet size in corals      can be extracted from colonies of various sizes before
+(Yap et al. 1998; Okubo et al. 2005) and other clonal            causing long-term negative effects on parent-colony
+organisms (Karlson 1988). Thus, the collection of frag-          growth or other vital functions like reproduction, which are
+ments [ 3.5 cm is unlikely to provide any added benefits         commonly influenced by size and disturbance history in
+in terms of branch or colony growth. Moreover, Herlan and        clonal organisms (e.g., Hughes and Connell 1987; Smith
+Lirman (2009) showed that the mortality of A. cervicornis        and Hughes 1999; Beiring and Lasker 2000; Lirman 2000b;
+fragments in the staghorn nursery is not related to size         Epstein et al. 2001; Okubo et al. 2005). Further manipu-
+beyond a 3–4 cm threshold, effectively diminishing the           lative studies are needed to determine both the maximum
+benefits of reduced mortality with increasing size beyond        amount that can be collected from donor colonies as well as
+this threshold. Considering the trade-off between size-          the optimal time required for recovery between pruning
+based productivity and mortality documented here, the            activities, and trade-offs between clonal propagation and
+collection of branch tips 3.5 cm in length appears to be a       reproduction.
+good compromise between the lower productivity of larger            The recovery of lesions resulted in an initial decrease in
+tips (compared to smaller tips) and the higher survivorship      the growth of fragmented branches; the impact within the
+associated with larger fragments when fragments need to          colonies was limited to the damaged branches. The control
+be transported to locations away from the collection site. In    branches within donor colonies showed growth rates sim-
+contrast, in cases where in situ propagation is desired (i.e.,   ilar to those of branches in control colonies. This shows
+nursery expansion, thicket formation), the collection of a       that, at the minimal level of fragmentation used in this
+larger number of smaller branch tips can maximize vege-          study, the negative impacts are limited only to the frag-
+tative productivity without the costs of higher mortality of     mented branches and that resources can be directed toward
+smaller fragments caused by transportation.                      recovery without affecting the continued growth of
+   Lesions on donor colonies recovered quickly, and new          undamaged branches. Also, while the size of the donor
+axial corallites were formed in 3 weeks. The initial slow        colony did not influence early recovery patterns, the con-
+down in branch growth caused by lesion recovery was              tinued growth of damaged branches was related to colony
+compensated by the enhanced growth of damaged branches           size, with larger colonies exhibiting faster growth rates of
+after axial corallites were developed. In fact, 3–4 months       donor branches. Therefore, for initial and subsequent
+after fragmentation, the mean growth of donor branches           pruning activities, it would be highly desirable to collect
+exceeded that of control branches (Fig. 3). This pattern         branch tips from the largest colonies available. Collecting
+suggests a potential shift in resources within the colonies      from larger colonies in the field would ensure that a smaller
+toward damaged branches. This is consistent with obser-          fraction of the colony biomass is collected at a given time,
+vations by Castanaro and Lasker (2003) who reported that         that faster, sustained growth of the fragmented donor
+branches formed after fragmentation grew faster than un-         branches would occur, and that trade-offs with respect to
+fragmented branches already present in colonies of the           sexual reproduction would be minimized.
+Caribbean octocoral Pseudopterogorgia elisabethae.                  One of the common criticisms leveled against reef res-
+   The enhanced linear growth exhibited by damaged coral         toration is that, in the continued presence of the stressors
+branches is similar to the increased growth of Acacia            that caused the reef decline in the first place, these efforts,
+shoots documented under heavy grazing pressure from              which are often costly, will not reverse declining trends.
+ungulates in the African savanna (du Toit et al. 1990).          While this is clearly true in most cases and restoration
+
+
+                                                                                                                     123
+734                                                                                                         Coral Reefs (2010) 29:729–735
+
+
+cannot be considered a viable option when faced with                  Foundation, the Nature Conservancy, the NOAA Restoration Center
+continued disturbances, the natural recovery of the threa-            or the U.S. Department of Commerce.
+tened genus Acropora in the Caribbean faces a particular
+challenge even if stressors are removed. The drastic                  References
+reduction that this genus has experienced throughout its
+                                                                      Beiring EA, Lasker HR (2000) Egg production by colonies of a
+range has resulted in a present condition where the depleted               gorgonian coral. Mar Ecol Prog Ser 196:169–177
+adult populations are facing reduced reproductive potential           Bowden-Kerby A (1997) Coral transplantation in sheltered habitats
+due to low adult density, limited genotypic diversity, and                 using unattached fragments and cultured colonies. Proc 8th Int
+potential lack of connectivity (Bruckner 2002). Thus, the                  Coral Reef Symp 2:2063-2068
+                                                                      Bowden-Kerby A (2001) Low-tech coral reef restoration methods
+establishment of reproductive coral thickets through active                modeled after natural fragmentation processes. Bull Mar Sci
+restoration appears to be a potentially viable option for                  69:915–931
+supplementing the natural recovery of this genus. To date,            Bruckner AW (ed) (2002) Proceedings of the Caribbean Acropora
+successful coral gardening projects have focused on the                    workshop: potential application of the US Endangered Species
+                                                                           Act as a conservation strategy. NOAA Tech Memo NMFSOPR-
+propagation of fast-growing branching coral species, ben-                  24, Silver Spring, MD
+efiting from the life-history characteristics of these taxa           Castanaro J, Lasker HR (2003) Effects of clipping on growth of
+that include fast growth and regeneration rates and natu-                  colonies of the Caribbean gorgonian Pseudopterogorgia elis-
+rally effective asexual propagation via fragmentation.                     abethae. Invertebr Biol 122:299–307
+                                                                      du Toit JT, Bryant JP, Frisby K (1990) Regrowth and palatability of
+These characteristics, shared by Caribbean acroporids                      Acacia shoots following pruning by African savanna browsers.
+(Highsmith 1982; Lirman and Fong 1997; Lirman 2000b),                      Ecology 71:149–154
+make this taxon a good candidate for coral gardening                  Edwards AJ, Clark S (1998) Coral transplantation: a useful manage-
+projects.                                                                  ment tool or misguided meddling? Mar Pollut Bull 37:474–487
+                                                                      Edwards AJ, Gomez ED (2007) Reef restoration concepts and
+   Acropora cervicornis has proven to be an excellent                      guidelines: making sensible management choices in the face of
+choice for nursery propagation. The growth of nursery-                     uncertainty. Coral reef targeted research and capacity building
+reared staghorn colonies’ (i.e., control colonies in this                  for management programme, St Lucia, Australia, 38 pp
+study) fragments [15.5 cm yr-1 (S.D. = ±3.9)] within the              Epstein N, Bak RPM, Rinkevich B (2001) Strategies for gardening
+                                                                           denuded coral reef areas: the applicability of using different
+Florida nursery exceeded the growth recorded for wild A.                   types of coral material for reef restoration. Rest Ecol 9:432–442
+cervicornis in the Florida Keys (10.9 cm yr-1) using sim-             Epstein N, Bak RPM, Rinkevich B (2003) Applying forest restoration
+ilar methods as documented previously by Shinn (1966).                     principles to coral reef rehabilitation. Aquat Conserv: Mar
+Moreover, the collection of small branch tips appears to be                Freshw Ecosys 13:387–395
+                                                                      Forsman ZH, Rinkevich B, Hunter CL (2006) Investigating fragment
+a viable option for the propagation of staghorn coral. The                 size for culturing reef-building corals (Porites lobata and
+fast recovery of lesions and the linear extension rates of                 P. compressa) in ex situ nurseries. Aquaculture 261:89–97
+fragmented branches indicate that minimum damage is                   Herlan J, Lirman D (2009) The development of a coral nursery
+inflicted on the donor colonies and that these damaged                     program for the threatened coral Acropora cervicornis in
+                                                                           Florida. Proc 11th Int Coral Reef Symp 1244-1249
+colonies are able to shift resources toward rapid regrowth.           Highsmith RC (1982) Reproduction by fragmentation in corals. Mar
+   Finally, while this study has identified branch-tip col-                Ecol Prog Ser 7:207–226
+lection as a viable propagation methodology, it is not yet            Hughes TP, Connell JH (1987) Population dynamics based on size or
+known whether the extraction of [2 branch tips from                        age? A reef-coral analysis. Am Nat 129:818–829
+                                                                      Karlson RH (1988) Size-dependent growth in two zoanthid species: a
+colonies may indeed result in a significant source of mor-                 contrast in clonal strategies. Ecology 69:1219–1232
+tality and reduced growth and fecundity to the parent col-            Lasker HR, Boller ML, Castanaro J, Sánchez JA (2003) Determinate
+onies. It is expected that thresholds exist for the maximum                growth and modularity in a gorgonian octocoral. Biol Bull 205:
+extraction of biomass from parent colonies before irre-                    319–330
+                                                                      Lirman D (2000a) Lesion regeneration in the branching coral
+versible damage is caused, but this is a knowledge gap that                Acropora palmata: effects of colonization, colony size, lesion
+needs to be filled before comprehensive collection guide-                  size, and lesion shape. Mar Ecol Prog Ser 197:209–215
+lines for Acropora cervicornis are developed by manage-               Lirman D (2000b) Fragmentation in the branching coral Acropora
+ment agencies charged with the protection and expansion                    palmata (Lamarck): growth, survivorship, and reproduction of
+                                                                           colonies and fragments. J Exp Mar Biol Ecol 251:41–57
+of these keystone and threatened coral resources.                     Lirman D, Fong P (1997) Patterns of damage to the branching coral
+                                                                           Acropora palmata following Hurricane Andrew: damage and
+Acknowledgments This research was supported by Counterpart                 survivorship of hurricane-generated recruits. J Coast Res 13:67–72
+International, the Frohring Foundation, the Nature Conservancy, and   NMFS (2006) Endangered and threatened species: final listing
+the NOAA Restoration Center, U.S. Department of Commerce, with             determinations for Elkhorn coral and Staghorn coral. Fed Regist
+funding from the American Recovery and Reinvestment Act (Award             71:26852–26861
+#NA09NFF4630332). The statements, findings, conclusions, and          Okubo N, Taniguchi H, Motokawa T (2005) Successful methods for
+recommendations are those of the authors and do not necessarily            transplanting fragments of Acropora formosa and Acropora
+reflect the views of Counterpart International, the Frohring               hyacinthus. Coral Reefs 24:333–342
+
+
+
+123
+Coral Reefs (2010) 29:729–735                                                                                                                735
+
+Okubo N, Motokawa T, Omori M (2007) When fragmented coral                  Shafir S, Rinkevich B (2008) The underwater silviculture approach
+    spawn? Effect of size and timing on survivorship of fragmen-                for reef restoration: an emergent aquaculture theme. In: Schwartz
+    tation in Acropora formosa. Mar Biol 151:353–363                            SH (ed) Aquaculture research trends. Nova Science Publishers,
+Precht WE (2006) Coral reef restoration handbook. CRC Press, Boca               New York, pp 279–295
+    Raton, Florida                                                         Shafir SJ, Van Rijn J, Rinkevich B (2001) Nubbing of coral colonies:
+Raymundo LJ, Maypa AP (2004) Getting bigger faster: mediation of                a novel approach for the development of island broodstocks.
+    size-specific mortality via fusion in juvenile coral transplants.           Aquacult Sci Cons 3:183–190
+    Ecol Appl 14:281–295                                                   Shinn EA (1966) Coral growth-rate, and environmental indicator.
+Rinkevich B (1995) Restoration strategies for coral reefs damaged by            J Paleontol 40:233–240
+    recreational activities: the use of sexual and asexual recruits.       Smith LD, Hughes TP (1999) An experimental assessment of
+    Rest Ecol 3:241–251                                                         survival, re-attachment and fecundity of coral fragments. J Exp
+Rinkevich B (2000) Steps toward the evaluation of coral reef restoration        Mar Biol Ecol 235:147–164
+    by using small branch fragments. Mar Biol 136:807–812                  Yap HT, Alvarez RM, Custodio HM III, Dizon RM (1998)
+Rinkevich B (2006) The coral gardening concept and the use of                   Physiological and ecological aspects of coral transplantation.
+    underwater nurseries; lesson learned from silvics and silvicul-             J Exp Mar Biol Ecol 229:68–84
+    ture. In: Precht WF (ed) Coral reef restoration handbook. CRC
+    Press, Boca Raton, Florida, pp 291–301
+
+
+
+
+                                                                                                                                     123
+

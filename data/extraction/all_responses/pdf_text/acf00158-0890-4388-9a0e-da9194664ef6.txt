@@ -1,0 +1,287 @@
+Coral Reefs (2021) 40:289–293
+https://doi.org/10.1007/s00338-020-02025-2
+
+    NOTE
+
+
+
+Thermal history influences lesion recovery of the threatened
+Caribbean staghorn coral Acropora cervicornis under heat stress
+Madeline L. Kaufman1 • Emily Watkins1 • Ruben van Hooidonk2,3 •
+Andrew C. Baker1 • Diego Lirman1
+
+
+
+
+Received: 27 May 2020 / Accepted: 30 October 2020 / Published online: 19 January 2021
+Ó Springer-Verlag GmbH Germany, part of Springer Nature 2021
+
+
+Abstract Anthropogenic climate change is the biggest                  temperatures, and incorporate assisted relocation by mov-
+threat to coral reefs, but reef restoration efforts are buying        ing corals from warmer to cooler reefs, where they might
+time for these ecosystems. Lesion recovery, which can be a            succeed under future climate conditions.
+determinant of colony survival, is particularly important for
+restored species. Here, we evaluate lesion recovery of 18             Keywords Acropora  Coral restoration  Local
+genets of Acropora cervicornis from Florida reefs with                adaptation  Lesion recovery  Thermal tolerance
+different thermal regimes in a temperature challenge
+experiment. Genets demonstrated significant variability in
+healing, which greatly slowed under heat stress. Only 35%             Introduction
+of fragments healed at 31.5 °C compared to 99% at 28 °C.
+Donor reef thermal regime significantly influenced lesion             Coral reef ecosystems are experiencing unprecedented
+recovery under heat stress with corals from warmer reefs              declines caused by interacting stressors that include pol-
+demonstrating greater healing than corals from cooler                 lution, overfishing, diseases, and anthropogenic climate
+reefs, but did not influence recovery under ambient con-              change (Harborne et al. 2016). At global scales, high sea-
+ditions. These findings should encourage practitioners to             water temperatures have led to increases in the extent,
+utilize rapidly healing genets, avoid fragmentation in high           frequency, and duration of coral bleaching events that have
+                                                                      affected even the most protected reefs (Eakin et al. 2019).
+                                                                      The Caribbean acroporids have undergone severe popula-
+Topic Editor Steve Vollmer                                            tion declines of 80–90% since the 1970s or earlier, due to
+                                                                      human pressures and a severe disease outbreak (Aronson
+Electronic supplementary material The online version of this          and Precht 2001; Cramer et al. 2020). With limited popu-
+article (https://doi.org/10.1007/s00338-020-02025-2) contains sup-
+plementary material, which is available to authorized users.          lation recovery, active coral propagation and reef restora-
+                                                                      tion have become common tools used to help restore these
+& Madeline L. Kaufman                                                 taxa, particularly staghorn coral (Acropora cervicornis),
+  madeline.kaufman@rsmas.miami.edu
+                                                                      and their associated ecosystem services (Young et al.
+1
+     Department of Marine Biology and Ecology, Rosenstiel             2012).
+     School of Marine and Atmospheric Science, University of             As many restoration programs focus on the asexual
+     Miami, 4600 Rickenbacker Causeway, Miami, FL 33149,              propagation of branching corals, it is important to identify
+     USA
+                                                                      individuals with favorable traits that can be selectively
+2
+     Cooperative Institute for Marine and Atmospheric Studies,        propagated to maximize success and enhance the climate
+     Rosenstiel School of Marine and Atmospheric Science,
+                                                                      resilience of restored coral populations (Lirman and
+     University of Miami, 4600 Rickenbacker Causeway, Miami,
+     FL 33149, USA                                                    Schopmeyer 2016; National Academies of Sciences,
+3                                                                     Engineering, and Medicine 2018). Phenotypic traits pro-
+     Ocean Chemistry and Ecosystems Division, NOAA Atlantic
+     Oceanographic and Meteorological Laboratory, 4301                posed by Baums et al. (2019) to evaluate genotype per-
+     Rickenbacker Causeway, Miami, FL, 33149, USA                     formance include: (1) partial mortality; (2) lesion healing;
+
+
+                                                                                                                        123
+290                                                                                              Coral Reefs (2021) 40:289–293
+
+
+(3) growth rates; (4) bleaching and disease resistance; and      Materials and methods
+(5) sexual reproduction. Life-history attributes such as
+mortality and growth (Lirman et al. 2014), disease resis-        We collected 18 staghorn genets from reefs span-
+tance (Miller et al. 2019), bleaching resistance (Lohr and       ning [ 100 km of the Florida Reef Tract and cultivated
+Patterson 2017), and fecundity (Vargas-Angel et al. 2006)        them under common-garden conditions in an in-water coral
+have been well studied for staghorn coral. While examined        nursery off Key Biscayne, Miami, Florida, USA (25.676°
+in congener Acropora palmata (Bak 1983; Meesters and             N, 80.098° W; depth = 9 m, Fig. 1) for 2–6 years. Colo-
+Bak 1995; Lirman 2000), to date, patterns and drivers of         nies were collected from distances exceeding the 500 km
+lesion recovery, including variation by genotype, have not       threshold used to ensure distinct genets (Vollmer and
+been evaluated for A.cervicornis, representing a research        Palumbi 2007). Within reefs, colonies were collected with
+gap that is addressed in our study.                              a minimum separation of 5 m, exceeding the distance
+   Wound healing is of particular interest because lesions       documented by Drury et al. (2016) for distinct genets
+are created throughout the coral gardening process and           within close aggregations. We then assessed lesion healing
+during frequent natural fragmentation events. Healing            rates under control and elevated-temperature conditions in
+reduces the likelihood of colonization by algae, borers, and     a laboratory experiment. Ten 5-gallon aquaria equipped
+pathogens that can cause mortality (Highsmith 1982).             with pumps and air bubblers were used as experimental
+Thus, identifying genotypes with greater recovery potential      units and were allocated between two large tanks
+that can be outplanted at locations where corals are more        (2 9 0.75 9 0.25 m). Heaters placed within one of the
+prone to fragmentation, such as areas with high wave             large tanks were used to reach the desired high tempera-
+energy, is a pressing restoration need. Also, since thermal      ture for treatment corals. Replicate fragments of each genet
+stress can slow or suspend lesion recovery (Meesters and         were collected from the coral nursery, mounted onto
+Bak 1993; Bonesso et al. 2017), it is important to evaluate      acrylic pucks, and allowed to acclimate for two weeks at
+the effect of high temperature on lesion repair to under-        ambient temperatures in the laboratory. Fragments (N = 5
+stand how performance might vary seasonally or under             per genet per treatment) contained an apical polyp and
+ocean warming scenarios.                                         were 2.66 ± 0.40 cm and 2.82 ± 0.31 cm (mean ± SD)
+   Novel interventions, such as managed relocation and           in total linear extension (TLE) for control and heated
+assisted gene flow, are currently being explored to enhance      corals, respectively. These fragments were randomly
+the climate resilience of reef restoration efforts (National     assigned to the aquaria with each genet present in each of
+Academies of Sciences, Engineering, and Medicine 2018).          the 10 aquaria, and fragment and aquaria positions were
+Managed relocation requires that phenotypes of interest          rotated every other day. Water changes were made every
+depend on fixed (genetic) effects that will allow these          day using filtered seawater pre-heated to the desired tem-
+corals to maintain attributes after relocation. Some coral       perature. Corals were fed every other day with Reef Chili.
+traits, such as thermal tolerance, are commonly associated          Skeletal lesions were created by removing fragment tips
+with symbiont identity (Silverstein et al. 2017), but stag-      with a band saw. Lesion areas were 0.35 ± 0.19 cm2 and
+horn in Florida typically only host Symbiodinium fitti           0.32 ± 0.15 cm2 (mean ± SD) for control and heated
+(Lirman et al. 2014). Consequentially, variation in the          corals, respectively. The following day, the temperature of
+performance of this species in Florida is usually attributed     the exposure tank was raised daily by 0.5 °C increments,
+to acclimatization or adaptation of the coral host. Previous     from 28 °C to 31.5 °C over 7 days, and then maintained at
+research has found that colonies collected from different        31.5 °C (32.03 ± 0.48 °C (mean ± SD)). The ambient
+reef environments maintain differences in growth (Lirman         tank remained at 28.02 ± 0.27 °C (mean ± SD) through-
+et al. 2014) and disease resistance (Miller et al. 2019) after   out the experiment. Corals were surveyed every other day
+relocation to common garden conditions. Here, we used a          following lesion generation, and the amount of lesion
+temperature challenge experiment to evaluate patterns of         healed was classified visually in 25% increments, from 0 to
+lesion recovery among staghorn genets that were originally       100% healed (Fig. 2). To avoid excessive mortality, the
+collected from a wide range of environments across the           experiment was terminated when no additional fragments
+Florida Reef Tract that vary in their thermal regime. We         within the warm tank were observed to heal for one week.
+hypothesized that colonies from warmer environments                 Pearson Chi-square tests were used to test for indepen-
+would be able to heal lesions more rapidly under heat            dence of the frequency of colonies healed by tempera-
+stress. Such findings would support the movement of              ture treatment. To evaluate the role of thermal history in
+genotypes from warmer reefs to cooler restoration sites that     performance under temperature stress, we divided the
+are expected to warm with anticipated climate change.            genets into two groups based on the maximum monthly
+                                                                 mean temperatures (MMMs) of the source reefs. MMM
+
+
+
+123
+Coral Reefs (2021) 40:289–293                                                                                                                   291
+
+
+
+
+Fig. 1 a Key Biscayne Nursery and donor reef locations. Circle colors     very high-resolution radiometer (AVHRR) Pathfinder version 5.0 from
+correspond to donor reef 4-km resolution maximum monthly mean             1982 to 2008. The Florida Reef Tract is outlined in black, and donor reef
+(MMM) sea surface temperature data in which red indicates an              locations are indicated by black X’s. The dashed horizontal line indicates
+MMM C 29.92 °C and blue indicates an MMM \ 29.92 °C. b MMM                the geographic location of the temperature grouping threshold, which is
+sea surface temperatures derived from harmonic analysis of the advanced   also the location of the ‘‘Safety Valve’’ tidal flow channels
+
+
+
+
+Fig. 2 Incremental lesion healing scoring system including a 0% healed; b 25% healed; c 50% healed; d 75% healed; and e 100% healed
+fragments
+
+data were determined from 4-km resolution monthly sea                     which all ‘‘cool’’ genets are located and south of which all
+surface temperature climatology derived from harmonic                     the ‘‘warm’’ genets are located (Fig. 1). While corals were
+analysis of the advanced very high-resolution radiometer                  collected outside the period used to calculate historical
+(AVHRR) Pathfinder version 5.0 temperature time series                    temperature patterns (2014–2018), it is expected that the
+data for 1982–2008 (Casey et al. 2010). Genets from reefs                 temporal offset (maximum of 10 years) would not have
+with MMMs C 29.92 °C, the median MMM of the dataset                       resulted in a significant change in regional climatology of
+considering all fragments, were classified as from ‘‘warm’’               temperature patterns. We constructed a Cox proportional
+environments (10 genets), and those from reefs with lower                 hazards model using the package ‘‘survival’’ in R version
+MMMs were classified as from ‘‘cool’’ environments (8                     1.3.959, with temperature treatment (ambient vs. heated)
+genets). 29.92 °C also represents the MMM at the southern                 and donor reef grouping (warm vs. cool) as fixed effects,
+end of the ‘‘Safety Valve,’’ series of tidal flow channels                and the response event being complete lesion recovery. We
+between the Ragged Keys and Key Biscayne, north of                        stratified the model by temperature treatment because this
+
+
+
+                                                                                                                                       123
+292                                                                                                    Coral Reefs (2021) 40:289–293
+
+
+covariate violated the proportional hazards function             healing than corals from cooler reefs under heat stress,
+assumption, and we included an interaction between tem-          with a 1.74 times greater Cox proportional hazard rate
+perature treatment and thermal history group because this        where the hazard event is healing (ß = 0.55, Z1,81 = 1.89,
+interaction     significantly   improved        the     model    p = 0.05), while there was no apparent effect of thermal
+  2
+(v 1,163 = 25.1, p \ 0.05). Because of this stratification and   history under ambient conditions (Fig. 3, Online Resource
+interaction, we determined model coefficients for treatment      2). Increased thermal tolerance of individuals from warmer
+groups separately (Kleinbaum and Klein 2012). To com-            and variable reef environments has been documented in
+pare genet performance between temperature treatments,           other coral species and regions. Morikawa and Palumbi
+we examined the quantile rank of each genet within               (2019) found colonies collected from warmer environments
+treatment groups based on proportion of colonies healed          maintained heat tolerance after 8 months in a common
+12 days after wounding. We also conducted a Kendall rank         garden in American Samoa. Kenkel et al. (2013) found
+correlation test between genet proportions healed under          colonies that were collected from an inshore reef exposed
+ambient temperatures versus under heat stress.                   to temperature extremes in the Florida Keys maintained
+                                                                 thermal tolerance in a laboratory experiment with no
+                                                                 common-garden phase and linked these differences to
+Results and discussion                                           significant genetic divergence.
+                                                                    Our results suggest that sourcing colonies from warmer
+Our laboratory experiment showed that thermal stress has a       reefs and outplanting them into cooler environments that
+strong negative influence on the recovery of skeletal            may experience temperature increases in the future would
+lesions in A.cervicornis. By the end of the experiment           enhance lesion recovery under heat stress and could be
+(24 days), 64% more fragments had healed under ambient           incorporated into strategies to increase climate resilience.
+temperatures than under heat stress (v21,164 = 74.66,            We also recommend avoiding fragmentation when seawa-
+p \ 0.001). While colonies exposed to the heat treatment         ter temperatures near the species’ bleaching threshold.
+were observed to pale, none of the fragments fully               However, when fragmenting under stressful thermal con-
+bleached, and colonies within the control group did not          ditions, practitioners can increase the likelihood of lesion
+show signs of color loss. Our findings agree with those of       recovery by selecting genotypes sourced from warmer
+Meesters and Bak (1993) who showed that corals suspend           environments. Lastly, we recommend that restoration
+lesion recovery under bleaching conditions.                      practitioners identify rapid healers through lesion recovery
+   Lesion healing rate varied significantly among genets         tracking and outplant these genotypes in higher abundance
+under ambient conditions (F17,81 = 2.66, p \ 0.01), but not      at restoration sites where colonies are more vulnerable to
+among genets under heat stress because many fragments            fragmentation. However, tradeoffs between regeneration
+failed to heal. The proportion of colonies healed by genet       and other valuable traits such as disease resistance need to
+after 14 days ranged from 0 to 100% under ambient tem-           be identified and taken into consideration when selecting
+peratures and 0–60% under heat stress. We did not observe        for this particular phenotype. Due to the importance of
+a significant correlation in performance by genet between        lesion recovery for colony survivorship, particularly in
+proportion of colonies healed under control and warm
+conditions, indicating a lack of clear winners (genets that
+heal fast under any condition) and losers (genets that
+consistently heal slowly) (T16,18 = 0.47). Nevertheless,
+some genets did well in both treatments (North Midchan-
+nel-B, B-AC, and Marker 9), while a couple of genets did
+poorly in both treatments (Stagreef-B and Yung’s-B.),
+suggesting that practitioners should evaluate genotypes
+within multiple environments (and not only within single
+coral nurseries) to select individuals for restoration pur-
+poses (Online Resource 1).
+                                                                 Fig. 3 Log(-log(survival)) curves as a function of time (log scale)
+   In addition, we document for the first time that donor
+                                                                 using separate Cox proportional hazard models for the ambient
+reef thermal history plays a role in efficient lesion recovery   temperature treatment (solid lines) and the warm temperature
+under heat stress and provide evidence for thermal adap-         treatment (dashed lines), with thermal history (red indicating being
+tation. There was a significant interaction between tem-         from a warm reef and blue being from a cool reef) as a fixed effect. In
+                                                                 this experiment, survival is analogous to not healing, the censored
+perature treatment and thermal history in the stratified Cox
+                                                                 outcome. Negative log-log values indicate a higher survival proba-
+model (ß = 0.52, Z1,164 = 2.18, p \ 0.05). Corals from           bility or higher probability of not healing, while higher log–log values
+warmer donor reefs demonstrated significantly greater            indicate a greater probability of healing
+
+
+123
+Coral Reefs (2021) 40:289–293                                                                                                             293
+
+
+species that are routinely pruned for restoration such as              Kenkel CD, Goodbody-Gringley G, Caillaud D, Davies SW, Bartels
+A.cervicornis, we recommend that practitioners prioritize                   E, Matz MV (2013) Evidence for a host role in thermotolerance
+                                                                            divergence between populations of the mustard hill coral
+examining and exploiting this phenotype within their                        (Porites astreoides) from different reef environments. Mol Ecol
+restoration programs.                                                       22:4335–4348
+                                                                       Kleinbaum DG, Klein M (2012) The stratified Cox procedure.
+Acknowledgements We would like to thank D. Hesley, M.                       Survival analysis. Springer-Verlag, New York, pp 173–210
+D’Alessandro, N. Rivas, J. Unsworth, and J. Carrick for their con-     Lirman D (2000) Lesion regeneration in the branching coral Acropora
+tributions to this project. This project was funded by NOAA’s               palmata: effects of colonization, colony size, lesion size, and
+Restoration Center (award OAA-NMFS-HCPO-2016-2004840).                      lesion shape. Mar Ecol Prog Ser 197:209–215
+Corals were collected under Florida’s Fish and Wildlife Commission     Lirman D, Schopmeyer S (2016) Ecological solutions to reef
+Permit SAL-19-1794-SCRP. MMM data were provided by GHRSST                   degradation: optimizing coral reef restoration in the Caribbean
+and the NOAA National Centers for Environmental Information.                and Western Atlantic. PeerJ 4:e2597. https://doi.org/10.7717/
+                                                                            peerj.2597
+Compliance with ethical standards                                      Lirman D, Schopmeyer S, Galvan V, Drury C, Baker AC, Baums IB
+                                                                            (2014) Growth dynamics of the threatened Caribbean staghorn
+Conflict of interest On behalf of all authors, the corresponding            coral Acropora cervicornis: influence of host genotype, symbiont
+author states that there is no conflict of interest.                        identity, colony size, and environmental setting. PLoS ONE
+                                                                            9:e107253. https://doi.org/10.1371/journal.pone.0107253
+                                                                       Lohr KE, Patterson JT (2017) Intraspecific variation in phenotype
+                                                                            among nursery-reared staghorn coral Acropora cervicornis
+                                                                            (Lamarck, 1816). J Exp Mar Biol and Ecol 486:87–92
+References                                                             Meesters EH, Bak RPM (1993) Effects of coral bleaching on tissue
+                                                                            regeneration potential and colony survival. Mar Ecol Prog Ser
+Aronson RB, Precht WF (2001) The ecology and etiology of newly              96:189–198
+    emerging marine diseases. Hydrobiologia 460:25–38                  Meesters EH, Bak RPM (1995) Age-related deterioration of a
+Bak RPM (1983) Neoplasia, regeneration and growth in the reef-              physiological function in the branching coral Acropora palmata.
+    building coral Acropora palmata. Mar Biol 77:221–227                    Mar Ecol Prog Ser 121:203–209
+Baums IB, Baker AC, Davies SW, Grottoli AG, Kenkel CD, Kitchen         Miller MW, Colburn PJ, Pontes E, Williams DE, Bright AJ, Serrano
+    SA, Kuffner IB, LaJeunesse TC, Matz MV, Miller MW,                      XM, Peters EC (2019) Genotypic variation in disease suscep-
+    Parkinson JE, Shantz AA (2019) Considerations for maximizing            tibility among cultured stocks of elkhorn and staghorn corals.
+    the adaptive potential of restored coral populations in the             PeerJ 7:e6751. https://doi.org/10.7717/peerj.6751
+    western Atlantic. Ecol Appl 29. https://doi.org/10.1002/eap.1978   Morikawa MK, Palumbi SR (2019) Using naturally occurring climate
+Bonesso JL, Leggat W, Ainsworth TD (2017) Exposure to elevated              resilient corals to construct bleaching-resistant nurseries. Proc
+    sea-surface temperatures below the bleaching threshold impairs          Natl Acad Sci USA 116:10586–10591
+    coral recovery and regeneration following injury. PeerJ 5:e3719.   National Academies of Sciences, Engineering, and Medicine (2018)
+    https://doi.org/10.7717/peerj.3719                                      A research review of interventions to increase the persistence
+Casey KS, Brandon TB, Cornillon P, Evans R (2010) The past,                 and resilience of coral reefs. Washington DC: The National
+    present, and future of the AVHRR Pathfinder SST Program.                Academies Press. https://doi.org/10.17226/25279
+    Oceanography from space. Springer, Dodrecht, pp 273–287            Silverstein RN, Cunning R, Baker AC (2017) Tenacious D: symbio-
+Cramer KL, Jackson JBC, Donovan MK, Greenstein BJ, Korpanty                 dinium in clade D remain in reef corals at both high and low
+    CA, Cook GM, Pandolfi JM (2020) Widespread loss of                      temperature extremes despite impairment. J Exp Biol
+    Caribbean acroporid corals was underway before coral bleaching          220:1192–1196
+    and disease outbreaks. Sci Adv 6:eaax9395. https://doi.org/10.     Vargas-Angel B, Colley SB, Hoke SM, Thomas JD (2006) The
+    1126/sciadv.aax9395                                                     reproductive seasonality and gametogenic cycle of Acropora
+Drury C, Dale KE, Panlilio JM, Miller SV, Lirman D, Larson EA,              cervicornis off Broward County, Florida, USA. Coral Reefs
+    Bartels E, Crawford DL, Oleksiak MF (2016) Genomic variation            25:110–122
+    among populations of threatened coral: Acropora cervicornis.       Vollmer S, Palumbi SR (2007) Restricted gene flow in the Caribbean
+    BMC Genom 17. https://doi.org/10.1186/s12864-016-2583-8                 staghorn coral Acropora cervicornis: implications for the
+Eakin C, Sweatman H, Brainard R (2019) The 2014–2017 global-                recovery of endangered reefs. J Hered 98:40–50
+    scale coral bleaching events: insights and impacts. Coral Reefs    Young CN, Schopmeyer SA, Lirman D (2012) A review of reef
+    38:539–545                                                              restoration and Coral propagation using the threatened genus
+Harborne AR, Rogers A, Bozec YM, Mumby PJ (2016) Multiple                   Acropora in the Caribbean and western Atlantic. Bull Mar Sci
+    stressors and the functioning of coral reefs. Ann Rev Mar Sci           88:1075–1098
+    9:445–468
+Highsmith RC (1982) Reproduction by fragmentation in corals. Mar       Publisher’s Note Springer Nature remains neutral with regard to
+    Ecol Prog Ser 7:207–226                                            jurisdictional claims in published maps and institutional affiliations.
+
+
+
+
+                                                                                                                                  123
+

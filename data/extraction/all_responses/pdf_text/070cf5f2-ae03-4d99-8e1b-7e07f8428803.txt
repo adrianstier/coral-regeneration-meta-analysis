@@ -1,0 +1,208 @@
+490                                                                                                                                         Nature Vol. 261 June JO 1976
+
+                 25                                                                      the rate of skeletal regeneration in a population of the branched
+                                                                                         coral Stylophora pistillata (Esper) is surprisingly fast. During
+                                                                                         the first 2 months of regeneration, damaged colonies grew twice
+         ,--_
+                 20
+         8                                                                               as fast as intact control colonies. Within the same colony,
+         3                                                                               damaged branches grew faster than intact branches, which
+         .....   15                                                                      resulted in a tendency to regain symmetry lost through
+          C:
+         11)
+
+         8                                                                               breakage. Larger colonies showed a better capacity to resist
+         11)
+          u      10                                                                      damage than smaller colonies.
+          cs:!                                                                              Stylophora pistillata is one of the most important scleractinian
+         0..                                                                             corals in the Gulf of Eilat 12 because of its abundance and major
+          "'
+         i5                                                                              contribution to the reef framework 13 • Seventy colonies of
+                                                                                         S. pistillata, growing in shallow water (3-4 m deep) at Eilat,
+                  0                                                                      were damaged by breaking some of their branches with a diver's
+                                                                                         knife. All damaged colonies were numbered by means of plastic
+                                                                                         tags and photographed before and after breakage, as well as
+         ,--_                                     Light off                              during recovery. The growth raie of approximately 200 intact
+         I
+                 0.5
+                                                      t                                  colonies studied previously in the same area 14 served as a control
+
+         ·a
+          C:                                                                             for comparative analysis. The study lasted from August 11
+                                          0 0                                            1974 to October 12 1975. The length, width and height of each
+          8                                                                              colony were measured under water every 2-3 months. Length is
+         3 0.3                                                                           defined as the distance across a coral between the tips of
+         ~                                                                               branches which are farthest apart; width is a measure perpendi-
+         ·u                                                                              cular to the length axis; height is orthogonal to the width and
+          0
+         v 0.1                                                                           length axes. Since the shape of S. pistillata approximates a
+         :>                                                                              sphere, the colonies were divided into size groups, according to
+                                                                                         the geometric mean of their radius, r (Fig. 1).
+                                               40                       80                  The initial response of the coral to breakage was to cover the
+                                            Time (min)                                   exposed areas rapidly with living tissue to prevent settlement of
+                                                                                          fouling organisms. Fishelson" found that after a catastrophic
+  Fig. 4 Phototropic displacement undergone by a point 3.5 cm                            low tide that caused partial desiccation or death of many
+  from the base of a 4.2-cm high plant in response to 0.02 mW cm- 2 ,                    colonies of Red Sea scleractinian corals, regeneration in
+  450 nm blue light from a monochromator. Before I - 5 min the
+  stapelia was undergoing a small constant motion in darkness.
+  The blue light stimulus was applied at t = 5 min and removed at
+  t = 50 min. a, Total tip displacement; b, tip velocity. The points                        Fig. I Skeletal growth rate in damaged colonies of S. pistillata.
+  are experimentally determined, whereas the lines represent the                            The corals were divided into size groups according to their
+  best fit assuming the velocity data are of the form l -e- 0 · 2 ' on                      geometric mean radius (r) after breakage. (i' = (Ix w x h) 11 "/2
+         stimulus application and e- 0 · " on stimulus removal.                             where/ is length, w is width, and his height (cm).) The r of each
+                                                                                            size group is given (in cm) by the height of the bars. The vertical
+                                                                                            lines in the middle of the bars represent the standard deviations.
+time frame. Thus, the data are of interest simply to their unique                           The horizontal broken line in the left bar of each size group
+nature. In addition, the results indicate an unexpectedly rapid                             represent r after breakage. The percentage decrease in ;: after
+                                                                                            breakage for each size group was 29.08, 19.46, 14.20 and 21.74
+response to phototropic stimuli by what might be considered a                               in order of smallest to largest size group. The estimated number
+sluggish plant. Perhaps the most important observation is the                               of days of growth (±s.d.) required to regain original r were
+unexpected conformity of the velocity data to an exponential                                 122±17, 67±7, 51±5 and 116±15 in order of smallest to
+function suggesting the applicability of a second order linear                              largest size group. The expected number of days of growth
+                                                                                            required to regain original r after 25 % breakage are 104+ 14,
+differential equation to plant movement analysis. Overall, the                              86 ± I0, 90 ± 9 and 133 + 17 in order of smallest to
+results obtained thus far suggest that the application of holo-                             largest size category. N, number of colonies measured. a,
+graphic interferometry to plant movement analysis will make                                 N = 11, i' - l.00-1.50; h, N = 14, r = 1.51-2.00; c, N = 16,
+possible more complete understanding of the mechanisms of                                                i' = 2.01-3.00; d, N = 10, r = 3.01-4.00.
+plant movement.
+                                                M. D. Fox                                              J.O       a
+                                                L. G. PUFFER
+School of Engineering,
+ University of Connecticut,
+Storrs, Connecticut 06268                                                                     ,-._
+
+                                                                                              ---,,,
+                                                                                              I"-
+
+Received August 11, 1975; accepted April 27, 1976.                                             ;::l
+
+ 1 Powell, R. L., and Stetson, K. A.,J. opt. Soc. Am., 55, 1593-1598 (1965).                  :aro
+ 2 Williams, G. T., Nature, 215, 1170(1967).                                                    h
+ J Sollid, J.E., Appl. Opt .• 8, 1587-1597 (I 969).                                           '-
+                                                                                                0
+                                                                                                :::
+                                                                                                ro
+                                                                                                11)
+
+                                                                                                au
+                                                                                              ·;::
+Skeletal regeneration in a                                                                     _,
+                                                                                                a0 so d
+                                                                                                11)
+
+Red Sea scleractinian coral population
+                                                                                                11)
+                                                                                                       ,o
+CORALS may be harmed by their natural enemies or by environ-                                   CJ lO -I
+mental conditions. The ability of scleractinian corals to
+                                                                                                       20
+regenerate damaged parts has been documented qualitatively
+                                                                                                       10
+by many investigators' - 10 , but detailed quantitative data on the
+                                                                                                       o.o O
+rate of regeneration have not been reported. Most reports                                                                 67      l-42          240        364
+                                                                                                             11.8.197..   17.10   1,11975       8.<4.      10.8   12.10.
+dealing with the destruction of coral reefs have emphasised the
+long time required for recovery 11 • I have found, however, that                                               Time of growth (d) and dates of measurement
+                                                                             © 1976 Nature Publishing Group
+Nature Vol. 261 June JO 1976                                                                                                                                             491
+
+                                                                                   significant differences were observed between the average
+                10         a                                                       growth rate of damaged and intact colonies (t tests, P > 0.05).
+   ..c:         i
+                                                                                   In general, the growth of both regenerating and intact colonies
+    i:0                                                                            slowed down during the winter (December to April).
+     E                                                                                Ninety per cent of the population exhibited accelerated
+     ..,....                                                                       growth at the damaged portions of the colony (compared with
+     a..
+   ,-_
+                                                                                   intact branches) as well as a tendency to regain symmetry lost
+   ____,
+   1"-                                                                             by breakage. Similar observations have been reported before 3 - 6 •
+   .5                                                                              This phenomenon suggests some integrated response between
+    ..,                                                                            the parts of a single colony 15 : individual polyps act syner-
+    "'...."'u
+      I!>                                                                          gistically to differentiate tissue and create edge zones of
+                                                                                   proliferation 16, and locally to accelerate skeletogenesis. The idea
+   .s                                                                              of integrated response is strengthened by evidence of transfer of
+       .c
+   O'.
+      i::· 100
+                                                                                   energy-rich organic products between adjacent parts of a
+                                                                                   colony 17 • Thus, Pearse and Muscatine17 suggested that translo-
+      "'..,                                                                        cated products of zooxanthellae may enhance calcification rates
+    ~
+                                                                                    in corals, by serving either as specific substrates in the organic
+                                                                                    matrix or as general energy sources.
+                     17. 101914
+                                                                                       I thank Mr Y. Schlezinger and Miss L. Horowitz for technical
+                                    Time (d) between measurements                   assistance. This research was supported by the United
+                                                                                    States-Israel Binational Science Foundation (BSF) Jerusalem,
+  Fig. 2 Comparison between the mean percentage increase in                         Israel.
+  geometric mean of radius (r) per month (6.i' %/month) of                                                                                                     Y. LOYA
+  damaged corals (black bars) and intact control corals, belonging
+  to the same size interval (blank bars). Average values of r, in                  Department of Zoology,
+  the different dates of measurements are given in Fig. I.                         The George S. Wise Center for Life Sciences,
+                                                                                   Tel Aviv University,
+                                    - 0//    h   30 (r, -r,_,) x 100
+                                  6 r /o mont =--z;;; - - ~                        Tel Aviv, Israel
+
+  where 6./ is time (d) between measurements.
+                                                                                    Received January 22; accepted April 14, 1976.
+  N,, Number of colonies measured in regenerating groups;
+  N 2 , number of colonies measured in intact control groups.                        1 Wood-Jones. F., Proc. wol. S oc. Lond., 518-556 (1907) .
+  a, r = 1.00- 1.50, N, = 11, N 2 = 23; b, r = 1.51-2.00, N, = 14,                   2 Edmonson, C.H., Bull. Bemice P. Bishop Mus .• S8, 1-38 (1929).
+  N. = 19; c, r = 2.01-3.00, N, = 16, N2 = 17; d, r = 3.01-4.00,
+                                                              0
+                                                                                     J Stephenson, T. A., and Stephenson, A., Sci. Rep. Gt Barrier Reef Exped., 3,
+                                                                                         167- 217 (1933).
+                                          N, = 10, N 2 = 9.                          4 Kawaguti, S., Palao trop. biol. Stn Stud., l, 209-216 (1937).
+                                                                                     s Kawakami, I., Pa/ao trop. biol. Stn Stud., 2, 147- 156 (1941).
+                                                                                     6 Stephenson, W .• Endean, R ., and Bennett, I., Aust. J. mar. Freshwat . Res., 9,
+                                                                                         261-318 (1958).
+                                                                                     7 Franzisket, L. . Int. Revue ge., . Hydrobio/., SS, 1-12 (1970).
+                                                                                     • Fishelson , L. , Mar. Biol., 19, 183-196 (1973).
+branched colonies started with reorganisation and reactivation                       , Maragos. J . E., thesis, Univ. Hawaii (1972).
+                                                                                    10 Shinn, E. A .. Coral Reef Reco very in Florida and in the Persian Gu//(Environment
+of the peripheral soft tissue along the line of destruction. The                         Conservation Department, Shell Oil Co., Houston, Texas, 1972).
+regenerated tissue grew over fouling algae, which had settled                       11 Stoddart , D . R., Biol. Rev., 44, 43.1-498 (1969).
+                                                                                    12 Loya, Y., and Slobodkin, L.B .• in Regional Variation in Indian Ocean Coral Reefs
+on the dead coral skeleton, resulting in a "sandwich structure",                         (edit. by Yonge, M .. and Stoddart, D.R.), 28, 117-139 (Academic, London
+in which the old skeleton and newly deposited skeleton engulfed                          and New York, 1971).
+                                                                                    13 Loya, Y., Mar . Biol .• 13, 100-123 (1972).
+the algae. According to Connell 15 , if tissue damage on a coral                    14 Loya. Y., Nature. 2S9, 478-480 (1976).
+                                                                                    1, Connell, J . H .• in Biology and Geology of Coral Reef< , 2 (edit. by Jones. O . A. , and
+surface is sufficiently large, recovery may not be rapid enough                          Endean , R .). 205-245 (Academic. New York and London, 1974).
+                                                                                    16 Roos, P. J.. Growth and O ccurrence of the Reef Co ral Po rites astreoides Lamarck
+to exclude colonisation by fouling organisms, that may                                   in Relation to Submarine Radiance Distribution (Drukkerij EHnkwijk, Utrecht,
+ultimately kill the coral. Fifty-one out of seventy damaged                              1967).
+                                                                                    17 Pearse, V. B .. and Muscatine. L., Biol. Bull., 141, 350-363 (1971).
+colonies survived throughout the study (Fig. I). Most of the
+smallest colonies (r < 1.00 cm), however, were covered by
+filamentous algae within a few days of being broken, and
+shortly afterwards they were dead. This confirms Connell's 15
+conclusions that larger colonies have a better capacity to resist
+invasion and damage than smaller ones of the same species.                          Persistence in continuous light
+   Figure I presents the extent of skeletal damage caused to
+each size category and the rate of regeneration and growth .                        of a circadian rhythm in the
+The percentage decrease in r of different size groups varied                        mosquito Cu/ex pipiens f atigans Wied.
+from 14 % to 29 %- Assuming linear growth between the periods
+when measurements were taken, and taking into account the                           8RADY 1 has discussed Truman's• hypothesis that circadian
+different standard deviations of r, within each size category                       clocks can be divided into two types: type I in which light
+(Fig. 1), I estimated the number of days of growth required by                      seems to act directly on the oscillator, stopping it in constant
+the damaged corals to attain their size before breakage (see                        light (LL); and type 2, in which the photoreceptor and oscillator
+legend to Fig. I). To compare the different size groups with                        are separate and the rhythm is free-running in LL. Typically, in
+respect to their capacity for skeletal regeneration, the expected                   insects, developmental events such as eclosion seem to be con-
+average number of days of growth to regain original size after                      trolled by the first type, and daily behavioural activities by the
+25 % breakage was calculated for each group (see legend to                          second 2 • In Diptera, however, behavioural rhythms seem to be
+Fig. I). The largest size group (r = 3.01-4.00 cm) required                         rapidly damped out by LL1; for example in the mosquito
+a significantly longer time to attain its original size than did any                Anopheles      gambiae,     the    'clock'  controlling      flight
+of the other groups (r tests, P < 0.05), which strengthens the                      activity seems to stop when the light phase is prolonged, and to
+assertion that this species grows more slowly as it ages 14 •                       restart at the next onset of darkness3, thus showing type I
+   Figure 2 compares the mean percentage increases in r per                         characteristics. Previously, the only known exception among
+month (M %/month) in the damaged corals and the intact                              the Diptera was Aedes aegypti, a light-active mosquito, in which
+control groups. During the first 2 months of regeneration, all                      the flight activity rhythm persists, rather weakly, in LL 4 • Here
+damaged corals grew twice as fast as the intact control corals.                     I show that circadian flight activity in the mosquito Culex
+After the damaged colonies had regained their original size, no                     pipiensfatigans Wied. persists in LL, although in other respects
+                                                                       © 1976 Nature Publishing Group
+

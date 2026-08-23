@@ -1,0 +1,343 @@
+ISSN 1063-0740, Russian Journal of Marine Biology, 2009, Vol. 35, No. 3, pp. 230–235. © Pleiades Publishing, Ltd., 2009.
+Original Russian Text © E.A. Titlyanov, T.V. Titlyanova, 2009, published in Biologiya Morya.
+
+
+
+                                                                           ECOLOGY
+
+
+     The Dynamics of the Restoration of Mechanical Damage
+     to Colonies of the Scleractinian Coral Porites lutea under
+   Conditions of Competition with Algal Settlers for Substratum
+                                                     E. A. Titlyanov and T. V. Titlyanova
+                     A.V. Zhirmunsky Institute of Marine Biology, Far East Division, Vladivostok, 690041 Russia
+                                                     e-mail: etitlyanov@mail.ru
+                                                                   Received November 20, 2008
+
+         Abstract—Natural and anthropogenic catastrophes in the last decades of the 20th century and at the beginning
+         of the new century have evoked significant changes in the biological diversity of coral reefs, viz., the mortality
+         of hermatypic scleractinian corals that are replaced by communities of marine algae and seaweeds. In this con-
+         nection, the study of the dynamics of algal colonization of a newly formed substratum and competition for the
+         substratum between hermatypic corals and algae is of topical interest. This paper describes the results of inves-
+         tigations conducted in 2003 at the Sesoko Marine Biological Station of Ryukyu University (Okinawa, Japan).
+         Colonies of the massive scleractinian coral Porites lutea were sampled from a fringing reef of Sesoko Island.
+         Damages were inflicted on the upper portions of the colonies, the damaged coral fragments were placed in
+         aquaria and maintained for six months under different light intensities in the absence of herbivorous and coral-
+         livorous animals. The experiments showed that under bright (70–90% of incident photosynthetically active
+         radiation, PAR0) and under moderate light (20–30% of PAR0), the damaged parts of colonies of about 25 cm2
+         were overgrown by newly formed polyps within six months. Under dim light (2–5% of PAR0), this period was
+         not sufficient for recovery from lesions. During the first month, the recovery rate of colonies was the highest
+         and depended on the physiological state of the corals and light intensity: in bright and moderate light it was two
+         times and more higher than under low light. During the subsequent months, the recovery rate was significantly
+         lower and depended mainly on the degree of overgrowth of dead portions with algae and on their species com-
+         position. Under bright and moderate light, algal colonization of damaged colonies started with the settling of
+         colonial and filamentous diatoms, cyanobacteria and green algae, followed by the formation of the algal turf
+         community. Communities of red calcareous crusts and fleshy algae were mainly formed on damaged corals
+         under low light. A comparison of experimental results showed that damaged colonies maintained in aquaria in
+         the absence of herbivorous and corallivorous animals recovered 1.5 times faster than in the sea. We hypothesize
+         that herbivorous fish have a negative rather than positive influence on the recovery of damaged colonies.
+
+         Key words: marine algae, damaged coral colonies, competition, recovery.
+         DOI: 10.1134/S1063074009030067
+
+
+    The catastrophic loss of species diversity of sclerac-                              green filamentous algae. The community of algal turf
+tinian corals and reduction of their distribution areas on                              widely distributed on coral reefs [11, 12, 17] forms on
+most coral reefs of the World Ocean in the last decades                                 colony lesions and coral pebbles under conditions of
+of the past century and at the beginning of the new mil-                                sufficient illumination during 6 months. At the same
+lennium, which were caused by natural and anthropo-                                     time, low illumination (2–5% of incident photosynthet-
+genic catastrophes [4, 5, 10, 13, 16] or by settlement of                               ically active radiation, PAR0) favors mainly the forma-
+marine plants on damaged reefs [7, 8, 9] made it                                        tion of monodominant communities of red calcareous
+urgently important to study the competitive relationship                                crustose algae, brown crustose algae, and green macro-
+between seaweeds and corals which ultimately deter-                                     phytes. The formation of these communities was
+mine the fate of damaged coral reefs [1, 14, 20, 21, 23].                               affected by the grazing of herbivorous and corallivo-
+    We have previously studied the dynamics and pecu-                                   rous fish. The first feed on specific algal species of the
+liarities of seaweed settling on mechanically damaged                                   growing communities or “cut” the plant cover, eating
+and dead colonies of the coral Porites lutea on the                                     young parts of the thalli [2, 3], and the others, such as
+fringing reef of Sesoko Island (Okinawa, Japan) and                                     parrot-fishes, scrape live tissues and the skeleton sur-
+investigated the pattern and the rate of regeneration of                                face (to 2–3 mm deep) off damaged coral colonies.
+this damage [24]. It has been shown that the first settlers                             Moreover, algae grown on wounds can be eaten by sea
+on damaged portions of coral colonies and on coral                                      urchins, crabs and mollusks; and the young regenerat-
+rolled fragments are cyanobacteria, diatomeans, and                                     ing tissue of corals is subject to grazing by the gastro-
+
+                                                                                   230
+                    THE DYNAMICS OF THE RESTORATION OF MECHANICAL DAMAGE                                              231
+
+pod mollusks Drupella spp. or Habromorula spinosa             illuminated) parts were taken for the experiment. The
+(these are of wide occurrence in Okinawa) and by the          corals colonies were injured by cutting at a right angle a
+sea stars Acanthaster spp. [15, 18, 25, 27, 28].              portion of the skeleton with tissues to obtain both vertical
+    The formation of algal communities over the surface       and horizontal surfaces. The total area of the wound was
+of damaged coral colonies in the absence of herbivo-          about 25 cm2 (figure, B). A total of three damaged frag-
+rous and corallivorous animals can be traced in two           ments were placed in each aquarium.
+ways: first, by isolating the damaged colonies from               The water temperature in the aquaria was 20–26°C in
+these animals with a fine net or, secondly, by placing        winter and spring in the day time and 18–24°C at night,
+the damaged colonies in an aquarium. But the first            in summer it was 28–31 and 26–28°C, correspondingly,
+method does not protect corals and algae from minor           i.e. the water temperature at night was 2–3°C lower and
+animals, while the second method changes the condi-           in the day time 1–2°C higher than in the sea. Water in the
+tions of coral existence still more drastically than the      aquaria was intensively aerated; water exchange was
+first one.                                                    maintained at about 30% per hour. Radiation on the sam-
+    To study the formation of algal communities on            ple surface was 70 to 90% PAR0 in the open aquaria and
+damaged coral colonies and to estimate the rate of            from 2 to 5 and from 20 to 30% PAR0 in aquaria covered
+regeneration of coral polyps under conditions of differ-      with a plastic net. The rates of restoration of the colonies
+ent illumination and in the absence of herbivorous and        or coral tissue regeneration were measured during the 1st
+corallivorous animals, we have chosen the method of           and the 3rd months of the experiment. The species vari-
+maintenance of corals in a run-through aquaria. With          ety of algae-settlers, the projective covering of the sub-
+this approach, the aquarium is supplied with natural sea      strate with algae and the density of algal populations
+water pumped from the nearby coral reef without filtra-       were analyzed after the 1st, the 3rd, and the 6th month of
+tion or previous settling, i.e. without significant           the experiment.
+changes of the important characteristics, such as tem-
+perature, content of nutrients or zooplankton concen-               Measurement of the Rate of Colony Recovery
+tration.
+    The aims of the study were: (1) to investigate the            To determine the rate of recovery from damage, the
+dynamics of algal settling on mechanically damaged            lesions of coral colonies were photographed with an
+colonies of the scleractinian coral Porites lutea under       Olympus C5050Z digital camera immediately after
+different conditions of illumination and in the absence       injury and in 1 and 3 months afterwards. In the print,
+of herbivorous and corallivorous animals; (2) to esti-        the distance was measured from the lesion center to the
+mate the pattern, dynamics and the rate of restoration of     edge of the live coral tissue. From six to ten measure-
+coral polyps on damaged surfaces of the colonies; and         ments were made and the mean rate of regeneration or
+(3) to elucidate the role of algae-settlers in restoration    the linear velocity of spreading of the healthy coral tis-
+of colonies after mechanical damage.                          sue over an injured surface was calculated. The mean
+                                                              rate and the standard deviation were calculated for
+                                                              three specimens (n = 3) based on these measurements.
+             MATERIAL AND METHODS
+               Area and Time of Research                      Determination of the Projective Covering of the Lesion
+    The experiments were carried out at the Sesoko               Surface with Algae, Analysis of the Algal Species
+Marine Biological Station (Sesoko Island, Okinawa,                         Composition, and Calculation
+Japan) in February–August of 2003. The materials for                          of the Population Density
+the experiment were collected on the fringing reef oppo-          The damaged colonies were photographed after the
+site the Sesoko Station (26°38′N, 127°52′E). The tem-         1st and the 3rd months of maintenance in the aquaria.
+perature of the surface water layers varied from 18 to        The projective covering of the substrate with algae
+24°N in winter, from 22 to 28°N in spring and from 24 to      were determined with the use of the “paper” and
+29°N in summer. The photosynthetically active radiation       “weight” methods [1]. Photographs of coral lesions
+falling on the water surface in a mid sunny day was 800–      were printed out on a dense thick paper of fine quality
+1400 µmol/(m2 s) in winter and 1100–1600 µmol/(m2 s) in       (Epson KA45OPM) with an enlargement to 3–5 times
+summer.                                                       the original size. The printed images of the dead part of
+                                                              the wound were cut out and weighed; the algal image
+                                                              was then cut out of the weighed photo fragment and also
+                Experimental Procedures                       weighed. The relative projective covering of the sub-
+    Specimens of massive colonies of the scleractinian        strate surface with algae was calculated by the formula:
+coral Porites lutea (Edwards and Haime 1860), 0.5–1 kg                             S = w2/w1 × 100,
+in weight (figure, A), were collected in shadow sites of
+the coral reef at a depth of 1.5–2.0 m and maintained in      where S is the relative projective covering of the sub-
+an aquarium overnight. Then the colonies were divided         strate with algae, in % of the total area of the wound
+in two halves using a hand saw, and the upper (evenly         fragment image; w1, the weight of the paper fragment
+
+   RUSSIAN JOURNAL OF MARINE BIOLOGY             Vol. 35     No. 3   2009
+232                                                 TITLYANOV, TITLYANOVA
+
+
+
+
+                                                              2 cm                                                                  5 mm
+   (A)                                                                  (B)
+
+
+
+
+                                                              2 mm                                                                  5 mm
+      (C)                                                               (D)
+
+   Regeneration of damaged colonies of the coral Porites lutea. A, one of the coral colonies used in the experiment; B, mechanically damaged
+   colony after 1 month of exposure to moderate illumination; C, regeneration of the damaged colony after 3 months of exposure to moderate
+   illumination in an aquarium (arrows showing algal communities hindering the healing of the lesions); D, a completely recovered colony
+   fragment after 6 months of maintenance at moderate illumination.
+
+
+with the image with wound surface; w2, the weight of                                            Statistical Analysis
+the paper piece with the image of algal settlers. The
+mean value and standard deviation were calculated on                         The statistical analysis was conducted with the use
+the basis of analysis of three specimens (n = 3).                        of the t-test. The differences were recognized as signif-
+    The community of algal settlers on coral lesions was                 icant at P < 0.05.
+studied under a light microscope. For this, the surface
+of a specimen was previously examined under a stereo-
+scopic binocular microscope and a small piece of the                                                 RESULTS
+macroalgal thallus or the microalgal colony was cut for
+taxonomical identification of the species under a light                      A total of 92 algal species were found on the frag-
+microscope. The population density of specimens of                       ments of damaged coral colonies. The relative content of
+the definite species within a community was deter-                       different algal orders was as follows: 9% Bacillariophyta
+mined visually at three different sites for each specimen                (B), 22% Cyanobacteria (C), 17% Chlorophyta (Ch),
+at random. The coral surface and lesions were con-                       13% Phaeophyta (Ph), and 39% Rhodophyta (Rh). After
+stantly wetted with seawater during the analysis. Each                   the first month of colonization, the projective covering of
+sample was examined no longer than 5 min.                                the surface of lesions with algae was from 3 to 7%. The
+                                                                         algae colonized inhabited only the dead portions of the
+                                                                         colony free of the coral tissue. After 3 months of mainte-
+               Irradiation Measurement                                   nance of the damaged colonies in the aquarium, the pro-
+   Irradiation of the water surface and the sample in                    jective covering of the damaged surfaces with algae
+aquaria (photosynthetically active radiation, PAR) was                   increased to 40–90% (figure, C). After 6 months of the
+measured with the use of a LiCor (LI-192 CB) photom-                     maintenance, the lesions were completely overgrown
+eter at 9:00–10:00, 13:00–14:00, and 17:00–18:00                         with coral polyps (figure, D) if the colony was exposed
+o’clock. The relative radiation (PAR) at the sample was                  to bright and moderate light, and partly overgrown in
+calculated as the percentage of the PAR0.                                dim light.
+
+                                                        RUSSIAN JOURNAL OF MARINE BIOLOGY                       Vol. 35     No. 3     2009
+                     THE DYNAMICS OF THE RESTORATION OF MECHANICAL DAMAGE                                             233
+
+    By the end of the 1st month of the exposure, a total                              DISCUSSION
+of 52 algal species were found on coral wounds: 41 spe-        Dynamics of Algal Colonization of Mechanical Injuries
+cies in bright light, 34 species in moderate light, and                             of Coral Colonies
+only 17 species in low light. The relative number of
+                                                                   In nature, algal overgrowth of coral colonies depends
+algae (first settlers) of different orders settled on the      mostly on the degree of damage of coral tissue or on the
+wounds was as follows: 13% (B), 28% (C), 14% (Ch),             physiological state of the tissue. Dead colonies (or their
+12% (Ph), and 33% (Rh) in bright light; 9% (B), 32% (C),       portions) are settled with algae immediately after dam-
+18% (Ch), 9% (Ph), and 32% (Rh) in moderate light; and         age [7, 24]. So, after the mass bleaching of corals on the
+22% (B), 17% (C), 11% (Ch), 22% (Ph), and 28% (Rh) in          Great Barrier Reef of Australia, all dead coral colonies
+low light. In bright and moderate light, the following spe-    (or colony parts) or those that lost most of zooxanthella
+cies dominated or were of frequent occurrence: Nitzs-          population were colonized by algae during 1–2 months,
+chia longissima, N. closterium, and N. seriata (B); Lep-       while the less damaged colonies were restored and were
+tolyngbya tenui and Calothrix sp. (C); Ulva clathrata          not subjected to algal colonization [7, 22]. As was shown
+                                                               earlier [22] and in the present study, algae cannot colo-
+and Derbesia marina (Ch); Hincksia mitchelliae (Ph);           nize mechanically damaged soft coral tissue of corals
+and Ceramium flaccidum (Rh). By the end of the                 (healthy before the injury), but immediately settle on dam-
+3rd month of the experiment, the number of algal spe-          aged skeletons (figure, C). So, mechanically damaged live
+cies settled on wounds at high illumination increased          tissue regenerates very quickly (during 2–4 weeks), with
+up to 60, of these 13% were identified as (B), 23% (C),        settled spores or algal fragments entombed into the skel-
+23% (Ch), 13% (Ph), and 28% (Rh). Under conditions             eton. According to our data, this happens in the range of
+of moderate illumination, 86 species were identified, of       illumination of 2 to 90% PAR0. However, algae settle on
+them 9% were (B), 24% (C), 16% (Ch), 13% (Ph), and             live tissue of coral polyps weakened by high tempera-
+38% (Rh). At low illumination, algal species were less         tures (coral bleaching) [7], by some diseases [19, 26] or
+                                                               negative allelopathic influences of other organisms
+numerous than at bright and moderate light: from               [9, 14, 20]. Weak polyps are unable to clean the surface
+42 algal species, 12% were (B), 17% (C), 5% (Nh),              of coral tissue from settled particles, including algal
+17% (Ph), and 9% (Rh). At the same time, we failed to          spores and fragments. Most frequently, the weakened
+find algae-first settlers, such as Lyngbya semiplena,          coral tissue is colonized by blue–green [7] or red algae,
+Calothrix contarenii (C), Herposiphonia secunda,               such as Centroceras clavulatum or Ceramium spp., with
+Spermothamnion sp. and Stylonema alsidii (Rh), or              their rhizoids penetrating into the live coral tissue [20].
+Cladophora vagabunda and Cladophora sp. (Nh). The              Immediately after damage to the coral, the dead portion
+coral lesions remained to be overgrown by algae that           of the wound becomes a favorable substrate for algal set-
+were recorded previously as dominant and frequently            tlement. In this case, the settled algal spores usually
+                                                               attach, not to a bare substrate, but to a film formed of
+occurring. As well, new dominants were recorded: Lyng-         mucus, coral tissue remains, and organic and inorganic
+bya majuscula, Oscillatoria sp., Spirulina subsalsa (N),       particles settled on its surface [6, 7, 9].
+Ulva compressa (Ch), and Polysiphonia sp. (Rh) at                  In our experiments, by the end of the 1st month of
+bright illumination; Licmophora lyngbyei (B),                  the exposure, we found 53 algal species on the dead
+L. majuscula, Oscillatoria sp., Tolypothrix sp. (C),           parts of lesions, mostly with the predominance of
+Rhipidosiphon javensis (Ch), Sphacelaria novae-hol-            microscopic and thin filamentous Bacillariophyta and
+landiae, S. rigidula (Ph), Polysiphonia sp. (Rh),              Cyanobacteria. We did not establish any dependence of
+Diatoma sp. (B), Jania capillacea, and Gelidiopsis             the species composition of algae-first settlers on illumi-
+intricata (Rh) at low illumination.                            nation conditions. The predominance of blue–green
+                                                               algae among first settlers was earlier recorded on corals
+    The highest mean rate of recovery of the coral tissue      subjected to bleaching [7] or an impact of thin water jet
+on damaged surfaces, 0.22 ± 0.06 mm per day, was               or an osmotic shock [20]. After 3 months of observa-
+recorded in the first month of maintenance of coral colo-      tions, the projective covering of the dead surface of
+nies in the aquarium at a moderate illumination of 20 to       coral lesions reached 80 to 90%, while the number of
+30% PARs. In bright light (70–90% PAR0), the rate was          algal species settled on lesions increased to 92. The fil-
+also at a high level of 0.19 ± 0.06 mm per day. At low         amentous and finely-branched algae common on algal
+                                                               turf dominate at bright and moderate illumination. At
+light of 2 to 5% PAR0, the mean rate of restoration of the     low light intensity, mostly red algae, often calcareous
+coral tissue on damaged parts was lower than at bright         forms dominated, rather than turf algae.
+and moderate light, at about 0.12 ± 0.09 mm per day.               A comparison of the species compositions of the
+During the 2nd and the 3rd months, the rate of regenera-       algae overgrowing artificial mechanical damage on col-
+tion reduced considerably (P < 0.05): to 0.07 ± 0.02 mm        onies of the coral Porites lutea exposed in the sea and
+per day in bright light, to 0.08 ± 0.01 mm per day at mod-     in aquaria [24] has shown that the number of algal spe-
+erate light and to 0.05 ± 0.02 mm per day at low light.        cies in the aquaria was 1.5 times higher than that in the
+
+   RUSSIAN JOURNAL OF MARINE BIOLOGY              Vol. 35     No. 3   2009
+234                                          TITLYANOV, TITLYANOVA
+
+sea. On some wounds of corals placed in the aquaria,          caused a sharp, nearly two–three fold reduction of the
+we recorded algal species of rare occurrence, such as         rate of regeneration of coral colonies, which may result
+Nitzschia longissima (B), Derbesia marina, Rhipidosi-         from both a reduced level of autotrophic production of
+phon javensis (Ch), Sphacelaria rigidula (Ph) and             corals and a change in the species composition of algal
+Ceramium flaccidum (Rh). We assume that the absence           competitors. At low light, the lesions were frequently
+of herbivorous animals in the aquaria made it possible        colonized by red calcareous algae, which form a serious
+for these algal species to reach the maturity and to          barrier against the advance of the coral tissue over the
+reproduce. In the sea, young sprouts of most filamen-         wound.
+tous algae are continually grazed by fish, this hinders
+the reproduction and distribution of the algae [2].
+                                                                            ACKNOWLEDGEMENT
+                                                                 This research was supported by the Russian Foun-
+       The Relationship between Algae-Settlers                dation for Basic Research (project no. 08-04-00735
+       and Coral Polyps in Damaged Colonies                   Dynamics, Mechanisms and Conditions of Formation
+    As was shown in earlier studies [20, 21] and in the       of Communities of Marine Macrophytes in Temperate
+present work, mechanically damaged coral tissue               and Tropical Waters.
+recovers completely in 2–3 weeks after damage. Dur-
+ing this period, algal spores can freely germinate and                              REFERENCES
+attach to the dead surface of lesions, but cannot settle
+on the damaged tissue, since regenerating coral tissue is      1. Titlyanov, E.A. and Titlyanova, T.V., Competitive Rela-
+able to self clean; the mechanism involves entombment             tions Between Algae and Corals on Damaged Reefs,
+of foreign objects (as well as algal settlers) into the           Biol. Morya, 2008, vol. 34, no. 4, pp. 235–255.
+coral skeleton [20]. At the next stage of the regenera-        2. Bakus, G.J., The Feeding Habits of Fishes and Primary
+tion, when the coral tissue starts to occupy the surface          Production at Eniwetok, Marshall Island, Micronesica,
+                                                                  1967, vol. 3, pp. 135–149.
+of the dead portion of the lesion, the algal overgrowth
+of the surface becomes a physical or sometimes a               3. Bakus, G.J., Energetics and Feeding in Shallow Marine
+                                                                  Waters, Int.. Rev. Gen. Exp. Zool., 1969, vol. 4, pp. 275–
+chemical [20] obstacle to this expansion of the coral tis-        369.
+sue. Consequently, the rate of the polyp tissue regener-
+ation (or the rate of wound healing) is gradually              4. Bruckner, A.W., and Bruckner, R.J., Condition of
+                                                                  Restored Acropora palmata Fragments of Mona Island,
+reduced.                                                          Puerto Rico, 2 Years After the Fortuna Reefer Ship
+    The competition between the settled algae and the             Grounding, Coral Reefs, 2001, vol. 20, pp. 235–243.
+coral polyps usually comes to an end either with com-          5. Connell, J.H., Hughes, T.P., Wallace, C.C. et al., A Long-
+plete regeneration of polyps on the dead surface of the           Term Study of Competition and Diversity of Corals,
+wound (Fig., D) or with the overgrowth of the wound               Ecol. Monogr., 2004, vol. 74, pp. 179–210.
+by a dense community of filamentous algae accompa-             6. Crossland, C.J., In situ Release of Mucus and DOC
+nied also by single large algal thalli or calcareous              Lipid from the Coral Acropora variabilis and Stylophora
+crusts. Victory in this competition for substratum                pistillata in Different Light Regimes, Coral Reefs, 1987,
+between coral polyps and algal settlers depends in time           vol. 6, pp. 35–42.
+mostly on the physiological state of the competitive           7. Diaz-Pulido, G. and McCook, L., The Fate of Bleached
+organisms, size and toxicity of colonizers, as well as on         Corals: Patterns and Dynamics of Algal Recruitment
+environmental factors, such as light conditions in the            Mar. Ecol. Prog. Ser., 2002, vol. 232, pp. 115–128.
+habitat and activity of herbivorous and, probably, coral-      8. Diaz-Pulido, G. and McCook, L., Top-Down and Bot-
+livorous fish [14]. Healing its lesions, the coral tissue         tom-Up Processes Interact with Seaweed Recruitment
+entombs the algae settled onto the damage into its skel-          on a Coral Reef, Ecology, 2003, vol. 84, pp. 2026–2033.
+eton [20]. However, we have previously shown that              9. Diaz-Pulido, G. and McCook, L., Algal Recruitment on
+when the wound is inhabited by the blue–green algae               a Coral Reef: Interactions with Corals, Other Benthic
+Lyngbya majuscula and L. semiplena, the coral tissue              Organisms, and Substrate Types Coral Reefs, 2004,
+                                                                  vol. 23, pp. 225–233.
+ceases its advance over the wound surface, since the tis-
+sue is unable either to overgrow the algae or to entomb       10. Glynn, P.W., Coral Mortality and Disturbance to Coral
+                                                                  Reefs in the Tropical Eastern Pacific Global Ecological
+them into the skeleton, probably, because of the pres-            Consequences of the 1982–83 El Niño-Southern Oscilla-
+ence of toxins in the algae [24]. We have not found sig-          tion, Amsterdam: Elsevier, 1990, pp. 55–126.
+nificant differences in the rates of regeneration of corals   11. Littler, M.M. and Littler, D.S., Relationships Between
+in the range of light intensities from 20 to 90% PAR0.            Macroalgal Functional Form Groups and Substrata Sta-
+We hypothesize that this can be explained by the simi-            bility in a Subtropical Rocky-Intertidal System, J. Exp.
+lar physiological state of coral polyps dwelling in the           Mar. Biol. Ecol., 1984, vol. 74, pp. 13–34.
+range of illumination, as well as by the similarity of the    12. Littler, M.M. and Littler, D.S., Structure and Role of
+population density and species composition of algal               Algae in Tropical Reef Communities, Algae and Human
+communities competing with the polyps for substra-                Affairs, Cambridge: Cambridge Univ. Press, 1988,
+tum. The decrease in light intensity to 2–5% PAR0                 pp. 30–56.
+
+                                               RUSSIAN JOURNAL OF MARINE BIOLOGY                Vol. 35   No. 3    2009
+                      THE DYNAMICS OF THE RESTORATION OF MECHANICAL DAMAGE                                                  235
+
+13. Marshal, P.A., Skeletal Damage in Reef Corals: Relating        21. Titlyanov, E.A., Titlyanova, T.V., Yakovleva, I.M., and
+    Resistance to Colony Morphology, Mar. Ecol. Prog. Ser.,            Sergeeva, O.S., Three Stages of Injuries Regeneration on
+    2000, vol. 200, pp. 177–189.                                       Scleractinian Corals, Galaxea, 2006, vol. 8, pp. 39–50.
+14. McCook, L.J., Jompa, J., and Diaz-Pulido, G., Competi-         22. Titlyanov, E.A., Kiyashko, S.I., Titlyanova, T.V. et al.,
+    tion Between Corals and Algae on Coral Reefs: a Review             Coral-Algal Competition as Determined from the Rates
+    of Evidence and Mechanisms, Coral Reefs, 2001,                     of Overgrowth, Physiological Condition of Polyps of the
+    vol. 69, pp. 400–417.                                              Scleractinian Coral Porites lutea, and Structure of Algal
+                                                                       Associations Within Boundary Areas, Proc. 10th Coral
+15. Moyer, J.T., Emerson, W. K., and Ross, M., Massive                 Reef Symp.. Okinawa, 2006, pp. 1931–1942.
+    Destruction of Scleractinian Corals by the Muricid Gas-        23. Titlyanov, E.A., Titlyanova, T.V., and Yakovleva, I.M.,
+    tropod, Drupella, in Japan and Philippines, The Nauti-             Interaction Between Benthic Algae (Lyngbya bouillonii,
+    lus, 1982, vol. 96, pp. 69–82.                                     Dictyota dichotoma) and Scleractinian Coral Porites
+16. Nakano,Y., Global Environmental Change and Coral                   lutea in Direct Contact, J. Exp. Mar. Biol. Ecol., 2007,
+    Bleaching, Coral Reefs of Japan, Tokyo: Ministry of the            vol. 342, pp. 282–291.
+    Environment, 2004, pp. 42–48.                                  24. Titlyanov, E.A., Titlyanova, T.V., and Chapman, D.,
+17. Price, J.R. and Scott, F.J., The Turf Algal Flora of the           Dynamics and Patterns of Algal Colonization of
+    Great Barrier Reef. Part I. Rhodophyta, Townsville:                Mechanically Damaged and Dead Colonies of the Coral
+    James Cook University of North Queensland, 1992.                   Porites lutea, Bot. Mar., 2008, vol. 51, pp. 285–296.
+                                                                   25. Turner, S.J., The Biology and Population Outbreaks of
+18. Sakai, K., Muzik, K., Nakamura, S., and Nishihara, M.,             the Corallivorous Gastropod Drupella on Indo-Pacific
+    A Note on Resurvey of Coral Communities and Acan-                  Reefs, Oceanogr. Mar. Biol. Annu. Rev., 1994, vol. 32,
+    thaster Populations Around Okinawa Island, Japan, in               pp. 461–530.
+    1984, Galaxea, 1984, vol. 7, pp. 41–52.
+                                                                   26. Weil, E., Smith, G.W., and Gil-Agudelo, D.L., Status
+19. Sussman, M., Bourne, D.G., and Willis, B.L., A Single              and Progress in Coral Reef Disease Research, Dis.
+    Cyanobacterial Ribotype Is Associated with Both Red                Aquat. Org., 2006, vol. 69, no. 1, pp. 1–7.
+    and Lack Bands on Diseased Corals from Palau, Dis.             27. Yamaguchi, M., Acanthaster planci Infestations of Reefs
+    Aquat. Org., 2006, vol. 69, pp. 111–118.                           and Coral Assemblages in Japan: a Retrospective Analysis
+20. Titlyanov, E.A., Titlyanova, T.V., Yakovleva, I.M. et al.,         of Control Efforts, Coral Reefs, 1986, vol. 5, pp. 23–30.
+    Regeneration of Artificial Injuries on Scleractinian Cor-      28. Yamazato, K., and Kiyan, T., Reproduction of Acan-
+    als and Coral/Algal Competition for Newly Formed Sub-              thaster planci in Okinawa, Micronesica, 1973, vol. 9,
+    strate J. Exp. Mar. Biol. Ecol., 2005, vol. 323, pp. 27–42.        pp. 185–195.
+
+
+
+
+   RUSSIAN JOURNAL OF MARINE BIOLOGY                  Vol. 35     No. 3   2009
+

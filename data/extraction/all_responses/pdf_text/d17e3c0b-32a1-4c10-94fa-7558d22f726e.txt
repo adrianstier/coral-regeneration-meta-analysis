@@ -1,0 +1,230 @@
+Galaxea, Journal of Coral Reef Studies 10: 83‑87（2008）
+
+
+ Note
+
+
+
+        Size-independent investment allocation to regeneration and
+              growth of the branching coral Acropora muricata
+
+
+                                                    Nami OKUBO*
+
+
+Japan Society for the Promotion of Science / Seto Marine Biological Laboratory, Field Science Education and Research
+Center, Kyoto University, Shirahama, Nishimuro, Wakayama 649‑2211, Japan
+
+
+* Corresponding author: N. Okubo
+E-mail: namiokubotitech@yahoo.co.jp
+
+
+Communicated by Hiroya Yamano (Environment and Conservation Editor)
+
+
+Abstract To reveal the optimal resource allocation among      independent growth and regeneration, and exhibits a
+regeneration, growth, sexual reproduction, and survivor-      tradeoff among regeneration, growth, survivorship, and
+ship in a colonial animal, a specimen of the branching        reproduction.
+coral Acropora muricata (formosa), without oocytes, was
+separated into fragments of three different sizes (5, 10,     Keywords coral fragment, optimal resource allocation,
+and 20 cm long) that were then transplanted onto coral        survivorship, reproduction, growth, restoration
+pavement. Regardless of the fragment size, a wound was
+fully closed within 11 days after fragmentation. The num-
+ber of newly formed polyps on the new tissue layer did
+not differ significantly among fragment sizes. No sig-        Introduction
+nificant difference was observed in the monthly growth
+rate among the three fragment sizes. These results showed        Clonal spread is favored in many plants at the expense
+that regeneration and growth were independent of frag-        of seed production to facilitate rapid expansion into open
+ment size. During the observation period, one 5 cm frag-      habitats or to occupy space by forming dense patches.
+ment died, the 5 cm and 10 cm fragments did not spawn,        However, for the dynamics of a population in a patchy
+but the 20 cm fragments did spawn. The investment to          landscape, seed dispersal remains important, even for
+survivorship by the 5 cm fragments might have been            clonal plants (Stoecklin and Winkler 2004). In modular
+smaller than that of the 10 cm fragments, because the 5 cm    animals, fragmentation may correspond to clonal spread
+fragments had smaller energy stocks than did the 10 cm        in plants and can occur during events such as typhoons,
+fragments. Combined, these results suggest that the           increasing the size of the local population (Stoner 1989).
+energetic investment for regeneration and growth was          In such cases, lesion regeneration and growth play im-
+constant while investment for reproduction was pro-           portant roles in colony survival (e.g. Van Veghel and Bak
+portional to fragment size. This finding agrees with the      1994).
+theoretical optimal dispersal strategy, in which the allo-       In colonial cnidarians, studies of the effects of colony
+cation to growth by mothers is constant. In conclusion, the   size on lesion regeneration and growth have revealed
+colonial coral Acropora muricata generally shows size-        optimal resource allocation among regeneration, growth,
+84                                   Okubo: Investment allocation in Acropora muricata
+
+
+sexual reproduction, and survivorship. Regeneration was         Bak (1994) revealed that fecundity (the number of eggs
+reduced in small colonies of Stylophora pistillata (Loya        per polyp) and the number of gonads per polyp were
+1976) and the frequency of substrate reattachment was           significantly reduced around lesions, indicating that the
+higher for larger fragments of Acropora intermedia (Smith       processes of reproduction and regeneration were linked.
+and Hughes 1999), whereas no relationship was observed          Therefore, to examine the effect of colony size on optimal
+between colony size and regeneration rates in Agaricia          resource allocation among regeneration, growth, sexual
+agaricites, Porites astreoides (Bak and Steward van Es          reproduction, and survivorship, experiments should use
+1980) or Acropora palmata (Lirman 2000a). In addition,          corals without gametes.
+growth rate was dependent on fragment size in Zoanthus             Herein, I examined the effect of fragment size on in-
+zolanderi and Z. sociatus (Karlson 1988), Porites               vestment allocation in the branching coral Acropora
+astreoides (Chornesky and Peters 1987), and Goniastrea          muricata by conducting an experiment in August, after
+aspera (Sakai 1998), while the growth of A. palmata was         the mass spawning, when the corals had no oocytes
+not (Lirman 2000b). Coral fragments also allocate their         (Hayashibara et al. 1993). This species is well known to
+investment to survivorship. Lirman (2000b) found no sig-        produce fragments (reviewed by Highsmith 1982), and
+nificant relationship between fragment size and survival        occurs abundantly in Okinawa, Japan.
+rate in A. palmata, whereas Okubo et al. (2005, 2007)
+found strong size-dependent survivorship in A. muricata
+(formosa). Lirman (2000b) sought to examine natural             Materials and methods
+situations; therefore he considered substrate dependency
+in fragment survivorship. Okubo et al. (2005, 2007) used           Acropora muricata was artificially fragmented twice,
+a transplantation technique and a clear experimental            on 11 (Experiment 1) and 13 (Experiment 2) August 2000,
+design for examining size-dependent survivorship.               when the colonies had no oocytes. Wire cutters were used
+   What factor affects size dependency in regeneration          to cut fragments from the branch tips of the donor colony,
+investment in colonial corals? This does not depend on          which measured approximately 1 m in height and 4.5 m2 in
+phylogeny or morphology or differences between intact           cross-section. Polyps located within 3 cm from the colony
+colonies and fragments. Probably, fragment size does not        top were removed to confirm that there were no oocytes in
+uniquely determine total investment, because Okubo et al.       the fragment; the dimensions of the cut surface were kept
+(2005, 2007) found that the presence of oocytes or the          constant (ca. 0.785 cm2). Using a ruler in situ, the fragments
+occurrence of oocyte production at the time of fragmen-         were grouped into three size classes: fragments that were
+tation strongly influenced growth rates in the branching        5 cm in length (n＝11 for Experiment 1, n＝30 for
+coral Acropora muricata. Small oocytes that were in the         Experiment 2), 10 cm fragments (10, 26), and 20 cm
+early vitellogenic stage were resorbed and used for growth      fragments (8, 27). Then, all fragments were moved 15 to
+after fragmentation, whereas large oocytes that were in         20 m away from the donor colony and transplanted at
+late developmental stages continued developing, resulting       depths of 2‑3 m. We drove 8 cm long concrete nails
+in lower growth rates in small colonies. Fecundity varies       into the substrate of the coral pavement, leaving 5 cm
+spatially within reproductively mature colonies, among          protruding from the surface with a 20 cm space between
+colonies in a population, and between populations of some       nails. Each fragment was fastened vertically along a nail
+coral species (Harrison and Wallace 1990). Thus, the            using one or two polyethylene cable ties. The cut surface
+relative number of gametes is not always proportional to        at the bottom of the fragment was attached to the substrate
+colony size (Okubo et al. 2007) and the effect of the           to prevent growth (e.g. Okubo et al. 2005).
+availability of gametes as an energy stock (Okubo et al. in
+press) on the allocation of resources between regeneration/     Experiment 1
+growth and sexual reproduction must involve a complex             The condition of each fragment was monitored after 9
+interaction with fragment size. In fact, Van Veghel and         months using SCUBA. The following observations were
+                                      Okubo: Investment allocation in Acropora muricata                                 85
+
+
+recorded: (1) survivorship, (2) linear extension rate (mm),      generation involving the formation of a new tissue layer
+and (3) spawning ratio (%) in the first period after frag-       started on the day following fragmentation. Regardless of
+mentation. The spawning ratio was expressed as the num-          fragment size, all of the wounds were fully closed by 24
+ber of fragments having bundles within the total fragment        August 2000, the 11th day after fragmentation; new polyps
+population. The survival rate was monitored within 24            emerged on the new tissue layers on 31 August 2000, the
+days after transplantation. The data for (2) were analyzed       18th day after fragmentation (Table 1); and axial polyps
+using a Kruskal-Wallis test. Where significant differences       started emerging on 6 September 2000, the 20th day after
+were established, Dunn’s multiple comparison test was            fragmentation. The number of newly formed polyps did
+employed to determine which group(s) differed.                   not differ significantly with fragment size (Table 1). One
+                                                                 5 cm fragment died during experiment (Table 1).
+Experiment 2
+   The condition of each fragment was monitored daily            Survival, linear growth and spawning (Experiment 1)
+for 24 days after transplantation using SCUBA. The fol-             No significant differences were observed in linear ex-
+lowing observations were recorded: (1) survivorship 24           tension rates among the three fragment sizes (Table 2).
+days after transplantation, (2) the day on which a wound         These results show that the linear extension rate was also
+fully closed, (3) the day when the first polyp and the axial     independent of fragment size. One 5 cm fragment died
+polyp appeared on a cut surface, (4) the number of polyps        during experiment (Tables 2). During the first year after
+on a cut surface 24 days after transplantation. The data for     fragmentation, the 5 cm and 10 cm fragments did not
+(4) were analyzed using a one-way ANOVA, after nor-              spawn; on 6 and 7 June 2001, only the 20 cm fragments
+mality was confirmed using a chi-square goodness-of-fit          spawned (Table 2). The linear extension rates (mm) during
+test and homoscedasticity was tested using a Bartlett test.      the 9 months preceding spawning were 60.4±31.5 (n＝
+Where significant differences were established, Scheffe’s        13) for reproductive fragments and 37.0±33.0 (n＝14)
+test was employed to determine which group(s) differed.          for non-reproductive fragments.
+
+
+
+Results                                                          Discussion
+
+Wound regeneration and formation of new polyps                      The wound closure rate and the time until new polyps
+(Experiment 2)                                                   emerged on the new tissue layer were similar in all frag-
+   None of the fragments fused to the substratum and no          ments, indicating that regeneration rate was independent
+tissue layers were formed on the bottom cut surfaces             of colony size. Meesters et al. (1994) suggested that suc-
+within the 24 day observation period following trans-            cessful regeneration would depend not on colony size but
+plantation. On the upper cut surfaces, however, wound re-        also on the amount of tissue bordering a lesion (i.e., the
+
+
+
+                 Table 1 Number of new polyps formed on the new layer on the cut surface 24 days after
+                 fragmentation. Fragmentation was conducted on 13 August 2000
+86                                    Okubo: Investment allocation in Acropora muricata
+
+
+                  Table 2 Number of new polyps formed on the new layer on the cut surface 24 days after
+                  fragmentation. Fragmentation was conducted on 13 August 2000
+
+
+
+
+perimeter length of the initial lesion) in Montastrea an-        cm fragments.
+nularis. In the present study, the cuts were made to main-          Combining these results, it appears that the energetic
+tain consistent dimensions in all fragments, thus the initial    investment for regeneration and growth was constant and
+lesion perimeter length was similar in all fragments. It has     the investment in reproduction was proportional to
+been reported that larger lesions stop healing after ap-         fragment size. This is analogous to the theoretical optimal
+proximately the same period of time as smaller lesions           dispersal strategy (Comins et al. 1980). The fragment al-
+(Bak et al. 1977; Bak and Steward van Es 1980). Also,            locates its energetic investment to growth and reproduc-
+preliminary observations noted that one fragment that            tion. Let x be the investment to regeneration/growth and
+had a larger cut surface required a longer period for wound      survivorship of the fragment. Let K be the total invest-
+closure (Okubo and Shimoike, unpublished results). It is         ment. The contribution of reproduction to the fragment’s
+likely that regeneration is dependent on the tissue bor-         fitness is proportional to the investment in reproduction
+dering a lesion, as was suggested by Meesters et al.             (K - x), because the survival rate of each egg is independent
+(1994).                                                          of fragment size. Let x and s(x) be the investment into
+   No significant difference was observed in linear ex-          growth and regeneration and the contribution of regene-
+tension rates among the three fragment sizes, suggesting         ration and growth to fitness, respectively. The contribution
+that growth was independent of colony size. Okubo et al.         of regeneration and growth to fitness increases with the
+(2005) observed that monthly growth rate, recorded as            investment in growth [s’(x)＞0]. The total fitness, denoted
+percent growth per cm (i.e., the growth rate divided by the      by f(x), is the sum of s(x) and (K - x)r, where r is the re-
+original length), was highest in the smallest fragments,         productive success of each egg. The fitness f(x) is opti-
+and thus a trade-off between growth and reproduction             mized when s’(x)＝r if x＜K (the fragment allocates re-
+may be apparent. However, this rationale could be wrong,         sources to both regeneration and growth and to repro-
+because the actual length (linear extension rate) of the         duction) and when s’(x)＜r if x＝K (the fragment allo-
+same fragments did not differ significantly among the 3          cates all of its investment to regeneration and growth).
+fragment sizes in that study (Table 4 of Okubo et al. 2005).     Therefore, the optimal growth allocation is independent
+In fact, among the 20 cm fragments, the growth rates of          of fragment size, K. This result is similar to the theoretic
+the reproductive fragments were faster than those of the         optimal dispersal strategy, in which the allocation to
+non-reproductive fragments. The growth rates of the re-          growth by a mother is constant (Comins et al. 1980). In
+productive fragments were similar to those of the 5 cm           conclusion, the colonial coral Acropora muricata gen-
+and 10 cm fragments. These results indicate that there was       erally demonstrates size-independent regeneration and
+no trade-off between growth and reproduction, and the            growth, and exhibits a tradeoff among regeneration and
+investment into spawning by the 20 cm fragments could            growth, survivorship, and reproduction.
+have been larger than the investment by the 5 cm and 10
+                                        Okubo: Investment allocation in Acropora muricata                                          87
+
+
+                                                                         pora palmata (Lamarck): growth, survivorship, and repro-
+Acknowledgements                                                         duction of colonies and fragments. J Exp Mar Biol Ecol
+                                                                         251: 41‑57
+
+   I am grateful to H. Matsuda for valuable comments, K.            Loya Y (1976) Skeletal regeneration in the Red Sea scleractinian
+                                                                         coral population. Nature 261: 490‑491
+Shimoike and the Akajima Marine Science Laboratory for
+                                                                    Meesters EH, Noordeloos M, Bak RPM (1994) Damage and
+their kind help.
+                                                                         regeneration: links to growth in the reef-building coral
+                                                                         Montastrea annularis. Mar Ecol Prog Ser 112: 119‑128
+                                                                    Okubo N, Taniguchi H, Motokawa T (2005) Successful methods
+References                                                               for transplanting fragments of Acropora formosa and
+                                                                         Acropora hyacinthus. Coral Reefs 24: 333‑342
+Bak RPM, Brouns JJWM, Heys FML (1977) Regeneration and              Okubo N, Motokawa T, Omori M (2007) When fragmented
+     aspects of spatial competition in the Scleractinian corals          coral spawn? Effect of size and timing on survivorship and
+     Agaricia agaricites and Montastrea annularis. Proc Third            fecundity of fragmentation in Acropora formosa. Mar Biol
+     Int Coral Reef Symp 1: 143‑149                                      151: 353‑363
+Bak RPM, Steward van Es Y (1980) Regeneration of superficial        Okubo N, Yamamoto HH, Nakaya F, Okaji K (in press) Oxygen
+     damage in the scleractinian corals Agaricia agaricites f.           consumption of a single embryo/planula in the reef-
+     purpurea and Porites astreoides. Bull Mar Sci 30: 883‑              building coral Acropora intermedia. Mar Ecol Prog Ser
+     887                                                            Sakai K (1998) Delayed maturation in the colonial coral
+Chornesky EA, Peters EC (1987) Sexual reproduction and col-              Goniastrea aspera Scleractinia): whole-colony mortality,
+     ony growth in the scleractinian coral Porites astreoides.           colony growth and polyp egg production. Res Pop Ecol 40:
+     Biol Bull 172: 161‑177                                              287‑292
+Comins HN, Hamilton WD, May RM (1980) Evolutionarily                Smith LD, Hughes TP (1999) An experimental assessment of
+     stable dispersal strategies. J Theor Biol 82: 205‑230               survival, re-attachment and fecundity of coral fragments. J
+Hayashibara T, Shimoike K, Kimura T, Hosaka S, Heyward A,                Exp Mar Biol Ecol 235: 147‑164
+     Harrison P, Kudo K, Omori M (1993) Patterns of coral           Stoecklin J, Winkler E (2004) Optimum reproduction and
+     spawning at Akajima Island, Okinawa, Japan. Mar Ecol                dispersal strategies of a clonal plant in a metapopulation: a
+     Prog Ser 101: 253‑262                                               simulation study with Hieracium pilosella. Evol Ecol 18:
+Harrison PL, Wallace CC (1990) Reproduction, dispersal and               563‑584
+     recruitment of scleractinian corals. In: Dubinsky Z (ed)       Stoner DS (1989) Fragmentation: a mechanism for the stimu-
+     Ecosystems of the world, 25: Coral reefs. Elsevier, Am-             lation of genet growth rates in an encrusting colonial
+     sterdam, pp 133‑207                                                 ascidian. Bull Mar Sci 45: 277‑287
+Highsmith RC (1982) Reproduction by fragmentation in corals.        Van Veghel MLJ, Bak RPM (1993) Intraspecific variation of a
+     Mar Ecol Prog Ser 7: 207‑226                                        dominant Caribbean reef building coral, Montastrea an-
+Karlson RH (1988) Size-dependent growth in two zoanthid                  nularis: genetic, behavioral and morphometric aspects.
+     species: a constrast in clonal strategies. Ecology 69: 1219‑        Mar Ecol Prog Ser 92: 255‑265
+     1232
+Lirman D (2000a) Lesion regeneration in the branching coral                                                 Received: 29 May 2008
+     Acropora palmata: effect of colonization, colony size,                                           Accepted: 13 November 2008
+     lesion size, and lesion shape. Mar Ecol Prog Ser 17: 209‑
+     215                                                                                            Ⓒ Japanese Coral Reef Society
+Lirman D (2000b) Fragmentation in the branching coral Acro-
+

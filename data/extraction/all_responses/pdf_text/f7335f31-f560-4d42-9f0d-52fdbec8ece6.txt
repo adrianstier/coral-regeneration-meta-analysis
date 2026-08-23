@@ -1,0 +1,465 @@
+ Proceedings of the Seventh International Coral Reef Symposium, Guam, 1992, Vol. 2
+
+
+
+
+Effects of Sedimentation and Lesion Position on Coral
+Tissue Regeneration
+
+E. H. MEESTERS,      A. Bos, AND G. J. GAST
+  Carmabi Institute, PO Box 2090, Cura~ao, Netherlands Antilles
+. Institute of Taxonomic Zoology, University of Amsterdam, PO Box 4766, 1009 AT Amsterdam, The Netherlands
+
+Abstract. The tissue regeneration potential of var-            sue. These patches may become colonized by algae,
+ious coral species was studied on the leeward fring-           boring sponges and other organisms, but often they
+ing reefs of Cura~ao, Netherlands Antilles. Regen-             will regenerate from the surrounding tissue (Bak et
+eration of Acropora palmata, a branching species,              al. 1977, Bak and Steward-van Es 1980, Fishelson
+common in shallow parts of the reef, was slower in             1973).
+colonies subjected to long-term increased levels of                Coral species regenerate lesions at different rates,
+sedimentation than in control colonies. Diploria               and this has been related to life history strategies
+strigosa, Porites astreoides, and Siderastrea siderea,         (Bak 1983). The rate at which a lesion recovers also
+were not as sensitive as A. palmata. Regeneration              appears to decrease exponentially through time
+of Montastrea annularis, the main reef-building                (Bak 1983). Because the energy surplus of corals
+coral in the Caribbean, was slower for colonies that           appears to be limited (Davies 1991, Muscatine et
+suffered from high levels of sedimentation, caused             al. 1984), we hypothesized that stress, reducing the
+by the construction of an artificial beach. Whether            amount of available energy, will also inhibit the
+a lesion was positioned at the top or at the side of           regeneration of small lesions.
+a colony, had no influence on lesion regeneration,                 Increased sedimentation is often cited as an im-
+even though side lesions received approximately                portant cause of coral death or changes in com-
+70%less light. Photoadaptation within a colony was             munity structure (Pearson 1981). Its effect was stud-
+considered to be responsible for the lack of a re-             ied in situ on different coral species in two
+generation difference between lesion positions, as             experiments: one, with long-term sedimentation
+chlorophyll a concentrations in polyps on the sides            stress, and another with increased sedimentation
+of colonies were twice as high than in polyps on the           for only a short time.
+top.                                                               Apart from species specific characteristics that
+                                                               influence the regeneration of small lesions, regen-
+                                                               eration may also be affected by the position of the
+                                                               damage. Since light intensities vary substantially
+                                                               over the surface of a single colony (Roos 1967), we
+Introduction                                                   hypothesised that lesions on the side of a colony
+Corals are frequently damaged by biotic and abiotic            will regenerate slower than lesions on top of a col-
+causes (reviewed by Pearson 1981). Large areas are             ony, because colony sides will receives less light
+devastated by catastrophes, and reported as being              than colony tops.
+devoid ofliving coral cover. However, when small
+areas are examined closely, it is often found that             Materials and Methods
+parts of colonies have survived (Connell 1973,
+Highsmith et al. 1980, Knowlton et al. 1981). Par-             Study Sites
+tial mortality, a characteristic phenomenon in
+clonal organisms, ~11 often result in a small patch            The four study sites were situated on the leeward
+of bare skeleton (partly) surrounded by living tis-            fringing reefs ofCura~ao, Netherlands Antilles (Fig.
+
+                                                         671
+672                                                                                                  Meesters et al.
+
+1). All are characterized by a submarine terrace nor-           Porites astreoides and Siderastrea siderea (Ellis and
+mally stretching a distance of 50 to 100 m from the             Solander). The two study sites, Low and High, are
+coast to a depth of7 to 12 m, where the reef steeply            similar in important environmental characteristics,
+slopes to a depth of 50 to 60 m (Bak 1975). Abun-               such as nutrient concentrations, wave exposure and
+dant corals on the shallow terrace (Bak 1977) are               current, but different based on sedimentation data
+Acropora palmata (Lamarck), Agaricia spp., Diplo-               and light extinction measurements (Fig. 1). They
+ria clivosa (Ellis and Solander), D. strigosa (Dana),           have an average sedimentation rate of 27, and 40
+Montastrea annularis (Ellis and Solander), M. cav-              g dry weight m-2 d- 1, respectively (P = .0015, com-
+ernosa (Linnaeus), Porites astreoides Lamarck, and              parison of monthly values with Wilcoxon's signed-
+Meandrina meandrites (Linnaeus).                                ranks test). Sedimentation data were collected using
+                                                                sediment traps with length to width ratio of 10. The
+Lesion Infliction                                               traps were placed on the shallow terrace (5 m) with
+                                                                openings approximately 1 m above reef bottom,
+Lesions were made on top of haphazardly selected                collected on a monthly basis during a period of one
+colonies with a submersible drill powered by com-               year, filtered over Whatman GFC filters and dried
+pressed air and equipped with a small grinding                  to constant weight at 100°C. Incidental light ex-
+point that created flat circular patches of scraped             tinction measurements were taken with an Inter-
+skeleton, devoid of living tissue, of approximately             national Light photometer, IL 1400A. Extinction
+1 cm diameter and 2 mm depth. In all experiments,               coefficients for site High were sometimes twice as
+lesion area was measured with a plexiglass ruler                high as for site Low, ranging respectively from
+divided into 0.04 cm2 squares. At the start of the              -0.12 to -0.26, and -0.10 to -0.13 (Means ±
+experiments lesion depth was measured with a pair               SE: -0.179 ± 0.045 and -0.118 ± 0.002).
+of callipers to calculate the surface area of the lesion           Lesions on branches of Acropora palmata col-
+wall.                                                           onies were made on the upper side at a distance of
+                                                                10-20 cm from the edge (7/12/90; NLow = 30, NH,gh
+Long-term Sedimentation
+                                                                = 35; depth = 3-4 m). Colonies of Diploria stri-
+                                                                gosa received a lesion in between two ridges (9/4/
+To study the effect of prolonged sediment stress on             90; NLow = 30, NH,g11 = 29; depth= 4-6 m). Porites
+the regeneration rate of corals, lesions were made              astreoides lesions were made on top of every colony
+on colonies of Acropora palmata, Diploria strigosa,             (12/5/90; NLow = 30, NH,gh = 34; depth = 4-6 m).
+                                                                Lesions on Siderastrea siderea were made on the
+                                                                top of the colony (6/7/91, NLow = 28; 6/10/91, NH,gh
+                                                                = 29; depth = 4-6 m).
+
+                                                                Short-Term Sedimentation
+                                                                To assess the influence of sudden sediment stress
+                                                                on the regeneration rate of corals, lesions were in-
+                                                                flicted on Montastrea annularis colonies following
+                                                                the start of the construction of an artificial beach
+                                                                in October 1991. The experimental colonies were
+                                                                situated 100 m upcurrent and 50-75 m downcur-
+                                                                rent of the construction site (Fig. 1; SedDown, and
+                                                                SedUp, 10/16/91; NSedDown = 23, NSedUp = 30). Sedi-
+                                                                mentation at each site was measured by placing two
+                                                                sediment traps (length/ width ratio = 10) between
+                                                                the experimental colonies. Traps were collected at
+0             10KM
+~1  •~•~•~~•~•I                                                 a 2 weekly interval and the contents was processed
+Fig. 1. The island of Cura~ao and situation of the study        as explained in the previous section.
+sites. Site Low and High are the respectively low and high
+sedimentation sites of the long-term stress experiment.
+SedDown and SedUp are the sites of the short-term sedi-         Lesion position
+ment stress experiment, down-current and up-current of the
+artificial beach construction site. Main wind and current di-   To assess the influence oflesion position on regen-
+rection are shown. 1                                            eration, lesions were inflicted on the tops and sides
+                         I
+                     I
+Effects of Sedimentation and Lesion Position on Coral Tissue Regeneration                                   673
+
+of separate colonies of P. astreoides (Site Low, N 10 "       A. palmata quickly covered the bare skeleton
+= 24, N,ide= 22). Light measurements were taken           with a thin veneer of transparent undifferentiated
+near every lesion with an International Light pho-        tissue. Often the lesion was already closed before
+tometer, IL 1400A. Samples were taken at the end          any polyps were formed in the new tissue. Polyp
+of the experiment to assess chlorophyll a concen-         formation started after approximately 8 days, and
+tration. Because regenerated lesions remained             was visible in almost all lesions after 18 days, prob-
+lightly colored during a long time (indicating            ably associated with the developmental phase of the
+changed pigment concentrations) samples were              newly formed tissue. Corallite development quickly
+taken directly next to the lesions. Sample processing     followed the appearance of a polyp mouth. New
+and chlorophyll measurements were as described            corallites were initially differently oriented from the
+by Szmant and Gassman ( 1990).                            surrounding corallites. After the lesion had fully re-
+                                                          generated, the tissue remained slightly depressed
+                                                          and lighter colored than the surrounding tissue.
+Analysis                                                  Two months after closing, nothing remained that
+Lesion size data (mm 2) were logarithmically trans-       could be attributed to a lesion.
+formed (X + 1) and regressed against time. Not all            Regeneration in P. astreoides was also very fast.
+measuring dates could be used in the regression           Again a thin layer of tissue grew inwardly, although
+analysis, because the lesion sizes were no longer         more slowly than in A. palmata. Polyps formed al-
+normally distributed towards the end of the exper-        most immediately in the new tissue. Some lesions
+iments, but skewed to the right, as the number of         were also closed from within the lesion, suggesting
+closed lesions increased. Testing for significance of     that remaining tissue in the perforate skeleton may
+regression was done by calculating the variance ra-       accelerate the regeneration of shallow lesions. The
+tio of the variation due to linear regression over        depression that remained after the lesion had been
+the variation due to deviations from regression.          closed disappeared in the next months.
+This reduces the influence of heterogeneous data              In Dip/aria strigosa lesion regeneration rate was
+and results in a more conservative test (Sokal and        slower than in the previous species. At first the le-
+Rohlf 1981). Because regeneration rate is not con-        sion was covered by undifferentiated tissue, which
+stant, but decreases with time, it is best described      was already colored, although lighter than the sur-
+by the slope of the exponential regression line. The      rounding tissue. The position of many healed le-
+different treatments were compared by testing for         sions remained visible because the ridges surround-
+difference between regression slopes.                     ing the lesion tend to form a star-shaped pattern
+                                                          on the colony surface.
+                                                              Regeneration was extremely slow for Siderastrea
+Results                                                   siderea. Tissue grew inwardly from the edge of the
+                                                          lesion, and polyps were formed simultaneously. Po-
+Long-Term Sedimentation                                   lyps on the edges of the lesions, were also observed
+                                                          to elongate septa towards the middle of the lesion.
+Regeneration rate clearly depended on the species
+                                                          After 128 days 75% and 85% of all lesions were still
+involved. A. palmata regenerated more slowly at           open on respectively site Low and site High.
+elevated sedimentation levels, while regeneration
+rates of Porites astreoides and Siderastrea siderea       Short-Term Sedimentation
+were not different at the two sites (Fig. 2, Table 1).
+The regeneration rate of Diploria strigosa colonies       Average sedimentation (g dry weight m-2 d- 1; N =
+was faster under conditions of high sedimentation         2) during the the first, second and third 14 days was
+(Fig. 2, Table 1). The regression however explains        24 vs 48 (P = .009, one-tailed t-test), 31 vs 37 (P
+only a very small part of the variation {R2 in Table      = .049), and 83 vs 107 (P = .088) respectively for
+1). This is mostly caused by 8 lesions at site Low        upcurrent vs downcurrent of the construction site.
+that did not regenerate, but remained approxi-            Extremely high sedimentation in the last period was
+mately the same size. Two of these were excluded          due to the building of a new pier, which was very
+from the regression calculation of site Low {Table        close to the downcurrent site. Sedimentation at the
+ 1) because they enlarged to fourfold their size as a     downcurrent site was very variable, due to the vary-
+result of fish grazing. Removing of the other 6 le-       ing intensity of construction activities. It was also
+sions resulted in a non-significant difference be-        noted that suspended sediment tended to stay close
+tween the two regression slopes. Possibly, these          to the shore for a long distance, due to the direction
+were also the result of fish activities.                  of incoming waves. Sedimentation at 50 m from
+               I
+           /
+674                                                                                                             Meesters et al.
+
+        1000                                                           1000
+                             A. palmata                                                          P. astreoides
+
+
+
+         100                                                            100
+
+
+
+
+          10                                                              10
+                                                  D High                                                             D High
+                            ■                     ■   Low                                                            ■   Low
+                                 ■
+
+
+               0   10     20         30      40       50    60                 0     10      20       30        40       50    60
+                               Time (days)                                                        Time (days)
+
+        1000                                                          1000
+                               S. siderea                                                      D. strigosa
+
+~E
+ .§. 100
+ Cl)
+ N
+ i:n
+ C
+  0
+ 'iij
+ .!!!
+ C        10                                                             10
+ (II
+ Cl)
+ :ii:                                             D High                                                             D High
+                                                  ■   Low                                                            ■   Low
+
+
+               0   10     20         30      40       50    60                 0     10     20        30       40        50    60
+                               Time (days)                                                       Time (days)
+Fig. 2. Regeneration of the four species used in the long-term sediment stress experiment. Lesion size is given as the mean
+size of all lesions at a certain time. Fitted regression lines are drawn in graphs. Low: low sedimentation site; High: high
+sedimentation site.
+
+the shore was 25% higher than at I 00 m (Meesters                 colony received on the average 30% of the amount
+unpub.).                                                          oflight that reaches the top of the colony (Mean ±
+    M. annularis regenerated more slowly at the high              SE: 244 ± 50 Eµ m- 2 s- 1 and 829 ± 24 Eµ m-2 s-1,
+sedimentation site (SedDown) than at the low sedi-                respectively; P = 0.0004, MU-test). Irradiance was
+mentation site (SedUp) (Fig. 3, Table l). Regen-                  also influenced by surrounding objects and sand
+eration of Montastrea annularis lesions was char-                 reflection.
+acterized by elongating septa of partly damaged                      Average chlorophyll a concentration of top le-
+polyps and the inward growth of undifferentiated                  sions was significantly lower when compared with
+tissue. No mortality of corals was observed up to                 side lesions (respectively 4.5 ± 0.8 µg cm-2 and 9.3
+two months after the start of construction activities.            ± 1.1 µg cm-2 (mean ± SE); P = 0.004, MU-test).
+At that time many species started to show signs of
+partial discoloration.                                            Discussion
+
+Lesion Position                                                   Regeneration in Acropora palmata was slower at
+                                                                  the site with a high sediment load.
+Lesion position in P. astreoides did not influence                   A. palmata has been reported as a very inefficient
+regeneration rate (Fig! 5, Table 1). Light measure-               sediment rejector both in the laboratory (Hubbard
+ments showed that tlle lesions on the side of the                 and Pocock 1972, Bak and Elgershuizen 1976) and
+Effects of Sedimentation and Lesion Position on Coral Tissue Regeneration                                                                      675
+
+Table 1. Results of regression analyses and slope comparisons. Data were fitted to the line: Size = C * I Q<b"Timo>, in which C
+= constant, and b = slope. X0 = number of days till lesion closure according to regression line, N = number of data, R2 =
+coefficient of determination; Days = number of days included in regression; P,__ = Probability of regression, P,amp.
+Probability ofno difference between slopes:*** = P < 0.001, ** = P < 0.005, * = P < 0.025, n.s. = not significant.
+
+Species                          Site          C          Slope             Xo             N          R'            Days           Prer,,.    p comp.
+Long-term sedimentation
+Acroporapalmata         Low                    182        -0.088          26              164         0.86           27            ***          *
+                        High                   192        -0.060          38              244         0.65           36            ***
+Dip/oria strigosa       Low                    114        -0.010         206              308         0.22           98            ***          **
+                        High                   112        -0.013         158              319         0.47           98            ***
+Porites astreoides      Low                    191        -0.066          35              186         0.75           32            ***         n.s.
+                        High                   154        -0.057          38              237         0.74           32            ***
+Siderastrea siderea     Low                    124        -0.0095        220              196         0.61          128            ***         n.s.
+                        High                   178        -0.0094        239              203         0.65          128            ***
+Short-term sedimentation
+Montastrea annularis     SedDown               162        -0.020         110              178         0.57           35            ***         ***
+                         SedUp                 177        -0.030          75              260         0.75           48            ***
+Lesion position
+P. astreoides Top               Low            205        -0.044            53            191         0.74           34            ***         n.s.
+               Side             Low            202        -0.046            50            175         0.68           34            ***
+
+
+         1000                                                                1000
+                                M. annutaris                                                                 P. astreoides
+
+NE                                                                  NE
+                                                                                          '6
+                                                                     .§. 100
+
+                                                                                           ~
+ .§. 100
+  G)                                                                  G)
+ N                                                                   N
+ cii                                                                 cii
+ C                                                                   C
+ 0                                                                   0
+ "iii                                                                'iii
+ ..2:?                                                               ..2:?
+ C         10                                                        C           10
+ 111                                                                 111
+ G)                                                                  G)
+ :ii                □    High                                        :ii                        6    Top
+                    ■    Low                                                                    + Side
+
+                0   10      20          30     40    50       60                      0         10         20       30        40         50      60
+                                 Time (days)                                                                    Time (days)
+Fig. 3. Regeneration of Montastrea annularis up-current             Fig. 4. Regeneration of lesions on the side and at the top
+(SedUp) and down-current (SedDown) of the construction              of Porites astreoides colonies. Lesion size is given as the
+site of an articial beach. Lesion size is the mean size of all      mean size of all lesions. Fitted regression lines are shown
+lesions at a given time. Fitted regression lines are drawn in       in graph.
+graph.
+
+in the field (Rogers 1983). The absence of A. pal-                      Regeneration in the other experimental species,
+mata in surveys of reefs with a high sediment load                  Diploria strigosa, Siderastrea siderea and Porites
+further supports the notion of the relative sensitiv-               astreoides, was not slower at the high sedimentation
+ity of this species (Tomascik and Sander 1987, pers.                site than at the low sedimentation site. This agrees
+obs.). Sedimentation data for the high sedimenta-                   with other field observations (Loya 1976, Morelock
+tion (site High) were low compared with the results                 et al. 1983) in which these 3 species, together with
+ofTomascik and Sander (1987), even though their                     Montastrea cavernosa and Meandrina meandrites
+sediment traps were of comparable size and situ-                    were relatively abundant in prolonged sediment
+ated at the same height above the bottom. Adey et                   stress situations. Such spatial dominance was also
+al. ( 1977) attributed the disappearance of a shallow-              apparent on the high sedimentation reef in Cura~ao
+water A. palmata barrier reef community to in-                      (Meesters unpub.).
+creased water turbidity which was caused by the                         The regeneration rate of Montastrea annularis
+erosio,p.of the soil cover on a partly exposed shelf.               was lower at the site exposed to a short-term in-
+676                                                                                                          Meesters et al.
+
+Table 2. Life history characteristics. Comparison of regeneration, reproduction, growth, polyp position, sediment rejection,
+and competitive characteristics of the species used in this study. Regeneration, sediment rejection, and competitive ability are   4
+
+
+
+given in relative units (larger circles are faster or stronger). Reproduction: H. Bc.-hermaphroditic broadcaster; G. Bc.-
+gonochoric broadcaster; H. B.-hermaphroditic brooder. Polyp position shows positioning of polyp in skeleton.                           ¢
+
+
+                                                            Growth                 Polyp            Sediment
+                        Reg.             Repr.             (mm y- 1)•             position          rejectiond          Comp.•
+
+A. palmata
+                         •              H. Be.                88.0•               _IL                   •                  •
+S. siderea                              G. Be.                 4.8                -y-
+                                                                                                       ••                  •
+P. astreoides
+                          •             H.B.                   5.3                -v-
+D. strigosa               •             H. Be.                 5.3                1\/'                 •                   •
+M. annularis
+
+•Guzman et al. 1991.
+                          •             H. Be.                15.5°               _j \_
+                                                                                                       •                   •
+•Bak 1983.
+0Tomascik 1990, columnar morphotype.
+dBak and Elgershuizen 1976.
+•Lang 1973.
+
+
+crease in sedimentation than at the relatively un-                   shuizen 1976) provide useful information on spe-
+affected upcurrent site. This difference was apparent                cies specific rejection capabilities, but the actual
+despite the fact that sedimentation was rather low                   field situation can sometimes differ, because differ-
+e.g. compared to data of Tomascik and Sander                         ences in wave exposure or depth influence the ac-
+( 1985) for Barbados. M. annularis has been known                    tual sediment load that species experience (More-
+to be an inefficient sediment rejector in the labo-                  lock et al. 1983, Cortes and Risk 1985).
+ratory experiments of Bak and Elgershuizen ( 1976),                      We show that there is intra-colony photoadap-
+and is apparently sensitive to small differences in                  tation, associated with differences in irradiance
+sedimentation rate during a short period of time.                    over the surface of the colony. This possibly ex-
+    Increased energy expenditure on cleaning mech-                   plains the equal regeneration rates oflesions on top
+anisms and a reduction in photosynthetically fixed                   and side of Porites astreoides colonies. Up to now,
+energy due to reduced light levels may cause a drop                  photoadaptation in corals has mainly been studied
+in regeneration rate under conditions of increased                   in relation with depth (e.g. Porter et al. 1984), but
+sedimentation. Negative effects of increased sedi-                   it appears to be equally important within a single
+ment load on corals have also been reported for                      colony.
+growth rates (Dodge et al. 1974, Bak 1978, Kendall                       Of basic importance in the ecology of corals is
+et al. 1983) and reproduction (Kojis and Quinn                       that species differ in their ability to regenerate small
+1984). Bak ( 1983) showed that artificial lesions in-                lesions (Table 2). Regeneration potential of Sider-
+hibited the growth of A. palmata branches, and                       astrea siderea is extremely low and in the field it is
+Rinkevich and Loya (1989) found reduced fecund-                      always the most heavily damaged species (Meesters
+ity in regenerating branches of Stylophora pistillata.               unpub.). Damage may be caused by interspecific
+This indicates that regeneration is a process at least               interactions, because S. siderea ranks low in Lang's
+equally important as growth and reproduction.                        "aggressive" ranking hierarchy (Lang 1973). Partial
+    A lower regenerative potential may increase par-                 mortality in S. siderea may constitute a way of asex-
+tial mortality, settling of other organisms on the                   ual colony propagation, especially since sexual re-
+exposed skeleton, and competition. Differential col-                 cruitment appears to be low (Bak and Engel 1979).
+ony mortality and changes in community structure                     Regeneration in Diploria strigosa is also very low,
+may eventually result in relative dominance by S.                    but damage may be restricted mainly to the septa
+siderea, D. strigosa, and P. astreoides in terms of                  walls and not to the polyp mouths. Septa walls have
+cover and density.                                                   been observed to heal faster (Meesters pers. obs.).
+    Prolonged sediment stress has a very different                   In Porites astreoides tissue regeneration is very fast.
+impact on different coral species. Short-term lab-                   Its low sediment rejection capacities are probably
+oratory experiments on sediment load tolerance of                    compensated for by the formation of mucus man-
+corals (f!ubbard and Pocock 1972, Bak and Elger-                     tles (Bak and Elgershuizen 1976) that trap sedi-
+  Effects of Sedimentation and Lesion Position on Coral Tissue Regeneration                                                   677
+
+  ment, and are removed by water action. P. as-                    Bak, RPM, Engel, MS (1979) Distribution, abundance and
+" treoides, S. siderea, and D. strigosa are often                     survival of juvenile hermatypic corals (Scleractinia) and
+                                                                      the importance oflife history strategies in the parent coral
+  spatially dominant under high sediment load con-                    community. Mar Biol 54:341-352
+  ditions (Morelock et al. 1983, Cortes and Risk                   Bak, R P M, Steward van Es, Y ( 1980) Regeneration of su-
+  1985). Regeneration in Acropora palmata is very                     perficial damage in the scleractinian corals Agaricia agar-
+  fast, just as its growth rate. Regeneration may ben-                icites, f purpurea and Porites astreoides. Bull Mar Sci,
+                                                                       30:883-887
+  efit from the amount of energy that is spent on                  Connell, L J H (1973) Population ecology of reef-building
+  growth, as distance from lesion to top of branch                    corals. In: Jones, 0 A, Endean, R (eds) Biology and Ge-
+  was small.                                                          ology of reef-building corals. Academic Press London, II.
+      Overall, Montastrea annularis emerges as best                   Biology I: 271-324
+  species, closely followed by A. palmata, M. annu-                Cortes, N, Risk, M J ( 1985) A reef under siltation stress:
+                                                                      Cahuita, Costa Rica. Bull Mar Sci 36:339-356.
+  laris is the main reef-building species in the Car-              Davies, P S ( 1991) Effect of daylight variations on the energy
+  ibbean. A. palmata, although much more restricted                   budgets of shallow-water corals. Mar Biol 108:137-144
+  in its depth distribution, can also be a main com-               Dodge, RE, Aller, R, Thomson, J (1974) Coral growth related
+  ponent in reef frameworks (Adey et al. 1977).                       to resuspension ofbottom sediments. Nature 247:574-577
+                                                                   Fishelson, L (1973) Ecological and biological phenomena in-
+                                                                      fluencing cora-species composition on the reef tables at
+  Conclusions                                                         Eilat (Gulf of Aquaba, Red Sea). Mar Biol 19:183-196
+                                                                   Guzman, HM, Jackson, J BC, Weil, E (1991) Short-term
+  l. Different species regenerate small damage at dif-                ecological consequences of a major oil spill on Panama-
+     ferent rates.                                                    nian subtidal reef corals. Coral Reefs 10:1-12
+  2. Regeneration rate decreases exponentially with                Highsmith, RC, Riggs, AC, D' Antonio, CM ( 1980) Survival
+                                                                      of huricane-generated coral fragments and a disturbance
+     time.                                                            model of reef calcification/growth rates. Oecologia
+  3. Stress, such as increased sedimentation, can                     46:322-329
+     slow down the regeneration of damage.                         Hubbard, J A E B, Pocock, Y P (1972) Sediment rejection by
+  4. Lesion regeneration was not influenced by dif-                    scleractinian corals: a key to palaeo-environmental recon-
+     ferences in lesion position on the colony surface                 struction. Geo! Rdsch 61:598-626
+                                                                   Kendall, J J, Powell, E N, Connor, S J, Bright, T J ( 1983)
+     or irradiance because of intra-colony photoad-                   The effects of drilling fluids (mud) and turbidity on the
+     aptation.                                                        growth and metabolic state of the coral Acropora cervi-
+                                                                      cornis, with comments on methods of normalization for
+                                                                      coral data. Bull Mar Sci 33:336-352
+                                                                   Knowlton, N, Lang, JC, Rooney, MC, Clifford, P (1981)
+  Acknowledgements. The Carmabi foundation provided re-
+                                                                       Evidence for delayed mortality in hurricane-damaged Ja-
+  search facilities. Dr. R. P. M. Bak is thanked for his stimu-
+                                                                      maican staghorn corals. Nature 294:251-252
+  lating comments, and A. Tie!, 0. Frans, and F. Isabella for
+                                                                   Kojis, BL, Quinn, NJ (1984) Seasonal and depth variation
+  their logistic support. This research was supported by a grant
+                                                                      in fecundity of Acropora palifera two reefs in Papua New
+  from the Netherlands Foundation for the Advancement of
+                                                                      Guinea. Coral Reefs 3: I 65-172
+  Tropical Research (WOTRO), W84-31 l, and by the Institute
+  of Taxonomic Zoology of the University of Amsterdam.             Lang, J ( 1973) Interspecific aggression by scleractinian corals.
+                                                                      2. Why the race is not only to the swift. Bull Mar Sci
+                                                                       23:260-279
+  References                                                       Loya, Y (1976) Effects of water turbidity and sedimentation
+                                                                      on the community structure of Puerto Rican reefs. Bull
+  Adey, W, Macintyre, I G, Stuckenrath, R ( 1977) Relict barrier      mar Sci 26:450-466
+     reef system off St. Croix: its implications with respect to   Morelock, J, Grove, K, Hernandez, M (1983) Oceanography
+     late cenozoic coral reef development in the western At-          and patterns of shelf sediments, Mayaguez, Puerto Rico.
+     lantic. Proc 3th Int Coral Reef Symp, Miami 2: I 5-21            J Sedim Petrol 53:371-381
+  Bak, R P M ( 1975) Ecological aspects of the distribution of     Muscatine, L, Falkowski, P G, Porter, J W, Dubinsky, Z
+     reef corals in the Netherlands Antilles. Bijdr Dierk             (1984) Fate of photosynthetic fixed carbon in light- and
+     45:181-190                                                       shade-adapted colonies of the symbiotic coral Stylophora
+  Bak, R P M (1977) Coral reefs and their zonation in Neth-           pistillata. Proc R Soc Lond. 222: 181-202
+     erlands Antilles. Stud Geo! 4:3-16                            Pearson, R G (1981) Recovery and recolonization of coral
+  Bak, R P M ( I 978) Lethal and sublethal effects of dredging        reefs. Mar Ecol Prag Ser 4:105-122
+     on reef corals. Mar Biol 9: 14- I 6                           Porter, J W, Muscatine, L, Dubinsky, Z, Falkowski, P G
+  Bak, R P M (I 983) Neoplasia, regeneration and growth in the        (1984) Primary production and photoadaptation in light-
+     reef-building coral Acropora palmata. Mar Biol 77:221-227        and shade-adapted colonies of the symbiotic coral, Sty-
+  Bak, R P M, Brouns, J J W M, Heys, F M L ( 1977) Regen-             lophora pistillata. Proceedings of the Royal Society of
+     eration and aspects of spatial competition in the scler-         London Series B 222:161-180
+     actinian corals Agaricia agaricites and M ontastrea an-       Rinkevich, B, Loya, Y (1989) Reproduction in regenerating
+     nularis. Proc 3th Int Coral Reef Symp, Miami: 143-149            colonies of the coral Stylophora pistillata. In: Spanier, E et
+  Bak, RPM, Elgershuizen, J H B W (1976) Patterns of oil-             al (eds.) Environmental Quality and Ecosystem Stability,
+     sediment rejection in corals. Mar Biol 37:105-113.               IV B, Environmental Quality. Jerusalem, Israel, 257-265
+
+                      I
+                  I
+678                                                                                                        Meesters et al.
+
+Rogers, CS ( 1983) Responses of coral reefs and reef organisms   Tomascik, T (1990) Growth rates of two morphoty~es•of
+   to sedimentation. Mar Ecol Prog Ser 62:185-202                   Montastrea annularis along a eutrophication gradient,
+Roos, P J (1967) Growth and occurrence of the reef coral            Barbados, W. I. Mar Pollut Bull 21:376-381
+   Porites astreoidesLamarck in relation to submarine ra-        Tomascik, T, Sanders, F (1985) Effects of eutrophication on
+   diance distribution. Ph.D. dissertation, Drukkerij Elink-        reef-building corals. I. Growth rate of the reef-building   •t
+   wijk, Utrecht, pp. 72                                           coral Montastrea annularis, Barbados, West Indies. Mar
+Sokal, RR, Rohlf, F J (1981) Biometry. 2nd ed, W H Freeman         Biol 94:53-75
+   and Company, New York, pp 859                                 Tomascik, T, Sanders, F (1987) Effects of eutrophication on
+Szmant, AM, Gassman, NJ (1990) The effects of prolonged            reef-building corals. II. Structure of scleractinian coral
+   bleaching on the tissue biomass and reproduction of the         communities on fringing reefs, Barbados, West Indies.
+   reef coral Montastrea annularis. Coral Reefs 8:217-224          Mar Biol 94:53-75
+
+
+
+
+                                                                                                                                     View publication stats
+

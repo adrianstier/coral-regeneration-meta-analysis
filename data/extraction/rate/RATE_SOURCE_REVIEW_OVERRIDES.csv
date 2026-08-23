@@ -1,0 +1,2 @@
+source_id,rate_extraction_route,analysis_ready,next_action,override_reason
+fe532d7a-f878-4a85-962a-7de43d06a80c,not_rate_extractable_wrong_response_assignment,0,Remove or clear the rate-response flag unless a later review finds wound-size or closure-rate data,Full-text review found reproductive-output data near parrotfish grazing scars but no wound-size time series or time-to-closure rate response.

@@ -1,0 +1,960 @@
+BULLETIN OF MARINE SCIENCE. 58(3): 838-852. 1996                                        CORAL REEF PAPER
+
+
+
+            PARTIAL MORTALITY IN THREE SPECIES OF
+         REEF-BUILDING CORALS AND THE RELATION WITH
+                      COLONY MORPHOLOGY
+
+                         Erik H. Meesters, lneke Wesseling and
+                                    Rolf P. M. Bak
+                                            ABSTRACT
+       Partial tissue mortality (lesions) in three coral species with distinctly different colony mor-
+    phologies was quantified in a series of field surveys on a shallow reef. Extent and type of
+    partial mortality was related to differences in size and morphology of the colonies within and
+    between species. Lesion size-frequency distributions were found to be very skewed to the
+    right, meaning that most partial mortality is small in size and well within the regeneration
+    capabilities of all coral species. However, large lesions may make a considerable contribution
+    in terms of surface area to total partial mortality. Within partial mortality two types of lesions
+    must be distinguished. Type I lesions are completely surrounded by living tissue and their
+    occurrence is mostly related to non-bottom associated processes. Type II lesions, at the edge
+    of a colony, are only partly surrounded by living tissue, and are caused mostly by bottom
+    associated processes. The ratio of number of type Wtype I lesions differed between species
+    and was related to the ratio of colony edge (circumference)/colony surface area in the three
+    species studied. Type II lesions were larger in size than type I lesions and can make a large
+    contribution to total partial mortality. Species differed in the number of type I and type II
+    lesions per colony and per unit of tissue area. Type II lesions were almost absent on branched
+    colonies, but very frequent on colonies of massive species. Lesion number increased with
+    colony size in the massive species. Most partial mortality is caused by bottom related pro-
+    cesses and our results show that "escape in height" is a significant feature in the life history
+    strategies of corals. The surveys showed smaJl colonies to be very vulnerable to partial
+    mortality. Because their circumference/surface area ratio is high, they are very susceptible to
+    colony edge (i.e., bottom-associated) processes that cause mortality. Consequently, small
+    colonies will often suffer whole colony death. On the other hand, large colonies, although
+    unlikely to escape partial mortality, will less often suffer complete mortality. The relationship
+    between this ratio and susceptibility to partial mortality holds as well within species as
+    between species and suggests an important effect of colony morphology on survival. Colony
+    genetic identity also affected susceptibility to partial mortality. Other factors that may influ-
+    ence sensitivity to mortality are discussed. Regeneration capabilities of corals suggest that
+    scleractinian corals have become adapted to the very common occurrence of small lesions.
+
+
+
+   Damage to the living surfaces of corals is caused by abiotic and biotic distur-
+bances, such as hurricanes (Knowlton et aI., 1981; Rogers et aI., 1991), diseases
+(Peters, 1984), emersion at low tide (Fishelson, 1973) predation (Glynn, 1988;
+Bak and van Eys, 1975; Robertson, 1970) and other interspecific interactions
+including interactions with humans (Lang, 1971; Pearson, 1981; Bak et aI., 1982;
+Hudson and Diaz, 1988).
+   Corals and many other taxa are modular colonial organisms and consequently
+the modules or subunits can function and survive as physiologically independent
+entities. A group of modules (colony) may be divided into many separate parts
+through processes such as growth and tissue shrinkage, fission, and fusion
+(Hughes and Jackson, 1980; Bak et aI., 1981; Jackson and Coates, 1986). Partial
+mortality, the ability of corals to survive the loss of part of the living tissue, is
+central in their life history strategies. The genetic individual may survive in bits
+and pieces. Demographic studies of colonial reef organisms taking partial mor-
+tality into account suggest that coral colonies loose more tissue through partial
+
+                                                   838
+                       MEESTERS ET AL.: MORTALITY AND MORPHOLOGY IN CORALS                           839
+
+
+mortality than through whole colony death (Hughes, 1984; Hughes and Jackson,
+1985; Done, 1987; Babcock, 1991; Lasker, 1991; McFadden, 1991).
+   When a colony surface is damaged the tissue around this lesion grows inwards
+to recover the wound (Fishelson, 1973; Loya, 1976; Bak et aI., 1977; Bak and
+Steward-van Es, 1980; Bak and Criens, 1981; Bak, 1983). If this fails, the result
+is partial mortality that remains visible as a bare patch of skeleton on the surface
+of the coral colony.
+   Regeneration of lesions is influenced by lesion size, interspecific interactions,
+and environmental conditions. Research has shown that different species are char-
+acterized by different regeneration rates, associated with their life history strate-
+gies (Bak et aI., 1977; Bak and Steward-van Es, 1980; Bak and Criens, 1981;
+Bak, 1983; Meesters et aI., 1992; Meesters and Bak, 1993). If lesions are above
+a certain size they will not be completely regenerated (Bak and Steward-van Es,
+1980) and can be colonized by algae and excavating sponges that may overgrow
+the coral tissue or weaken the skeleton, respectively.
+   Obviously, regeneration rates, the occurrence of coral colony surface damage
+and the role of partial mortality are key elements in the ecology of stony corals.
+There are no data, however, on the role of these processes on the reef, on possible
+differences between species and variation between colony growth forms.
+   The linkage between growth-form/mortality processes is not often considen::d
+by reef ecologists, except for factors such as wave action and turbulence (Woodley
+et aI., 1981). Jackson (1979) reviewed morphological strategies in colonial or-
+ganisms and suggested that the ratio of proximal circumference (colony edge) to
+colony tissue surface area is an important characteristic in the relative vulnera-
+bility of species to bottom-associated processes.
+   In this study we assess partial mortality (colony surface lesions) on a shallow
+reef for three species, a branching coral species (Acropora palmata) and two
+massive species (Porites astreoides and Diploria strigosa). We address the fOiI-
+lowing questions: 1) What are the characteristics of partial mortality for each
+species? 2) Are lesion characteristics indicative for different causative mecha-
+nisms? 3) How do the characteristics of partial mortality relate to different life
+history strategies?
+
+
+                                    MATERIALS      AND METHODS
+
+Survey and Species.-Partial mortality was assessed on 446 colonies of 3 abundant coral species. The
+corals were surveyed at three sites along the coast of the Caribbean island of Cural<ao,Netherlands
+Antilles. The sites were located, in front of the Avila beach hotel, at Carmabi buoy 2, and in front of
+Seaquarium. At each site colonies were surveyed in 2- or 4-m wide transects depending on density
+of coral colonies. Transects were parallel to the shore in the shallow reef coral community (Depth
+1.5-3.5 m) of the Acropora palmata zone and the barren zone (Bak, 1977). We surveyed the most
+abundant species, notably A. palmata (Lamarck, 1816), Diploria strigosa (Dana, 1848), and Porites
+astreoides Lamarck, 1816. In each species, colony and lesion characteristics of the first 50 colonies
+encountered were measured. Due to low densities fewer colonies were surveyed occasionally.
+   The three species differ in colony morphology and life history traits. Acropora palmata, a branching
+coral, can occur in dense stands that efficiently dissipate the high water energy characteristic of their
+exposed habitat. Most colonies are well within the breaker zone where they may fragment during
+storms (Highsmith et aI., 1980). Sexual recruits of A. palmata were virtually absent on these reefs
+(Bak and Engel, 1979), and asexual reproduction by fragmentation may constitute the main mode of
+reproduction (Highsmith, 1982). The two other species also occur in the A. palmata zone, but are not
+exclusive to it, their distribution ranging from 0.5 to 30 m (Bak, 1977). The hemispherical colonies
+of Diploria strigosa, a brain coral, occur in sizes up to 1 m in diameter. Porites astreoides colonies
+are a flat to hemi-spherical, bumpy or smooth polypary surface, not wider than 40 em. The three
+species are hermaphroditic (Szmant, 1986). A. palmata and D. strigosa are broadcast spawners that
+have one gametogenesis each year and produce few recruits (Bale and Engel, 1979). P. astreoides has
+840                         BULLETIN OF MARINE SCIENCE, VOL. 58, NO.3,   1996
+
+
+a high recruitment success (Bak and Engel, 1979) and releases brooded larvae on an almost monthly
+basis in Jamaica (Chomesky and Peters, 1987).
+Colonies.-A colony was defined as an autonomous mass of skeleton with living tissue. This includes
+colonies separated by partial mortality into disconnected patches of living tissue but morphologically
+still one entity. Two patches of living tissue on one colony were recorded as one fission event, three
+patches as two fission events, etc. The bare skeleton in between was measured and recorded as a
+lesion. The total surface area of each colony was estimated by regarding it as a circle, a rectangle, a
+hemisphere, or a combination of a hemisphere and a cylinder, and applying the appropriate geometrical
+formula. Colony diameter was estimated by taking the square root of the product of the maximal
+length and perpendicular width.
+   In Acropora palmata three random branches were measured on each colony. Consequently, we only
+estimated branch surface area. We distinguished upper and undersides of branches. In the two massive
+species there was no underside. Interspecific comparisons were made without taking branch undersides
+into account.
+Lesion Type and Lesion Size.-A pilot study showed two main types of lesions to exist: a) Type I
+lesions. These are lesions on all sides surrounded by living tissue; b) Type II lesions. These lesions
+are only partly surrounded by living tissue. Both type of lesions can be found on the same colony,
+   Lesion size in the pilot study was found to be approximately log normally distributed. Based on
+these results and for practical reasons we assigned lesions to one of six size classes: ±0.1-1 cm2, 1-
+4, 4-16, 16-49, 49-100, and larger than 100 em'. Lesions larger than 100 cm2 were measured to the
+nearest 50 cm2• To calculate the total lesion area of each colony we used geometric means of the
+lesion size classes except for lesions larger than 100 cm2 where the log of the actual size was taken.
+
+
+                                              RESULTS
+
+Lesion Size-frequency Distributions.-Size       and number of type I and II lesions
+for the three species, for the three sites combined, are shown in the lesion size-
+frequency distributions of Figure 1. Very obvious is the difference between type
+I and type II lesions. Distributions of type I lesions, lesions completely surrounded
+by living tissue, are very skewed to the right, indicating that lesions in the smallest
+size class dominate the distribution. The distributions of type II lesions, lesions
+that are only partially surrounded by living tissue, are more evenly spread over
+the lesion size classes, indicating more lesions in the larger size classes and a
+higher mean size.
+   The lesion size-frequency distributions of the three species (Fig. 1) differed
+depending on species, lesion size and lesion type (test for 3-factor interaction
+using log-linear model of species, lesion size class, and lesion type; G = 37.1,
+df = 6, P < 0.001, the three largest size classes were lumped; Sokal and Rohlf,
+1981). The distribution of Type I lesions was the same for Acropora palmata
+(upperside) and Porites astreoides (P = 0.24), but differed between Diploria
+strigosa and P. astreoides (G = 19.3, df = 3, P < 0.001; three largest size classes
+lumped). Type II lesions differed between the two non-branching species (G =
+19.9, df = 5, P < 0.005). Diploria had fewer lesions in the smallest and more
+in the largest size class. Type II lesion numbers in Acropora were too low for
+statistical comparisons.
+   Type I and type II lesions were not equally distributed over the three species
+(G = 338.8, df = 2, P < 0.00001). Type II lesions in Acropora represented only
+7.5% of all lesions counted, while they represented 51 and 69% in Diploria and
+Porites, respectively (Fig. 1).
+   In the branching coral type I lesions were the most common type of lesions
+(92.5%). Fifty nine percent, of the type I lesions (N = 385), was in the smallest
+size class. Partial mortality was much more common on the upperside of branches.
+Of the total number of lesions (N = 416), 93% was located on the upperside of
+the branches. In contrast to type II lesions, type I lesions never were larger than
+100 cm2•
+                             MEESTERS ET AL.: MORTALITY AND MORPHOLOGY IN CORALS                                     841
+
+
+                                                                Acropora palmata
+                                    Upperside                                             Underside
+     100                                                  IT                       I                       II
+      80
+                    n = 368                         n=20                      n = 17                   n   = 11
+      60
+ %
+      40
+      20
+       0
+                                                                                                 SI   -4 -16 49 -100 >100
+
+                              Lesion Size (cm2)                                        Lesion Size (cm2)
+
+                            Diploria strigosa
+     100                                                   IT
+      80
+                     n = 175                         n=l72
+      60
+ %
+      40
+      20
+       0
+            SI   -4 -16 -49 -100 >100     SI    -4 -16 49       -100 >100
+
+                             Lesion Size (cm2)
+
+                         Porites astreoides
+     100                I                                 IT
+      80
+
+      60
+ %
+      40
+      20
+       0
+            SI   -4 -16 49    -100 >100   SI    4   -16    49   -100>100
+
+                             Lesion Size (cm2)
+
+Figure ]. Lesion size-frequency distributions (percentage of total number of lesions) of Acropora
+palmata at upper and underside of branches (N = 333) and for colonies of Diploria strigosa (N =
+ 155) and Porite~' astreoides (N = 179). The minimum of each size class is the maximum of the
+previous size class. Type I lesions are completely surrounded by living tissue; Type II lesions are only
+partly surrounded by tissue.
+
+
+   In the massive coral species 347 lesions were counted on 155 Dip/oria strigosa
+colonies, and 210 lesions on 179 Porites astreoides colonies. Type II lesions,
+lesions that are not on all sides surrounded by living tissue, were much more
+common than in Acropora. In Dip/oria 98% of the type I lesions (N = 175) are
+in the smallest size class.
+Lesion Number.-There    were large differences in number of lesions between spe-
+cies and lesion types (Table 1). On the average, 68% percent of branches and
+colonies was damaged. Geometric means most accurately described the means of
+the highly skewed frequency distributions. Dip/oria has the highest number of
+lesions per square meter and Acropora the lowest. Type II lesions which are
+842                       BULLETIN OF MARINE SCIENCE, VOL. 58, NO.3,            1996
+
+
+Table 1. Geometric mean number of lesions colony-I and m-2 and percent colonies damaged for the
+three surveyed species. Values for Acropora pa/mata are branch-I. (Roman numbers refer to lesion
+type; n number of measured colonies)
+
+                                                                                                %
+                                           [[             ] m-2              IIm-'           Damaged           n
+
+A. pa/mata            0.215              0.006            1.274              0.Q11             68             II]
+D. strigosa           0.061              0.306            0.392              6.355             37         155
+P. astreoides         0.017              0.125            0.058              2.467             20         179
+Total                 0.054              0.096            0.253              1.035             68         445
+
+
+
+almost absent on the branching coral, but very abundant, and more frequent than
+type I lesions, on the two massive species. Remarkable is the low number of type
+I lesions on Porites astreoides. Per unit surface area, type II lesions on Dip/oria
+and Porites are, respectively, 577 and 224 more frequent than on Acropora.
+   The ratio of type II1type I lesions differed also remarkably within each species
+(Table 1). In Dip/oria type II lesions were five times as frequent as type I lesions,
+in the other species these ratios are 7.4 and 0.03 for, respectively, Porites and
+Acropora.
+   In the branching coral the mean number of lesions per colony branch depended
+on the side of the branch and on the type of lesion (Table 2). An examination of
+the means (Table 3) indicates that on the underside of branches there is no dif-
+ference between the mean number of type I and type II lesions. On the upperside,
+Type I lesions are 36 times more frequent than Type II lesions (upperside type I
+lesions significantly different from all others at P < 0.01, other comparisons were
+not statistically different; multiple comparisons with Tuckey HSD).
+Lesion Size.-Mean lesion size (Table 4) differed between species-lesion type
+combinations (Kruskal-Wallis KW = 246, df = 5, P < 0.001). Pairwise com-
+parisons indicated that Acropora type II lesions were the largest lesions (Table
+5). Within each species type I lesions were always smaller than type II lesions.
+Acropora Type I lesions were larger than Dip/oria and Porites type I lesions.
+   In the branching coral we also measured lesions on the underside of branches
+(Table 4). Multiple comparisons showed lesions to differ only in size when of
+different type (Table 6). The side of the branch had no influence on mean lesion
+size. Using the data on lesion number and lesion size we calculated total lesion
+area and percentage of the colony area that is lesion area. Partial mortality con-
+
+
+Table 2. Acropora palmara. Relation of lesion abundance to reef location, lesion type, and branch
+side (3-way anova on the mean number of lesions, type I + type II per colony branch, three
+branches·colony-I). Data were square-root eV(lOO-X) transformed. Branch side, sampling site and
+lesion type are fixed factors.
+
+      Source                    SS               Of                 MS                   F                P
+
+Location                          35.2                2              17.6               1.08            0.34
+Side                           1,471                  I           1,471                90.54           <0.001
+Type                           1,367               1              1,367                84.15           <0.001
+Side· Location                    27.9             2                 14.0               0.86            0.42
+Side·Type                      1,345               1              1,345                82.75           <0.001
+Location· Type                    27.8             2                 13.9               0.86            0.43
+Side-Location·Type                36.2             2                 18.1               1.11            0.32
+Error                          7,021             432                 16.25
+Total                         11,331             443
+                          MEESTERS       ET AL.: MORTALITY      AND MORPHOLOGY      IN CORALS                           843
+
+Table 3. Number of lesions per branch per colony. (Geometric mean of type I and II lesions of all
+branches together, for damaged branches, and maximum number per branch)
+
+                                                            Upperside                             Underside
+
+             A. palmata                          Type I                 Type II          Type I               Type II
+
+Mean                                             0.215                  0.006            0.005                0.005
+Maximum                                          6                      I                1.67                 I
+Mean of damaged branches                         1.202                  0.479            0.41                 0.45
+
+
+
+
+stituted less than 0.1 % of the total colony area (Fig. 2). Although type II lesions
+were much larger than type I lesions (Table 5), they were much less frequent
+(Table 3), especially on the upperside of branches. As a consequence, percent
+partial mortality of Type I lesions on the upperside was much larger than that in
+the other three groups (Mann-Whitney U-test, P < 0.00]).
+   Within the massive species the mean lesion size of type II lesions was larger
+in Diploria than in the smaller Porites species, possibly because the upper limits
+for lesion size are determined by colony size. Because Dip/oria colonies are larger
+than Porites colonies, they can have larger lesions.
+Fission.- The number of colonies that actually showed fission, the separation into
+disconnected parts of living tissue by partial mortality, was low. In Acropora
+fission was absent. In Diploria 10 out of 155 colonies (6.4%) showed fission. In
+these cases fission produced an average of 3.6 colonies per parental colony. In
+Porites fission occurred even less, only in 5 of the 179 colonies (2.8%). Fission
+in Porites produced 2.6 colonies per parent colony.
+   There was a positive linear relationship between number of colol)ies produced
+by fission and colony area in Diploria (number of fission derived colonies = 0.76
++ 1.86 log (colony surface area); P = 0.037, r2 = 0.44). In Porites, colony
+numbers were too low to calculate the effect of colony size on fission. However,
+the Porites colonies with fission were smaller than Diploria colonies (geometric
+mean size respectively 138 and 771 cm2, P = 0.027, I-way anova) and the fission
+number of Porites (2.6) is very close to the estimated value of 2.2 that can be
+calculated with the regression equation for Diploria. Thus the number of colonies
+produced by fission, although very low, appears to increase with colony surface
+area.
+
+
+Table 4. Partial mortality measured as lesion size (cm2) in Acropora palmata, Diploria strigosa, and
+Porites astreoides. Lesions are grouped into type I (i.e., completely surrounded by tissue) and type II
+(partly surrounded by living tissue). (In Acropora palmata lesions were measured on the upperside
+(Up.) and underside (Un.) of branches)
+
+                              Lesion               Geometric
+   Species                 type (side)               mean                   Min.           Max.               Median
+
+A. palmata                 I (Up.)                    0.91                   0.32            70                0.32
+                           II (Up.)                  86.8                    8            1,950               70
+                           I (Un.)                    1.23                   0.32            70                0.32
+                           II (Un.)                 107                     28              400               70
+D. strigosa                I                          0.45                   0.32            70                0.32
+                           II                         3.70                   0.32         4,450                2
+P. astreoides              1                          0.66                   0.32            28                0.32
+                           II                         1.42                   0.32           200                2
+844                          BULLETIN OF MARINE SCIENCE. VOL. 58. NO.3.       1996
+
+
+Table 5. Pairwise comparisons of lesion size (Kruskal-Wallis statistic; Siegel and Castellan, 1989).
+Abbreviations as in Table 1. Species names are given as the first letter of the genus and species name.
+Significant differences in size: * = p < 0.05. Geometric mean size in (cm2).
+
+                 ApI             Ap II            Ds I          Dsn                  Pa I         Pa II
+
+Ap I             0.91              *                 *                                *
+Ap II             *              86.8                *           *                    *              *
+Osl               *                *             0.45            *                                   *
+Os II                              *                 *          3.7                   *              *
+Pa I              *                *                             *                   0.66            *
+Pa II                              *                 *           *                    *           1.42
+
+
+
+Inter-colony  Differences.-GENETlC EFFECTS. The sampling design used to measure
+the branching coral can be used to test whether there are differences between
+colonies in vulnerability. On the average 49.2% of all sampled branches had at
+least one lesion (Table 7). This proportion did not differ between the three sam-
+pling sites (P = 0.5, G-test). To determine if colonies differ in their vulnerability
+to partial mortality we tested whether lesions were randomly distributed over
+colonies. The expected proportion of branches showing partial mortality when
+only one branch is sampled of each colony can be calculated as the mean pro-
+portion of branches with lesions of all the first, all the second, and all the third
+branches that were sampled on each colony. With this proportion one can calculate
+the expected percentage when sampling three branches from the same colony if
+these are independent of colony identity. This proportion can then be compared
+with the observed proportion.
+   When sampling three branches from one colony, the chance that at least one
+of them is damaged will be 1 - P (all three without a lesion). For example, for
+site A this would be 1 - 0.443 = 0.92 [56% with one or more lesions, gives (1
+- 0.56) = 0.44 with no lesion]. Because A. palmata colonies often have many
+branches, it should be almost impossible for a colony not to have at least one
+branch with partial mortality.
+   The expected frequencies and results of the comparison between observed and
+expected frequencies (Table 7) show that significantly fewer colonies had a lesion
+than expected when branches were independent of colony identity (paired t-test,
+t = 16.2, df = 2, P = 0.004). Test for non-randomness, the runs test (Sokal and
+Rohlf 1981), indicated that lesions were aggregated within colonies (P = 0.02,
+0.003, and 0.0001 for sites A, B, and C, respectively). Thus, colonies of Acropora
+palmata differ in their vulnerability to damage.
+   COLONY SIZE. In the branching coral Acropora palmata we investigated the
+influence of colony size by calculating regression lines of lesion number vs.
+branch area. The number of lesions increased with total branch surface area, but
+only a small proportion of the total variation (r2) was explained by the regression
+
+Table 6. Pairwise comparisons of lesion size in the branching coral Acropora pa/mata (Kruskal-
+Wallis statistic; overall statistic KW = 94.7, Df = 3, n = 416, P < 0.001; Siegel and Castellan, 1989).
+Abbreviations as in Table 1. Significant differences; * = P < 0.001.
+
+                        Up. I                  Up. II                 Un. [                 Un. II
+
+Up. I                   0.93                     *                                            *
+Up. II                   *                     86.8                       *
+Un. I                                            *                    1.23                    *
+Un. II                   *                                                *                 107
+                         MEESTERS ET AL.: MORTALITY AND MORPHOLOGY IN CORALS                         845
+
+                                            0.10
+
+
+
+
+                                                       I
+                                      ~     0.08
+                                      ~
+                                    'i:I
+                                      Q)
+                                            0.06
+                                      OJ)
+                                      ~
+                                            0.04
+                                      ~
+                                    Q
+                                            0.02
+                                    ~
+                                            0.00
+                                                              t               ~
+
+
+
+                                                                     ••
+                                                Type I        II      I      II
+                                                 Side .•
+                                                              ••
+Figure 2. Mean percentage damaged area (95% confidence Iimits)·colony-I of Acropora palmata for
+type I and II lesions at under (arrow down) and upperside (arrow up) of branches (N = 111 colonies,
+three branches surveyed colony-I). Type I lesions are completely surrounded by living tissue; Type II
+lesions are only partly surrounded by tissue. To calculate colony area the uppers ide of the branch was
+used.
+
+
+(P < 0.01 for all sites, r2 = 0.17,0.14, and 0.07 for site Seaquarium, Avila, and
+Buoy 2, respectively). This indicates that branch area is not very important in the
+number of lesions a colony has.
+   In both massive species large colonies suffered more from partial mortality,
+while small colonies often had no partial mortality (Fig. 3). This effect of colony
+size on the proportion of colonies with/without partial mortality was the same in
+both massive species (loglinear model P = 0.38 for interaction between species
+and mortality/no-mortality; both species five colony size classes). Average size
+of undamaged colonies was also significantly smaller than that of damaged col-
+onies (I-way anova, P < 0.001 for both species).
+   The mean number of lesions per colony increased with colony size in both
+massive species (Fig. 4). The numbers are quite low because there are generally
+many small colonies (lognormal size distribution) which have almost no lesions.
+This is reflected in Figure 4 in which most size classes are small. The radius of
+a hemispherical colony of 75 cm2 is less than 4 cm. In colonies larger than 75
+cm2, each colony of Dip/oria has on average one lesion; in Porites this is one in
+every two colonies. Porites colonies in the smallest size class (average !1l = 2 cm)
+
+Table 7. Mean proportion of damaged branches. Means when sampling one branch per colony are
+calculated from three data groups, the first, second, or third branch from each of the sampled colonies
+(thus n = 3). Using a binomial distribution the expected proportion when three branches per colony
+are sampled is calculated. This is then compared with the observed frequency by a paired t-test. Sites
+and expected proportion are compared by a G-test. n,ol' number of colonies each of which three
+branches were surveyed.
+
+                    I   branchsampled
+                         colony-l                             3 branches sampled/colony
+    Site                Mean:!:: SD                Observed                        Expecled      nool
+
+
+
+Avila               0.56 ± 0.072                   0.79                            0.92          29
+Buoy I              0.49 ± 0.034                   0.71                            0.87          34
+Seaquarium          0.42 ± 0.073                   0.67                            0.81          48
+Mean ± SO           0.49 ± 0.070               0.82 ± 0.042                   0.72 ± 0.061
+Statistical           G = 1.42                   G = 1.47                   t = 16.2, Of = 2,
+  tests               P = 0.49                   P = 0.48                       P = 0.004
+846                            BULLETIN OF MARINE SCIENCE, VOL. 58, NO.3, 1996
+
+
+
+                         Diploria strigosa                                                          Porites astreoides
+               100                                                                    100
+                                                                    15 11
+
+                   80                                                                     80
+                                               o Mortality
+                   60                          • No mortality                             60
+               %                                                                      %
+                   40                                                                     40
+
+                   20                                                                     20
+
+                   0                                                                      0
+
+                        --
+                        0
+                        VI
+                             11"1
+                             N
+                             e
+                               I
+                                      11"1
+                                      I""-
+                                      11"1
+                                      N
+                                           I
+                                                8
+                                                N
+                                                  0 0 0
+                                                  I
+                                                 II)
+                                                 l"-
+                                                    0 0    11"1
+                                                           11"1
+                                                             I
+
+
+                                                           8 11"1
+                                                             2>     --
+                                                                    11"1   11"1
+
+                                                                           A
+                                                                                                    - 8
+                                                                                                    0
+                                                                                                    VI
+                                                                                                             11"1
+                                                                                                             N
+                                                                                                             ....
+                                                                                                               I
+                                                                                                                         11"1
+                                                                                                                            I""-
+                                                                                                                               I
+                                                                                                                            11"1
+                                                                                                                            N
+                                                                                                                                          8
+                                                                                                                                          N
+                                                                                                                                          e
+                                                                                                                                          II)
+                                                                                                                                             I
+                                                                                                                                                        0
+                                                                                                                                                        ~
+                                                                                                                                                        A
+
+                                                           N                                                                              I""-
+                                                                    11"1
+
+                                                           Colony size class (cm2)
+Figure 3. Percentage of colonies with and without partial mortality in colony size classes of Dip/oria
+strigosa and Porites astreoides. Total number of colonies in white bars. Statistics: Dip/oria. G = 16.9,
+df = 6, P = 0.010; Porites, G = 26.9, df = 4, P < 0.001.
+
+
+never had any type 1 lesions. Small colonies in Porites were relatively much more
+damaged by type II lesions than by type 1 lesions (G = 24.8, df = 4, P < 0.001).
+This effect seems absent in Diploria.
+                                                                         DISCUSSION
+  Our results show clearly that partial mortality differs significantly in different
+species. These differences are quantitative, e.g., in the number of lesions per
+
+               0.8                                                                         2.0
+
+                        Porites astreoides                                                           Diploria strigosa
+               0.6                                                                            1.5
+        ->.                        -II                                                                             -II
+
+        -s::
+         0
+         0
+         u
+         c::
+               0.4
+                                   01
+                                                                                              1.0
+                                                                                                                   01
+
+
+
+
+               0.2                                                                         0.5
+
+
+               0.0                                                                         0.0
+                        - -
+                        0           11"1
+                                    N
+                                      I
+                                                  11"1
+                                                  I""-            8          0
+                                                                             11"1
+                                                                             11"1                    --
+                                                                                                     0       11"1
+                                                                                                             N
+                                                                                                                     11"1
+                                                                                                                       8
+                                                                                                                     I""-
+                                                                                                                            0
+                                                                                                                              8 8                11"1
+                                                                                                                                                 11"1
+
+                                                                                                                                                        --
+                                                                                                                                                        11"1    11"1
+
+
+                                                                                                      "
+                        V                              I
+                                                                  N                                      V             NI
+                                    0             11"1               I            I                                  11"1            I             I
+                                                                             0
+                                                  N               11"1
+                                                                  l""-       e
+                                                                             N
+                                                                                                                     N
+                                                                                                                       I""- 8
+                                                                                                                            N 8
+                                                                                                                                /\ 11"1                     I
+
+
+
+                                                                                                                                                        11"1
+
+                                                           Colony size class (cm2)
+Figure 4. Mean number of type I and type II lesions ·colony-l in colony size classes of Porites
+astreoides and Dip/aria strigosa. Colony numbers as in Figure 3.
+                   MEESTERS ET AL.: MORTALITY AND MORPHOLOGY IN CORALS             847
+
+
+colony, and qualitative, e.g., in the occurrence of different types of lesions. Such
+differences are related to morphological characteristics of the species studied.
+Type I versus Type II Lesions.-A remarkable phenomenon in partial mortality
+is the occurrence and significant differences between two types of lesions: one,
+surrounded on all sides by tissue (type I), and one which is only partly surrounded
+by living tissue (type II). Most type I lesions are very small, and are always
+smaller than type II lesions. As a consequence, a type II lesion will have a stronger
+impact on a colony than a type I lesion, because the colony will have less tissue
+to support growth, reproduction, and regeneration. Thus type II lesions are po-
+tentially more detrimental to a colony's long-term survival. However, lesion fre-
+quencies were highly dependent on species, colony size and lesion type.
+   The differences between lesion types and species can be explained by differ-
+ences in the causes of the two lesion types and the effect of colony morphology.
+   The two types of lesions are probably indicative of different mortality causing
+processes. Type II lesions are always on the edge of the living tissue (see Materials
+and Methods) and therefore they occur mostly close to the bottom. Type I lesions
+are completely surrounded by living tissue and occur over the whole colony, but
+not on the edge of the living tissue. This means that type II lesions are more
+likely to originate from agents that are restricted to the bottom, while type I lesions
+originate more from agents that move freely in the water column. For example,
+interspecific interactions with corals, sea urchins, and polychaetes, scouring sand,
+and moving coral fragments are more likely to cause type II lesions. Urchins and
+polychaetes will start at the edge of the living tissue. Sand and moving fragments
+are, solely because of gravity, also more likely to cause damage close to the
+bottom. Fish, divers, and diseases, are likely to cause more lesions of type I.
+Colony Morphology.-If we assume that our hypothesis about the origin of the
+different lesion types is true, Acropora will have little chance of type II mortality
+and most partial mortality should consist of type I lesions. Porites has relative to
+its colony surface area the largest circumference and should have the highest
+number of type II lesions relative to the number of type I lesions. Diploria should
+be intermediate Porites and Acropora.
+   We compared the ratio type II/type I lesions with the ratio of proximal colony
+circumference/colony surface area for the three species (Fig. 5). The type II/type
+I ratio not only indicates the relative importance of peripheral versus non-periph-
+eral processes, but to some extent also the total mortality, since type II lesions
+are larger than type I lesions.
+   The results (Fig. 5) show that colony morphology is closely related to the
+specific susceptibility to partial mortality. Branching corals, such as Acropora,
+having a very small proximal-perimeter/surface-area ratio are relatively safe from
+type II lesions because they have relatively little colony surface close to the
+bottom. However, because of the small attachment area the risk of breakage is
+high. In Acropora this risk is offset by an "escape in height" from bottom as-
+sociated processes that cause mortality (Table 1, Fig. 5).
+   The small attachment area may also explain why type I lesions in the branching
+coral are larger than in the massive corals. Type I lesions may enlarge through
+interspecific competition between coral polyps and organisms that settle in the
+lesions. In massive species the lesion may eventually reach the edge of the tissue
+and turn into a type II lesion. This is less likely to happen in the branching coral,
+because of the small attachment area.
+   Diploria strigosa colonies have much surface area relative to the colony cir-
+cumference, although less than in the branching coral. Consequently, Diploria
+848                        BULLETIN OF MARINE SCIENCE. VOL. 58. NO.3.   1996
+
+
+
+
+                              8                      Porites astre~i~
+
+                                                           '--"'7
+                              6
+
+                                                 D9
+                                        Acropora palmata
+                                                                 w
+
+
+
+
+                              2
+
+
+                              o
+                             0.01                0.10                   1.00
+                                      Perimeter I Surface area
+Figure 5. Ratio of the mean number of type lftype II lesions colony I versus the proximal circum-
+ference/total surface-area (em-I) ratio in Acropora palmata (N = III), Porites astreoides (N = 179),
+and Diploria strigosa (N = 155). General colony shape is shown. The perimeter of the proximal end
+of a A. palmata branch was estimated as an ellipse with mean length and width. Perimeter of the
+other two species was calculated assuming a hemi-spherical morphology for both, using estimated
+mean colony surface area. Regression: line estimate, 1111= -2.34 + 2.39 In(lOO X circumference/
+total surface area), r2 = 0.98, N = 3, P = 0.09.
+
+
+had more type II partial mortality than Acropora. In Dip/oria the lower part of
+the colony also often overhangs, thus potentially limiting the access for benthic
+predators.
+   P. astreoides is more frequently damaged by type II lesions than the other
+species. Relative to the colony's surface area it has a large perimeter, which ren-
+ders it relatively more susceptible to damage from benthic organisms or abiotic
+agents like sand scouring or moving coral fragments.
+   The low incidence of fission can be explained by the effects of colony mor-
+phology on partial mortality. The percentage of colonies originating from fission
+was much lower than reported earlier (Hughes and Jackson 1985; Babcock 1991).
+Babcock (1991) concluded that colony fission is likely to constitute a cost rather
+than a benefit, because there is increased probability of further partial mortality
+and total fecundity decreases. Colony fission in foliaceous species can be very
+high (Hughes and Jackson 1985). Colonies of foliaceous species have twice as
+much perimeter relative to colony surface area as hemispherical colonies of the
+same diameter (assuming a circular morphology). Consequently, partial mortality
+in foliaceous colonies will involve more type II lesions than in hemispherical
+colonies. Because fission involves type II lesions, foliaceous species are more
+likely to show fission.
+Evo/utionairy Aspects.-Smalliesions      are more abundant than larger lesions and
+most lesions were smaller than 1 cm2• This size is well within the regeneration
+capabilities of corals (Bak et al. 1977; Bak and Steward-van Es 1980; Bak 1983;
+Meesters et al. 1992; Meesters and Bak 1993). Bak and Steward-van Es (1980)
+noted that regeneration stops after a certain time interval presumably because of
+an intrinsic factor. Therefore, large lesions, too large to be recovered within the
+regeneration time interval, will never be closed. The lesion size-frequency distri-
+butions do not show the lesions that have been regenerated. Very many small
+                   MEESTERS ET AL.: MORTALITY AND MORPHOLOGY IN CORALS           849
+
+
+lesions must recover in a matter of days. The great capacity of corals to regenerate
+small lesions must have evolved as a consequence of the relatively high frequency
+with which these lesions are being inflicted. Of course, physiological limitations
+in the energy translocation necessary for the regeneration are also involved and
+should be investigated (Meesters et aI., 1994).
+   Colony size influenced the susceptibility to mortality by both massive species.
+Small colonies often showed no partial mortality, although per unit area they had
+on average the highest partial mortality. This indicates that small colonies are
+more likely to escape damage than larger colonies, but when damage occurs,
+mortality may be total (Hughes and Jackson, 1980, 1985; Rylaarsdam, 1983;
+Babcock, 1991). Because small colonies have much circumference relative to the
+total surface area, they will be more susceptible to benthic agents that cause type
+II lesions. Small colonies of Porites astreoides are generally flatter than small
+colonies of Diploria strigosa and this may explain the relative dominance of type
+II lesions on small P. astreoides colonies. Because type II lesions are larger than
+type I lesions, P. astreoides colonies will also more often experience whole colony
+mortality. The life history strategy of P. astreoides allows high juvenile mortality.
+The species has the second highest rate of recruitment on our reefs, only preceded
+by Agaricia agaricites (Bak and Engel, 1979).
+   Clearly, the consequences of shape and size are not limited to colonies within
+a species, but extend to the general colony morphology of any species. Species
+that have mostly small or flat colonies have much circumference relative to sur-
+face area and should be vulnerable to mortality by type II lesions. The vulnera-
+bility of species with small maximum size colonies may have led to the devel-
+opment of a set of reproductive traits that is commonly called brooding (Harrison
+and Wallace, 1990).
+   In many marine invertebrates brooding is associated with small adult size
+(Strathmann and Strathmann, 1982). In corals brooding does not appear to be
+associated with adult polyp size, but with maximum colony size (Kojis and Quinn,
+1982; Van Moorsel, 1983; Szmant, 1986; Babcock, 1991; Soong, 1993). Species
+with small maximum colony sizes generally brood and we hypothesize that this
+mode of reproduction has evolved to overcome the high mortality that is asso-
+ciated with this type of colony morphology.
+   Another way to cope with a higher chance of mortality resulting from mor··
+phology is to develop a high regeneration potential. This has been shown in
+platelike colonies of the coral Meandrina meandrites (Linnaeus, 1758). This spe-
+cies has the highest regeneration rate ever reported (Meesters and Bak, 1993) and
+is very successful in interspecific interactions (Lang, 1973). Both characteristics
+seem to indicate that this species is extraordinarily adapted to the possibility of
+damage by interactions at its periphery. The absence of partial mortality observed
+on colonies of the genus Mycetophyllia (pers. obs.) is possibly also an indication
+of highly developed regeneration potential.
+
+Other Factors Affecting Partial Mortality.-Partial mortality is not just related to
+colony morphology. The results suggest that different genetic characteristics with-
+in a species are also important. Branches with partial mortality were more likely
+to be part of the same colony. This is analogous to the results of Babcock (1991)
+for massive colonies who found that damaged colonies had more chance of future
+mortality than undamaged colonies.
+   The three species may also differ in their susceptibility to disease. The extreme
+difference in the mean size of type II lesions in Acropora when compared with
+the massive species may be caused by the specific susceptibility of the genus
+850                         BULLETIN OF MARINE SCIENCE. VOL. 58. NO.3. 1996
+
+
+
+Acropora to the white band disease (WBD; Bak and Criens, 1981; Gladfelter,
+1982). Affected colonies have been recorded continuously ever since this disease
+has first been reported in the late seventies.
+   Species may also vary in their attractiveness to predators. Porites astreoides
+appears to be attacked more often by the polychaete Hermodice carunculata than
+Diploria strigosa (Ott and Lewis, 1972). Damage by fish bites (Scaridae) has also
+been observed more often on P. astreoides (Meesters, unpubi. data). Acropora
+palmata may be protected by the formation of dense stands and its occurrence in
+a the normally exposed habitat, both which may limit the accessibility of the
+colonies to damaging agents.             .
+   Another important aspect in partial mortality is regeneration of damage. The
+three species differ in regeneration potential. Acropora palmata has one of the
+highest regeneration rates found in corals (Bak, 1983; Meesters et aI., 1992) and
+fragments fuse rapidly (Bak and Criens, 1981, 1982). Consequently, fragments
+have a high survivorship, which enhances asexual recruitment (Highsmith et aI.,
+1980; Bak and Criens, 1981). Regeneration in Porites is generally faster than in
+Diploria (Meesters et aI., 1992), possibly because of the thicker tissue layer in P.
+astreoides. These differences in regeneration rates may also affect lesion size-
+frequency distributions.
+
+                                           CONCLUSIONS
+
+   Our main conclusions are: 1) partial mortality in scleractinian corals is common
+but mainly small in size and well within the regeneration capabilities of corals;
+2) partial mortality is strongly related to size and shape of the colony. Colonies
+escape in size (less mortality per unit colony area on bigger colonies) and in
+height (less mortality in branching colonies); 3) The ratio proximal circumference/
+total surface area of a colony is an indicator of the susceptibility of the colony
+to tissue mortality. This is NIOZ publication no. 3054.
+
+                                       ACKNOWLEDGMENTS
+
+   We thank the Cannabi Institute for providing logistic support, and O. Frans, E Isabella and A. Thiel
+for diving and other assistance in the field. We like to thank Dr. F. Thomas for critical comments on
+an earlier manuscript. The research was supported by a grant from the Netherlands Foundation for the
+Advancement of Tropical Research (WOTRO) W84-31I.
+
+                                        LITERATURE CITED
+
+Babcock, R. C. 1991. Comparative demography of three species of scleractinian corals using age-
+     and size-dependent classifications. Ecol. Monogr. 61: 225-244.
+Bak, R. P. M. 1977. Coral reefs and their zonation in Netherlands Antilles. Stud. Geol. 4: 3-16.
+---.       1983. Neoplasia, regeneration and growth in the reefbuilding coral Acropora palmata. Mar.
+     BioI. 77: 221-227.
+---      and S. R. Criens. 1981. Survival after fragmentation of colonies of Madracis mirabilis. Ac-
+     ropora palmata and A. cervicornis (Scleractinia) and the subsequent impact of a coral disease.
+     Proc. 4th Int. Coral Reef Symp. Manila 2: 221-227.
+---      and S. R. Criens. 1982. Experimental fusion in atlantic Acropora (Scleractinia). Mar. BioI.
+     Letters 3: 67-72.
+---      and M. S. Engel. 1979. Distribution, abundance and survival of juvenile hermatypic corals
+     (Scleractinia) and the importance of life history strategies in the parent coral community. Mar.
+     BioI. 54: 341-352.
+---      and G. v. Eys. 1975. Predation of the sea urchin Diadema antil/arum Philippi on living coral.
+     Oecologia 20: 111-115.
+---      and Y. Steward-van Es. 1980. Regeneration of superficial damage in the scleractinian corals
+     Agaricia agaricites f. purpurea and Porites astreoides. Bull. Mar. Sci. 30: 883-887.
+---,      J. J. W. M. Brouns and F. M. L. Heys. 1977. Regeneration and aspects of spatial competition
+                       MEESTERS ET AL.: MORTAUTY    AND MORPHOLOGY IN CORALS                        851
+
+
+     in the scelactinian corals Agaricia agaricites and Montastrea annularis. Proc. 3rd Int. Coral Reef
+     Symp. Miami 1: 143-149.
+---,       J. Sybesma and E C. van Duyl. 1981. The ecology of the tropic compound ascidian Tridem-
+     num solidum. II. Abundance, growth and survival. Mar. &01. Prog. Ser. 6: 43-52.
+---,       R. M. Terrnaat and R. Dekker. 1982. Complecity of coral interactions: influence of time,
+     location of interaction and epifauna. Mar. BioI. 69: 215-222.
+Chornesky, E. A. and E. C. Peters. 1987. Sexual reproduction and colony growth in the scleractinian
+     coral Porites astreoides. BioI. Bull. 172: 161-177.
+Done, T. J. 1987. Simulation of the effects of Acanthaster planci on the population structure of
+     massive corals in the genus Porites: evidence of population resilience? Coral Reefs 6: 75-90.
+Fishelson, L. 1973. Ecological and biological phenomena influencing coral-species composition on
+     the reef tables at Eilat (Gulf of Aquaba, Red Sea). Mar. BioI. 19: 183-196.
+Gladfelter, E. H. 1982. White-band disease in Acropora palmata: implications for the structure and
+     growth of shallow reefs. Bull. Mar. Sci. 32: 639-643.
+Glynn, P. W. 1988. Predation on coral reefs: some key processes, concepts and research directions.
+     Proc. 6th Int. Coral Reef Symp., Australia 2: 51-62.
+Harrison, P. L. and C. C. Wallace. 1990. Reproduction, dispersal and recruitment of scleractinian
+     corals. In Z. Dubinsky, ed. Ecosystems of the world 25. Coral Reefs, Elsevier, Amsterdam, p.
+      133-208.
+Highsmith, R. C. 1982. Reproduction by fragmentation in corals. Mar. Ecol. Prog. Ser. 7: 207-226 ..
+---,       A. C. Riggs and C. M. D'antonio.       1980. Survival of hurricane-generated  coral fragments
+     and a disturbance model of reef calcification/growth    rates. Oecologia 46: 322-329.
+Hudson, J. H. and R. Diaz. 1988. Damage survey and restoration of MN Wellwood grounding sit(:,
+     Molasses reef, Key Largo National Marine Sanctuary, Florida. Proc. 6th Int. Coral Reef Symp.
+     2: 231-236.
+Hughes, T. P. 1984. Population dynamics based on individual size rather than age: a general modd
+     with a reef coral example. Am. Nat. 123: 778-795.
+---       and J. B. C. Jackson. 1980. Do corals lie about their age? Some demographic consequences
+     of partial mortality, fission and fusion. Science 209: 713-714.
+---       and J. B. C. Jackson. 1985. Population dynamics and life histories of foliaceous corals. Ecol.
+     Monogr.55:     141-166.
+Jackson, J. B. C. 1979. Morphological strategies of sessile animals. Pages 499-555 in G. Larwood
+     and B. R. Rosen, eds. Biology and systematics of colonial organisms, Academic Press, London
+     and New York. 589 p.
+---       and A. G. Coates. 1986. Life cycles and evolution of clonal (modular) animals. Phil. Trans.
+     R. Soc. Lond. B 313: 7-22.
+Knowlton, N., J. C. Lang, M. C. Rooney and P. Clifford. 1981. Evidence for delayed mortality in
+     hurricane-damaged     Jamaican staghorn corals. Nature 294: 251-252.
+Kojis, B. L. and N. J. Quinn. 1982. Reproductive strategies in four species of Porites (Scleractinia).
+     Proc. 5th Int. Coral Reef Symp. Tahiti 2: 145-151.
+Lang, J. 1971. Interspecific aggression by scleractinian corals. I. The rediscovery of Scolymia cub-
+     ensis (Milne Edwards & Haime). Bull. Mar. Sci. 21: 952-959.
+---.        1973. Interspecific aggression by scleractinian corals. 2. Why the race is not to the swift.
+     Bull. Mar. Sci. 23: 260-279.
+Lasker, H. R. 1991. Population growth of a gorgonian coral: equilibrium and non-equilibrium sen-
+     sitivity to changes in life history variables. Oecologia 86: 503-509.
+Loya, Y. 1976. Skeletal regeneration in a Red Sea scleractinian coral population. Nature 261: 490-
+     491.
+McFadden, C. S. 1991. A comparative demographic analysis of clonal reproduction in a temperate
+     soft coral. Ecology 72: 1849-1866.
+Meesters, E. H. and R. P. M. Bak. 1993. Effects of coral bleaching on tissue regeneration and colony
+     survival. Mar. Ecol. Prog. Ser. 96: 189-198.
+---,       A. Bos, and G. J. Gast. 1992. Effects of sedimentation and lesion position on coral tissue
+     regeneration. Proc 7th Int. Coral Reef Symp. Guam I: 681-688.
+---,       M. Noordeloos and R. P. M. Bak. 1994. Damage and regeneration: links to growth in the
+     reef-building coral Montastrea annularis. (in press).
+au, B. and J. B. Lewis. 1972. The importance of the gastropod Coralliophila abbreviata (Lamarck)
+     and the polychaete Hermodice carunculata (Pallas) as coral reef predators. Can. J. Zool. 50:
+     1651-1656.
+Pearson, R. G. 1981. Recovery and recolonization of coral reefs. Mar. Ecol. Prog. Ser. 4: 105-122.
+Peters, E. C. 1984. A survey of cellular reactions to environmental stress and disease in Caribbean
+     scleractinian corals. Helgolander Meeresunters 37: 113-137.
+852                        BULLETIN
+                                  OFMARINE
+                                         SCIENCE,
+                                               VOL.58, NO.3, 1996
+
+Robertson, R. 1970, Review of the predators and parasites of stony corals with special reference to
+     symbiotic prosobranch molluscs. Pac. Sci. 24: 43-54.
+Rogers, C. S., L. N. Mclain and C. R. Tobias. 1991. Effects of hurricane Hugo (1989) on a coral
+     reef in St-John, USVI. MaJ'. Ecol. Prog, Ser. 78: 189-199.
+Rylaarsdam, K. W. 1983, Life histories and abundance patterns of colonial corals on Jamaican reefs.
+     Mar. Eco!. Prog. Ser. 13: 249-260.
+Siegel, S, and N, J, Castellano 1989, Nonparametric statistics for the behavioral sciences, 2nd ed.
+     McGraw-Hili International Editions, Singapore. 399 p.
+Sokal, R. R. and E J. RoWf. 1981. Biometry, 2nd ed, W. H. Freeman and Company, New York. 859 p.
+Soong, K. 1993. Colony size as a species character in massive reef corals. Coral Reefs 12: 77-83,
+Strathman, R, R, and M. E Strathmann. 1982. The relationship between adult size and brooding in
+     marine invertebrates. ArneI'.Nat. 119: 91-101.
+Szmant, A. M. 1986. Reproductive ecology of Caribbean reef corals. Coral Reefs 5: 43-54.
+Van Moorsel, G. W. N. M. 1983, Reproductive strategies of two closely related stony corals (Agaricia,
+     Scleractinia). Mar. Eco!' Prog. Ser. 13: 273-283.
+Woodley, J. D., E. A. Chornesky, P. A. Clifford, J. B. C. Jackson, L. S. Kaufman, N. Knowlton, J. C.
+     Land, M. P. Pearson, J. W. Porter, M. C. Rooney, K. W. Rylaarsdam, V. J. Tunnicliffe, C. M.
+     Wahle, J. L. Wulff, A. S. G. Curtis, M. D. Dallmeyer, B. P. Jupp, M. A. R. KoeW, J. Niegel, and
+     E. M. Sides. 1981. Hurricane Allen's impact on Jamaican coral reefs. Science 214: 749-755.
+
+DATEACCEPTED:March 21, 1995.
+
+ ADDRESSES:(E.H.M. and R.P.M.B.) Institute of Systematics and Population Biology, PO Box 94766,
+ 1090 GT Amsterdam, The Netherlands; MAILINGADDRESS      (R.P.M.B. and I. W.) Netherlands Institute
+for Sea Research (NlOZ), PO Box 59, 1790 AB; Den Burg, The Netherlands.
+

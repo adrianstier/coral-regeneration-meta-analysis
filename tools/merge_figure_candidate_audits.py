@@ -366,7 +366,7 @@ def build_summary(summary: dict[str, object]) -> str:
             "- Use `FIGURE_SOURCE_REVIEW_VALIDATED.csv` for row-level candidate evidence, corrections, and rejection reasons.",
             "- Rows marked `candidate_replacement_available` need the corrected label/page confirmed visually before clipping.",
             "- Rows marked `candidate_rejected` should not be clipped unless a later reviewer adds a replacement.",
-            "- Rows marked `pending_agent_review` were not covered by the agent audit and still need review.",
+            "- Rows marked `pending_agent_review`, if present, were not covered by the agent audit and still need review.",
             "",
         ]
     )

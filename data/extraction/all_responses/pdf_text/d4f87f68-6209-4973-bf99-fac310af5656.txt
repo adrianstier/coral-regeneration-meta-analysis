@@ -1,0 +1,484 @@
+1    Coral-Associated Fishes Accelerate Coral Wound Healing and
+2    Photosynthetic Recovery
+3    Hayden Vega1,, Craig W. Osenberg2, Ashley W. Seifert3, Ninah Munk1 , Adrian C. Stier1,4
+4
+5    1
+     Department of Ecology, Evolution, and Marine Biology, University of California Santa Barbara, Santa
+6    Barbara, California 93106, USA
+7
+8    2
+     Odum School of Ecology, University of Georgia, 140 E Green St, Athens, GA 30602
+9
+10   3
+     Department of Biology University of Kentucky, Lexington, KY 40508
+11
+12   4
+     Marine Science Institute, University of California Santa Barbara, Santa Barbara, California 93106, USA
+13
+14
+15   *Correspondence: Hayden Vega, University of California Santa Barbara, Department of Ecology,
+16   Evolution, and Marine Biology, Santa Barbara, CA, 93106 USA. E-mail: haydenvega@ucsb.edu
+17
+
+
+18
+
+
+
+
+1
+19   ABSTRACT
+20   Coral resilience is increasingly recognized as the product of complex interactions between corals, their
+21   endosymbiotic algae, and external symbionts such as fishes and invertebrates. While previous studies
+22   have documented how coral-associated fishes influence coral growth and thermal tolerance, their role in
+23   supporting tissue repair and regeneration following physical injury remains poorly understood. Here, we
+24   experimentally test whether coral-associated fishes facilitate wound healing in the coral Pocillopora spp.
+25   We imposed small and large wounds and monitored healing in the presence and absence of resident
+26   damselfishes. Corals exposed to fishes exhibited faster wound closure and higher photosynthetic
+27   efficiency in recently regenerated tissue, particularly for larger wounds. These findings suggest that coral-
+28   associated fishes promote the energetic and microenvironmental conditions necessary for tissue repair.
+29   Our results extend the emerging understanding of coral holobiont resilience, highlighting the importance
+30   of external symbionts in sustaining coral recovery from physical disturbances.
+31
+32   Keywords: Coral regeneration, Mutualism, Damselfish, Pocillopora, Wound healing, Coral resilience,
+33   Dascyllus flavicaudus
+
+34   INTRODUCTION
+35
+36   Coral reefs are increasingly understood as complex symbiotic systems not only defined by the well-
+37   known partnership between corals and their algal symbionts, but also shaped by a broader network of
+38   external associations with fishes and invertebrates. Many of these coral-associated fishes and
+39   invertebrates live in an intimate relationship with corals, influencing the physical and chemical
+40   environment directly surrounding coral tissues(1). These external partners have been shown to affect
+41   nutrient cycling(2), predator-prey dynamics(3), sediment removal(4,5), parasite loads(6), and water flow(7),
+42   collectively affecting coral physiology, growth, and survival(2,8,9). As research on these external symbioses
+43   grows, it is becoming clear that the resilience of reef-building corals may depend as much on these
+44   ecological partnerships as on their internal symbioses(as reviewed in 10).
+45
+46   Despite this growing appreciation, much of the focus to date has centered on how these associations
+47   influence coral responses to large-scale, chronic stressors such as thermal bleaching and ocean
+48   acidification(2,11,12). However, corals also routinely face localized, physical injury from predation, storms,
+49   disease, and human activity(13). The ability to heal tissue following injury is a fundamental component of
+50   coral resilience: e.g., if left unhealed, a wound can be colonized by macroalgae or pathogens, potentially
+51   threatening the survival of the entire colony(14-16). However, wound healing and tissue regeneration can
+52   impose substantial energetic costs that compete with other metabolic demands: damaged corals exhibit
+53   reduced growth rates, compromised reproductive output, and depleted lipid reserves, particularly in
+54   branching species like Pocillopora(17,18). While we know that intrinsic factors such as wound size,
+55   energetic state, and algal symbiont density influence healing rates(13), far less is known about how the
+56   surrounding biotic environment may shape these repair processes. In particular, the potential role of coral-
+57   associated fishes to facilitate or constrain wound healing remains virtually unexplored(but see 19 for a notable
+58   exception)
+               .
+59
+60   Multiple mechanisms suggest that coral-associated fishes may contribute to wound repair. By excreting
+61   ammonium-rich waste, these fishes provide nitrogen that can be readily assimilated by algal symbionts (2,9),
+62   potentially enhancing photosynthetic productivity and fueling the energetically demanding process of
+63   tissue regeneration. Their territorial behaviors also reduce exposure to corallivores and other physical
+64   disturbances that could disrupt wound closure(20,21). Furthermore, their constant movement within coral
+65   branches enhances localized water flow and oxygenation, especially at night when respiration can drive
+66   hypoxia inside branching coral colonies(7, 22,23). This additional oxygen delivery could help sustain the high
+67   metabolic demands of wound healing under conditions that would otherwise limit tissue repair. These
+
+
+2
+ 68   distinct pathways suggest that coral-associated fishes could modify the physical and energetic
+ 69   microenvironment in ways that promote regeneration, yet their role in this process has not been
+ 70   empirically tested.
+ 71
+ 72   Here, we directly test whether coral-associated fishes facilitate wound healing in their hosts.We
+ 73   hypothesized that coral-associated damselfish enhance both the rate of wound healing and the
+ 74   physiological recovery of host corals. Using colonies of Pocillopora spp., we inflicted small and large
+ 75   wounds and monitored healing trajectories in the presence and absence of resident damselfishes. This
+ 76   experiment provides a novel test of how external symbiotic partners contribute to coral regeneration, and
+ 77   more broadly, illuminates the functional importance of coral-associated biodiversity in promoting
+ 78   resilience to physical disturbance.
+ 79
+ 80
+
+ 81   METHODS
+
+ 82   Study Site and System
+
+ 83   We conducted this experiment in August 2024 at the Richard B. Gump South Pacific Research Station
+ 84   (17°30′S, 149°50′W) on the northern shore of Mo’orea, French Polynesia. The site features a mosaic of
+ 85   shallow patch reefs consisting of, among others, the branching coral Pocillopora. Species-level
+ 86   identification of Pocillopora could not be visually or genetically resolved, and is so referred to by genus.
+ 87   Patch reefs are interspersed with sand and coral rubble. Pocillopora colonies provide structural habitat for
+ 88   a range of coral-associated species, including trapeziid crabs and damselfishes, which can influence coral
+ 89   physiology and resilience(1,2,12,21). Among this community of exosymbionts is the yellowtail damselfish
+ 90   (Dascyllus flavicaudus), which is one of the most abundant fishes that occupy Pocillopora. We therefore
+ 91   quantified the effect of D. flavicaudus on wound regeneration and photosynthetic efficiency in
+ 92   Pocillopora spp.
+
+ 93   Specimen Collection and Experimental Setup
+
+ 94   We collected 72 coral fragments from mature Pocillopora spp. colonies (>20 cm diameter) without
+ 95   damselfish from a reef in the lagoon on the north shore. From the same reef, we also collected 18 adult
+ 96   Dascyllus flavicaudus. We transported corals and fish separately in seawater-filled coolers to the
+ 97   laboratory, where we mounted each coral fragment on a ceramic frag plug (Oceans Wonders) using
+ 98   marine epoxy (Z-Spar, Kopcoat, Pittsburgh, PA, USA). We randomly distributed 12 fragments across
+ 99   each of six 95 L flow-through aquaria supplied with unfiltered seawater at a rate of ~6 L h⁻¹. We held fish
+100   separate from corals during the acclimation period.
+
+101   Following a 3-day acclimation under ambient light and temperature conditions, we assigned 4 fragments
+102   in each tank to one of three treatments: control (no wound), small wound (avg: 1.48 ± 0.398 cm2), or large
+103   wound (avg: 3.82 ± 1.08 cm²). We created wounds on the upper surface of fragments using an airbrush
+104   and a circular stencil to remove surface tissue while standardizing wound size and location. Immediately
+105   after wounding, we randomly introduced six D. flavicaudus (total biomass ~36 g) into half of the tanks (n
+106   = 3). Tanks without fish served as controls.
+
+107   We fed all tanks—regardless of fish presence—2 g of TetraMarine Saltwater Flakes (Tetra US,
+108   Blacksburg, VA, USA) three times per day (morning, midday, and evening). We removed uneaten food
+109   after 10 minutes via a siphon. We scrubbed tanks and coral plugs daily to prevent algal overgrowth.
+
+110   Monitoring Wound Healing, Growth, and Photosynthetic Performance
+
+
+  3
+111   To assess wound healing and tissue regeneration, we photographed all corals with an Olympus TG-6
+112   digital camera and ruler scale bar immediately post wounding. We then randomly selected one fragment
+113   from each wounding treatment per tank for daily photography (Figure 1). On day 21, we photographed all
+114   wounds again. Using the initial images, we measured the initial wound size (cm2) using ImageJ. Using the
+115   final images, we quantified the wound area that remained unhealed, which we determined by the absence
+116   of visible tissue, regardless of polyp formation. We then calculated the healing rate (cm2/day) as the
+117   change in wound size (initial-final) divided by the duration of the experiment: 21 days.
+
+118   To assess coral growth, we measured the buoyant weight of each coral at the start (day 0) and end (day
+119   21) of the experiment(24). At the end of the experiment we also measured the surface area of each fragment
+120   by wax dipping(25). For each wounded fragment, initial wound size was subtracted from total surface area
+121   measurements to provide an accurate measure of the initial surface area of live coral. We calculated coral
+122   growth (mg/cm2/day) as the area-adjusted calcification rate: (final buoyant weight - initial buoyant
+123   weight)/((surface area - initial wound area) * 21).
+
+124   To assess coral physiological status on day 21, we measured dark-adapted photosynthetic efficiency
+125   (Fv/Fm) using pulse-amplitude modulated fluorometry (Diving-PAM, Walz, Germany)(26). For corals
+126   without wounds, measurements were taken near the upper face of the fragment in the same region where
+127   we made wounds in the other corals; for wounded corals, measurements were taken near the center of the
+128   wound. Throughout the healing process, turf algae colonized open wounds. By day 21, algae persisted on
+129   the wounds of eight corals. We therefore carefully removed the algae with tweezers before taking the
+130   PAM measurements. Of these eight corals, seven were in tanks without fish and six had large wounds.
+131   We compared the corals with algae to those without algae, and since Fv/Fm did not differ significantly
+132   between these groups, (p = 0.106), the results we present below do not distinguish between the corals that
+133   were vs. were not colonized by algae.
+
+134   Statistical Analyses
+
+135   We performed all statistical analyses in R (v4.3.1). To assess wound healing rate (cm2/day), we fit linear
+136   mixed-effects models —with wound healing rate as the response variable—using the lme4 package. Fixed
+137   effects included fish presence (present or absent), wound size (small, large), and their interaction, with
+138   tank ID included as a random effect to account for non-independence.
+
+139    To analyze fish and wound effects on coral skeletal growth, we used an ANCOVA-style approach where
+140   we included log(Initial Mass) as a covariate in a full model with treatment effects. This approach
+141   simultaneously estimates the allometric coefficient (b) while testing for treatment effects, avoiding the
+142   bias that would occur if b were estimated from pooled data ignoring treatments. We fit a linear mixed-
+143   effects model with log(Final Mass) as the response variable: log(Final Mass) = α + b × log(Initial Mass) +
+144   Fish + Wound + Fish × Wound + Tank where Fish (present or absent) and Wound (none, small, large)
+145   were fixed effects, and Tank was included as a random intercept to account for non-independence of
+146   corals within the same tank. We then used maximum likelihood estimation and tested the significance of
+147   treatment effects using likelihood ratio tests comparing nested models. The estimated allometric
+148   coefficient was b = 0.990 (95% CI: 0.986, 0.994), indicating near-isometric growth. For visualization, we
+149   calculated size-corrected growth using the b-value estimated from the full model: Scaled Growth =
+150   log(Final Mass / Initial Mass^b) We also calculated absolute growth rate as mass change per unit surface
+151   area per day: Growth Rate (mg cm⁻² day⁻¹) = (Final Mass − Initial Mass) / ( Total Surface Area - Wound
+152   Area) / 21 days. This metric represents the mass of calcium carbonate deposited per cm² of coral tissue
+153   per day.
+
+154   To evaluate variation in photosynthetic efficiency (Fv/Fm), we used linear mixed-effects models with the
+155   same fixed and random effects structure. For all models we assumed normal error distributions and
+
+
+  4
+156   homoscedastic variances and evaluated those assumptions using diagnostic residual plots. To assess the
+157   significance of fixed effects and their interactions, we used likelihood ratio tests via the anova() function
+158   from the car package. We report chi-squared statistics and associated p-values for all terms.
+
+159   RESULTS AND DISCUSSION
+
+160   The effect of coral-associated damselfishes on wound healing depended on wound size (fish × wound
+161   interaction: χ² = 4.416, p = 0.036, Figure 2). Fish presence increased healing rates for both wound sizes,
+162   but the effect was more pronounced for large wounds. For small wounds, fish increased healing rates by
+163   60%, from 0.048 cm²/day (95% CI: 0.027–0.069) without fish to 0.079 cm²/day (95% CI: 0.065–0.092)
+164   with fish. For large wounds, fish increased healing rates by 64%, from 0.131 cm²/day (95% CI: 0.094–
+165   0.168) without fish to 0.204 cm²/day (95% CI: 0.169–0.239) with fish. Although the proportional increase
+166   was similar, the absolute effect of fish was 2.4 times greater for large wounds (0.073 cm²/day) than for
+167   small wounds (0.030 cm²/day). Additionally, turf algae frequently colonized wounds during the healing
+168   process. By day 21, algae persisted on 8 corals and was biased towards tanks without fish (7/8) and with
+169   large wounds (6/8).
+
+170   The effect of damselfish presence on coral photosynthetic efficiency (Fv/Fm) depended on wound type
+171   (fish × wound interaction: χ²₂ = 10.898, p = 0.0043, Figure 3A). In the presence of damselfish,
+172   photosynthetic efficiency was similar across all three wounding treatments: No Wound = 0.686 (95% CI:
+173   0.679–0.693), Small = 0.674 (95% CI: 0.657–0.691), and Large = 0.684 (95% CI: 0.677–0.692). In the
+174   absence of fish, however, photosynthetic efficiency declined with increasing wound size: No Wound =
+175   0.684 (95% CI: 0.676–0.691), Small = 0.657 (95% CI: 0.629–0.685), and Large = 0.633 (95% CI: 0.610–
+176   0.656). Fish presence had minimal effect on unwounded corals (+0.002 Fv/Fm units) but progressively
+177   greater effects on wounded corals: +0.017 for small wounds and +0.051 for large wounds. Thus,
+178   damselfish presence positively influenced photosynthetic efficiency, and these effects were most
+179   pronounced when wounds were larger and metabolic demands associated with wound repair were
+180   presumably higher.
+
+181   In contrast to effects on healing rate and photosynthetic efficiency, and contrary to previous studies (9, 2),
+182   we observed no significant effects of fish presence, wound size, or their interaction on coral growth after
+183   controlling for initial coral size (Fish: χ² = 0.001, p = 0.978; Wound: χ² = 1.783, p = 0.410; Fish ×
+184   Wound: χ² = 5.224, p = 0.073; Figure 3B). Given prior studies demonstrating positive effects of fish on
+185   coral growth, and our finding that fish increased photosynthetic efficiency and healing rate, we suggest
+186   that that the absence of detectable calcification responses may reflect the short experimental duration of
+187   our study. It may also reflect insufficient sensitivity of the calcification metric or the lack of an effect of
+188   acute wounding stress on calcification, but this seems unlikely given past studies(2, 9, 27).
+
+189   These findings highlight the critical contribution of coral-associated fishes to coral resilience, specifically
+190   their roles in tissue regeneration and physiological recovery following acute injuries. Although the exact
+191   mechanisms remain to be elucidated, nutrient subsidies from damselfish excretion likely enhanced
+192   symbiotic algal productivity, providing the additional energy required for wound repair (2, 9). Additionally,
+193   turf algae persistence in wounds was markedly more common in corals without fish, suggesting that fish
+194   may also facilitate wound repair by mitigating the energetic constraints of competitive exclusion.
+195   Consistent with this interpretation, corals without fish also exhibited depressed photosynthetic efficiency;
+196   however, this may reflect impaired symbiont performance or reduced tissue availability for symbiont
+197   colonization, rather than a direct effect on symbiont physiology alone.
+
+198   In addition to nutrient benefits, damselfish behavior, such as constant swimming within coral branches,
+199   may improve water flow and oxygenation; factors that are particularly important during the nighttime
+200   period when metabolic demands of wound healing are high and hypoxia risk increases(7, 22, 23). Together,
+
+
+  5
+201   the nutrient and behavioral benefits of coral-associated fishes likely enhance the coral’s capacity to
+202   regenerate tissue efficiently.
+
+203   Our results contribute to the emerging perspective that coral-associated fishes significantly enhance coral
+204   holobiont resilience, by adding the facilitation of tissue regeneration to the previously established roles of
+205   fishes in promoting coral growth and increasing thermal tolerance(21, 28). By demonstrating that
+206   damselfishes actively facilitate coral regeneration following injury, we underscore the functional
+207   importance of external symbiotic relationships in buffering corals from both chronic stressors and acute
+208   physical disturbances. Preserving these ecological partnerships will likely be crucial for sustaining coral
+209   regenerative capacity and enhancing long-term reef resilience.
+
+210   ETHICS
+211   All procedures involving coral fragments and damselfish (Dascyllus flavicaudus) were conducted
+212   following institutional and national guidelines for the care and use of animals in research. The study
+213   protocol received ethical approval from the University of California, Santa Barbara Institutional Animal
+214   Care and Use Committee (Protocol No. 926.1). Research was completed under permits issued by the
+215   Government of French Polynesia (Délégation à la Recherche) and the Haut-Commissariat de la
+216   République en Polynésie Française (DTRT). We followed best practices to minimize stress and injury to
+217   both corals and fishes throughout the experiments.
+218
+
+219   DATA AND CODE ACCESSIBILITY
+
+220   Data and analysis code supporting Vega et al.(2025) are available in the Damselfish–Coral Healing
+221   Project repository: https://github.com/haydenvega/damselfish_coral_healing_public (v1.0). Cleaned
+222   datasets and analysis scripts are licensed under CC BY 4.0. Raw field data are archived within the
+223   repository and will be deposited in a long-term archive (e.g., Harvard Dataverse) upon acceptance; DOI
+224   will be added to this record when available.
+
+225   DECLARATION OF AI USE
+
+226   We have not used AI-assisted technologies in creating this article.
+
+227   AUTHORS’ CONTRIBUTIONS
+228   A.C.S., H.V., and N.M. designed the experiment. H.V. and N.M. conducted the fieldwork and data
+229   collection. H.V. analyzed the data with input from A.C.S. and C.W.O. H.V. led the writing of the
+230   manuscript. A.C.S., C.W.O. and A.W.S. provided critical edits and helped refine the manuscript. All
+231   authors contributed to interpreting the results and approved the final version.
+232
+233   CONFLICT OF INTEREST DECLARATION
+234   We declare no competing interests.
+235
+236   FUNDING
+237   Our project benefited from support from the Keck Foundation and the National Science Foundation
+238   (OCE- 1851510 and OCE-1851032). This work was also facilitated by resources provided by the NSF-
+239   funded Moorea Coral Reef Long-term Ecological research program funded by OCE-1637396 and
+240   previous awards.
+241
+242   ACKNOWLEDGEMENTS
+
+
+
+  6
+243   We thank Kelsey Vaughn, Christian Deneka, and Adrian Cheh for their assistance during specimen and
+244   data collection. The staff at Gump Station provided invaluable assistance to field and wet lab operations.
+245
+246
+
+247   REFERENCES
+
+248       1. Stier AC, Chase TJ, Osenberg CW. Fish services to corals: a review of how coral-associated
+249          fishes benefit corals. Coral Reefs 44, 825–834. (2025). https://doi.org/10.1007/s00338-025-
+250          02647-4
+251
+
+252       2. Shantz AA, Ladd MC, Ezzat L, Schmitt RJ, Holbrook SJ, Schmeltzer E, Vega Thurber R,
+253          Burkepile DE. Positive interactions between corals and damselfish increase coral resistance to
+254          temperature stress. Glob. Change Biol. 29, 417–431. (2023). https://doi.org/10.1111/gcb.16480
+255
+
+256       3. McKeon CS, Stier AC, McIlroy SE, Bolker BM. Multiple defender effects: synergistic coral
+257          defense by mutualist crustaceans. Oecologia 169, 1095–1103. (2012).
+258          https://doi.org/10.1007/s00442-012-2275-2
+
+259       4. Stier AC, Gil MA, McKeon CS, Lemer S, Leray M, Mills SC, Osenberg CW. Housekeeping
+260          mutualisms: do more symbionts facilitate host performance? PLoS ONE 7, e32079. (2012).
+261          https://doi.org/10.1371/journal.pone.0032079
+
+262       5. Chase TJ, Pratchett MS, McWilliam MJ, Hein MY, Tebbett SB, Hoogenboom MO. Damselfishes
+263          alleviate the impacts of sediments on host corals. R. Soc. Open Sci. 7, 192074. (2020).
+264          https://doi.org/10.1098/rsos.192074
+
+265       6. Zikova AV, Britaev TA, Ivanenko VN, Mikheev VN. Planktonic and symbiotic organisms in
+266          nutrition of coralobiont fish. J. Ichthyol. 51, 769–775. (2011).
+267          https://doi.org/10.1134/S0032945211060105
+
+268       7. Goldshmid R, Holzman R, Weihs D, Genin A. Aeration of corals by sleep-swimming fish.
+269          Limnol. Oceanogr. 49, 1832–1839. (2004). https://doi.org/10.4319/lo.2004.49.5.1832
+
+270       8. Meyer JL, Schultz ET. Tissue condition and growth rate of corals associated with schooling fish.
+271          Limnol. Oceanogr. 30, 157–166. (1985). https://doi.org/10.4319/lo.1985.30.1.0157
+
+272       9. Holbrook SJ, Brooks AJ, Schmitt RJ, Stewart HL. Effects of sheltering fish on growth of their
+273          host corals. Mar. Biol. 155, 521–530. (2008). https://doi.org/10.1007/s00227-008-1051-7
+
+274       10. Stier AC, Osenberg CW. How fishes and invertebrates impact coral resilience. Curr. Biol. 34,
+275           R613–R615. (2024). https://doi.org/10.1016/j.cub.2024.05.071
+
+276       11. Stella JS, Munday PL, Jones GP. Effects of coral bleaching on the obligate coral-dwelling crab
+277           Trapezia cymodoce. Coral Reefs 30, 719–727. (2011). https://doi.org/10.1007/s00338-011-0748-
+278           0
+
+279       12. Doo SS, Carpenter RC, Edmunds PJ. Obligate ectosymbionts increase the physiological resilience
+280           of a scleractinian coral to high temperature and elevated pCO₂. Coral Reefs 37, 997–1001.
+281           (2018). https://doi.org/10.1007/s00338-018-1731-9
+
+
+
+  7
+282   13. Henry LA, Hart M. Regeneration from injury and resource allocation in sponges and corals: a
+283       review. Int. Rev. Hydrobiol. 90, 125–158. (2005). https://doi.org/10.1002/iroh.200410759
+
+284   14. Hall V. The response of Acropora hyacinthus and Montipora tuberculosa to three different types
+285       of colony damage: scraping injury, tissue mortality and breakage. J. Exp. Mar. Biol. Ecol. 264,
+286       209–223. (2001). https://doi.org/10.1016/S0022-0981(01)00318-5
+
+287   15. Raymundo LJ, Work TM, Miller RL, Lozada-Misa PL. Effects of Coralliophila violacea on
+288       tissue loss in the scleractinian corals Porites spp. depend on host response. Dis. Aquat. Org. 119,
+289       75–83. (2016). https://doi.org/10.3354/dao
+290
+
+291   16. Rinkevich B. Do reproduction and regeneration in damaged corals compete for energy allocation?
+292       Mar. Ecol. Prog. Ser. 143, 297–302. (1996).
+293
+
+294   17. Ward S. Two patterns of energy allocation for growth, reproduction and lipid storage in the
+295       scleractinian coral Pocillopora damicornis. Coral Reefs 14, 87–90. (1995).
+296       doi:10.1007/BF00303428
+297
+
+298   18. Meesters EH, Noordeloos M, Bak RPM. Damage and regeneration: links to growth in the reef-
+299       building coral Montastrea annularis. Mar. Ecol. Prog. Ser. 112, 119–128. (1994).
+300
+
+301   19. Renzi JJ, Morton JP, Bergman JL, Rowell D, Iversen ES Jr, Gaskins LC, Hoehne-Diana J,
+302       Silliman BR. An abundant mutualist can protect corals from multiple stressors. Proc. R. Soc. B
+303       292, 20242936. (2025). doi:10.1098/rspb.2024.2936
+304
+
+305   20. Chase TJ, Pratchett MS, Walker SPW, Hoogenboom MO. Small-scale environmental variation
+306       influences whether coral-dwelling fish promote or impede coral growth. Oecologia 176, 1009–
+307       1022. (2014). https://doi.org/10.1007/s00442-014-3065-9
+308
+
+309   21. Chase TJ, Pratchett MS, Frank GE, Hoogenboom MO. Coral-dwelling fish moderate bleaching
+310       susceptibility of coral hosts. PLoS ONE 13, e0208545. (2018).
+311       https://doi.org/10.1371/journal.pone.0208545
+
+312   22. Berenshtein I, Reuben Y, Genin A. Effect of oxygen on coral fanning by mutualistic fish. Mar.
+313       Ecol. 36, 1171–1175. (2015). https://doi.org/10.1111/maec.12218
+
+314   23. Shashar N, Cohen Y, Loya Y. Extreme diel fluctuations of oxygen in diffusive boundary layers
+315       surrounding stony corals. Biol. Bull. 185, 455–461. (1993). doi:10.2307/1542485
+316
+
+317   24. Davies PS. Short-term growth measurements of corals using an accurate buoyant weighing
+318       technique. Mar. Biol. 101, 389–395. (1989). https://doi.org/10.1007/BF00428135
+
+319   25. Veal CJ, Carmi M, Fine M, Hoegh-Guldberg O. Increasing the accuracy of surface area
+320       estimation using single wax dipping of coral fragments. Coral Reefs 29, 893–897. (2010).
+321       https://doi.org/10.1007/s00338-010-0647-9
+322
+
+
+  8
+323   26. Maxwell K, Johnson GN. Chlorophyll fluorescence—a practical guide. J. Exp. Bot. 51, 659–668.
+324       (2000). https://doi.org/10.1093/jexbot/51.345.659
+
+325   27. Liberman T, Genin A, Loya Y. Effects on growth and reproduction of the coral Stylophora
+326       pistillata by the mutualistic damselfish Dascyllus marginatus. Mar. Biol. 121, 741–746. (1995).
+327       https://doi.org/10.1007/BF00349310
+328
+
+329   28. Honeycutt RN, Holbrook SJ, Brooks AJ, Schmitt RJ. Farmerfish gardens help buffer stony corals
+330       against marine heat waves. PLoS ONE 18, e0282572. (2023).
+331       https://doi.org/10.1371/journal.pone.0282572
+
+
+
+
+  9
+332   FIGURES
+
+333   Figure 1. A time series of wound healing by treatment. One coral from each experimental treatment is
+334   pictured at four timepoints: initial wounding and one, two, and three weeks post wounding, when the
+335   experiment ended. Corals held without fish exhibited less tissue regeneration compared to corals with
+336   fish. At three weeks, wounded corals without fish remained only partially healed, while corals with fish
+337   exhibited near to or complete healing: the small wound with fish is 98% healed, and the large wound with
+338   fish is fully healed.
+
+339   Figure 2. Damselfish presence accelerated coral wound healing, particularly for large wounds. Wound
+340   healing rate (cm²/day) in fragments of Pocillopora as a function of wound size and fish presence. Small
+341   circles represent individual coral fragments (n = 8 per treatment); large circles indicate treatment means
+342   with vertical bars showing 95% confidence intervals. Corals with resident damselfish (blue, filled circles)
+343   exhibited higher healing rates than fish-absent controls (orange, open circles) across both wound size
+344   treatments. This effect was most pronounced in corals with large wounds, where corals with fish healed at
+345   approximately twice the rate of corals without fish.
+
+346   Figure 3. Effects of damselfish on coral growth rate and photosynthetic efficiency across wound
+347   treatments. (A) Coral skeletal growth rate (mg day⁻¹cm⁻² ) and (B) maximum quantum yield of
+348   photosystem II (Fv/Fm) measured in fragments of Pocillopora exposed to three wound size treatments
+349   (No Wound, Small, Large) in the presence (blue, filled circles) or absence (orange, open circles) of
+350   Dascyllus damselfish. Small circles represent individual coral fragments; large circles indicate treatment
+351   means ± 95% confidence intervals. (A) Growth rates were similar across all treatments. (B) Fish presence
+352   had minimal effect on photosynthetic efficiency in unwounded corals, but enhanced Fv/Fm in wounded
+353   corals, with the largest difference observed in corals with large wounds. Corals without fish showed
+354   reduced Fv/Fm in wounded treatments, particularly in the large wound treatment where corals without
+355   fish exhibited the lowest photosynthetic efficiency.
+
+
+
+
+ 10
+356   Figure 1.
+
+
+
+
+357
+358   Figure 2.
+
+
+
+
+359
+
+
+
+
+ 11
+360
+
+361   Figure 3.
+
+
+
+
+ 12
+

@@ -1,0 +1,828 @@
+Received: 9 March 2021     | Revised: 6 May 2021 | Accepted: 26 May 2021
+DOI: 10.1111/maec.12670
+
+
+REG UL AR PAPER
+
+
+
+
+Complex interactions with nutrients and sediment alter the
+effects of predation on a reef-­building coral
+
+Mallory M. Rice1      | Daniel G. Baldwin2 | Janine N. Fischer3 | Corinne Fuchs2,4 |
+Deron E. Burkepile2,5
+
+1
+ Department of Biology, San Francisco State
+University, San Francisco, CA, USA               Abstract
+2
+ Department of Ecology, Evolution, and           Framework-­building corals create the three-­dimensional structure of coral reefs and
+Marine Biology, University of California,
+                                                 are subject to predation from fishes, echinoderms, and gastropods. Anthropogenic
+Santa Barbara, Santa Barbara, CA, USA
+3
+  Department of Ecology and Evolutionary
+                                                 stressors can magnify the effects of such top-­down pressure on foundation species.
+Biology, University of California, Los           The gastropod Coralliophila violacea (Kiener, 1836) depletes coral energy reserves
+Angeles, Los Angeles, CA, USA
+4
+                                                 via predation, potentially increasing coral susceptibility to land-­based pollution (i.e.,
+ Fish and Wildlife Research Institute, Florida
+Fish and Wildlife Conservation Commission,       sediment accumulation and nutrient pollution). We hypothesized that sedimentation
+St. Petersburg, FL, USA                          would worsen coral mortality, while nutrient enrichment would mitigate the harmful
+5
+ Marine Science Institute, University of
+                                                 effects of sediment and predation on coral mortality by increasing the densities of
+California, Santa Barbara, Santa Barbara,
+CA, USA                                          algal symbionts. To test these hypotheses, we conducted in situ surveys of the fring-
+                                                 ing reefs in Mo'orea, French Polynesia to explore the relationships among massive
+Correspondence
+Department of Biology, San Francisco State       Porites spp. cover, C. violacea densities, and sediment accumulation on coral colonies
+University, San Francisco, CA 94132, USA.
+                                                 across low and high nutrient sites. We also conducted a factorial field experiment to
+Email: mallorymrice@gmail.com
+                                                 test the interactions among these stressors on coral tissue mortality, symbiont densi-
+Funding information
+                                                 ties, and chlorophyll. Massive Porites colonies at higher nutrient sites had C. violacea
+Worster Award; Benson Scholarship; UCSB
+Faculty Research Assistance Program;             densities 13 times higher than at low nutrient sites but there was no difference in
+Gordon and Betty Moore Foundation;
+                                                 the amount of live tissue on coral colonies with or without snails among these sites.
+National Science Foundation, Grant/Award
+Number: 1547952, 16-­37396 and 1650114           In our experiment, there were interactions between predation and nutrients as well
+                                                 as nutrients and sediment that impacted coral mortality. Sedimentation and preda-
+                                                 tion by C. violacea increased coral tissue mortality independently by ~20%. Nutrient
+                                                 enrichment reduced this effect in corals under sedimentation or predation pressure
+                                                 by lowering coral tissue mortality by 18% and increasing algal symbiont densities
+                                                 by ~28%. Our results indicate that sediment does not magnify top-­down pressure
+                                                 on this coral, and that moderate nutrient enrichment may interact with predation in
+                                                 complex, unexpected ways to alter the responses of corals to top-­down pressure.
+
+                                                 KEYWORDS
+
+                                                 corallivory, foundation species, land-­based pollution, nutrient pollution, scleractinian,
+                                                 sedimentation
+
+
+
+
+Marine Ecology. 2021;42:e12670.                            wileyonlinelibrary.com/journal/maec                    © 2021 Wiley-­VCH GmbH      | 1 of 14
+https://doi.org/10.1111/maec.12670
+2 of 14   |                                                                                                                                    RICE et al.
+
+
+1 | I NTRO D U C TI O N                                                        tissue mortality. Corals are subject to predation (corallivory) by a
+                                                                               wide range of taxa, including fishes, echinoderms, molluscs, and ar-
+Foundation species create important habitat that supports high                 thropods (Cole et al., 2008; Rice et al., 2019; Rotjan & Lewis, 2008).
+biodiversity across many ecosystems (Dayton, 1972; Ellison, 2019).             Browsing corallivory by gastropods can have substantial impacts on
+However, habitat destruction, global climate change, and land-­based           coral health by removing coral tissue without impacting the coral
+pollution have driven unprecedented declines of foundation spe-                skeleton. In the Caribbean and Pacific Oceans, Coralliophila spp. snails
+cies over the past several decades, particularly in coastal ecosys-            can significantly increase coral mortality (Knowlton et al., 1990;
+tems (Fabricius, 2005; Gedan et al., 2009; Hughes et al., 2018; Lotze          Raymundo et al., 2016; Shaver et al., 2017; Williams & Miller, 2012).
+et al., 2006). Anthropogenic stressors often occur simultaneously              These predatory snails feed by permeating coral tissues with a pro-
+and may modify one another or biotic interactions, such as predation           boscis to consume photosynthate products produced by algal sym-
+or herbivory, to exacerbate the loss of these foundation species in            bionts (Ward, 1965). This feeding mode creates an energy “sink” as
+coastal regions (Silliman et al., 2013). For example, in salt marsh eco-       the coral colony translocates carbon products to the site of injury,
+systems, drought induced by climate change can act synergistically             depleting energy reserves elsewhere in the coral (Oren et al., 1998).
+with herbivory by the snail Littorina irrorata (Say, 1822) to accelerate       The feeding strategy employed by Coralliophila spp. reduces coral
+the decline of key salt marsh plant populations, resulting in wide-            growth substantially (Clements & Hay, 2018; Hamman, 2018, 2019),
+spread loss of a foundation species (Silliman et al., 2005). The reduc-        alters coral morphology (Hamman, 2019), and accelerates tissue loss
+tion in population sizes of foundation species in coastal ecosystems           and mortality (Raymundo et al., 2016; Shaver et al., 2017). Thus,
+can result in a cascade of biodiversity loss (Angelini et al., 2011) and       corallivores have substantial effects on corals at the individual and
+the subsequent alteration of ecosystem services such as nutrient cy-           population level.
+cling and the buffering of erosion (Worm et al., 2006). Understanding              Corallivory may also compromise the ability of corals to cope with
+the potential interactions among anthropogenic stressors and biotic            concurrent abiotic stressors (Rice, Ezzat, et al., 2019), such as sed-
+interactions on foundation species is critical to determining the              imentation and nutrient pollution. For example, sediment exposure
+trajectory of community structure for coastal ecosystems in the                can deplete coral energy reserves (Sheridan et al., 2014) and inhibit
+Anthropocene.                                                                  tissue recovery following predation (Cróquer et al., 2002). In fact, sim-
+    In the past several decades, the abundance of scleractinian corals         ulated parrotfish and butterflyfish wounds on colonies of Orbicella an-
+on tropical reefs has declined significantly in many regions due to a host     nularis (Ellis and Solander, 1786) healed 2–­3 times slower at sites with
+of anthropogenic stressors ranging from global climate change (e.g., ris-      high sediment loads than at sites with low sediment loads (Cróquer
+ing sea surface temperatures and ocean acidification) to local stress-         et al., 2002). Anthropogenic sources of nutrient enrichment can
+ors such as overfishing and land-­
+                                 based pollution (Hoegh-­
+                                                        Guldberg               also reduce the wound healing capacity of corals (Koop et al., 2001;
+et al., 2017; Hughes et al., 2017). Land-­based pollution from coastal de-     Renegar et al., 2008). However, nutrient enrichment does not always
+velopment, sewage, agriculture, and dredging can expose corals to sed-         mediate how predators influence coral growth or mortality (Shaver
+iment accumulation and nutrient enrichment (Fabricius, 2005; Lapointe          et al., 2017). Indeed, moderate levels of nutrient enrichment can have
+et al., 2019), often resulting in the local loss of corals (Fabricius, 2005;   positive effects on corals (e.g., increased zooxanthellae densities and
+Rogers, 1990; Wear & Thurber, 2015). Sediment in the water increases           coral growth) (Ezzat et al., 2015; Gil, 2013). Given that sedimentation
+turbidity, which limits photosynthesis and growth rates, suppresses            and nutrient enrichment can positively covary on nearshore reefs
+coral recruitment, and increases the mortality of adult corals (Burke          (Fabricius, 2005), these concurrent stressors may interact in complex
+et al., 2002; Fabricius, 2005; Rogers, 1990). Sediment accumulation            ways to alter the impact of corallivory on corals.
+on coral surfaces reduces energetic resources of corals as they expend             Here, we test the potential interactive effects of sedimentation,
+energy to shed sediment particles (Sheridan et al., 2014). Prolonged           nutrient enrichment, and corallivory on the physiology and mor-
+sediment accumulation can also kill coral tissue (Weber et al., 2006),         tality of a common reef-­building coral in the tropical South Pacific.
+increasing overall coral mortality (Erftemeijer et al., 2012). Nutrient        Specifically, we used field surveys to test the following hypotheses
+enrichment, another consequence of land-­based pollution, can de-              about the spatial relationships among corallivory, nutrients, and sed-
+crease coral calcification (Shantz & Burkepile, 2014) and promote coral        iment: (i) Nutrient availability and sediment accumulation on mas-
+bleaching and disease (Vega Thurber et al., 2014). Although sedimen-           sive Porites colonies will be positively correlated across reef sites, (ii)
+tation and nutrient enrichment often have negative effects on corals in        there will be a lower massive Porites cover at high nutrient sites, and
+isolation, the few studies that have examined the combined effects of          (iii) there will be more corallivorous snails at sites with higher nutri-
+these stressors on corals surprisingly have found no interactive effects       ent availability. We then used a factorial field experiment to examine
+on coral cover, survival, or growth (Gil et al., 2016; Muthukrishnan &         the following hypotheses about the impacts of corallivory, nutrients,
+Fong, 2014). Consequently, the effects of sedimentation and nutrient           and sediments on corals: (i) The effects of nutrient enrichment and
+enrichment on corals may be more prominent in isolation than when              sedimentation will be antagonistic on coral mortality and physiology
+these stressors co-­occur.                                                     (i.e., enhanced algal symbiont physiology for enriched corals coun-
+    Even without anthropogenic stressors, natural biotic interac-              terbalances impaired symbiont physiology under sedimentation), (ii)
+tions can impair coral physiology, hinder coral growth, and increase           sedimentation will exacerbate the negative effects of snails on coral
+RICE et al.                                                                                                                            | 3 of 14
+mortality and algal symbiont physiology, and (iii) nutrient enrichment    Thus, we focused on massive Porites colonies that shared common
+will lessen the impact of snail predation on coral mortality by in-       color and morphology. Massive Porites are frequently preyed upon
+creasing algal symbiont densities for enriched corals.                    by Coralliophila violacea (Kiener, 1836) (McClanahan, 1994), which is
+                                                                          chemically attracted to massive Porites (Hamman, 2018). This cor-
+                                                                          allivorous gastropod feeds on a single coral colony for extended
+2 | M E TH O DS                                                           periods of time, impairing the physiological performance of the col-
+                                                                          ony and increasing tissue loss and mortality (Clements & Hay, 2018;
+2.1 | Study site and species                                              Hamman, 2018, 2019; Oren et al., 1998; Raymundo et al., 2016).
+
+
+This study was conducted in Mo'orea, French Polynesia (17°28.770′S,
+149°47.618′W), site of the Richard B. Gump South Pacific Research         2.2 | Field surveys of snails, nutrient availability, and
+Station. Mo'orea is a high volcanic island surrounded by a barrier reef   sedimentation across reefs
+composed of fringing-­and back-­reef habitats within the lagoon and
+a fore reef seaward of the reef crest. The island experiences a cooler    To assess the spatial relationships among corallivorous snails, nu-
+dry season (May –­October) and a warmer wet season (November              trient enrichment, and sedimentation at the reef scale, we con-
+–­ April). Heavy rainfall during the wet season can inundate portions     ducted in situ surveys across seven fringing reefs at ~1–­2 m depth
+of the fringing reefs with anthropogenic, land-­based runoff, resulting   on the north shore of Mo'orea (Figure 1a). In preliminary surveys,
+in pulses of sediment that cover corals and increase nutrient con-        Coralliophila violacea was only observed on massive Porites colonies
+centrations in nearshore waters (Adjeroud & Salvat, 1996; Schrimm         >10 cm in diameter. Thus, we surveyed all massive Porites colonies
+et al., 2002).                                                            >10 cm in diameter found in 25 × 2 m belt transects parallel to shore
+    We focused our study on the common reef-­building coral mas-          (n = 4 transects per site). For each colony, we recorded the flat col-
+sive Porites because it is a dominant coral in the Mo'orea fringing       ony diameter parallel to the benthos to the nearest cm, estimated
+reefs yet has been in decline in these habitats over the past decade      percent live tissue of the coral colony, and counted the number of C.
+(Edmunds, 2020). In Mo'orea, the lagoon is dominated by several           violacea snails found on each colony. Colony diameter was used to
+species of massive Porites with Porites lutea (Edwards, 1,860) and        estimate the colony surface area using the surface area of a hemi-
+Porites lobata (Dana, 1846) being the most common (Bosserelle et al.,     sphere (2πr2), which we found closely resembled the shape of all the
+2014). Distinguishing among these species by corallite morphology         massive Porites colonies in our study. This area was then multiplied
+is challenging in situ, and corallite morphology of Porites spp. does     by the estimated value for percent live tissue to estimate the surface
+not always conform to distinct genetic clades (Forsman et al., 2009).     area of live tissue.
+
+
+
+
+F I G U R E 1 (a) Site map of the in situ
+fringing reef survey sites (black points) in
+Mo'orea, French Polynesia. (b) Example of
+sediment accumulation on massive Porites
+colonies in Mo'orea. (c) Schematic of the
+design for the field experiment testing
+interactions among snail predation,
+nutrients, and sedimentation (n = 11
+massive Porites fragments per treatment).
+Note that the nutrient treatment was
+established at the cinderblock level
+and the snail predation and sediment
+treatments were applied within each
+cinderblock
+4 of 14   |                                                                                                                               RICE et al.
+
+
+    Benthic photograph quadrats (25 × 25 cm) were taken on al-             Porites colonies with snails. All analyses were conducted in R (v3.4.3)
+ternating sides at one-­meter intervals on each transect using an          (R Development Core Team, 2017), and figures were produced
+Olympus TG-­4 camera to quantify massive Porites cover at the              using the ggplot2 and ggthemes packages (Arnold, 2017; Wickham
+sites. These photograph quadrats were processed in the CoralNet            & Wickham, 2009).
+Software using the stratified random point distribution setting
+with 50 points per frame and a confidence threshold of 95% for
+computer automation (n = 1,402 photographs total) (Beijbom                 2.3 | Field experiment testing interactions of
+et al., 2015). These same photograph quadrats were used to de-             snails, nutrient availability, and sedimentation on
+termine sediment prevalence on massive Porites colonies using              massive Porites
+the “Fiji” version of ImageJ software (Schindelin et al., 2012). To
+keep the colony size class consistent with those used from our in          To evaluate how predation by Coralliophila violacea interacts with
+situ surveys, each massive Porites colony >10 cm diameter was              nutrient enrichment and sedimentation to affect massive Porites, we
+evaluated for presence or absence of sediment on the colony (i.e.,         conducted a six-­week (July–­September 2017) full-­factorial study at a
+sediment accumulation) (Figure 1b). For each occurrence of sedi-           back-­reef site on the north shore of Mo'orea. We conducted the field
+ment accumulation on massive Porites, we noted if the coral tissue         experiment at a back-­reef site because these sites are characterized
+adjacent to the sediment was pale as this is often an indicator of         by less sedimentation and nutrient loading relative to the fringing
+physiological stress.                                                      reef sites in Mo'orea, which allowed us to disentangle the effects
+    We used Turbinaria ornata (Turner J. Agardh, 1848), a brown            of these stressors on corals. Eight fragments (17.6 ± 0.7 cm2 sur-
+macroalga, as a proxy for seawater nutrient concentration at these         face area) were collected from 11 massive Porites parent colonies
+sites because algae can integrate nutrient availability in seawater        at the back-­reef site using a hammer and chisel (88 fragments total).
+over long time periods (~3 months) (Atkinson & Smith, 1983; Lin            We chose apparently healthy parent colonies without any signs of
+& Fong, 2008). Both observational and experimental studies show            predation or tissue loss. Coral fragments were immediately returned
+the nutrient levels within algal tissues are elevated when algae           to the Gump Research Station by boat after collection. Each coral
+occur in nutrient-­enriched environments relative to nutrient-­poor        fragment was attached by epoxy adhesive (Z-­spar A-­788) onto the
+environments (Burkepile & Hay, 2009; Lin & Fong, 2008; Vega                open neck of a 50 ml Falcon tube and allowed to acclimate for ~24 hr
+Thurber et al., 2014). In Mo'orea, nitrogen content of T. ornata is cor-   in flow-­through seawater tables. Inverted 50-­ml Falcon tube caps
+related with anthropogenic sources of nutrients (Adam et al., 2020).       were epoxied to 20 × 20 cm cinderblocks (n = 4 caps per cinder-
+Samples of T. ornata (n = 10 fronds per site) were collected at each       block) deployed at the back-­reef site. This method allowed us to eas-
+site, cleaned of epiphytes, and dried at 60°C for ~48 hr. These sam-       ily deploy coral fragments in the field (see Clements & Hay, 2015
+ples were then ground to a fine powder and processed for the per-          for methods). Four massive Porites fragments were attached to each
+cent carbon, hydrogen, and nitrogen (CHN) via elemental analysis           cinderblock. Each cinderblock was covered with an enclosure of wire
+using an Automated Organic Elemental Analyzer (Exeter Analytical           mesh (2.5 × 2.5 cm diameter holes) to prevent fish predation on cor-
+CEC440HA) in the analytical laboratory of the University of                als. Cinderblocks were placed ~1.5–­2 m apart in a single row running
+California Santa Barbara Marine Science Institute. Turbinaria ornata       parallel to shore.
+in enriched environments often have tissues with higher than 0.5%             Corals were randomly assigned to the following treatments
+N (Schaffelke, 1999), enabling us to categorize each survey site as        (n = 11 per treatment; see Figure 1c): (i) control, (ii) snail predation,
+either a low (N < 0.5%) or high nitrogen site (N > 0.5%). The % N of       (iii) nutrient enrichment, (iv) sediment addition, (v) snail predation
+T. ornata tissues was significantly higher at the high nitrogen sites      and nutrient enrichment, (vi) snail predation and sediment addition,
+(N > 0.5%) than the low nitrogen sites (N < 0.5%) (Mann–­Whitney;          (vii) nutrient enrichment and sediment addition, and (viii) snail preda-
+p =.02; range: 0.45%–­0.62% N; Figure S1).                                 tion, nutrient enrichment, and sediment addition. Neither initial coral
+                                                                           mass, determined by the buoyant weight method (Davies, 1989;
+                                                                           Jokiel et al., 1978), nor coral surface area, measured using the alumi-
+2.2.1 | Analysis of field survey data                                      num foil method (Marsh, 1970), varied across treatments (one-­way
+                                                                           ANOVA; mass: F7,84 = 0.51, p =.83; 12.3 ± 0.7 g, mean ± SE; surface
+Differences in Coralliophila violacea densities at low and high N sites    area: F7,79 = 1.25, p =.28; 17.7 ± 0.7 cm2). The fragments of massive
+were analyzed with a Mann–­Whitney test because the data did               Porites acclimated to field conditions at ~2 m depth for ~48 hr before
+not follow a Gaussian distribution. Chi-­squared analysis was used         treatments began.
+to evaluate differences in the prevalence of sediment accumula-               Nutrient treatments were established at the cinderblock scale
+tion on massive Porites between low and high N sites. Differences          with every other cinderblock in the row assigned to the enriched
+in the percent live tissue of massive Porites colonies with and with-      treatment. For enriched blocks, we affixed two nutrient diffus-
+out snails were evaluated with Mann–­Whitney tests within low and          ers to opposite sides of each cinderblock. Nutrient diffusers were
+high N sites. A linear regression was used to evaluate the relation-       10 cm long ×2.5 cm wide PVC pipe with 10 0.6 cm holes drilled into
+ship between snail density and percent tissue mortality for massive        the sides. These pipes were enclosed in window screen mesh and
+RICE et al.                                                                                                                            | 5 of 14
+then filled with 30 g slow-­release Classic Osmocote (19–­6–­12 of        to any coral fragments during the predation period because it can
+N-­P-­K ). This method has been successful in elevating the nutrient      deter snail feeding (Suren, 2005). After the 10-­day predation pe-
+concentrations of seawater in previous studies (Bruno et al., 2003;       riod, the wounds were monitored for signs of healing (e.g., polyp
+Burkepile & Hay, 2009; Gil et al., 2016; Shaver et al., 2017). Nutrient   regeneration) for ~2 weeks as Porites spp. heals most snail predation
+diffusers were changed every 2–­3 weeks to maintain elevated nutri-       wounds within this time frame (Raymundo et al., 2016). Photographs
+ent levels throughout the duration of the experiment. We collected        of the predation scars, including a ruler for scale, were taken with
+seawater samples ~5 cm above the surface of each cinderblock be-          an Olympus TG-­4 camera immediately following snail removal and
+fore each diffuser swap using acid-­washed 20-­mL syringes. These         again at the end of the experiment. Wound healing rates were deter-
+seawater samples were kept on ice while transported by boat back          mined by tracing the snail predation scar in ImageJ in the initial and
+to the Gump Research Station within <1 hr of collection. All sam-         final photographs. The percent tissue mortality for each coral was
+ples were immediately filtered through 0.7 μm GF/F filters into acid-­    estimated visually during weekly in situ surveys on SCUBA by the
+washed vials and frozen at −40°C until analysis. A subset of these        same observer (M. Rice) throughout the experiment.
+samples was processed for NO2− + NO3− and PO34 − by the Cochlan              Water temperature (HOBO Pendant loggers; ±0.53°C ac-
+Laboratory at San Francisco State University. Frozen samples were         curacy) and photosynthetically active radiation (PAR; Odyssey)
+thawed overnight at room temperature (~20°C) prior to analysis.           were recorded at ~2 m depth throughout the experiment. PAR
+For the analysis, a Lachat Instruments flow injection automated ion       sensors were calibrated according to manufacturer specifications,
+analyzer (8000 Series; Hach Co.) was used following the methods           mounted with cable ties to a cinderblock, and cleaned weekly with
+of Smith and Bogren (2001) for NO3+ NO2 and Knepel and Bogren             brushes to prevent biofilm accumulation. Sedimentation rates at
+(2002) for PO 4.                                                          the site were recorded at several locations using simple sediment
+    Sediment treatments were established on two coral replicates          traps made of PVC tubes 5 cm in diameter with an aspect ratio of
+within each cinderblock to mimic the sediment regime of Mo'orean          5:1 (White, 1990). Sediment was collected weekly, dried at 60°C
+fringing reefs where sediments are <500 µm (~99% of collected             for ~48 hr, weighed to the nearest 0.01 g, and converted to sed-
+sediments) (Gil et al., 2016). To simulate this sediment regime, we       imentation rates (mg cm−2 day−1) using the inner diameter of the
+filtered 5 ml sediment from the sandy sea floor adjacent to each cin-     PVC tube.
+derblock through a 500-­µ m nylon-­mesh sieve to cover the surface
+of each sediment treatment coral replicate with sediment particles
+twice per week. This resulted in a maximum sedimentation rate of          2.3.1 | Densities of Symbiodiniaceae and chlorophyll
+~100 mg cm2 day−1 as a large portion of the sediment particles fell       production in massive Porites
+onto the cinderblock or were not filtered through the sieve due to
+particle size. This sedimentation rate falls toward the high end of the   At the end of the experiment, we analyzed coral tissue from all live
+range of sediment deposition observed on coral reefs (see table S1        massive Porites fragments to evaluate treatment effects on algal
+in Gil et al., 2016). To evaluate whether the sedimentation treatment     symbiont densities and chlorophyll a production, as these metrics
+increased sediment cover on coral fragments, photographs were             are proxies for the physiological health of corals. Coral tissue was
+taken before and immediately after sediment addition for each coral       removed from each fragment using an airbrush and 0.7 µm filtered
+fragment and a uniform 100-­point grid was superimposed on each           seawater (FSW) into a 15 ml Falcon tube. The total volume of coral
+photograph to determine the percent change in sediment cover be-          tissue slurry was recorded to the nearest 0.1 ml for each fragment.
+fore and after sediment addition. Corals were exposed to nutrient         The coral tissue slurry was homogenized using a homogenizer
+enrichment and sediment addition treatments for ~2 weeks before           (Fisherbrand 150 Hand Held Homogenizer Motor) with a stainless-­
+the predation treatment began.                                            steel saw tooth probe for 10 s, and 1 ml of the homogenous coral
+    Snail predation treatments were also established within each          tissue slurry was aliquoted to a 2 ml microcentrifuge tube for chlo-
+cinderblock. We collected Coralliophila violacea (13.9–­
+                                                       26.0 mm            rophyll a analysis. The remaining tissue slurry was spun down at
+shell length, 16.87 ± 0.32 mm mean shell length) from the same            4,000 rpm for 5 min, and the supernatant was discarded. This step
+back-­reef site as the experiment and brought the snails back to          was repeated three times to ensure the complete removal of resid-
+the Gump Research Station to measure shell length to the nearest          ual tissue. The Symbiodiniaceae (formerly Symbiodinium; LaJeunesse
+0.01 mm using digital calipers. Following Clements and Hay (2018),        et al., 2018) pellet was diluted with 10 ml of FSW. Symbiodiniaceae
+snails were attached to massive Porites fragments using cable ties.       densities were analyzed using a hemocytometer and compound
+The shell of each snail was sanded with sandpaper, glued to a cable       microscope (n = 4 counts per coral replicate) and normalized by
+tie with cyanoacrylate adhesive, and attached to respective corals        coral surface area using the aluminum foil method (Marsh, 1970).
+with one snail per coral for the predation treatments (Clements &         Chlorophyll a content was determined by spinning down the homog-
+Hay, 2018). Each snail was allowed to feed on an individual mas-          enized tissue aliquot, removing the supernatant, and adding 5 ml
+sive Porites fragment for 10 days before being removed, which is          100% acetone (Jeffrey & Humphrey, 1975). Samples were kept in the
+sufficient time for predation wounds by C. violacea to be visible         dark at 4°C for 24 hr and then measured at 663 and 630 nm using a
+on Porites corals (Raymundo et al., 2016). Sediment was not added         spectrophotometer. Chlorophyll a was calculated using the equation
+6 of 14   |                                                                                                                                  RICE et al.
+
+
+for chlorophyll a in dinoflagellates from Jeffrey and Humphrey
+(1975) after accounting for homogenate and solvent volumes and
+normalized by symbiont cell count.
+
+
+
+2.3.2 | Analysis of factorial field experiment
+
+A one-­sided Mann–­Whitney test was used to assess differences in
+the nutrient concentrations of our control and enriched cinderblocks
+because data did not follow a Gaussian distribution. To evaluate the
+effectiveness of our sediment addition treatment, we used a one-­
+                                                                            F I G U R E 2 (a) The density of Coralliophila violacea snails on
+way ANOVA to determine the difference in the percent cover of               massive Porites colonies (snails per m2 live tissue; mean ± SE;
+sediment across treatments. We evaluated the impact of the snail            n = 426 colonies) observed across sites with low and high nitrogen
+predation treatment using a one-­way ANOVA to determine whether             (N) regimes (white bars: low N site; gray bars: high N sites). (B) The
+the size of predation wounds varied across the four predation treat-        percent of massive Porites colonies with sediment accumulation
+                                                                            across site N regimes (n = 120 colonies). The nitrogen levels in
+ments: (i) predation, (ii) nutrient enrichment and predation, (iii) sedi-
+                                                                            tissue samples of the macroalgae Turbinaria ornata served as
+ment addition and predation, and (iv) nutrient enrichment, sediment         a proxy for nutrient enrichment at the sites and were used to
+addition, and predation.                                                    distinguish survey sites as either low (N < 0.5%) or high N sites
+    Linear mixed-­effects models (LMMs) were used to evaluate the           (N > 0.5%). Letters on the bars indicate significant differences
+treatment effects (predation, nutrients, sedimentation, and their           according to a Mann–­Whitney test and chi-­square test, respectively
+interactions) on tissue mortality, Symbiodiniaceae densities, chlo-
+rophyll a content, and the wound healing rate of massive Porites            their interactions as fixed effects as well as snail shell length as a
+corals in the factorial field experiment. The lmer function from the        fixed effect and parent colony as a random effect. Chlorophyll a was
+lmerTest package in R was used to create all LMMs (Kuznetsova               log (x + 1) transformed to meet the assumptions of normality and ho-
+et al., 2017). Initially, all LMMs included parent colony and cinder-       moscedasticity. The percent of the predation wound that healed was
+block as random effects fit with random intercepts to account for           analyzed with a LMM with nutrient, sediment, and their interactions
+variation within the experimental design. Akaike's information cri-         as fixed effects as well as snail shell length as a fixed effect with cin-
+terion for small sample size (AICc) was used to test for the good-          derblock and parent colony as random effects. All code and raw data
+ness of fit for the random effects structure using the AICc function        used for this study are available at https://github.com/mallo​r ymri​ce/
+from the MuMIn package (Barton & Barton, 2019). Models with                 SNAIL_2017.
+ΔAICc of <2 are considered equivalent model fits (Burnham &
+Anderson, 2002), and in this case, the simplest model with the low-
+est AICc value was considered the best fitting model. Here, we only         3 | R E S U LT S
+report the random effects that were included in the final models.
+The treatment effects (nutrient enrichment, sedimentation, and              3.1 | Field surveys of snails, nutrient availability, and
+snail predation) were included as crossed fixed effects in all LMMs         sedimentation across reefs
+to test a priori hypotheses. Snail shell length was included as a fixed
+effect in all LMMs because we expected larger Coralliophila viola-          We observed 426 massive Porites colonies (>10 cm diameter) in our
+cea snails to have a more negative influence on corals and wanted           in situ surveys, and ~5% of these colonies had Coralliophila violacea
+to account for this variation in the models. The final model struc-         snails (n = 23 colonies with snails; range: 1–­20 snails per colony).
+ture of the fixed and random effects for each response variable is          The density of C. violacea was an order of magnitude higher at sites
+presented in Table S1.                                                      characterized by high N (0.4 ± 0.1 snails per m2 live coral tissue) than
+    Treatment effects on the tissue mortality of massive Porites were       low N (0.03 ± 0.02 snails per m2 live coral tissue) (Mann–­Whitney;
+assessed with a LMM after being log (x + 1) transformed with pre-           p < .001; Figure 2a). For the colonies with snails, the mean density
+dation, nutrient, and sediment and their interactions as fixed effects      of snails observed was 4.69 ± 0.95 snails per m2 live coral tissue.
+with snail shell length as a fixed effect. Cinderblock and survey date      The percent of live tissue for massive Porites colonies did not differ
+(repeated measures component) were included as random effects.              for colonies with and without C. coralliophila at low or high N sites
+Prior to snail addition, there was little tissue mortality (~0.3% aver-     (Mann–­Whitney; p = .5 and p = .4, respectively; Figure 3). Colonies
+age across treatments). Only data from after the snail addition were        with snails displayed no relationship between snail density and per-
+included in this analysis so that we could assess the interactions of       cent live tissue (linear regression; F1,21 = 1.53, p = .23, R 2 = .02).
+all three stressors simultaneously. We used independent LMMs to                 There were 120 massive Porites colonies (>10 cm diameter) in
+evaluate the treatment effects on Symbiodiniaceae densities and             the photograph quadrats used to assess benthic cover, and ~60%
+chlorophyll a concentrations with predation, nutrient, sediment, and        of these colonies had sediment accumulation on their live tissue
+RICE et al.                                                                                                                                       | 7 of 14
+
+
+
+
+F I G U R E 3 The percent live tissue of massive Porites colonies
+(mean ± SE) with snails absent (white bars, n = 403) and snails
+present (gray bars, n = 23) across low and high site nitrogen (N)
+regimes. Note the high variability for colonies observed with snails
+at low N sites is due to low sample size (n = 2). Tissue samples of
+the macroalgae Turbinaria ornata were used as a proxy for nutrient
+supply to characterize survey sites as either low (N < 0.5%) or high
+N sites (N > 0.5%)
+
+
+TA B L E 1 Linear mixed-­effects model results for percent
+partial colony mortality during the course of the experiment with
+Kenward–­Roger approximation for degrees of freedom
+
+  Fixed effects                             df     F                p
+
+  Predation                                 1      2.732            .0997
+  Nutrient                                  1      1.033            .322
+  Sediment                                  1      0.178            .674
+  Snail shell length                        1      1.385            .241
+  Predation × Nutrient                      1       7.337           .00730
+  Predation × Sediment                      1      4.530            .0344          F I G U R E 4 The percent tissue mortality (mean ± SE; n = 10–­11
+  Nutrient × Sediment                       1      3.796            .0527          per treatment) of massive Porites nubbins after the addition of
+                                                                                   Coralliophila violacea snails. These data were averaged over three
+  Predation × Nutrient × Sediment           1      0.341            .560
+                                                                                   study dates (8/23, 8/30, and 9/6; refer to Figure S2). Panels are
+Notes: p-­Values defined as significant at a threshold of .05 are                  organized by the following significant two-­way interactions (see
+highlighted in bold.                                                               Table 1 for results): (a) nutrient enrichment and snail predation, (b)
+                                                                                   sediment addition and snail predation, and (c) sediment addition
+surfaces with 80% of these occurrences associated with paling                      and nutrient enrichment. Note the variable x-­axes labels and
+                                                                                   legends on each panel
+tissue. The percent of massive Porites colonies with sediment ac-
+cumulation was higher at low N sites than high N sites (χ2 = 13.27;
+p < .001; Figure 2b). Massive Porites cover was ~2% of total benthic               versus 0.8 ± 0.3 μM, respectively) (Mann–­Whitney; p =.05). There
+cover across sites and represented ~25% of total coral cover.                      was a similar trend for enriching PO 4 concentrations for the enriched
+                                                                                   cinderblocks (0.6 ± 0.2 μM) relative to controls (0.2 ± 0.08 μM)
+                                                                                   (Mann–­Whitney; p =.1). There was ~80% more sediment observed
+3.2 | Field experiment testing interactions of                                     on coral tissues for corals in the sediment addition treatment than
+snails, nutrient availability, and sedimentation on                                on non-­sediment addition corals (one-­way ANOVA; F7,72 = 164.22,
+massive Porites                                                                    p <.0001). The sizes of wounds from snail predation averaged
+                                                                                   32.8 ± 2.2 mm2 and did not vary across the different predation treat-
+Throughout        the   experiment,   seawater     temperature          at   the   ment combinations (one-­way ANOVA; F3,39 = 1.22, p =.32).
+site ranged between 24.6 and 30.5°C and had an over-                                  Tissue mortality on massive Porites fragments was relatively low
+all mean of 27.3 ± 0.5°C (±SE). PAR had an overall mean of                         before snail addition (0.3% overall) and increased after Coralliophila
+1,285.1 ± 17.0 µmol m−2 s−1. Sedimentation rates at the study site                 violacea were added (Figure S2). Five coral replicates, each from a
+averaged 0.61 ± 0.087 mg cm−2 day−1. We were successful at el-                     different treatment combination, experienced complete mortality
+evating the NO2− + NO3− nutrient concentrations for enriched cin-                  by the end of the experiment. There were no main effects of snail
+derblocks approximately fourfold relative to controls (4.3 ± 1.4 μM                predation, nutrient enrichment, or sedimentation on tissue mortality
+8 of 14   |                                                                                                                               RICE et al.
+
+
+of corals (Table 1; Figure S3), although there was a trend for snail       these contrasting patterns, Porites corals at sites with higher N, more
+predation to increase tissue mortality (LMM; F = 2.73, p =.1). There       snails, and less sedimentation had similar amounts of live tissue as
+was a significant two-­way interaction between nutrient enrichment         sites with lower N, fewer snails, and more sedimentation. At the scale
+and snail predation where nutrients appeared to lower tissue mor-          of coral colony, results from our experiment suggest that snail preda-
+tality in corals, with the lowest mortality occurring when snail preda-    tion increased tissue mortality of massive Porites, but that sedimenta-
+tion was absent (LMM; F = 7.34, p <.01; Figure 4a). We also observed       tion or nutrient enrichment did not exacerbate this mortality. In fact,
+a significant two-­way interaction between snail predation and sed-        sediment addition increased tissue mortality such that the impact
+imentation (LMM; F = 4.53, p =.034; Figure 4b). In the absence of          of corallivorous snails was no longer evident, with no differences in
+sediment, snail predation increased tissue mortality over threefold        tissue mortality between corals that were preyed upon and control
+(10% without snails versus 31% with snails) while in the presence of       corals under sediment addition. Nutrient enrichment appeared to in-
+sediment, tissue mortality was similar with or without snails (28%         teract with corallivory and sediment addition to reduce tissue mor-
+without snails versus 31% with snails). Lastly, there was a trend for      tality, possibly by facilitating increases in algal symbiont densities in
+nutrient enrichment to reduce the tissue mortality of sediment ex-         corals. Thus, instead of these stressors acting synergistically to drive
+posed corals (LMM; F = 3.80, p =.053; Figure 4c). Despite the signif-      the decline of corals, predation, nutrients, and sedimentation appear
+icant two-­way interactions, within-­group multiple comparisons for        to be antagonistic with one another, somewhat mitigating the pres-
+these two-­way interactions did not reveal any significant pairwise        ence of multiple stressors on coral physiology and mortality.
+differences (all comparisons p >.2), likely due to low sample size.
+Despite the interactions of the main factors on coral tissue mortality,
+we did not see any impact of nutrients or sedimentation on the abil-       4.1 | Interactions of sedimentation and nutrients on
+ity of corals to heal predation wounds from snails (Table 2; Figure 5).    coral mortality
+    Densities of Symbiodiniaceae were 28% higher in corals enriched
+with nutrients (2.68 ± 0.24 cells × 105 cm−2) than in corals without       Sediment accumulation and N loading covary negatively at the reef
+enrichment (2.09 ± 0.24 cells × 105 cm−2) (LMM; F = 5.64, p = .021;        scale across our sites in Mo'orea. This pattern is surprising given that
+Table 3; Figure 6a). There were no other main or interactive effects       nutrient loading and sedimentation are often positively related as
+of the treatments on Symbiodiniaceae densities (Table 3). We ob-           a product of land-­based pollution (Lapointe et al., 2004; Lirman &
+served a trend in which chlorophyll a concentration per symbiont           Fong, 2007). In contrast to our findings, Becker and Silbiger (2020)
+cell varied across nutrient enrichment treatments (LMM; F = 3.95,          showed that sedimentation rates and nutrient enrichment are posi-
+p = .052; Table 4; Figure 6b). We did not observe effects of snail pre-    tively correlated across fringing reefs that overlap our study sites
+dation or sediment addition on chlorophyll a concentration (Table 4).      during the Austral winter. The discrepancies between these findings
+                                                                           may be explained by seasonal differences in sedimentation and nu-
+                                                                           trient regimes across these sites or by methodological differences;
+4 | D I S CU S S I O N                                                     we measured the prevalence of sediment accumulation on coral
+                                                                           colonies, not sedimentation rates. Yet the effects of these stress-
+Our study investigated relationships among sedimentation, nutrient         ors on live coral cover remain equivocal. For example, simultaneous
+enrichment, and corallivory by the snail Coralliophila violacea across     sedimentation and nutrient loading have been correlated with low
+reefs and the consequences of these stressors to individual colonies       coral cover in Indonesia (Edinger et al., 2000) but not in the Florida
+of massive Porites. At the reef scale, nitrogen (N) enrichment and         Keys Reef Tract (Lirman & Fong, 2007). Moreover, experimental evi-
+sediment accumulation on massive Porites colonies were negatively          dence that these two stressors interact to have detrimental effects
+related across reefs, with sites higher in N availability having lower     on corals is lacking and long-­term nutrient enrichment may have
+sediment accumulation on corals. Yet sites with higher N availability      more deleterious impacts to coral cover than sedimentation alone
+had higher densities of C. violacea on massive Porites colonies. Despite   (Muthukrishnan & Fong, 2014).
+                                                                              The results from our field experiment, along with other studies
+
+TA B L E 2 Linear mixed-­effects model results for the percent             (Gil et al., 2016; Muthukrishnan & Fong, 2014), suggest that the co-­
+of each wound healed with Kenward–­Roger approximation for                 occurrence of sedimentation and nutrient enrichment rarely exac-
+degrees of freedom                                                         erbates coral tissue mortality. In fact, the co-­occurrence of these
+                                                                           stressors reduced tissue mortality in our experiment, supporting
+ Fixed effects                        df      F                     p
+                                                                           our hypothesis that nutrient enrichment would mitigate the harm-
+ Nutrient                             1       0.0326                .861
+                                                                           ful effects of sedimentation. It is worth noting that our experiment
+ Sediment                             1       0.0482                .829
+                                                                           occurred on a shorter time scale (~6 weeks) than other studies doc-
+ Snail shell length                   1       0.0200                .889   umenting chronic negative effects of nutrient enrichment on live
+ Nutrient × Wounded                   1       0.884                 .360   coral cover (Lapointe et al., 2019; Muthukrishnan & Fong, 2014).
+Notes: p-­Values defined as significant at a threshold of .05 are          However, over the short term, nutrient enrichment appeared to
+highlighted in bold.                                                       benefit the massive Porites in our experiment. Edinger et al., (2000)
+RICE et al.                                                                                                                                     | 9 of 14
+
+
+
+
+F I G U R E 5 Percent of each wound healed (mean ± SE; n = 10–­11
+per treatment) for massive Porites nubbins exposed to predation by
+Coralliophila violacea. Corals were exposed to nutrient enrichment
+and sediment addition
+
+
+TA B L E 3 Linear mixed-­effects model results for
+Symbiodiniaceae densities with Kenward–­Roger approximation for
+degrees of freedom
+
+  Fixed effects                            df       F               p
+
+  Predation                                 1       1.784           .186
+  Nutrient                                  1       5.643           .0208
+                                                                            F I G U R E 6 The (a) Symbiodiniaceae density (cells × 105 cm−2;
+  Sediment                                  1       0.0015          .969    mean ± SE; n = 9–­11 per treatment) and (b) Chlorophyll a
+  Snail shell length                        1`      1.125           .293    concentration (pg cell−1; mean ± SE; n = 9–­11 per treatment) of
+  Predation × Nutrient                      1       0.0113          .916    massive Porites nubbins subjected to nutrient enrichment, sediment
+                                                                            addition, and predation by Coralliophila violacea (white bars: no
+  Predation × Sediment                      1       0.0899          .765
+                                                                            predation; gray bars: snail predation)
+  Nutrient × Sediment                       1       0.249           .620
+  Predation × Nutrient × Sediment           1       0.636           .428    TA B L E 4 Linear mixed-­effects model results for chlorophyll
+                                                                            a (pg cell−1) with Kenward–­Roger approximation for degrees of
+Notes: p-­Values defined as significant at a threshold of .05 are
+highlighted in bold.
+                                                                            freedom
+
+                                                                             Fixed effects                              df     F                p
+suggested that nutrient supply may enhance coral metabolism and
+                                                                             Predation                                  1       0.299           .587
+enable corals to counteract the adverse effects of sedimentation, re-
+                                                                             Nutrient                                   1      3.945            .0520
+sulting in no observable impacts to coral condition (e.g., no changes
+                                                                             Sediment                                   1       0.265           .609
+to net growth). Our study provides some evidence in support of
+                                                                             Snail shell length                         1       0.220           .641
+this hypothesis because increased nutrient supply mitigated partial
+                                                                             Predation × Nutrient                       1       0.0149          .903
+mortality for massive Porites individuals under sedimentation stress,
+possibly by facilitating increased densities of algal symbionts. Given       Predation × Sediment                       1       0.776           .382
+
+that nutrients have complex effects on corals depending on nutrient          Nutrient × Sediment                        1       0.345           .559
+
+identity, coral identity, and nutrient concentration (Gil, 2013; Shantz      Predation × Nutrient × Sediment            1       0.244           .623
+& Burkepile, 2014), the moderate enrichment levels in our experi-           Notes: p-­Values defined as significant at a threshold of .05 are
+ment may simply not be deleterious to this coral.                           highlighted in bold.
+    Even though we did not observe a synergistic effect between
+nutrients and sedimentation, sediment accumulation on corals can            Porites cover in the nearshore reefs of Mo'orea has been negatively
+induce tissue paling and even tissue necrosis in some circumstances         correlated with sedimentation rates (Gowan et al., 2014).
+(Fabricius, 2005). In our field surveys, the accumulation of sediment
+on massive Porites was associated with paling tissue in ~80% of oc-
+currences, suggesting that this is an important source of physiologi-       4.2 | Interaction between nutrients and corallivory
+cal stress for colonies in Mo'orea. In our experiment, sedimentation        on coral mortality
+appeared to interact with corallivory where sedimentation alone
+caused as much tissue mortality as corallivory but did not exacerbate       The higher densities of Coralliophila violacea observed at sites with
+the impact of corallivory. Field evidence supports this, as massive         more N loading may also play an important role in impacting massive
+10 of 14   |                                                                                                                                RICE et al.
+
+
+Porites colonies at the reef scale. Land-­based pollution increases            and coral growth) to moderate increases in inorganic nutrients
+phytoplankton populations that often promote invertebrate larval               (Becker & Silbiger, 2020; Ezzat et al., 2015; Gil, 2013; Marubini &
+success (Brodie et al., 2017; Fabricius et al., 2010; Sutcliffe Jr, 1973),     Davies, 1996). This effect might allow corals to compensate for the
+which might, in turn, promote higher muricid gastropod population              detrimental effects of predation. In our experiment, elevated nu-
+densities on coral reefs with higher nutrient loading (Li et al., 2013;        trient supply increased the density of algal symbionts by 28%, po-
+Moyer et al., 1982). Populations of corallivorous snails can in-               tentially increasing the availability of carbon products for the host.
+crease after sites are perturbed by land-­based pollution, resulting           Increased carbon products may enable corals to cope with concur-
+in higher snail densities on live coral colonies (Li et al., 2013; Moyer       rent stressors, especially corallivorous snails that typically impact
+et al., 1982). For instance, in Igaya Bay, Japan, the construction of a        corals by depleting carbon stores (Oren et al., 1998). This mechanism
+cattle pasture near river outlets coincided with a population explo-           may be one reason why, at the reef scale, we saw no differences in
+sion of Drupella spp. snails that decimated live coral cover (Moyer            the percent of live coral tissue of massive Porites colonies at low or
+et al., 1982). Similarly, we observed higher snail densities at more en-       high nitrogen sites. Thus, nutrient enrichment at the reef scale might
+riched sites. However, it is worth noting that the snail densities in our      be counteracting the effects snail corallivory by boosting algal sym-
+                                                                   −2
+field surveys are orders of magnitude lower (mean: 0.4 ind. M           live   biont physiology.
+coral tissue at high N sites) than those observed in other studies in the
+Pacific (Moyer et al., 1982:3,000 ind. m−2, Li et al., 2013:8.6 ind. m−2).
+These lower densities may be one reason why we saw no differences              4.3 | Massive Porites, tissue healing, and
+in live coral tissue on reefs with higher nutrient loading and higher          abiotic factors
+snail densities.
+    In our field experiment, snail predation increased tissue mortal-          Based on previous findings, we reasoned that nutrient enrichment
+ity, particularly when nutrient enrichment and sedimentation were              would accelerate wound healing (Rice, Maher, et al., 2019) and ex-
+not present. Similarly, predation by the snail C. abbreviata led to            pected that sedimentation would impair wound healing (Cróquer
+~30% higher mortality for Acropora cervicornis (Lamarck, 1816) nub-            et al., 2002). Contrary to these hypotheses, nutrient enrichment
+bins relative to corals without snails (Shaver et al., 2017). However,         and sedimentation had no independent or interactive effects on the
+our experiment showed that nutrient enrichment reduced overall                 tissue regeneration rates of massive Porites in our field experiment.
+tissue mortality for massive Porites corals in both the absence and            Other studies have documented that nutrient enrichment much
+presence of snails. This pattern may explain why we did not see less           higher than that in our treatments (Koop et al., 2001: ~11 µM ammo-
+live coral tissue at the reef scale where higher nutrient availability         nium, ~2 µM phosphate; Renegar et al., 2008: ~11 µM nitrate, ~4 µM
+and increased corallivorous snail densities co-­occurred. Even though          phosphate; present study: ~4 µM nitrate, ~0.6 µM phosphate) and
+nutrient enrichment reduced overall levels of tissue mortality, en-            sediment (Cróquer et al., 2002: ~266 mg cm−2 day−1; present study:
+richment increased the magnitude of the effect of snails on tissue             ~100 mg cm−2 day−1) hinder the tissue regeneration capacity of cor-
+mortality as compared to the effect on corals that were not enriched           als independently. The disparities in these patterns may be explained
+(compare enriched versus not enriched corals in Figure 4a). Thus, nu-          by several non-­mutually exclusive mechanisms.
+trient supply made the impact of snail predation on tissue mortality              First, the thicker tissues characteristic of massive Porites (range:
+more apparent relative to corals under ambient nutrient conditions.            4–­8 mm thickness) (Linsley et al., 1999; Suzuki et al., 2005) and its
+    The mitigating effect of nutrients on corallivory was somewhat             perforate skeleton enable this coral to store more lipid reserves and
+surprising given that another recent study showed that corallivory             to translocate resources across the colony surface more efficiently,
+interacted with excess nutrients to increase Porites mortality fivefold        enabling rapid wound healing. Second, Porites spp. corals in the
+compared to corals without nutrients (Zaneveld et al., 2016). The na-          present study and others (Marubini & Davies, 1996) had increased
+ture of the corallivory may be an important distinction. Previous work         densities of Symbiodiniaceae under nutrient enrichment, which may
+showing negative interactions between nutrients and corallivory on             increase the photosynthate products available to fuel tissue regen-
+corals have been with excavating corallivores, such as parrotfish,             eration. Third, nutrients at concentrations similar to the enrichment
+that remove coral tissue and coral skeleton (Zaneveld et al., 2016).           treatments of the present study are assimilated by Porites tissues
+However, our work and that of others (Shaver et al., 2017) show-               (Sims et al., 2020) and correlated with elevated protein in host and
+ing no exacerbation of corallivory damage by nutrients have worked             symbiont tissues (Marubini & Davies, 1996). Assimilated nitrogen
+with browsing corallivorous snails that make less injurious wounds to          from nutrient enrichment may increase the mineral nitrogen avail-
+corals by only removing coral tissue. These differences in the mode            able for protein, subsequently increasing the protein available for
+of corallivory may have a significant effect on how corals respond to          new coral tissues to heal injuries. Fourth, we observed the complete
+corallivory and how nutrients impact these responses (reviewed by              clearing of added sediment within ~24 hr through wave action or
+Rice et al., 2019).                                                            mucus sheet production, which is a strategy used by massive Porites
+    Excess nutrients may also increase the ability of corals to with-          to shed sediment particles (Bessell-­Browne et al., 2017). Our sed-
+stand the negative effects of corallivory. Corals can respond posi-            iment treatment may not have had the required residency time to
+tively (e.g., increased symbiont populations, chlorophyll production,          influence wound healing. Lastly, Porites has been shown to maintain
+RICE et al.                                                                                                                                     | 11 of 14
+rapid tissue regeneration under other stressors (e.g., warmer tem-         National Science Foundation (#OCE-­1547952 to DEB), NSF Graduate
+peratures) (Edmunds & Lenihan, 2010). Our results provide further          Research Fellowship to both MMR (#1650114) and CF (#1650114),
+evidence that this coral taxon is robust at maintaining tissue regen-      the Worster Award to MMR and DGB, Benson Scholarship to DGB,
+eration under various abiotic stressors. Taken altogether, our results     and UCSB Faculty Research Assistance Program grants to DGB and
+indicate that the healing capacity of massive Porites may facilitate       JNF supported this work. We thank Dr. Peter Edmunds and Dr. Sally
+its success under a variety of abiotic templates and its tolerance to      Holbrook for thoughtful feedback that strengthened the manuscript.
+various anthropogenic stressors.
+                                                                           C O N FL I C T O F I N T E R E S T
+                                                                           The authors declare no conflict of interest.
+5 | CO N C LU S I O N S
+                                                                           DATA AVA I L A B I L I T Y S TAT E M E N T
+Understanding the additive and interactive effects of multiple abi-        All code and raw data used for this study are available at https://
+otic and biotic forces is crucial to predict how physical and ecologi-     github.com/mallo​r ymri​ce/SNAIL_2017
+cal processes may interact to alter the physiology and mortality of
+species (Sala et al., 2000). Sedimentation and nutrient loading are        ORCID
+common drivers on coral reefs that can increase coral mortality            Mallory M. Rice       https://orcid.org/0000-0002-8975-652X
+(Fabricius, 2005; Lapointe et al., 2019) and mediate how corals re-
+spond to biotic forces such as predation (reviewed by Rice, Maher,         REFERENCES
+et al., 2019). Our study indicates that these multiple stressors inter-    Adam, T. C., Burkepile, D. E., Holbrook, S. J., Carpenter, R. C., Claudet,
+act in complex ways to drive changes to massive Porites mortality at           J., Loiseau, C., Thiault, L., Brooks, A. J., Washburn, L., & Schmitt,
+                                                                               R. J. (2020). Landscape-­s cale patterns of nutrient enrichment in a
+the colony scale, which may explain the patterns in live coral tissue
+                                                                               coral reef ecosystem: Implications for coral to algae phase shifts.
+observed at the reef scale. For example, we did not observe differ-            Ecological Applications, 31(1), e2227. https://doi.org/10.1002/
+ences in live coral tissue across survey sites despite the positive cor-       eap.2227
+relation between nitrogen loading and the density of corallivorous         Adjeroud, M., & Salvat, B. (1996). Spatial patterns in biodiversity of
+                                                                               a fringing reef community along Opunohu Bay, Moorea. French
+snails. This might be due to nutrient enrichment increasing algal
+                                                                               Polynesia. Bulletin of Marine Science, 59(1), 175–­187.
+symbiont densities at the colony level and reducing overall tissue         Angelini, C., Altieri, A. H., Silliman, B. R., & Bertness, M. D. (2011).
+mortality. Moreover, the effect of snail predation on coral mortal-            Interactions among foundation species and their consequences for
+ity was suppressed by sedimentation. Nutrient supply also reduced              community organization, biodiversity, and conservation. BioScience,
+                                                                               61(10), 782–­789. https://doi.org/10.1525/bio.2011.61.10.8
+overall coral mortality for corals exposed to either sedimentation or
+                                                                           Arnold, J. B. (2017). ggthemes: Extra Themes, Scales and Geoms for 'gg-
+snail predation. Thus, these multiple stressors acted antagonistically,        plot2'. R package version 3.4.0. https://cran.micro​        soft.com/snaps​
+rather than synergistically, to drive changes to coral mortality and           hot/2015-­07-­10/web/packa​ges/ggthe​mes/ggthe​mes.pdf
+physiology in our factorial field experiment. This antagonism among        Atkinson, M. J., & Smith, S. V. (1983). C:N: P ratios of benthic marine
+multiple stressors appears to be common across ecosystems and                  plants. Limnology and Oceanography, 28(3), 568–­           574. https://doi.
+                                                                               org/10.4319/lo.1983.28.3.0568
+types of stressors (Crain et al., 2008; Darling & Cote, 2008; Jackson
+                                                                           Barton, K., & Barton, M. K. (2019). Package ‘MuMIn’. ftp://xyz.csail.mit.
+et al., 2016; Maher et al., 2019). Given that many coral reefs experi-         edu/pub/CRAN/web/packa​ges/MuMIn/​MuMIn.pdf
+ence multiple stressors simultaneously, future research focusing on        Becker, D. M., & Silbiger, N. J. (2020). Nutrient and sediment loading
+the nature of synergisms or antagonisms of biotic and abiotic forces           affect multiple facets of coral functionality in a tropical branch-
+                                                                               ing coral. The Journal of Experimental Biology, 223(21), jeb.225045.
+will be key to understanding the trajectory of coral reef communities
+                                                                               https://doi.org/10.1242/jeb.225045
+in the face of increasing human-­induced stressors.                        Beijbom, O., Edmunds, P. J., Roelfsema, C., Smith, J., Kline, D. I., Neal, B.
+                                                                               P., Dunlap, M. J., Moriarty, V., Fan, T.-­Y., Tan, C.-­J., Chan, S., Treibitz,
+AC K N OW L E D G E M E N T S                                                  T., Gamst, A., Mitchell, B. G., & Kriegman, D. (2015). Towards auto-
+                                                                               mated annotation of benthic survey images: Variability of human
+We would like to thank the locals of Mo'orea for allowing us to con-
+                                                                               experts and operational modes of automation. PLoS One, 10(7), 22.
+duct research on their local reefs. This study was supported by the            https://doi.org/10.1371/journ​al.pone.0130312
+facilities provided by the Richard B. Gump South Pacific Research          Bessell-­Browne, P., Fisher, R., Duckworth, A., & Jones, R. (2017). Mucous
+Station. This study is based upon work supported by the U.S. National          sheet production in Porites: An effective bioindicator of sediment
+                                                                               related pressures. Ecological Indicators, 77, 276–­        285. https://doi.
+Science Foundation under grant #OCE 16-­37396 and earlier awards
+                                                                               org/10.1016/j.ecoli​nd.2017.02.023
+funding the Mo'orea Coral Reef Long-­term Ecological Research pro-         Bosserelle, P., Berteaux-­Lecellier, V., Chancerelle, Y., Hédouin, L., Nugues,
+gram as well as a generous gift from the Gordon and Betty Moore                M., Wallace, C., & Pichon, M. (2014). Guide d'identification des coraux
+Foundation. Research was completed under permits issued by the                 de Moorea. Papetoai, Moorea (Polynésie française): CRIOBE.
+                                                                           Brodie, J., Devlin, M., & Lewis, S. (2017). Potential enhanced survivor-
+French Polynesian Government (Délégation à la Recherche) and the
+                                                                               ship of crown of thorns starfish larvae due to near-­annual nutrient
+Haut-­commissariat de la République en Polynésie Francaise (DTRT)              enrichment during secondary outbreaks on the central mid-­shelf
+(Protocole d'Accueil 2005–­2018). This work represents a contribu-             of the Great Barrier Reef. Australia. Diversity, 9(1), 17. https://doi.
+tion of the Mo'orea Coral Reef (MCR) LTER Site. Grants from the                org/10.3390/d9010017
+12 of 14   |                                                                                                                                     RICE et al.
+
+
+Bruno, J. F., Petes, L. E., Harvell, C. D., & Hettinger, A. (2003).                  Royal Society B: Biological Sciences, 282(1812), 142–­150. https://doi.
+     Nutrient enrichment can increase the severity of coral dis-                     org/10.1098/rspb.2015.0610
+     eases.      Ecology      Letters,    6(12),  1056–­
+                                                       1061.     https://doi.   Fabricius, K. E. (2005). Effects of terrestrial runoff on the ecology of cor-
+     org/10.1046/j.1461-­0248.2003.00544.x                                           als and coral reefs: Review and synthesis. Marine Pollution Bulletin,
+Burke, L., Selig, E., & Spalding, M. (2002). Reefs at risk in Southeast Asia.        50(2), 125–­146. https://doi.org/10.1016/j.marpo​lbul.2004.11.028
+     World Resources Institute. Retrieved from https://www.wri.org/             Fabricius, K. E., Okaji, K., & De'ath, G. (2010). Three lines of evidence
+     resea​rch/reefs​-­risk-­south​east-­asia                                        to link outbreaks of the crown-­of-­thorns seastar Acanthaster planci
+Burkepile, D. E., & Hay, M. E. (2009). Nutrient versus herbivore con-                to the release of larval food limitation. Coral Reefs, 29(3), 593–­605.
+     trol of macroalgal community development and coral growth on a                  https://doi.org/10.1007/s0033​8-­010-­0628-­z
+     Caribbean reef. Marine Ecology Progress Series, 389, 71–­8 4. https://     Forsman, Z. H., Barshis, D. J., Hunter, C. L., & Toonen, R. J. (2009). Shape-­
+     doi.org/10.3354/meps0​8142                                                      shifting corals: Molecular markers show morphology is evolution-
+Burnham, K., & Anderson, D. (2002). Model selection and multimodel in-               arily plastic in Porites. BMC Evolutionary Biology, 9, 9. https://doi.
+     ference: A practical information-­theoretic approach. The University of         org/10.1186/1471-­2148-­9-­45
+     Chicago Press.                                                             Gedan, K. B., Silliman, B. R., & Bertness, M. D. (2009). Centuries of
+Clements, C. S., & Hay, M. E. (2015). Competitors as accomplices: Seaweed            human-­  driven change in salt marsh ecosystems. Annual Review
+     competitors hide corals from predatory sea stars. Proceedings of the            of Marine Science, 1, 117–­       141. https://doi.org/10.1146/annur​
+     Royal Society B-­Biological Sciences, 282(1814), 221–­229. https://doi.         ev.marine.010908.163930
+     org/10.1098/rspb.2015.0714                                                 Gil, M. A. (2013). Unity through nonlinearity: A unimodal coral-­
+Clements, C. S., & Hay, M. E. (2018). Overlooked coral predators sup-                nutrient interaction. Ecology, 94(8), 1871–­         1877. https://doi.
+     press foundation species as reefs degrade. Ecological Applications,             org/10.1890/12-­1697.1
+     28(7), 1673–­1682. https://doi.org/10.1002/eap.1765                        Gil, M. A., Goldenberg, S. U., Bach, A. L. T., Mills, S. C., & Claudet, J.
+Cole, A. J., Pratchett, M. S., & Jones, G. P. (2008). Diversity                      (2016). Interactive effects of three pervasive marine stressors in a
+     and functional importance of coral-­        feeding fishes on tropi-            post-­disturbance coral reef. Coral Reefs, 35(4), 1281–­1293. https://
+     cal coral reefs. Fish and Fisheries, 9(3), 286–­      3 07. https://doi.        doi.org/10.1007/s0033​8-­016-­1489-­x
+     org/10.1111/j.1467-­2979.2008.00290.x                                      Gowan, J. C., Tootell, J. S., & Carpenter, R. C. (2014). The effects of water
+Crain, C. M., Kroeker, K., & Halpern, B. S. (2008). Interactive                      flow and sedimentation on interactions between massive Porites
+     and cumulative effects of multiple human stressors in ma-                       and algal turf. Coral Reefs, 33(3), 651–­663. https://doi.org/10.1007/
+     rine systems. Ecology Letters, 11(12), 1304–­       1315. https://doi.          s0033​8-­014-­1154-­1
+     org/10.1111/j.1461-­0248.2008.01253.x                                      Hamman, E. A. (2018). Aggregation patterns of two corallivorous snails
+Cróquer, A., Villamizar, E., & Noriega, N. (2002). Environmental factors             and consequences for coral dynamics. Coral Reefs, 37(3), 851–­860.
+     affecting tissue regeneration of the reef -­building coral Montastraea          https://doi.org/10.1007/s0033​8-­018-­1712-­z
+     annularis (Faviidae) at Los Roques National Park. Venezuela. Revista       Hamman, E. A. (2019). Spatial distribution of damage affects the heal-
+     De Biologia Tropical, 50(3–­4), 1055–­1065.                                     ing, growth, and morphology of coral. Oecologia, 191(3), 621–­632.
+Darling, E. S., & Cote, I. M. (2008). Quantifying the evidence for eco-              https://doi.org/10.1007/s0044​2-­019-­0 4509​-­7
+     logical synergies. Ecology Letters, 11(12), 1278–­   1286. https://doi.    Hoegh-­Guldberg, O., Poloczanska, E. S., Skirving, W., & Dove, S. (2017).
+     org/10.1111/j.1461-­0248.2008.01243.x                                           Coral reef ecosystems under climate change and ocean acidifica-
+Davies, P. S. (1989). Short-­term growth measurements of corals using an             tion. Frontiers in Marine Science, 4, 158. https://doi.org/10.3389/
+     accurate buoyant weighing technique. Marine Biology, 101(3), 389–­              fmars.2017.00158
+     395. https://doi.org/10.1007/BF004​28135                                   Hughes, T. P., Anderson, K. D., Connolly, S. R., Heron, S. F., Kerry, J. T.,
+Dayton, P. K., & (1972). Toward an understanding of community resilience             Lough, J. M., Baird, A. H., Baum, J. K., Berumen, M. L., Bridge, T. C.,
+     and the potential effects of enrichments to the benthos at McMurdo              Claar, D. C., Eakin, C. M., Gilmour, J. P., Graham, N. A. J., Harrison,
+     Sound, Antarctica. In Proceedings of the colloquium on conservation             H., Hobbs, J.-­P., Hoey, A. S., Hoogenboom, M., Lowe, R. J., … Wilson,
+     problems in Antarctica. Lawrence, KC: Allen Press.                              S. K. (2018). Spatial and temporal patterns of mass bleaching of
+Edinger, E. N., Limmon, G. V., Jompa, J., Widjatmoko, W., Heikoop, J. M., &          corals in the Anthropocene. Science, 359(6371), 80–­83. https://doi.
+     Risk, M. J. (2000). Normal coral growth rates on dying reefs: Are coral         org/10.1126/scien​ce.aan8048
+     growth rates good indicators of reef health? Marine Pollution Bulletin,    Hughes, T. P., Barnes, M. L., Bellwood, D. R., Cinner, J. E., Cumming, G.
+     40(5), 404–­425. https://doi.org/10.1016/s0025​-­326x(99)00237​-­4              S., Jackson, J. B. C., Kleypas, J., van de Leemput, I. A., Lough, J. M.,
+Edmunds, P of Moorea Coral Reef LTER (2020). MCR LTER: Coral Reef:                   Morrison, T. H., Palumbi, S. R., van Nes, E. H., & Scheffer, M. (2017).
+     Long-­term Population and Community Dynamics: Corals, ongoing                   Coral reefs in the Anthropocene. Nature, 546(7656), 82–­90. https://
+     since 2005. knb-­lter-­mcr.4.38. https://doi.org/10.6073/pasta/​10ee8​          doi.org/10.1038/natur​e22901
+     08a04​6cb63​c 0b8e​3bc3c​9799806                                           Jackson, M. C., Loewen, C. J. G., Vinebrooke, R. D., & Chimimba, C. T.
+Edmunds, P. J., & Lenihan, H. S. (2010). Effect of sub-­lethal damage to             (2016). Net effects of multiple stressors in freshwater ecosystems:
+     juvenile colonies of massive Porites spp. under contrasting regimes             A meta-­analysis. Global Change Biology, 22(1), 180–­189. https://doi.
+     of temperature and water flow. Marine Biology, 157(4), 887–­897.                org/10.1111/gcb.13028
+     https://doi.org/10.1007/s0022​7-­0 09-­1372-­1                             Jeffrey, S. W., & Humphrey, G. F. (1975). New spectrophotometric
+Ellison, A. M. (2019). Foundation species, non-­trophic interactions,                equations for determining chlorophylls a, b, c1 and c2 in higher-­
+     and the value of being common. Iscience, 13, 254–­268. https://doi.             plants, algae and natural phytoplankton. Biochemie Und Physiologie
+     org/10.1016/j.isci.2019.02.020                                                  Der Pflanzen, 167(2), 191–­      194. https://doi.org/10.1016/S0015​
+Erftemeijer, P. L. A., Riegl, B., Hoeksema, B. W., & Todd, P. A. (2012).             -­3796(17)30778​-­3
+     Environmental impacts of dredging and other sediment disturbances          Jokiel, P. L., Maragos, J. E., & Frankzisket, L. (1978). Coral growth:
+     on corals: A review. Marine Pollution Bulletin, 64(9), 1737–­1765.              Buoyant weight technique. In D. R. Stoddart, & R. E. Johannes (Eds.),
+     https://doi.org/10.1016/j.marpo​lbul.2012.05.008                                Coral reefs: Research methods (pp. 529–­541). UNESCO.
+Ezzat, L., Maguer, J. F., Grover, R., & Ferrier-­Pages, C. (2015). New in-      Knepel, K., & Bogren, K. (2002). Determination of orthophosphate by flow
+     sights into carbon acquisition and exchanges within the coral -­dino-           injection analysis: QuickChem Method 31–­115-­01-­1-­H, 12 p. Methods
+     flagellate symbiosis under NH4+ and NO3-­supply. Proceedings of the             manual.
+RICE et al.                                                                                                                                           | 13 of 14
+Knowlton, N., Lang, C. J., & Keller, B. D. (1990). Case study of natural         Muthukrishnan, R., & Fong, P. (2014). Multiple anthropogenic stressors
+     population collapse: Post-­hurricane predation on Jamaican staghorn              exert complex, interactive effects on a coral reef community. Coral
+     corals. Smithsonian Contributions to the Marine Sciences, 31, 1–­25.             Reefs, 33(4), 911–­921. https://doi.org/10.1007/s0033​8- ­014-­1199-­1
+     https://doi.org/10.5479/si.01960​768.31.1                                   Oren, U., Brickner, I., & Oya, Y. (1998). Prudent sessile feeding by the cor-
+Koop, K., Booth, D., Broadbent, A., Brodie, J., Bucher, D., Capone, D., Coll,         allivore snail Coralliophila violacea on coral energy sinks. Proceedings
+     J., Dennison, W., Erdmann, M., Harrison, P., Hoegh-­Guldberg, O.,                of the Royal Society B-­    Biological Sciences, 265(1410), 2043–­2050.
+     Hutchings, P., Jones, G. B., Larkum, A., O'Neil, J., Steven, A., Tentori,        https://doi.org/10.1098/rspb.1998.0538
+     E., Ward, S., Williamson, J., & Yellowlees, D. (2001). ENCORE: The          R Development Core Team. (2017). R: A language and environment for sta-
+     effect of nutrient enrichment on coral reefs. Synthesis of results               tistical computing. R Foundation for Statistical Computing. Retrieved
+     and conclusions. Marine Pollution Bulletin, 42(2), 91–­120. https://doi.         from https://www.R-­proje​c t.org/
+     org/10.1016/s0025​-­326x(00)00181​-­8                                       Raymundo, L. J., Work, T. M., Miller, R. L., & Lozada-­Misa, P. L. (2016).
+Kuznetsova, A., Brockhoff, P. B., & Christensen, R. H. B. (2017). lmerTest            Effects of Coralliophila violacea on tissue loss in the scleractinian
+     package: Tests in linear mixed effects models. Journal of Statistical            corals Porites spp. depend on host response. Diseases of Aquatic
+     Software, 82(13), 1–­26.                                                         Organisms, 119(1), 75–­83. https://doi.org/10.3354/dao02982
+LaJeunesse, T. C., Parkinson, J. E., Gabrielson, P. W., Jeong, H. J., Reimer,    Renegar, D.-­E.-­ A., Blackwelder, P., & Moulding, A. L. (2008). Coral ultra-
+     J. D., Voolstra, C. R., & Santos, S. R. (2018). Systematic revision of           structural response to elevated pCO2 and nutrients during tissue repair
+     symbiodiniaceae highlights the antiquity and diversity of coral                  and regeneration. Paper presented at the 11th International Coral
+     endosymbionts. Current Biology, 28(16), 2570–­        2580. https://doi.         Reef Symposium, Fort Lauderdale, FL.
+     org/10.1016/j.cub.2018.07.008                                               Rice, M. M., Ezzat, L., & Burkepile, D. E. (2019). Corallivory in the
+Lapointe, B. E., Barile, P. J., & Matzie, W. R. (2004). Anthropogenic nu-             Anthropocene: Interactive effects of anthropogenic stressors and
+     trient enrichment of seagrass and coral reef communities in the                  corallivory on coral reefs. Frontiers in Marine Science, 5, 525. https://
+     Lower Florida Keys: Discrimination of local versus regional nitrogen             doi.org/10.3389/fmars.2018.00525
+     sources. Journal of Experimental Marine Biology and Ecology, 308(1),        Rice, M. M., Maher, R. L., Thurber, R. V., & Burkepile, D. E. (2019). Different
+     23–­58. https://doi.org/10.1016/j.jembe.2004.01.019                              nitrogen sources speed recovery from corallivory and uniquely alter
+Lapointe, B. E., Brewton, R. A., Herren, L. W., Porter, J. W., & Hu, C. M.            the microbiome of a reef-­building coral. PeerJ, 7, e8056. https://doi.
+     (2019). Nitrogen enrichment, altered stoichiometry, and coral reef               org/10.7717/peerj.8056
+     decline at Looe Key, Florida Keys, USA: A 3-­decade study. Marine           Rogers, C. S. (1990). Responses of coral reefs and reef organisms to sed-
+     Biology, 166(8), 31. https://doi.org/10.1007/s0022​7- ­019-­3538-­9              imentation. Marine Ecology Progress Series, 62(1–­2), 185–­202. https://
+Li, X. B., Huang, H., Lian, J. S., Yang, J. H., Ye, C., Chen, Y. Q., & Huang,         doi.org/10.3354/meps0​62185
+     L. M. (2013). Coral community changes in response to a high sed-            Rotjan, R. D., & Lewis, S. M. (2008). Impact of coral predators on trop-
+     imentation event: A case study in southern Hainan Island. Chinese                ical reefs. Marine Ecology Progress Series, 367, 73–­       91. https://doi.
+     Science Bulletin, 58(9), 1028–­   1037. https://doi.org/10.1007/s1143​           org/10.3354/meps0​7531
+     4-­012-­5601-­5                                                             Sala, O. E., Chapin, F. S., Armesto, J. J., Berlow, E., Bloomfield, J., Dirzo,
+Lin, D. T., & Fong, P. (2008). Macroalgal bioindicators (growth, tissue N,            R., & Wall, D. H. (2000). Biodiversity -­Global biodiversity scenar-
+     δ15 N) detect nutrient enrichment from shrimp farm effluent enter-               ios for the year 2100. Science, 287(5459), 1770–­1774. https://doi.
+     ing Opunohu Bay, Moorea, French Polynesia. Mar Pollut Bull, 56(2),               org/10.1126/scien​ce.287.5459.1770
+     245–­249. https://doi.org/10.1016/j.marpo​lbul.2007.09.031                  Schaffelke, B. (1999). Short-­     term nutrient pulses as tools to assess
+Linsley, B. K., Messier, R. G., & Dunbar, R. B. (1999). Assessing between-­           responses of coral reef macroalgae to enhanced nutrient avail-
+     colony oxygen isotope variability in the coral Porites lobata at                 ability. Marine Ecology Progress Series, 182, 305–­        310. https://doi.
+     Clipperton Atoll. Coral Reefs, 18(1), 13–­27. https://doi.org/10.1007/           org/10.3354/meps1​82305
+     s0033​8 0050148                                                             Schindelin, J., Arganda-­C arreras, I., Frise, E., Kaynig, V., Longair, M.,
+Lirman, D., & Fong, P. (2007). Is proximity to land-­based sources of coral           Pietzsch, T., Preibisch, S., Rueden, C., Saalfeld, S., Schmid, B., Tinevez,
+     stressors an appropriate measure of risk to coral reefs? An example              J.-­Y., White, D. J., Hartenstein, V., Eliceiri, K., Tomancak, P., & Cardona,
+     from the Florida Reef Tract. Marine Pollution Bulletin, 54(6), 779–­791.         A. (2012). Fiji: An open-­source platform for biological-­image analysis.
+     https://doi.org/10.1016/j.marpo​lbul.2006.12.014                                 Nature Methods, 9(7), 676–­682. https://doi.org/10.1038/nmeth.2019
+Lotze, H. K., Lenihan, H. S., Bourque, B. J., Bradbury, R. H., Cooke, R. G.,     Schrimm, M., Heussner, S., & Buscail, R. (2002). Seasonal variations of
+     Kay, M. C., & Jackson, J. B. C. (2006). Depletion, degradation, and              downward particle fluxes in front of a reef pass (Moorea Island,
+     recovery potential of estuaries and coastal seas. Science, 312(5781),            French Polynesia). Oceanologica Acta, 25(2), 61–­           70. https://doi.
+     1806–­1809. https://doi.org/10.1126/scien​ce.1128035                             org/10.1016/s0399​-­1784(02)01182​-­9
+Maher, R. L., Rice, M. M., McMinds, R., Burkepile, D. E., & Thurber, R. V.       Shantz, A. A., & Burkepile, D. E. (2014). Context-­dependent effects of
+     (2019). Multiple stressors interact primarily through antagonism to              nutrient loading on the coral-­algal mutualism. Ecology, 95(7), 1995–­
+     drive changes in the coral microbiome. Scientific Reports, 9(1), 6834.           2005. https://doi.org/10.1890/13-­1407.1
+     https://doi.org/10.1038/s4159​8-­019-­43274​-­8                             Shaver, E. C., Shantz, A. A., McMinds, R., Burkepile, D. E., Thurber, R. L.
+Marsh, J. A. (1970). Primary productivity of reef-­building calcareous red            V., & Silliman, B. R. (2017). Effects of predation and nutrient enrich-
+     algae. Ecology, 51(2), 255–­263. https://doi.org/10.2307/1933661                 ment on the success and microbiome of a foundational coral. Ecology,
+Marubini, F., & Davies, P. S. (1996). Nitrate increases zooxanthellae pop-            98(3), 830–­839. https://doi.org/10.1002/ecy.1709
+     ulation density and reduces skeletogenesis in corals. Marine Biology,       Sheridan, C., Grosjean, P., Leblud, J., Palmer, C. V., Kushmaro, A., &
+     127(2), 319–­328. https://doi.org/10.1007/bf009​42117                            Eeckhaut, I. (2014). Sedimentation rapidly induces an immune re-
+McClanahan, T. R. (1994). Coral-­eating snail Drupella cornus population              sponse and depletes energy stores in a hard coral. Coral Reefs, 33(4),
+     increases in Kenyan coral-­     reef lagoons. Marine Ecology Progress            1067–­1076. https://doi.org/10.1007/s0033​8-­014-­1202-­x
+     Series, 115(1–­2), 131–­137. https://doi.org/10.3354/meps1​15131            Silliman, B. R., McCoy, M. W., Angelini, C., Holt, R. D., Griffin, J. N., & van
+Moyer, J. T., Emerson, W. K., & Ross, M. (1982). Massive destruction of               de Koppel, J. (2013). Consumer fronts, global change, and runaway
+     scleractinian corals by the muricid gastropod, Drupella, in Japan and            collapse in ecosystems. In D. J. Futuyma (Ed.), Annual Review of Ecology,
+     the Philippines. Nautilus, 96(2), 69–­82.                                        Evolution, and Systematics (Vol. 44, pp. 503–­538). Annual Reviews.
+14 of 14   |                                                                                                                                        RICE et al.
+
+
+Silliman, B. R., van de Koppel, J., Bertness, M. D., Stanton, L. E., &              contrasting physical, organic and geochemical properties. Journal of
+     Mendelssohn, I. A. (2005). Drought, snails, and large-­scale die-­off of       Experimental Marine Biology and Ecology, 336(1), 18–­32. https://doi.
+     southern US salt marshes. Science, 310(5755), 1803–­1806. https://             org/10.1016/j.jembe.2006.04.007
+     doi.org/10.1126/scien​ce.1118229                                           White, J. (1990). The use of sediment traps in high-­energy environ-
+Sims, Z. C., Cohen, A. L., Luu, V. H., Wang, X. C. T., & Sigman, D. M.              ments. Marine Geophysical Researches, 12(1–­2), 145–­152. https://doi.
+     (2020). Uptake of groundwater nitrogen by a near-­shore coral reef             org/10.1007/bf003​10569
+     community on Bermuda. Coral Reefs, 39(1), 215–­        228. https://doi.   Wickham, H., & Wickham, H. (2009). ggplot2 Elegant graphics for data
+     org/10.1007/s0033​8-­019-­01879​-­5                                            analysis introduction. Springer.
+Smith, P., & Bogren, K. (2001). Determination of nitrate and/or nitrite in      Williams, D. E., & Miller, M. W. (2012). Attributing mortality among drivers of
+     brackish or seawater by flow injection analysis colorimetry: QuikChem®         population decline in Acropora palmata in the Florida Keys (USA). Coral
+     Method 31–­107-­04-­1-­E. (pp. 12). Lachat Instruments.                        Reefs, 31(2), 369–­382. https://doi.org/10.1007/s0033​8-­011-­0847-­y
+Suren, A. M. (2005). Effects of deposited sediment on patch selection           Worm, B., Barbier, E. B., Beaumont, N., Duffy, J. E., Folke, C., Halpern,
+     by two grazing stream invertebrates. Hydrobiologia, 549, 205–­218.             B. S., Jackson, J. B. C., Lotze, H. K., Micheli, F., Palumbi, S. R., Sala,
+     https://doi.org/10.1007/s1075​0 -­0 05-­5323-­7                                E., Selkoe, K. A., Stachowicz, J. J., & Watson, R. (2006). Impacts of
+Sutcliffe, W. Jr (1973). Correlations between seasonal river discharge and          biodiversity loss on ocean ecosystem services. Science, 314(5800),
+     local landings of American lobster (Homarus americanus) and Atlantic           787–­790. https://doi.org/10.1126/scien​ce.1132294
+     halibut (Hippoglossus hippoglossus) in the Gulf of St Lawrence. Journal    Zaneveld, J. R., Burkepile, D. E., Shantz, A. A., Pritchard, C. E., McMinds,
+     of the Fisheries Board of Canada, 30(6), 856–­859.                             R., Payet, J. P., Welsh, R., Correa, A. M. S., Lemoine, N. P., Rosales,
+Suzuki, A., Hibino, K., Iwase, A., & Kawahata, H. (2005). Intercolony vari-         S., Fuchs, C., Maynard, J. A., & Thurber, R. V. (2016). Overfishing and
+     ability of skeletal oxygen and carbon isotope signatures of cultured           nutrient pollution interact with temperature to disrupt coral reefs
+     Porites corals: Temperature-­controlled experiments. Geochimica et             down to microbial scales. Nature Communications, 7, 11833. https://
+     Cosmochimica Acta, 69(18), 4453–­4 462. https://doi.org/10.1016/j.             doi.org/10.1038/ncomm​s11833
+     gca.2005.05.018
+Vega Thurber, R. L., Burkepile, D. E., Fuchs, C., Shantz, A. A., McMinds,
+     R., & Zaneveld, J. R. (2014). Chronic nutrient enrichment increases        S U P P O R T I N G I N FO R M AT I O N
+     prevalence and severity of coral disease and bleaching. Global Change      Additional supporting information may be found online in the
+     Biology, 20(2), 544–­554. https://doi.org/10.1111/gcb.12450                Supporting Information section.
+Ward, J. (1965). The digestive tract and its relation to feeding habits in
+     the stenoglossan prosobranch Coralliophila abbreviata (Lamark).
+     Canadian Journal of Zoology, 43(3), 447–­464. https://doi.org/10.1139/
+                                                                                   How to cite this article: Rice, M. M., Baldwin D. G.,
+     z65-­0 45
+Wear, S. L., & Thurber, R. V. (2015). Sewage pollution: Mitigation is key          Fischer J. N., Fuchs C., & Burkepile D. E. (2021). Complex
+     for coral reef stewardship. In A. G. Power, & R. S. Ostfeld (Eds.), Year      interactions with nutrients and sediment alter the effects of
+     in ecology and conservation biology (Vol. 1355, pp. 15–­3 0). Blackwell       predation on a reef-­building coral. Marine Ecology, 42,
+     Science Publication.
+                                                                                   e12670. https://doi.org/10.1111/maec.12670
+Weber, M., Lott, C., & Fabricius, K. E. (2006). Sedimentation stress in a
+     scleractinian coral exposed to terrestrial and marine sediments with
+

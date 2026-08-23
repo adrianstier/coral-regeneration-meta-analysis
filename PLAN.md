@@ -1,6 +1,17 @@
 # Meta-Analysis Protocol: Coral Wound Healing & Tissue Regeneration
 
-*A Beginner's Guide to Systematic Review and Meta-Analysis*
+This document defines the scientific protocol for the coral regeneration meta-analysis. Operational source-of-truth and rebuild details live in `README.md` and `docs/pipeline/EXTRACTION_PIPELINE.md`.
+
+## Current Repository Status
+
+The project is in the screening, extraction, covariate completion, and figure/table digitization stage. In the current repository state:
+
+- `data/screening/SCREENING_LOG_FINAL.csv` contains 156 adjudicated full-text records.
+- The primary quantitative pool contains 76 records: 20 ready for table/text extraction and 56 requiring figure/table digitization.
+- The mechanism-only narrative pool contains 20 records.
+- The local primary-PDF pool is complete, and all 367 figure/table candidate rows now have independent audit coverage.
+- The current figure-index audit reports zero structural errors: 76 queue rows have audited candidate evidence and 10 response rows have no valid figure/table candidate found.
+- No effect-size calculation, `metafor`/`brms` model, forest/funnel plot, manuscript draft, or `renv` environment has been created yet.
 
 ## 0. Introduction to Meta-Analysis
 
@@ -61,8 +72,9 @@ We follow **PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-An
 | **Title Search** | `(TI=(coral)) AND TI=(wound* OR lesion* OR heal*)` |
 | **Abstract Search** | `(AB=(coral)) AND AB=(wound* OR lesion* OR heal*)` |
 
-- **Screening Tools:** Rayyan or `metagear` R package for citation management, abstract screening, and PDF retrieval.
-- **Documentation:** Keep a detailed log of search dates, databases, number of results, and screening decisions (maintain a PRISMA flow diagram).
+- **Current screening source of truth:** `data/screening/SCREENING_LOG_FINAL.csv`.
+- **Historical working files:** `data/screening/SCREENING_LOG.csv`, `data/screening/SCREENING_LOG_V2.csv`, and `data/screening/SCREENING_REVIEW_QUEUE.csv` are retained for traceability only.
+- **Generated PRISMA summary:** `pipeline/PRISMA_COUNTS.md` is rebuilt from `SCREENING_LOG_FINAL.csv` with `python3 tools/build_pipeline_outputs.py`. Do not hand-edit PRISMA counts.
 
 ---
 
@@ -238,12 +250,39 @@ For studies lacking a control group, we will perform a meta-analysis of single m
 
 ## 8. Extraction Workflow
 
-### Weekly Schedule:
-- **Weeks 1-2:** Background literature, finalize protocol, set up spreadsheets.
-- **Weeks 3-4:** Trial searches, abstract screening, test extraction on 2-3 papers.
-- **Weeks 5-8:** Full-text screening and extraction (aim for 1-2 papers/day).
-- **Weeks 9-10:** QA/QC, resolve flags, fill missing data via author contact.
-- **Weeks 11-12:** Preliminary analyses, descriptive stats, draft results section.
+Work from generated queues, but edit upstream source-of-truth tables rather than generated outputs.
+
+### Current Execution Order
+
+1. Update screening/adjudication in `data/screening/SCREENING_LOG_FINAL.csv`.
+2. Rebuild the pipeline outputs:
+
+```bash
+python3 tools/build_pipeline_outputs.py
+```
+
+3. Update source-review and digitization aids:
+
+```bash
+python3 tools/build_extraction_review_artifacts.py
+python3 tools/merge_figure_candidate_audits.py
+python3 tools/render_audited_source_pages.py
+python3 tools/build_figure_visual_reaudit.py
+python3 tools/build_figure_crop_manifest.py
+python3 tools/audit_figure_indexing.py
+```
+
+4. Work down `pipeline/EXTRACTION_WORKPLAN.csv` by `priority_rank`.
+5. Use `digitization/source_review/FIGURE_QUEUE_AUDIT_STATUS.csv` and `digitization/figures/FIGURE_CROP_MANIFEST.csv` for figure/table clipping work.
+6. Promote extracted values only after figure/table label, page, panel, units, variance source, sample-size source, clip path, digitized-data path, digitizer, reviewer, and QA status are recorded.
+
+### Current Blockers Before Analysis
+
+- 86 generated digitization-queue rows still have `digitization_status=needs_figure_id` in the upstream queue.
+- The audited overlay has 76 queue rows with candidate evidence and 10 rows with no valid figure/table candidate found.
+- `digitization/figures/FIGURE_INDEX_AUDIT_SUMMARY.md` currently reports zero structural figure-indexing errors.
+- All 29 legacy extraction rows still need source provenance review before they can enter pooled analyses.
+- Geometry remains the most data-starved moderator: `perimeter_mm` is present for 3 of 76 primary rows.
 
 ---
 
@@ -266,8 +305,8 @@ For studies lacking a control group, we will perform a meta-analysis of single m
 1. **Start Small:** Extract 3-5 papers completely before scaling up.
 2. **Be Conservative:** Only extract data you're confident about — flag everything else.
 3. **Document Everything:** Keep a detailed log of decisions, conversions, and assumptions.
-4. **Use R Tools:** `metafor`, `metagear`, `orchaRd`.
+4. **Verify the pipeline:** Run `python3 -m unittest discover -s tests -p 'test_*.py'` after changing Python tools and inspect generated QA reports after changing data.
+5. **Add R reproducibility when analysis starts:** create `renv.lock`, document R/package versions, and make the effect-size/model scripts reproducible before manuscript drafting.
 
 ---
-**Good luck with your meta-analysis!**
-*Remember: Meta-analysis is iterative. Start simple, refine as you go.*
+Meta-analysis is iterative. Keep the protocol stable, but let the generated QA outputs define the next concrete extraction and documentation edits.

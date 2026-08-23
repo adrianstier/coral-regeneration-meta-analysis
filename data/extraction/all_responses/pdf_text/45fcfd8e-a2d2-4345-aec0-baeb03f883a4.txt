@@ -1,0 +1,467 @@
+Coral Reefs (2009) 28:499–506
+DOI 10.1007/s00338-009-0475-y
+
+ REPORT
+
+
+
+Effects of frequent fish predation on corals in Hawaii
+D. Jayewardene Æ M. J. Donahue Æ C. Birkeland
+
+
+
+
+Received: 17 May 2008 / Accepted: 28 January 2009 / Published online: 20 February 2009
+! Springer-Verlag 2009
+
+
+Abstract The abundance of lesions from fish bites on                  cover could indicate an Allee effect limiting the recovery
+corals was quantified at nine shallow reefs in the main               of coral populations if coral cover is substantially reduced
+Hawaiian Islands. There were on average 117 bite scars m-2            by natural or anthropogenic disturbances.
+on Pocillopora meandrina tissue from the barred filefish
+Cantherhines dumerilii, 69 bites m-2 on Porites compressa             Keywords Coral ! Predation by fishes ! Corallivory !
+tissue, and 4 bites m-2 on Porites lobata tissue from the             Arothron ! Porites ! Hawaii
+spotted puffer Arothron meleagris. Across sites, the
+frequency of A. meleagris bites on P. compressa per unit
+area of living coral cover declined exponentially with                Introduction
+increasing coral cover. P. compressa nubbins in two size
+classes (1–2 cm and 4–5 cm) were transplanted onto six                Over one hundred species of fishes are known to feed on
+study reefs. Nubbins in the small size class were entirely            corals (Rotjan and Lewis 2008). Although fish corallivory
+removed by bites from A. meleagris, while nubbins C4 cm               is common and widespread (Rotjan and Lewis 2008; Cole
+were only partially consumed, leaving them able to                    et al. 2008), the effects of predation on coral have not been
+recover. At sites with abundant P. compressa, predation               as extensively documented as the effects of fish herbivory
+had little effect on transplanted nubbins; at sites where             on algae. While there are studies that indicate that preda-
+P. compressa comprised less than 5% of living cover, all              tion can limit the growth rate, competitive ability, and
+nubbins were preyed upon. A. meleagris bite lesions on                distribution of corals (Neudecker 1979; Wellington 1982;
+P. compressa were monitored through time and fully                    Cox 1986; Littler et al. 1989; Grottoli-Everett and Wel-
+recovered in 42 ± 4 days. A model of the risk of over-                lington 1997), the net effect of fish predation on the coral
+predation (a second predation event before the first is               community has been considered to be less important than
+healed) decreased exponentially with increasing coral                 the indirect effects of herbivorous fishes on coral (Hixon
+cover and increased linearly with increasing lesion healing           1997).
+time. The increased risk of over-predation at low coral                  Predation by fishes on corals may be analogous to
+                                                                      continuous browsing (partial consumption) on plants in the
+                                                                      terrestrial environment by herbivores (Hairston et al.
+Communicated by Biology Editor Dr. Mark McCormick                     1960). Thus, corals (=producers) might be limited by
+                                                                      competition for resources (e.g., space), not predation, and
+D. Jayewardene (&) ! C. Birkeland
+                                                                      the corallivores (=primary consumers) might be limited by
+Hawaii Cooperative Fishery Research Unit, US Geological
+Survey, Department of Zoology, University of Hawaii at Manoa,         factors such as predation, shelter and recruitment, not by
+Honolulu, HI 96822, USA                                               food (Glynn 1985; Guzman and Robertson 1989). Con-
+e-mail: danielle@jayewardene.com                                      tinuous predation is nonetheless an energy drain for the
+                                                                      coral through allocation of resources to tissue regeneration
+M. J. Donahue
+Hawaii Institute of Marine Biology, University of Hawaii at           (Meesters et al. 1994), and in the face of recent additional
+Manoa, PO Box 1346, Kaneohe, HI 96744, USA                            threats to coral reefs and diminishing coral populations,
+
+
+                                                                                                                        123
+500                                                                                                    Coral Reefs (2009) 28:499–506
+
+
+may become an increasingly influential factor for coral
+resilience to anthropogenic changes (Rotjan and Lewis
+2008).
+   On Hawaiian shallow reefs it is common to see lesions
+caused by fish bites on the live tissue of coral colonies
+where the bare skeleton is exposed. While there is a general
+perception that parrotfishes are responsible for these
+lesions, less than 2% of parrotfish bites are inflicted on live
+coral, and these are generally along the edge where the
+coral tissue meets the algae (pers. obs., Ong 2007). The
+majority of bite lesions in the Main Hawaiian Islands are
+inflicted by the barred filefish (Cantherhines dumerilii) and
+the spotted puffer (Arothron meleagris), which have been
+observed by the authors to remove coral skeleton and inflict
+                                                                  Fig. 1 Map of the Main Hawaiian Islands showing study sites. Sites
+lesions when feeding on coral (Jayewardene and Birkeland
+                                                                  marked with * indicate ‘‘open’’ sites where fishing was unregulated,
+2006). They are, however, very skittish and thus seldom           ** indicates sites with ‘‘partial’’ protection where lay netting was
+seen in action by divers. All but one of Hawaii’s 13 species      prohibited, and *** indicates ‘‘no-take’’ sites where all fishing was
+of corallivorous butterflyfishes do not inflict visible lesions   prohibited. Arrows indicate locations where nubbins were collected
+                                                                  for transplant experiments
+because they feed only on the tissue of coral polyps
+(Randall 2007). The teardrop butterflyfish (Chaetodon uni-
+maculatus) is the exception, but it usually has only been seen    Kealakakua Bay). The shallow areas were included in the
+to bite off small amounts of skeletal material from the rice      study to increase the range in the background cover of
+coral (Montipora capitata) (E. F. Cox, pers. comm.).              P. compressa found across study sites. Surveys and
+   The goal of this study was to determine the role that          experiments at each site were conducted within an area of
+corallivory by C. dumerilii and A. meleagris plays in             *1,000 m2 overlapping the locations of fixed fish survey
+influencing coral community structure in the Main Hawai-          transects (Tissot and Hallacher 2003, Jayewardene 2009).
+ian Islands. The specific objectives were: (1) to quantify the    The depth of these areas ranged between 6 and 12 m.
+level of fish predation on corals by surveying a range of
+reefs in the islands for the prevalence of characteristic bite    Coral abundance
+lesions left by A. meleagris and C. dumerilii; (2) to deter-
+mine the intensity and immediate effect of predation on           Coral cover within each 1,000 m2 study site was deter-
+coral by exposing two size classes of out-planted Porites         mined by analyzing fifteen 40 9 60 cm random
+compressa branches to natural levels of predation on the          photoquadrats along each of 10 randomly located 20 m
+reef; (3) to establish the healing time for bite lesions          transects (=150 photoquadrats/site). PhotogridTM image
+inflicted by A. meleagris on P. compressa by monitoring in        analysis software was used to analyze 20 random points per
+situ tissue regeneration; and (4) to examine whether fish         photoquadrat. Differences in mean coral cover among sites
+predation could pose a risk to coral recovery.                    were analyzed using one-way ANOVA.
+
+                                                                  Abundance of fish bites
+Materials and methods
+                                                                  Although C. dumerilii and A. meleagris were observed on
+Study sites                                                       study reefs, they were generally seen swimming away at a
+                                                                  distance and/or hiding under Porites lobata heads. The
+The study was conducted from March 2004 to August 2005            skittish behavior prevented accurate quantification of the
+at 12 sites on nine shallow coral reefs located in the Main       densities of the fishes using either belt transects or the zig-
+Hawaiian Islands (Fig. 1). Two sites were ‘‘open’’ sites          zag survey method used by Guzman and Robertson (1989).
+with unregulated fishing (Portlock and Wawaloli Beach),           As fishes with this behavior are not properly represented by
+seven sites had ‘‘partial’’ management prohibiting lay net        visual count data (Jennings and Polunin 1995), the number
+fishing (Puako, Anaehoomalu Bay, Wawaloli Fisheries               of bite lesions found on live coral was used instead as a
+Management Area (FMA), Wawaloli FMAshallow, Papawai,              metric to determine the prevalence of predation on coral by
+Keei, and Keeishallow), and three sites were ‘‘no-take’’          C. dumerilii and A. meleagris.
+Marine Life Conservation Districts, in which all fishing             Bites were identified as open lesions on live coral with
+was prohibited (Hanauma Bay, Hanauma Bayshallow, and              exposed coral skeleton. These were clearly distinguishable
+
+
+123
+Coral Reefs (2009) 28:499–506                                                                                                          501
+
+
+from lesions caused by physical damage on the basis of                 versus P. compressa were examined using a binomial test,
+their appearance and by the presence of identifiable                   comparing observed bites (total number of bites recorded
+toothmarks. Bite lesions were categorized as inflicted by              per species per site) and expected bites (calculated
+either A. meleagris or C. dumerilii and were characterized             assuming that bites are proportional to coral cover per
+by observing individuals of each of these species feeding              species per site).
+on coral in the field. A. meleagris feeding on P. compressa
+was focused on the tips of colony fingers resulting in single          Predation experiment
+concave lesions (Fig. 2a). A. meleagris feeding on
+P. lobata occurred across the colony surface resulting in              Predation was experimentally measured by transplanting
+opposing sets of parallel lesions (Fig. 2b) or, when focused           P. compressa branches (nubbins) to eight sites (Wawaloli
+in one area, in lesion patches of varying size (Fig. 2c).              Beach, Puako, Wawaloli FMA, Wawaloli FMAshallow,
+C. dumerilii feeding on P. lobata resulted in small indis-             Keei, Keeishallow Kealakakua Bay, Hanaumashallow),
+tinguishable lesions, while feeding on Pocillopora                     exposing the nubbins to ambient levels of predation. To
+meandrina focused on the tips of colony branches resulting             test for differences in predation on different fragment sizes
+in single concave lesions (Fig. 2d). Lesions inflicted by              of coral, two size classes of nubbins were set out at each
+corallivorous fishes were easily distinguished from lesions            site: small (1 to 2-cm tall) nubbins and large (4 to 5-cm
+inflicted by parrotfishes, which were thin, more numerous,             tall) nubbins.
+and haphazard (Fig. 2e).                                                  Nubbins transplanted at the Hanauma Bay site on the
+    The number of bite lesions on coral was determined by              island of Oahu were collected from the reef at the Hawaii
+surveying five independent 20 m transects within each                  Institute of Marine Biology (HIMB) in Kaneohe Bay
+1,000 m2 area. Ten 0.5 9 0.5 m quadrats were randomly                  (Fig. 1) at 2 to 4-m depth. Nubbins transplanted at sites on
+placed along each transect, and discrete bites within each             Hawaii Island were collected from the reef off Honokohau
+quadrat were identified as either (1) A. meleagris lesions on          harbor at 8 to 10-m depth. Sets of four small or four large
+P. compressa, (2) A. meleagris lesions on P. lobata, or (3)            nubbins were attached to 15.2 9 15.2 cm terracotta tiles
+C. dumerilii lesions on P. meandrina. Predation pressure,              using epoxy putty (1 tile = 1 replicate). Nubbins were
+i.e., number of bites per square meter of reef divided by the          grouped, rather than individually attached to tiles, to most
+abundance of each coral species (bites m-2 of coral tissue),           closely represent a colony of P. compressa. Nubbins were
+was calculated to enable comparisons among species and                 maintained in aquaria for 2 days prior to transplantation on
+sites.                                                                 to the reefs. Four tiles of each size class were set out at
+    Differences in bite density (bite m-2) and predation               each site totaling eight tiles per site =4 tiles-1 size class-1
+pressure (bites m-2 coral tissue) among sites were analyzed            site. Tiles were placed haphazardly within the 1,000 m2
+using non-parametric Mann–Whitney and Kruskall–Wallis                  area among the surrounding coral and monitored once in a
+tests. Differences in A. meleagris predation on P. lobata              week for 3 weeks. Predation was defined as removal of the
+
+
+
+
+Fig. 2 Bite marks by Arothron meleagris on a Porites compressa, b, c Porites lobata, by Cantherhines dumerillii on d Pocillopora meandrina,
+and e by the bullethead parrotfish (Chlorurus sordidus) on non-coral tissue adjacent to P. lobata
+
+
+                                                                                                                               123
+502                                                                                                Coral Reefs (2009) 28:499–506
+
+
+intact tip of nubbins (=maximum 4 bites replicate tile-1).        number of days before complete recovery and p(C) is the
+Differences in predation (bites tile-1) were analyzed using       daily probability of a bite. Over-predation risk is defined as
+non-parametric Mann–Whitney and Kruskall–Wallis tests.            Prob(Bites C 2).
+
+Healing of scars
+                                                                  Results
+Healing rate of P. compressa bite scars was determined by
+monitoring tissue regeneration across scars inflicted by          Coral abundance
+A. meleagris on P. compressa colonies in situ. An area
+approximately 100 m2 in size was chosen on Keei reef,             Average coral cover across reefs was 37 ± 4%
+where P. compressa cover was high and bite scars rela-            (mean ± SE), but total coral cover varied among sites
+tively abundant. Eight freshly inflicted bite scars at the tips   (F11,83 = 26.01, P \ 0.001, Table 1). The three most
+of P. compressa branches were selected haphazardly a few          common corals across sites were P. lobata 20.3 ± 10.2%
+meters distance apart. While some scars were in close             (mean ± SD), P. compressa 10.3 ± 9.6%, and P. meand-
+proximity to other un-monitored scarred branches, this was        rina 1.5 ± 1.9%, followed by less common Porites lutea
+deemed unimportant as tissue regeneration is fuelled by a         0.6 ± 0.7%, Montipora patula 0.5 ± 0.9%, Montipora
+band of tissue directly bordering the lesion (Meesters et al.     capitata 0.5 ± 0.5%, Pavona varians 0.3 ± 0.6%, and
+1994). Lesions were monitored for the number of days              Pocillopora eydouxi 0.1 ± 0.2%. There was no association
+taken for tissue to begin regeneration across lesion              between coral cover and marine protection status
+(=healing start time) and the number of days taken for            (F2,12 = 2.06, P = 0.170).
+tissue to span the entire scar with no remaining sign of the
+bite (=full recovery time). For each P. compressa lesion,         Bite density and predation pressure
+healing stage was regressed against time. As the exact time
+of bite infliction for each scar was unknown, the start time      Based on the characteristics of the bite lesions, A. melea-
+(day 0) was back-calculated from the linear regression.           gris was responsible for inflicting all bites on P. compressa
+Average healing time was calculated from the average of           (a uniform concave lesion across entire tip of branch), and
+the regression slopes.                                            C. dumerilii for all bites on P. meandrina (smaller, some-
+                                                                  times irregular-shaped lesions on tips of branches). While
+Model of over-predation risk                                      some lesions were not clearly identifiable on P. lobata, the
+                                                                  majority were inflicted by A. meleagris.
+To evaluate the risk of coral decline due to fish predation,         The density of fish bites on each of the three coral species
+an empirically-based model of over-predation risk as a            (bites m-2) varied among sites (Kruskall–Wallis, P. com-
+function of bite frequency and healing time was developed.        pressa: H = 32.54, P = 0.001; P. lobata: H = 26.05,
+Over-predation is when a fish bites the same spot of living       P = 0.004, and P. meandrina: H = 29.04, P = 0.001).
+coral before it has completely recovered from a previous          Bite density was not associated with coral cover (Pearson
+bite. Healing time (h) is the number of days required for a       correlation, P. compressa: 0.159, P = 0.623; P. lobata:
+wound to heal. Previous work indicates that healing time is       0.484, P = 0.186; P. meandrina: 0.351, P = 0.355) or
+independent of coral head size and other wounds on the            marine protection status (Kruskall–Wallis: P. compressa:
+same coral head (Jayewardene 2009), but could depend on           H = 1.44, P = 0.487; P. lobata: H = 0.85, P = 0.655;
+environmental stress (Meesters et al. 1992; Meesters and          P. meandrina: H = 3.24, P = 0.194). Predation pressure
+Bak 1993; Fisher et al. 2007). Bite frequency (i.e., per          (bites m-2 of coral tissue) differed among coral species
+capita risk of predation) of A. meleagris on P. compressa at      (Kruskall–Wallis: H = 8.17, P = 0.017) and was greatest
+each site was calculated as area of bites (bites                  on P. meandrina (117 ± 52 bites m-2of coral tissue,
+m-2 9 0.9 cm2 per bite, Jayewardene 2009) divided by the          mean ± SE), followed by P. compressa (69 ± 19 bites
+cover of P. compressa. The relationship between bite fre-         m-2 of coral tissue), and P. lobata (4 ± 1 bites m-2 of coral
+quency and coral cover was analyzed using the regression          tissue) (Table 1). Of the two Porites species, A. meleagris
+model: ln(Bite Frequency) * b0 ? b1 P. compressa                  fed preferentially on P. compressa (binomial test \0.002,
+cover. This implies an exponential model of bite frequency,       Table 2).
+pðCÞ ¼ p0 e%p1 C ; where p0 is maximum predation risk at
+low coral cover and p1 is the decline in predation risk with      Predation experiment
+increasing coral cover, C. Assuming that bites are inde-
+pendent events, they can be modeled as a binomial random          There was no significant difference in predation (bites
+variable: Bites * Binomial (h, p(C)), where h is the              tile-1) between the small and large nubbins
+
+
+123
+Coral Reefs (2009) 28:499–506                                                                                                                         503
+
+
+Table 1 Total coral cover (%), coral cover of the three most common species (%), bite density on these species (# bites/m-1) and the intensity of
+predation on small (1–2 cm) and large (4–5 cm) experimental Porites compressa nubbins (number of bites tile-1, max = 4 bites tile-1) across
+study sites
+Sites                  % Coral (±SE)                                                # Bites/m-1 (±SE)                          # Bites/tile (±SD)
+                       Total               PC                PL            PM       PC            PL            PM             Small         Large
+
+Portlock*                    8a (±1)           0 (±0)         5 (±1)       2 (±1)   0.1 (±0.1)    0.4 (±0.3)    3.4 (±2.0)     n/a           n/a
+Waw Beach*               42de (±3)             5 (±1)        33 (±2)       2 (±0)   2.1 (±1.0)    0.9 (±0.6)    3.0 (±1.3)     0 (±0)        0.3 (±0.5)
+Pauko**                   58f (±3)         23 (±3)           29 (±3)       1 (±0)   2.3 (±0.5)    2.6 (±1.2)      0 (±0)       0 (±0)        0 (±0)
+                             cde
+A-bay**                 39         (±1)    17 (±1)           17 (±2)       1 (±0)   2.8 (±0.9)    1.8 (±0.9)    3.4 (±2.4)     n/a           n/a
+Waw FMA**                 44e (±2)             7 (±)         29 (±)        6 (±1)   5.2 (±1.0)    0.6 (±0.3)    1.6 (±0.7)     0 (±0)        0 (±0)
+Waw FMA shlw**         33bcde (±4)             1 (±1)        25 (±3)       5 (±)    0.9 (±0.3)     0 (±0)         0 (±0)       0.5 (±0.3)    0.3 (±0.3)
+Papawai**               31bcd (±2)             1 (±0)        27 (±2)       1 (±0)   0.9 (±0.4)    0.9 (±0.4)    0.7 (±0.5)     n/a           n/a
+Keei**                 33bcde (±2)         26 (±5)            5 (±1)       0 (±0)   0.3 (±.3)      0 (±0)         0 (±0)       0 (±0)        0 (±0)
+                               f
+Keei shlw**               65 (±2)              2 (±1)        63 (±2)       0 (±0)   1.5 (±0.7)    n/a            n/a           1.5 (±1.9)    1.6 (±1.3)
+Han***                    25b (±2)             3 (±1)        20 (±2)       0 (±0)   1.3 (±0.5)    0.9 (±0.5)    0.2 (±0.2)     n/a           n/a
+Han shlw***            38bcde (±6)             0 (±0)        19 (±2)       1 (±0)   0.2 (±0.2)     0 (±0)         0 (±0)       4 (±0)        4.0 (±0)
+K-bay***                 31bc (±2)         11 (±3)           17 (±2)       0 (±0)   3.2 (±1.2)     0 (±0)         0 (±0)       0 (±0)        0 (±0)
+Sites marked with * indicate ‘‘open’’ sites where fishing was unregulated, ** indicates sites with ‘‘partial’’ protection where lay netting was
+prohibited, and *** indicates ‘‘no-take’’ sites where all fishing was prohibited. Total coral covers with same superscript letter are not significantly
+different (Tukey test, P [ 0.05). PC P. compressa, PL Porites lobata, and PM Pocillopora meandrina
+
+
+Table 2 Observed and expected bites on Porites compressa (PC) and
+Porites lobata (PL) per site
+Sites          Expected # bites           Observed # bites            Direction
+               PC         PL              PC            PL            PC     PL
+
+Han             4         23              16            11            ?      -
+Portlock        0             6            1            5             ?      -
+Puako          28         34              29            33            ?      -
+A-bay          28         30              35            23            ?      -
+Waw Bch         5         32              26            11            ?      -
+Waw FMA        14         58              65            7             ?      -
+Papawai         1         22              11            12            ?      -
+K-bay          16         24              40            0             ?      -
+Keei            3             1            4            0             ?      -
+Binomial test: (!)9 = 1/512 \ 0.002
+                                                                                    Fig. 3 Experimental predation (# of bites tile-1) on transplanted
+Expected number of bites was calculated assuming that bites were                    Porites compressa nubbins in relation to the observed predation
+distributed in proportion to coral cover. Differences between observed              pressure (# of bites m-1 P. compressa tissue) by Arothron meleagris
+and expected bites were assessed using a binomial test                              on P. compressa in the field at sites. Error bars indicate ±1 SD for
+                                                                                    y-axis and ±1 SE for x-axis
+
+(Mann–Whitney: P = 0.5148), but there was a significant
+difference among sites (Kruskall–Wallis: H = 42.22,                                 Hanaumashallow). At the sites with low to intermediate
+P \ 0.001). At the Hanaumashallow study site, predation on                          abundances of P. compressa (Wawaloli FMAshallow,
+all transplanted P. compressa nubbins occurred within the                           Keeishallow, Wawaloli Beach, and Wawaloli FMA), number
+first week of monitoring. In contrast, after the full 3 weeks                       of inflicted bites per tile ranged between 0 and 1.6 bites
+of monitoring, no or low levels of predation occurred at the                        tile-1. Predation was significantly greater on tiles at sites
+remaining study sites. No bites were inflicted on experi-                           that had greater predation pressure (Pearson correlation:
+mental nubbins at the three sites with the highest cover of                         0.946, P \ 0.001) (Fig. 3).
+P. compressa (Kealakakua Bay, Puako, and Keei)                                          While there was no difference in the number of bites
+(Table 1), while the highest predation (4 bites tile-1) was                         inflicted on nubbins between the two size classes, predation
+at a site with very low P. compressa cover (3%,                                     on the small nubbins at Hanauma resulted in the entire
+
+
+                                                                                                                                            123
+504                                                                                                                           Coral Reefs (2009) 28:499–506
+
+Fig. 4 Examples of
+experimental tiles from the
+Hanaumashallow study site
+illustrating complete
+consumption of small Porites
+compressa nubbins (1 to 2-cm
+tall) with a bite by Arothron
+meleagris in contrast to partial
+consumption of large nubbins
+(4 to 5-cm tall)
+
+
+
+
+biomass of the nubbin being removed, while predation on                                    During this period, the exposed calcium carbonate within
+the large nubbins resulted in only partial consumption                                     scars was not colonized to any significant extent by algae.
+(Fig. 4).
+                                                                                           Model of over-predation
+Healing of predation scars
+                                                                                           Bite frequency of A. meleagris on P. compressa declined
+All P. compressa scars healed fully without any visible                                    exponentially with P. compressa cover from a maximum
+negative effect on the colony branches. Healing started                                    bite frequency of p0 = 0.00964 (0.00481, 0.0193, 95% CI)
+8 ± 2 days (mean ± SE) following infliction of bites and                                   at rate p1 = 0.136 (-0.195, -0.0777) (F1,10 = 27.3,
+lesion closure occurred at 42 ± 4 days (mean ± SE).                                        P \ 0.0004, R2 = 0.73, Fig. 5). The risk of over-predation
+
+
+Fig. 5 Bite frequency by                                     0.025
+Arothron meleagris versus
+percent cover of Porites                                                 Han shlw
+compressa. The line is back-
+transformed from the regression
+model: ln (Bite                                               0.02
+Frequency) * b0 ? b1
+% cover of P. compressa,
+(F1,10 = 27.3, P \ 0.0004,
+
+
+
+
+                                     Bite Frequency (day )
+                                    −1
+R2 = 0.73)                                                   0.015
+
+
+                                                                          Papawai
+
+                                                                              Keei shlw
+                                                              0.01
+                                                                            Waw FMA shlw
+
+                                                                                            Waw FMA
+
+
+                                                             0.005                    Waw Beach
+                                                                               Han
+                                                                                                        K−bay
+                                                                     Portlock                                         A−bay
+                                                                                                                                       Puako
+                                                                                                                                                    Keei
+                                                                0
+                                                                     0                5            10            15               20           25          30
+                                                                                                        % Cover of P. compressa
+
+
+
+123
+Coral Reefs (2009) 28:499–506                                                                                             505
+
+Fig. 6 Probability of over-
+predation versus coral cover (C)
+and healing time (h). The
+surface is the model prediction
+as a function of C and h, the line
+is the model prediction for the
+measured healing time
+h = 42 days. The points are the
+site-specific probabilities of
+over-predation, based on site-
+specific bite frequencies (Fig. 5)
+and h = 42 days
+
+
+
+
+decreased exponentially as coral cover increased and             (1-cm tall) have been found to heal successfully without
+increased linearly with healing time (Fig. 6).                   suppressing growth of the coral (Jayewardene 2009). The
+                                                                 transplant experiment, however, indicated that intense
+                                                                 predation may have detrimental cropping effects on small
+Discussion                                                       fragments (\1 to 2-cm tall) through removal of their entire
+                                                                 biomass when the abundance of P. compressa in the
+This study determined that corallivory by fishes is wide-        community falls below a threshold (\5%). Although pre-
+spread and often intense on the three most common species        dation on experimental fragments may have been
+of coral in Hawaii. The density of fish bites on the reef, a     unrealistically high due to the novelty of transplant nubbins
+reflection of the abundance of corallivorous fishes, was not     on the reef, the relative differences in predation intensity
+related to coral cover or marine protection status, indicating   between sites and the outcome of whole fragment removal
+that these fish populations are not tightly regulated by prey    remains relevant.
+abundance or fishing pressure. Observations coupled with            Bite frequency decreased exponentially with increasing
+surveys indicated that C. dumerilii is responsible for bites     abundance of coral prey (Fig. 5). This is similar to a Type
+on P. meandrina, and A. meleagris for bites on P. lobata and     II functional response, in which per capita predation risk
+P. compressa. While it is possible that corallivorous fishes     declines with increasing prey abundance. The risk of over-
+other than A. meleagris and C. dumerilii are responsible for     predation decreased rapidly with increasing coral cover and
+inflicting some of the surveyed bite lesions, there has been     increased with healing time (Fig. 6). While corallivory is
+no documentation found for this on Hawaiian reefs. The           inconsequential to population growth when P. compressa is
+spotted knifejaw (Oplegnathus punctatus) has been                above 10–15% cover and lesions heal efficiently, it may
+observed preying on Pocillopora eydouxi in the North-            limit population growth on reefs where coral cover is low
+western Hawaiian Islands (Musburger pers.com.), but              and/or healing rate is compromised by environmental stress
+individuals are extremely rare in the Main Hawaiian              (Meesters et al. 1992; Meesters and Bak 1993; Fisher et al.
+Islands.                                                         2007). This increased risk of corallivory at low coral cover
+   A. meleagris preferentially fed on P. compressa, a            could indicate an Allee effect (a decline in population
+branching endemic species which provides essential habitat       growth rate at low density), limiting the recovery potential
+for various reef fishes in Hawaii (Walsh 1987; DeMartini         of coral populations. In Panama and Jamaica, for example,
+and Anderson 2007; Ortiz and Tissot 2008). Despite each          sustained levels of predation following events that caused
+bite involving substantial removal of P. compressa skeletal      extensive coral mortality had a substantial negative impact
+material, tissue regeneration across lesions was efficient       on the coral (Glynn 1985; Knowlton et al. 1990). While
+and complete. Even very small P. compressa fragments             corallivorous fish populations are likely to be negatively
+
+
+                                                                                                                   123
+506                                                                                                              Coral Reefs (2009) 28:499–506
+
+
+affected by declining coral cover in the long term (Jones                   Hairston NG, Smith FE, Slobodkin LB (1960) Community structure,
+et al. 2004, Berumen and Practchett 2006), predation may                          population control, and competition. Am Nat 94:421–425
+                                                                            Hixon MA (1997) Effects of reef fishes on corals and algae. In:
+remain high in the short term if fish populations respond                         Birkeland C (ed) Life and death of coral reefs. Chapman & Hall,
+more slowly than coral to environmental stressors (Glynn                          NY, pp 230–248
+1985; Guzman and Robertson 1989; Knowlton et al. 1990).                     Jayewardene D (2009) The role of Marine Protected Areas in driving
+As a result, predation may accelerate the decline of                              ecological processes and benthic community structure on coral
+                                                                                  reefs in Hawaii. PhD thesis, University of Hawaii at Manoa
+impaired reefs and pose a management challenge to reef                      Jayewardene D, Birkeland C (2006) Fish predation on Hawaiian
+recovery.                                                                         corals. Coral Reefs 25:328
+                                                                            Jennings S, Polunin NVC (1995) Biased underwater visual census
+Acknowledgments This research was funded by the Hawaii Coral                      biomass estimates for target-species in tropical reef fisheries.
+Reef Initiative Research Program, and the US Geological Survey. We                J Fish Biol 47(4):733–736
+would like to thank Hanauma Bay Nature Park for access to the               Jones GP, McCormick MI, Srinivasan M, Eagle JV (2004) Coral
+Hanauma study site and the Kona Division of Aquatic Resources for                 decline threatens fish biodiversity in marine reserves. Proc Nat
+boat and dive support on Hawaii Island. The use of trade, firm, or                Acad Sci USA 101(21):8251–8253
+corporation names in this publication is for the convenience of the         Knowlton N, Lang JC, Keller B (1990) Case study of natural
+reader. Such use does not constitute an official endorsement or                   population collapse: post-hurricane predation on Jamaica stag-
+approval by the US Government of any product or service to the                    horn corals. Smithson Contrib Mar Sci 31:1–25
+exclusion of others that may be suitable.                                   Littler MM, Taylor PR, Littler DS (1989) Complex interactions in the
+                                                                                  control of coral zonation on a Caribbean reef flat. Oecologia
+                                                                                  80:331–340
+                                                                            Meesters EH, Bak RPM (1993) Effects of coral bleaching on tissue
+References                                                                        regeneration potential and colony survival. Mar Ecol Prog Ser
+                                                                                  96(2):189–198
+Berumen ML, Pratchett MS (2006) Recovery without resilience:                Meesters EH, Bos A, Gast GJ (1992) Effects of sedimentation and
+     persistent disturbance and long-term shifts in the structure of fish         lesion position on coral tissue regeneration. Proc 7th Int Coral
+     and coral communities at Tiahura reef, Moorea. Coral Reefs                   Reef Symp 2:671–678
+     25:647–653                                                             Meesters EH, Noordeloos M, Bak RPM (1994) Damage and
+Cole AJ, Pratchett MS, Jones GP (2008) Diversity and functional                   regeneration: links to growth in the reef-building coral Montas-
+     importance of coral-feeding fishes on tropical coral reefs. Fish             trea annularis. Mar Ecol Prog Ser 112:119–128
+     Fish 9:286–307                                                         Neudecker S (1979) Effects of grazing and browsing fishes on the
+Cox EF (1986) The effects of a selective corallivore on growth rates              zonation of corals in Guam. Ecology 60:666–672
+     and competition for space between two species of Hawaiian              Ong L (2007) The ecological importance of parrotfish as bioeroders
+     corals. J Exp Mar Biol Ecol 101:161–174                                      and sediment producers in Hawaii and their conservation within
+DeMartini EE, Anderson TW (2007) Habitat associations and                         small marine protected areas. PhD thesis, University of Hawaii
+     aggregation of recruit fishes on Hawaiian coral reefs. Bull Mar              at Manoa, p 5
+     Sci 81:139–152                                                         Ortiz DM, Tissot NT (2008) Ontogenetic patterns of habitat use by
+Fisher EM, Fauth JE, Hillock P, Woodley CM (2007) Lesion                          reef-fish in an MPA network: a multi-scaled remote sensing and
+     regeneration rates in reef-building corals Montastrea spp. as                in situ approach. Mar Ecol Prog Ser 365:217–232
+     indicators of colony condition. Mar Ecol Prog Ser 339:61–71            Randall JE (2007) Reef and shore fishes of the Hawaiian Islands. Sea
+Glynn PW (1985) Corallivore population sizes and feeding effects                  Grant College Program, University of Hawaii, Honolulu, 546 p
+     following El Nino (1982–1983) associated coral mortality in            Rotjan RD, Lewis SM (2008) The impact of coral predators in
+     Panama. Proc 5th Int Coral Reef Symp 4:183–188                               tropical reefs. Mar Ecol Prog Ser 367:73–91
+Grottoli-Everett AG, Wellington GM (1997) Fish predation on the             Tissot BN, Hallacher LE (2003) Effects of aquarium collectors on
+     scleractinian coral Madracis mirabilis controls its depth distri-            coral reef fishes in Kona, Hawaii. Conserv Biol 17:1759–1768
+     bution in the Florida Keys, USA. Mar Ecol Prog Ser 160:291–            Walsh WJ (1987) Patterns of recruitment and spawning in Hawaiian
+     293                                                                          reef fishes. Environ Biol Fish 18:257–276
+Guzman HM, Robertson DR (1989) Population and feeding response              Wellington GM (1982) Depth zonation of corals in the Gulf of
+     of the corallivorous puffer fish (Arothron meleagris) to coral               Panama: control and facilitation by resident reef fishes. Ecol
+     mortality in the eastern Pacific. Mar Ecol Prog Ser 55:121–131               Monogr 52:224–241
+
+
+
+
+123
+

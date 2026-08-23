@@ -1,0 +1,535 @@
+.I. Exp. Mar. Biol. Ecol., 1990, Vol. 142, pp. 221-234                                                     221
+Elsevier
+
+
+JEMBE 01488
+
+
+   Regeneration after experimental breakage in the solitary
+        reef coral Fungia granulosa Klunzinger, 1879
+
+                             Nanette E. Chadwick’ and Y. Loya2
+   ‘H. Steinitz Marine Biology Laboratory, Interuniversity Institute, Eilat. Israel; ‘Department of Zoology,
+                 George S. Wise Faculty of Life Science, Tel Aviv University, Tel Aviv, Israel
+
+            (Received 9 March 1990; revision received 21 May 1990; accepted 15 June 1990)
+
+Abstract: As a result of experimental breakage, polyps ofthe solitary reef coral Fungiu granulosa Klunzinger,
+1879 formed fragments that fractured either radially along the septa, or perpendicular to the septal edges.
+Recovery was strongly dependent on fracture orientation, fragment size, and percent breakage. Corals with
+51-90% breakage either regenerated very slowly or lost mass and died during the 8 months of the study.
+In those with lo-SO% breakage, both tissue and skeletal regeneration increased with the proportion of the
+fracture perpendicular to the septa. It appears that only the septal edges at the outer polyp margin and the
+inner mouth area are able to add skeletal mass, while the sides of the septa are unable to initiate regrowth.
+Small corals (< 50 g) with 10-40x breakage recovered much more rapidly than did larger (> 50 g)
+individuals (calculated time to regain initial size = 4-10 months for small corals). These rates were at least
+twice as slow as those known for a colonial coral in the same reef area. Regeneration of the fragments also
+depended upon the presence of a mouth. Skeletal regrowth began as a fan of septa that radiated from the
+mouth area and spread along the septal sides. It is concluded that, when broken by disturbance, small
+individuals can rapidly recover from lo-40% skeletal loss. The ability to regenerate is exhibited by many
+members of the family Fungiidae, and has developed into autotomy and asexual maintenance ofpopulations
+in some species.
+
+Key words: Coral; Fragmentation; Fungia; Growth; Regeneration; Skeleton
+
+
+
+                                             INTRODUCTION
+
+
+   Coral reefs are damaged by a variety of disturbances. Tropical storms may reduce
+reefs to rubble (Highsmith et al., 1980; Woodley et al., 198 1; Dollar, 1982; Rogers et al.,
+1982) and predators, disease, and low tides may remove the live tissues of scleractinian
+corals while leaving their skeletons intact (Loya, 1976a; Bak & Criens, 1981; Pearson,
+198 1). Two major processes contribute to the recovery of reef areas damaged through
+disturbance: colonization by planktonic coral larvae, and regeneration of remaining
+coral fragments (Loya, 1976a). Much documentation of reef recovery has focussed on
+the influx of larvae (Grigg & Maragos, 1974; Loya, 1976a; review by Pearson, 1981).
+However, coral regrowth from existing fragments may contribute substantially to the
+
+
+
+  Correspondence address: N.E. Chadwick, Hopkins Marine Station of Stanford University, Pacific
+Grove, CA 93950, USA.
+
+0022-0981/90/$03.50 0 1990 Elsevier Science Publishers B.V. (Biomedical Division)
+reestablishment    ofcoral   communities     (Highsmith    et al.. 1980; Dollar, 1982: Highsmith.
+ 19X2!).
+  4211scleractinian      corals    thus far cxammed       can regenerate   at least partially     after
+breakage (Highsmith, 1982) and the colonies of at least one species may recover fully
+in only 2-5 months (Loya, 1976b). Regeneration   occurs in two distinct steps. First,
+coral tissue regrows over the wound. If this does not occur rapidly, boring organisms
+and pathogenic    bacteria may invade the exposed skeleton and retard or prevent
+regrowth   (Bak & Criens.         1981; Highsmith   et al.. 1983). Some corals can grow tissue
+over the colonizing organisms that settle on wounds (Bak et al., 1977; Rogers et al.,
+1982). Second, the new tissue secretes calcium carbonate to replace lost skeletal parts.
+Skeletal growth may be oriented toward the damaged areas, resulting in the eventual
+recovery of coral symmetry (Loya, 1976b: Yamashiro et al., 1989). If detached, the
+regenerating coral fragment also may recement to the substratum       and thus regain
+stability (Bak & Criens, 1982; Highsmith, 1982).
+   In some scleractinian corals, fragmentation   and regeneration are a natural means of
+asexual reproduction.    Several colonial and solitary corals spread by breakage and
+regrowth of fragments (Highsmith, 1982; Nishihira & Poung-In, 1989). Most corals in
+the family Fungiidae detach early in life from stalks, which then may regenerate new
+polyps or colonies (Wells, 1966; Yamashiro & Yamazato,           1987; Hoeksema,   1989).
+However, quantitative data are scanty concerning rates and processes of coral regenera-
+tion after experimental breakage. Microarchitectural   changes after breakage have been
+described in Acruporu hehes (Isa, 1987). Regeneration after lesion formation (Bak et al.,
+ 1977) and after experimental breakage (Bak & Criens, 1981) have been examined in
+some Caribbean corals. Kawaguti (1937) and Abe (1940) observed regeneration            in
+fungiid corals, but their studies were qualitative and short-term. The only long-term
+detailed studies of scleractinian regrowth after experimental breakage have focussed on
+a single colonial species (Loya, 1976b; Rinkevich & Loya, 1989).
+   No quantitative  data exist on rates and processes of experimental              regeneration      in
+solitary scleractinian    corals. Regrowth in solitary corals is fundamentally       different from
+that in colonial corals, in that the former must restore the lost parts of a single polyp,
+while the latter asexually bud new polyps. In addition, little is known about size-growth
+relationships   in solitary reef corals (Abe, 1940; Bablet, 1985).
+   Solitary free-living corals of the family Fungiidae        are common   on many Indo-Pacific
+coral reefs (Wells, 1966; Loya & Slobodkin, 197 I ; Sheppard, 1981; Veron & Hodgson,
+1989). They are among the few scleractinian        corals able to survive on soft substrata
+(Highsmith,     1982; Nishihira & Poung-In,       1989), and may serve as nuclei for the
+formation of new patch reefs, as well as extend existing reefs onto adjacent sandy areas
+(Sheppard, 198 1). Due to their relatively thin, disk shape, solitary fungiids are susceptible
+to fragmentation by water motion or other disturbances (Wells, 1966: Hoeksema, 1989).
+Thus their ability to regenerate after breakage may be important to the establishment
+and extension of certain coral reefs.
+   This paper examines regeneration and size-growth relationships in Fztngja grunufosu
+                        REGENERATIONINASOLITARYCORAL                                     223
+
+Klunzinger, 1879, a common solitary coral on the Red Sea reefs of Eilat. We show that
+regrowth after experimental breakage strongly depends on fragment size, percent
+breakage, and the orientation of the fracture area. Complete recovery is estimated to
+take at least twice as long as in a colonial branching coral from the same reef area.
+
+
+                              MATERIALS     AND    METHODS
+
+
+   This study was conducted on the fringing coral reef adjacent to the H. Stein&z Marine
+Biology Laboratory, Eilat, Gulf of Eilat, Red Sea. At least 6 species of free-living fungiid
+corals occur on the reefs of Eilat (Loya & Slobodkin, 197 1; Hoeksema, 1989). We used
+a common solitary species, Fungia (Wehofungia) granulosa, as identified by Hoeksema
+(1989).
+   In March 1989, undamaged polyps of F. granulosa were collected from the reef and
+transported to the laboratory. The live wet mass of each coral was obtained by placing
+it on a paper towel for a few minutes to remove excess moisture, then weighing it in air
+on an electronic balance to the nearest 0.01 g. We then photographed each coral and
+traced its outline onto paper. The polyps were divided into two size classes by live wet
+mass: small (4-50 g) ( = 30-60 mm polyp length) and large (51-150 g) ( = 61-90 mm
+polyp length). Then they were broken into fragments with the aid of a hammer and
+chisel. We broke the corals into fragment shapes that mimicked those found in the
+natural population. In each size class, 7-14 corals were subjected to each of the
+following treatments: (1) lo-50% breakage (= lo-50% mass removed), (2) 51-90x
+breakage (= 51-90x        of mass removed), and (3) undamaged, intact controls.
+Immediately after breakage, the corals were remeasured and returned to the reef. The
+control and broken corals were interspersed at 10 m depth in an area where abundant
+fungiids naturally occur. At 2,4, and 8 months after breakage, the corals were recollected
+and remeasured in the laboratory. The corals were kept continually submerged in
+flowing seawater while in the laboratory, and did not appear to suffer damage associated
+with handling. All corals were returned to the reef within a few days after each sampling
+period. Individuals were identifiable throughout the study by their unique features, such
+as nicks and septal irregularities. Data in the text are presented as X k SD. Arcsine
+transformations were performed to normalize the percentage data for all parametric
+statistical tests.
+
+
+                                         RESULTS
+
+
+MORPHOLOGYOFTHE          FRACTURES
+
+   Two types of fractures were created during breakage of the polyps. One type occurred
+along the radiating septa, and produced wedge-shaped fragments (Fig. lA,B). The other
+occurred perpendicular to the septa, across the septal edges (Fig. 1C). Some fragments
+possessed      both types of fractures, or a gradation between the two (Fig. 1D.E). bath
+f’ragment    was   scored according to the percent of its total fracture area that occurred
+perpendicular       to the septa (examples           in legend to Fig. 11.
+
+
+
+
+Fig. 1. Morphology      of fractures and regeneration     in F. gmnulma. Scde bars = I cm. (A) Wedge-shaped
+skeletal fragments created b, fractures along the septa ( = OO;,perpendicular        to the septa). (B) Regenerating
+fan of septa radiating from the mouth area of a live fragment. at 8 months after breakage. Note that none
+of the fractures is oriented perpendicular   to the septa, and that regeneration has occurred only at the mouth
+area. (C) Live fragment with fracture oriented across the septal edges ( = lOOoi, perpendicular          to the septa).
+(D,E) Live fragments with mixed fractures. Note that fracture areas perpendicular                  to the septa have
+regenerated,    while areas paraiiel are dead. 30 and 600; of the total fracture areas are perpendicular         to the
+          septa, respectively. (F) Naturally regenerating     live polyp in the field (mouth is at center).
+                             REGENERATION         IN A SOLITARY CORAL                                   225
+
+TISSUE REGENERATION
+
+   Some broken corals completely covered their fractures with living tissue in
+ < 1 month, while others did not during the entire 8 months of the study. In the corals
+with lo-SO% breakage (Fig. lC,E), tissue regeneration was related to fracture orienta-
+tion: the percent fracture area covered by regenerated tissue correlated positively with
+the percent of the fracture area perpendicular to the septa (product-moment correlation
+test, r = 0.96, P < 0.001) (Fig. 2). Fracture areas along the septal edges healed, while
+
+
+
+
+                                       0                so              100
+
+
+                                    % fracture perpendicular to septa
+Fig. 2. Correlation oftissue regeneration and fracture orientation in damaged polyps (n = 18) ofF. granulosa
+at 8 months after breakage. Only corals with lo-50% breakage are shown. See Fig. 1 for explanation of
+                                            fracture orientation.
+
+those parallel to the septa did not (Fig. 1). Corals with 51-90x breakage (n = 25)
+regenerated tissue over significantly less of their fracture areas than did corals with
+ 10-50x breakage (Mann-Whitney U test, U = 356, P < O.Ol), and this amount did not
+correlate with fracture orientation (product-moment          correlation test, I = 0.277,
+P = 0.181).
+   The fracture areas that remained exposed became covered with fouling organisms
+(Fig. lB,D,E), including algae, tunicates and sponges. A bivalve settled on and grew
+over one fracture. Fouling organisms were observed on the fractures within 2 wk, and
+persisted on exposed areas for at least 8 months.
+   Skeletal breakage also affected the tissue covering the unbroken parts of the corals.
+The level of tissue necrosis varied significantly among the three breakage categories
+(Fig. 3) (Kruskal-Wallis test, H = 9.215, P < 0.01) and was highest in the corals with
+51-90x breakage. The amount of tissue necrosis decreased with coral size in all
+breakage categories (Fig. 3).
+   All of the intact control corals (n = 21) survived throughout the study, while 88% of
+the broken corals (n = 43) survived. All of the corals that died were small (c 5 g each)
+and had suffered 80-90% breakage.
+                                                                          C
+
+
+
+
+                                            coral     mass (g)
+Fig. 3. Tissue necrosis in experimentally fragmented polyps of F. grunulosu. (A) Intact control corals
+(n = 21). (B) Corals with 10-50x breakage (n = 18). (C)Corals with 51-90% breakage (n = 25). 100%
+                                    tissue necrosis = dead coral.
+
+
+
+SKELETAL     REGENERATION
+
+   Skeletal growth in both small and large corals decreased significantly with percent
+breakage (product-moment          correlation tests, r = 0.646, P < 0.001, r = 0.871,
+P < 0.00  1, respectively), and at > 80% breakage, most corals lost mass (Fig. 4). For
+corals with lo-40% breakage, small individuals regenerated their skeletons significantly
+faster than did large polyps; however, at > 40% breakage this difference disappeared
+(Mann-Whitney Utests, U = 42, P < 0.01, U = 159, P> 0.01, respectively). The
+skeletal growth rates of intact control corals did not differ significantly from those of
+corals with lo-50% breakage, in both small and large size classes (Mann-Whitney
+U tests, U = 87, P = 0.37, U = 33, P = 0.56, respectively). The growth of intact corals
+corresponded to linear extension rates of O-10 mm * yr- ’ and mass changes of - 1.7
+(some specimens lost weight) to 16.2 g. yr - ‘.
+                            REGENERATION         IN A SOLITARY CORAL                                 221
+
+   Skeletal growth rate decreased exponentially with size in both intact controls and
+corals with lo-50% breakage (Fig. 5), but not in those with 51-90% breakage.
+
+
+
+
+                                                                   A
+
+
+
+
+                              0                          50                          100
+
+                                                    $6 keakage
+
+Fig. 4. Variation in skeletal growth rate (% mass change. 8 months _ ’ ) with percent breakage in damaged
+and intact (0% breakage) polyps of F.granufosa. (A)Small corals (n = 38). (B)Large corals (n = 26).
+
+
+
+
+   Assuming linear growth between sampling periods, the estimated time to regain
+original size after lo-40% breakage in small corals is calculated as 6.74 + 2.47 months
+(range = 4-10 months). Large corals, and corals with >40% breakage grew very little,
+or not at all (Fig. 4), and so their time to regain initial size was not calculated.
+   The corals that added skeletal mass directed their growth toward the missing parts
+of the polyp. Regenerated areas were clearly visible due to their lighter colored tissue,
+and septa oriented non-parallel to those of the original fragment (Fig. 1). This redirection
+of growth toward damaged areas resulted in the eventual restoration of polyp symmetry
+(Fig. 1).
+                           80-
+
+
+
+
+                                                                            B
+
+
+
+
+                           10
+
+                            0
+
+
+
+
+                                                    % breakage
+Fig. 5. Variation in skeletal growth rate ( y0 mass change. 8 months- ‘) with size (coral mass in g) in
+damaged and intact polyps of F. granulosa. (A) Intact control corals (n = 21). (B) Corals with 10-50x
+                                            breakage (n = 18).
+
+
+    Skeletal regeneration also varied with the size and orientation of the fractures. Corals
+with lo-50% breakage decreased regeneration rate exponentialiy with fracture size
+(product-moment correlation test, r = 0.712, P < 0.001) (Fig. 6), while corals with
+5 l-90 y0 breakage showed no signilicant correlation (product-moment correlation test,
+Y= 0.149; P = 0.478). In addition, skeletal growth increased with the percent of the
+fracture perpendicular to the septa, both in corals with lo-50% breakage (product-mo-
+ment correlation test, r = 0.743, P < 0.001, n = 18) (Fig. 7) and in corals with 51-90%
+breakage (product-moment correlation test, r = 0.531, P < 0.01). This interaction of
+healing and fracture orientation is similar to that observed for tissue regeneration
+(Fig. 2).
+                                REGENERATION           IN A SOLITARY    CORAL                           229
+
+
+   The presence of a mouth appeared to be important for regrowth. A significantly higher
+percentage of fragments possessing mouths regenerated (89.3 %, n = 28) than did those
+lacking mouths (6.7x, n = 15) (G test of independence, G = 15.64, P < 0.01). New
+
+
+
+
+                                     -20 I
+                                          0      200      400     800      Boo
+
+                                              fracture surface area
+Fig. 6. Skeletal   growth   (% mass change. 8 months - ‘) vs. surface area of fractures   (mm2) in damaged
+                             polyps (n = 18) of F. granulosa with lo-50% breakage.
+
+
+
+growth often began as a fan of septa radiating from the mouth area, in both naturally
+(Fig. 1F) and experimentally broken corals (Fig. 1B). All skeletal growth originated at
+either the inner septal edges that form the mouth (Fig. lB), or at the outer septal edges
+that form the polyp margin (Fig. lC), never along the septal sides (Fig. 1D).
+
+
+                                     50
+                                                                           A
+                                     40 1
+
+
+
+
+                                          % fracture perpendicular to septa
+Fig. 7. Correlation of skeletal growth and fracture orientation in damaged polyps (n = 18) of F. granulosa.
+    Only corals with 10-50x     breakage are shown. See Fig. 1 for explanation  of fracture orientation.
+TlSSlJE   REGENERATION
+
+
+   The regrowth of live tissue over exposed fractures is the first step to recovery in broken
+scleractinian corals (Loya, 1976b; Bak et al.. 1977; Rogers et al., 1982; Rinkevich dt
+Loya, 1989). In damaged    polyps of F. gmnulosu. the sides of the septa appeared     unable
+to regenerate tissue (Figs. 1,2). This may be explained by the normal growth pattern of
+these corals. During normal growth, solitary fungiid corals add new tissue and skeleton
+almost entirely at the outer edges of the septa, along the margin of the disk (Yamashiro
+et al.. 1989). Growth does not usually occur along the sides ofthe septa, and in fact these
+areas may be unable to grow.
+   Moreover, the morphology of the tissue-skeletal       relationship in these corals may
+determine the sites at which tissue regrowth can occur. Because the skeleton is narrow
+at the septal edges, when the polyp is broken, the ratio of surface area of tissue/skeleton
+is much higher and wounds can heal more rapidly here than along the septal sides.
+Similarly, branching corals may cover rapidly their wounds at the tips of narrow broken
+branches, because only a small skeletal area is exposed on each branch (Loya, 1976b).
+In massive colonial corals, small lesions heal more rapidly than do large lesions, due
+to the smaller skeletal area exposed (Bak et al.. 1977).
+   A combination    of factors may have led to the weight loss and eventual death
+(Figs. 3,5) of the corals that did not regenerate tissue over their fractures. Boring
+organisms may have invaded the coral skeleton through the exposed area, and excavated
+the interior of the coral (Highsmith et al., 1983). Physical abrasion also may have
+occurred at the exposed skeletal surfaces (Woodley et al., 1981). Finally, pathogenic
+bacteria such as white band disease may have entered the surrounding       coral tissue
+through the wound, and eventually killed the remainder of the fragment (Bak & Criens,
+ 198 1; Gladfelter, 1982). As in other broken corals, the survivorship of fragments was
+size-dependent   (Fig. 3; Loya, 1976b; Highsmith     et al., 1980).
+
+
+SKELETAL    REGENERATION
+
+
+   The estimated recovery time of 4-10 months for small corals (30-60 mm length) of
+F. grunulosa with 10-40”; breakage was about twice that for small colonies (30-45 mm
+diameter) of the branching coral Stylophoru pistilfata (2-5 months) from the same reef
+area (Loya, 1976b). However, large corals (61-90 mm length) of F. granulosa appeared
+to regenerate much more slowly, if at all (Fig. 4b), in contrast to large (50-90 mm
+diameter) S. pistilluta (Loya, 1976b). In both species, the most rapid growth occurred
+in small corals with ~40% breakage (Fig. 4; Loya, 1976b). These solitary corals
+behaved similarly to the colonial coral S. pistilluta (Loya, 1976b) in that they redirected
+growth toward damaged areas to regain lost symmetry. However, the regenerating
+solitary corals did not shown accelerated growth in comparison with intact controls
+(Fig. 4), as found in S. pistilZuta(Loya, 1976b).
+                        REGENERATION      IN A SOLITARY    CORAL                       231
+
+
+    The relatively long regeneration time of F. granulosa compared with S. pistillata
+reflects the generally slower growth rates of solitary and massive corals (linear extension
+rates = 4-20 mm * yr- ‘) versus branching species (100-200 mm * yr- ‘) (reviewed by
+Buddemeier & Kinzie, 1976). S. pistillata in an r-strategist in that it recruits and grows
+rapidly, but is a poor competitor (Loya, 1976~). In contrast, solitary fungiid corals grow
+(Abe, 1940; Buddemeier et al., 1974) and recruit (Schuhmacher, 1977) comparatively
+ slowly, but are superior in terms of competition for living space (Chadwick, 1988, and
+references therein).
+    The observed exponential decrease in relative growth rate with size in this solitary
+coral (Fig. 5) also has been documented for many colonial reef corals (Goreau &
+Goreau, 1960; review by Buddemeier & Kinzie, 1976; Hughes & Connell, 1987) and
+for an aposymbiotic cold-water coral (Fadlallah, 1983). Slower growth in large vs. small
+individuals of F. granulosa suggests diversion of energy into sexual reproduction rather
+than into somatic growth later in life, as discussed by Loya (1976c, 1985).
+    The expression of growth as mass gained per unit mass of coral (Figs. 4-7) does not
+reveal the absolute growth rate of each individual. However, these units are ecologically
+meaningful because they express the amount of calcification per unit of coral size. Units
+of relative or percent growth have been adopted in many studies on coral growth
+(Goreau & Goreau, 1960; Loya, 1976~; Fadlallah, 1983; Hughes & Connell, 1987).
+Buddemeier & Kinzie (1976), however, have argued cogently for the use of absolute
+growth units, which have been included here for comparison (see Results).
+   The orientation of the breakage site on F. granulosa polyps appeared to greatly affect
+skeletal regeneration. This phenomenon has not been reported to occur in broken
+colonial corals. This may be due to the nature of skeletal regeneration in solitary vs.
+colonial corals. Whereas a colonial coral regenerates by budding new polyps, a broken
+solitary coral regrows the lost parts of a singe polyp, and certain areas of the polyp may
+be physiologically unable to regenerate new skeleton. In F. granulosa, all skeletal
+regeneration commenced at the outer edges of the septa, or at the mouth area along the
+inner septal edges, and never along the septal sides (Figs 1,2,7). After new septa were
+produced, they deposited calcium carbonate along the sides of the original, damaged
+septa (Fig. 1). It may be that the lateral sides of the septa in scleractinian corals are
+incapable of active skeletal growth. This possibility needs to be investigated in other
+coral species.
+   Yamashiro et al. (1989) found that in the solitary coral Diaseris fragilis ( = Fungia
+/Cycloserik/fragilis in Hoeksema, 1989) growth occurred almost exclusively at the septal
+edges, in both intact and autotomized corals. Cessation ofgrowth at several points along
+the polyp margin led to the formation of slits in the polyp wall that facilitated fragmen-
+tation. In D. fragilis, all fragments retained part of the mouth area (= the inner septal
+edges), and regrowth began here and proceeded along the septal sides (Yamashiro et al.,
+ 1989). Thus, the morphology of regeneration appears to be very similar in both
+autotomized (Yamashiro et al., 1989) and experimentally (Fig. 1B) and naturally broken
+(Fig. 1F) solitary fungiids.
+.‘.i                               N. t.:. CHADWICK ANI) \. LOLA
+
+       The present   study is the first to experimentally      demonstrate     the importance      of the
+mouth area in coral regeneration. These results, together with those on natural regrowth
+(Y~~mashir{~ et al., 1989), support the idea that the mouth is a central #r~ni~i~g   arm
+for regeneration      and probably    for normal     development     in scleractinian    polyps.
+
+REGENERATION          IN NAT1JRAl.I.Y BROKEN C’OK.AIS
+
+   The ability to regenerate lost parts appears to he widespread         in fungiid corals.
+Mawaguti ( 1937) documented regrowth after experimental breakage in F. ~z~tj~~f~r~i.~.
+and the present paper in an additional species. In addition, all funyiids thus far studied
+can regenerate new polyps or colonies from the stalk left after the normal detachment
+of juveniles (Wells, 1966; Yamashiro & Yamazato,       1987; Hoeksema,    1989). Most
+members of the subgenus Fungia (Cy&seri@ ( = Baseris) appear to actively autotomize
+as a means of asexuai reproduction   (Hoeksema, 1989). In this subgenus, the abiIity to
+regenerate after fragmentation   has allowed the asexual maintenance    and spread of
+populations  on soft substrata, where larval propagules cannot survive (Nishihira &
+Poung-In,    1989).
+   The development    of radial slits in F. fragilis ( = Diaserisfragifis) allows polyps to
+cover the sides of the septa almost entirely with tissue prior to breakage (Y~ashir(~
+et al., 1989). This avoids the exposure of bare skeleton which may lead to skeletal
+erosion and tissue necrosis in experimentally        broken corals (Figs. 1,3,4). Thus, slit
+formation probably increases the survival rate of regenerating fragments, especially of
+small fragments that often die when artificially fractured (Fig. 3).
+   Broken and regenerated polyps often are found in field populations           of fungiids
+(Hoeksema, 1989). The flat, relatively thin disk shape and free-living existence of many
+fungiid corals makes them particularly vulnerable to skeletal breakage from human
+interference and storms. Their capacity for regeneration thus may be important to their
+survival in areas subject to frequent disturbances, or on soft substrates where fragmenta-
+tion is the only viable means        of population    growth (Nishihira      & Poung-In,      1989).
+
+
+                                      ACKNOWLEDGEMENTS
+
+   We thank the staff of the H. Steinitz Marine Biological Laboratory,    Eilat. Diving
+assistance was provided by K. Joe, B. Baumgratz, and T. Leiberman. Financial support
+was provided by a postdoctoral fellowship from the Interuniversity  Institute to N. E.
+Chadwick, and Tel Aviv University funds to Y. Loya.
+
+
+                                            REFERENCES
+
+Abe. N., 1940. Growth of Fungia aetint~~~ var. p~~an~ensis    Doderlein and its environmental conditions.
+  Pdao Trap. Biol. Stn. Stud.,Vol. 2, pp. 105-145.
+Bablet, J. P., 1985.Report on the growth of a scleractinia (Fungia puumotensis). Proc. F@J ht. Coral Reej’
+  Cm,qr. Ttrhiri. Vol. 4. pp. 361-366.
+                              REGENERATION         IN A SOLITARY CORAL                                     233
+
+Bak, R. P.M., J. J. W. M. Brouns & F. M. L. Heys, 1977. Regeneration and aspects of spatial competition in
+   the scleractinian corals Agaricia agarikites and Montastrea annulati. Proc. Thir&Znt. Coral Reef Symp.,
+   University of Florida, Miami, pp. 143-148.
+Bak, R. P. M. dc S. R. Criens. 1981. Survival after fragmentation of colonies of Madracti mirabilti, Acropora
+   palmata and A. cervicomis (Scleractinia) and the subsequent impact of a coral disease. Proc. Fourth Znt.
+   Coral Reef Symp. Manila, Vol. 2, pp. 221-227.
+Bak, R. P. M. & S. R. Criens, 1982. Experimental fusion in Atlantic Acropora (Scleractinia). Mar. Biol. Left.,
+   Vol. 3, pp. 67-72.
+Buddemeier, R. W. & R.A. Kinzie, 1976. Coral Growth. Oceanogr. Mar. Biol. Annu. Rev., Vol. 14,
+   pp. 183-225.
+Buddemeier, R. W., J. E. Maragos & D. W. Knutson, 1974. Radiographic studies of reef coral exoskeletons:
+   rates and patterns of coral growth. J. Exp. Mar. Biol. Ecol., Vol. 14, pp. 179-200.
+Chadwick, N. E., 1988. Competition and locomotion in a free-living fungiid coral. J. Exp. Mar. Bwi. t_,(I/.
+   Vol. 123, pp. 189-200.
+Dollar, S. J., 1982. Wave stress and coral community structure in Hawaii. Coral Reefs, Vol. 1, pp. 71-81.
+Fadlallah, Y.H., 1983. Population dynamics and life history of a solitary coral, Balanophyllia elegans, from
+   central California. Oecotogia (Berlin), Vol. 58, pp. 200-207.
+Gladfelter, W.B., 1982. White-band disease in Acroporapalmata: implications for the structure and growth
+   of shallow reefs. Bull. Mar. Sci., Vol. 32, pp. 639-643.
+Goreau, T. F. & N. I. Goreau, 1960. The physiology of skeleton formation in corals. III. Calcification rate
+   as a function of colony weight and total nitrogen content in the reef coral Manicina areolata (Linnaeus).
+   Biol. Bull. (Woods Hole, Mass.), Vol. 118, pp. 419-429.
+Grigg, R. W. & J. E. Maragos, 1974. Recolonization of hermatypic corals on submerged lava flows in Hawaii.
+   Ecology, Vol. 55, pp. 387-395.
+Highsmith, R.C., 1982. Reproduction by fragmentation in corals. Mar. Ecol. Prog. Ser., Vol. 7, pp. 207-226.
+Highsmith, R. C., R. L. Lueptow & S. C. Schonberg, 1983. Growth and bioerosion of three massive corals
+   on the Belize barrier reef. Mar. Ecol. Prog. Ser., Vol. 13, pp. 261-271.
+Highsmith, R. C., A. C. Riggs & C. M. D’Antonio, 1980. Survival ofhurricane-generated coral fragments and
+   a disturbance model of reef calcification/growth rates. Oecologia (Berlin), Vol. 46, pp. 322-329.
+Hoeksema, B.W., 1989. Taxonomy, phylogeny, and biogeography of mushroom corals (Scleractina:
+   Fungiidae). Zool. Verh., No. 254, pp. l-295.
+Hughes, T.P. & J.H. Connell, 1987. Population dynamics based on size or age? A reef-coral analysis.
+   Am. Nat., Vol. 129, pp. 818-829.
+Isa, Y., 1987. Scanning electron microscopy on the regenerating skeletal tip of a reef-building coral, Acropora
+   hebes (Dana). Galaxea, Vol. 6, pp. 153-162.
+Kawaguti, S., 1937.On the physiology ofreefcorals. III. Regeneration and phototropism in reefcorals. Palao
+    Trap. Biol. Stn. Stud., Vol. 2, pp. 209-216.
+Loya, Y., 1976a. Recolonization of Red Sea corals affected by natural catastrophes and man-made perturba-
+   tions. Ecology, Vol. 57, pp. 278-289.
+Loya, Y., 1976b. Skeletal regeneration in a Red Sea scleractinian coral population. Nature (London),
+   Vol. 261, pp. 490-491.
+Loya, Y., 1976~. The Red Sea coral Stylophora pistiltata is an r strategist. Nature (London), Vol. 259,
+   pp. 478-480.
+Loya, Y., 1985. Seasonal changes in growth rate of a Red Sea coral population. Proc. Fijh Znt. Coral Reef
+   Congr. Tahiti, Vol. 6, pp. 187-191.
+Loya, Y. & L. B. Slobodkin, 1971.The coral reefs of Eilat (Gulfof Eilat, Red Sea). Symp. Zool. Sot. London,
+   No. 28, pp. 117-139.
+Nishihira, M. & S. Poung-In, 1989. Distribution and population structure of a free-living coral, Diaseti
+  fragilis, at Khang Khao Island in the Gulf of Thailand. Galaxea, Vol. 8, pp. 271-282.
+Pearson, R.G., 1981. Recovery and recolonization of coral reefs. Mar. Ecol. Prog. Ser., Vol. 4, pp. 105-122.
+Rinkevich, B. & Y. Loya, 1989. Reproduction in regenerating colonies of the coral Stylophora pistiliata. In,
+   Environmental quality and ecosystem stability: Vol. IV-B, edited by E. Spanier et al., Hebrew University,
+   Jerusalem, Israel, pp. 257-265.
+Rogers, C. S., T.H. Suchanek & F.A. Pecora, 1982. Effects of hurricanes David and Frederic (1979) on
+   shallow Acropora palmata reef communities: St. Croix, U.S. Virgin Islands. Bull. Mar. Sci., Vol. 32,
+   pp. 532-548.
+Schuhmncher.     Il., iY77. Initial phases    m reef development,      studied at artlticial reef types ott‘ khl. iHcci
+  Sea). Help/.    wiss. Meere.wmm..      Vol. 30,    pp. 400-41 I.
+Sheppard. (‘. K. C, 198 I. The reef and soft-substrate         coral t’~ma of C’hagos. indlan 0ccal-i /. Vtrr. il~~i
+    \‘ol. 15.pp. flo7-621.
+Vcron. J. E N. & G. Hodgson. 1989. Annotated checklist of the hermatypic corals of the Philippines. I’ll
+    .Y<1.. Vol. 43. pp. 234-281
+\l’ells. J. IV.. 1966 Evolutionary      development     in the scleractiman       family Fungiidae. ,S17q>. ZOO/. ,VCJ(’
+    f_O,lo’O/I.Vol 16. pp. 223-246.
+M’oodley, J. D.. E.A. Chornesky,        P. A. Clifford, J.B.C. Jackson, I,. S. Kaufman, N. Knowlton. J. C. Lang,
+    M. P. Pearson, J. W. Porter. M. C. Rooney. K.W. Rylaarsdam,             V. J. Tunnicliffe, C. M. Wahle, J. L. Wulff,
+    A. S.G. Curtis, M.D. Dalhneyer, B.P. Jupp, M.A. R. Koehl, J. Neigel & E. M. Sides. 1981. Hurricane
+    .4Ilen’s impact on Jamaican coral reefs. Science, Vol. 214, pp. 749-755.
+Yamashiro,      II.. M. Hidaka, M. Nishihira C S. Poung-In,           1989. Morphological      studies on skeletons of
+    Diuseriir fiugdi\. ;I free-living coral which reproduces       asexually by natural autotomy. tiukuxea, Vol. X,
+    pp. 2X3-294
+Yamashiro.      H. & K. Yamazato,      1987. Note on the detachment         and post-detachment      development of the
+    polystomatous     coral Sanclolitha robusta (Scleractinia,    Cnidaria). Galuxea, Vol. 6, pp. 323-329.
+

@@ -1,0 +1,693 @@
+Received: 9 July 2018   | Accepted: 7 August 2018
+DOI: 10.1002/ece3.4531
+
+
+ORIGINAL RESEARCH
+
+
+
+The impact of autotrophic versus heterotrophic nutritional
+pathways on colony health and wound recovery in corals
+
+Elizabeth M. Burmester1,2,3                         | Adrienne Breef‐Pilz3 | Nicholas F. Lawrence3 |
+Les Kaufman2 | John R. Finnerty2 | Randi D. Rotjan2,3
+
+1
+Billion Oyster Project, New York, New York
+2
+                                                  Abstract
+ Department of Biology, Boston University,
+Boston, Massachusetts                             For animals that harbor photosynthetic symbionts within their tissues, such as corals,
+3
+ John H Prescott Marine                           the different relative contributions of autotrophy versus heterotrophy to organismal
+Laboratory, Anderson‐Cabot Center for
+                                                  energetic requirements have direct impacts on fitness. This is especially true for fac‐
+Ocean Life, New England Aquarium, Boston,
+Massachusetts                                     ultatively symbiotic corals, where the balance between host‐caught and symbiont‐
+                                                  produced energy can be altered substantially to meet the variable demands of a
+Correspondence
+Elizabeth M. Burmester and Randi D. Rotjan,       shifting environment. In this study, we utilized a temperate coral–algal system (the
+Department of Biology, Boston University,
+                                                  northern star coral, Astrangia poculata, and its photosynthetic endosymbiont,
+Boston, MA.
+Emails: lburmester@nyharbor.org and               Symbiodinium psygmophilum) to explore the impacts of nutritional sourcing on the
+rrotjan@bu.edu
+                                                  host’s health and ability to regenerate experimentally excised polyps. For fed and
+Funding information                               starved colonies, wound healing and total colony tissue cover were differentially im‐
+PADI Foundation; Cell Signaling
+                                                  pacted by heterotrophy versus autotrophy. There was an additive impact of positive
+Technologies; Boston University Marine
+Program Warren McLeod Fellowship;                 nutritional and symbiotic states on a coral’s ability to initiate healing, but a greater
+New England Aquarium; National Science
+                                                  influence of symbiont state on the recovery of lost tissue at the lesion site and com‐
+Foundation, Grant/Award Number: IOS-
+1354935                                           plete polyp regeneration. On the other hand, regardless of symbiont state, fed corals
+                                                  maintained a higher overall colony tissue cover, which also enabled more active host
+                                                  behavior (polyp extension) and endosymbiont behavior (photosynthetic ability of
+                                                  Symbiondinium). Overall, we determined that the impact of nutritional state and sym‐
+                                                  biotic state varied between biological functions, suggesting a diversity in energetic
+                                                  sourcing for each of these processes.
+
+                                                  KEYWORDS
+                                                  coral, nutrition, recovery, symbiosis
+
+
+
+
+1 | I NTRO D U C TI O N                                                          symbionts (Symbiodinium) can obtain energy through transfer of
+                                                                                 photosynthate from the endosymbiont or by predation on plankton
+The differential utilization of alternative energy sources can directly          (Grottoli, Rodrigues, & Palardy, 2006; Palardy et al., 2008). When
+influence an organism’s growth, reproduction, behavior, and sur‐                 obtaining energy via photosynthesis, the coral holobiont (host an‐
+vival (Heino & Kaitala, 2001). In organisms that can obtain carbon               imal plus symbionts) is functioning as an autotroph, and when ob‐
+flexibly from multiple pathways, energetic dynamics can be partic‐               taining its energy via predation, it is functioning as a heterotroph.
+ularly complex. For example, corals harboring photosynthetic algal               However, corals often obtain energy through multiple sources
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium,
+provided the original work is properly cited. © 2018 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.
+
+Ecology and Evolution. 2018;8:10805–10816.                                     ﻿ 
+                                                                                 www.ecolevol.org                                                   |   10805
+                                                                                                                                                   20457758, 2018, 22, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.4531 by Adrian Stier , Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+10806   |                                                                                                                     BURMESTER et al.
+
+
+simultaneously, and there may be interactions between autotrophy          in symbiont density caused by exposure to elevated temperatures;
+and heterotrophy. Additionally, as colonial organisms, energy must        Aichelman et al., 2016); (b) it increases nitrogen uptake and excre‐
+be translocated across individual polyps to maintain colony function      tion (Szmant‐Froelich & Pilson, 1984); (c) it increases calcification
+(Fine, Oren, & Loya, 2002; Oren, Rinkevich, & Loya, 1997). As such,       and growth (Jacques & Pilson, 1980; Jacques, Marshall, & Pilson,
+energy budgeting within coral colonies is complex, dynamic, and not       1983; Miller, 1995); and (d) it reduces damage from sedimentation
+yet well understood.                                                      (Peters & Pilson, 1985). Symbiotic state can impact the effects of
+   For tropical corals in well‐lit, shallow environments, host col‐       heterotrophy, although the presence of photosynthetic symbionts
+onies can meet or exceed their metabolic needs through transfer           does not preclude heterotrophy. For example, symbiotic colonies of
+of photosynthate from Symbiodinium spp. (Muscatine, 1990). It has         A. poculata can retain more carbon (14C) from heterotrophic sources
+been hypothesized that these corals prey on zooplankton mainly            than aposymbiotic colonies (Szmant‐Froelich, 1981), and there is
+to supplement the energy they receive from the endosymbiont               evidence for transfer of photosynthetic carbon to coral host tissue
+and to supply essential nutrients (such as phosphorus and nitro‐          (Schiller, 1993). Additionally, the endosymbiont in fed A. poculata
+gen; Johannes, Cole, & Kuenzel, 1970; Tanaka, Miyajima, Koike,            colonies fix carbon more efficiently (but translocate less 14C) than
+Hayashibara, & Ogawa, 2006) and that prolonged heterotrophic              their starved counterparts (Szmant‐Froelich, 1981). This suggests a
+compensation may be a stress response that increases resilience           potentially high degree of interconnectivity between energy strate‐
+under conditions unfavorable to autotrophy (Hughes & Grottoli,            gies (Piniak, 2002) as well as a complex dynamic between simultane‐
+2013; Levas et al., 2015). Additionally, heterotrophic feeding can        ous autotrophy and heterotrophy.
+enhance growth rate, protein, and chlorophyll concentrations, as             The northern star coral A. poculata has an expansive range
+well as calcification rates in daylight and in darkness (Ferrier‐Pagès,   along the east coast of North America, from Florida and the Gulf
+Witting, Tambutté, & Sebens, 2003; Houlbrèque, Tambutté, &                of Mexico to southern Massachusetts (Dimond & Carrington,
+Ferrier‐Pagès, 2003). However, the degree to which a colony can           2007; Dimond et al., 2013). In nature, these corals can exist in
+supplement lost photosynthetic resources appears to vary by spe‐          one of three basic symbiotic states with the endosymbiont,
+cies (Anthony & Fabricius, 2000; Grottoli et al., 2006), and studies      Symbiodinium psygmophilum (Lajeunesse, Parkinson, & Reimer,
+have suggested that the balance between energy sources might not          2012): Fully symbiotic corals appear brown; aposymbiotic corals
+be fixed (Piniak, 2002).                                                  harbor far fewer symbionts, and they appear white; symbiont den‐
+   In the temperate realm, a highly variable environment can lead         sity can also vary from polyp to polyp, producing a mottled, mixed
+to a wide variety of flexible feeding strategies, such as those em‐       colony comprising both white and brown polyps (Cummings,
+ployed by facultatively symbiotic corals like Astrangia poculata (=       1983). Unlike in tropical corals, in A. poculata, the aposymbiotic
+A. danae; Peters, Cairns, Pilson, & Wells, 1988, Figure 1), Oculina       state is not the result of stress (i.e., bleaching); white colonies of
+patagonica (Fine, Zibrowius, & Loya, 2001), and Oculina arbuscula         A. poculata are as “healthy” as brown colonies and can persist in‐
+(Leal et al., 2014). Heterotrophy has many effects on the metabolism      definitely in nature (Grace, 2004). The relatively low density of
+and physiology of these facultatively symbiotic temperate corals:         S. psygmophilum is actively maintained by the regular expulsion
+(a) It can mitigate thermally induced “bleaching” (a sharp reduction      of the symbiont (Dimond & Carrington, 2008). Regardless of
+
+
+
+ (a)                                 (b)
+
+
+
+
+                                                                                                    F I G U R E 1 (a) Symbiont states
+                                                                                                    in Astrangia poculata: With polyps
+                                                                                                    contracted, fully aposymbiotic colonies
+                                                                                                    appear white in color; fully symbiotic
+                                                                                                    colonies appear brown in color. (b) [a]
+                                                                                                    Aposymbiotic, [m] mottled, and [s]
+                                                                                                    symbiotic colonies of A. poculata occur
+                                                                                                    concurrently in the field. (c) Adjacent
+                                                                                                    polyps in a mottled colony demonstrate [a]
+                                                                                                    aposymbiotic and [s] symbiotic densities.
+                                     (c)
+                                                                                                    Photographs by E.M. Burmester
+                                                                                                                                              20457758, 2018, 22, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.4531 by Adrian Stier , Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BURMESTER et al.                                                                                                                   | 10807
+symbiont state, temperate colonies rely heavily on heterotrophy         mass −6.34 g (±0.25 SEM)). Overall, 28 paired symbiotic and apo‐
+(Farrant, Borowitzka, Hinde, & King, 1987; Szmant‐Froelich &            symbiotic colonies were included in each treatment group (result‐
+Pilson, 1984), with symbiont density only explaining an estimated       ing in a total of 224 corals). Specimens were housed on raised
+23% of growth in the field (Dimond & Carrington, 2007).                 plastic grids with paired colonies located in adjacent positions at
+   This study investigates the interaction of feeding and symbiotic     least 10 cm apart, to ensure consistent lighting and surrounding
+state on wound healing in Astrangia poculata. There is ample evi‐       flow for both symbiont types without risk of intercolonial ag‐
+dence to suggest that both lesion recovery and colony maintenance       gression. All colonies were acclimated to their nutritional treat‐
+(i.e., maintaining a healthy layer of tissue cover) are energetically   ment for three days prior to the start of the experiment so that
+costly activities that are often in conflict with each other and in     starved colonies began the trial period with minimum potential
+conflict with other critical physiological functions such as repro‐     benefit of stored nutrition from a previous feeding. During the
+duction, calcification, and growth (Anthony, Connolly, & Willis,        60‐day experiment, the starved group received no food while the
+2002; Richmond, 1987; Rinkevich, 1996; Rotjan and Lewis, 2009;          fed treatment continued to receive offerings of frozen copepod
+Ward, 1995). In addition, the process of lesion repair can require      slurry (50 g L−1 feeding−1). Colonies were carefully observed dur‐
+a high degree of colonial energy integration, which can vary by         ing these feedings to ensure that each polyp on each colony (a)
+wound and colony characteristics (Oren, Benayahu, Lubinevsky, &         was given a direct feeding opportunity and (b) demonstrated con‐
+Loya, 2001; Szmant‐Froelich, Yevich, & Pilson, 1980).                   traction due to food capture.
+   Because of its flexibility and tractability, A. poculata makes an
+ideal study organism for investigating the dynamics between en‐
+                                                                        2.3 | Experimental wounding
+ergy sourcing and organismal health. This study uses (a) small‐scale
+wound lesion and total colony tissue recovery, (b) foraging behavior,   Colonies were experimentally wounded after the 3‐day treat‐
+and (c) symbiont density and photosynthetic efficiency metrics to       ment acclimation period using a standardized wounding protocol
+assess colony health and stress response in the presence and ab‐        (Burmester, Finnerty, Kaufman, & Rotjan, 2017). A single polyp
+sence of both autotrophic and heterotrophic nutritional strategies in   and the surrounding connective tissue (coenenchyme) were re‐
+naturally occurring symbiotic and aposymbiotic A. poculata colonies.    moved from the center of the colony (to control for wound position)
+                                                                        using a scalpel before the wound site was cleaned with seawater
+                                                                        via Waterpik®. Mean wound size was 34.28 mm2 (±SEM 2.27) with
+2 | M ATE R I A L S A N D M E TH O DS                                   no statistical difference in wound size between groups (ANOVA,
+                                                                        F(3,108) = 0.9400, p = 0.4).
+
+2.1 | Collection and husbandry
+                                                                        2.4 | Assessing wound recovery
+Colonies of Astrangia poculata in both symbiotic or aposymbiotic
+states were collected between 6 and 10 m depths at Fort Wetherill       Colonies were photographed using a Leica M165FC stereomicro‐
+State Park in Jamestown RI (41 28′40″N, 71 21′34″W) in Summer           scope immediately after wounding and at nine subsequent time
+2014. Specimens were housed at the New England Aquarium                 points (5, 10, 15, 20, 25, 30, 40, 50, 60 days). The magnification
+and provided lighting in 10‐hr light cycles (14 hr dark) via T5 HO      and angle of the photograph were kept constant for each colony
+fluorescent lighting fixtures (Hamilton Technology, Gardena, CA,        across all photographs. These photographs were used to assess
+Aruba Sun T5‐V Series) as well as filtered, UV‐treated seawa‐           wound recovery using two metrics (Burmester et al., 2017). First,
+ter from the Boston Harbor. Light levels (PAR) and water quality        each colony was assigned to one of four recovery stages based
+(pH, nitrate, ammonia, alkalinity) were measured weekly to ensure       on a qualitative assessment of the wound site at 60 days post‐
+consistent water quality parameters. All experimental colonies          wounding: (a) “incomplete occlusion”—the wound remains open
+were acclimated at 18°C for at least two weeks before the start         or increases in surface area, with bare skeleton still exposed; (b)
+of experimentation. During this acclimation period, colonies were       “full occlusion”—undifferentiated tissue covers a portion or the
+given individualized, daily feedings of a frozen copepod slurry (50 g   entirety of the wound site; (c) “tentacle eruption”—tentacle nubs,
+copepod/l; JEHM Co., Inc.).                                             still incapable of contraction and prey capture, have formed; and
+                                                                        (d) “full recovery”—a fully functional polyp capable of feeding has
+                                                                        formed at the wound site. Second, we measured the final change
+2.2 | Experimental setup and nutrition manipulation
+                                                                        in wound surface area (between days 0 and 60). Wound surface
+Symbiotic and aposymbiotic colonies were paired by approxi‐             area was calculated three times from each photograph using Leica
+mate size (mass), and these pairs were subsequently sorted ran‐         M165FC software, and the resulting mean value was used as the
+domly into one of four treatment groups: (a) fed/wounded, (b)           representative wound surface area of that colony for each time
+fed/un‐wounded [control], (c) starved/wounded, (d) starved/un‐          point. Proportional final recovery (or tissue loss) was calculated
+wounded. No significant differences were found between groups           as the difference between the initial wound area (day 0) and final
+in colony mass (ANOVA, F(3,220) = 1.3864, p = 0.2478; average           wound area (day 60) divided by initial wound area.
+                                                                                                                                                      20457758, 2018, 22, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.4531 by Adrian Stier , Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+10808   |                                                                                                                        BURMESTER et al.
+
+
+                                                                          (Figure 2a,d), while a score of 6 indicated the full extension of all
+2.5 | Colony‐wide tissue surface area
+                                                                          polyps within a colony (Figure 2b,e). Scores between 0 and 6 speci‐
+Colonies were photographed against a size standard from 6 differ‐         fied intermediate states of increasing polyp extension (Figure 2b,e).
+ent angles (top, base, and four sides) at day 0 and day 60. Individual    A seven‐stage scale was used to enable visually apparent, quantita‐
+colonies were identified by attaching a honeybee tag (betterbee.          tive distinction between minor, moderate, and major polyp exten‐
+com) to the skeletal base using super glue, and the location of this      sion, which can be observed as a colony moves from inactive to
+tag was used to ensure consistent directionality to each of the col‐      active (Supporting Information Video S1). Polyp extension values
+ony’s 4 sides. The photographs were manually merged at the end            were recorded twice for both fed and starved corals. For fed cor‐
+of the experiment to generate a composite image of each colony at         als, polyp extension was measured before feeding and 30 min after
+day 0 and day 60. To do this, photographs were carefully reviewed         feeding, to distinguish between basal activity and post‐stimulus ac‐
+for regions of the colony that were photographed from multiple an‐        tivity. For starved corals, polyp extension was measured at the same
+gles, and only the photograph that best represented a given region        time points; however, no food was given to this treatment group.
+was retained in the merged images. For the base of the colony, only       Therefore, polyp extension values were recorded twice for both
+areas of live tissue growth (and not the entire surface area) were        treatment groups, but only the activity of fed colonies was observed
+included. The composite area of best represented regions across           in response to a feeding stimulus. Throughout the experiment, all
+all photographs was termed the “standard area” for a colony. Both         measurements were taken within the same two‐hour range (11:00 hr
+the standard area and area of living tissue within the standard area      and 13:00 hr) for each time point to avoid confounds inflicted by diel
+(“live area”) were determined using ImageJ (NIH). We calculated the       behavioral cycles.
+proportional live tissue cover (live/standard area) for each colony
+at day 0 and day 60 and the difference between the initial and final
+                                                                          2.7 | Quantification of chlorophyll density
+live tissue cover.
+                                                                          Polyp color was used as a proxy for chlorophyll density as previously de‐
+                                                                          scribed (Dimond & Carrington, 2007; Burmester et al., 2017). Colonies
+2.6 | Polyp activity
+                                                                          were photographed on day 0 and day 60 against red‐green‐blue (RGB)
+Once per week, polyp activity was scored using a seven‐stage scale        color standards. Photographs were analyzed using custom scripts
+(Figure 2): A score of 0 indicated that all polyps were retracted         (Supporting Information S11) on MATLAB R2007b (The MathWorks,
+
+
+
+
+                                                                                               (a)                              (d)
+
+
+
+
+                                                                                                                                (e)
+                                                                                               (b)
+
+
+
+
+                                                                                                                                (f)
+                                                                                               (c)
+
+
+
+
+F I G U R E 2 Polyp extension matrix for Astrangia poculata. Scores ranged from 0 to 6, with 0 indicating all polyps were fully contracted (a,
+d) and 6 indicating all polyps are fully extended (c, f). Scores between 1 and 5 represent an intermediate state of polyp extension (b) where
+different proportions of polyps within a colony are fully contracted (d), active but not fully extended (e), and fully extended (f)
+                                                                                                                                                        20457758, 2018, 22, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.4531 by Adrian Stier , Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BURMESTER et al.                                                                                                                            | 10809
+Natick, MA), whereby the average of five randomly chosen polyps in a        the proportion of colonies that achieved stage 4 at the end of the study,
+colony was used as the final measurement for each color (red, green,        i.e., regenerated fully functional polyps) were tested using Laplace‐ap‐
+and blue). RGB quantities were condensed to a single principle com‐         proximated logistic GLMMs. The proportional change in wound surface
+ponent (representing overall polyp color) via PCA using a correlation       area and total colony surface area were analyzed using restricted max‐
+matrix with oblimin rotation. Component loadings were 0.917 for red,        imum likelihood (REML)‐fitted linear GLMMs. In order to test for the
+0.721 for green, and 0.870 for blue at Day 0 and 0.898 for red, 0.774       impacts of the treatment‐dependent variables as well as independent
+for green, and 0.858 for blue at Day 60. Color PCA values were multi‐       variables such as lighting and morphological features of the colony and
+plied by −1 so that increasing color intensity would be associated with     the wound itself, we used a stepwise analysis using nutritional state,
+increasing PCA values, and the absolute value of the lowest value was       symbiont state, mean photosynthetically active radiation (PAR), initial
+added to all color measurements to normalize the data for comparison.       mass, and initial wound size as fixed‐effect variables for wound recov‐
+As prescribed by Dimond and Carrington (2007), transformed PCA val‐         ery models. For total colony surface area: Nutritional state, symbiont
+ues were converted into chlorophyll density proxies using the equation      state, initial mass, PAR, and wounding treatment were used as variables.
+y = 0.044x2 + 0.0335x(R2 = 0.89). Photographs for 60 corals on day 0           Chlorophyll density and polyp extension were analyzed using
+and 35 colonies on day 60 were not used in the analysis due to lighting     REML‐fitted linear GLMMs over time (week) with PAR, wounding
+inconsistencies between colonies and the RGB standards, reducing the        treatment, nutritional state, initial mass, and symbiotic state as ad‐
+sample size to 164 specimens at Day 0 and 189 specimens at Day 60.          ditional variables. In order to control for repeated measurements
+                                                                            made on the same individuals over time, colony identity was nested
+                                                                            within tank as a random effect. Photosynthetic efficiency was ini‐
+2.8 | Photosynthetic efficiency
+                                                                            tially tested similarly; however, since time bore no statistically sig‐
+Photosynthetic efficiency (Fv/Fm) was measured for three randomly           nificant effect, a mean maximum quantum yield was calculated over
+selected polyps in each colony in weeks 0, 2, 4, 6, and 8 using a           time for each individual colony. Mean photosynthetic efficiency was
+Walz Junior‐PAM pulse‐amplitude modulated fluorescence meter as             analyzed using a REML‐fitted linear GLMM using PAR, symbiont
+described in DeFilippo, Burmester, Kaufman, and Rotjan (2016) and           state, and nutritional state as fixed‐effect variables.
+Burmester et al. (2017). Briefly, after a thirty‐minute acclimation to
+darkness, minimal fluorescence (F0) was measured by exposing pol‐
+                                                                            3 | R E S U LT S
+yps to 6 s of far‐red illumination while dark adapted; subsequently,
+maximal fluorescence (Fm) was determined after exposing polyps to
+                                                                            3.1 | Assessing wound recovery
+a 0.6 s saturating pulse of 10,000 μmol m−2 s−1. Maximum quantum
+yield (Fv/Fm, unitless) represents the change between maximal and           Both nutritional state and symbiont state played a significant role on
+minimal fluorescence over the maximal fluorescence (Suggett et al.          healing initiation. After accounting for tank grouping using random
+(2010)). The resulting Fv/Fm values were averaged for each of the
+three polyps measured in a given colony at each time point to obtain
+a single representative value.
+
+
+
+2.9 | Statistical analysis
+All statistical analyses were performed using stepwise general‐
+ized linear and logistic mixed models (GLMMs) on the lme4 (Bates,
+Maechler, Bolker, & Walker, 2015) and nlme (Pinheiro, Bates,
+DebRoy, & Sarkar, 2017) packages in R (R Core Team, 2013). Model
+selection was based on Akaike’s information criterion (AIC) scores,
+where the decision to include a new fixed‐effect variable or accept
+one iteration of a model over another required a reduction in AIC
+of at least 2 (Burnham & Anderson, 2002). The simpler model was
+always chosen in the case of equal models (Burnham & Anderson,
+2002). Additionally, linear models were compared using maximum
+likelihood tests. For logistic models, odds ratios were calculated
+using exponentiated estimates. In order to control for the potential
+impacts of pseudo‐replication that could result from housing multi‐         F I G U R E 3 Proportion of colonies in landmark recovery stages
+                                                                            (full polyp, tentacle nubs, undifferentiated tissue, or no healing)
+ple colony pairs in the same tank, we used tank as a random effect in
+                                                                            after 60 days. Bars in all shades of gray collectively represent
+all statistical analyses.
+                                                                            healing initiation, while bars in dark gray represent developmental
+    Healing initiation (measured as the proportion of colonies in healing   healing success. Numbers in bars signify total number of colonies in
+stages 2–4 at the end of the study) and healing success (measured as        each stage
+                                                                                                                                                   20457758, 2018, 22, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.4531 by Adrian Stier , Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+10810   |                                                                                                                      BURMESTER et al.
+
+
+effects, symbiotic colonies (31 colonies or 55.3%) were 3.021 times
+more likely than aposymbiotic colonies (18 colonies or 32.1%) to
+reach any of the three landmark developmental stages (undiffer‐
+entiated tissue, tentacle nubs, or full polyps; Figure 3, Supporting
+Information Table S1). Likewise, nutritional state had a strong impact
+on healing success: Fed colonies (34 colonies or 60.7%) were 4.692
+times more successful than starved colonies (15 colonies or 26.8%;
+Figure 3). Both symbiont state and nutritional state (but not their in‐
+teraction, PAR, initial mass, and initial wound size) were significant
+predictors of healing initiation (AIC 141.1, symbiont state: p < 0.01,
+nutritional state: p < 0.001, Supporting Information Table S1). Only
+symbiont state significantly impacted healing success (the formation
+of fully functional tentacles) according to GLMM analysis (AIC 58.1,       F I G U R E 4 Mean proportional change in wound surface area
+p < 0.0001, Supporting Information Table S2). In order to adjust for       60 days after lesions were induced. Error bars signify standard
+the small sampling of aposymbiotic colonies with full polyp develop‐       error
+ment (1/56 colonies, Figure 3), a second GLMM was performed on
+only the subset of symbiotic colonies. However, this model did not         fed,   −0.2183 ± 0.0928)     and    starved,   symbiotic    colonies
+find nutritional state to be significant (AIC 43.7, p = 0.07, Supporting   (−0.1836 ± 0.0874; Figure 4). While no group demonstrated full re‐
+Information Table S3), which could potentially derive from a lack of       covery across all colonies, the greatest proportion (16/28 or 57.14%)
+statistical power. Accounting for the tank random effect, symbiotic        of colonies with wound closure was for the symbiotic, fed treatment
+(7/56) colonies were 8.013 times more likely than aposymbiotic colo‐       group. In the remaining groups, less than half of the wounded colo‐
+nies (1/56) to successfully complete the developmental recovery pro‐       nies exhibited live tissue recovery at the wound site: 9/28 (32.14%)
+cess (Figure 3).                                                           for aposymbiotic fed, 8/28 (28.57%) for symbiotic starved, and 4/28
+   Symbiont state, but not any other fixed effects (nutritional            (14.29%) for aposymbiotic starved corals.
+state, PAR, initial mass, and initial wound size or their interactions),
+was a significant predictor of proportional wound surface area re‐
+                                                                           3.2 | Colony‐wide tissue surface area
+covery (AIC 152.4, p < 0.01, Supporting Information Table S4). On
+average, only the symbiotic fed treatment group (mean ± SEM:               Overall, starved colonies (mean ± SEM, −0.1253 +/0.0126) experi‐
+0.079 ± 0.096 proportional units) exhibited wound recovery via a re‐       enced a greater (nearly double) decline in proportional colony sur‐
+duction in wound size (shown here as a proportional increase in live       face area than did fed colonies (mean ± SEM, −0.0728 ± 0.0138;
+tissue surface area; Figure 5). Wound size increased over time for         Figure 5). According to the most parsimonious model, there was no
+all aposymbiotic colonies (mean ± SEM: starved, −0.3416 ± 0.0748;          significant impact of wounding treatment, symbiotic state, initial
+
+
+
+
+F I G U R E 5 Mean proportional change in total colony tissue cover proportion after 60 days for control (C) and wounded (W) fed and
+starved colonies of different symbiont states (aposymbiotic, symbiotic). Error bars signify standard error
+                                                                                                                                                  20457758, 2018, 22, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.4531 by Adrian Stier , Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BURMESTER et al.                                                                                                                      | 10811
+
+
+
+
+F I G U R E 6 Mean polyp extension scores across a 60 day (8 weeks) period both before (pre‐) and after (post‐) a food stimulus had been
+supplied to the fed treatment group. Starved (symbiotic and aposymbiotic) colonies were provided no food stimulus
+
+
+
+
+FIGURE 7      Mean chlorophyll density as determined by RGB color values. Error bars represent standard error
+
+
+mass, or PAR; however, nutritional state did play a slight but sig‐      S6)and S7). In order to test for the impact of applying a food‐re‐
+nificant role in predicting changes in total colony surface area (AIC    lated stimulus, an additional REML‐fitted GLMM was performed on
+−354.9, p = 0.0283), Supporting Information Table S5). Additionally,     the subset of fed corals (pre‐ and post‐stimulus). This model found
+fed treatment groups experienced a higher proportion of colonies         both time and applied stimulus to be significant predictors of polyp
+with increased total colony live tissue surface area (8/44 or 18.18%     extension (AIC 5642.9, p < 0.05, Supporting Information Table S8),
+for symbiotic colonies; 7/43 or 16.28% for aposymbiotic colonies)        whereby polyp extension varied over time but was consistently
+than did starved colonies (3/51 or 5.88% for symbiotic colonies;         higher than pre‐stimulus colonies after food was supplied.
+5/52 or 9.61% for aposymbiotic colonies).
+
+                                                                         3.4 | Quantification of chlorophyll density
+3.3 | Polyp activity
+                                                                         Throughout the experiment, regardless of symbiotic state, there
+Fed colonies consistently exhibited higher polyp extension scores        was no significant difference between fed and starved colo‐
+than starved corals both before and after a stimulus was provided        nies in chlorophyll density (Figure 7). Symbiotic colonies had
+to fed colonies (Figure 6). For both pre‐ and post‐stimulus models,      greater approximated chlorophyll density (ACD) (mean ± SEM,
+wounding treatment, symbiotic state, PAR, and initial mass had no        0.837 ± 0.016 µg/cm) than aposymbiotic colonies (mean ± SEM,
+significant impact on polyp extension (Supporting Information Table      0.347 ± 0.013 µg/cm) at all time points and under all experimen‐
+S6: AIC 5874.1; Supporting Information Table S7, AIC 5611.4). The        tal conditions (Figure 7). The most parsimonious model selected
+best models for both stimulus regimes selected nutritional state,        three significant fixed effects (symbiotic state, time, and the inter‐
+time, and the interaction of time and nutritional state as significant   action of nutritional state and time) as well as one non‐significant
+predictive fixed effects (p < 0.05, Supporting Information Tables        predictor—nutritional state (AIC −239.93, p < 0.05, Supporting
+                                                                                                                                                    20457758, 2018, 22, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.4531 by Adrian Stier , Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+10812   |                                                                                                                      BURMESTER et al.
+
+
+                                                                           However, symbiont state alone was not enough to maximize healing
+                                                                           potential. Starved‐symbiotic and fed aposymbiotic healed compara‐
+                                                                           bly, while there was an additive negative feedback between starved
+                                                                           aposymbiotic corals (no nutrition from either source; little/no heal‐
+                                                                           ing), and an additive positive feedback between fed symbiotic corals
+                                                                           (nutrition from both sources; highest healing ability) (Figures 3 and
+                                                                           4).
+                                                                                 While nutritional state impacted healing initiation, it had no
+                                                                           statistical effect on healing success or surface area recovery,
+                                                                           presumably because there was some autotrophic compensation.
+                                                                           On the other hand, only nutritional treatment (and not symbiont
+                                                                           state) appeared to play a role in total colony tissue maintenance.
+                                                                           These findings suggest that energy might not be regulated or dis‐
+                                                                           tributed uniformly across levels of body organization, which is to
+F I G U R E 8 Mean maximum quantum yield (Fv/Fm) across a 60‐              be expected in a colonial organism that can translocate resources.
+day (8 weeks) period. Error bars signify standard error                    This is consistent with other studies, where branching growth
+                                                                           tips of Stylophora pistillata had significantly less 14 C products
+                                                                           than fragments from below branch tips (Rinkevich & Loya, 1983).
+Information Table S9). This analysis is congruous with a variation in      Additionally, both symbiotic state and lesion induction can alter
+ACD between the initial (Day 0) and final (Day 60) measurements            the quantity and directionality of carbon translocation across a
+and a consistent decline in ACD over time among fed corals. The            coral colony (Fine et al., 2002; Oren et al., 1997). In O. patagonica,
+strongest predictor (by estimate), however, was symbiotic state            preferential translocation to recovering tissue proceeded from a
+(Supporting Information Table S9).                                         distance of 4–5 cm, but this phenomenon does not occur in colo‐
+                                                                           nies that were fully or partially (30%–80%) bleached (Fine et al.,
+                                                                           2002). The pace and completion of wound recovery are subject
+3.5 | Photosynthetic efficiency
+                                                                           to the impacts of several intrinsic and extrinsic factors (such as
+Because time was not found to be a significant predictor of pho‐           colony size, wound size, wound location, temperature, disease
+tosynthetic efficiency, we analyzed maximum quantum yield                  state, sedimentation [as reviewed by Henry & Hart, 2005 and
+(Fv/Fm, unitless) averaged across all five time points. Symbiotic, fed     for example: Van Veghel & Bak, 1994, Meesters, Noordeloos, &
+colonies exhibited significantly greater photosynthetic efficiency         Bak, 1994, Meesters, Wesseling, & Bak 1996, Meesters, Pauchli,
+(mean ± SEM, 0.394 ± 0.011) than all other groups at all time points       & Bak, 1997, Nagelkerken & Bak, 1998, Nagelkerken, Meesters,
+(Figure 8). Mean maximum quantum yield was similar among starved,          & Bak, 1999, Kramarsky‐Winter & Loya, 2000, Rotjan & Lewis,
+symbiotic colonies (mean ± SEM, 0.394 ± 0.011) and aposymbiotic            2005, Edmunds, 2009, Denis et al., 2011, Cameron & Edmunds,
+colonies (mean ± SEM; fed: 0.382 ± 0.009, starved: 0.364 ± 0.007;          2014]), which also have the potential to interact with energy
+Figure 8). Consistent with these results, the model with best sup‐         sourcing and nutritional state. The type of damage inflicted may
+port found symbiont state (p < 0.0001) and the interaction between         also play a role in how energy is regulated or redirected to re‐
+symbiotic state and nutritional state (particularly among symbiotic        covery and other biological processes (DeFilippo et al., 2016).
+and not aposymbiotic colonies, p < 0.0001) to be the most signifi‐         Dislodged colonies of Pocillopora damicornis with edge damage
+cant predictors of photosynthetic efficiency (AIC 486.8, Supporting        experience a decrease in overall energy allocation, resulting in
+Information Table S10).                                                    higher mortality rates and decreased growth and reproduction
+                                                                           (Ward, 1995). Meanwhile, fragmentation bears no significant im‐
+                                                                           pact on growth and mortality, but results in higher overall energy
+4 | D I S CU S S I O N                                                     allocation and increased reproduction (Ward, 1995). Therefore, it
+                                                                           is likely that tissue maintenance and damage are regulated differ‐
+Our findings highlight some of the dynamic pathways through which          ently for small‐scale local wounds (e.g., the single polyp removal
+coral colonies might obtain, distribute, and utilize energetic resources   demonstrated in this study) and across a coral’s total colony tissue
+during the process of recovering from physical abrasion. This study        cover (e.g., DeFilippo et al., 2016), potentially due to underlying
+suggests that autotrophy plays an important role in wound recovery         compartmentalized nutritional gradients across an energetically
+and that there may be an important interplay and feedback (both            integrated colony (Conlan, Humphrey, Severati, & Francis, 2018).
+positive and negative) between autotrophy and heterotrophy. As             Interestingly, our results indicate that symbiont state is more
+previously found in A. poculata, symbiotic state had a significant role    important to the regulation of tissue surface area at the wound
+on healing initiation and success as well as proportional surface area     level while overall maintenance of total colony tissue cover is
+recovery to wounds (Burmester et al., 2017; DeFilippo et al., 2016).       more greatly impacted by the presence or absence of prey items.
+                                                                                                                                                      20457758, 2018, 22, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.4531 by Adrian Stier , Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BURMESTER et al.                                                                                                                          | 10813
+Therefore, there could be an added cost to lesion recovery during         behavior inducing a parasitic metabolic burden on the facultatively
+and after bleaching events that may not be fully supplemented             symbiotic anemone Aiptasia pulchella (Steen 1986; Baker, Freeman,
+via heterotrophy. This is consistent with tropical corals that rely       Wong, Fogel, & Knowlton, 2018). Previous studies have docu‐
+more heavily on autotrophy; for example, wounded Orbicella col‐           mented an enhancement to photosynthesis in temperate corals after
+onies recovered more slowly from bleaching compared to intact             feeding (Jacques & Pilson, 1980). Similarly, rates of photosynthe‐
+colonies (Rotjan et al., 2006). Additionally, this added cost may be      sis increased (2–10×) after the introduction of heterotrophic food
+compounded by the influence of other external disturbances to             sources to Stylopora pistilla (Houlbrèque et al., 2003). The decline
+wound recovery, such as ocean acidification (Edmunds & Yarid,             in photosynthetic efficiency for starved, symbiotic colonies could
+2017) or elevated sea surface temperatures (Bonesso, Leggat,              also potentially be attributed to their higher rates of polyp contrac‐
+& Ainsworth, 2017). Since recent evidence also suggests that              tion. A. poculata go through a winter quiescence phase, when pol‐
+physiological integration (i.e., high integration) may increase risk      yps enter a state of metabolic dormancy (Jacques et al., 1983) and
+of bleaching stress (Swain et al., 2018), understanding how cor‐          tentacles no longer elicit a tactile feeding response (Grace, 2017).
+als utilize, store, and distribute energy from multiple nutritional       Quiescence corresponds with wintertime food scarcity in New
+sources may prove invaluable to conservation efforts.                     England due to relatively oligotrophic waters compared to summer
+   Both the availability (stimulus) of prey items and the history of      nutrient conditions and corresponding plankton blooms (Grace,
+heterotrophic opportunity significantly influenced polyp foraging         2017). During quiescence, A. poculata colonies in New England ex‐
+behavior. Fed colonies maintained a higher degree of polyp expan‐         perience a decline in photosynthetic efficiency and in ACD (Dimond
+sion than unfed colonies at all time points, and the introduction         & Carrington, 2007). Although the cold wintertime temperatures
+of food particles induced even greater expansion. In tropical, ob‐        have assumed to be a driver of quiescence behavior, the polyp be‐
+ligate symbiotic scleractinians, symbiotic photosynthetic energy          havior and photosynthetic efficiency of starved corals in our exper‐
+resources have been shown to influence heterotrophic activity.            iment suggest that quiescence may instead have a nutritional cue,
+Colonies of Pocillopora damicornis maintained under dark conditions       since ambient temperatures (18°C) were maintained throughout the
+for 2 weeks ingested less Artemia nauplii than those in lighted con‐      experiment. Photoperiod and/or angle of incidence may also play a
+ditions, suggesting a dependence on energy from photosynthesis            role, as Fabricius and Klumpp (1995) found reduced photosynthetic
+to meet the metabolic needs required for sustainable foraging be‐         productivity and increased required levels of irradiance to achieve
+havior (Clayton & Lasker, 1982). In the present study, there was no       photosynthetic compensation and saturation in contracted large‐
+observed statistical difference in foraging activity between symbi‐       polyped soft corals. Though again, PAR was maintained throughout
+otic and aposymbiotic colonies. These results are similar to those        the 60 days of this experiment.
+found for other facultatively symbiotic corals. Piniak (2002) found          The dynamic relationship between Astrangia poculata and
+that prey capture efficiency varied by prey type and flow rate, but       Symbiodinium psygmophilum is well‐documented, with both symbi‐
+observed no difference between (fed) symbiotic and aposymbi‐              otic states characterized across its range (Dimond et al., 2013), and
+otic colonies of Oculina arbuscula. Coral colonies may also forage        the potential for state‐switching under experimental conditions
+advantageously regardless of photosynthetic activity, as even ob‐         (Dimond & Carrington, 2007). The aposymbiotic state is common
+ligate, tropical corals have been shown to seek heterotrophic nutri‐      in nature (Grace, 2004) despite relevant losses in recovery ability
+tion even if metabolic carbon requirements are met via autotrophy         (Burmester et al., 2017; DeFilippo et al., 2016) as well as resilience to
+(Ferrier‐Pagès, Allemand, Gattuso, & Jaubert, 1998; Grottoli et al,       stress (Holcomb, Cohen, & McCorkle, 2012; Holcomb, McCorkle, &
+2006). Additionally, the regular availability of heterotrophic food       Cohen, 2010). It has been hypothesized that the persistence of the
+sources increased foraging activity in fed colonies both with and         aposymbiotic life history may be due, in part, to the relative reduc‐
+without a food stimulus. Therefore, colonies with stable nutritional      tion in polyp loss under cold temperatures during winter quiescence
+inputs are better able to maintain a fuller, long‐term foraging effort,   (Dimond et al, 2013). Despite its thermal tolerance and resilience
+allowing them to not only respond to a food stimulus, but to also         to chronic cold exposure (Thornhill, Kemp, Bruns, Fitt, & Schmidt,
+survey their environment. This suggests a heterotrophic, rather           2008), S. psygmophilum experiences a rapid decline and cessation
+than autotrophic, mechanism for inducing appropriate behavior             in maximum quantum yield at winter temperatures. Combined with
+to meet metabolic demands in temperate, facultatively symbiotic           metabolic dormancy and a lack of feeding response, the demon‐
+corals.                                                                   strated decline in photosynthetic efficiency in the absence of het‐
+   In this study, while the photosynthetic efficiency (maximum            erotrophy in implied energetic cost of these symbionts to the host
+quantum yield) of fed symbiotic colonies was significantly higher         coral could explain the reduced polyp loss (and correspondingly
+than that of all aposymbiotic (fed and starved) colonies, there was no    higher biomass compared to symbiotic corals) of aposymbiotic colo‐
+difference between aposymbiotic colonies and starved‐symbiotic            nies under overwinter conditions.
+colonies. This phenomenon does not appear to derive from a loss              While feeding behavior was ensured among all polyps for each
+of chlorophyll, which suggests an energetic cost to symbiont pho‐         colony, this study did not specifically determine the quantity of
+tosynthesis that must be fulfilled via host heterotrophic means. In       food consumed nor the amount of carbon incorporated. Likewise,
+fact, zooxanthellae have been documented to exhibit heterotrophic         while we recorded light availability (PAR) and photosynthetic
+                                                                                                                                                               20457758, 2018, 22, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.4531 by Adrian Stier , Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+10814   |                                                                                                                              BURMESTER et al.
+
+
+efficiency (Fv/Fm), neither of these measurements provide accurate        REFERENCES
+insight into photosynthetic carbon production for this coral. As          Aichelman, H. E., Townsend, J. E., Courtney, T. A., Baumann, J. H., Davies,
+such, it would be difficult to infer how specific pathways might be           S. W., & Castillo, K. D. (2016). Heterotrophy mitigates the response
+impacted by differences in symbiont state and experimental feed‐              of the temperate coral Oculina arbuscula to temperature stress.
+ing treatments on the cellular level. Additionally, these results rep‐        Ecology & Evolution, https://doi.org/10.1002/ece3.2399
+                                                                          Anthony, K. R. N., Connolly, S. R., & Willis, B. L. (2002). Comparative
+resent the nutritional dynamics of a single, facultatively symbiotic
+                                                                              analysis of energy allocation to tissue and skeletal growth in cor‐
+species that may not be directly applicable to tropical coral spe‐            als. Limnology & Oceanography, 47(5), 1417–1429. https://doi.
+cies with higher dependencies on autotrophic pathways. However,               org/10.4319/lo.2002.47.5.1417
+the results of this study demonstrate significant and predictable         Anthony, K. R. N., & Fabricius, K. E. (2000). Shifting roles of heterotrophy
+                                                                              and autotrophy in coral energetics under varying turbidity. Journal
+morphological and stress‐tolerant responses that influence key life
+                                                                              of Experimental Marine Biology & Ecology, 252, 221–253. https://doi.
+history strategies in temperate corals and broadly highlight the im‐          org/10.1016/S0022-0981(00)00237-9
+portance in understanding the complexity of energy sourcing when          Baker, D. M., Freeman, C. J., Wong, J. C. Y., Fogel, M. L., & Knowlton, N. (2018).
+establishing energy budgets for maintaining organismal health.                Climate change promotes parasitism in a coral symbiosis. The ISME
+                                                                              Journal, 12, 921–930. https://doi.org/10.1038/s41396-018-0046-8
+                                                                          Bates, D., Maechler, M., Bolker, B., & Walker, S. (2015). Fitting linear
+AC K N OW L E D G M E N T S                                                   mixed‐effects models using lme4. Journal of Statistical Software, 67,
+                                                                              1–48.
+This work was funded by a grant from the PADI foundation and a            Bonesso, J. L., Leggat, W., & Ainsworth, T. D. (2017). Exposure to ele‐
+                                                                              vated sea‐surface temperatures below the bleaching threshold
+Boston University Marine Program Warren McLeod Fellowship
+                                                                              impairs coral recovery and regeneration following injury. PeerJ, 5,
+awarded to EMB, and a Cell Signaling Technologies grant to RDR,               e3719. https://doi.org/10.7717/peerj.3719.
+with additional support from the New England Aquarium. This               Burmester, E. M., Finnerty, J. R., Kaufman, L., & Rotjan, R. D. (2017).
+work was supported by National Science Foundation IOS‐1354935                 Temperature and symbiosis affect lesion recovery in experimentally
+                                                                              wounded, facultatively symbiotic temperate corals. Marine Ecology
+(https://www.nsf.gov/awardsearch/showAward?AWD_ID=135
+                                                                              Progress Series, 570, 87–99. https://doi.org/10.3354/meps12114
+4935&HistoricalAwards=false). We would like to thank Abigail              Burnham, K. P., & Anderson, D. R. (2002). Model selection and multimodel
+DeJohn, Carriel Cataldi, Lily Coughlin, Kiki Ballotti, Georgie Burruss,       inference: A practical information‐theoretic approach, 2nd ed. New
+Samantha Pelletier, Aaron Pilnick, and Ryan Schosberg for assis‐              York, NY: Springer.
+tance with data collection as well as Katey Lesneski, Karina Scavo        Cameron, C. M., & Edmunds, P. J. (2014). Effects of simulated fish preda‐
+                                                                              tion on small colonies of massive Porites spp. and Pocillopora mean‐
+Lord, Sam Herman, and Lukas DeFilippo for their help collecting re‐
+                                                                              drina. Marine Ecology Progress Series, 508, 139–148.
+search specimens. We are also grateful to Gregory Coote, Corbin           Clayton, W. S. Jr, & Lasker, H. R. (1982). Effects of light and dark treat‐
+Kuntze, Georgia Luddecke, Katrina Malakhoff, Jessie Matthews,                 ments on feeding by the reef coral Pocillopora damicornis (Linnaeus).
+and Matthew Tohl for their roles in the husbandry and maintenance             Journal of Experimental Marine Biology & Ecology, 63, 269–279. https://
+                                                                              doi.org/10.1016/0022-0981(82)90183-6
+of coral specimens. We also thank Jeff Chabot for programming
+                                                                          Conlan, J. A., Humphrey, C. A., Severati, A., & Francis, D. S. (2018).
+RGB color analysis in MATLAB. The authors extend appreciation to              Intra‐colonial diversity in the scleractinian coral, Acropora millepora:
+K. Sharp, R. Rotjan, S. Grace, and the annual Astrangia Workshop              Identifying the nutritional gradients underlying physiological inte‐
+hosted by Roger Williams University and Southern Connecticut                  gration and compartmentalised functioning. PeerJ, 6, e4239.
+                                                                          Cummings, C. (1983). The biology of Astrangia danae. PhD dissertation,
+State University for fostering creative conversations and collabora‐
+                                                                              University of Rhode Island, Kingston, RI.
+tions related to this work.                                               DeFilippo, L., Burmester, E. M., Kaufman, L., & Rotjan, R. D. (2016).
+                                                                              Patterns of surface lesion recovery in the northern star coral
+                                                                              Astrangia poculata. Journal of Experimental Marine Biology & Ecology,
+AU T H O R C O N T R I B U T I O N S                                          481, 15–24. https://doi.org/10.1016/j.jembe.2016.03.016
+                                                                          Denis, V., Debreuil, J., De Palmas, S., Richard, J., Guillaume, M. M. M.,
+EMB, RDR, JRF, and LK conceived the ideas and designed methodol‐              & Bruggemann, J. H. (2011). Lesion regeneration capacities in
+ogy. EMB, NFL, and ABP collected the data. EMB analyzed the data              populations of the massive coral Porites lutea at Réunion Island:
+and generated figures. All authors contributed critically to the drafts       Environmental correlates. Marine Ecology Progress Series, 428, 105–
+                                                                              117. https://doi.org/10.3354/meps09060
+and gave final approval for publication.
+                                                                          Dimond, J., & Carrington, E. (2007). Temporal variation in the symbio‐
+                                                                              sis and growth of the temperate scleractinian coral Astrangia poc‐
+                                                                              ulata. Marine Ecology Progress Series, 348, 161–172. https://doi.
+DATA ACC E S S I B I L I T Y
+                                                                              org/10.3354/meps07050
+Data are publicly available via the Dryad Digital Repository (https://    Dimond, J., & Carrington, E. (2008). Symbiosis regulation in a facul‐
+                                                                              tatively symbiotic temperate coral: Zooxanthellae division and
+doi.org/10.5061/dryad.tt7p900).
+                                                                              expulsion. Coral Reefs, 27, 601–604. https://doi.org/10.1007/
+                                                                              s00338-008-0363-x
+                                                                          Dimond, J., Kerwin, A. H., Rotjan, R., Sharp, K., Stewart, F. J., & Thornhill,
+ORCID                                                                         D. J. (2013). A simple temperature‐based model predicts the upper
+                                                                              latitudinal limit of the temperate coral Astrangia poculata. Coral Reefs,
+Elizabeth M. Burmester         http://orcid.org/0000-0002-3632-5638           32, 401–409. https://doi.org/10.1007/s00338-012-0983-z
+                                                                                                                                                                   20457758, 2018, 22, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.4531 by Adrian Stier , Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BURMESTER et al.                                                                                                                                      | 10815
+Edmunds, P. J. (2009). Effect of acclimatization to low temperature                   of temperature, light intensity and symbiosis with zooxanthellae on
+    and reduced light on the response of reef corals to elevated tem‐                 metabolic rate and calcification. Marine Biology, 76, 135–148. https://
+    perature. Marine Biology, 156, 1797–1808. https://doi.org/10.1007/                doi.org/10.1007/BF00392730
+    s00227-009-1213-2                                                             Jacques, T. G., & Pilson, M. E. Q. (1980). Experimental ecology of the
+Edmunds, P. J., & Yarid, A. (2017). The effects of ocean acidification on wound       temperature scleractinian coral Astrangia danae. 1. Partition of res‐
+    repair in the coral Porites spp. Journal of Experimental Marine Biology &         piration, photosynthesis and calcification between host and symbi‐
+    Ecology, 486, 98–104. https://doi.org/10.1016/j.jembe.2016.10.001                 onts. Marine Biology, 60, 167–178.
+Fabricius, K. E., & Klumpp, D. W. (1995). Widespread mixotrophy in reef‐          Johannes, R., Cole, S., & Kuenzel, N. (1970). The role of zooplankton in
+    inhabiting soft corals: The influence of depth, and colony expansion              the nutrition of some scleractinian corals. Limnology & Oceanography,
+    and contraction on photosynthesis. Marine Ecology Progress Series,                15, 579–586.
+    125, 195–204. https://doi.org/10.3354/meps125195                              Kramarsky‐Winter, E., & Loya, Y. (2000). Tissue regeneration in the coral
+Farrant, P. A., Borowitzka, M. A., Hinde, R., & King, R. J. (1987). Nutrition         Fungia granulosa: The effect of extrinsic and intrinsic factors. Marine
+    of the temperate Australian soft coral Capnella gaboensis. II. The role           Biology, 137, 867–873. https://doi.org/10.1007/s002270000416
+    of zooxanthellae and feeding. Marine Biology, 95, 575–581. https://           Lajeunesse, T. C., Parkinson, J. E., & Reimer, J. D. (2012). A genetics based
+    doi.org/10.1007/BF00393101                                                        description of Symbiodinium minutum sp. nov. and S. psygmophilum
+Ferrier‐Pagès, C., Allemand, D., Gattuso, J. P., & Jaubert, J. (1998).                sp. nov. (Dinophyceae), two dinoflagellates symbiotic with cnidaria.
+    Microheterotrophy in the zooxanthellate coral Stylophora pistillata:              Journal of Phycology, 48, 1380–1391.
+    Effects of light and ciliate density. Limnology & Oceanography, 43(7),        Leal, M. C., Ferrier‐Pagès, C., Calado, R., Brandes, J. A., Frischer, M. E., &
+    1639–1648.                                                                        Nejstgaard, J. C. (2014). Trophic ecology of the facultative symbiotic
+Ferrier‐Pagès, C., Witting, J., Tambutté, E., & Sebens, K. P. (2003). Effect          coral Oculina arbuscula. Marine Ecology Progress Series, 504, 171–179.
+    of natural zooplankton feeding on the tissue and skeletal growth of               https://doi.org/10.3354/meps10750
+    the scleractinian coral Stylophora pistillata. Coral Reefs, 22, 229–240.      Levas, S., Grottoli, A. G., Schoepf, V., Aschaffenburg, M., Baumann,
+    https://doi.org/10.1007/s00338-003-0312-7                                         J., Bauer, J. E., & Warner, M. E. (2015). Can heterotrophic up‐
+Fine, M., Oren, U., & Loya, Y. (2002). Bleaching effect on regeneration               take of dissolved organic carbon budget deficits in annually
+    and resource translocation in the coral Oculina patagonica. Marine                bleached corals? Coral Reefs, 35, 495–506. https://doi.org/10.1007/
+    Ecology Progress Series, 234, 119–125. https://doi.org/10.3354/                   s00338-016-1390-z.
+    meps234119                                                                    Meesters, E. H., Noordeloos, M., & Bak, R. P. M. (1994). Damage and
+Fine, M., Zibrowius, H., & Loya, Y. (2001). Oculina patagonica: A non‐                regeneration: Links to growth in the reef‐building coral Montastrea
+    lessepsian scleractinian coral invading the Mediterranean Sea.                    annularis. Marine Ecology Progress Series, 112, 119–128. https://doi.
+    Marine Biology, 138, 1195–1203.                                                   org/10.3354/meps112119
+Grace, S. (2017). Winter quiescence, growth rate, and the release from            Meesters, E. H., Pauchli, W., & Bak, R. P. M. (1997). Predicting regen‐
+    competition in the temperate scleractinian coral Astrangia poculata               eration of physical damage on a reef‐building coral by regeneration
+    (Ellis & Solander 1786). Winter Ecology: Insights from Biology and                capacity and lesion shape. Marine Ecology Progress Series, 146, 91–99.
+    History Northeastern Naturalist, 24, (Special Issue 7), B118–B134.                https://doi.org/10.3354/meps146091
+Grace, S. (2004). Ecomorphology of the temperate scleractinian Astrangia          Meesters, E. H., Wesseling, I., & Bak, R. P. M. (1996). Partial mortality
+    poculata: coral‐macroalgal interactions in Narragansett Bay. PhD dis‐             in three species of reef‐building corals (Scleractinia) and the relation
+    sertation, University of Rhode Island, Kingston, RI.                              with colony morphology. Bulletin of Marine Science, 58, 838–852.
+Grottoli, A. G., Rodrigues, L. J., & Palardy, J. E. (2006). Heterotrophic         Miller, M. W. (1995). Growth of a temperate coral: Effects of tempera‐
+    plasticity and resilience in bleached corals. Nature, 440, 1186–1189.             ture, light, depth, and heterotrophy. Marine Ecology Progress Series,
+    https://doi.org/10.1038/nature04565                                               122, 217–225. https://doi.org/10.3354/meps122217
+Heino, K., & Kaitala, V. (2001). Evolution of resource allocation be‐             Muscatine, L. (1990). The role of symbiotic algae in carbon and energy
+    tween growth and reproduction in animals with indetermi‐                          flux in reef corals. In Z. Dubinsky (Ed.), Ecosystems of the world, Vol.
+    nate growth. Journal of Evolutionary Biology, 12(3), https://doi.                 25. Coral reefs (pp. 75–87). Amsterdam, The Netherlands: Elsevier.
+    org/10.1046/j.1420-9101.1999.00044.x                                          Nagelkerken, I., & Bak, R. P. M. (1998). Differential regeneration of artifi‐
+Henry, L., & Hart, M. (2005). Regeneration from injury and resource                   cial lesions among sympatric morphs of the Caribbean corals Porites
+    allocation in sponges and corals—A review. International Review of                astreoides and Stephanocoenia michelinii. Marine Ecology Progress
+    Hydrobiology, 90, 125–158. https://doi.org/10.1002/iroh.200410759                 Series, 163, 279–283.
+Holcomb, M., Cohen, A., & McCorkle, D. (2012). An investigation of the            Nagelkerken, I., Meesters, E. H., & Bak, R. P. M. (1999). Depth‐related
+    calcification response of the scleractinian coral Astrangia poculata to           variation in regeneration of artificial lesions in the Caribbean cor‐
+    elevated pCO2 and the effects of nutrients, zooxanthellae and gen‐                als Porites astreoides and Stephanocoenia michelinii. Journal of
+    der. Biogeosciences, 9, 29–39.                                                    Experimental Marine Biology & Ecology, 234, 29–39. https://doi.
+Holcomb, M., McCorkle, D., & Cohen, A. L. (2010). Long‐term effects of                org/10.1016/S0022-0981(98)00147-6
+    nutrient and CO2 enrichment on the temperate coral Astrangia poc‐             Oren, U., Benayahu, Y., Lubinevsky, H., & Loya, Y. (2001). Colony integra‐
+    ulata. Journal of Experimental Marine Biology & Ecology, 386, 27–33.              tion during regeneration in the stony coral Favia favus. Ecology, 82(3),
+Houlbrèque, F., Tambutté, E., & Ferrier‐Pagès, C. (2003). Effect of zoo‐              802–813. https://doi.org/10.2307/2680199
+    plankton availability on the rates of photosynthesis, and tissue and          Oren, U., Rinkevich, B., & Loya, Y. (1997). Oriented intra‐colonial trans‐
+    skeletal growth in the scleractinian coral Stylophora pistillata. Journal         port of 14C labeled materials during coral regeneration. Marine
+    of Experimental Marine Biology & Ecology, 296, 145–166. https://doi.              Ecology Progress Series, 161, 117–121. https://doi.org/10.3354/
+    org/10.1016/S0022-0981(03)00259-4                                                 meps161117
+Hughes, A. D., & Grottoli, A. G. (2013). Heterotrophic compensation: A            Palardy, J. E., Rodrigues, L. J., Grottoli, A. (2008). The importance of zoo‐
+    possible mechanism for resilience of coral reefs to global warming                plankton to the daily metabolic carbon requirements of healthy and
+    or a sign of prolonged stress? PLoS ONE, 8(11), e81172. https://doi.              bleached corals at two depths. Journal of Experimental Marine Biology
+    org/10.1371/journal.pone.0081172.                                                 and Ecology, 367(2), 180-188.
+Jacques, T. G., Marshall, N., & Pilson, M. E. Q. (1983). Experimental ecol‐       Peters, E. C., Cairns, S. D., Pilson, M. E. Q., & Wells, J. W. (1988).
+    ogy of the temperate scleractinian coral Astrangia danae. 2. Effect               Nomenclature and biology of Astrangia poculata (= A. danae, = A.
+                                                                                                                                                                 20457758, 2018, 22, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.4531 by Adrian Stier , Wiley Online Library on [08/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+10816    |                                                                                                                                 BURMESTER et al.
+
+
+    astreiformis) (Cnidaria: Anthozoa). Proceedings of the Biological Society       Szmant‐Froelich, A. (1981). Coral nutrition: Comparison of the fate of 14C
+    of Washington, 101, 234–250.                                                       from ingested labeled brine shrimp and from the uptake of NaH14CO2
+Peters, E. C., & Pilson, M. E. Q. (1985). A comparative study of the ef‐               by its zooxanthellae. Journal of Experimental Marine Biology & Ecology,
+    fects of sedimentation on symbiotic and aposymbiotic colonies of                   55, 133–144.
+    the coral Astrangia danae (Milne Edwards and Haime 1849). Journal               Szmant‐Froelich, A., & Pilson, M. E. Q. (1984). Effects of feeding fre‐
+    of Experimental Marine Biology & Ecology, 92, 215–230.                             quency and symbiosis with zooxanthellae on nitrogen metabolism
+Pinheiro, J., Bates, D., DebRoy, S., Sarkar, D., & R Core Team (2017).                 and respiration of the coral Astrangia danae. Marine Biology, 81, 153–
+    nlme: linear and nonlinear mixed effects models. R package version                 162. https://doi.org/10.1007/BF00393114
+    3.1‐130. Retrieved from https://CRAN.R-project.org/package=nlme                 Szmant‐Froelich, A., Yevich, P., & Pilson, M. E. Q. (1980). Gametogenesis
+Piniak, G. A. (2002). Effects of symbiotic status, flow speed, and prey                and early development of the temperate coral Astrangia danae
+    type on prey capture by the facultatively symbiotic temperate                      (Anthozoa: Scleractinia). The Biological Bulletin, 158, 257–269.
+    coral Oculina arbuscula. Marine Biology, 141, 449–455. https://doi.             Tanaka, Y., Miyajima, T., Koike, I., Hayashibara, T., & Ogawa, H. (2006).
+    org/10.1007/s00227-002-0825-6                                                      Translocation and conservation of organic nitrogen within the
+R Core Team (2013). R: A language and environment for statistical comput‐              coral‐zooxanthella symbiotic system of Acropora pulchra as demon‐
+    ing. Vienna, Austria: R Foundation for Statistical Computing.                      strated by dual isotope‐labeling techniques. Journal of Experimental
+Richmond, R. H. (1987). Energetic relationships and biogeographical dif‐               Marine Biology & Ecology, 336, 110–119. https://doi.org/10.1016/j.
+    ferences among fecundity, growth, and reproduction in the reef coral               jembe.2006.04.011
+    Pocillopora damicornis. Bulletin of Marine Science, 41(2), 594–604.             Thornhill, D. J., Kemp, D. W., Bruns, B. U., Fitt, W. K., & Schmidt, G. W.
+Rinkevich, B. (1996). Do reproduction and regeneration in damaged cor‐                 (2008). Correspondence between cold tolerance and temperate bio‐
+    als compete for energy allocation? Marine Ecology Progress Series,                 geography in a western Atlantic Symbiodinium (Dinophyta) lineage.
+    143, 297–302. https://doi.org/10.3354/meps143297                                   Journal of Phycology, 44, 1126–1135.
+Rinkevich, B., & Loya, Y. (1983). Short‐term fate of photosynthetic products        Van Veghel, M. L. J., & Bak, R. P. M. (1994). Reproductive characteristics
+    in a hermatypic coral. Journal of Experimental Marine Biology & Ecology,           of the polymorphic Caribbean reef building coral Montastrea annu‐
+    73, 175–184. https://doi.org/10.1016/0022-0981(83)90082-5                          laris. III. Reproduction in damaged and regenerating colonies. Marine
+Rotjan, R. D., Dimond, J. L., Thornhill, D., Leichter, J., Helmuth, B., Kemp,          Ecology Progress Series, 109, 229–233.
+    D., & Lewis, S. M. (2006). Chronic parrotfish grazing impedes coral             Ward, S. (1995). The effect of damage on the growth, reproduction,
+    recovery after bleaching. Coral Reefs, 25, 361–368. https://doi.                   and storage of lipids in the scleractinian coral Pocillopora damicor‐
+    org/10.1007/s00338-006-0120-y                                                      nis (Linnaeus). Journal of Experimental Marine Biology & Ecology, 187,
+Rotjan, R. D., & Lewis, S. M. (2005). Selective predation by parrotfishes              193–206. https://doi.org/10.1016/0022-0981(94)00180-L
+    on the reef coral Porites astreoides. Marine Ecology Progress Series,
+    305, 193–201. https://doi.org/10.3354/meps305193
+Rotjan, R.D., & Lewis, S.M. (2009). Predators selectively graze reproduc‐           S U P P O R T I N G I N FO R M AT I O N
+    tive structures in a clonal marine organism. Marine Biology, 156(4),
+    569-577.                                                                        Additional supporting information may be found online in the
+Schiller, C. (1993). Ecology of the symbiotic coral Cladocora caespi‐               Supporting Information section at the end of the article.  
+    tosa (L.) (Faviidae, Scleractinia) in the Bay of Piran (Adriatic Sea).
+    II. Energy budget. Marine Ecology, 14, 221–238. https://doi.
+    org/10.1111/j.1439-0485.1993.tb00481.x
+                                                                                       How to cite this article: Burmester EM, Breef‐Pilz A,
+Suggett, D. J., Borowitzka, M. A., & Prášil, O. (Eds.) (2010). Chlorophyll a flu‐
+    orescence in aquatic sciences: methods and applications. Developments              Lawrence NF, Kaufman L, Finnerty JR, Rotjan RD. The impact
+    in applied phycology, Vol 4. New York, NY: Springer Science+ Business              of autotrophic versus heterotrophic nutritional pathways on
+    Media.                                                                             colony health and wound recovery in corals. Ecol Evol.
+Swain, T. D., Bold, E. C., Osborn, P. C., Baird, A. H., Westneat, M. W.,
+                                                                                       2018;8:10805–10816. https://doi.org/10.1002/ece3.4531
+    Backman, V., & Marcelino, L. A. (2018). Physiological integration of
+    coral colonies is correlated with bleaching resistance. Marine Ecology
+    Progress Series, 586, 1–10. https://doi.org/10.3354/meps12445
+

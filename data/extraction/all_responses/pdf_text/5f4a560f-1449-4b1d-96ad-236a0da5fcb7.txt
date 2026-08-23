@@ -1,0 +1,609 @@
+Coral Reefs (2014) 33:819–829
+DOI 10.1007/s00338-014-1150-5
+
+ REPORT
+
+
+
+High CO2 detrimentally affects tissue regeneration of Red Sea
+corals
+Rael Horwitz • Maoz Fine
+
+
+
+
+Received: 22 August 2013 / Accepted: 2 April 2014 / Published online: 3 May 2014
+! Springer-Verlag Berlin Heidelberg 2014
+
+
+Abstract Ocean acidification (OA) from rising atmo-                   also experienced a decrease in Symbiodinium density in
+spheric carbon dioxide (CO2) is threatening the future of             higher pCO2, while in A. eurystoma there was no change.
+coral reef ecosystems. Mounting experimental evidence                 We hypothesize that a lowered regenerative capacity under
+suggests that OA negatively impacts fundamental life                  elevated pCO2 may be related to resource trade-offs,
+functions of scleractinian corals, including growth and               energy cost of acid/base regulation, and/or decrease in total
+sexual reproduction. Although regeneration is regarded as a           energy budget. This is the first study to demonstrate that
+chief life function in scleractinian corals and essential to          elevated pCO2 could have a compounding influence on
+maintain the colony’s integrity, the effect of OA on                  coral regeneration following injury, potentially affecting
+regeneration processes has not yet been investigated. To              the capacity of reef corals to recover following physical
+evaluate the effects of OA on regeneration, the common                disturbance.
+Indo-Pacific corals Porites sp., Favia favus, Acropora eu-
+rystoma, and Stylophora pistillata were inflicted with                Keywords High CO2 ! Ocean acidification !
+lesions (314–350 mm2, depending on species) and incu-                 Regeneration ! Global change ! Red Sea
+bated in different pCO2: (1) ambient seawater (400 latm,
+pH 8.1), (2) intermediate (1,800 latm, pH 7.6), and (3)
+high (4,000 latm, pH 7.3) for extended periods of time                Introduction
+(60–120 d). While all coral species after 60 d had signifi-
+cantly higher tissue regeneration in ambient conditions as            Increasing carbon dioxide (CO2) emissions drive ongoing
+compared to the intermediate and high treatments, reduc-              ocean acidification (OA) and place reef-building corals in a
+tion in regeneration rate was more pronounced in the slow-            vulnerable state (Hoegh-Guldberg 2012). Atmospheric CO2
+growing massive Porites sp. and F. favus than the rela-               levels have risen at an accelerating rate during the industrial
+tively fast-growing, branching S. pistillata and A. eurys-            era, approximately 100 times faster than over the past
+toma. This coincided with reduced tissue biomass of                   650,000 years, as a direct consequence of burning of fossil
+Porites sp., F. favus, and A. eurystoma in higher pCO2, but           fuels and deforestation (Royal Society 2005). CO2 absorbed
+not in S. pistillata. Porites sp., F. favus, and S. pistillata        by the oceans is changing seawater carbonate chemistry by
+                                                                      making the oceans more acidic, thereby driving a shift
+                                                                      toward lower carbonate ion concentration ([CO32-]), ara-
+Communicated by Biology Editor Dr. Mark Vermeij                       gonite saturation state (Xarag), and pH (Kleypas et al. 1999;
+                                                                      Zeebe and Wolf-Gladrow 2001). Atmospheric CO2 has
+R. Horwitz (&) ! M. Fine
+The Mina and Everard Goodman Faculty of Life Sciences,                recently reached 400 ppm, the highest level in recorded
+Bar-Ilan University, 52900 Ramat Gan, Israel                          history (Monastersky 2013). Predictions warn of a decrease
+e-mail: Horwitzrael@gmail.com                                         of 0.3–0.5 pH units in oceanic surface water by the end of
+                                                                      this century (IPCC 2007).
+R. Horwitz ! M. Fine
+The Interuniversity Institute for Marine Sciences, 88000 Eilat,          Scleractinian corals, the framework builders of coral
+Israel                                                                reefs, are extremely sensitive to small changes in their
+
+
+                                                                                                                          123
+820                                                                                                  Coral Reefs (2014) 33:819–829
+
+
+immediate environment. Such changes may result in                   reduction in regeneration rates has been observed in habi-
+excursions from their optimal environmental conditions              tats with high sedimentation levels due to shading of the
+(Kleypas and Hoegh-Guldberg 2008). The coral’s engi-                endosymbionts and the high cost of sediment rejection
+neering role is particularly susceptible to global climate          (Meesters et al. 1992). Fisher et al. (2007) observed slower
+change (Madin et al. 2012). Mounting experimental evi-              regeneration in deep-water corals compared to shallow
+dence indicates that reductions in surface-ocean pH and             water corals, most likely explained by less radiant energy
+carbonate saturation state could have major effects on              and subsequent low carbon reserves. In another study, there
+scleractinian corals (Hoegh-Guldberg et al. 2007; Kroeker           was surprisingly rapid regeneration of experimentally
+et al. 2010; Anthony et al. 2011; Erez et al. 2011). Key life       injured corals on reefs after a major oil spill (Guzman et al.
+functions in corals such as growth and reproduction can be          1994). Anthropogenic pollution leading to nutrient
+affected by high pCO2/low pH (Kleypas and Langdon                   enrichment and eutrophication substantially increases
+2006; Albright and Langdon 2011), but until now, the                growth of marine algae and seaweeds, which settle within
+effects on the ability of corals to recover from damage             lesions and hinder tissue regeneration and recovery (Ra-
+(regeneration) have not yet been investigated.                      mati 1994; Titlyanov and Titlyanova 2008). Greater
+   Damage or partial mortality in scleractinian corals              understanding of how this important process is influenced
+originates from both natural causes such as predation,              under high CO2 would provide fresh insights into the
+competition, disease, and physical disturbances, as well as         resilience of reef-building corals in a high CO2 world.
+human activities including fishing, diving, boating, mining,           Here, we tested how regeneration changed in high pCO2/
+and coastal development (reviewed by Grigg and Dollar               low pH conditions. We chose to use pCO2 which are far-
+1990). Regeneration is a life-preserving process in scle-           future predicted values (Barry et al. 2010) in order to amplify
+ractinian corals and essential in preserving the integrity of       potential physiological and biochemical response thresholds
+the colony (Henry and Hart 2005). Lesion recovery                   of injured corals (Pörtner 2008). These are based on the
+depends on accelerated growth rates (D’Angelo et al.                ‘‘Logistic’’ emission scenarios for the year 2300 under
+2012), a process requiring both energy and tissue reserves          anticipated global use of fossil fuel resources (Caldeira and
+(Oren et al. 1997, 2001; Fine et al. 2002). For most coral          Wickett 2005). Since previous studies on scleractinian corals
+species, the rapidity of this process is vital, since fast lesion   showed that the capacity for regeneration is species-specific
+healing restores the functional use of polyps (photosyn-            and depends on morphology and life history strategy (Me-
+thesis, defense, reproduction, feeding, and storage; Hughes         esters et al. 1996; Hall 1997; Henry and Hart 2005), we chose
+and Jackson 1985; Sebens 1987; D’Angelo et al. 2012) and            to perform this study on several species representative of
+minimizes the risk of invasion by competitors, pathogens,           contrasting life histories. This study is the first to present
+and bioeroders (Jackson and Palumbi 1979; Hughes and                experimental data on the regenerative abilities of slow-
+Jackson 1985; Titlyanov et al. 2005; Titlyanov and Tit-             growing versus fast-growing species from the Red Sea under
+lyanova 2008). As a general rule, regeneration is believed          various pCO2/pH conditions.
+to have the highest priority among life functions since
+natural selection should favor regenerative processes above
+other requirements (Karlson 1988). This has been demon-             Materials and methods
+strated by several studies on corals reporting resource
+trade-offs, with injury causing a reduction in fecundity            Experimental setup
+(Rinkevich and Loya 1989; Van Veghel and Bak 1994;
+Rinkevich 1996) and growth (Meesters et al. 1994; but see           The study was carried out in an outdoor seawater flow-
+Denis et al. 2013).                                                 through system at the Interuniversity Institute (IUI) for
+   Indeed, many studies show how regenerative capacity of           Marine Sciences in Eilat (Gulf of Aqaba, Red Sea;
+scleractinian corals is affected by the prevailing biotic and       29"300 N, 34"550 E). Seawater was pumped from 30-m depth
+abiotic conditions (i.e., local environment; Lester and Bak         and continuously transferred into three 1,000-L mixing
+1985; Fisher et al. 2007; Denis et al. 2011). Seasonal              tanks. pH was regulated using a pH controller (AquaMedic,
+changes in regeneration capacity associated with different          Germany), connected to pH electrodes located in each
+temperature and radiation regimes have been reported in             mixing tank, and calibrated using NBS scale. Seawater pH
+several studies (Kramarsky-Winter and Loya 2000; Fisher             was manipulated by bubbling pure CO2 to attain the
+et al. 2007; Denis et al. 2011). Exposure to abnormally             desired pH. Four common Indo-Pacific coral species were
+high water temperatures, however, and subsequent                    examined: the massive slow-growing corals Porites lutea
+bleaching due to expulsion of algal endosymbionts may               [visual inspection of the corals suggested they were P.
+reduce or completely prevent regeneration (Meesters and             lutea, but due to the difficulties in species ID within the
+Bak 1993; Meesters et al. 1997a; Fine et al. 2002). Similar         genus Porites (Forsman 2003), we refer to the samples
+
+
+123
+Coral Reefs (2014) 33:819–829                                                                                                             821
+
+
+
+
+Fig. 1 Lesion recovery of representative Stylophora pistillata frag-     when compared to 1,800 latm (intermediate) and 4,000 latm (high).
+ments after 0, 30, and 60 d under three pCO2 treatments (400, 1,800,     After 60 d, there was complete tissue recovery in 400 latm (control),
+and 4,000 latm). Thirty days from onset of the experiment, similar       whereas fragments in the intermediate and high treatments showed
+size lesions in 400 latm (control) demonstrated a higher recovery rate   only partial recovery
+
+
+hereon as Porites sp.] and Favia favus, as well as the                   all colonies/fragments, the air-pick was held at a distance
+branching fast-growing species, Stylophora pistillata and                of 3 cm away from the fragment/colony and air pressure
+Acropora eurystoma. Colonies were collected in December                  was kept constant. A template made of PVC was used to
+2010 from the reef in front of the IUI at 10 m depth.                    obtain a lesion of a specific area and protect the sur-
+Stylophora pistillata and A. eurystoma colonies were                     rounding healthy tissue from damage. All the coral species
+fragmented. Surface area estimations of the colonies/frag-               were inflicted with a lesion area of 5–6 % of the total
+ments were performed using geometric measurements                        colony/fragment surface area. Porites sp. and F. favus
+given the noninvasive and highly accurate nature of this                 colonies were inflicted with circular lesions with a surface
+technique (Naumann et al. 2009). Colonies (surface area,                 area of 314 mm2 (SE = 9; diameter = 20 mm) on top of
+mean ± SEM = 58.2 ± 0.9 cm2) or fragments (surface                       the colony. Stylophora pistillata and A. eurystoma frag-
+area, mean ± SEM = 65.1 ± 1.3 cm2) of each species                       ments were inflicted with wedge-shaped lesions with a
+were transferred into aquaria (six 20-L aquariums X six                  surface area of 350 mm2 (SE = 14) at the base (center) of
+replicates by species/by condition) and supplied with run-               the branch (Fig. 1). All tissues were removed from the
+ning seawater (0.5 l min-1) at three different pCO2 levels:              injured areas leaving the underlying skeleton of the colony
+(1) 400 latm (control, pH 8.1), (2) 1,800 latm (interme-                 intact and without damage. In this way, we ensured that
+diate, pH 7.6), and (3) 4,000 latm (high, pH 7.3).                       lesion repair in our study did not involve calcification
+   After a 1-month acclimation period in the above-men-                  mechanisms.
+tioned pCO2 treatments, tissue lesions were inflicted using                 Corals were maintained in their respective pCO2 treatment
+a regulator air-pick. To standardize the injury procedure for            under ambient seawater temperature (ranging 21.6–24.3 "C as
+
+
+                                                                                                                                  123
+822                                                                                                           Coral Reefs (2014) 33:819–829
+
+
+Table 1 Carbonate chemistry of seawater in the three pCO2 treatments (400, 1,800, and 4,000 latm) calculated from pHNBS, total alkalinity
+(TA), ambient seawater temperature, and salinity (41 ppm) using the program CO2SYS (Pierrot et al. 2006)
+pHNBS          TA (leq kg-1)       pCO2 (latm)        DIC                 HC0-
+                                                                             3                 CO32-             CO2(aq)        Xarag
+                                                      (lmol kg-1)         (lmol kg-1)          (lmol kg-1)       (lmol kg-1)
+
+8.18 (0.04)    2,501.6 (20.12)      404.5 (3.42)      2,122.6 (18.14)     1,846.4 (15.96)      265.5 (2.07)      10.6 (0.09)    4.02 (0.03)
+7.62 (0.03)    2,499.3 (23.36)     1,788.3 (16.97)    2,430.7 (23.07)     2,296.8 (21.8)        82.3 (0.78)      51.6 (0.48)    1.23 (0.01)
+7.31 (0.04)    2,501.3 (32.34)     3,811.9 (49.67)      2,550 (33.23)     2,397.9 (31.25)       42.1 (0.54)      110 (1.43)     0.63
+All data shown are the mean (±SD). Dissolved inorganic carbon (DIC); aragonite saturation state (Xarag)
+
+
+measured in the aquaria during the experimental period;                 treatment), processed, and analyzed: Porites sp. and F.
+comparable to long-term SST for that time of the year in the            favus after 120 d; A. eurystoma after 100 d; S. pistillata
+Gulf of Aqaba). Ambient light intensity was reduced by 50 %             after 60 d. Coral tissue was removed carefully using an
+with the use of plastic netting (1-mm mesh). The light con-             airbrush containing 0.2 lm filtered sea water (FSW). An
+ditions were the same for all treatments ranging                        electric homogenizer (DIAX 100 homogenizer Heidolph
+350–500 lmol quanta m-2 s-1 at midday during the exper-                 Instruments GmbH & Co., KG, Schwabach, Germany) was
+imental period. Corals were fed once a week with Artemia                used to homogenize the tissue extract for 30 s, followed by
+salina nauplii (400,000 per aquarium) for the entire duration           100 ll of the homogenate removed for total protein ana-
+of the experiment.                                                      lysis. Separation of coral tissue and Symbiodinium for cell
+    Monitoring software (AquaMedic, Germany) in the pH                  density and chlorophyll concentration analysis were done
+system showed that daily pH variability was low (±0.05 pH               by the following. The remaining homogenate was centri-
+units) throughout the experiment. Temperature and pHNBS in              fuged for 5 min at 5,000 rpm (rcf 2,500 m s-2; centrifuge
+the aquaria were measured daily (CyberScan pH 11; Eutech                4K15 Sigma Laborzentrifugen GmbH, Osterode, Germany)
+Instruments Pte Ltd., Singapore). Total alkalinity (TA) in the          followed by removing the supernatant. The pellet was
+aquaria and mixing tanks was measured regularly using a                 resuspended in 1 ml FSW, homogenized, and centrifuged
+Metrohm 862 compact titrosampler (Cohen 2011). pCO2,                    for 5 min at 5,000 rpm (rcf 2,500 m s-2). The procedure
+dissolved inorganic carbon (DIC), HC0-            2-
+                                          3 , CO3 , CO2(aq),            was repeated twice more in order to remove remaining
+and Xarag were calculated from the pHNBS and TA mea-                    tissue. Symbiodinium were then resuspended in 1 ml FSW
+surements using the program CO2SYS (Pierrot et al. 2006),               for cell counts on a haemocytometer. The cells were
+selecting the constants of Mehrbach et al. (1973). Experi-              counted visually using a microscope (YS100, Nikon,
+mental seawater parameters are shown in Table 1.                        Japan) and multiplied by 10,000 in order to get total cells
+                                                                        present in each sample. Total number of Symbiodinium
+Tissue regeneration                                                     cells was normalized per surface area. Chlorophyll a was
+                                                                        extracted from Symbiodinium in 1 ml acetone (90 %) at
+For tissue regeneration measurements, photographs were                  4 "C for 15 h. Concentrations of chlorophyll a were cal-
+taken at various time intervals during the experiment by digital        culated using spectrophotometry (Ultrospec 2100 pro, GE
+camera at a fixed distance using a scale (CoolPix 8400, Nikon,          Bioscience, USA) and the standard equations (Jeffrey and
+Japan) and analyzed with CPCe 4.0 (NCRI, USA) image                     Humphrey 1975). Chlorophyll concentration was calcu-
+analysis software (Kohler and Gill 2006). Recovery of injuries          lated per Symbiodinium cell. Total protein was quantified
+was then quantified and expressed as percentage of injury               using the Quick Start Bradford Protein Assay Kit and
+regenerated (as per Meesters et al. 1992). Mean values are              Quick Start Bovine Serum Albumin Standard Set (Bio-Rad
+presented ± SE of the mean (SEM) for percentage tissue                  Laboratories, Hercules, CA, USA). Optical density was
+regeneration from day 1 to day 60 for all the species (n = 6;           read at 595 nm using an ELISA reader (PowerWave XS,
+Fig. 2) and the end of the experimental period (n = 6). The             BioTek, USA). Total protein to surface area ratio was
+length of the experiment differed between species because of            determined to examine changes in coral biomass.
+differences in recovery length (Porites sp. and F. favus, 120 d;
+A. eurystoma, 100 d; S. pistillata, 60 d).                              Statistical analyses
+
+Total protein, Symbiodinium density, and chlorophyll                    The effect of pCO2 on tissue regeneration (n = 6) was
+concentration                                                           analyzed separately for each species, using a one-way ana-
+                                                                        lysis of variance (ANOVA). A multiple comparisons test
+At the end of the experimental period, a set of colonies/               (Tukey’s) was used to distinguish groups that differed sig-
+fragments was sampled (n = 4 per species from each pCO2                 nificantly. The effect of pCO2 on total protein, Symbiodinium
+
+
+123
+Coral Reefs (2014) 33:819–829                                                                                                          823
+
+
+                                                           a                                                         b
+
+
+
+
+                                                       c                                                         d
+
+
+
+
+Fig. 2 Percentage tissue regeneration of lesions after 60 d under      pistillata (mean ± SEM; n = 6). Letters indicate significant differ-
+three pCO2 treatments (400, 1,800, and 4,000 latm) in: a Porites sp.   ences in percentage tissue regeneration between different pCO2
+(mean ± SEM; n = 6), b Favia favus (mean ± SEM; n = 6),                treatments (Tukey, p \ 0.05)
+c Acropora eurystoma (mean ± SEM; n = 6), and d Stylophora
+
+
+density, and chlorophyll concentration (n = 4 for each                 compared to the control, respectively (F2,15 = 15.7,
+parameter) was analyzed separately for each species, using             p \ 0.001; Fig. 2a). After 120 d, tissue regeneration in the
+the Kruskal–Wallis test. Post hoc Mann–Whitney U tests                 same colonies was 42 and 54 % lower in the intermediate
+were run for separation of significant factors. Differences            and high treatments compared to the control, respectively
+between factors were considered significant for a p value              (F2,15 = 28.81, p \ 0.001). No significant difference was
+\ 0.05. Unless otherwise specified, mean values are pre-               found between the intermediate and high treatments at both
+sented ± SEM. SPSS version 20 (SPSS IBM, New York,                     time points (after 60 and 120 d). For F. favus colonies,
+USA) was used to perform the statistical analysis.                     there was a significant difference in tissue regeneration
+                                                                       between all pCO2 treatments after 60 d as determined by
+                                                                       one-way ANOVA and post hoc comparison test
+Results                                                                (F2,15 = 28.38, p \ 0.001), with a decrease of 15 and 30 %
+                                                                       in the intermediate and high treatments, respectively
+During the experimental period, there was no mortality of              (Fig. 2b). Similar results in the same colonies were found
+colonies/fragments. Growth of turf algae within lesion                 after 120 d with a significant decrease in tissue regenera-
+areas was recorded. Similar to other studies, we observed              tion in the intermediate and high treatments of 30 and
+the regenerating coral tissue quickly overgrowing the algal            52 %, respectively (F2,15 = 32.88, p \ 0.001). Acropora
+settlement (Meesters and Bak 1993; Titlyanov et al. 2005).             eurystoma fragments in the intermediate and high treat-
+                                                                       ments experienced a 22 and 39 % decline in tissue regen-
+Tissue regeneration                                                    eration after 60 d, respectively, compared to the control
+                                                                       (F2,15 = 29.42, p \ 0.001; Fig. 2c). After 100 d, tissue
+Tissue regeneration of Porites sp. colonies after 60 d in the          regeneration in the same fragments was 42 and 47 % lower
+intermediate and high treatments was 20 and 29 % lower                 in the intermediate and high treatments, respectively
+
+
+                                                                                                                               123
+824                                                                                                          Coral Reefs (2014) 33:819–829
+
+
+
+                                                         a                                                           b
+
+
+
+
+                                                     c                                                             d
+
+
+
+
+Fig. 3 Total protein content (mg cm-2) under three pCO2 treatments    (mean ± SEM; n = 4), and d Stylophora pistillata (mean ± SEM;
+(400, 1,800, and 4,000 latm) in: a Porites sp. (mean ± SEM; n = 4),   n = 4). Letters indicate significant differences in total protein content
+b Favia favus (mean ± SEM; n = 4), c Acropora eurystoma               between different pCO2 treatments (Mann–Whitney, p \ 0.05)
+
+
+(F2,15 = 41.4, p \ 0.001). There was no significant dif-              intermediate and high treatments, total protein concentration
+ference between the intermediate and high treatments at               of A. eurystoma declined significantly (0.54 ± 0.05 and
+both time points (after 60 and 100 d). One-way ANOVA                  0.52 ± 0.08 mg cm-2, respectively) as compared to the
+revealed a significant difference in tissue regeneration              control (0.76 ± 0.04 mg cm-2) (Kruskal–Wallis ANOVA,
+between all pCO2 treatments for S. pistillata fragments               Mann–Whitney, df = 2, p \ 0.05) (Fig. 3c). There were no
+after 60 d (F2,15 = 23.54, p \ 0.001), with a 16 and 39 %             significant differences in total protein concentration of S.
+decrease in the intermediate and high treatments, respec-             pistillata between all pCO2 treatments (Fig. 3d).
+tively, compared to the control (Fig. 2d).                               Exposure to the intermediate treatment had a significant
+                                                                      effect on Symbiodinium density of Porites sp. (0.25 ± 0.03
+Total protein, Symbiodinium density, and chlorophyll                  cells 9 106 cm-2), resulting in a 51 % decrease compared
+concentration                                                         to the control (0.51 ± 0.09 cells 9 106 cm-2) (Kruskal–
+                                                                      Wallis ANOVA, Mann–Whitney, df = 2, p \ 0.05;
+Total protein concentration of Porites sp. was significantly          Fig. 4a). Although the density was lower in the high
+higher in the control treatment (1.45 ± 0.21 mg cm-2) than            treatment (0.32 ± 0.05 cells 9 106 cm-2) for this species,
+in the high treatment (0.77 ± 0.11 mg cm-2) (Kruskal–                 this decrease was not significant. There was a significant
+Wallis ANOVA, Mann–Whitney, df = 2, p \ 0.05; Fig. 3a);               decrease in Symbiodinium density in F. favus of 44 and
+however, no significant change was found in the intermediate          70 % in the intermediate (0.43 ± 0.1 cells 9 106 cm-2)
+treatment (1.01 ± 0.08 mg cm-2). For F. favus, there was a            and high (0.23 cells 9 106 cm-2) treatments as compared
+significant difference in total protein concentration only            to the control (0.77 ± 0.04 cells 9 106 cm-2), respec-
+between the control (1.04 ± 0.13 mg cm-2) and intermediate            tively (Kruskal–Wallis ANOVA, Mann–Whitney, df = 2,
+treatment (0.63 ± 0.03 mg cm-2) (Kruskal–Wallis ANOVA,                p \ 0.05; Fig. 4b). In contrast, Symbiodinium density in A.
+Mann–Whitney, df = 2, p \ 0.05; Fig. 3b). In both the                 eurystoma from all pCO2 treatments did not differ
+
+
+
+123
+Coral Reefs (2014) 33:819–829                                                                                                    825
+
+
+
+
+                                                     a                                                    b
+
+
+
+
+                                                 c                                                    d
+
+
+
+
+Fig. 4 Symbiodinium density (cells 9 106 cm-2) and chlorophyll       n = 4), and d Stylophora pistillata (mean ± SEM; n = 4). Letters
+concentration (pg cell-1) under three pCO2 treatments (400, 1,800,   indicate significant differences in Symbiodinium density between
+and 4,000 latm) in: a Porites sp. (mean ± SEM; n = 4), b Favia       different pCO2 treatments (Mann–Whitney, p \ 0.05)
+favus (mean ± SEM; n = 4), c Acropora eurystoma (mean ± SEM;
+
+
+significantly (Fig. 4c). ANOVA followed by post hoc                  is regarded as a highly prioritized and life-preserving
+comparison test revealed a significant difference in Sym-            process which often derives energy and cells following
+biodinium densities of S. pistillata between all pCO2                injury at the expense of other vital biological traits (Me-
+treatments (Kruskal–Wallis ANOVA, Mann–Whitney,                      esters et al. 1997a). In this study, we have shown that: (1)
+df = 2, p \ 0.05; Fig. 4d), with a decrease of 38 and                regeneration capacity of corals is reduced in high pCO2/
+62 % from control (0.61 ± 0.1 cells 9 106 cm-2) to                   low pH conditions, (2) rate of repair is species-specific and
+intermediate (0.38 ± 0.02 cells 9 106 cm-2) and high                 may reflect species-specific energetic management effi-
+(0.23 ± 0.02 cells 9 106 cm-2) treatments, respectively.             ciency or resilience to high pCO2, and (3) corals are able to
+   Chlorophyll concentration in Symbiodinium of S. pistillata        maintain regeneration even at very high pCO2/low pH
+was significantly higher in the control (2.28 ± 0.11 pg Chl          conditions, although this may be at the expense of other
+cell-1) and intermediate treatment (2.5 ± 0.17 pg Chl cell-1)        biological processes.
+as compared to the high treatment (1.65 ± 0.17 pg Chl cell-1)           All coral species exhibited significantly higher tissue
+(Kruskal–Wallis ANOVA, Mann–Whitney, df = 2, p \ 0.05;               regeneration capacity in ambient pCO2 seawater when
+Fig. 4d), whereas there were no significant differences detected     compared to high pCO2/low pH treatments (Figs. 1, 2). We
+in Symbiodinium chlorophyll concentrations of Porites sp., F.        proclaim that high pCO2/low pH conditions exposed the
+favus, and A. eurystoma.                                             studied coral species to unfavorable conditions thereby
+                                                                     impairing regeneration performance. Generally, the regen-
+                                                                     eration of injuries within colonies of the same species is not
+Discussion                                                           uniform and depends on many extrinsic factors (Henry and
+                                                                     Hart 2005). Corals may regenerate more rapidly during
+The present study investigated the effect of increased pCO2          seasonally high water temperatures (Kramarsky-Winter and
+on the regeneration of four reef coral species. Regeneration         Loya 2000) but have reduced regeneration beyond their
+
+
+                                                                                                                          123
+826                                                                                                 Coral Reefs (2014) 33:819–829
+
+
+thermal threshold (Meesters and Bak 1993) and subsequent         presumably being utilized for other processes under ele-
+bleaching. Regeneration of experimentally wounded corals         vated pCO2. Additionally, the colonization of lesions by
+may sometimes cease completely following bleaching               algae and other fouling organisms may divert some of the
+(Meesters and Bak 1993; Meesters et al. 1997a; Fine et al.       resources available for regeneration toward competition,
+2002). Food availability may restrict regenerative capacity      resulting in slower regeneration rates (Hall 1998).
+for corals in deep water due to reduced energy reserves as           The observed slower regeneration in increased pCO2
+light levels decrease (Nagelkerken et al. 1999; Fisher et al.    may also reflect more investment in maintenance (i.e., acid/
+2007). Habitats with high sedimentation levels may also          base regulation). Animals in high pCO2/low pH conditions
+slow down regeneration rates by increasing coral energy          are required to compensate for acid–base imbalance in
+requirements from the costs of removing sediment and             intra- and extracellular spaces (Fabry et al. 2008). Stress-
+decrease energy availability as a result of shading the pho-     based impairment at the cellular level in high pCO2/low pH
+tosynthetic endosymbionts (Meesters et al. 1992). Interest-      conditions may trigger acute survival responses in the
+ingly, Guzman et al. (1994) observed faster regeneration of      corals that re-direct resources into colony maintenance and
+several injured coral species at sites polluted by a major oil   cell pH homeostasis. There is a range of cellular events that
+spill than at unaffected locations, possibly at the expense of   occur under acidosis, including metabolic depression and
+other life history processes including growth and reproduc-      acid–base regulation via costly changes in cell membrane
+tion. Thus, an extensive number of studies describe an           transporters (Pörtner et al. 2000; Kaniewska et al. 2012). A
+intricate relationship between environmental conditions and      recent study by Venn et al. (2013) investigated changes in
+coral regeneration performance with both positive and neg-       pH at the tissue-skeleton interface and calcification of S.
+ative effects (Henry and Hart 2005). Our results show that       pistillata after exposure to increasing pCO2 levels. Except
+exposure to high pCO2 is negatively correlated with regen-       for the lowest pH treatment (pH 7.2) in the previously
+eration capacity in the examined coral species. Unfavorable      mentioned study, their results showed that the intracellular
+conditions surrounding the colony expose the coral to stress     pH of calicoblastic cells and extracellular pH in the fluid at
+and may influence the amount of resources available for          the tissue–skeleton interface (subcalicoblastic medium)
+regeneration (Meesters et al. 1997b; Cróquer et al. 2002;       was regulated and maintained at a steady state under
+Fine et al. 2002).                                               increased pCO2 conditions, suggesting increased energy
+    Evidently, the underlying processes associated with the      investment in homeostasis. Likewise, injured corals in our
+slower regeneration of injuries under high pCO2/low pH           study may avert energy and resources away from regen-
+are complex and may be related to resource trade-offs,           eration toward cell pH homeostasis and elevated mainte-
+energy cost of acid/base regulation, and/or decrease in total    nance costs.
+energy budget. Although it was not within the scope of our           Performance of an organism under both ‘‘normal’’ and
+study to elucidate the mechanisms behind the reduced             ‘‘stressful’’ conditions is primarily determined by the ener-
+regeneration, we discuss potential aspects which may             getic status of the individual (Lesser 2013). Slower regen-
+explain our results. Apparent trade-offs between major life      eration when faced with ‘‘stressful’’ conditions, therefore,
+history processes and regeneration is a well-studied area in     suggests a lowered energetic state of the coral. The energetic
+corals (Henry and Hart 2005). Injuries may invoke a              budget of the coral holobiont relies in a large part on auto-
+decline in reproduction (Rinkevich and Loya 1989; Hall           trophic carbon acquisition of symbiont photosynthesis
+1998) and growth (Meesters et al. 1994) on a colony-wide         (Muscatine 1990). Tremblay et al. (2013) observed a
+scale in some species, although this is not always the case.     decrease in total autotrophic carbon acquisition of S. pistil-
+Occasionally, trade-offs in favor of regeneration are avoi-      lata nubbins under high pCO2/low pH conditions resulting
+ded, and other biological processes such as growth (Denis        from a severe decline of 48 % in the symbiont population.
+et al. 2013) are enhanced. Regeneration of very large            Gross photosynthesis supplied 22 % less carbon to nubbins
+wounds may halt in favor of growth and reproduction if the       maintained under pH 7.2 (79 ± 1 lg C cm-2 d-1) com-
+fitness of the individual is threatened by resource limitation   pared to those maintained under pH 8.1 (101 ± 6 lg
+(Meesters et al. 1997a). In this study, there was a decline in   C cm-2 d-1). As in the study by Tremblay et al. (2013) and
+regeneration capacity under intermediate and high pCO2           other studies subjecting corals to long-term acidification
+for all four species. OA is generally considered to reduce       (Anthony et al. 2008; Krief et al. 2010; Kaniewska et al.
+the growth rates of corals (Anthony et al. 2011), their          2012), our results showed Porites sp., F. favus, and S. pi-
+reproductive output, and early life history processes (Al-       stillata experienced a decrease of 37, 70, and 62 %,
+bright et al. 2010; Albright and Langdon 2011). While we         respectively, in Symbiodinium density in the high treatment
+did not measure reproductive output or growth rates of the       (Fig. 4a, b, d) at the end of the experimental period for
+species included, our results infer that resources available     each species (Porites sp., 120 d; F. favus, 120 d; S. pistillata,
+for regeneration of corals in ambient seawater are               60 d). For A. eurystoma, however, the symbiont concentration
+
+
+123
+Coral Reefs (2014) 33:819–829                                                                                                 827
+
+
+in the intermediate and high treatments remained essentially      recover faster than massive species (Jackson 1979; Hall
+unaltered (after 100 d; Fig. 4c). If the overall energetic        1997). This pattern was conserved in the corals in the
+budget of the coral holobiont under high pCO2 is gradually        intermediate and high treatments (Fig. 2), presumably
+diminished with declining total autotrophic carbon acquisi-       representing contrasting life strategies in response to
+tion, the energy and resources available for regeneration         damage under stressful conditions. The recovery rate of S.
+from injury may be limited. The performance of the holo-          pistillata from injury was the fastest among all the species
+biont under stress conditions may be attributed to the phys-      included in the study. This species was especially robust to
+iology of different Symbiodinium genotypes (DeSalvo et al.        the intermediate and high treatments, with up to 58 %
+2010), which may respond differently in various coral hosts       recovery after 60 d in the high treatment (Fig. 2d). The
+(Abrego et al. 2008). Coral species collected from shallow        impact of tissue injury will depend partly on the depth of
+water depth (up to 6 m) at our study site harbored various        the tissue as some coral species are fleshier than others
+Symbiodinium clades (Karako-Lampert et al. 2004), with S.         (Veron 2000). A study by Hall (1998), which observed
+pistillata hosting clade A, as opposed to Acropora sp. and F.     slower regeneration of tissue injuries for massive species
+favus harboring clade C. While these differences in Symbi-        than for branching species, was explained in part by greater
+odinium genotype may imply different life strategies (Ka-         tissue depth in the massive species. S. pistillata and A.
+rako-Lampert et al. 2004), it does not necessarily explain        eurystoma are characterized as ‘‘skinny’’ (i.e., thin tissue)
+patterns of regeneration under stress-related high pCO2. In       species with high surface to volume ratio (S/V) ratio, while
+the study by Tremblay et al. (2013), in addition to significant   F. favus is a ‘‘fleshy’’ (i.e., thick tissue) species that forms
+loss of Symbiodinium, the host was unable to maintain its         massive colonies thus having a low S/V ratio (Veron 2000;
+biomass with total protein content decreasing in colonies         Loya et al. 2001). Porites spp. are also known to have thick
+maintained at high pCO2/low pH. Our study shows similar           tissue with an average tissue depth of 5 mm (Barnes and
+results at the end of the experiment with a decrease in total     Lough 1992; Veron 2000). Hence, greater tissue depth may
+protein content in Porites sp., F. favus, and A. eurystoma        be related to the slow rate of repair we found in the massive
+under the intermediate and high treatments (Fig. 3a–c). S.        Porites sp. and F. favus in our study (Fig. 2a, b). F. favus
+pistillata, which was the fastest to regenerate in the study,     was the slowest to regenerate, with only 18 % average
+experienced a reduction in Symbiodinium density but               recovery of lesion areas after 60 d in the high treatment
+maintained a constant protein content (tissue biomass) under      (Fig. 2b). Several studies have shown polyp size in colonial
+all pCO2 treatments (Fig. 3d). This implies this species’         corals is related to regenerative capacity. Small polyp taxa
+robustness under acidification conditions, as shown in a          such as Acropora and Pocillopora regenerate more rapidly
+study by Krief et al. (2010) and may be explained by              than large polyp taxa such as Favia and Platygyra (Fi-
+increased rate of photoassimilates translocation from sym-        shelson 1973; Riegl and Velimirov 1991). These charac-
+biont to host under reduced pH (Tremblay et al. 2013).            teristics of F. favus were further magnified under the stress-
+    Differential susceptibility of scleractinian corals to        inducing treatment of high pCO2. Our results imply this
+increased pCO2/decreased pH is increasingly well docu-            species was more susceptible to high-CO2 dosing and the
+mented (e.g., Anthony et al. 2008), although species-spe-         Symbiodinium density was reduced by 70 % in the high
+cific thresholds must be investigated further. Regenerative       treatment relative to the control after 120 d, suggesting F.
+ability in this study differed between species when com-          favus falls into the CO2-sensitive group.
+paring lesion repair after 60 d. When making this com-               Nonetheless, even at sub-optimal and extreme conditions,
+parison, we take into account several limitations. Our study      corals continued to function and recover from injury, possibly
+chose species representative of contrasting life histories        at the expense of growth, calcification, reproduction, and/or
+and morphologies. Infliction of identical lesions across          other biological functions. In the case of Porites sp. and A.
+species is particularly difficult. Lesion shape was restricted    eurystoma, there was no further significant decrease in tissue
+by morphological differences between branching (wedge-            recovery between the intermediate and high treatments. We
+shaped lesions) versus massive (circular lesions) species.        have demonstrated that the coral species included in the study
+Inevitably, the lesion perimeter to surface area ratios and       can tolerate extremely high pCO2 levels which convey far-
+number of polyps injured, which may influence rates of            future predicted values and maintain colonial integrity and
+repair (Oren et al. 1997; Lirman 2000), were not the same.        regenerative ability for extended periods of time at pCO2
+The fast-growing branching corals (S. pistillata and A.           reaching ten times normal conditions. It is important to note
+eurystoma) in our study regenerated faster than the slow-         that OA studies are carried out at a much faster rate than the
+growing massive species (Porites sp. and F. favus) after          actual process occurring in the oceans, thereby advocating
+60 d (Fig. 2). Indeed, several studies examining regenera-        the potential of scleractinian corals to adapt/acclimatize to
+tive ability of injured colonies with different morphologies      these conditions. Future studies on coral regeneration should
+and life history strategies have found branching corals to        incorporate multiple stressors, particularly acidification-
+
+
+                                                                                                                       123
+828                                                                                                              Coral Reefs (2014) 33:819–829
+
+
+warming interactions, to assess the interactive effects of                  Erez J, Reynaud S, Silverman J, Scheinder K, Allemand D (2011)
+environmental change, improving our understanding of coral                       Coral calcification under ocean acidification and global change.
+                                                                                 In: Dubinsky Z, Stambler N (eds) Coral reefs: an ecosystem in
+performance under future climatic scenarios.                                     transition. Springer, Heidelberg, pp 151–176
+                                                                            Fabry VJ, Seibel BA, Feely RA, Orr JC (2008) Impacts of ocean
+Acknowledgments The authors wish to thank E. Foran, G. Lavy,                     acidification on marine fauna and ecosystem processes. ICES J
+and O. Kolesnikov for technical assistance and the staff of the In-              Mar Sci 65:414–432
+teruniversity Institute for Marine Sciences in Eilat. This study was        Fine M, Oren U, Loya Y (2002) Bleaching effect on regeneration and
+partially supported by an Israel Science Foundation Grant to M. Fine.            resource translocation in the coral Oculina patagonica. Mar Ecol
+                                                                                 Prog Ser 234:119–125
+                                                                            Fishelson L (1973) Ecological and biological phenomena influencing
+References                                                                       coral species composition on the reef tables at Eilat (Gulf of
+                                                                                 Aqaba, Red Sea). Mar Biol 19:183–196
+Abrego D, Ulstrup KE, Willis BL, van Oppen MJ (2008) Species–               Fisher EM, Fauth JE, Hallock P, Woodley CM (2007) Lesion
+     specific interactions between algal endosymbionts and coral                 regeneration rates in reef-building corals Montastraea spp. as
+     hosts define their bleaching response to heat and light stress.             indicators of colony condition. Mar Ecol Prog Ser 339:61–71
+     Proc R Soc Ser B 275:2273–2282                                         Forsman Z (2003) Phylogeny and phylogeography of Porites &
+Albright R, Langdon C (2011) Ocean acidification impacts multiple                Siderastrea (Scleractinia: Cnidaria) species in the Caribbean and
+     early life history processes of the Caribbean coral Porites                 eastern Pacific; based on the nuclear ribosomal ITS region. Ph.D.
+     astreoides. Glob Chang Biol 17:2478–2487                                    thesis, University of Houston
+Albright R, Mason B, Miller M, Langdon C (2010) Ocean acidifi-              Grigg RW, Dollar SJ (1990) Natural and anthropogenic disturbances
+     cation compromises recruitment success of the threatened                    on coral reefs. In: Dubinsky Z (ed) Ecosystems of the world,
+     Caribbean coral Acropora palmata. Proc Natl Acad Sci USA                    coral reefs. Elsevier Science Publishers, New York, pp 365–400
+     107:20400–20404                                                        Guzman HM, Burns KA, Jackson JBC (1994) Injury, regeneration
+Anthony KRN, Kline DI, Diaz-Pulido G, Dove S, Hoegh-Guldberg O                   and growth of Caribbean reef corals after a major oil spill in
+     (2008) Ocean acidification causes bleaching and productivity loss in        Panama. Mar Ecol Prog Ser 105:231–241
+     coral reef builders. Proc Natl Acad Sci USA 105:17442–17446            Hall VR (1997) Interspecific differences in the regeneration of
+Anthony KRN, Maynard JA, Diaz-Pulido G, Mumby PJ, Marshall                       artificial injuries on scleractinian corals. J Exp Mar Biol Ecol
+     PA, Cao L, Hoegh-Guldberg O (2011) Ocean acidification and                  212:9–23
+     warming will lower coral reef resilience. Global Change Biol           Hall VR (1998) Injury and regeneration of common reef-crest corals
+     17:1798–1808                                                                at Lizard Island, Great Barrier Reef, Australia. Ph.D. thesis,
+Barnes DJ, Lough JM (1992) Systematic variations in the depth of                 James Cook University
+     skeleton occupied by coral tissue in massive colonies of Porites       Henry LA, Hart M (2005) Regeneration from injury and resource
+     from the Great Barrier Reef. J Exp Mar Biol Ecol 159:113–128                allocation in sponges and corals - a review. Int Rev Hydrobiol
+Barry JP, Tyrrell T, Hansson L, Plattner GK, Gattuso JP (2010)                   90:125–158
+     Atmospheric CO2 targets for ocean acidification perturbation           Hoegh-Guldberg O (2012) The adaptation of coral reefs to climate
+     experiments. In: Riebesell U, Fabry VJ, Hansson L, Gattuso JP               change: is the red queen being outpaced? Sci Mar 76:403–408
+     (eds) Guide to best practices for ocean acidification research and     Hoegh-Guldberg O, Mumby PJ, Hooten AJ, Steneck RS, Greenfield
+     data reporting. Publications Office of the European Union,                  P, Gomez E, Harvell CD, Sale PF, Edwards AJ, Caldeira K,
+     Luxembourg, p 260                                                           Knowlton N, Eakin CM, Iglesias-Prieto R, Muthiga N, Bradbury
+Caldeira K, Wickett ME (2005) Ocean model predictions of chemistry               RH, Dubi A, Hatziolos ME (2007) Coral reefs under rapid
+     changes from carbon dioxide emissions to the atmosphere and                 climate change and ocean acidification. Science 318:1737–1742
+     ocean. J Geophys Res 110:C09S04                                        Hughes TP, Jackson JBC (1985) Population dynamics and life-
+Cohen S (2011) Measuring gross and net calcification of a reef coral             histories of foliaceous corals. Ecol Monogr 55:141–166
+     under ocean acidification conditions: methodological consider-         IPCC (2007) The fourth assessment report of the intergovernmental
+     ations. M.Sc. thesis, Bar Ilan University, Tel Aviv                         panel on climate change (IPCC). Cambridge University Press,
+Cróquer A, Villamizar E, Noriega N (2002) Environmental factors                 Cambridge, UK
+     affecting tissue regeneration of the reef-building coral Montast-      Jackson JBC (1979) Morphological strategies of sessile animals. In:
+     raea annularis (Faviidae) at Los Roques National Park, Vene-                Larwood G, Roser BR (eds) Biology and systematics of colonial
+     zuela. Rev Biol Trop 50:1055–1065                                           organisms. Academic Press, London, pp 499–555
+D’Angelo C, Smith EG, Oswald F, Burt J, Tchernov D, Wiedenmann              Jackson JBC, Palumbi SR (1979) Regeneration and partial predation
+     J (2012) Locally accelerated growth is part of the innate immune            in cryptic coral reef environments: preliminary experiments on
+     response and repair mechanisms in reef-building corals as                   sponges and ectoprocts. In: Levi C, Boury-Esnault N (eds)
+     detected by green fluorescent protein (GFP)-like pigments. Coral            Biology of sponges. CNRS, Paris, pp 303–308
+     Reefs 31:1045–1056                                                     Jeffrey SW, Humphrey GF (1975) New spectrophotometric equations
+Denis V, Debreuil J, de Palmas S, Richard J, Guillaume MM,                       for determining Chlorophylls A, B, C1 and C2 in higher plants,
+     Bruggemann JH (2011) Lesion regeneration capacities in popula-              algae and natural phytoplankton. Biochem Physiol Pflanzen
+     tions of the massive coral Porites lutea at Réunion Island:                167:191–194
+     environmental correlates. Mar Ecol Prog Ser 428:105–117                Kaniewska P, Campbell PR, Kline DI, Rodriguez-Lanetty M, Miller
+Denis V, Guillaume MMM, Goutx M, de Palmas S, Debreuil J, Baker                  DJ, Dove S, Hoegh-Guldberg O (2012) Major cellular and
+     AC, Boonstra RK, Briggemann JH (2013) Fast growth may                       physiological impacts of ocean acidification on a reef building
+     impair regeneration capacity in the branching coral Acropora                coral. PLoS ONE 7:e34659
+     muricata. PLoS ONE 8:e72618                                            Karako-Lampert S, Katcoff DJ, Achituv Y, Dubinsky Z, Stambler N
+DeSalvo MK, Sunagawa S, Fisher PL, Voolstra CR, Iglesias-Prieto R,               (2004) Do clades of symbiotic dinoflagellates in scleractinian
+     Medina M (2010) Coral host transcriptomic states are correlated             corals of the Gulf of Eilat (Red Sea) differ from those of other
+     with Symbiodinium genotypes. Mol Ecol 19:1174–1186                          coral reefs? J Exp Mar Biol Ecol 311:301–314
+
+
+123
+Coral Reefs (2014) 33:819–829                                                                                                                 829
+
+Karlson RH (1988) Size dependent growth in the zoanthid species: a       Monastersky R (2013) Global carbon dioxide levels near worrisome
+     contrast in clonal strategies. Ecology 69:1219–1232                       milestone. Nature 497:13–14
+Kleypas JA, Langdon C (2006) Coral reefs and changing seawater           Muscatine L (1990) The role of symbiotic algae in carbon and energy
+     chemistry. In: Phinney JT, Hoegh-Guldberg O, Kleypas J,                   flux in reef corals. In: Dubinsky Z (ed) Ecosystems of the world:
+     Skirving W, Strong A (eds) Coral reefs and climate change:                coral reefs. Elsevier, Amsterdam, pp 75–87
+     science and management. American Geophysical Union, Wash-           Nagelkerken I, Meesters EH, Bak RPM (1999) Depth-related
+     ington, DC, pp 73–110                                                     variation in regeneration of artificial lesions in the Caribbean
+Kleypas J, Hoegh-Guldberg O (2008) Coral reefs and climate change:             corals Porites astreoides and Stephanocoenia michelinii. J Exp
+     susceptibility and consequences. In: Wilkinson C, Souter D (eds)          Mar Biol Ecol 234:29–39
+     Status of Caribbean coral reefs after bleaching and hurricanes in   Naumann MS, Niggl W, Laforsch C, Glaser C, Wild C (2009) Coral
+     2005. Global Coral Reef Monitoring Network and Reef and                   surface area quantification–evaluation of established techniques by
+     Rainforest Research Centre, Townsville, Qld, Australia, pp 19–28          comparison with computer tomography. Coral Reefs 28:109–117
+Kleypas JA, Buddemeier RW, Archer D, Gattuso JP, Langdon C,              Oren U, Rinkevich B, Loya Y (1997) Oriented intra-colonial transport
+     Opdyke BN (1999) Geochemical consequences of increased                    of 14C labeled materials during regeneration in scleractinian
+     atmospheric carbon dioxide on coral reefs. Science 284:118–120            corals. Mar Ecol Prog Ser 161:117–121
+Kohler KE, Gill SM (2006) Coral Point Count with Excel extensions        Oren U, Benayahu Y, Lubinevsky H, Loya Y (2001) Extent of coral
+     (CPCe): A visual basic program for the determination of coral             colony integration during regeneration. Ecology 82:802–813
+     and substrate coverage using random point count methodology.        Pierrot DE, Lewis E, Wallace DWR (2006) MS Excel program
+     Comput Geos 32:1259–1269                                                  developed for CO2 system calculations. ORNL/CDIAC-105a,
+Kramarsky-Winter E, Loya Y (2000) Tissue regeneration in the coral             Carbon Dioxide Information Analysis Center, Oak Ridge National
+     Fungia granulosa: the effect of extrinsic and intrinsic factors.          Laboratory, U.S. Department of Energy, Oak Ridge, TN
+     Mar Biol 137:867–873                                                Pörtner HO (2008) Ecosystem effects of ocean acidification in times
+Krief S, Hendy EJ, Fine M, Yam R, Meibom A, Foster GL, Shemesh                 of ocean warming: a physiologist’s view. Mar Ecol Prog Ser
+     A (2010) Physiological and isotopic responses of scleractinian            373:203–217
+     corals to ocean acidification. Geochim Cosmochim Acta               Pörtner HO, Bock C, Reipschläger A (2000) Modulation of the cost of
+     74:4988–5001                                                              pHi regulation during metabolic depression: a 31P-NMR study
+Kroeker KJ, Kordas RL, Crim RN, Singh GG (2010) Meta-analysis                  in invertebrate (Sipunculus nudus) isolated muscle. J Exp Biol
+     reveals negative yet variable effects of ocean acidification on           203:2417–2428
+     marine organisms. Ecol Lett 13:1419–1434                            Ramati S (1994) The effect of eutrophication on corals’ tissue
+Lesser MP (2013) Using energetic budgets to assess the effects of              regeneration. Isr J Zool 40:107–108
+     environmental stress on corals: are we measuring the right          Raven J, Caldeira K, Elderfield H, Hoegh-Guldberg O, Liss P,
+     things? Coral Reefs 32:25–33                                              Riebesell U, Shepherd J, Turley C, Watson A (2005) Ocean
+Lester RT, Bak RPM (1985) Effects of environment on regeneration               acidification due to increasing atmospheric carbon dioxide,
+     rate of tissue lesions in the reef coral Montastrea annularis             Policy Document 12/05. The Royal Society, London
+     (Scleractinia). Mar Ecol Prog Ser 24:183–185                        Riegl B, Velimirov B (1991) How many damaged corals in Red Sea reef
+Lirman D (2000) Fragmentation in the branching coral Acropora                  systems? A quantitative survey. Hydrobiologia 216(217):249–256
+     palmata (Lamarck): growth, survivorship, and reproduction of        Rinkevich B (1996) Do reproduction and regeneration in damaged corals
+     colonies and fragments. J Exp Mar Biol Ecol 251:41–57                     compete for energy allocation? Mar Ecol Prog Ser 143:297–302
+Loya Y, Sakai K, Yamazato K, Nakano Y, Sambali H, Van Woesik R           Rinkevich B, Loya Y (1989) Reproduction in regenerating colonies of
+     (2001) Coral bleaching: the winners and the losers. Ecol Lett             the coral Stylophora pistillata. In: Spanier BE, Steinberger Y,
+     4:122–131                                                                 Lurla M (eds) Environmental quality and ecosystem stability.
+Madin JS, Hughes TP, Connolly SR (2012) Calcification, storm                   ISEEQS Publ, Jerusalem, pp 257–265
+     damage and population resilience of tabular corals under climate    Sebens KP (1987) The ecology of indeterminate growth in animals.
+     change. PloS ONE 7:e46637                                                 Annu Rev Ecol Syst 18:371–407
+Meesters EH, Bak RPM (1993) Effects of coral bleaching on tissue         Titlyanov EA, Titlyanova TV (2008) Coral-algal competition on
+     regeneration potential and colony survival. Mar Ecol Prog Ser             damaged reefs. Russ J Mar Biol 34:199–219
+     96:189–198                                                          Titlyanov EA, Titlyanova TV, Yakovleva IM, Nakano Y, Bhagooli R
+Meesters EH, Bos A, Gast GJ (1992) Effects of sedimentation and                (2005) Regeneration of artificial injuries on scleractinian corals
+     lesion position on coral tissue regeneration. Proc 7th Int Coral          and coral/algal competition for newly formed substrate. J Exp
+     Reef Symp 2:681-688                                                       Mar Biol Ecol 323:27–42
+Meesters EH, Noordeloos M, Bak RPM (1994) Damage and                     Tremblay P, Fine M, Maguer JF, Grover R, Ferrier-Pages C (2013)
+     regeneration: links to growth in the reef-building coral Montas-          Photosynthate translocation increases in response to low seawa-
+     trea anularis. Mar Ecol Prog Ser 112:119–128                              ter pH in a coral–dinoflagellate symbiosis. Biogeosciences
+Meesters EH, Wesseling I, Bak RPM (1996) Partial mortality in three            10:3997–4007
+     species of reef-building corals (Scleractinia) and the relation     Van Veghel MU, Bak RPM (1994) Reproductive characteristics of
+     with colony morphology. Bull Mar Sci 58:838–852                           the polymorphic Caribbean reef building coral Montastrea
+Meesters EH, Pauchli W, Bak RPM (1997a) Predicting regeneration                annularis III. Reproduction in damaged and regenerating
+     of physical damage on a reef-building coral by regeneration               colonies. Mar Ecol Prog Ser 109:229–233
+     capacity and lesion shape. Mar Ecol Prog Ser 146:91–99              Venn AA, Tambutte E, Holcomb M, Laurent J, Allemand D,
+Meesters EH, Wesseling I, Bak RPM (1997b) Partial mortality in                 Tambutte S (2013) Impact of seawater acidification on pH at the
+     reef-building corals (Scleractinia): ecological effects of colony         tissue-skeleton interface and calcification in reef corals. Proc
+     size in modular organisms. J Sea Res 37:131–144                           Natl Acad Sci USA 110:1634–1639
+Mehrbach C, Culberson CH, Hawley JE, Pytkowicz RM (1973)                 Veron JEN (2000) Corals of the world. Australian Institute of Marine
+     Measurement of the apparent dissociation constants of carbonic            Sciences
+     acid in seawater at atmospheric pressure. Limnol Oceanogr           Zeebe RE, Wolf-Gladrow D (2001) CO2 in seawater: equlibrium,
+     18:897–907                                                                kinetics, isotopes. Elsevier Science, B.V., Amsterdam
+
+
+                                                                                                                                     123
+

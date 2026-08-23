@@ -1,0 +1,728 @@
+                                             MARINE ECOLOGY PROGRESS SERIES
+      Vol. 339: 61–71, 2007                                                                                    Published June 6
+                                                     Mar Ecol Prog Ser
+
+
+
+
+ Lesion regeneration rates in reef-building corals
+ Montastraea spp. as indicators of colony condition
+       Elizabeth M. Fisher1,*, John E. Fauth2, Pamela Hallock1, Cheryl M. Woodley3
+  1
+    College of Marine Science, University of South Florida, 140 Seventh Avenue South, St. Petersburg, Florida 33701, USA
+    2
+     Department of Biology, University of Central Florida, 4000 Central Florida Boulevard, Orlando, Florida 32816, USA
+ 3
+  US National Oceanic and Atmospheric Administration, National Ocean Service, Center for Coastal Environmental Health
+   and Biomolecular Research, Hollings Marine Laboratory, 331 Ft. Johnson Road, Charleston, South Carolina 29412, USA
+
+
+
+
+         ABSTRACT: Regeneration rates of coral lesions reflect the ability of colonies to repair damage and
+         therefore can be useful indicators of coral health and environmental conditions. We quantified regen-
+         eration rates of boulder corals Montastraea spp. at four, 6 m deep patch reefs within Biscayne
+         National Park (BNP) and the upper Florida Keys National Marine Sanctuary (FKNMS), and along
+         a 3 to 18 m depth transect in FKNMS. Coral lesions (approx. 2 cm2) created during sampling for
+         cellular-diagnostic analysis were monitored quarterly in 2001 and 2002, and in February 2003.
+         Regeneration was a dynamic process, continuing longer than previously reported (> 300 d after lesion
+         formation). Geographic location was the strongest factor affecting regeneration rate at our study
+         sites. Lesion regeneration differed significantly among 6 m deep sites; sites offshore from John
+         Pennekamp Coral Reef State Park (Algae Reef and White Banks) consistently had the highest regen-
+         eration rates, with colonies exhibiting exponential declines in lesion size and a high percentage of
+         completely healed lesions. Along the depth gradient, corals at the 3 m site regenerated significantly
+         faster than corals at 6, 9, and 18 m. These results suggest that corals sampled at FKNMS 6, 9 and 18 m
+         sites and BNP were in poor physiological condition or were exposed to suboptimal environmental
+         conditions, as evidenced by highly variable and overall low regeneration rates, a low percentage of
+         healed lesions, and a high occurrence of breakage or Type II lesions (lesions that increased in size by
+         merging with areas of denuded tissue on the colony).
+
+         KEY WORDS: Regeneration · Indicators · Lesion · Montastraea spp. · Coral · Partial mortality ·
+         Damage
+                              Resale or republication not permitted without written consent of the publisher
+
+
+
+
+                     INTRODUCTION                                         Percent mortality of coral colonies is a useful gauge
+                                                                        of reef condition (Ginsburg et al. 2001) because it can
+  Most corals are colonial organisms; a colony can                      point to a recent or chronic disturbance (Lang 2003)
+experience partial mortality in which a portion remains                 and can influence colony growth and reproduction
+alive while another portion dies. When a disturbance                    (Meesters et al. 1994, Van Veghel & Bak 1994, Lirman
+produces a lesion (partial mortality), the exposed coral                2000a). Williams (1994) proposed using coral lesions as
+skeleton becomes vulnerable to invasion by sessile                      indicators of environmental stress because they are a
+organisms such as algae, resulting in the lesion increa-                generalized response to a range of disturbances, are
+sing in size. Alternatively, healing can occur if tissue                independent of reef type, and can be monitored by
+regeneration processes are not impeded (Kawaguti                        resource managers easily and inexpensively. Williams
+1937). Lesions that fail to heal completely within about                (1994) noted that the frequency of coral lesions varies
+2 mo are likely to become permanent patches of mor-                     among sites, with polluted sites having more lesions
+tality (Meesters et al. 1994).                                          than relatively unpolluted sites. Quantifying colony
+
+
+*Email: efisher@marine.usf.edu                                          © Inter-Research 2007 · www.int-res.com
+62                                         Mar Ecol Prog Ser 339: 61–71, 2007
+
+
+
+
+damage and recovery rates also are essential for pre-         2005, Fauth et al. 2003). These 7 sites (Fig. 1) com-
+dicting demographic changes in coral populations              prised both a latitudinal transect with 4 sites at 6 m
+(Bak & Meesters 1999).                                        depth and a depth transect (Key Largo, KL, 3 to 18 m)
+   In corals, lesion regeneration begins with growth of       and were chosen in consultation with resource man-
+an undifferentiated tissue layer created by the               agers to reflect gradients in environmental conditions.
+coenenchyme and polyps surrounding the lesion (Bak            Algae Reef (AR) and White Banks (WB) were adjacent
+et al. 1977). After about 2 wk, polyps begin to develop       to the extensive John Pennekamp Coral Reef State
+in the new tissue (Meesters et al. 1994) and secrete          Park, with intact coastal hammock, mangroves and
+thecal walls and a basal plate. These give rise to            seagrass beds. Key Largo 6 m (KL 6 m) was located off-
+numerous radially arranged calcareous partitions              shore from the most urbanized coastline of Key Largo,
+(septa), which project inward and support the polyp           from which natural vegetation has been removed, nat-
+mesenteries. Pigmentation and zooxanthellae return at         ural topography has been altered to maximize water-
+the end of the regeneration process (Bak et al. 1977,         front properties, and coastlines are lined with seawalls.
+Kramarsky-Winter & Loya 2000). Coral regeneration             This site lies along the route that recreational boaters
+rates can vary with species (Kawaguti 1937, Bak et al.        and commercial dive operators take to reach popular
+1977, Nagelkerken & Bak 1998) and are influenced by           Molasses Reef and other outer reefs in the Upper Keys
+lesion characteristics including the type of injury and       reef tract. Molasses Reef is ‘the most heavily visited
+its initial size, perimeter and shape (Meesters et al.        reef in the Upper Keys for diving’ (FKNMS website).
+1994, 1997b, Oren et al. 1997, Lirman 2000b, Hall             Biscayne National Park (BNP) is offshore from urban
+2001), and colony characteristics such as size (Kra-
+marsky-Winter & Loya 2000, Oren et al. 2001). Under
+normal conditions, lesion size decreases exponentially;
+deviations from this response suggest resource limita-
+tion (Meesters et al. 1997b), stress due to environmen-
+tal conditions (Lester & Bak 1985, Meesters & Bak
+1993, Meesters et al. 1993, Mascarelli & Bunkley-
+Williams 1999, Croquer et al. 2002, Fine et al. 2002) or
+competition (Hall 2001).
+   The present study was part of a long-term project in
+the Florida Keys testing the use of an integrated mole-
+cular biomarker system in corals (Downs et al. 2000,
+2005, Fauth et al. 2003). Here we compare the ability of
+star boulder corals (Montastraea species complex)
+within 2 marine protected areas, to regenerate biopsy-
+induced lesions. Lesion regeneration rates were
+assessed to characterize coral condition at these sites.
+Three specific questions were addressed: (1) Do regen-
+eration rates differ among sites, seasons or years? (2)
+Do regeneration rates vary with depth? (3) Do regener-
+ation rates vary with lesion parameters (e.g. initial
+lesion size, perimeter, shape) or colony characteristics
+(e.g. morphotype/species, size, % mortality)? In future
+papers, we will relate coral regeneration rates to eco-
+logical and cellular indicators to further identify poten-
+tial sources of stress at our study sites.
+
+
+            MATERIALS AND METHODS
+                                                              Fig. 1. Study sites. j: 6 m sites, comprising patch reefs Key
+  Study sites. We assessed reef condition at commu-           Largo (KL) 6 m (25° 01.09’ N, 80° 23.84’ W), White Banks (WB)
+nity and colony scales at 1 patch reef (Alina’s Reef) in      (25° 02.23’ N, 80° 22.50’ W), Algae Reef (AR) (25° 08.80’ N,
+Biscayne National Park (BNP), and 4 patch reefs and           80° 17.60’ W), and Alina’s Reef in Biscayne National Park
+                                                              (BNP) (25° 23.19’ N, 80° 09.78’ W); s: along depth gradient,
+2 fore reef sites in the upper Florida Keys National          comprising 2 patch reefs, KL 3 m (25° 02.45’ N, 80° 25.44’ W)
+Marine Sanctuary (FKNMS), as part of an ongoing               and KL 6 m, and 2 fore reefs, KL 9 m (25° 00.15’ N,
+study of coral ecophysiology (e.g. Downs et al. 2000,              80° 23.63’ W) and KL 18 m (25° 00.21’ N, 80° 23.02’ W)
+                                 Fisher et al.: Lesion regeneration in corals Montastraea spp.                             63
+
+
+
+
+Miami, Florida, which is potentially influenced by the            diameter) and percent partial mortality of each colony
+extensive agricultural area south and west of Miami               at the start of the study. We measured diameter (live
+that drains into Biscayne Bay. BNP also is located in             and dead areas) in planar view perpendicular to the
+proximity to a nuclear power plant and major landfill             axis of growth to the nearest 1 cm using a meter stick.
+site.                                                             Partial mortality was visually quantified by estimating
+   Benthic community assessments. In March 2002, a                the percentage of dead area from above in planar view
+dive was made at each 6 m site to assess the benthic              as recommended by Lang (2003).
+organisms using the rapid assessment methods                         We removed coral tissue and skeleton using a
+described by Lang (2003). At each site, a 10 m transect           leather punch, which created a circular lesion 1 to
+line was placed just above a haphazardly selected area            2 cm2 in area and 3 mm deep. Experimental lesions
+of reef surface and live coral cover was determined by            were always completely surrounded by live tissue. We
+estimating the amount of living coral directly beneath            immediately filled the hole with clay (Roma plastilina,
+the line. For each coral >10 cm in diameter lying                 medium grey; Blick Art Materials) to fill the void pro-
+beneath the transect, we recorded species, maximum                duced by removing the underlying skeleton and limit
+diameter and height, and percent recent and old mor-              intrusion of fouling and bioeroding organisms (Fig. 2).
+tality. ‘Recently dead’ was defined as any non-living             Use of clay filler was a decision made by park man-
+parts of the coral in which the corallite structures were         agers when permitting biopsy of these corals for mole-
+still intact or covered by a thin layer of algae or fine          cular biomarker analysis. Clay provided corals with a
+mud (Lang 2003). ‘Long dead’ was defined as any non-              flat surface over which to regenerate tissue but, as
+living parts of the coral in which the corallite structures       seen in our study, did not prevent fouling or bioerosion.
+were either gone or covered by organisms that were                However, the regeneration rates reported in this study
+not easily removed (Lang 2003). Because of differences            may represent maximal rates due to a possible reduc-
+in reef types, we could not use this method for compar-           tion in biofouling. We then photographed each lesion
+isons along the depth gradient.                                   using a Nikonos V 35 mm camera with a close-up
+   Lesion regeneration. Between June 2001 and Feb-                adapter and frame, calibrating measurements with a
+ruary 2003, we collected tissue samples (creating a               4.5 mm long bar. We re-photographed each lesion dur-
+lesion) approximately quarter-yearly (February/                   ing subsequent quarterly samplings to observe
+March, June, August, October/November) from the                   changes in size over time (Fig. 2). We scanned pho-
+same 5 colonies at each site. Previous studies showed             tographs to digital images and used image-analysis
+that quarterly sampling was adequate to detect                    software (Image Pro™) to calculate area (A) and
+changes in coral physiology as a result of seasonal and           perimeter (P) of all lesions that remained completely
+stressor variation (Downs et al. 2000, Fauth et al. 2003).        surrounded by live tissue (Type I lesions: Meesters et
+We preferentially chose Montastraea faveolata for this            al. 1997a).
+study but sampled the morphotypes M. annularis and                   If a lesion enlarged, thereby merging with an area of
+M. franksi when M. faveolata was not available. A sin-            the colony that lacked tissue (Type II lesions: Meesters
+gle morphotype was not found at all study sites: We               et al. 1997a), we conservatively assumed no change in
+sampled M. faveolata at all sites except KL 18 m,                 lesion size for that sampling date and removed it from
+M. annularis at KL 6 m and WB, and M. franksi at KL 9             further analyses because subsequent changes in area
+and 18 m, WB, and AR. We estimated size (maximum                  were unconstrained. When lesions merged with other
+
+
+
+
+Fig. 2. Montastraea spp. Examples of lesions at 6 m sites between October 2001 and November 2002 showing 2 extremes. (A)
+Algae Reef (lesion completely healed by June 2002); (B) Alina’s Reef in BNP (lesion joined with other sampling lesions in June
+                       2002 and became covered with turf algae). Black arrows point to relevant lesions
+64                                           Mar Ecol Prog Ser 339: 61–71, 2007
+
+
+
+
+created lesions (Fig. 2B), we calculated their area as          we calculated the amount of tissue regenerated or lost
+AL= AT/n; where AL is the area of the lesion used for           (∆T) as ∆T = % change in lesion size · initial lesion
+further analyses, AT is the total area of all lesions joined    size/time. We standardized regeneration to initial
+together, and n is the total number of lesions joined           lesion perimeter (P) because this influenced regenera-
+together. This calculation provided a conservative esti-        tion rates. We used repeated-measures MANOVA to
+mate of lesion area increase. In the few cases where            determine whether standardized regeneration rates
+initial lesion size was unavailable due to camera mal-          (∆ T:P) differed among sites, seasons and their interac-
+functions, we substituted the average initial lesion size       tions. We checked model assumptions (e.g. sphericity,
+for that sampling period. When photographs of final             homogeneity of variances, normality and indepen-
+lesion size were unavailable, we used in situ measure-          dence) using residual plots. In cases where the
+ments to calculate lesion area and perimeter using the          sphericity assumption was not met, we applied a uni-
+equation for an ellipse, AL = πab, and PL = 2π · sqrt[(a2 +     variate (unadjusted epsilon) approach. To interpret
+b2)/2], where AL is the area of the lesion, PL is the           effects detected by MANOVA, we used 1-way
+perimeter of the lesion, and a and b are one-half of            ANOVA followed by the Tukey-Kramer HSD test. We
+lesion length and width, respectively. Larger lesions           regressed residuals of the regeneration-rate model
+resulted from breakage of the coral skeleton, which             against lesion (A, P and shape [P:A]) and colony (spe-
+was often highly bioeroded. Because of the effect of            cies, size, % mortality) parameters to determine if they
+initial lesion size on regeneration, we removed lesions         affected regeneration rates. Any colony characteristics
+> 3.4 cm2 from further analyses.                                that explained significant variation in residuals were
+   Data analysis. Benthic community assessments: We             used as covariates in the MANOVA model. We also
+used 1-way ANOVA followed by the Tukey-Kramer                   regressed quasi-annual regeneration rates against
+Honestly Significant Difference (HSD) test to deter-            short-term rates to determine if monitoring for short
+mine if sites differed significantly in live coral cover        time periods could be used to predict long-term trends.
+and coral colony density. Data on coral diameter and               • Were lesions among all sites capable of completely
+height, and recent and old mortality did not meet the           healing and did the number of Type II lesions differ
+normality assumptions of ANOVA. For these data, we              among sites and seasons? We used G-tests of indepen-
+used Kruskal-Wallis followed by Wilcoxon rank-sum               dence with William’s correction (Sokal & Rohlf 1995) to
+tests to test for differences among sites.                      determine if the number of lesions that closed com-
+   Lesion regeneration: Data were analyzed in 2                 pletely or progressed into Type II lesions differed
+groups: (1) by sites at 6 m depth along the NE–SW tra-          among sites.
+verse (BNP, AR, WB and KL 6 m), and (2) by sites along             We performed non-linear regression using Sigma-
+the depth gradient (KL 3, 6, 9 and 18 m). The KL 6 m            Plot 2000 (Systat Software) and all other statistical
+site was common to both groups (Fig. 1). We examined            analyses using JMP Version 3.2 (SAS Institute), with
+lesion changes in 3 different ways to answer specific           α = 0.05 for all hypothesis tests.
+questions:
+   • Did lesion size decrease exponentially with time
+(cm2 d–1) and did this differ among sites and seasons?                                  RESULTS
+Can deviations from this model be used as an indicator
+of stress? We used least-squares regression to fit an                               Community data
+exponential model of regeneration with an asymptote
+as recommended by Meesters et al. (1994, 1997b):                   Mean percent live coral cover and coral colony den-
+                                                                sity were low at all 6 m sites; both were highest at AR
+                     y = y0 + ae–b · time
+                                                                and lowest at KL 6 m (coral cover: ANOVA F3,13 = 11.4,
+where y0 is the asymptote, a is the amount of tissue            p < 0.0007; coral colony density: ANOVA F3,26 = 3.7,
+regenerated, and b is the slope of the curve. We only           df = 3, p < 0.03; Table 1). Colonies at AR were signifi-
+applied the exponential model to lesions with a mini-           cantly larger (maximum diameter) than colonies at WB
+mum of 1 yr of observations.                                    and KL 6 m; colonies at BNP were also significantly
+  • Did regeneration rates differ among sites and sea-          larger than colonies at KL 6 m (χ2 = 9.2, df = 3, p < 0.03;
+sons? We calculated rates for 2 different periods: short-       Table 1).
+term (45 to 154 d) and quasi-annual (319 to 376 d). The
+shortest period monitored reflects a time frame similar
+to that in previous regeneration studies (e.g. Meesters                           Regeneration model
+et al. 1994, 1997b, Van Veghel & Bak 1994). We calcu-
+lated the quasi-annual rates to determine how lesion              After removing lesions > 3.4 cm2 from further analy-
+size changed over multiple seasons. For each lesion,            ses, initial lesion area ranged from 0.75 to 3.02 cm2
+                                   Fisher et al.: Lesion regeneration in corals Montastraea spp.                                                                65
+
+
+
+
+Table 1. Montastraea spp. Comparison of benthic parameters at four 6 m patch reefs from 10 m transects using Atlantic Gulf and
+Rapid Reef Assessment protocol (Lang 2003). Data are means (± SE); values not bearing same superscript are significantly differ-
+                         ent (p < 0.05). Site abbreviations here and in Tables 2 & 3 as in Fig. 1 legend
+
+
+ Site        n         Colonies            Live coral                                Coral           Coral                    Recent                Old
+                       (no. m–1)           cover (%)                              height (cm)     diam. (cm)                mortality (%)       mortality (%)
+
+ KL 6 m      7       0.64 A (0.07)          7A      (1)                            11 A   (3)      21 A    (5)                  3A    (2)          11 A   (4)
+ WB          8       0.71 AB (0.07)         9A      (1)                            13 A   (1)      19 AB   (2)                  2A    (1)           8A    (2)
+ AR          8       0.94 B (0.10)         16 B     (1)                            23 A   (4)      40 C    (9)                  2A    (1)          12 A   (3)
+ BNP         8       0.64 A (0.05)          8A      (1)                            25 A   (6)      37 BC   (8)                  4A    (2)          19 A   (8)
+
+
+
+with a mean (± SE hereafter) of 1.75                                          A      June 2001 Lesion                       B        June 2001 Lesion
+                                                                      5                                             3
+(± 0.04) cm2 (n = 136) for the 6 m sites
+and from 0.68 to 3.32 cm2 with a mean                                 4
+of 1.80 (± 0.05) cm2 (n = 128) along the                                                                            2
+                                                                      3
+depth gradient.
+                                                                      2
+   Lesion size decreased exponentially                                                                              1
+over time at AR, WB and the KL 3 m site                               1
+(Fig. 3) as indicated by large r2 values                                                                            0
+                                                                      0
+and slopes (Table 2). With few excep-
+                                                                      5              August 2001 Lesion            12                August 2001 Lesion
+tions, lesion size at BNP, and KL 6, 9
+and 18 m either changed little or, in                                 4                                            10
+some cases, increased over time                                                                                     8
+                                                                      3
+(Fig. 3). Lesions on corals at these sites                                                                          6
+                                                                      2
+
+
+
+
+                                                  Lesion size (cm2)
+deviated from the expected decay                                                                                    4
+model and fit to either an exponential                                1                                             2
+growth (increase in lesion size) model                                0
+                                                                                                                    0
+or a reduced model, as indicated by low                               5              October 2001 Lesion            3                 October 2001 Lesion
+r2 values and slopes (Table 2).
+                                                                      4
+                                                                                                                    2
+                                                                      3
+    Short-term regeneration rates
+                                                                      2
+             (45 to 154 d)                                                                                          1
+                                                                      1
+   Short-term regeneration rates (∆ T:P)                              0                                             0
+ranged from –40 to 65 × 10– 4 cm d–1 with                             5              March 2002 Lesion              3                 March 2002 Lesion
+a mean of 13 ± 1 × 10– 4 cm d–1 (n = 136)
+                                                                      4
+at 6 m sites and from –43 to 91 × 10– 4 cm                                                                                                           KL 3 m
+                                                                                                     KL 6 m         2
+d–1 with a mean of 13 ± 2 × 10– 4 cm d–1                              3                              WB                                              KL 6 m
+(n = 127) along the depth gradient.                                   2                              AR                                              KL 9 m
+   Mean short-term regeneration rates                                                                BNP            1                                KL 8 m
+differed significantly among the 6 m                                  1
+sites (repeated-measures MANOVA:                                      0                                             0
+site effect F3,10 = 10.6, p < 0.002;                                      0       100 200 300 400 500 600               0       100 200 300 400 500 600
+Fig. 4A), but not among species, sea-                                                                            Time (d)
+sons, or their interactions. Mean short-
+                                                  Fig. 3. Montastraea spp. Mean (± SE) lesion size over time for each season be-
+term regeneration rates at AR were sig-
+                                                  tween June 2001 and March 2002 (A) at 6 m sites and (B) along depth gradient.
+nificantly higher than at the other 6 m           Merging of 2 sampling-induced lesions occurred at KL 9 m (in March 2002), at
+sites, and short-term regeneration rates          KL 18 m (in February 2003), and at BNP (in June 2002 and August 2002). An ad-
+at WB were significantly higher than at           ditional lesion joined with the previously merged lesions at BNP in October
+KL 6 m and BNP (AR: 23 ± 2 × 10– 4 cm             2002. Lesions that progressed into Type II lesions or lesions for which data were
+                                                  removed for other reasons (breakage or initial size > 3.4 cm2: see ‘Materials and
+d–1; WB: 15 ± 2 × 10– 4 cm d–1; KL 6 m:           methods’) were not included in means. Note expanded y-axis in graph showing
+7 ± 2 × 10– 4 cm d–1; BNP: 6 ± 2 × 10– 4 cm       lesion regeneration along depth gradient in August 2001. Site abbreviations
+d–1; Tukey’s HSD test). Short-term re-                           here and in subsequent figures as in Fig. 1 legend
+   66                                                                                Mar Ecol Prog Ser 339: 61–71, 2007
+
+
+
+
+   Table 2. Montastraea spp. Mean (± SE) r2 values of the 5 colonies for the regression decay model, y = y0 + ae–b · time; zero r2 value
+        was assumed for all lesions that did not fit this model. Last 2 columns show overall mean and slope (b) (cm2 d–1 × 10–2)
+
+
+             Site                      Jun 2001–                     Aug 2001–                       Oct 2001–            Mar 2002–              Overall            Slope
+                                        Jun 2002                     Aug 2002                        Nov 2002             Feb 2003                mean
+
+             KL           3m           0.95 (0.03)                   0.52 (0.22)                     0.94 (0.05)          0.98 (0.01)          0.85 (0.07)         2.1 (0.7)
+                          6m           0.55 (0.18)                   0.61 (0.15)                     0.33 (0.18)          0.88 (0.07)          0.59 (0.09)         0.3 (0.1)
+                          9m           0.58 (0.19)                   0.39 (0.24)                     0.55 (0.23)          0.72 (0.24)          0.55 (0.11)         0.1 (0.1)
+                         18 m          0.56 (0.22)                   0.37 (0.22)                     0.72 (0.24)          0.71 (0.24)          0.59 (0.11)         0.4 (0.2)
+             WB                        0.97 (0.01)                   0.98 (0.01)                     0.98 (0.02)          0.90 (0.07)          0.96 (0.02)         1.2 (0.2)
+             AR                        0.96 (0.01)                   0.80 (0.20)                     1.00 (0.00)          1.00 (0.00)          0.93 (0.05)         1.7 (0.3)
+             BNP                       0.23 (0.23)                   0.36 (0.22)                     0.37 (0.22)          0.21 (0.20)          0.30 (0.10)         0.2 (0.2)
+
+
+   generation rates also differed significantly along the                                                     KL 6 m (19 ± 3 × 10– 4 cm d–1 vs. 7 ± 2 × 10– 4 cm d–1, re-
+   depth gradient (repeated-measures MANOVA: site                                                             spectively, Tukey’s HSD test) but not at KL 9 and 18 m.
+   effect F3,8 = 4.4, p < 0.05; Fig. 4B) but not with season                                                     Species differences partially explained variation
+   or depth × season interactions. Short-term regenera-                                                       (< 7 %) in the residuals of the regeneration-rate model
+   tion rates at KL 3 m were significantly faster than at                                                     for the 6 m sites (period 45 to 154 d), with Montastraea
+                                                                                                              annularis having higher regeneration rates than
+                                                                                                              M. franksi (1.3 ± 0.3 × 10– 4 cm d–1 vs. 0.8 ± 0.4 × 10– 4 cm
+                                                        6 m sites                                             d–1, respectively). However, this was largely a result of
+                        50      A                                                       KL 6 m
+                                                                                        WB                    an uneven distribution of morphotypes among sites,
+                        40                                                              AR
+                                                                                                              and the species effect was not significant when added
+                                                                                        BNP
+                        30                                                                                    as a covariate to the regeneration-rate model. Species
+                                                                                                              differences did not significantly explain variation in
+                        20                                                                                    the residuals along the depth gradient. Initial lesion
+                        10                                                                                    size, perimeter, and shape explained less than 10% of
+                                                                                                              the residual error in the regeneration (T:P) model at
+                         0                                                                                    the 6 m sites ([A] r2 = 0.09, p = 0.002; [P] r2 = 0.06, p <
+
+
+
+
+∆ T:P (cm d–1 x 10–4)
+                        –10                                                                                   0.01; [P:A] r2 = 0.09, p = 0.002). Residuals were posi-
+                                                                                                              tively correlated with both initial lesion size and
+                        –20                                                                                   perimeter, and negatively correlated with P:A. Along
+                                                                                           KL 3 m
+                                                                                                              the depth gradient, lesion size, perimeter and shape
+                        50      B                       Depth gradient                     KL 6 m
+                                                                                           KL 9 m             were independent of model residuals.
+                        40                                                                 KL 18 m
+
+
+                        30                                                                                                 Quasi-annual regeneration rate
+                        20                                                                                                         (319 to 376 d)
+
+                        10                                                                                       At the 6 m sites, mean quasi-annual regeneration rates
+                         0                                                                                    differed among sites (repeated-measures MANOVA:
+                                                                                                              site effect F3,12 = 14.8, p = 0.0002), season (F3,36 = 11.2, p
+                                                               r–J       Jun      Aug       No
+                        –10      –Au     Aug          t 20   Ma                                               < 0.0001), and with the site × season interactions (F9,36 =
+                              Jun                   Oc                                        v2
+                                          –Oc                                g2      –No
+                                                                          –Au                        b
+                                                                  un                                          4.2, p < 0.0009). Corals at AR and WB regenerated signif-
+                                                                                                  –Fe
+                        –20         g2                 01–                            v2
+                                               01                                             002
+                                                                  200                                         icantly faster than corals at KL 6 m and BNP between
+                                    001    t 20            r 20
+                                                                               002      002
+                                                         Ma
+                                                                     2
+                                                                                                              June 2001 and 2002 (ANOVA: F3,15 = 7.3, p < 0.003; 9 ± 1
+                                                                                                     200      × 10– 4 cm d–1 and 9 ± 0 × 10– 4 cm d–1 vs. 3 ± 1 × 10– 4 cm d–1
+                                                             02                                       3
+                                                                                                              and 2 ± 3 × 10– 4 cm d–1, respectively, Tukey HSD,
+   Fig. 4. Montastraea spp. Mean (± SE) regeneration rates stan-
+   dardized to initial lesion perimeter (∆T:P) for each season,                                               Fig. 5A). Corals at BNP regenerated significantly slower
+   from one sampling event to next, (A) among 6 m sites, and (B)                                              than corals at WB between August 2001 and 2002
+   along depth gradient. Rates calculated between June and                                                    (ANOVA: F3,14 = 3.4, p < 0.05; –4 ± 5 × 10– 4 cm d–1 vs. 8 ±
+   August 2001 (54 ± 13 d), August and October 2001 (56 d),                                                   1 × 10– 4 cm d–1, respectively, Tukey HSD) and corals at
+   October 2001 and March 2002 (153 ± 2 d), March and June
+   2002 (91 ± 1 d), June and August 2002 (48 ± 13 d), August and
+                                                                                                              AR between October 2001 and 2002 (ANOVA: F3,14 = 4.8,
+   November 2002 (74 d) and November 2002 and February                                                        p < 0.01; 0 ± 3 × 10– 4 cm d–1 vs. 8 ± 1 × 10– 4 cm d–1, respec-
+                           2003 (99 ± 1 d)                                                                    tively, Tukey HSD). Corals at AR also regenerated signif-
+                                                            Fisher et al.: Lesion regeneration in corals Montastraea spp.                                                                         67
+
+
+
+
+icantly faster than colonies at KL 6 m and BNP between                                                                                        Healed and Type II lesions
+March 2002 and February 2003 (ANOVA: F3,15 = 5.3,
+p < 0.01; Fig. 5A; 21 ± 5 × 10– 4 cm d–1 vs. 7 ± 1 × 10– 4 cm                                        Coral colonies at AR completely healed significantly
+d–1 and 2 ± 5 × 10– 4 cm d–1, respectively; Tukey HSD).                                            more lesions (30%) than colonies at the other 6 m sites
+Short-term regeneration rates were significantly corre-                                            (Gadj = 15.8, df = 3, p < 0.005). Along the depth gradi-
+lated with quasi-annual trends (r2 = 0.37, p = 0.0001; re-                                         ent, significantly more lesions healed completely at
+gression equation: ∆T:P [annual] = 0.29 ∆T:P [short] + 2.3).                                       3 m depth (31%) than at other depths (Gadj = 12.8, df =
+   Mean regeneration rates varied significantly along                                              3, p < 0.01; Fig. 6). These results indicate significant
+the depth gradient (repeated-measures MANOVA:                                                      heterogeneity among sites in healing.
+site effect F 3,10 = 4.1, p = 0.04), with season (F3,8 = 38.3,                                       Of a total of 171 lesions created at the KL 3 m and all
+p < 0.0001), and the season × site interactions (F9,19.6 =                                         6 m sites combined, only 2 merged with other lesions to
+5.6, p < 0.0007; Fig. 5B). Regeneration rates at KL 3 m                                            become Type II lesions (Table 3). In contrast, at the
+exceeded those at all other sites between March 2002
+                                                                                                                                  50                             6 m sites
+and February 2003 (ANOVA: F3,15 = 5.3, p < 0.02; 18 ±
+4 × 10– 4 cm d–1 vs. 7 ± 1 × 10– 4 cm d–1, 6 ± 2 × 10– 4 cm                                                                                                                        Total number of
+                                                                                                                                  40                                                 completely
+d–1 and 4 ± 2 × 10– 4 cm d–1, respectively; Tukey HSD).
+                                                                                                                                                                                    healed lesions
+Along the depth gradient, short-term regeneration                                                                                                  KL 6 m
+                                                                                                                                  30               WB
+rates explained little variation in quasi-annual trends                                                                                            AR
+(r2 = 0.10, p = 0.007; regression equation: ∆T:P [annual]                                                                                          BNP
+
+
+
+
+                                                                                                    Cumulative % lesions healed
+= 0.12 ∆T:P [short] + 3.3) due to high variability, espe-                                                                         20
+cially among colonies at the KL 9 and 18 m sites.
+                                                                                                                                  10
+
+                        30                          6 m sites
+                              A                                            KL 6 m                                                  0
+                                                                           WB
+                                                                           AR                                                     50
+                        20                                                                                                                                   Depth gradient
+                                                                           BNP
+                                                                                                                                  40                                               Total number of
+                                                                                                                                                   KL 3 m                            completely
+                        10                                                                                                                                                          healed lesions
+                                                                                                                                                   KL 6 m
+                                                                                                                                  30               KL 9 m
+                         0                                                                                                                         KL 18 m
+
+                                                                                                                                  20
+
+
+
+
+∆ T:P (cm d–1 x 10–4)
+                        –10
+                                                                                                                                  10
+                                                                                    KL 3 m
+                        –20                                                         KL 6 m
+                                                                                    KL 9 m                                         0
+                        30    B                     Depth gradient                  KL 18 m                                            0            100             200       300           400
+                                                                                                                                                                  Time (d)
+                        20                                                                         Fig. 6. Montastraea spp. Cumulative percentage (%) of lesions
+                                                                                                   completely healed over time (A) at 6 m sites, and (B) along depth
+                                                                                                   gradient. In the shaded region number adjacent to each line is
+                        10                                                                         total number of completely healed lesions at the relevant site
+
+                         0                                                                         Table 3. Montastraea spp. Percentage of healed and Type II le-
+                                                                                                   sions (no longer enclosed by living tissue) at each site. Total
+                                                  ust
+                                      e                                        –
+                                  Jun                                                        2–
+                                               Aug                         001            200 03
+                                                                                                   number of lesions was < 35 at KL 9 and 18 m, AR, and BNP due
+                        –10                                            er 2 2002      rch    0     to breakage during sampling (see ‘Materials and methods’)
+                                    200                            tob             Ma ary 2
+                                                  200
+                                                     1          Oc mber                ru
+                                         002                       ve              Feb
+                                      1–2                       No
+                        –20                             0                                            Site                                  Total no.          Healed            Type II
+                                                    –20                                                                                                     No.      %        No.       %
+                                                        2
+Fig. 5. Montastraea spp. Mean (± SE) regeneration rates
+                                                                                                     KL 3 m                                   35            11         31      0            0
+(∆T:P) standardized to initial lesion perimeter for each season                                          6m                                   35             2          6      1            3
+between June 2001 and March 2002, from time of sampling                                                  9m                                   29             4         14      6           21
+until following year (A) among 6 m sites, and (B) along 3 to 18                                         18 m                                  29             1          3      9           31
+m depth gradient. Rates calculated between June 2001 and                                             WB                                       35             1          3      0            0
+2002 (357 ± 10 d), August 2001 and 2002 (355 ± 1 d), October                                         AR                                       33            10         30      0            0
+2001 and November 2002 (374 ± 2 d) and March 2002 and                                                BNP                                      33             1          3      1            3
+                  February 2003 (321 ± 2 d)
+68                                         Mar Ecol Prog Ser 339: 61–71, 2007
+
+
+
+
+deepest sites (KL 9 and 18 m combined), 26% of lesions        Our study confirms that regeneration can continue for
+merged to become Type II lesions (Gadj = 12.2, df = 3,        1 yr or more and that lesions that do not initially regen-
+p < 0.01; Table 3). In 2 cases, lesions joined with an-       erate (or even increase in size) can regenerate later if
+other sampled lesion before merging with partial mor-         conditions become favorable.
+tality on other parts of the colony, becoming Type II
+lesions. In all other cases, lesions joined with partial
+mortality naturally formed on the colony and were                                     6 m sites
+often associated with increases in algae, thereby form-
+ing Type II lesions.                                            Mean lesion regeneration rates varied significantly
+                                                              among sites at the same depth, suggesting that lesion
+                                                              regeneration may be a useful indicator of variation in
+                     DISCUSSION                               environmental conditions. Of the 6 m sites, corals
+                                                              consistently had the highest regeneration rates at AR,
+   Following recommendations of Williams (1994) and           which is adjacent to the extensive John Pennekamp
+utilizing the extensive work of Bak, Meesters and             Coral Reef State Park. Colonies at AR had signifi-
+coworkers (e.g. Meesters et al. 1997b), we evaluated          cantly more completely healed lesions than the other
+lesion regeneration as an indicator of coral-colony con-      6 m sites. AR also had the highest live coral cover,
+dition at 7 reefs in BNP and FKNMS. Using this                with relatively large colonies. Lesions at the other site
+bioindicator, we successfully detected significant dif-       adjacent to the state park (WB) also regenerated
+ferences among sites in mean lesion regeneration              exponentially but many failed to heal completely,
+rates. While most previous studies of regeneration            leaving these corals susceptible to fouling organisms.
+monitored lesions for 60 to 150 d, we followed regener-       Partial coral mortality of the community was lowest at
+ation for up to 595 d, which allowed us to observe            this site. In contrast, KL 6 m, located offshore from
+changes in recovery trends that might be missed by a          the most urbanized coastline of Key Largo, had low
+study of shorter duration. Short-term regeneration            regeneration rates and overall live coral cover. Corals
+rates were useful predictors of longer-term regenera-         from the site in Biscayne National Park, offshore from
+tion rates among 6 m sites, but explained little varia-       urban Miami, had the lowest regeneration rates;
+tion along the depth gradient. Monitoring long-term           lesions there often increased in size. Large increases
+regeneration appears necessary when comparing coral           in lesion size at BNP were often associated with sea-
+colonies living in different reef types/depths. Long-         sonal increases in algae (e.g. June 2002), which
+term regeneration rates were time-dependent whereas           sometimes resulted in lesions merging together. Dur-
+short-term regeneration rates were not.                       ing our study, BNP corals had poor lesion recovery
+   Coral lesions regenerate at a rate determined by the       and also exhibited mortality elsewhere on the
+number of polyps surrounding each lesion (Meesters et         colonies. Mean partial mortality of the coral commu-
+al. 1997b, Oren et al. 1997, Lirman 2000b) and nor-           nity was highest at this site. In 2000, Montastraea
+mally follow an exponential-decay model with an               colonies at BNP experienced a severe oxidative and
+asymptote at full healing (Meesters et al. 1994, 1997a,       protein denaturing stress, probably due to chemical
+Lirman 2000b). We found that changes in lesion size           contaminant exposure (Downs et al. 2005). The
+were dynamic and site-dependent and often deviated            colonies we sampled were generally large in size,
+from the expected exponential-decay model. Some               with substantial contiguous areas of living tissue,
+lesions that initially increased in size later regener-       suggesting that the stressor(s) causing poor lesion
+ated, and other lesions that initially began to regener-      recovery and partial mortality were probably recent,
+ate later increased in size, especially at sites with high    within the last 10 to 15 yr or less. Therefore, if
+algal growth (e.g. BNP, and KL 9 and 18 m). If lesions        stresses can be identified and alleviated at this site,
+with a P:A ratio > 2 cm–1 were able to fully regenerate       these large coral heads may survive.
+(Meesters et al. 1997a), then most lesions in our study         Responses of other reef organisms (e.g. white grunts
+should have healed completely. However, only 13%              and foraminifers) at these sites are consistent with
+(n = 229) fully regenerated. The largest lesion (2.0 cm2)     observations of lesion regeneration. Downs et al.
+that fully regenerated did so after 243 d; after 151 d,       (2006) compared biomarker levels in white grunts
+this lesion had regenerated 78% of its area to a size of      Haemulon plumieri at BNP, WB and KL 6 m, finding
+0.45 cm2. Most lesions that healed completely regener-        evidence for a toxic response to a xenobiotic at BNP.
+ated most (> 70%) of their area within 151 d, but com-        Concentrations of pesticides in grunt livers were high-
+plete healing often required 1 yr or longer. One lesion       est at KL 6 m and lowest at WB (Downs et al. 2006).
+that completely healed after 270 d increased 66% in           Using abundances of reef-dwelling foraminifers, Hal-
+size in the first 56 d before beginning to regenerate.        lock (2000) proposed that host algal symbionts can
+                                Fisher et al.: Lesion regeneration in corals Montastraea spp.                         69
+
+
+
+
+indicate whether environmental conditions support                          Comparisions among all study sites
+calcifying organisms dependent upon algal symbioses;
+Fisher et al. (unpubl. data) found that abundances of               All sites we sampled had relatively low coral cover
+such foraminifers were lowest at BNP and KL 6 m and              (< 20%) and appeared to be experiencing stress (Fisher
+highest at WB and AR.                                            et al. unpubl. data). Connell (1997) observed that chro-
+                                                                 nically stressed reefs were less likely to recover from
+                                                                 acute or physical disturbances than reefs that were not
+                    Depth gradient                               chronically stressed. We observed that coral colonies
+                                                                 along developed portions of the coastline (i.e. BNP,
+   Mean regeneration rate also varied among depths,              and KL 6, 9 and 18 m) were the least capable of recov-
+but results depended on how long lesions were moni-              ering from further damage and mortality. Colonies at
+tored. When monitored for <1 yr (45 to 154 d), shallow-          sites offshore from John Pennekamp State Park (AR
+water (3 m) corals regenerated significantly faster than         and WB) recovered from damage despite exposure to
+corals at 6 m but not those at 9 and 18 m. KL 3 m also           potential stressors (e.g. photic stress, contaminants).
+had significantly more healed lesions than other sites           Although KL 3 m is along the same portion of coastline
+along the depth gradient. For lesions sampled in                 as KL 6, 9, and 18 m, lesion recovery and coral condi-
+March 2002 and monitored for approximately 1 yr,                 tion (36 ± 13% live coral cover) at this site was good.
+shallow-water corals (3 m) showed higher regenera-               Other studies also have found that Florida’s inshore
+tion rates than all deeper-water corals (6 to 18 m) along        patch reefs appear to be in better condition and have
+the Key Largo transect. Nagelkerken et al. (1999)                higher coral cover relative to offshore reefs (Beaver et
+observed that deeper-water corals typically receive              al. 2005). Corals at KL 9 and 18 m bleached in 1999,
+less radiant energy and therefore may have lower car-            while those at KL 3 and 6 m did not (Fauth et al. 2003).
+bon reserves than corals in shallow water. However,
+this does not explain why KL 9 and 18 m had mean
+short-term regeneration rates similar to those of the                   Effect of colony and lesion characteristics
+shallowest site. Also, differences in mean regeneration
+rates were not seen between the KL 6 m and the                      Colony size and previous partial tissue mortality (%)
+deeper sites.                                                    did not significantly affect regeneration rates, proba-
+   Regeneration rates of corals from KL 9 and 18 m               bly because colony size was not small enough to limit
+were highly variable. Lesions that initially decreased           resources allocated to regeneration (Oren et al. 2001).
+in size often later increased in size, and overall live          Once regeneration rate was standardized to perimeter,
+coral cover at these sites was low (< 7%). These Mon-            which is a measure of coral tissue available for re-
+tastraea colonies were bioeroded by clionid sponges,             growth in the surrounding margin (Meesters et al.
+making them susceptible to breakage and resulting in             1994), lesion area explained only a small percentage of
+greater patchiness of live tissue, possibly reducing the         the variation in regeneration rate. Colony morphotype
+coral’s ability to recover from damage. Type II lesions          did not have a significant effect on regeneration rate,
+developed more frequently in corals from these deeper            but since the 3 types were not evenly sampled among
+sites. Many lesions joined with dead regions that were           sites this could have confounded the results. However,
+unrelated to our sampling. In 2 cases, the entire colony         low variation among colonies within sites containing
+died; 1 each at KL 9 and 18 m.                                   different species suggests that morphotype was not a
+   Lesion growth was often associated with increased             major factor affecting regeneration. Taxonomic differ-
+algal turf, particularly thick turfs mixed with fine sedi-       ences between these morphologies remain uncertain
+ments. Hall (2001) reported that regeneration was neg-           (Lopez et al. 1999, Fukami & Knowlton 2005).
+atively correlated with algal settlement and cover (par-
+ticularly macroalgae), which requires large energy
+expenditure by corals to overgrow. In our study, algal                                CONCLUSIONS
+turfs and macroalgae fluctuated in abundance, possi-
+bly associated with seasonal changes (as in Lirman &               To standardize comparisons of lesion regeneration
+Biber 2000). Some lesions at our sites regenerated               rates, we recommend (1) monitoring lesions of a similar
+when algal biomass declined, but later increased in              size and perimeter, (2) comparing sites similar in depth
+size as algae grew, shading and possibly killing polyps          and habitat type (i.e. patch reef, fore reef), and (3)
+surrounding the lesions. Particularly in spring and              monitoring lesions for more than 1 yr because many
+summer, we observed dark reddish cyanobacterial                  lesions may require > 200 d to heal. We also recom-
+blooms that formed thick mats on the bottom and over-            mend recording the percentage of healed lesions and
+grew portions of these corals.                                   the occurrence of Type II lesions.
+70                                            Mar Ecol Prog Ser 339: 61–71, 2007
+
+
+
+
+  Based on observations of lesion regeneration rates,               coral Montastraea annularis (Faviidae) at Los Roques
+we conclude that coral colonies under relatively favor-             National Park, Venezuela. Rev Biol Trop 50:1055–1065
+                                                                 Downs CA, Mueller E, Phillips S, Fauth JE, Woodley CM
+able environmental conditions (e.g. AR, WB, and
+                                                                    (2000) A molecular biomarker system for assessing the
+KL 3 m) will consistently have high regeneration rates,             health of coral (Montastraea faveolata) during heat stress.
+with lesion sizes decreasing exponentially over time, a             Mar Biotechnol 2:533–544
+high percentage of healed lesions, and a low occur-              Downs CA, Fauth JE, Robinson C, Curry R, Lanzendorf B,
+rence of Type II lesions. Likewise, we conclude that                Halas JC, Halas JF, Woodley CM (2005) Cellular diagnos-
+                                                                    tics and coral health: declining coral health in the Florida
+less favorable conditions (e.g. KL 6, KL 9 and 18 m, and            Keys. Mar Pollut Bull 51:558–569
+BNP) can be identified by lesions that exhibit little            Downs CA, Fauth JE, Wetzel D, Hallock P, Halas JF, Halas JC,
+regeneration, or high variability including increases in            Curry R, Woodley CM (2006) Investigating coral reef
+lesion size (overall low regeneration rates), low per-              degradation at Alina’s Reef in the Florida Keys: cellular
+                                                                    physiology of white grunt (Haemulon plumieri ) as a bio-
+centage of healed lesions, a high occurrence of Type II
+                                                                    logical indicator. Environ Forensics 7:15–32
+lesions, and a high percentage of breakage (indicative           Fauth JE, Downs CA, Halas JC, Dustan P, Woodley CM (2003)
+of bioerosion). Causes for differences in coral condition           Mid-range prediction of coral bleaching: a molecular
+at small spatial scales deserve further investigation.              diagnostic system approach. In: Valette-Silver N, Scavia D
+  Regeneration rates of coral lesions reflect the ability           (eds) Ecological forecasting: new tools for coastal and
+                                                                    ecosystem management, Vol 1. NOAA Tech Memo NMFS
+of colonies to repair damage and therefore can be use-              NOC NCCOS: 5–12
+ful, inexpensive indicators of reef coral condition or of        Fine M, Oren U, Loya Y (2002) Bleaching effect on regenera-
+environmental conditions. A caveat of this indicator is             tion and resource translocation in the coral Oculina pata-
+that it is not capable of separating effects of coral               gonica. Mar Ecol Prog Ser 234:119–125
+                                                                 Fukami H, Knowlton N (2005) Analysis of complete mitochon-
+health versus external environmental factors on lesion
+                                                                    drial DNA sequences of three members of the Montas-
+regeneration rate. More expensive assays can then be                traea annularis coral species complex (Cnidaria, Antho-
+applied to distinguish between stressor types at sites              zoa, Scleractinia). Coral Reefs 24:410–417
+where coral regeneration is compromised.                         Ginsburg RN, Gischler E, Kiene WE (2001) Partial mortality of
+                                                                    massive reef-building corals: an index of patch reef condi-
+                                                                    tion, Florida reef tract. Bull Mar Sci 69:1149–1173
+Acknowledgements. We thank the Florida Fish and Wildlife         Hall VR (2001) The response of Acropora hyacinthus and
+Research Institute for use of their underwater camera equip-        Montipora tuberculosa to three different types of colony
+ment, and R. Curry, C. Downs, J. C. and J. F. Halas, G. Klung-      damage: scraping injury, tissue mortality and breakage.
+ness, S. Ryan, S. Viehman and the NOAA Florida Keys                 J Exp Mar Biol Ecol 264:209–223
+National Marine Sanctuary and Biscayne National Park for         Hallock P (2000) Larger foraminifera as indicators of coral-
+assistance in the field and with boats. We thank NOAA’s             reef vitality. In: Martin RE (ed) Environmental micropale-
+National Undersea Research Center (UNCW) and Everglades             ontology, Vol 15. Kluwer Academic/Plenum Publishers,
+National Park for housing. This research was conducted              New York, p 121–150
+under permit numbers BISC-2001-SCI-0022, BISC-2002-SCI-          Kawaguti S (1937) On the physiology of reef corals. III.
+0012 and BISC-2003-SCI-0019 from the National Park Service          Regeneration and phototropism in reef corals. Palao Trop
+and FKNMS-2001-008 from the Florida Keys National Marine            Biol Stn Stud 1:209–216
+Sanctuary. This work was funded, in part, by National Sea        Kramarsky-Winter E, Loya Y (2000) Tissue regeneration in
+Grant, Environmental Marine Biotechnology Award No.                 the coral Fungia granulosa: the effect of extrinsic and
+NA86RG0052, Am.7.1 (C.M.W.), by NOAA-NURC-UNCW                      intrinsic factors. Mar Biol 137:867–873
+subcontract 2004-19B (P.H.), and by NSF Grant DEB9727039         Lang JC (ed) (2003) Status of coral reefs in the Western
+(J.E.F.).                                                           Atlantic: results of initial surveys, Atlantic and Gulf Rapid
+                                                                    Reef Assessment (AGRRA) program. Atoll Res Bull 496
+                                                                 Lester RT, Bak RPM (1985) Effects of environment on regen-
+                    LITERATURE CITED                                eration rate of tissue lesions in the reef coral Montastrea
+                                                                    annularis (Scleractinia). Mar Ecol Prog Ser 24:183–185
+Bak RPM, Meesters EH (1999) Population structure as a            Lirman D (2000a) Fragmentation in the branching coral Acro-
+   response of coral communities to global change. Am Zool          pora palmata (Lamarck): growth, survivorship, and repro-
+   39:56–65                                                         duction of colonies and fragments. J Exp Mar Biol Ecol
+Bak RPM, Brouns JJWM, Heys FML (1977) Regeneration and              251:41–57
+   aspects of spatial competition in the scleractinian corals    Lirman D (2000b) Lesion regeneration in the branching coral
+   Agaricia agaricites and Montastraea annularis. Proc 3rd          Acropora palmata: effects of colonization, colony size,
+   Int Coral Reef Symp p 143–148                                    lesion size and lesion shape. Mar Ecol Prog Ser 197:
+Beaver CR, Jaap WC, Porter JW, Wheaton J and 6 others               209–215
+   (2005) Coral reef evaluation and monitoring program,          Lirman D, Biber P (2000) Seasonal dynamics of macroalgal
+   2004 executive summary, Florida Fish and Wildlife Con-           communities of the Northern Florida reef tract. Bot Mar
+   servation Commission and University of Georgia, St.              45:303–314
+   Petersburg                                                    Lopez JV, Kersanach R, Rehner SA, Knowlton N (1999) Mole-
+Connell JH (1997) Disturbance and recovery of coral assem-          cular determination of species boundaries in corals:
+   blages. Coral Reefs 16:S101–S113                                 genetic analysis of the Montastraea annularis complex
+Croquer A, Villamizar E, Noriega N (2002) Environmental             using amplified fragment length polymorphisms and a
+   factors affecting tissue regeneration of the reef-building       microsatellite marker. Biol Bull (Woods Hole) 196:80–93
+                                  Fisher et al.: Lesion regeneration in corals Montastraea spp.                                 71
+
+
+
+
+Mascarelli PE, Bunkley-Williams L (1999) An experimental              bean corals Porites astreoides and Stephanocoenia miche-
+  field evaluation of healing in damaged, unbleached and              linii. Mar Ecol Prog Ser 163:279–283
+  artificially bleached star coral, Montastrea annularis. Bull     Nagelkerken I, Meesters EH, Bak RPM (1999) Depth-related
+  Mar Sci 65:577–586                                                  variation in regeneration of artificial lesions in the Carib-
+Meesters EH, Bak RPM (1993) Effects of coral bleaching on             bean corals Porites astreoides and Stephanocoenia miche-
+  tissue regeneration potential and colony survival. Mar              linii. J Exp Mar Biol Ecol 234:29–39
+  Ecol Prog Ser 96:189–198                                         Oren U, Benayahu Y, Loya Y (1997) Effect of lesion size and
+Meesters EH, Bos A, Gast GJ (1993) Effects of sedimentation           shape on regeneration of the Red Sea coral Favia favus.
+  and lesion position on coral regeneration. Proc 7th Int             Mar Ecol Prog Ser 146:101–107
+  Coral Reef Symp 671–678                                          Oren U, Benayahu Y, Lubinevsky H, Loya Y (2001) Colony
+Meesters EH, Noordeloos M, Bak RPM (1994) Damage and                  integration during regeneration in the stony coral Favia
+  regeneration: links to growth in the reef-building coral            favus. Ecology 82:802–813
+  Montastrea annularis. Mar Ecol Prog Ser 112:119–128              Sokal RR, Rohlf FJ (1995) Biometry. The principles and prac-
+Meesters EH, Weeseling I, Bak RPM (1997a) Coral colony tis-           tice of statistics in biological research, 3rd edn. WH Free-
+  sue damage in six species of reef-building corals: partial          man & Company, New York
+  mortality in relation with depth and surface area. J Sea         Van Veghel MLJ, Bak RPM (1994) Reproductive cha-
+  Res 37:131–144                                                      racteristics of the polymorphic Caribbean reef building
+Meesters EM, Pauchli W, Bak RPM (1997b) Predicting regen-             coral Montastrea annularis. III. Reproduction in damaged
+  eration of physical damage on a reef-building coral by              and regenerating colonies. Mar Ecol Prog Ser 109:
+  regeneration capacity and lesion shape. Mar Ecol Prog Ser           229–233
+  146:91–99                                                        Williams I (1994) An investigation into the use of coral lesions
+Nagelkerken I, Bak RPM (1998) Differential regeneration of            as indicators of environmental pollution. MS thesis,
+  artificial lesions among sympatric morphs of the Carib-             University of Newcastle, Newcastle upon Tyne
+
+
+Editorial responsibility: Howard Browman (Associate Editor-        Submitted: January 27, 2006; Accepted: July 23, 2006
+in-Chief), Storebø, Norway                                         Proofs received from author(s): May 18, 2007
+

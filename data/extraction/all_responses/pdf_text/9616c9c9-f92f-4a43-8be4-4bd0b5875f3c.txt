@@ -1,0 +1,778 @@
+      Vol. 570: 87–99, 2017                  MARINE ECOLOGY PROGRESS SERIES
+                                                                                                               Published April 27
+https://doi.org/10.3354/meps12114                    Mar Ecol Prog Ser
+
+
+
+
+ Temperature and symbiosis affect lesion recovery
+in experimentally wounded, facultatively symbiotic
+                 temperate corals
+              E. M. Burmester1, 2,*, J. R. Finnerty1, L. Kaufman1, R. D. Rotjan1, 2,*
+                  1
+                  Boston University Department of Biology, 5 Cummington Mall, Boston, MA 02215, USA
+  2
+   John H Prescott Marine Laboratory, Anderson-Cabot Center for Ocean Life, New England Aquarium, 1 Central Wharf,
+                                               Boston, MA 02110, USA
+
+
+
+
+       ABSTRACT: The health of most reef-building corals depends upon an intracellular symbiosis with
+       photosynthetic dinoflagellates of the genus Symbiodinium that is acutely sensitive to increasing
+       ocean temperatures. However, distinguishing the individual effects of both temperature and symbi-
+       otic state on coral health is difficult to investigate experimentally in most tropical corals because the
+       symbiosis is obligate. Here, we varied temperature (9, 18, 24°C) and symbiotic state (symbiotic,
+       aposymbiotic) in the facultatively symbiotic, temperate scleractinian coral Astrangia poculata to ex-
+       plore the individual impact of temperature and symbiosis on wound healing, an important compo-
+       nent of coral resilience, by determining wound size using calibrated photographs and
+       characterizing developmental stage through the healing process over time. Symbiotic corals
+       demonstrated a significant healing advantage over corals with lower densities of S. psygmophilum
+       (aposymbiotic state), regardless of temperature. In addition, overall recovery success of both symbi-
+       otic states increased with temperature. These data suggest that a functional symbiotic relationship
+       with S. psygmophilum promotes lesion recovery despite heterotrophic energy sources. Reductions
+       in healing rate and tissue cover near the wound site under cold temperatures suggest that wound
+       healing is compromised during the winter in these temperate corals. This study demonstrates that
+       supplemental energy sources from symbiosis, coupled with optimal growth conditions, promote
+       wound healing and may offer insight into factors enhancing wound recovery in tropical corals.
+
+       KEY WORDS: Coral · Recovery · Symbiosis · Temperature · Lesions
+                              Resale or republication not permitted without written consent of the publisher
+
+
+
+
+                      INTRODUCTION                                      demanding (Oren et al. 2001, Henry & Hart 2005,
+                                                                        Jayewardene et al. 2009, Lenihan & Edmunds 2010).
+   One key determinant of coral resilience is the abil-                 As a result, wounding can lead to reductions in
+ity to heal from wounds. In nature, corals sustain                      colony fecundity (Oren et al. 2001, Rotjan & Dimond
+lesions regularly, and from multiple causes, includ-                    2010) and growth (Meesters et al. 1994, Jayewardene
+ing corallivory (Kaufman 1981, Jompa & McCook                           2010, Lenihan & Edmunds 2010). Furthermore, until
+2003, Jayewardene & Birkeland 2006, Rotjan and                          epithelial integrity is reestablished, wounded colo-
+Lewis 2008, Cole et al. 2008), algal abrasion (Coyer                    nies are left with patches of bare calcium carbonate
+et al. 1993, Grace 2004), sedimentation (Nugues &                       that are susceptible to overgrowth by benthic com-
+Roberts 2003a,b), and hurricane activity (Bythell et                    petitors such as algae and sponges (Meesters et al.
+al. 1993a). Tissue regeneration (by which tissue has                    1996, 1997, Diaz-Pulido & McCook 2002, Jompa &
+re-grown and/or polyp body plan is reimposed) and                       McCook 2003, Rotjan & Lewis 2005). Such over-
+full wound recovery (by which colony integrity is                       growth may inhibit the recovery of coral tissue and
+restored, including calcification) are energetically                    overall colony growth (River & Edmunds 2001).
+
+
+*Corresponding authors: eburmest@bu.edu, rrotjan@bu.edu                 © Inter-Research 2017 · www.int-res.com
+88                                         Mar Ecol Prog Ser 570: 87–99, 2017
+
+
+
+
+Therefore, the pace of healing and regeneration is               The northern star coral Astrangia poculata (= A.
+critical to coral survival.                                   danae; Peters et al. 1988) is an ideal organism to decou-
+   Healing rate can be influenced by a number of fac-         ple the effects of temperature and symbiosis because
+tors, including coral species (Bak & Steward-Van Es           its distribution spans a wide range of temperatures and
+1980), the size of the lesion (Meesters et al. 1996), and     it exhibits a facultative symbiosis with Symbiodinium.
+the ratio of wound perimeter to surface area (Meesters        A. poculata is a temperate species whose native range
+et al. 1997). Infrequent high-energy traumas tend to          extends along the US east coast, from Florida and the
+cause larger injuries, whereas due to their greater fre-      Gulf of Mexico to Rhode Island (RI) (Dimond & Car-
+quency, the fine-scale wounds that result from smaller        rington 2007, Thornhill et al. 2008). In nature, A. pocu-
+disturbances (such as fish bites) can account for a           lata may be found in symbiosis with S. psygmophilum
+greater loss of live tissue than large-scale wounds           (Lajeunesse et al. 2012), but colonies may also be found
+(Hughes & Jackson 1985, Bythell et al. 1993b, Rotjan          in an aposymbiotic (relatively low density of S. psyg-
+& Lewis 2006). Therefore, it is particularly important        mophilum) state in the same habitat with symbiotic
+to understand the factors that impact how rapidly             colonies (Dimond et al. 2013). Even within a colony,
+corals heal from these small lesions.                         symbiont densities can vary markedly among polyps,
+   Environmental stress also influences the rate of           resulting in mixed or mottled phenotypes (Fig. 1). Re-
+healing and regeneration (Fisher et al. 2007). For            gardless of symbiont state, all colonies of A. poculata
+example, temperature-induced bleaching (Meesters              rely heavily on heterotrophy as a source of energy
+& Bak 1993, Rotjan et al. 2006) and high sedimenta-           (Szmant-Froelich & Pilson 1980). The symbiotic state of
+tion (Meesters et al. 1994, Cróquer et al. 2002) impair       the colony is a function of zooxanthellae expulsion
+healing capability in corals. Because of their impor-         rates, i.e. aposymbiotic colonies actively maintain a
+tance to coral resilience and sensitivity to environ-         very low density of S. psygmophilum through high ex-
+mental conditions, wound recovery and regeneration            pulsion rates (Dimond & Carrington 2007). Polyps of A.
+have been used as metrics to assess colony health in          poculata remain functionally aposymbiotic until S.
+the field (Meesters et al. 1994) and in the laboratory        psygmophilum density reaches or exceeds 106 cells
+(Work & Aeby 2010), and to forecast the ability of a          cm−2, after which polyps appear consistently brown
+coral to survive prevailing environmental conditions          throughout the body column (Dimond & Carrington
+(Downs et al. 2005).                                          2007). As a result, these functionally aposymbiotic
+   While lesion healing has been studied extensively in       colonies differ significantly from bleached corals, as
+the field in a variety of species (reviewed by Henry &        the low density of Symbiodinium sp. within host cells is
+Hart 2005, and for example: Nagelkerken & Bak 1998,           (1) not indicative of stress and (2) not the result of a
+Denis et al. 2011, Cameron & Edmunds 2014) as well            breakdown in symbiotic pathways between alga and
+as across a range of intrinsic and extrinsic factors (e.g.    host. Thus, unlike corals in obligate symbioses, quali-
+Van Veghel & Bak 1994, Nagelkerken et al. 1999,               tative differences in symbiont density exist as stable
+Kramarsky-Winter & Loya 2000, Edmunds 2009), few              states in nature. Additionally, the sympatric overlap of
+studies have directly studied the impact of symbiosis         different symbiont states provides a natural experiment
+on the healing process. In tropical corals, photosyn-         for exploring the relative roles of symbiont and host on
+thetic endosymbiotic alga of the genus Symbiodinium           different biological functions. Previous studies have
+can provide up to 95% of the coral host’s energy (Mus-        exploited the facultative symbiosis of A. poculata to
+catine 1990); however, environmental stress (such as          investigate the effects of the coral−algal symbiosis on
+rising temperatures or changes in salinity) can decou-        coral health, including the effect of symbiont density
+ple this obligate symbiosis, resulting in ‘bleaching’         on coral nutrition (Szmant-Froelich & Pilson 1980,
+(Hoegh-Guldberg 1999, Rowan 2004). This bleached              1984), resistance to ocean acidification (Holcomb et
+state is not stable because of the resulting nutritional      al. 2010, 2012), post-sedimentation recovery (Cohen et
+deficiency, and those colonies that are unable to shift       al. 2002), calcification and metabolism (Jacques &
+or regain symbiotic partners will die (Grottoli et al.        Pilson 1980, Cummings 1983, Jacques et al. 1983), and
+2006, Baker et al. 2008). Because it is difficult to main-    physical parameters of wound recovery (DeFilippo
+tain tropical corals in a bleached state, and because         et al. 2016).
+high temperatures result in bleaching, it is difficult to        The objective of this study was to determine the
+experimentally distinguish the impacts of bleaching           effects of temperature and symbiont state on wound
+and temperature on wound healing (Henry & Hart                recovery in coral colonies. We conducted controlled
+2005), although this is of particular interest to coral       laboratory experiments to investigate tissue recovery
+conservation (Edmunds & Lenihan 2010).                        in naturally occurring symbiotic (high density of S.
+                                Burmester et al.: Temperature, symbiosis, and coral recovery                               89
+
+
+
+
+                                                                                      2014. As described by DeFilippo et al.
+                                                                                      (2016), specimens were housed in a
+                                                                                      flow-through aquarium system at the
+                                                                                      New England Aquarium. Seawater
+                                                                                      was filtered using a protein skimmer
+                                                                                      and UV treatment, and water quality
+                                                                                      was measured weekly. Tanks were
+                                                                                      illuminated for 10 h d−1 using T5 HO
+                                                                                      fluorescent lighting fixtures (Hamilton
+                                                                                      Technology, Aruba Sun T5-V Series).
+                                                                                      Photosynthetically active radiation
+                                                                                      (PAR) was kept constant at an average
+                                                                                      of 37.5 ± 10.1 µmol m−2 s−1. Corals
+                                                                                      were fed daily with frozen copepods
+                                                                                      (JEHM) directed to all polyps within
+                                                                                      each colony using a turkey baster. All
+                                                                                      colonies were acclimated to 18°C for
+                                                                                      at least 2 wk prior to commencing
+                                                                                      healing trials. Throughout the dura-
+                                                                                      tion of the initial acclimation and the
+                                                                                      experimental trials, all colonies were
+                                                                                      cleaned weekly using a soft nylon
+                                                                                      brush to remove algae and forceps to
+                                                                                      remove epibionts (e.g. polychaetes).
+                                                                                      Only bare skeletal regions (i.e. no live
+                                                                                      tissue) were brushed in this manner to
+                                                                                      avoid inflicting additional wounds or
+                                                                                      tissue damage. Colonies were as-
+Fig. 1. (A) Stages of wound healing as demonstrated in Astrangia poculata. a:         signed symbiont state as described by
+Experimentally-induced bare skeleton wound (w) from initial polyps (ip); b: no
+demonstration of recovery with wound site covered in algae (a); c: formation of       Dimond & Carrington (2007) and de-
+undifferentiated tissue (ut) from wound edges (as shown) or from within cal-          monstrated by Dimond et al. (2013)
+ice; d: formation of tentacle nubs (tn); e: re-establishment of full polyp (fp) with  and DeFilippo et al. (2016), where
+fully functional tentacles. (B) Symbiont states in A. poculata. f: Aposymbiotic       symbiont state was determined visu-
+colonies appear white; g: mixed symbiont colonies have a range of symbiotic
+(s) and aposymbiotic (ap) polyps; h: fully symbiotic colonies appear brown
+                                                                                      ally using color as a proxy for chloro-
+                                                                                      phyll density. Additionally, to ensure
+                                                                                      this method accurately represented
+psygmophilum) and aposymbiotic (low density or                        our system, a random subset of photos of 20 symbiotic
+absence of S. psygmophilum) colonies of A. poculata                   and 20 aposymbiotic colonies were analyzed for
+at 3 environmentally relevant temperatures charac-                    approximated chlorophyll density using the protocol
+teristic of winter (9°C), summer (18°C), and a temper-                of Dimond & Carrington (2007). On average, the ap-
+ature above this coral’s natural range (24°C). Several                proximated chlorophyll densities for symbiotic colo-
+healing metrics indicate that symbiotic corals exhibit                nies (0.45 ± 0.04 µg cm−2, mean ± SE) were signifi-
+significantly greater healing ability at 18 and 24°C.                 cantly higher than those of aposymbiotic colonies (0.13
+                                                                      ± 0.02 µg cm−2; ANOVA, F1, 38 = 53.4058, p < 0.0001).
+
+            MATERIALS AND METHODS
+                                                                  Experimental setup and temperature manipulation
+               Collection and husbandry
+                                                                   Symbiotic and aposymbiotic colonies were sorted
+  Colonies exhibiting a range of symbiont densities              into pairs for treatment. Colony pairs were randomly
+were collected from depths of 6 to 10 m at Fort                  placed into treatment groups, controlling for size
+Wetherill State Park in Jamestown, RI (41° 28’ 40” N,            between treatments. Sizing was based on colony
+71° 21’ 34” W) from late spring through early fall               mass, a measurement of whole colony mass after
+90                                      Mar Ecol Prog Ser 570: 87–99, 2017
+
+
+
+
+the removal of excess water from bare skeletal             coated file, followed by a final cleaning with a Water-
+regions. This measurement exhibited a high degree          pik. These lesions were designed to mimic destruc-
+of precision; 5 separate mass measurements were            tive forces that remove both tissue and skeleton (i.e.
+performed on each of 37 colonies, and the mean             predation, mechanical injury, storm damage, etc.),
+variation in measurements performed on the same            but were inflicted in such a way to create as uniform a
+individual was 0.69%. Overall, average colony mass         wound as possible between replicates. Colony mass
+was 6.32 ± 0.27 g (SE). Paired colonies were placed        for each colony was measured before and after
+adjacent to one another on a submerged platform in         wounding to determine wound size (via change in
+a randomized fashion in order to control for tank          mass).
+microclimate (lighting, flow, etc.). However, each
+pair of colonies was kept at a distance of 6−10 cm to
+avoid direct interaction. Three temperature treat-                           Lesion recovery
+ments were tested: 9°C (within the natural range for
+winter), 18°C (within the natural range for summer),          Lesions were photographed using a Leica
+and 24°C (outside the typical temperature range for        M165FC stereomicroscope immediately after
+this site). Experimental temperatures were chosen          wounding (Day 0) and at 10 time points post-
+based on environmental data for the area (NOAA             wounding (5, 10, 15, 20, 25, 30, 40, 50, 60, and 75 d).
+Tides & Currents, Newport, RI: site 8452660), where        Photographs from Day 0 were used to calibrate
+sea surface temperatures ranged from 0.5 to 23°C           post-wound photos to ensure consistent magnifica-
+during the 2014 calendar year. To account for sea-         tion as well as colony angle and position. Photo-
+sonality and to accommodate the limitations of our         graphs were scored for whether or not colonies
+system (i.e. tank space, ability to manipulate multi-      exhibited signs of healing (i.e. new tissue within the
+ple temperatures simultaneously), 9°C treatments           wound site) as well as the developmental state of
+were performed in the winter months and 24°C               new tissue (undifferentiated tissue, tentacle nubs, or
+treatments were performed in the summer and early          full polyp; Fig. 1A [panels c−e, respectively]). These
+fall. For continuity between seasonal experiments          3 stages were chosen because they can be identified
+and to control for captivity duration, 2 trials of the     unambiguously, and they represent important
+18°C group were carried out: 1 in winter and 1 in          developmental landmarks on the way towards full
+summer. Winter and summer 18°C trials were then            healing, which begins with the formation of undif-
+compared to determine any potential changes due            ferentiated tissue, followed by initiation of tentacle
+to season, captivity duration, or husbandry (there         formation, and concludes with the formation of a
+were none). Therefore, at 18°C, 40 colonies of each        full polyp that has the ability to feed (as evidenced
+symbiont state were sampled; meanwhile, 20                 by tentacular contraction; Fig. 1A). Achievement of
+colonies of each symbiont type were sampled at 9           this final developmental landmark was recognized
+and 24°C. At 18°C, 1 wounded aposymbiotic colony           as the indicator of healing success. Wound surface
+was lost during routine tank cleaning (non-mortal-         area was determined for Days 0 and 75 using hand-
+ity), reducing the sample size of that group to 39         drawn area tools that are part of the Leica M165FC
+colonies (and a total of 159 colonies overall). Corals     software. Three measurements were taken for each
+in the 9 and 24°C tanks were subjected to a temper-        photo, and the wound surface area was estimated as
+ature increase or decrease from 18°C at a rate of          their average. The percent change in wound surface
+1°C every 12 h. Colonies in these tanks were accli-        area was calculated as final wound area minus the
+mated at their final experimental temperatures for         initial wound area divided by the initial wound
+1 wk prior to wounding.                                    area.
+
+
+                     Wounding                                                  Colony mass
+
+  All experimental corals were wounded in a consis-          Bare skeletal regions of each colony were tho-
+tent fashion: a single polyp, centrally located in the     roughly cleaned, avoiding live tissue, with a soft
+colony, was removed using a scalpel, and the calyx         nylon brush and forceps prior to each measurement
+was cleared of tissue using a Waterpik (Fig. 1) before     of mass to prevent confounding colony growth with
+the immediate surrounding skeleton was filed to a          algal growth. The difference between the initial post-
+uniform basal skeletal height using a diamond-             wound mass (Day 0) and final mass (Day 75) was
+                             Burmester et al.: Temperature, symbiosis, and coral recovery                           91
+
+
+
+
+used to calculate a healing mass differential, i.e. the                               Statistics
+gain or loss of mass over the healing process. We also
+determined the mass of the wound itself by subtract-           Healing initiation (proportion of colonies having
+ing the colony’s post-wound mass from its pre-wound          developed any of the 3 landmark stages of healing)
+mass. Two specimens were removed from the analy-             and healing success (proportion of colonies having
+sis (1 each from the 9°C symbiotic and aposymbiotic          regenerated new full polyps) were analyzed using
+groups) because their colony mass at the time of             generalized logistic mixed models (GLMMs) in the
+wounding had not been accurately recorded.                   lme4 package in R. Logistic models were compared
+                                                             using Akaike’s information criterion (AIC) scores,
+                                                             and a reduction in AIC of at least 2 was required to
+              Photosynthetic efficiency                      accept a given model over another or to validate the
+                                                             inclusion of a new variable in the model (Burnham &
+   In order to test for symbiont performance, photo-         Anderson 2002). In the case of 2 models whose AIC
+synthetic efficiency (maximum quantum yield: Fv /Fm)         scores differed by less than 2, the simpler model was
+was measured for each colony at 3 time points over           chosen (Burnham & Anderson 2002). Odds ratios
+the course of the experiment (0, 30, and 60 d) using a       were generated using exponentiated estimates. The
+Walz JUNIOR-PAM pulse-amplitude modulated flu-               effects of symbiont state and temperature on colony
+orescence meter. All readings were taken between             mass and surface area were compared using Laplace-
+11:00 and 13:00 h on each day to reduce diel fluctua-        approximated generalized linear mixed models on
+tions between readings across time points. As                the nlme package in R (R Core Team 2013, Pinheiro
+described by DeFilippo et al. (2016), colonies were          et al. 2017). In order to test for the potential effect of
+acclimated to darkness for 30 min in a closed dark           colony size and wound size on recovery and colony
+container and then transferred individually to a glass       mass, we included wound mass, initial mass, and
+beaker with 5−7 cm of seawater stored within a dark          initial wound surface area as fixed effects in addition
+box to reduce light exposure during measurement.             to symbiont state and temperature in the analyses of
+For each measurement, polyps were first exposed to           healing initiation, healing success, wound closure,
+6 s of far-red illumination to determine minimal fluo-       and colony mass. The impacts of added fixed, inter-
+rescence while dark-adapted (F0). They were then             action, and random effects were determined using a
+exposed to 0.6 s of a saturating pulse (10 000 µmol          forward and reverse stepwise approach (using AIC
+m−2 s−1) to determine maximal fluorescence (Fm). The         for logistic models and likelihood ratio tests for linear
+change in fluorescence between F0 and Fm (∆F ) was           models). Additionally, tank assignment was desig-
+divided by maximal fluorescence (Fm) to calculate            nated as a random effect in all generalized logistic
+maximum quantum yield (Fv /Fm; Suggett et al. 2010).         and linear models to control for potential conse-
+Readings were taken with a light fiber held approxi-         quences of multiple colony pairs in the same tank.
+mately 1 mm from the oral groove of 3 haphazardly              In order to test for changes in photosynthetic effi-
+selected polyps per colony, and the resulting average        ciency over time, maximum quantum yield was ana-
+maximum quantum was used to represent the colony.            lyzed between symbiont states and temperatures
+                                                             over time using a restricted maximum liklihood
+                                                             (REML)-fitted GLMM in the lme4 package in R (R
+     Documentation of altered symbiotic state                Core Team 2013, Bates et al. 2015). Individual coral
+                                                             identity was nested within tank in order to control for
+  We visually inspected microscope photos from               changes in an individual across time points and to
+Day 75 to qualitatively assess whether any of the            account for potential confounds of tank housing.
+polyps within a 2-polyp radius of the wound had              Model selection criteria were based on reductions in
+undergone a change in symbiont density as evi-               AIC in the same manner as logistic model selections.
+denced by a shift in color. Shifts in symbiont density         Fisher’s exact tests and ANOVAs were used to
+were quantified as the percentage of polyps chang-           determine the effect of shifts in symbiont density on
+ing symbiont state between Day 0 and Day 75; only            the relative ratios of healing ability and stage, and
+polyp-level shifts from aposymbiotic to symbiotic            relative means of colony mass and surface area
+were observed. Such shifts became apparent when              recovery, respectively, for aposymbiotic corals at 18
+individual polyps in a colony would develop clusters         and 24°C. No colonies at 9°C showed signs of shifts in
+of brown spots (i.e. symbiosomes) detectable under           symbiont density, and this group was therefore ex-
+the microscope.                                              cluded from this analysis.
+92                                          Mar Ecol Prog Ser 570: 87–99, 2017
+
+
+
+
+                        RESULTS                                surface area significantly improved the model (AIC
+                                                               208.6, Table 3). Likewise, only symbiont state and
+            Healing initiation and success                     temperature were found to be significant predictors
+                                                               of full polyp formation (i.e. healing success) in corals
+   Overall, there was a significant impact of symbiosis        at 18 and 24°C (AIC 68.64, Table 4).
+on the healing process (Fig. 2). Adjusted for tank
+grouping, symbiotic corals (40 out of 80 colonies)             Table 1. Odds ratios (with 95% CI) for fixed effect comparisons
+were 2.4 times as likely as aposymbiotic (25/79)                          of healing ability of Astrangia poculata
+corals to have initiated healing (developed new tis-
+sue of any kind) at the wound site (Table 1), and 5.8            Effect                              Odds ratio (95% CI)
+times as likely to have successfully completed heal-
+                                                                 Symbiont state                         2.370 (1.205, 4.663)
+ing (reached the full polyp stage) by the end of the
+                                                                 9°C: 18°C                              2.856 (1.033, 7.898)
+trial (15/80 symbiotic; 3/79 aposymbiotic; Table 2).             9°C: 24°C                              4.664 (1.459, 14.910)
+Healing initiation also increased with temperature               18°C: 24°C                             1.633 (0.6325, 4.215)
+(Fig. 2): with random effects, the odds ratio of
+exhibiting any healing at 24°C (23/40) was 4.7 times
+greater than at 9°C (9/40) and 1.6 times greater than          Table 2. Odds ratios (with 95% confidence interval, fixed
+at 18°C (33/79), while the odds ratio for corals at 18°C       effect comparisons of healing success (polyp formation) of
+was 2.9 times that of corals kept at 9°C. None of the                             Astrangia poculata
+9°C colonies developed full polyps by the end of the
+trial; however, among those colonies that did suc-               Effect                              Odds ratio (95% CI)
+cessfully complete the healing process, the odds ratio
+                                                                 Symbiont state                      5.769 (1.346, 24.732)
+of complete healing at 24°C (10/40) was 3.2 times                Temperature                         3.253 (0.927, 11.418)
+greater than at 18°C (8/79). Consistent with these
+observations, both symbiont state and temperature
+were found to be significant predictors of healing ini-        Table 3. Laplace-approximated generalized mixed logistic
+tiation in a GLMM analysis (Table 3). However, nei-            regression for healing ability of Astrangia poculata (AIC =
+ther the interaction between these 2 variables nor the         208.6). S: symbiotic; A: aposymbiotic. For fixed effects, sym-
+added fixed effects of mass, wound mass, and wound             bols indicate significance considered at **p < 0.001, *p < 0.05
+
+
+                                                                 Effect              Estimate      SE         Z         p
+
+                                                                 Rooted under aposymbiotic and 9°C conditions
+                                                                 Intercept          −1.7812 0.4876 −3.653 0.0003**
+                                                                 Symbiont state (S)  0.8627 0.3452 2.499 0.0124*
+                                                                 18°C                1.0496 0.5189 2.023 0.0431*
+                                                                 24°C                1.5399 0.5929 2.597 0.0094*
+
+                                                                 Rooted under symbiotic and 18°C conditions
+                                                                 Intercept           0.1311 0.3193 0.411            0.6813
+                                                                 Symbiont state (A) −0.8627 0.3452 −2.499           0.0124*
+                                                                 9°C                −1.0496 0.5189 −2.023           0.0431*
+                                                                 24°C                0.4903 0.4839 1.013            0.3109
+
+
+
+                                                               Table 4. Laplace-approximated generalized mixed logistic
+                                                               regression for healing success (rooted under aposymbiotic
+                                                               and 18°C conditions) (AIC = 68.64). S: symbiotic. For fixed
+                                                               effects, symbols indicate significance considered at **p <
+                                                                                0.001, *p < 0.05, +p < 0.01
+Fig. 2. Proportion in each healing stage of symbiotic and
+aposymbiotic colonies of Astrangia poculata maintained at 3
+temperatures (9, 18, 24°C) 75 d post-wounding. Numbers in        Effect              Estimate      SE         Z         p
+each column represent total number of colonies at that heal-
+ing stage. Cumulative areas in blue delineate colonies that      Intercept          −2.4522      0.7477 −3.280 0.0010**
+have demonstrated signs of healing, while bars in dark blue      Symbiont state (S)  1.7525      0.7427 2.360 0.0183*
+indicate only those colonies that have achieved successful       Temperature (24°C) 1.1796       0.6406 1.842 0.0655+
+     healing through the formation of a complete polyp
+                                Burmester et al.: Temperature, symbiosis, and coral recovery                              93
+
+
+
+
+                                                                Table 5. Laplace-approximated generalized linear mixed model
+                                                                for wound surface area (AIC = 218.8). S: symbiotic; A: aposymbi-
+                                                                otic. For fixed effects, symbols indicate significance considered at
+                                                                                   **p < 0.001, *p < 0.05, +p < 0.01
+
+                                                                  Effect              Estimate    SE     df      t         p
+
+                                                                  Rooted under aposymbiotic and 9°C conditions
+                                                                  Intercept          −0.5382 0.1138 136 −4.7289 < 0.0001**
+                                                                  Symbiont state (S)  0.3977 0.0670 136 5.9463 < 0.0001**
+                                                                  18°C                0.0908 0.1347 19 0.6737     0.5086
+                                                                  24°C                0.2822 0.1588 18 1.7761     0.0918+
+
+                                                                  Rooted under symbiotic and 18°C conditions
+                                                                  Intercept          −0.0497 0.0860 136 −0.5774 0.5646
+                                                                  Symbiont state (A) −0.3977 0.0670 136 −5.9463 < 0.0001**
+                                                                  9°C                −0.0908 0.1347 19 −0.6737 0.5086
+                                                                  24°C                0.1914 0.1404 19 1.3631     0.1888
+Fig. 3. Proportional change in wound surface area on As-
+trangia poculata after 75 d normalized over the initial wound
+surface area. Values were measured from aligned photo-          −0.004 g) lost less mass than did aposymbiotic colo-
+graphs by dividing the final wound surface area on Day 75       nies (M = −0.409 g). Similarly, corals kept at higher
+by the initial wound surface area on Day 0. Negative values
+                                                                temperatures experienced less tissue loss than
+indicate an increase in wound size, while positive values
+     indicate a decline in wound size. Error bars are SE        colonies at lower temperatures, with the colonies at
+                                                                24°C experiencing a slight gain in mass on average
+                     Wound closure                              (M9 = −0.345 g, M18 = −0.242 g, M24= 0.021 g; Fig. 4).
+                                                                Both symbitont state and temperature had a signifi-
+   On average, the inflicted wounds were (mean ± SE)            cant impact on colony mass, but there was no signifi-
+38.4 ± 1.2 mm2 in area and accounted for a loss in              cant interaction between these 2 variables (Table 6).
+mass of 0.14 ± 0.01 g. With the exception of symbiotic          Colony mass, wound mass, and initial wound surface
+corals housed at 24°C, colonies, on average, experi-            area had no significant effects.
+enced an increase in wound surface area, represent-
+ing an expansion of the wound site (Fig. 3). All (100%)
+symbiotic colonies experienced a decrease in wound                             Photosynthetic efficiency
+size at 24°C, while none (0%) of the colonies (regard-
+less of symbiont density) experienced such a decline               Regardless of symbiont state, measurable levels of
+at 9°C. More symbiotic colonies (32.5%) saw reduc-              photosynthesis were observed in all treatment
+tions in wound size at 18°C than did aposymbiotic               groups (Fig. 5). Symbiotic colonies had higher values
+colonies (18%). A similar proportion of aposymbiotic            for maximum quantum yield (Fv /Fm), with the excep-
+colonies were able to restore any lost surface area at          tion of symbiotic colonies kept at 9°C (which demon-
+18°C (18%) and 24°C (15%). The proportion of tissue             strated photosynthetic efficiency levels similar to
+loss was lower in symbiotic corals (group mean, M =             those of aposymbiotic corals). Aposymbiotic colonies,
+0.098) than aposymbiotic corals (M = 0.195). Tempera-           on the other hand, demonstrated consistently similar
+ture also had a significant effect on wound surface             Fv /Fm values regardless of temperature. The data
+area (Table 5), as corals in warmer water recovered a           show a slight significant decline in photochemical
+higher proportion of tissue than those in cooler water          efficiency for symbiotic corals over time, but a slight
+(M9 = −0.349, M18 = −0.137, M24 = 0.046). Again, sym-           significant increase for aposymbiotic corals. The pre-
+biont state and temperature were significant contrib-           ferred model included only symbiont state and the
+utors to the best mixed model (Table 5), although the           interactions between symbiont state and tempera-
+effect of temperature was reduced (p = 0.0918).                 ture as well as symbiont state and time (Table 7).
+                                                                Based on our model selection criteria (requiring a
+                                                                reduction in AIC of at least 2 to permit the inclusion
+                      Colony mass                               of new fixed effects), there was little support for the
+                                                                inclusion of other fixed effects (temperature and
+ Except for the 24°C symbiotic group, colonies lost             time) or interactions of fixed effects (temperature/
+mass (g) over time (Fig. 4). Symbiotic colonies (M =            time).
+      94                                          Mar Ecol Prog Ser 570: 87–99, 2017
+
+
+
+
+      Fig. 4. Mean change in Astrangia poculata colony mass 75 d
+      after wounding. Values were calculated by subtracting the      Fig. 5. Mean photosynthetic efficiency (Fv/Fm) as measured
+      final mass of each colony from its post-wound mass. Error      via pulse-amplitude modulated fluorescence (Walz JUNIOR-
+                              bars are SE                            PAM). Error bars are SE. For all 9°C and 24°C groups, N = 20;
+                                                                     for 18°C symbiotic corals, N = 40; and for 18°C aposymbiotic
+                                                                                            corals, N = 39
+Table 6. Laplace approximated generalized linear mixed model for
+growth (AIC = −8.535). S: symbiotic; A: aposymbiotic. Symbols
+     indicate significance considered at **p < 0.001, *p < 0.05      no aposymbiotic colonies ever completely switched
+                                                                     states where every polyp in the colony transitioned
+ Effect             Estimate    SE     df     t          p           from white to brown.
+
+ Rooted under aposymbiotic and 9°C conditions
+ Intercept          −0.2686 0.0569 133 −4.7214 < 0.0001**
+ Symbiont state (S)  0.1073 0.0322 133 3.3317    0.0011*                                   DISCUSSION
+ 18°C                0.1700 0.0673 19 2.5258     0.0206*
+ 24°C                0.2364 0.0794 19 2.9784     0.0077*                Overall, our data suggest that symbiotic colonies
+                                                                     exhibit a clear advantage over aposymbiotic colonies
+ Rooted under symbiotic and 18°C conditions
+ Intercept           0.0087 0.0426 133 0.2040         0.8387         with respect to single-polyp wound healing. At all
+ Symbiont state (A) −0.1073 0.0322 133 3.3317         0.0011*        temperatures, a greater proportion of symbiotic co-
+ 9°C                −0.1700 0.0673 19 −2.5258         0.0206*        rals developed new tissue at the wound site and went
+ 24°C                0.0664 0.0698 19 0.9516          0.3533         on to develop full polyps. Likewise, regardless of
+                                                                     temperature, symbiotic corals lost less mass and less
+                                                                     tissue area at the lesion site after wounding (to the
+                     Symbiont state switching                        point of partially to fully closing lesions at 24°C).
+                                                                     Therefore, symbiotic corals proved more successful
+         At 18 and 24°C, some polyps of aposymbiotic corals          at resisting wound expansion and achieving wound
+      were found to switch symbiont states, as indicated by          closure for single polyp lesions. These results are
+      pockets of high Symbiodinium psygmophilum den-                 consistent with previous studies, which suggested that
+      sity along the body column or oral groove. This phe-           symbiotic colonies of Astrangia poculata may be able
+      nomenon was significantly more likely in colonies at           to recover a higher proportion of multipolyp wounds
+      24°C (15/20; 75%) than in colonies kept at 18°C                from small pockets of residual tissue (DeFilippo et
+      (18/39; 46.15%; 1-tailed Fisher’s exact test; n = 59,          al. 2016). Additionally, wounding experiments on
+      p = 0.0319). However, among these corals, there was            another temperate and facultatively symbiotic coral,
+      no significant effect of symbiont switching on healing         Oculina patagonica (Fine et al. 2001), demonstrated
+      initiation (2-tailed Fisher’s exact test; n = 59, p =          a similar advantage to symbiosis, whereby the per-
+      0.4232), colony mass (xswitch = −0.1244 g; xnon-switch =       centage recovery of lesions was greater in un-
+      −0.1313 g; n = 59, F1, 57 = 0.0075, p = 0.9310), or            bleached colonies than partially bleached or fully
+      wound closure (xswitch = −0.441; xnon-switch = −0.303; n =     bleached (which did not recover at all) colonies (Fine
+      59, F1, 57 = 1.1012, p = 0.2984). It should be noted that      et al. 2002).
+                             Burmester et al.: Temperature, symbiosis, and coral recovery                        95
+
+
+
+
+Table 7. REML-fitted generalized linear mixed model for photo-        Even after returning to a full symbiont
+synthetic efficiency (AIC = −678.4). S: symbiotic; A: aposymbiotic.
+     Significance (*) assumed from t-values (df = 452) at p < 0.05
+                                                                      load, the diminishment of energetic re-
+                                                                      serves that results from a prolonged period
+                                                                      of bleaching could undermine wound re-
+  Effect                                 Estimate   SE      t
+                                                                      covery for an extended period of time
+  Rooted under aposymbiotic and 18°C conditions                       (Meesters & Bak 1993). This could com-
+  Intercept                               0.3292 0.0220 14.950*       pound the impact of bleaching and elevate
+  Symbiont state (S)                      0.1569 0.0228 6.877*        post-bleaching mortality rates.
+  Symbiont state (A): Temperature (9°C)   0.0342 0.0370 0.925
+  Symbiont state (S): Temperature (9°C)  −0.0926 0.0254 −3.652*
+                                                                        While our study does not directly address
+  Symbiont state (A): Temperature (24°C) −0.0048 0.0328 −0.145        the possible advantages of a facultatively
+  Symbiont state (S): Temperature (24°C) −0.0044 0.0260 −0.171        symbiotic life history, it does raise some im-
+  Symbiont state (A): Time                0.0012 0.0003 4.239*        portant questions about the costs, benefits,
+  Symbiont state (S): Time               −0.0005 0.0003 −1.940*
+                                                                      and dynamics of the coral−algal symbiosis.
+  Rooted under aposymbiotic and 9°C conditions                        While symbiosis clearly enhanced healing
+  Intercept                               0.3634 0.0318 11.414*       initiation, wound closure, and the develop-
+  Symbiont state (S)                      0.1569 0.0228 6.877*        ment of full polyps in the current study,
+  Symbiont state (A): Temperature (18°C) −0.0342 0.0370 −0.925        naturally occurring, aposymbiotic colonies
+  Symbiont state (S): Temperature (18°C)  0.0926 0.0254 3.652*
+  Symbiont state (A): Temperature (24°C) −0.0390 0.0413 −0.942        of A. poculata are abundant in the field
+  Symbiont state (S): Temperature (24°C) −0.0881 0.0298 2.958*        (Dimond et al. 2013). Furthermore, while
+  Symbiont state (A): Time                0.0012 0.0003 4.239*        symbiont state can be manipulated, switch-
+  Symbiont state (S): Time               −0.0005 0.0003 −1.940*       ing between symbiont states does not
+                                                                      appear to be common in nature (Dimond &
+                                                                      Carrington 2008). The prevalence of apo-
+   The positive effect of symbiosis on healing ob-         symbiotic colonies in nature therefore suggests a cost
+served here could be attributed to a number of bene-       to maintaining a high density of Symbiodinium that
+fits conferred to the corals by their symbiotic part-      outweighs the observed advantages of the symbiotic
+ners, including (1) higher energy reserves and tissue      state on colony health and recovery. Dimond et al.
+content at the time of wounding, (2) added energy          (2013) suggested that this cost may be most pro-
+availability during healing due to active photosyn-        nounced at cold, winter temperatures when colonies
+thesis, or (3) potential direct symbiont contribution to   are dormant. In winter, all colonies experience a net
+the healing pathway (Fine et al. 2002). Because we         loss of tissue, but aposymbiotic colonies lose less
+also found that aposymbiotic polyps can switch par-        tissue than symbiotic colonies (Dimond et al. 2013).
+tially or fully to a symbiotic state — and that these      Thus, while symbiotic colonies have enhanced heal-
+switches did not significantly impact the colony’s         ing potential in summer, they may also need to com-
+ability to heal or grow — it is possible that symbiotic    pensate for greater tissue loss during the winter.
+advantage accrues from a long-term association.               Environmental temperature had a direct effect on
+Alternatively, a related study on the facultatively        tissue loss and replacement in this experiment, re-
+symbiotic O. patagonica (Fine et al. 2002) deter-          gardless of symbiotic state. At 9°C, a natural winter
+mined that carbon can be preferentially translocated       temperature, both aposymbiotic and symbiotic colo-
+to recovering tissue from a distance of 4−5 cm away;       nies experienced greater tissue loss at the wound site
+however, translocation only occurs in fully un-            and lost more total mass over time than at 18°C (a
+bleached (and not partially bleached, 30−80%) colo-        temperature more typical of summer) or 24°C (a tem-
+nies. This suggests a bleaching threshold (or a mini-      perature not typically encountered by A. poculata in
+mum density of Symbiodinium spp.) below which              Rhode Island). Similarly, the smallest statistical dif-
+colonial integration and resource translocation is dis-    ference between symbiotic and aposymbiotic colo-
+rupted. There could also be an energetic cost to sym-      nies occurred at 9°C, as colonies of both symbiont
+biont acquisition that overcomes the potential imme-       states had low rates of wound recovery; these cold-
+diate energy gain from photosynthesis (Hill & Hill         exposed colonies were less likely to develop new tis-
+2012). In tropical corals, which rely more heavily on      sue at the wound site, and no colonies were able to
+photosynthesis to supply their nutritional needs, this     successfully complete the regeneration process.
+disparity in healing ability between the symbiotic         These results are consistent with previous studies
+and aposymbiotic states could have significant im-         that found temperature to be a major driver of calcifi-
+pacts on coral health, particularly after bleaching.       cation and growth in both obligate and facultative
+96                                         Mar Ecol Prog Ser 570: 87–99, 2017
+
+
+
+
+zooxanthellate and azooxanthellate corals (Jacques            but again, it is difficult to determine how much of this
+et al. 1983, Miller 1995, Marshall & Clode 2004, Ed-          photochemical activity was generated by S. psygmo-
+munds 2005, Dimond et al. 2013). However, it should           philum versus other potentially non-symbiotic photo-
+be noted that growth and regeneration may be unre-            synthetic organisms. S. psygmophilum is a cold-toler-
+lated or even competing life traits, particularly in          ant species whose photosynthetic efficiency peaks
+times of stress (Denis et al. 2013). The drop in healing      between 18 and 25°C and reaches a minimum (but
+initiation, healing completion, and colony mass likely        does not cease altogether) at 10°C (Thornhill et al.
+derives from a significant decline in photosynthetic          2008). Following this pattern, symbiotic corals at 18
+efficiency with decreasing temperature as well as             and 24°C demonstrated higher levels of photosyn-
+a potential decrease in oxidative respiration below           thetic activity, although warm-treated corals (24°C)
+11.5°C (Jacques et al. 1983). Previous studies (Jac-          seemed to experience a reduction in photosynthetic
+ques et al. 1983, Dimond et al. 2013) have noted a            efficiency over time.
+state of metabolic dormancy in A. poculata below                 A. poculata is a gonochoristic coral (Peters et al.
+10°C, characterized by the retraction of polyps into          1988), and production of gametes occurs at warmer
+their calices and the inability to feed. Interestingly, in    temperatures. Given the cost of producing gametes,
+our study, all colonies at 9°C were actively feeding          and the generally greater cost of producing eggs rel-
+over the course of the experiment, potentially ex-            ative to sperm (Holcomb et al. 2012), it is possible
+plaining the ability of some colonies to exhibit some         that corals at warmer temperatures might experience
+healing despite their potentially reduced metabolism          a trade-off between gamete production and healing,
+and lack of energetic input from photosynthesis.              and this trade-off might differ between males and
+Additionally, while 9°C represents a typical winter           females. However, because gametes can only be
+temperature for this habitat, it is far from the lowest       identified and quantified using destructive methods,
+temperature encountered by wild colonies of A. poc-           we were unable to investigate the potential impact of
+ulata (0.3°C, NOAA Tides & Currents, Newport, RI:             gamete production on recovery without producing
+site 8452660). Therefore, as documented by Dimond             additional wounds, which would have confounded
+et al. (2013), it is possible that quiescence could have      our experiments. We hypothesize that (1) wounds
+a significant and inverse impact on healing with              may confer a loss in fecundity, (2) gamete production
+regards to symbiont state than observed in this study.        may incur a cost to lesion recovery, or (3) reproduc-
+   In contrast to 9°C, colonies at 24°C demonstrated          tive dynamics promote a synergistic loss for both tis-
+the greatest wound recovery, despite experiencing a           sue recovery and fecundity (Rinkevich 1996).
+temperature outside the typical range of their natural           Wound healing is a dynamic process impacted by a
+habitat (which ranged from 0.3 to 23°C in 2014 [the           number of different environmental and biological
+year of this study]). Therefore, for this coral, these        factors. In addition to symbiotic state and tempera-
+data support that survivability and, therefore, habitat       ture, lesion healing is affected by the perimeter to
+range are more likely being limited by exposure to            surface area ratio of the wound (Van Woesik 1998) as
+cold, winter temperatures than prolonged exposure             well as by the size of the lesion (Rotjan & Lewis 2008)
+to very warm summer temperatures (Dimond et al.               and the size of the colony (Meesters et al. 1996).
+2013).                                                        However, the influences of these physical parameters
+   One hypothesis for the observed increase in heal-          may vary by species and developmental timing (Bak
+ing and survivability by symbiotic corals is increased        1983, Meesters et al. 1992, 1997, Oren et al. 1997,
+photosynthetic efficiency. Over time, there was an            Van Woesik 1998). One previous study found that
+increase in photosynthetic efficiency in aposymbiotic         ‘Phoenix Effect’ recovery, whereby tissue is regener-
+colonies. Surprisingly, there was an inverse relation-        ated from within the calice rather than across wound
+ship with temperature (i.e. corals at 9°C experienced         edges, is the primary mode of recovery in A. poculata
+the greatest rise in photosynthetic efficiency). How-         (DeFilippo et al. 2016). A similar pattern of recovery
+ever, this is very likely due to the fact that, in colder     was observed in the experimentally wounded colo-
+temperatures, colonies tended to lose more live tissue        nies in our trials. The wounds inflicted in this experi-
+and, subsequently, bare skeletal scars were covered           ment most closely resembled those created through
+in adventitious algae. Additionally, the limited Gain         colony breakage or corallivory, where regions of both
+settings on the JUNIOR-PAM may obscure fluores-               skeleton and tissue are removed. In the field, colo-
+cence values when chlorophyll densities are low.              nies of A. poculata are most often abraded by foliose
+Cold-treated symbiotic corals exhibited photosyn-             algae. Colony morphology is significantly impacted
+thetic efficiency levels similar to aposymbiotic corals,      (flattened) by repeat interactions in regions with high
+                                Burmester et al.: Temperature, symbiosis, and coral recovery                                97
+
+
+
+
+macroalgal density (Grace 2004). While no predators                l-inear mixed-effects models using lme4. J Stat Softw 67:
+have yet been characterized in the field for this coral,           1–48
+                                                                Burnham KP, Anderson DR (2002) Model selection and mul-
+its ability to recover from such extremes (deep and                timodel inference: a practical information-theoretic ap-
+well cleared of residual tissue) demonstrates its util-            proach, 2nd edn. Springer, New York, NY
+ity as a laboratory model for these studies.                    Bythell JC, Bythell M, Gladfelter EH (1993a) Initial results of
+   Here, we have demonstrated that wound recovery                  a long-term coral reef monitoring program: impact of
+                                                                   Hurricane Hugo at Buck Island Reef National Monu-
+is affected by symbiont state and temperature in a
+                                                                   ment, St. Croix US Virgin Islands. J Exp Mar Biol Ecol
+facultatively symbiotic coral. Comparable experi-                  172:171–183
+ments cannot be conducted in tropical corals because            Bythell JC, Gladfelter EH, Bythell M (1993b) Chronic and
+elevated temperatures induce bleaching, and tropi-                 catastrophic natural mortality of three common Carib-
+                                                                   bean reef corals. Coral Reefs 12:143−152
+cal corals cannot exist in a stable aposymbiotic state.
+                                                                Cameron CM, Edmunds PJ (2014) Effects of simulated fish
+By allowing us to decouple 2 key parameters that are               predation on small colonies of massive Porites spp. and
+conflated in tropical corals, A. poculata can provide              Pocillopora meandrina. Mar Ecol Prog Ser 508:139−148
+unique insight into how particular biological and               Cohen AL, Owens KE, Lane GD, Shimizu N (2002) The
+environmental states or stressors may impact coral                 effect of algal symbionts on the accuracy of Sr/Ca pale-
+                                                                   otemperatures from coral. Science 296:331–333
+health. While the study of temperate corals offers              Cole AJ, Pratchett MS, Jones GP (2008) Diversity and func-
+limited direct comparisons to tropical corals in their             tional importance of coral-feeding fishes on tropical coral
+metabolism and physiology, it is likely that core                  reefs. Fish Fish 9:286–307
+mechanisms of the molecular stress response                     Coyer JA, Ambrose RF, Engle JM, Carroll JC (1993) Interac-
+                                                                   tions between corals and algae on a temperate zone
+machinery are deeply conserved. Additionally, we
+                                                                   rocky reef: mediation by sea urchins. J Exp Mar Biol Ecol
+can exploit the wide environmental tolerances of this              167:21−37
+temperate coral to investigate how a range of stres-            Cróquer A, Villamizar E, Noriega N (2002) Environmental
+sors and their intensities can affect coral health under           factors affecting tissue regeneration of the reef-building
+non-lethal conditions. Indeed, determining the thres-              coral Montastraea annularis (Faviidae) at Los Roques
+                                                                   National Park, Venezuela. Rev Biol Trop 50:1055−1065
+hold for lethal stress is a critical area of study; using       Cummings C (1983) The biology of Astrangia danae. PhD
+temperate corals in controlled laboratory studies may              dissertation, University of Rhode Island, Kingston, RI
+yield valuable insights into the effects of synergistic         DeFilippo L, Burmester EM, Kaufman L, Rotjan RD (2016)
+stressors, and the relative role of symbiosis.                     Patterns of surface lesion recovery in the northern star
+                                                                   coral Astrangia poculata. J Exp Mar Biol Ecol 481:15−24
+                                                                Denis V, Debreuil J, De Palmas S, Richard J, Guillaume
+                                                                   MMM, Bruggemann JH (2011) Lesion regeneration
+Acknowledgements. This work was funded by the PADI
+                                                                   capacities in populations of the massive coral Porites
+foundation, the Boston University Marine Program, and the
+                                                                   lutea at Réunion Island: environmental correlates. Mar
+New England Aquarium. We thank Kiki Ballotti, Georgie
+                                                                   Ecol Prog Ser 428:105−117
+Burruss, Nicholas Lawrence, Samantha Pelletier, Aaron Pil-
+                                                                Denis V, Guillaume MMM, Goutx M, de Palmas S and oth-
+nick, and Ryan Schosberg for assistance with photography           ers (2013) Fast growth may impair regeneration capacity
+and data collection. We are also grateful to Tasia Blough,         in the branching coral Acropora muricata. PLOS ONE 8:
+Julio Camperio-Ciani, Gregory Coote, Lukas DeFilippo,              e72618
+Corbin Kuntz, Georgia Luddecke, Katrina Malakhoff, Jessie       Diaz-Pulido G, McCook LJ (2002) The fate of bleached
+Matthews, and Matthew Tohl for their roles in the hus-             corals: patterns and dynamics of algal recruitment. Mar
+bandry and maintenance of coral specimens. We appreciate           Ecol Prog Ser 232:115−128
+the input of the anonymous reviewers that contributed to the    Dimond J, Carrington E (2007) Temporal variation in the
+improvement of this manuscript.                                    symbiosis and growth of the temperate scleractinian
+                                                                   coral Astrangia poculata. Mar Ecol Prog Ser 348:161−172
+                                                                Dimond J, Carrington E (2008) Symbiosis regulation in a fac-
+                   LITERATURE CITED                                ultatively symbiotic temperate coral: zooxanthellae divi-
+                                                                   sion and expulsion. Coral Reefs 27:601−604
+Bak RPM (1983) Neoplasia, regeneration and growth in the        Dimond J, Kerwin AH, Rotjan R, Sharp K, Stewart FJ,
+   reef-building coral Acropora palmata. Mar Biol 77:              Thornhill DJ (2013) A simple temperature-based model
+   221−227                                                         predicts the upper latitudinal limit of the temperate coral
+Bak RPM, Steward-Van Es Y (1980) Regeneration of super-            Astrangia poculata. Coral Reefs 32:401−409
+   ficial damage in the scleractinian corals Agaricia agari-    Downs CA, Woodley CM, Richmond RH, Lanning LL, Owen
+   cites f. purpurea and Porites astreoides. Bull Mar Sci 30:      R (2005) Shifting the paradigm of coral-reef ‘health’
+   883−887                                                         assessment. Mar Pollut Bull 51:486−494
+Baker A, Glynn PW, Riegl B (2008) Climate change and coral      Edmunds PJ (2005) The effect of sub-lethal increases in tem-
+   reef bleaching: an ecological assessment of long-term           perature on the growth and population trajectories of
+   impacts, recovery trends and future outlook. Estuar             three scleractinian corals on the southern Barrier Reef.
+   Coast Shelf Sci 80:435−471                                      Oecologia 146:350−364
+Bates D, Maechler M, Bolker B, Walker S (2015) Fitting          Edmunds PJ (2009) Effect of acclimatization to low tempera-
+98                                             Mar Ecol Prog Ser 570: 87–99, 2017
+
+
+
+
+   ture and reduced light on the response of reef corals to           the coral Fungia granulosa: the effect of extrinsic and
+   elevated temperature. Mar Biol 156:1797−1808                       intrinsic factors. Mar Biol 137:867−873
+Edmunds PJ, Lenihan HS (2010) Effect of sub-lethal damage          Lajeunesse TC, Parkinson JE, Reimer JD (2012) A genetics-
+   to juvenile colonies of massive Porites spp. under con-            based description of Symbiodinium minutum sp. nov. and
+   trasting regimes of temperature and water flow. Mar Biol           S. psygmophilum sp. nov. (Dinophyceae), two dinoflagel-
+   157:887−897                                                        lates symbiotic with cnidaria. J Phycol 48:1380−1391
+Fine M, Zibrowius H, Loya Y (2001) Oculina patagonica: a           Lenihan HS, Edmunds PJ (2010) Response of Pocillopora
+   non-lessepsian scleractinian coral invading the Mediter-           verrucosa to corallivory varies with environmental condi-
+   ranean Sea. Mar Biol 138:1195−1203                                 tions. Mar Ecol Prog Ser 409:51−63
+Fine M, Oren U, Loya Y (2002) Bleaching effect on regener-         Marshall AT, Clode P (2004) Calcification rate and the effect
+   ation and resource translocation in the coral Oculina              of temperature in a zooxanthellate and an azooxanthel-
+   patagonica. Mar Ecol Prog Ser 234:119−125                          late scleractinian reef coral. Coral Reefs 23:218−224
+Fisher EM, Fauth JE, Hallock P, Woodley CM (2007) Lesion           Meesters EH, Bak RPM (1993) Effects of coral bleaching on
+   regeneration rates in reef-building corals Montastraea             tissue regeneration potential and colony survival. Mar
+   spp. as indicators of colony condition. Mar Ecol Prog Ser          Ecol Prog Ser 96:189–198
+   339:61−71                                                       Meesters EH, Bos A, Gast GJ (1992) Effects of sedimentation
+Grace S (2004) Ecomorphology of the temperate scleractin-             and lesion position on coral tissue regeneration. Proc 7th
+   ian Astrangia poculata: coral-macroalgal interactions in           Int Coral Reef Symp 2:681−688
+   Narragansett Bay. PhD dissertation, University of Rhode         Meesters EH, Noordeloos M, Bak RPM (1994) Damage and
+   Island, Kingston, RI                                               regeneration: links to growth in the reef-building coral
+Grottoli AG, Rodrigues LJ, Palardy JE (2006) Heterotrophic            Montastrea annularis. Mar Ecol Prog Ser 112:119−128
+   plasticity and resilience in bleached corals. Nature 440:       Meesters EH, Wesseling I, Bak RPM (1996) Partial mortality
+   1186−1189                                                          in three species of reef-building corals (Scleractinia) and
+Henry L, Hart M (2005) Regeneration from injury and                   the relation with colony morphology. Bull Mar Sci 58:
+   resource allocation in sponges and corals — a review. Int          838−852
+   Rev Hydrobiol 90:125−158                                        Meesters EH, Pauchli W, Bak RPM (1997) Predicting regen-
+Hill M, Hill A (2012) The magnesium inhibition and arrested           eration of physical damage on a reef-building coral by
+   phagosome hypotheses: new perspectives on the evolu-               regeneration capacity and lesion shape. Mar Ecol Prog
+   tion and ecology of Symbiodinium symbioses. Biol Rev               Ser 146:91−99
+   Camb Philos Soc 87:804−821                                      Miller MW (1995) Growth of a temperate coral: effects of
+Hoegh-Guldberg O (1999) Climate change, coral bleaching               temperature, light, depth, and heterotrophy. Mar Ecol
+   and the future of the world’s coral reefs. Mar Freshw Res          Prog Ser 122:217−225
+   50:839−866                                                      Muscatine L (1990) The role of symbiotic algae in carbon
+Holcomb M, McCorkle D, Cohen AL (2010) Long-term                      and energy flux in reef corals. In: Dubinsky Z (ed) Coral
+   effects of nutrient and CO2 enrichment on the temperate            reefs: ecosystems of the world, Vol 25. Elsevier, New
+   coral Astrangia poculata. J Exp Mar Biol Ecol 386:27−33            York, NY, p 75−87
+Holcomb M, Cohen A, McCorkle D (2012) An investigation of          Nagelkerken I, Bak RPM (1998) Differential regeneration of
+   the calcification response of the scleractinian coral Astran-      artificial lesions among sympatric morphs of the Carib-
+   gia poculata to elevated pCO2 and the effects of nutrients,        bean corals Porites astreoides and Stephanocoenia
+   zooxanthellae and gender. Biogeosciences 9:29−39                   michelinii. Mar Ecol Prog Ser 163:279−283
+Hughes TP, Jackson JBC (1985) Population dynamics and life         Nagelkerken I, Meesters EH, Bak RPM (1999) Depth-related
+   histories of foliaceous corals. Ecol Monogr 55:141−156             variation in regeneration of artificial lesions in the Carib-
+Jacques TG, Pilson MEQ (1980) Experimental ecology of the             bean corals Porites astreoides and Stephanocoenia
+   temperate scleractinian coral Astrangia danae I. Partition         michelinii. J Exp Mar Biol Ecol 234:29−39
+   of respiration, photosynthesis and calcification between        Nugues MM, Roberts CM (2003a) Partial mortality in mas-
+   host and symbionts. Mar Biol 60:167–178                            sive reef corals as an indicator of sediment stress on coral
+Jacques TG, Marshall N, Pilson MEQ (1983) Experimental                reefs. Mar Pollut Bull 46:314−323
+   ecology of the temperate scleractinian Astrangia danae:         Nugues MM, Roberts CM (2003b) Coral mortality and inter-
+   effect of temperature, light intensity and symbiosis with          action with algae in relation to sedimentation. Coral
+   zooxanthellae on metabolic rate and calcification. Mar             Reefs 22:507−516
+   Biol 76:135−148                                                 Oren U, Benayahu Y, Loya Y (1997) Effect of lesion size and
+Jayewardene D (2010) Experimental determination of the                shape on regeneration of the Red Sea coral Favia favus.
+   cost of lesion healing on Porites compressa growth. Coral          Mar Ecol Prog Ser 146:101−107
+   Reefs 29:131−135                                                Oren U, Benayahu Y, Lubinevsky H, Loya Y (2001) Colony
+Jayewardene D, Birkeland C (2006) Fish predation on                   integration during regeneration in the stony coral Favia
+   Hawaiian corals. Coral Reefs 25:328                                favus. Ecology 82:802−813
+Jayewardene D, Donahue MJ, Birkeland C (2009) Effects of           Peters EC, Cairns SD, Pilson MEQ, Wells JW and others
+   frequent fish predation on corals in Hawaii. Coral Reefs           (1988) Nomenclature and biology of Astrangia poculata
+   28:499−506                                                         (= A. danae, = A. astreiformis) (Cnidaria: Anthozoa). Proc
+Jompa J, McCook LJ (2003) Coral-algal competition: macro-             Biol Soc Wash 101:234−250
+   algae with different properties have different effects on       Pinheiro J, Bates D, DebRoy S, Sarkar D, R Core Team
+   corals. Mar Ecol Prog Ser 258:87−95                                (2017) nlme: linear and nonlinear mixed effects models.
+Kaufman L (1981) There was biological disturbance on                  R package version 3.1-130. https://CRAN.R-project.org/
+   Pleistocene coral reefs. Paleobiology 7:527−532                    package=nlme
+Kramarsky-Winter E, Loya Y (2000) Tissue regeneration in           R Core Team (2013) R: a language and environment for sta-
+                                 Burmester et al.: Temperature, symbiosis, and coral recovery                             99
+
+
+
+
+   tistical computing. R Foundation for Statistical Comput-      Suggett DJ, Borowitzka MA, Prášil O (eds) (2010) Chloro-
+   ing, Vienna                                                      phyll a fluorescence in aquatic sciences: methods and
+Rinkevich B (1996) Do reproduction and regeneration in              applications. Developments in applied phycology, Vol 4.
+   damaged corals compete for energy allocation? Mar Ecol           Springer Science+Business Media, New York, NY
+   Prog Ser 143:297−302                                          Szmant-Froelich A, Pilson MEQ (1980) The effects of feed-
+River GF, Edmunds PJ (2001) Mechanisms of interaction               ing frequency and symbiosis with zooxanthellae on the
+   between macroalgae and scleractinians on a coral reef in         biochemical composition of Astrangia danae Milne
+   Jamaica. J Exp Mar Biol Ecol 261:159−172                         Edwards and Haime, 1849. J Exp Mar Biol Ecol 48:
+Rotjan RD, Dimond JL (2010) Discriminating causes from              85−97
+   consequences of persistent parrotfish corallivory. J Exp      Szmant-Froelich A, Pilson MEQ (1984) Effects of feeding
+   Mar Biol Ecol 390:188−195                                        frequency and symbiosis with zooxanthellae on nitrogen
+Rotjan RD, Lewis SM (2005) Selective predation by parrot-           metabolism and respiration of the coral Astrangia pocu-
+   fishes on the reef coral Porites astreoides. Mar Ecol Prog       lata. Mar Biol 81:153−162
+   Ser 305:193−201                                               Thornhill DJ, Kemp DW, Bruns BU, Fitt WK, Schmidt GW
+Rotjan RD, Lewis SM (2006) Parrotfish abundance and                 (2008) Correspondence between cold tolerance and tem-
+   selective corallivory on a Belizean coral reef. J Exp Mar        perate biogeography in a western Atlantic Symbio-
+   Biol Ecol 335:292−301                                            dinium (Dinophyta) lineage. J Phycol 44:1126−1135
+Rotjan RD, Lewis SM (2008) Impact of coral predators on          Van Veghel MLJ, Bak RPM (1994) Reproductive characteris-
+   tropical reefs. Mar Ecol Prog Ser 367:73−91                      tics of the polymorphic Caribbean reef building coral
+Rotjan RD, Dimond JL, Thornhill D, Leichter J, Helmuth B,           Montastrea annularis. III. Reproduction in damaged and
+   Kemp D, Lewis SM (2006) Chronic parrotfish grazing               regenerating colonies. Mar Ecol Prog Ser 109:229−233
+   impedes coral recovery after bleaching. Coral Reefs 25:       Van Woesik R (1998) Lesion healing on massive Porites spp.
+   361−368                                                          corals. Mar Ecol Prog Ser 164:213−220
+Rowan R (2004) Coral bleaching: thermal adaptation in reef       Work TM, Aeby GS (2010) Wound repair in Montipora capi-
+   coral symbionts. Nature 430:742                                  tata. J Invertebr Pathol 105:116−119
+
+
+Editorial responsibility: Peter Edmunds,                         Submitted: September 28, 2016; Accepted: March 9, 2017
+Northridge, California, USA                                      Proofs received from author(s): April 8, 2017
+

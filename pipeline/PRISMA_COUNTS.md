@@ -11,7 +11,7 @@ Generated from `data/screening/SCREENING_LOG_FINAL.csv` by `tools/build_pipeline
 - Primary quantitative records included in the meta-analysis pool: 76
 - Primary records ready for table/text extraction: 20
 - Primary records needing figure/table digitization: 56
-- Primary records currently missing a local PDF: 1
+- Primary records currently missing a local PDF: 0
 
 ## Final Status
 
@@ -54,20 +54,19 @@ Local PDF coverage:
 
 | Local PDF status | Count |
 | --- | ---: |
-| `missing` | 5 |
-| `present` | 151 |
+| `missing` | 4 |
+| `present` | 152 |
 
 Primary local PDF coverage:
 
 | Primary local PDF status | Count |
 | --- | ---: |
-| `missing` | 1 |
-| `present` | 75 |
+| `present` | 76 |
 
 ## Literature Reorganization Check
 
 - Deleted flat tracked PDFs reported by git: 150
-- Current PDFs under `literature/`: 151
+- Current PDFs under `literature/`: 152
 - Deleted flat PDFs matched to one organized filename: 150
 - Exact blob hash matches among matched files: 150
 - Hash mismatches: 0

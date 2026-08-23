@@ -1,0 +1,550 @@
+Inter-Research Science Center
+
+
+
+Effect of lesion size and shape on regeneration of the Red Sea coral Favia favus
+Author(s): U. Oren, Y. Benayahu and Y. Loya
+Source: Marine Ecology Progress Series, Vol. 146, No. 1/3 (January 30 1997), pp. 101-107
+Published by: Inter-Research Science Center
+Stable URL: https://www.jstor.org/stable/24857444
+Accessed: 17-06-2023 12:25 +00:00
+
+
+REFERENCES
+Linked references are available on JSTOR for this article:
+https://www.jstor.org/stable/24857444?seq=1&cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+
+
+
+                 Inter-Research Science Center is collaborating with JSTOR to digitize, preserve and extend
+                 access to Marine Ecology Progress Series
+
+
+
+
+                                This content downloaded from 128.163.2.206 on Sat, 17 Jun 2023 12:25:32 +00:00
+                                                 All use subject to https://about.jstor.org/terms
+                                        MARINE ECOLOGY PROGRESS SERIES
+   Vol. 146: 101-107, 1997 _ , _ „ Published January 30
+                          Mar Ecol Prog Ser
+
+
+
+
+     Effect of lesion size and sh
+                          the Red Sea coral Favia favus
+
+                                       U. Oren*, Y. Benayahu, Y. Loya
+      Department of Zoology, The George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 6997
+
+
+
+
+            ABSTRACT: The present study examined the effect of lesion size and shape on the recovery rates of the
+            scleractinian colonial coral Favia favus. Five tissue lesion types, differing in surface area and perimeter,
+            were artificially inflicted on the upper surface of 46 F. favus colonies in the shallow reef across from th
+            Marine Biology Laboratory of Eilat (Red Sea). The gradual closure of these lesions was monitored
+            monthly from January to March 1995 by underwater photography. Photographs over time were an
+            lyzed with a computerized image analyzer, enabling accurate measurements of the emerging tissue. I
+            this study we present the percent recovery of the various lesion types through time and the ratio
+            between the newly formed tissue and the perimeter length (NFT/P) of each specific lesion. These
+            results show for the first time the significant effect of lesion size and shape on the regeneration cap
+            bility of a colonial coral. We found that the high recovery rates achieved during the first month are re
+            ulated mainly by the perimeter length of the lesion, while during the following months recovery
+            influenced more by the surface area of the lesion and its surface area/perimeter ratio. The various
+            NFT/P ratios recorded in this study indicate that lesions with a relatively long perimeter probably
+            obtain a higher energetic allocation from the colony, probably due to the larger colony portion asso
+            ated with their recovery.
+
+            KEY WORDS: Lesion shape • Perimeter • Recovery rates • Favia favus ■ Scleractinian corals • Red Sea
+
+
+
+
+                    INTRODUCTION                                   the tissue and skeleton (Loya 1976, Bäk et al. 1977, Bäk
+                                                                   Steward-Van Es 1980, Bäk 1983, Meesters et al. 1992,
+  Coral tissue is continuously being damaged
+                                        1994, Meesters
+                                              through  & Bäk 1993, Van Veghel et al. 1994).
+the activities of fish, echinoids, asteroids, molluscs, Regeneration of an injury starts with the formation of
+polychaetes and microorganisms (Pearson 1981, Brown     a new tissue layer by the surrounding polyps, and
+& Howard 1985, Hutchings 1986, Cameron et al. 1991).    new septa start to emerge in this layer after approxi
+In addition, corals suffer tissue damage from hurri     mately 2 wk (Meesters et al. 1994). In general, the
+canes (Rogers 1993), sedimentation (Rogers 1990),       regeneration of a lesion, expressed in terms of a reduc
+temperature extremes (Jokiel & Coles 1990), emersion at tion in lesion size, follows an exponentially decreasing
+low tide (Loya 1972), competition (Lang & Chornesky     curve (Bak 1983, Meesters et al. 1992, Meesters & Bak
+1990) and human activity (Brown & Howard 1985).         1993).
+Damage to the coral surface is manifested in a variety    Although regeneration in colonial corals has
+of lesion shapes and sizes. The bare skeleton then      attracted many researchers who have speculated on its
+becomes available for settlement by sessile organ                   ecological consequences, most assumptions proposed
+isms, which pose a potential threat to the survival of              for colonial corals are based on the regeneration rates
+the coral colony (Bak & Steward-Van Es 1980). Al                    of small circular lesions of approximately 1 cm2 (Bäk et
+though lesions can become a permanent feature, some al. 1977, Lester & Bak 1985, Meesters et al. 1992, 1994,
+lesions will recover totally through regeneration of Meesters & Bak 1993, Van Veghel et al. 1994) and of
+                                                     5 cm2 (Bak & Steward-Van Es 1980). An accepted par
+                                                     adigm is that the regeneration of lost tissues is an
+* E-mail: urio@zoot.tau.ac.il                        'energy-cost' process. This may explain why régénéra
+
+© Inter-Research 1997
+
+Resale of full article not permitted
+
+
+
+
+                         This content downloaded from 128.163.2.206 on Sat, 17 Jun 2023 12:25:32 +00:00
+                                          All use subject to https://about.jstor.org/terms
+ 102 Mar Ecol Prog Ser 146: 101-107, 1997
+
+
+
+
+  tion affects colony growth (Bak                                1983),
+                                                           difference        reproduction
+                                                                        between the     perimeter lengths of the SQ
+  (Rinkevich & Loya 1989, Harrison                         6(116 ±&    Wallace
+                                                                    8.5 mm;            1990,
+                                                                             Fig. 2b) and         Van
+                                                                                            the E-3  lesions (95 ±
+  Veghel et al. 1994), resistance to                             diseases
+                                                           7.3 mm).             and
+                                                                      The SP lesions     compet
+                                                                                      had the  highest P/SA ratio
+ itive ability (Bak & Criens 1981). The trade-off in       (Fisher's PLSD test, p < 0.01), with the lowest being for
+ energy allocation between regeneration, reproduction the SQ-6 types (Fig. 2c; p < 0.01). The E-3, E-6 and
+ and growth may indicate that corals are capable of       each of the EP formation lesions exhibited a similar
+
+ controlling and regulating the energy cost of the         P/SA ratio (Fig. 2c; p > 0.05).
+ regeneration process.                                       The 5 different lesion types were photographed
+   The ability to recover lesions is considered to play a every month from January to April 1995. Each color
+fundamental role in the survival of corals. However,      slide was analyzed by the image analyzer, enabling
+the effect of lesion shape on this process has not yet    accurate measurements of the emerging tissue area
+been assessed quantitatively. The objective of the        over time. The percent recovery of the 5 different
+ present study was to examine the effect of shape and     lesion types was calculated separately for each of the 3
+ size of tissue lesions on the recovery rates of the      monthly intervals. In addition, we calculated the per
+stony colonial coral Favia favus, a common species on     cent recovery of the 5 lesion types for the entire study
+the shallow reefs of the northern Gulf of Eilat (Red      period (90 d). These results were transformed by arc
+Sea).                                                     sin^/p and tested by ANOVA with repeated measures.
+                                                          The percent recovery of the different lesions obtained
+                                                          during the first month interval was tested additionally
+              MATERIALS AND METHODS                       by a 1-way ANOVA.
+                                                             In order to determine the effect of the perimeter
+   In this study 46 colonies of Favia favus, each         length on the regeneration process in Favia favus, we
+approximately 45 cm in diameter, were randomly            calculated the area (in mm2) of the newly formed tissue
+selected in the shallow reef (2 to 3 m) across from the   (NFT) from the percent recovery data previously
+Marine Biology Laboratory of Eilat. Using an air-pick, recorded for each lesion type for each time interval.
+fueled from a SCUBA tank, 5 different types of tissue     These areas of NFT were then divided by the perime
+lesions were artificially inflicted on the upper part of  ter length of each lesion type, on the basis of the new
+the colonies, 1 lesion type per colony. The lesions       perimeter at the end of each interval. Using this ratio,
+were as follows: (1) single polyp lesions (SP, n = 10;    we were able to standardize size and shape differences
+Fig. la), (2) elongated lesions composed of 3 polyps in between the 5 lesion types.
+a row (E-3, n = 9; Fig. lb), (3) square lesions com
+posed of 6 polyps (SQ-6, n = 8; Fig. lc), (4) elongated
+lesions composed of 6 polyps in a row (E-6, n = 11;                               KE^UL13
+
+
+Fig. Id), and (5) configurations of 3 elongated lesions
+composed of 6 polyps each, which were inflicted par          The percent recovery achieved by each lesion type
+allel to each other with an interval of 2 undamaged       during each month interval and throughout the
+polyps in between (EP, n = 8; Fig. le). All lesions were  entire study period (relative to lesion size at t = 0) is
+photographed immediately after they were damaged          presented in Table 1. The results presented in each
+(January 1995) by a Nikonos V camera with 35 mm           column refer only to the changes in lesion size dur
+close-up attachment. Analyzing these slides with an       ing a given month interval. The highest recovery
+image analyzer (Olympus, CUE-3), we calculated            percentages of all lesion types were achieved during
+averages (±SD) of the surface areas of the lesions the     (i.e.first month interval followed by a significant
+projected area), their perimeters and their perime        decrease during the second and third month inter
+ter/surface area ratios (P/SA; Fig. 2a-c, respectively). vals (ANOVA with repeated measures, p = 0.0001;
+   The projected surface areas of the SQ-6, E-6, and      Table 1).
+each of the 3 lesions in the EP formation were similar       Throughout the entire study period (90 d) the SP
+(Fig. 2a; 1-way ANOVA, Fisher's PLSD test, p > 0.05). and each of the lesions in the EP formation
+                                                          lesions
+
+These relatively large lesions were followed by surface   recovered 59 ± 12.4% and 65.2 ± 15.5% of their initial
+
+areas of the E-3 and SP lesions, in decreasing size       size, respectively (Table 1). The recovery percentage
+(Fig. 2a; Fisher's PLSD test, p < 0.01). The perimeter    of   these 2 lesion types were followed by those of the
+lengths of the E-6 types and each of the lesions in the6, E-3 and SQ-6 lesions, in decreasing order (Table 1).
+EP formations were similar (Fig. 2b; Fisher's PLSD test,  The lowest recovery rates during all 3 time intervals
+p > 0.05.); these were followed by, in decreasing lengthwere for the SQ-6 lesions. In addition, the SQ-6 lesions
+of perimeter, SQ-6, E-3 and SP lesions (Fig. 2b; Fisher'swere the only ones to have negative recovery rates
+PLSD test, p < 0.01). However, there was no significantduring the second and third intervals (Table 1). A
+
+
+
+
+                      This content downloaded from 128.163.2.206 on Sat, 17 Jun 2023 12:25:32 +00:00
+                                       All use subject to https://about.jstor.org/terms
+                                  Oren et al.: Effect of lesions on regeneration of Favia favus 103
+
+
+
+
+             m i:;vpp i,
+
+
+  v *7 v ^ *1* v* v*
+  ✓ / ^ L *
+                                   «•
+
+     £'-Wj
+                   **#«*
+                      * %   / ,(
+                         - <2%?.
+                    # & |L **¥!■■
+                                        Pfii
+
+
+
+
+                   ■ft* '1$ * / \Â2-.
+                   n jtev.,-Lê0%
+
+
+
+
+                  ' >
+
+
+
+
+Fig. 1. The different artificial lesions inflicted on the upper surface of Favia favus colonies: (a) single polyp lesions (SP); (b) elon
+gated lesions composed of 3 polyps in a row (E-3); (c) square lesions composed of 6 polyps (SQ-6); (d) elongated lesions composed
+of 6 polyps in a row (E-6); (e) configurations of three 6 polyp elongated lesions parallel to each other with an interval of 2 undam
+                                  aged polyps in between (EP). All figures at 44 % actual size
+
+
+
+
+                          This content downloaded from 128.163.2.206 on Sat, 17 Jun 2023 12:25:32 +00:00
+                                           All use subject to https://about.jstor.org/terms
+104 Mar Ecol Prog Ser 146: 101-107, 1997
+
+
+
+
+                                                                             Table 2. One-way ANOVA of the percent recovery rates
+                                                                             (Table 1) attained during the first month. "Significance at
+                                                                             99%. For definitions of lesion type abbreviations see Table 1
+
+
+                                                                              Lesion
+                                                                              Lesiontype
+                                                                                     type         Mean Difference        Fisher PLSD
+
+
+                                                                              SP vs E-3                11.868               4.887*
+                                                                              SP vs SQ-6               15.615               5.045*
+                                   . , .                                      SP vs E-6                  5.638              4.647*
+
+                   SP E-3 SQ-6 E-6 EP                                         SP vs EP                 -3.154               4.342
+                                                                              E-3 vs SQ-6                3.747              5.168
+                                                                              E-3 vs E-6               -6.229               4.781*
+                                                                              E-3 vs EP               -15.021               4.485*
+                                                                              SQ-6 vs E-6              -9.976               4.942*
+                                                                              SQ-6 vs EP              -18.768               4.656*
+                                                                              E-6 vs EP                -8.792               4.222*
+
+
+
+
+                                                                             6 lesions had doubled their initial size during this
+                                                                             period. No significant differences were found between
+                                   SQ-6                                      the middle lesions and the external ones in the EP for
+
+                                                                             mation (Fig. le; 1-way ANOVA, p > 0.05).
+         0.5                                                                  In the first month interval the elongated lesions of the
+                                                                             EP formation attained the highest recovery rates of
+         0.4
+                                                                             48.6 ± 8.2 % (Table 1, first interval). The recovery rates of
+         0.3                                                                 the SP lesions were lower (43.2 ± 8.1%) but did not differ
+         0.2"                                      llllllllili               significantly (1-way ANOVA, Fisher's PLSD test, p >
+                                                                             0.05; Table 2). However, the percent recovery of both
+
+                 ■J
+         0.1 -
+                                                                             these lesion types were significantly higher than those of
+           ) IL""1
+         o.o  li,rf "i 1 ' —I—1-1—I—1-1—I— I—                                E-6, E-3 and SQ-6 (Fisher's PLSD test, p < 0.01; Tables 1
+                   SP E-3 SQ-6 E-6 EP                                        & 2, respectively). In addition, we found no significant
+                                                                             difference between the E-3 and the SQ-6 lesions
+                                 Lesion type
+                                (Fisher's PLSD test, p > 0.05), which attained the l
+                                recovery
+Fig. 2. Characteristics of the 5 different rates during
+                                                  lesionthis time interval
+                                                           types,           (Table 1)
+                                                                      (a) Aver
+                                  The ratios
+age surface area (+SD); (b) average           (NFT/P) between
+                                         perimeter        lengththe newly  formed t
+                                                                      (+SD);
+    (c) average perimeter/surface      area
+                                (in mm2)    and (+SD)   ratio (in mm) of each of
+                                                 the perimeter
+                                                                             lesion types for each monthly interval are presen
+survey conducted 12 mo after inflicting the lesions                          Fig. 3. The highest NFT/P ratios for all lesions
+showed that all lesions except SQ-6 had completely                           obtained during the first month and a significant
+healed (data not shown). Furthermore, some of the SQ             decrease with time was recorded in the following
+                                                                             intervals (ANOVA with repeated mea
+                                                                             sures, p = 0.0001; Fig. 3).
+Table 1. Percent reduction of lesion areas (±SD) during the first interval     The NFT/P ratios obtained for the elon
+(30 d), second interval (31-60 d), and third interval (61-90 d) and during the
+                                                                                gated lesions in the EP formation in the
+entire study period (0-90 d). SP: single polyp lesions (n = 10); E-3: elongated
+lesions composed of 3 polyps in a row (n = 9); SQ-6: square lesions composed    first month interval were significantly the
+of 6 polyps (n = 8); E-6: elongated lesions composed of 6 polyps in a row (n =  highest  (Fisher's PLSD test, p < 0.05;
+11); EP: configurations of 3 elongated lesions composed of 6 polyps each,       Fig. 3, Table 3). The second highest NFT/P
+which were inflicted parallel to each other with an interval of 2 unharmed ratios were for the SP and E-6 lesions,
+                              polyps in between (n = 8)
+                                                                                            which did not differ significantly between
+                                                                                            them (Fisher's PLSD test, p > 0.05; Fig. 3,
+ Lesion
+ Lesiontype
+        type                      Reduction
+                                  Reduction of of
+                                               lesion
+                                                   lesion
+                                                      area (%)
+                                                           area (%)
+                   30 d           31-60 d        61-90 d            0-90 d                  Table 3). The NFT/P ratios of the SP and
+                                                                                            E-6 types were significantly higher than
+ SP              43.2 ± 8.1      20.5 ± 5.0      10.3 ±3.8        59.5 ± 12.4               those of the SQ-6 and E-3 lesions (Fisher's
+ E-3             24.3 ± 5.1       10.0 ± 3.0      3.6 ± 2.3       34.4 ± 7.9
+                                                                                            PLSD test, p < 0.05; Fig. 3, Table 3). How
+ SQ-6            18.6 ± 3.9      -5.7 ± 2.3     -1.1 ± 1.7        15.9 ± 9.3
+ E-6             33.6 ±5.1        16.5 ± 4.7      7.2 ± 3.4       48.6 ± 17.3
+                                                                                            ever, no significant difference was found
+ EP              48.6 ± 8.2      25.7 ± 5.0       9.0 ± 3.8       65.2 ± 15.5
+                                                                                            between the NFT/P ratios of SQ-6 and E-3
+                                                                                            lesions (Fisher's PLSD test, p > 0.05).
+
+
+
+
+                                This content downloaded from 128.163.2.206 on Sat, 17 Jun 2023 12:25:32 +00:00
+                                                 All use subject to https://about.jstor.org/terms
+                                  Oren et al.: Effect of lesions on regeneration of Favia favus 105
+
+
+
+
+Table 3. One-way ANOVA of the NFT/P ratios (Fig. 3)                  E-6 and each of the elongated lesions in the EP for
+attained during the first month. "Significance at 95%. For           tion (Fig. 2a), attained different recovery rates despite
+      definitions of lesion type abbreviations see Table 1
+                                                                     their size similarity (Table 1).
+                                                                       The only lesions demonstrating negative recovery
+ Lesion
+ Lesiontype
+        type         Mean Difference          Fisher PLSD
+                                                                     rates during the second and third time intervals were
+ SP vs E-3                0.359                  0.183'              the SQ-6. The major difference between these and the
+ SP vs SQ-6               0.192                  0.189*              other lesion types is their relatively low perimeter/sur
+ SP vs E-6               -0.001                  0.174
+                                                                     face area ratio (Fig. 2c). We noticed that the tentacles
+ SP vs EP                -0.374                  0.163'
+                                                                     of the healthy polyps surrounding each of the elon
+ E-3 vs SQ-6             -0.167                  0.194
+ E-3 vs E-6              -0.360                  0.179*              gated (E-3, E-6 and EP; Fig. lb, d, e) and the SP lesions
+ E-3 vs EP               -0.733                  0.168*              (Fig. la) covered the damaged surface area of these
+ SQ-6 vs E-6             -0.193                  0.185"              lesions during night time, while the SQ-6 lesions were
+ SQ-6 vs EP              -0.566                  0.175*
+                                                                     only partly covered, due to the greater distance be
+ E-6 vs EP               -0.372                  0.158*
+                                                                     tween their surrounding polyps and the center of these
+                                                                     lesions. Although the surface area of the SQ-6, E-6 and
+                                                                     each of the lesions in the EP formation were similar
+                      DISCUSSION                                     (Fig. 2a), the SQ-6 lesions were more adversely
+                                                                     affected by sediment and algae (authors' pers. obs.).
+   The results obtained in this study show that the                  We assume that the increase in lesion area recorded in
+
+regeneration process in the colonial coral Favia favus               the SQ-6 lesions during the second and third time
+is strongly affected by the size and shape of the lesion.            intervals indicates a possible threshold of wound size
+We found that in some cases large lesions recovered                  and shape for its recovery chances. Sweeper tentacles
+faster than smaller ones (EP and E-6 vs E-3; Table 1,                were not noticed in the lesion areas in any of our night
+first interval), and in other cases they recovered at a              time observations.
+
+similar rate (EP vs SP; Table 1, first interval) or more               Sousa (1984) proposed that regeneration of benthic
+slowly (SP vs SQ-6; Table 1). Bak & Steward-Van Es                   organisms is positively related to the ratio between
+(1980) found in both Agaricia agaricites and Pontes                  lesion perimeter and its surface area. The high recov
+astreoides that small circular tissue lesions of about               ery rates of the SP lesions, which obtained the highest
+1 cm2 recovered faster than 5 cm2 ones. We recorded a                P/SA ratios (Fig. 2c), versus the low recovery rates of
+similar pattern in F. favus, i.e. comparing the recovery the SQ-6 ones with the lowest P/SA ratios (Fig. 2c),
+rates of the small SP lesions to the E-3, E-6 and SQ-6   support this presumption. However, in other cases
+lesions (Table 1). However, we found that the recovery   lesions with similar P/SA ratios, such as the E-3, E-6
+                                                       and each of the EP ones (Fig. 2c), attained different
+rates of these small SP lesions were similar to those of
+
+the much larger EP lesions (Figs, la, e & 2a, Table    recovery
+                                                           1). rates (Table 1). Therefore, it seems that the
+The percent recovery rates of the various lesion types recovery process in colonial corals is more complex
+revealed that similar sized lesions, such as the SQ-6, and probably regulated by additional factors to lesion
+                                                                                 surface area or the P/SA ratio of the lesion.
+
+                                                                                   Bak & Steward-Van Es (1980) and Mees
+                                                                                 ters et al. (1994) suggested that regeneration
+                                                                                 in colonial corals is fueled by a definite and
+                                                                                 limited energetic resource. In addition, they
+                                                                                 assumed that the energetic resources re
+                                                                                 quired for the recovery of lesions in colonial
+                                                                                 corals are translocated only from the polyps
+                                                                                 directly bordering the lesion. In other words,
+                                                                                 lesions with similar size and shape are there
+                                                                                 fore expected to achieve similar recovery
+                                                                                 rates. In our study we found that each of the
+                                                                                 lesions in the EP formation recovered signifi
+                                                                                 cantly faster than the E-6 ones despite their
+                                                              -r~
+
+               First interval Second interval Third interval                     similar surface areas and perimeters (Fig. 2,
+                                                                                 Table 1, first interval). The fact the EP lesions
+                                                                                 recovered faster than the E-6 ones indicates
+Fig. 3. Average ratios (+SD) between the newly formed tissue (in mm2)
+                                             that types
+and perimeter length (mm) of each of the 5 lesion energetic resources
+                                                         during    therequired
+                                                                        first, for the re
+                   second and third month intervals                              covery of the EP lesions can also be trans
+
+
+
+
+                          This content downloaded from 128.163.2.206 on Sat, 17 Jun 2023 12:25:32 +00:00
+                                           All use subject to https://about.jstor.org/terms
+ 106 Mar Ecol Prog Ser 146: 101-107, 1997
+
+
+
+
+ located from polyps that are not                    declining of
+                                                           directly
+                                                                  these rates over
+                                                                           bordering
+                                                                                   time is ubiquitous
+                                                                                                thein most
+lesion.                                              studied species (Bak 1983, Meesters & Bak 1993). By
+  A comparison of ratios between the newly formed    studying the regeneration of lesions of various shapes
+tissue and perimeter length of each lesion (Fig. 3) in
+                                                    indiFavia favus we demonstrated that the perimeter of
+cated the importance of perimeter length for tissue
+                                                 the lesion is a key factor in the regeneration rate of
+regeneration in Favia favus. We found that lesions withlesions in this species. Similar studies on other species
+long perimeters such as the E-6 (165 ± 7.8 mm) had sig may reveal that this regeneration pattern is character
+                                                      istic for other corals as well.
+nificantly higher NFT/P ratios (see Fig. 3) than lesions
+with shorter perimeters such as the SQ-6 and E-3
+lesions (perimeters = 116 ± 8.5 mm, 95 ± 7.3 mm        Acknowledgements. We thank the staff of H. Steinitz Marine
+respectively; Fig. 2b). In other words, lesions with                Biology Laboratory in Eilat for their kind hospitality and facil
+                                                                    ities. We are grateful to A. Shoob for the photography, to N.
+longer perimeters seem to build relatively more new
+                                                                    Paz for her editorial assistance and to 2 anonymous referees
+tissue than lesions with shorter perimeters. We propose             for their constructive criticism. This research was supported
+that the non-significant difference between the NFT/P               by the Israel Science Foundation (Israel Academy of Sciences
+ratios of the SQ-6 and E-3 lesions during the first                 and Humanities) No. 683/96 and the Porter Super-Center for
+                                                                    Ecological and Environmental Studies.
+month interval (Fig. 3) results from their similar peri
+meters (116 ± 8.5 mm and 95 ± 7.3 mm, respectively;
+Fig 2b). The various NFT/P ratios, which standardize                                     LITERATURE CITED
+
+the size and shape differences between the lesion
+types, indicate that different lesions receive different            Bäk RPM (1983) Neoplasia, regeneration and growth
+                                                                      reef-building coral Acropora palmata. Mar Biol 77:
+amounts of energy from the colony. The results                         221-227
+obtained in this study suggest that long perimeter                  Bak RPM, Brouns JJWM, Heys FML (1977) Regeneration an
+lesions are provided with greater energetic resources                 aspects of spatial competition in the Scleractinian corals
+for their regeneration. It is logical to assume that long             Agaiicia agaricites and Montastrea annularis. Proc 3rd In
+                                                                      Symp Coral Reef 1:143-149
+perimeter lesions in F. favus obtain their recovery
+                                                                    Bak RPM, Criens SR (1981) Survival after fragmentation
+resources from a large portion of the colony, while                   colonies of Madracis mirabilis, Acropora palmata and A.
+short perimeter lesions 'activate' smaller portions of                cervicornis (Scleractinia) and the subsequent impact of a
+the colony. The high recovery rates and NFT/P ratios                  coral disease. Proc 4th Int Symp Coral Reef 2:221-227
+demonstrated by the small SP lesions appear to be in                Bak RPM, Steward-Van Es Y (1980) Regeneration of super
+                                                                      cial damage in the scleractinian corals Agaricia agaricite
+contrast to our perimeter length hypothesis. However,
+                                                                      f. purpurea and Pontes astreoides. Bull Mar Sei 30 (4):
+we assume that these small, round shaped lesions                       883-887
+
+(Fig. la) succeed in reaching optimal regeneration                  Brown BH, Howard LS (1985) Assessing the effects of 's
+                                                                       on reef corals. Adv Mar Biol 22:1-63
+conditions due to the effective protection capacity of
+                                                                    Cameron AM, Endean R, DeVantier LM (1991) The effect of
+the healthy polyp tentacles surrounding them.
+                                                                       Acanthaster planci prédation on populations of two spe
+  The significantly highest NFT/P ratio was recorded                  cies of massive coral. Hydrobiologia 216/217:257-262
+in each of the elongated lesions in the EP formation               Harrison PL, Wallace CC (1990) Reproduction, dispersal and
+(Fig. 3, first interval). We suggest that these relatively            recruitment of scleractinian corals, Chap 7. In: Dubinsky Z
+high ratios result from the proximity of these lesions.               (ed) Coral reef. Elsevier, Amsterdam, p 133-196
+                                                                   Hutchings PA (1986) Biological destruction of coral reefs.
+We further propose that the adjacent lesions (only 2                   Coral Reefs 4:239-252
+unharmed polyps between one lesion and the next;         Jokiel PL, Coles SL (1990) Response of Hawaiian and other
+Fig. le) are 'regarded' by the colony as 1 single lesion    Indo-Pacific reef corals to elevated temperature. Coral
+                                                        Reefs 8:155-162
+with a very long perimeter.
+                                                      Lang JC, Chornesky EA (1990) Competition between s
+ Previous studies showed that regeneration can affect   tinian reef corals — a review of mechanisms and effects. In:
+colony growth as well as its reproduction (Bak 1983,      Dubinsky Z (ed) Coral reefs. Elsevier, Amsterdam, p 209-252
+Rinkevich & Loya 1989, Harrison & Wallace 1990, Van Lester RT, Bak RPM (1985) Effect of environment on regener
+Veghel & Bak 1994). These findings indicate an ener       ation of tissue lesions in the reef coral Montastrea annu
+
+getic trade-off between the polyps of the colony during laris (Scleractinia). Mar Ecol Prog Ser 24:183-185
+                                                       Loya Y (1972) Community structure and species diversity
+the regeneration process. The ability of coral colonies hermatypic corals at Eilat, Red Sea. Mar Biol 13:100-1
+to distinguish between different lesions by their periLoya Y (1976) Skeletal regeneration in a Red Sea scleract
+meter length enables the colony to control its energy ian coral population. Nature 261:490-491
+flow according to the severity of the lesion.          Meesters EH, Bak RPM (1993) Effects of coral bleaching on
+  Regeneration characteristics have been studied for tissue regeneration potential and colony survival. Mar
+                                                         Ecol Prog Ser 96:189-198
+several coral species and are accepted as species spe  Meesters EH, Bos A, Gast GJ (1992) Effects of sedimentation
+cific (Bak et al. 1977, Bak & Steward-Van Es 1980, Bak    and lesion position on coral tissue regeneration. Proc 7th
+1983, Meesters et al. 1992). However, the pattern of      Int Symp Coral Reef 2:671-678
+
+
+
+
+                         This content downloaded from 128.163.2.206 on Sat, 17 Jun 2023 12:25:32 +00:00
+                                          All use subject to https://about.jstor.org/terms
+                                    Oren et al.: Effect of lesions on regeneration of Favia favus 107
+
+
+
+
+Meesters EH, Noordeloos M, Bäk RPM (1994) Damage      and
+                                               Rogers CS (1990) Responses of coral reef and reef organisms
+ regeneration: links to growth in the reef-building
+                                                 to coral
+                                                    sedimentation. Mar Ecol Prog Ser 62:185-202
+  Montastrea annularis. Mar Ecol Prog Ser 112:119-128
+                                               Rogers CS (1993) Hurricanes and coral reefs: the intermediate
+Pearson RG (1981) Recovery and recolonization of coral   reefs. hypothesis revisited. Coral Reefs 12:127-137
+                                                   disturbance
+  Mar Ecol Prog Ser 4:105-122                   Sousa WP (1984) The role of disturbance in natural communi
+Rinkevich B, Loya Y (1989) Reproduction in    regenerating
+                                                   ties. Annu Rev Ecol Syst 15:353-391
+   colonies of the coral Stylophora pistillata. In: Spanier
+                                                  Van  VeghelE,MLJ, Bäk RPM (1994) Reproductive characteris
+   Stinberger Y, Luria M (eds) Environmental quality       and
+                                                     tics of the polymorphic Caribbean reef building coral
+   ecosystem stability, 4B, Environmental quality.     Hebrew annularis. III. Reproduction in damaged and
+                                                     Montastrea
+   University, Jerusalem, p 257-265                  regenerating colonies. Mar Ecol Prog Ser 109:229-233
+
+This article was submitted to the editor                              Manuscript first received: May 24, 1996
+                                                                      Revised version accepted: November 15, 1996
+
+
+
+
+                            This content downloaded from 128.163.2.206 on Sat, 17 Jun 2023 12:25:32 +00:00
+                                             All use subject to https://about.jstor.org/terms
+

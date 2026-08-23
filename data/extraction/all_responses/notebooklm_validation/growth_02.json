@@ -1,0 +1,902 @@
+{
+  "answer": "Here is the validated extraction scaffold for the remaining **10 coral regeneration and growth papers** available in your notebook. \n\nThis batch covers key physiological tradeoffs, ecological mutualisms, hydrodynamics, and experimental corallivory assays. The extraction captures standard taxonomic designations, precise injury geometry, monitoring timelines, sample sizes, and missing environmental or abiotic covariates to ensure structural comparability across your master meta-analysis database.\n\n### **Validation Scaffold: Coral Regeneration & Growth Sources**\n\n| source_id | response variables measured | taxon | wound/fragment/colony size information | timepoints or monitoring duration | sample size and variance if reported | environmental setting | experimental treatments or stressors | key missing covariates |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| **Burmester et al., 2018** | • Healing initiation (stages 2–4) <br>• Healing success (stage 4/functional polyp) <br>• Proportional change in wound surface area <br>• Proportional live tissue cover <br>• Polyp extension score (0–6) <br>• Approximated Chlorophyll Density (ACD) <br>• Photosynthetic efficiency (Fv/Fm) `[1-6]` | *Astrangia poculata* and endosymbiont *Symbiodinium psygmophilum* `[7, 8]` | • **Wound:** single central polyp and coenenchyme removed (mean area: 34.28 ± 2.27 mm²) `[9]`. <br>• **Colony:** matched by wet weight (mean mass: 6.34 ± 0.25 g) `[10]`. | • 60-day trial post-wounding, photographed at **10 timepoints** (days 0, 5, 10, 15, 20, 25, 30, 40, 50, 60) `[1]`. <br>• Fv/Fm measured at weeks 0, 2, 4, 6, 8 `[5]`. | • **Total N = 224 colonies** (28 paired symbiotic and aposymbiotic colonies per treatment group across 4 treatments) `[10]`. <br>• Variance reported as Standard Error of the Mean (SEM) `[9-11]`. | • Indoor flow-through/recirculating aquariums, New England Aquarium, supplied with filtered, UV-treated Boston Harbor seawater `[12]`. <br>• Donor colonies collected from **6–10 m depths** at Fort Wetherill, RI, USA `[12]`. | • Symbiont state (brown symbiotic vs. white aposymbiotic) `[8]`. <br>• Nutrition (fed copepod slurry daily vs. starved/no food) `[10]`. <br>• Injury (wounded vs. unwounded control) `[10]`. <br>• Temperature held at 18°C `[12]`. | Seawater pH, pCO₂, aragonite saturation, precise current velocity (only turnover reported), and exact food/carbon ingestion rates `[12, 13]`. |\n| **Vega et al., 2025** | • Wound healing rate (cm²/day) <br>• Remaining final wound area (cm²) <br>• Buoyant weight growth rate (mg/cm²/day) <br>• Photosynthetic efficiency (Fv/Fm) `[14-16]` | *Pocillopora* spp. `[17, 18]` and yellowtail damselfish (*Dascyllus flavicaudus*) `[17, 18]` | • **Wounds:** small wounds (mean: 1.48 ± 0.398 cm²) and large wounds (mean: 3.82 ± 1.08 cm²) `[19]`. <br>• **Colony:** donor fragments collected from colonies >20 cm diameter `[20]`. <br>• **Fish:** total fish biomass ~36 g `[20]`. | • 21-day experiment (photographed immediately post-wounding and on Day 21; daily subset photographs for healing trajectory) `[14]`. | • **Total N = 72 coral fragments** (12 per tank across six 95 L flow-through aquaria) `[20]`. <br>• N = 18 adult *D. flavicaudus* (6 introduced to 3 tanks) `[19, 20]`. <br>• Variance reported as Mean ± Standard Deviation (SD) `[18, 19]`. | • Richard B. Gump South Pacific Research Station, Moorea, French Polynesia; donor colonies from northshore lagoon reef `[18, 20]`. <br>• Lab 95 L flow-through aquaria with unfiltered seawater at ~6 L/h `[20]`. | • Wounding treatment (unwounded control, small wound, large wound) `[19]`. <br>• Fish association (present in half of tanks vs. absent) `[19]`. <br>• Ambient temperature and light, daily flake feedings `[14, 19]`. | Seawater pH, pCO₂, aragonite saturation, nutrients (N, P), and current flow speed in cm/s `[20]`. |\n| **Dias et al., 2018** | • Total fragment mortality (%) <br>• Partial mortality (% dead area classes) <br>• Bleaching level (normal, pale, bleached, dead) <br>• Live wet weight growth rate (g g⁻¹ day⁻¹) <br>• Tissue regeneration rate (mm² day⁻¹) `[21-24]` | Nine Indo-Pacific species (4 branching, 3 plating, 1 encrusting, 1 massive, e.g., *Acropora tenuis*, *Stylophora pistillata*, *Galaxea fascicularis*) `[25]` | • **Wounds:** circular artificial injury (3 mm diameter; ~7.07 mm²) `[26]`. <br>• **Colony:** branching fragments (20–40 mm length); plating/massive fragments (~30 mm sided squares) `[27]`. | • 60-day experiment (mortality, bleaching, and injury recovery monitored every 20 days: Days 0, 20, 40, 60) `[22, 24, 26]`. | • **Total N = 1,620 fragments** (20 replicate fragments per colony; 10 undamaged, 10 injured, across 9 species and 3 temperature groups) `[26, 27]`. <br>• Variance reported as Mean ± Standard Deviation (SD) `[28-30]`. | • Indoor laboratory experimental aquariums (400 L) and sump (280 L) at Oceanário de Lisboa, Portugal `[27, 31]`. | • Seawater temperature (26°C control, 30°C, 32°C) `[28]`. <br>• Injury treatment (damaged vs. undamaged controls) `[26, 32]`. <br>• Coral species (9 distinct morphotypes) `[25]`. | High-resolution water velocity (only turnover given as 5 times/hr) `[31]`, pH, carbonate chemistry, and nutrients `[33]`. |\n| **Kramarsky-Winter & Loya, 1996** | • Tissue and skeleton repair vs. Budding (anthocaulus formation) occurrence <br>• Percent survival of fragments (%) <br>• Average bud size (mm) and number of buds per fragment `[34-36]` | Solitary corals: *Fungia scutaria*, *Fungia granulosa*, and *Fungia horrida* `[34, 37]` | • **Wounds:** mechanical breakage and tissue scraping `[34, 38]`. <br>• **Colony:** wedge-shaped fragments: Large (> 5 septae wide), Medium (2–5 septae), Small (1 septum/sliver) `[36, 38]`. | • Induced bud surveys at 4 to 12 months in field/lab `[34]`. <br>• Lab fragments monitored at 5, 10, 21 days, and up to 6 months `[34, 39, 40]`. | • **Field survey:** 10 m² belt transects `[34, 37]`. <br>• **Lab breakage:** N = 31 fragments total (8 large with mouth, 10 large without mouth, 10 medium, 3 small) `[36]`. <br>• Variance reported as Mean ± Standard Deviation (SD) `[36, 37]`. | • Gulf of Eilat, Red Sea, Israel (field collection and monitoring at depths > 10 m) `[34, 37]`. <br>• Lab incubator at 25°C in aerated filtered seawater dishes `[38, 39]`. | • Fragment size class (large vs. medium vs. small) `[36, 38]`. <br>• Parental mouth tissue presence (with mouth vs. mouthless) `[35, 36]`. <br>• Injury methods (putty coverage vs. mechanical breakage vs. forceps pinching) `[34, 35, 38]`. | Seawater pH, pCO₂, nutrients, light/PAR, and precise current flow speeds in Red Sea habitats. |\n| **Hall, 1998** | • Percent injury regeneration (%) <br>• Area of new tissue (cm²) <br>• Linear extension of new tissue and branches (mm) <br>• Algal colonisation area (cm²) <br>• Zone of tissue available for regeneration (cm) <br>• Whole colony growth (projected area cm²) <br>• Survival/mortality <br>• Reproduction (polyp fecundity %, egg volume mm³, egg size, eggs/polyp) `[41-49]` | *Acropora hyacinthus*, *Acropora gemmifera*, *Goniastrea retiformis*, *Porites mayeri*, *Porites lichen*, *Acropora robusta*, *Porites australiensis*, *Acropora millepora*, and *Acropora cytherea* `[50-54]` | • **Wounds:** small lesions (4 cm² area) `[53, 55]`, massive/repetition lesions (8%, 16%, and 25% colony area, standardized to 75 cm² projected area) `[56-58]`. <br>• **Colony:** *A. hyacinthus* (2067 ± 134 cm²), *A. gemmifera* (329 ± 18 cm²), *G. retiformis* (250 ± 11 cm²) `[44, 59]`. | • Temporal surveys over 2 years (censuses every 3–4 months) `[50, 60]`; <br>• Repetitive injury: 9-month monitoring `[56, 61]`; <br>• Scraping/breakage assays: monitored at 12 and 24 days `[62]`; <br>• Positional assays: monitored at 71, 74, 153, 215, 286 days `[63, 64]`. | • **Repetitive injury:** N = 20 colonies per species/treatment initially `[59]`. <br>• **Positional/scraping experiments:** 10 replicate colonies per species `[53, 55, 65, 66]`. <br>• Variance reported as Mean ± Standard Error (SE) `[44, 49, 59]`. | • In situ reef crests at Mermaid Cove, North Reef, and Osprey Island, Lizard Island, Great Barrier Reef, Australia `[67-70]`. | • Injury size (8%, 16%, 25%) `[58]`. <br>• Injury frequency (once, twice, 3-times repeated) `[58]`. <br>• Injury type (tissue mortality vs. scraping vs. branch removal) `[71-73]`. <br>• Injury position (edge vs. centre) `[53]`. | Seawater temperature, pH, carbonate chemistry, light/PAR, nutrients, and current flow velocity. |\n| **Hamman, 2019** | • Lesion healing (proportion healed) <br>• Skeletal buoyant weight growth rate (g/day) <br>• Spatially explicit linear extension (cm/year) <br>• Morphological surface rugosity (change in variance of heights) `[74-77]` | Massive *Porites* spp. (*Porites lutea* & *Porites lobata*) `[78, 79]` and the corallivorous snail *Coralliophila violacea* `[80, 81]` | • **Wounds:** circular lesions (1 cm diameter, ~78.5 mm² area) `[74]`. <br>• **Colony:** small colonies (6–7 cm diameter for short-term; ~5 cm for linear extension) `[74, 82]`. • Wild snail-associated colonies (~1 m diameter) `[77]`. | • **Short-term:** 39-day trial (photographed and weighed at days 20 and 39) `[75]`. <br>• **Long-term:** 1 year (365 days) `[76, 77]`. | • **Short-term:** N = 40 colonies (10 per treatment) `[74, 83]`. <br>• **Linear extension:** N = 60 colonies initially (45 recovered after 1 year) `[76, 82]`. <br>• **Snail surveys:** N = 12 colonies `[77]`. <br>• Variance reported as Standard Error (±SE) `[83, 84]`. | • Backreef north shore of Moorea, French Polynesia (depth 2–3 m) `[79]`. <br>• Lab flow-through water tables at Gump Station `[74]`. | • Acute lesion spacing (2 lesions separated by 1.2 cm, 3.5 cm, or 6.0 cm, vs. undamaged controls) `[74]`. <br>• Chronic predation stress (presence vs. absence of *C. violacea* snails) `[77, 81]`. | Seawater temperature logs (only seawater intake average 24.4 ± 0.6°C given) `[85]`, pH, carbonate chemistry, light/PAR, and precise current velocity. |\n| **Jayewardene et al., 2009** | • Bite density (# of bites/m²) <br>• Predation pressure (bites/m² of coral tissue) <br>• Experimental predation intensity (# of bites/tile/week) <br>• Fragment complete vs. partial biomass removal `[86-89]` | *Porites compressa*, *Porites lobata*, *Pocillopora meandrina* `[86, 90]`, and their predators, puffer *Arothron meleagris* and filefish *Cantherhines dumerilii* `[86, 91, 92]` | • **Wounds:** bite size (A. meleagris average bite area ~0.9 cm²) `[93]`. <br>• **Colony:** transplanted branch nubbins in two size classes: small (1–2 cm) and large (4–5 cm) `[91, 94]`. | • **Field surveys:** March 2004 to August 2005 (17 months) `[95]`. <br>• **Transplant monitoring:** 3 weeks (assessed weekly) `[89]`. | • **Surveys:** 150 photoquadrats per site `[96]`; five 20 m transects for bites (N = 50 quadrats per site) `[88]`. <br>• **Transplants:** 4 tiles of each size class per site (total 8 tiles/site, N = 64 nubbins/site) `[89, 97]`. <br>• Variance reported as Mean ± SD or SE `[90, 98]`. | • 12 shallow sites on 9 coral reefs in the Main Hawaiian Islands (Oahu, Hawaii, Maui; depth 6–12 m) `[95, 96, 99]`. | • Fragment size class (1–2 cm vs. 4–5 cm) `[94]`. <br>• Local background coral cover (gradient across reefs) `[90]`. <br>• Marine protection status (open, partial lay-net ban, no-take MLCD) `[95, 99]`. | Seawater temperature, pH, carbonate chemistry, light/PAR, and precise current velocity. |\n| **Jayewardene, 2010** | • Complete lesion closure time (days) <br>• Cumulative buoyant weight gain (g) <br>• Weight gain per unit area of live tissue / growth rate (g cm⁻² month⁻¹) `[100-103]` | *Porites compressa* `[104, 105]` | • **Wounds:** circular bite on tip of branch, average area 0.9 ± 0.3 cm² `[106, 107]`. <br>• **Colony:** three size classes of nubbins: 4 cm, 2 cm, and 1 cm tall (vs. 5 cm undamaged controls) `[106, 108]`. | • 83-day experiment (measured on days 1, 3, 5, 7, 10, 12, 14, 18, 20, 25, 31, 34, 41, 48, 56, 62, 66, 75, 80, 83) `[101, 109]`. | • **N = 64 total nubbins** (16 per group across 4 treatments) `[106, 108]`. <br>• Variance reported as Mean ± SD or SE `[85, 107, 110, 111]`. | • Land-based indoor mesocosm tank at the Hawaii Institute of Marine Biology (HIMB), Oahu, Hawaii, USA `[108, 109]`. | • Fragment height (4 cm vs. 2 cm vs. 1 cm vs. 5 cm control) `[106]`. <br>• Injury treatment (abraded/damaged vs. undamaged controls) `[106]`. | Seawater pH, pCO₂, light/PAR, and precise current flow speed in cm/s (only flow rate 7–8 L/min given) `[109]`. |\n| **Lenihan & Edmunds, 2010** | • Buoyant weight growth rate (mg cm⁻² d⁻¹) <br>• Photosynthetic efficiency (Fv/Fm) <br>• Proportional lesion area healed (% / % d⁻¹) `[112-114]` | Branching *Pocillopora verrucosa* `[112]` | • **Wounds:** pair of rectangular lesions, total initial size 74 ± 4 to 125 ± 7 mm² (~1.92 cm²) `[115, 116]`. <br>• **Colony:** branch apices trimmed to 13–42 mm length `[117]`. | • **Lab:** two replicate 10-day trials `[112, 118]`. <br>• **Field:** 30-day experiment `[119]`. | • **Lab:** N = 160 corals total (80 per trial, 10 replicates per treatment combination per trial) `[117, 120]`. <br>• **Field:** N = 48 juvenile colonies total (12 per treatment) `[119, 121]`. <br>• Variance reported as Mean ± SE `[122-124]`. | • **Lab:** Gump Station indoor flow-through raceways `[125, 126]`. <br>• **Field:** mid-lagoon patch reefs near Cook's Bay, Moorea, French Polynesia (depth 3 m) `[121, 127]`. | • **Lab:** temperature (cool 26.6°C vs. warm 29.6°C) `[112, 128]`, water flow speed (low 6 cm/s vs. high 21 cm/s) `[112, 126]`, and injury (damaged vs. uninjured control) `[112, 129]`. • **Field:** substrate flow/position (bommie top [14.3 cm/s] vs. seafloor [3.4 cm/s]) `[127, 130]` and predator access (cages vs. cage controls) `[119, 131]`. | Seawater pH, pCO₂, aragonite saturation, nutrients (N, P), and high-resolution field light/PAR logs `[132, 133]`. |\n| **Lenihan et al., 2015** | • Daily skeletal growth rate (mg cm⁻² d⁻¹) <br>• Coral growth difference (mg cm⁻² d⁻¹) <br>• Corallivorous fish density (no. fish/80 m²) <br>• Per capita bite rate (bites/5 min) `[134-137]` | Branching *Acropora elseyi* `[134, 138, 139]` and corallivorous fishes, primarily chevron butterflyfish *Chaetodon trifascialis* `[136, 137, 140]` | • **Colony:** branch nubbins mimicking juvenile size/shape `[135, 139]`. <br>• **Predators:** fish transects (50 m × 4 m) `[141]`. | • Two-week field assay (14 days) in December `[135, 139]`. <br>• Fish surveys on 8 days `[136]`. <br>• Focal fish observed for 5-min intervals `[137]`. | • **N = 120 corals** (12 cages and 12 cage controls per site across 5 sites) `[135]`. <br>• N = 12 total focal fish observed over 4 days per site `[137]`. <br>• Variance reported as Mean and 95% CI or SD `[142-144]`. | • Vaipahu Lagoon, north shore of Moorea, French Polynesia (five sites L1–L5 spanning reef crest to shore, depths 1.2–3.0 m) `[139, 145, 146]`. | • Hydrodynamic gradient (mean current velocity: 12 to 31 cm/s; velocity fluctuations ru,med: 4.1 to 10.8 cm/s) `[142]`. <br>• Predator exclusion (full cages vs. partial cage controls) `[135]`. | Seawater pH, carbonate chemistry, nutrients (N, P), and continuous high-resolution light/PAR logs across sites `[147]`. |\n\n***\n\n📈 **Nudge:** Would you like to compile these newly validated datasets into a combined, interactive analysis—such as plotting tissue regeneration rates (\\\\(mm^2\\ day^{-1}\\\\)) versus experimental temperatures across both mounding and branching species—to test for general taxonomic physiological thresholds?",
+  "conversation_id": "e1a4c269-6535-4de1-aff1-bda941ff6a53",
+  "sources_used": [
+    "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "d4f87f68-6209-4973-bf99-fac310af5656",
+    "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "c849a042-644e-4b4f-a530-33cfb800d9a9",
+    "2b8676ad-34ad-450c-8649-095d5be68458",
+    "58b15640-3061-4ea9-a606-877701eef38c",
+    "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "40359446-8345-4a72-8169-af86ad3de9d6",
+    "a67392b0-7a7e-43ad-917d-94febf750c1a"
+  ],
+  "citations": {
+    "1": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "2": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "3": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "4": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "5": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "6": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "7": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "8": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "9": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "10": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "11": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "12": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "13": "daec544d-cfab-46db-be2a-1d3596bc0395",
+    "14": "d4f87f68-6209-4973-bf99-fac310af5656",
+    "15": "d4f87f68-6209-4973-bf99-fac310af5656",
+    "16": "d4f87f68-6209-4973-bf99-fac310af5656",
+    "17": "d4f87f68-6209-4973-bf99-fac310af5656",
+    "18": "d4f87f68-6209-4973-bf99-fac310af5656",
+    "19": "d4f87f68-6209-4973-bf99-fac310af5656",
+    "20": "d4f87f68-6209-4973-bf99-fac310af5656",
+    "21": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "22": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "23": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "24": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "25": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "26": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "27": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "28": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "29": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "30": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "31": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "32": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "33": "3d374a40-79d3-413b-99c2-670f9da97bef",
+    "34": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+    "35": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+    "36": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+    "37": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+    "38": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+    "39": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+    "40": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+    "41": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "42": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "43": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "44": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "45": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "46": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "47": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "48": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "49": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "50": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "51": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "52": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "53": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "54": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "55": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "56": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "57": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "58": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "59": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "60": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "61": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "62": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "63": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "64": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "65": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "66": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "67": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "68": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "69": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "70": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "71": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "72": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "73": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "74": "58b15640-3061-4ea9-a606-877701eef38c",
+    "75": "58b15640-3061-4ea9-a606-877701eef38c",
+    "76": "58b15640-3061-4ea9-a606-877701eef38c",
+    "77": "58b15640-3061-4ea9-a606-877701eef38c",
+    "78": "58b15640-3061-4ea9-a606-877701eef38c",
+    "79": "58b15640-3061-4ea9-a606-877701eef38c",
+    "80": "58b15640-3061-4ea9-a606-877701eef38c",
+    "81": "58b15640-3061-4ea9-a606-877701eef38c",
+    "82": "58b15640-3061-4ea9-a606-877701eef38c",
+    "83": "58b15640-3061-4ea9-a606-877701eef38c",
+    "84": "58b15640-3061-4ea9-a606-877701eef38c",
+    "85": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "86": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "87": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "88": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "89": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "90": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "91": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "92": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "93": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "94": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "95": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "96": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "97": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "98": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "99": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+    "100": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "101": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "102": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "103": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "104": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "105": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "106": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "107": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "108": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "109": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "110": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "111": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+    "112": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "113": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "114": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "115": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "116": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "117": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "118": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "119": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "120": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "121": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "122": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "123": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "124": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "125": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "126": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "127": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "128": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "129": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "130": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "131": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "132": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "133": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "134": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+    "135": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+    "136": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+    "137": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+    "138": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+    "139": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+    "140": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+    "141": "40359446-8345-4a72-8169-af86ad3de9d6",
+    "142": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+    "143": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+    "144": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+    "145": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+    "146": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+    "147": "a67392b0-7a7e-43ad-917d-94febf750c1a"
+  },
+  "references": [
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 1,
+      "cited_text": "2.4 | Assessing wound recovery Colonies\twere\tphotographed\tusing\ta\tLeica\tM165FC\tstereomicro‐ scope\t immediately\t after\twounding\t and\t at\t nine\t subsequent\t time\t points (5, 10, 15, 20, 25, 30, 40, 50, 60 days). The magnification and angle of the photograph were kept constant for each colony across all photographs. These photographs were used to assess wound\trecovery\tusing\ttwo\tmetrics\t(Burmester\tet\tal.,\t2017).\tFirst,\t each colony was assigned to one of four recovery stages based on\t a\t qualitative\t assessment\t of\t the\t wound\t site\t at\t 60\tdays\t post‐ wounding: (a) “incomplete occlusion”—the wound remains open or increases in surface area, with bare skeleton still exposed; (b) “full occlusion”—undifferentiated tissue covers a portion or the entirety of the wound site; (c) “tentacle eruption”—tentacle nubs, still incapable of contraction and prey capture, have formed; and (d) “full recovery”—a fully functional polyp capable of feeding has formed at the wound site. Second, we measured the final change in wound surface area (between days 0 and 60). Wound surface area\twas\tcalculated\tthree\ttimes\tfrom\teach\tphotograph\tusing\tLeica\t M165FC software, and the resulting mean value was used as the representative wound surface area of that colony for each time point. Proportional final recovery (or tissue loss) was calculated as the difference between the initial wound area (day 0) and final wound area (day 60) divided by initial wound area."
+    },
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 2,
+      "cited_text": "20457758, 2018, 22, D ow nloaded from  https://onlinelibrary.w iley.com /doi/10.1002/ece3.4531 by A drian Stier , W iley O nline L ibrary on [08/09/2025]. See the T erm s and C onditions (https://onlinelibrary.w iley.com /term s-and-conditions) on W iley O nline L ibrary for rules of use; O A articles are governed by the applicable C reative C om m ons L 2.5 | Colony‐wide tissue surface area Colonies were photographed against a size standard from 6 differ‐ ent angles (top, base, and four sides) at day 0 and day 60. Individual colonies were identified by attaching a honeybee tag (betterbee. com) to the skeletal base using super glue, and the location of this tag was used to ensure consistent directionality to each of the col‐ ony’s 4 sides. The photographs were manually merged at the end of the experiment to generate a composite image of each colony at day 0 and day 60. To do this, photographs were carefully reviewed for regions of the colony that were photographed from multiple an‐ gles, and only the photograph that best represented a given region was retained in the merged images. For the base of the colony, only areas of live tissue growth (and not the entire surface area) were included. The composite area of best represented regions across all photographs was termed the “standard area” for a colony. Both the standard area and area of living tissue within the standard area (“live area”) were determined using ImageJ (NIH). We calculated the proportional live tissue cover (live/standard area) for each colony at day 0 and day 60 and the difference between the initial and final live tissue cover."
+    },
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 3,
+      "cited_text": "2.6 | Polyp activity Once per week, polyp activity was scored using a seven‐stage scale (Figure\t 2):\t A\t score\t of\t 0\t indicated\t that\t all\t polyps\t were\t retracted (Figure 2a,d), while a score of 6 indicated the full extension of all polyps within a colony (Figure 2b,e). Scores between 0 and 6 speci‐ fied intermediate states of increasing polyp extension (Figure 2b,e). A\tseven‐stage\tscale\twas\tused\tto\tenable\tvisually\tapparent,\tquantita‐ tive distinction between minor, moderate, and major polyp exten‐ sion, which can be observed as a colony moves from inactive to active\t (Supporting\t Information\t Video\t S1).\t Polyp\t extension\t values\t were recorded twice for both fed and starved corals. For fed cor‐ als, polyp extension was measured before feeding and 30 min after feeding, to distinguish between basal activity and post‐stimulus ac‐ tivity. For starved corals, polyp extension was measured at the same time points; however, no food was given to this treatment group. Therefore, polyp extension values were recorded twice for both treatment groups, but only the activity of fed colonies was observed in response to a feeding stimulus. Throughout the experiment, all measurements were taken within the same two‐hour range (11:00 hr and 13:00 hr) for each time point to avoid confounds inflicted by diel behavioral cycles."
+    },
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 4,
+      "cited_text": "(a) (d) (e) (f) (b) (c) 20457758, 2018, 22, D ow nloaded from  https://onlinelibrary.w iley.com /doi/10.1002/ece3.4531 by A drian Stier , W iley O nline L ibrary on [08/09/2025]. See the T erm s and C onditions (https://onlinelibrary.w iley.com /term s-and-conditions) on W iley O nline L ibrary for rules of use; O A articles are governed by the applicable C reative C om m ons L Natick,\tMA),\twhereby\tthe\taverage\tof\tfive\trandomly\tchosen\tpolyps\tin\ta\t colony was used as the final measurement for each color (red, green, and\tblue).\tRGB\tquantities\twere\tcondensed\tto\ta\tsingle\tprinciple\tcom‐ ponent\t(representing\toverall\tpolyp\tcolor)\tvia\tPCA\tusing\ta\tcorrelation\t matrix\twith\toblimin\trotation.\tComponent\tloadings\twere\t0.917\tfor\tred,\t 0.721\tfor\tgreen,\tand\t0.870\tfor\tblue\tat\tDay\t0\tand\t0.898\tfor\tred,\t0.774\t for\tgreen,\tand\t0.858\tfor\tblue\tat\tDay\t60.\tColor\tPCA\tvalues\twere\tmulti‐ plied\tby\t−1\tso\tthat\tincreasing\tcolor\tintensity\twould\tbe\tassociated\twith\t increasing\tPCA\tvalues,\tand\tthe\tabsolute\tvalue\tof\tthe\tlowest\tvalue\twas\t added to all color measurements to normalize the data for comparison. As\tprescribed\tby\tDimond\tand\tCarrington\t(2007),\ttransformed\tPCA\tval‐ ues\twere\tconverted\tinto\tchlorophyll\tdensity\tproxies\tusing\tthe\tequation\t y = 0.044x2 + 0.0335x(R2 = 0.89). Photographs for 60 corals on day 0 and 35 colonies on day 60 were not used in the analysis due to lighting inconsistencies between colonies and the RGB standards, reducing the sample size to 164 specimens at Day 0 and 189 specimens at Day 60."
+    },
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 5,
+      "cited_text": "2.8 | Photosynthetic efficiency Photosynthetic efficiency (Fv/Fm) was measured for three randomly selected polyps in each colony in weeks 0, 2, 4, 6, and 8 using a Walz\tJunior‐PAM\tpulse‐amplitude\tmodulated\tfluorescence\tmeter\tas\t described in DeFilippo, Burmester, Kaufman, and Rotjan (2016) and Burmester\tet\tal.\t(2017).\tBriefly,\tafter\ta\tthirty‐minute\tacclimation\tto\t darkness, minimal fluorescence (F0) was measured by exposing pol‐ yps\tto\t6\ts\tof\tfar‐red\tillumination\twhile\tdark\tadapted;\tsubsequently,\t maximal fluorescence (Fm) was determined after exposing polyps to a 0.6 s saturating pulse of 10,000 μmol m−2\ts−1.\tMaximum\tquantum\t yield (Fv/Fm, unitless) represents the change between maximal and minimal fluorescence over the maximal fluorescence (Suggett et al. (2010)). The resulting Fv/Fm values were averaged for each of the three polyps measured in a given colony at each time point to obtain a single representative value."
+    },
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 6,
+      "cited_text": "Healing initiation (measured as the proportion of colonies in healing stages 2–4 at the end of the study) and healing success (measured as the proportion of colonies that achieved stage 4 at the end of the study, i.e.,\tregenerated\tfully\tfunctional\tpolyps)\twere\ttested\tusing\tLaplace‐ap‐ proximated\tlogistic\tGLMMs.\tThe\tproportional\tchange\tin\twound\tsurface\t area and total colony surface area were analyzed using restricted max‐ imum\tlikelihood\t(REML)‐fitted\tlinear\tGLMMs.\tIn\torder\tto\ttest\tfor\tthe\t impacts of the treatment‐dependent variables as well as independent variables such as lighting and morphological features of the colony and the wound itself, we used a stepwise analysis using nutritional state, symbiont\tstate,\tmean\tphotosynthetically\tactive\tradiation\t(PAR),\tinitial\t mass, and initial wound size as fixed‐effect variables for wound recov‐ ery models. For total colony surface area: Nutritional state, symbiont state,\tinitial\tmass,\tPAR,\tand\twounding\ttreatment\twere\tused\tas\tvariables."
+    },
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 7,
+      "cited_text": "Abstract For animals that harbor photosynthetic symbionts within their tissues, such as corals, the different relative contributions of autotrophy versus heterotrophy to organismal energetic\trequirements\thave\tdirect\timpacts\ton\tfitness.\tThis\tis\tespecially\ttrue\tfor\tfac‐ ultatively symbiotic corals, where the balance between host‐caught and symbiont‐ produced energy can be altered substantially to meet the variable demands of a shifting environment. In this study, we utilized a temperate coral–algal system (the northern star coral, Astrangia poculata, and its photosynthetic endosymbiont, Symbiodinium psygmophilum) to explore the impacts of nutritional sourcing on the host’s health and ability to regenerate experimentally excised polyps. For fed and starved colonies, wound healing and total colony tissue cover were differentially im‐ pacted by heterotrophy versus autotrophy. There was an additive impact of positive nutritional and symbiotic states on a coral’s ability to initiate healing, but a greater influence of symbiont state on the recovery of lost tissue at the lesion site and com‐ plete polyp regeneration. On the other hand, regardless of symbiont state, fed corals maintained a higher overall colony tissue cover, which also enabled more active host behavior (polyp extension) and endosymbiont behavior (photosynthetic ability of Symbiondinium). Overall, we determined that the impact of nutritional state and sym‐ biotic state varied between biological functions, suggesting a diversity in energetic sourcing for each of these processes."
+    },
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 8,
+      "cited_text": "The northern star coral A. poculata has an expansive range along\tthe\teast\tcoast\tof\tNorth\tAmerica,\tfrom\tFlorida\tand\tthe\tGulf\t of Mexico to southern Massachusetts (Dimond & Carrington, 2007;\t Dimond\t et\t al.,\t 2013).\t In\t nature,\t these\t corals\t can\t exist\t in\t one of three basic symbiotic states with the endosymbiont, Symbiodinium psygmophilum\t (Lajeunesse,\t Parkinson,\t &\t Reimer,\t 2012): Fully symbiotic corals appear brown; aposymbiotic corals harbor far fewer symbionts, and they appear white; symbiont den‐ sity can also vary from polyp to polyp, producing a mottled, mixed colony comprising both white and brown polyps (Cummings, 1983). Unlike in tropical corals, in A. poculata, the aposymbiotic state is not the result of stress (i.e., bleaching); white colonies of A. poculata are as “healthy” as brown colonies and can persist in‐ definitely in nature (Grace, 2004). The relatively low density of S. psygmophilum is actively maintained by the regular expulsion of the symbiont (Dimond & Carrington, 2008). Regardless of"
+    },
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 9,
+      "cited_text": "2.3 | Experimental wounding Colonies were experimentally wounded after the 3‐day treat‐ ment acclimation period using a standardized wounding protocol (Burmester,\t Finnerty,\t Kaufman,\t &\t Rotjan,\t 2017).\t A\t single\t polyp\t and the surrounding connective tissue (coenenchyme) were re‐ moved from the center of the colony (to control for wound position) using a scalpel before the wound site was cleaned with seawater via Waterpik®. Mean wound size was 34.28 mm2\t (±SEM\t2.27)\twith\t no\t statistical\t difference\t in\t wound\t size\t between\t groups\t (ANOVA,\t F(3,108) = 0.9400, p = 0.4)."
+    },
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 10,
+      "cited_text": "2.2 | Experimental setup and nutrition manipulation Symbiotic and aposymbiotic colonies were paired by approxi‐ mate\tsize\t (mass),\tand\tthese\tpairs\twere\tsubsequently\tsorted\tran‐ domly into one of four treatment groups: (a) fed/wounded, (b) fed/un‐wounded [control], (c) starved/wounded, (d) starved/un‐ wounded. No significant differences were found between groups in\t colony\t mass\t (ANOVA,\t F(3,220) = 1.3864, p\t=\t0.2478;\t average mass\t−6.34\tg\t(±0.25\tSEM)). Overall, 28 paired symbiotic and apo‐ symbiotic colonies were included in each treatment group (result‐ ing in a total of 224 corals). Specimens were housed on raised plastic grids with paired colonies located in adjacent positions at least 10 cm apart, to ensure consistent lighting and surrounding flow for both symbiont types without risk of intercolonial ag‐ gression.\tAll\t colonies\twere\t acclimated\t to\t their\t nutritional\t treat‐ ment for three days prior to the start of the experiment so that starved colonies began the trial period with minimum potential benefit of stored nutrition from a previous feeding. During the 60‐day experiment, the starved group received no food while the fed treatment continued to receive offerings of frozen copepod slurry\t(50\tg\tL−1 feeding−1). Colonies were carefully observed dur‐ ing these feedings to ensure that each polyp on each colony (a) was given a direct feeding opportunity and (b) demonstrated con‐ traction due to food capture."
+    },
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 11,
+      "cited_text": "Symbiont state, but not any other fixed effects (nutritional state,\tPAR,\tinitial\tmass,\tand\tinitial\twound\tsize\tor\ttheir\tinteractions),\t was a significant predictor of proportional wound surface area re‐ covery\t (AIC\t152.4,\tp < 0.01, Supporting Information Table S4). On average,\t only\t the\t symbiotic\t fed\t treatment\t group\t (mean\t±\tSEM: 0.079\t±\t0.096\tproportional\tunits)\texhibited\twound\trecovery\tvia\ta\tre‐ duction in wound size (shown here as a proportional increase in live tissue surface area; Figure 5). Wound size increased over time for all\taposymbiotic\tcolonies\t (mean\t±\tSEM:\t starved,\t−0.3416\t±\t0.0748;"
+    },
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 12,
+      "cited_text": "2  | MATERIAL S AND METHODS 2.1 | Collection and husbandry Colonies of Astrangia poculata in both symbiotic or aposymbiotic states were collected between 6 and 10 m depths at Fort Wetherill State\tPark\tin\tJamestown\tRI\t(41\t28′40″N,\t71\t21′34″W)\tin\tSummer\t 2014.\t Specimens\t were\t housed\t at\t the\t New\t England\t Aquarium\t and provided lighting in 10‐hr light cycles (14 hr dark) via T5 HO fluorescent\t lighting\t fixtures\t (Hamilton\t Technology,\tGardena,\t CA,\t Aruba\t Sun\t T5‐V\t Series)\t as\t well\t as\t filtered,\t UV‐treated\t seawa‐ ter\t from\t the\tBoston\tHarbor.\t Light\t levels\t (PAR)\t and\twater\tquality\t (pH, nitrate, ammonia, alkalinity) were measured weekly to ensure consistent\t water\t quality\t parameters.\t All\t experimental\t colonies\t were acclimated at 18°C for at least two weeks before the start of experimentation. During this acclimation period, colonies were given individualized, daily feedings of a frozen copepod slurry (50 g copepod/l;\tJEHM\tCo.,\tInc.)."
+    },
+    {
+      "source_id": "daec544d-cfab-46db-be2a-1d3596bc0395",
+      "citation_number": 13,
+      "cited_text": "While feeding behavior was ensured among all polyps for each colony,\t this\t study\t did\t not\t specifically\t determine\t the\t quantity\t of\t food\tconsumed\tnor\tthe\tamount\tof\tcarbon\tincorporated.\tLikewise,\t while\t we\t recorded\t light\t availability\t (PAR)\t and\t photosynthetic 20457758, 2018, 22, D ow nloaded from  https://onlinelibrary.w iley.com /doi/10.1002/ece3.4531 by A drian Stier , W iley O nline L ibrary on [08/09/2025]. See the T erm s and C onditions (https://onlinelibrary.w iley.com /term s-and-conditions) on W"
+    },
+    {
+      "source_id": "d4f87f68-6209-4973-bf99-fac310af5656",
+      "citation_number": 14,
+      "cited_text": "We fed all tanks—regardless of fish presence—2 g of TetraMarine Saltwater Flakes (Tetra US, Blacksburg, VA, USA) three times per day (morning, midday, and evening). We removed uneaten food after 10 minutes via a siphon. We scrubbed tanks and coral plugs daily to prevent algal overgrowth. Monitoring Wound Healing, Growth, and Photosynthetic Performance To assess wound healing, we photographed all corals with an Olympus TG-6 digital camera and ruler scale bar immediately post wounding. We then randomly selected one fragment from each wounding treatment per tank for daily photography. On day 21, we photographed all wounds again. From final and initial images, we measured final wound area remaining (cm2) and initial wound size using ImageJ. We then calculated the healing rate (cm2/day) as the change in wound size (initial-final) and dividing by the duration - 21 days."
+    },
+    {
+      "source_id": "d4f87f68-6209-4973-bf99-fac310af5656",
+      "citation_number": 15,
+      "cited_text": "To assess coral growth, we measured coral growth rates (mg/cm2/day) through differences in buoyant weights between day 1 and day 21 of the experiment for all corals (Davies. 1989). We standardized these measurements to the surface area of each fragment by wax dipping (Veal et al. 2010). For each wounded fragment, initial wound size was subtracted from total surface area measurements to provide an accurate measure of alive surface area. Our equation to calculate coral calcification rate was (final buoyant weight - initial buoyant weight)/(surface area * 21) to yield a growth rate with units of mg/cm2/day."
+    },
+    {
+      "source_id": "d4f87f68-6209-4973-bf99-fac310af5656",
+      "citation_number": 16,
+      "cited_text": "To assess coral physiological status, we measured dark-adapted photosynthetic efficiency (Fv/Fm) using pulse-amplitude modulated fluorometry (Diving-PAM, Walz, Germany, Maxwell et al. 2000) on day 21 for all corals. For corals without wounds, measurements were taken near the upper face of the fragment; for wounded corals, measurements were taken near the center of the wound. In eight corals, algal growth near the wound site was carefully removed with tweezers to avoid confounding effects. Of these eight corals, seven were in tanks without fish and one was in a tank with fish. Using a likelihood ratio test, we saw a non-significant, positive effect of algae on Fv/Fm (p = 0.106)."
+    },
+    {
+      "source_id": "d4f87f68-6209-4973-bf99-fac310af5656",
+      "citation_number": 17,
+      "cited_text": "ABSTRACT Coral resilience is increasingly recognized as the product of complex interactions between corals, their endosymbiotic algae, and external symbionts such as fishes and invertebrates. While previous studies have documented how coral-associated fishes influence coral growth and thermal tolerance, their role in supporting tissue regeneration following physical injury remains poorly understood. Here, we experimentally test whether coral-associated fishes facilitate wound healing in Pocillopora spp. We imposed small and large wounds and monitored healing in the presence and absence of resident damselfishes. Corals exposed to fishes exhibited faster wound closure and higher photosynthetic efficiency in recently regenerated tissue, particularly for larger wounds. These findings suggest that coral-associated fishes promote the energetic and microenvironmental conditions necessary for efficient tissue repair. Our results extend the emerging understanding of coral holobiont resilience, highlighting the importance of external symbionts in sustaining coral recovery from acute physical disturbances.  Keywords: Coral regeneration, Mutualism, Damselfish, Pocillopora, Wound healing, Coral resilience, Dascyllus flavicaudus"
+    },
+    {
+      "source_id": "d4f87f68-6209-4973-bf99-fac310af5656",
+      "citation_number": 18,
+      "cited_text": "METHODS Study Site and System We conducted this experiment in August 2024 at the Richard B. Gump South Pacific Research Station (17°30′S, 149°50′W) on the northern shore of Mo’orea, French Polynesia. The site features a mosaic of shallow patch reefs dominated by Pocillopora spp., interspersed with sand and coral rubble. Pocillopora colonies provide structural habitat for a range of coral-associated species, including trapeziid crabs and damselfishes, which can influence coral physiology and resilience. This study focused on the effects of the yellowtail damselfish (Dascyllus flavicaudus) on wound regeneration and photosynthetic efficiency in Pocillopora spp. Averages are presented as mean ± standard deviation."
+    },
+    {
+      "source_id": "d4f87f68-6209-4973-bf99-fac310af5656",
+      "citation_number": 19,
+      "cited_text": "Following a 3-day acclimation under ambient light and temperature conditions, we assigned the 12 fragments in each tank to one of three treatments: control (no wound), small wound (avg: 1.48 ± 0.398 cm2), or large wound (avg: 3.82 ± 1.08 cm²), with 4 fragments per treatment per tank. We applied wounds to the upper surface of fragments using an airbrush fitted with a circular stencil to remove surface tissue while standardizing wound size and location. Immediately after wounding, we randomly introduced six D. flavicaudus (total biomass ~36 g) into half of the tanks (n = 3). Tanks without fish served as controls."
+    },
+    {
+      "source_id": "d4f87f68-6209-4973-bf99-fac310af5656",
+      "citation_number": 20,
+      "cited_text": "Specimen Collection and Experimental Setup We collected 72 coral fragments from mature Pocillopora spp. colonies (>20 cm diameter) without damselfish from a northshore lagoon reef (17°30'S, 149°50'W). From the same reef, we also collected 18 adult Dascyllus flavicaudus individuals. We transported corals and fishes separately in seawater-filled coolers and brought them to the laboratory for setup. In the lab, we mounted each coral fragment on a ceramic frag plug (Oceans Wonders) using marine epoxy (Z-Spar, Kopcoat, Pittsburgh, PA, USA). We randomly distributed 12 fragments across each of six 95 L flow-through aquaria supplied with unfiltered seawater at a rate of ~6 L h⁻¹. We held fish separately during the acclimation period."
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 21,
+      "cited_text": "A R T I C L E I N F O Keywords: Global climate change Thermal stress Coral regeneration Bleaching A B S T R A C T Storms inflict damage to corals resulting in fragments that have the potential to regenerate thus contributing to the asexual reproduction of the parental colony. Extreme climatic events like these are predicted to increase in the future due to ocean warming, which is also the primary cause of coral reef bleaching and consequent coral mortality in the tropical and subtropical seas. This way it is urgent to investigate the differential effect of warming over post-fragmentation and regeneration processes among the scleractinian hermatypic coral species. This study investigated the mortality, growth and regeneration capacity of nine reef-forming coral species of the Indo-Pacific. Fragments were exposed to 26 °C, 30 °C, and 32 °C for 60 days. Half of these fragments was inflicted with one injury and the other half was used as control. Mortality, partial mortality, bleaching level, growth and regeneration of artificial injuries were assessed. Mortality increased with temperature, reaching 100% for most species after 60 days, at 32 °C, but Psammocora contigua which showed remarkably lower mortality (40%) and all coral fragments of Turbinaria reniformis and Galaxea fascicularis survived the experiment. Partial mortality was lowest for P. contigua, T. reniformis, and G. fascicularis even at 32 °C. These three coral species were also the most resistant to bleaching. Growth rates decreased with temperature, with the exception of G. fascicularis that maintained similar growth rates at 26 °C and 30 °C. Regeneration rates generally increased with temperature. It was concluded that P. contigua, T. reniformis, and G. fascicularis fragments show higher capacity to withstand higher temperatures."
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 22,
+      "cited_text": "2.3. Analytical procedures 2.3.1. Mortality assessments and bleaching level Mortality was quantified as the percentage of dead fragments and partial mortality was visually quantified by estimating the percentage of dead area in the coral fragments and put it into four classes: [0,25%[, [25,50%[, [50,75%[and [75,100%]. The bleaching level of each coral species was visually assessed according to four categories: normal, pale, bleached and dead (Jokiel & Coles, 1974). Mortality and bleaching were assessed every 20 days until the end of the experiment and always by the same person to remove observer bias."
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 23,
+      "cited_text": "2.3.2. Growth rate measurements The coral fragments were weighted both in the first and last day of the experiment in order to calculate the growth rates for each coral fragment. The growth rate of the coral fragments was calculated using the formula: = − × ×μ m m m Δt( ₁ ₀/ ₀ ) 100 where, μ is the growth rate measured in g g−1 day−1, m0 is initial weight, m1 is the weight at the end of the experiment, and Δt is the time between the two measurements of weight (Brinkhuis, 1985). 2.3.3. Regeneration rate of injuries The size of the injury was measured immediately after their inflic-"
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 24,
+      "cited_text": "tion and then every 20 days until the end of the experiment. Injury recovery was quantified by recording the diameter of each injury with a steel caliper calibrated in millimeters. The tissue regeneration rates (Ts) were obtained by calculating, the difference between the areas of the recovered surfaces (Ra) for any given interval (T1 and T0 in days), as follows (Cróquer et al., 2002): = − −Ts Ra T Ra T T T[ ( ₁) ( ₀)]/( ₁ ₀) 2.4. Statistical analyses A permutational multivariate analysis of variance (PERMANOVA) based on Euclidean distances (Anderson, 2001) was used to test whe-ther coral fragments' mortality, partial mortality, growth and re-generation rates were affected by temperature and coral species. PER-MANOVA was also used to test whether coral fragments' mortality, partial mortality and growth rate were affected by the presence/ab-sence of injury. Values of the pseudo-F statistic were computed using 9999 permutations. Analyses were performed using PERMANOVA+ for PRIMER v6 (PRIMER-E Ltd., Plymouth). As PERMANOVA is based on permutations it is more robust to the assumptions of ANOVA (Anderson, 2001). Post-hoc pair-wise comparisons were then performed"
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 25,
+      "cited_text": "The aim of this work was to evaluate how elevated temperatures will affect the mortality, growth and regeneration after fragmentation of an important number of reef-building corals of the Indo-Pacific oceans. Such an evaluation is crucial to understand the differential vulnerability of reef-forming coral species to global climate change. 2. Material and methods 2.1. Study species This study evaluated nine Indo-specific coral species with con-trasting morphologies: four branching species (Acropora tenuis, Pocillopora damicornis, Stylophora pistillata, and Psammocora contigua), three plating species, (Montipora capricornis brown morphotype (BM), Turbinaria reniformis, and Echinopora lamellosa), one encrusting species (Montipora capricornis green morphotype (GM)), and one massive spe-cies (Galaxea fascicularis). All coral colonies used in this study have been kept in captivity at Oceanário de Lisboa (Portugal) for several years, which gave us knowledge on their thermal history."
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 26,
+      "cited_text": "Ten coral fragments of each species were used as controls (un-damaged) and the other ten fragments were inflicted with circular in-juries designed to simulate damage by predators, after being acclimated to the experimental aquarium. These artificial injuries were 3mm in diameter and were done using a Dremel rotatory tool with a cutting disk. Only one injury was inflicted to each coral fragment in their middle section to avoid edge effects (Supplementary material – Image 1). After these procedures, all fragments were placed over two 40× 40 cm egg crate panels suspended 15 cm below the water surface of the experimental aquarium."
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 27,
+      "cited_text": "2.2. Acclimation conditions and experimental setup The experiments were conducted at Oceanário de Lisboa, Portugal (www.oceanario.pt). Twenty replicate fragments were cut from each coral colony using a pincer or a pair of pliers. For the branching coral colonies the fragments were cut approximately 20–40mm in length and the fragments for the plate, encrusting and massive corals were obtained by cutting ap-proximately 30mm sided squares. A single colony per coral species was targeted in order to eliminate sources of variation from other factors that affect thermal susceptibility (Desalvo et al., 2008) such as tissue thickness (Loya et al., 2001), genetic constitution of the symbiotic mi-croalgae (Symbiodinium spp.) (Rowan et al., 1997), metabolic rates (Gates & Edmunds, 1999), mucus production rates (Fitt et al., 2009), tissue concentration of fluorescent pigments (Salih et al., 1998), and thermal history (Brown et al., 2002). All fragments were placed over egg crate panels in the coral stock aquarium until acclimation to the experimental aquarium."
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 28,
+      "cited_text": "After one day in the coral stock aquarium, the sets were acclimated 1 °C per hour above the temperature of the coral stock aquarium (25.1 ± 0.4). Coral reef-flat communities can experience temperature changes of 1 °C hour−1 during spring tides (Berkelmans & Willis, 1999), and most of the coral species in this study colonize the reef-flat zone (Brown & Suharsono, 1990), so we used this heating rate to be similar to the conditions that most of these corals would experience in their natural environment. In order to standardize, this heating rate was applied for all the coral species. The coral fragments were placed 2 cm apart from one another and arranged by coral species. Fragments were exposed to three temperature treatments: control 26 °C (26.1 ± 0.2 SD), 30 °C (30.2 ± 0.5 SD) and 32 °C (32.2 ± 0.5 SD) seawater tem-peratures during sixty days, with the duration of one, five and seven hours of acclimation, respectively."
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 29,
+      "cited_text": "Table 2 Coral fragments' average growth rate ± standard deviation in the three tem-perature experiments (g g−1 day−1). NA – not available. Species 26 °C 30 °C 32 °C Acropora tenuis 1.64 ± 0.38 0.57 ± 0.12 NA Montipora capricornis (BM) 0.92 ± 0.20 0.34 ± 0.21 NA Montipora capricornis (GM) 0.79 ± 0.20 0.14 ± 0.05 NA Turbinaria reniformis 0.56 ± 0.33 0.24 ± 0.09 0.11 ± 0.06 Echinopora lamellosa 0.51 ± 0.36 0.17 ± 0.06 NA Galaxea fascicularis 0.28 ± 0.08 0.28 ± 0.10 0.20 ± 0.09 Pocillopora damicornis 1.23 ± 0.23 NA NA Stylophora pistillata 0.76 ± 0.19 NA NA Psammocora contigua 1.54 ± 0.32 0.41 ± 0.13 0.42 ± 0.10"
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 30,
+      "cited_text": "Table 3 Coral fragments' average regeneration rate ± standard deviation in the three temperature experiments (mm2 day−1) measured until complete regeneration or the last time point they were still alive. For more information see Supplementary material – Table 1. Species 26 °C 30 °C 32 °C Acropora tenuis 0.23 ± 0.09 0.42 ± 0.22 0.30 ± 0.14 Montipora capricornis (BM) 0.24 ± 0.16 0.69 ± 0.21 0.51 ± 0.27 Montipora capricornis (GM) 0.17 ± 0.03 0.16 ± 0.07 0.09 ± 0.07 Turbinaria reniformis 0.16 ± 0.10 0.35 ± 0.16 0.52 ± 0.16 Echinopora lamellosa 0.30 ± 0.11 0.58 ± 0.27 0.84 ± 0.18 Galaxea fascicularis 0.30 ± 0.06 0.73 ± 0.27 0.88 ± 0.48 Pocillopora damicornis 0.40 ± 0.13 0.50 ± 0.25 0.13 ± 0.02 Stylophora pistillata 0.65 ± 0.29 0.71 ± 0.32 0.46 ± 0.13 Psammocora contigua 0.22 ± 0.10 0.59 ± 0.27 0.63 ± 0.49"
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 31,
+      "cited_text": "The experimental aquarium (400 L) was fitted with a sump (280 L) filled with bioballs for biological filtration in which two Fluval M300 heaters, as well as a Hailea 500 chiller controlled water temperature. For water circulation purposes, an AquaMedic OceanRunner 3500 pump provided a turnover rate of 5 times per hour. An AquaMedic Turboflotor 5000 Shorty protein skimmer helped keeping nutrient concentrations low and increased surface water motion in the aquarium was accomplished by using an AquaClear 110 powerhead. Lighting"
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 32,
+      "cited_text": "Regeneration rate Temperature 2 2.7 1.3 26.39 0.0001 Coral species 8 6.2 0.8 15.35 0.0001 Temperature × Coral species 16 4.1 0.3 5.08 0.0001 M. Dias et al. Journal of Sea Research 141 (2018) 71–82 using PERMANOVA to compare between temperature experiments and coral species. Differences were considered significant at p < .05. 3. Results The presence/absence of injury had no effect on the mortality, partial mortality and growth rate of the fragment (PERMANOVA p > .05, Table 1) and therefore it was not considered as a factor in further analysis, with no separation between control and injured frag-ments."
+    },
+    {
+      "source_id": "3d374a40-79d3-413b-99c2-670f9da97bef",
+      "citation_number": 33,
+      "cited_text": "M. Dias et al. Journal of Sea Research 141 (2018) 71–82 requirements similar to the coral stock aquarium were attained by using a Litpa Jet5 floodlight with an AquaMedic 400W HQi lamp (13,000 K) on a 12 h light/ 12 h dark cycle. An air-stone was used in the aquarium to ensure good oxygen concentrations. Photosynthetically Active Radiation (PAR) levels were measured with a spheric quantic sensor (LI-193SA) and a data logger (1400 model) and varied between 320 and 345 μE.m−2 s−1 in the 400–700 nm waveband. Water quality parameters such as water tem-perature, pH and salinity were measured on a daily basis. Water sam-ples were also weekly analyzed to determine ammonium, nitrites, ni-trates, calcium concentration as well as oxygen concentration and saturation and alkalinity. These parameters were maintained as follow: pH at 8.2–8.3, salinity at 33–33.5 psu, alkalinity approximately at 100mg l−1, nitrites between 0.002 and 0.005mg l−1, nitrates between 0 and 2mg l−1, calcium concentration between 389 and 401mg l−1, oxygen saturation at 104% and oxygen concentration between 6.5 and 7.1 mg l−1. Salinity was maintained with daily balanced additions of reverse osmosis freshwater and filtered artificial seawater. Whenever alkalinity levels were below 100mg l−1 sodium bicarbonate was added to the system. Aquarium cleaning routines were done as required to avoid algal growth, and these included expansion anchors cleaning with a toothbrush and egg crate replacement, at least 3 times a week."
+    },
+    {
+      "source_id": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+      "citation_number": 34,
+      "cited_text": "Regeneration versus budding in fungiid corals: a trade-off E. Kramarsky-Winter *, Y. Loya George S. Wise Faculty of Life Sciences. Department of Zoology, Tel Aviv University, Ramat Aviv, Tel Aviv, 69978 Israel ABSTRACT: Following damage, solitary fungiid corals are particularly successful in their ab~h ty  to repair and regenerate their tissues and skeleton. When repair is impossible, these corals turn to bud- ding as a mode of survival. The present study examines the hypothesis that when repair is not attain- able, fungiid corals develop buds from tissue remnants in order to survive, and describes for the first time the mechanisnl of bud formation in 3 species of fungiids. Dead specimens of the fungiids Fungia scutaria, F: granulosa, and E horrjda collected from under 10 m belt transects from the coral reef in Ellat (Red Sea) were found to contain live buds of various sizes. Bud formation was experimentally induced to confirm the possibility that they may indeed arise from tissue remnants. The development of buds from tissue remnants on treated corals was detected after 4 to 12 mo. Tissue fragments removed from E granulosa developed into planula-like balls, settled, attached, developed new mouths and conse- quently developed into new anthocauli. These results showed that small viable tissues fragments can reorganize and grow into whole new individuals. Twenty corals were broken into various sized wedge- shaped fragments which were cultured in the lab. Regardless of size, fragments containing no parental mouth tissues developed new mouths within 5 d and fully formed buds were visible 10 to 21 d after breakage. Coral fragments retaining part of the parental mouth regenerated tissues and skeleton around the original mouth but did not develop anthocauli. This suggests the presence of a morpho- genetic factor inhib~ting the development of additional mouths and thus of new7 buds in these speci- mens. The possibility of a trade-off between the processes of regeneration and bud development is discussed."
+    },
+    {
+      "source_id": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+      "citation_number": 35,
+      "cited_text": "Buds that were experimentally induced in adult corals by placing putty on various parts of the adult corallum were visible 7 mo to 1 yr after treatment (Fig, l a ,  b). Buds induced by removal of surface tissues developed within 4 mo (Fig. l c ,  d ) .  In some cases balled-up tissue remnants were visible between scle- roseptae within 1 mo of treatment. In the laboratory, the percent survival and regenera- tion of new polyps from experimentally excised frag- ments was 75 to 88%. Large coral pieces (larger than 5 septae in width) containing remnants of the parental mouth repaired their tissues and began regenerating skeletal elements without developing buds (Table 2) Large fragments with no parental mouth remnants repaired the torn tissues, though no skeletal regenera- tion occurred. A number of new stomae then devel- oped on the cut edges of the corallum. The new mouth"
+    },
+    {
+      "source_id": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+      "citation_number": 36,
+      "cited_text": "182 Mar Ecol Prog Ser 134: 179-185, 1996 Table 2. Fungia granulosa. Characteristics of survival, regeneration, and bud formation, follow~ng experimental breakage of vanous- sized fragments of coral raised under laboratory conditions. Large fragments were greater than 5 septae in thickness, medium-sized fragments were 2 to 5 septae in thickness, and small fragments were 1 septum in thickness. W: wlth mouth; WO: without mouth Fragment size \\v/~vo No. of Tissue state Average size of buds Average no. of buds Maximum no. of parental mouth fragments after 2 wk (mm) after 1 mo + SD after 1 mo + SD buds after 2 mo"
+    },
+    {
+      "source_id": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+      "citation_number": 37,
+      "cited_text": "RESULTS All specimens of dead corals of the species Fungia scutaria Lamarck, F: granulosa Klutzinger, and F: hor- rida Dana were collected from under 10 m belt tran- sects (10 m2) (see Loya 1978) at depths of maximum At the study sites, 89% of the dead individuals of anthoca.uli per parent, while dead individuals of F: granulosa and F: horrida contained lower averages (3.8 * 3.6, and 2.2 k 2.1 respectively; see Table 1). In all cases anthocauli were found on either or both the oral and aboral sides, as well as around the edge of the par- ent  corallum depending on the position of the corallum on the substrate. Those individuals found with oral side face down developed anthocauli on the oral sur- face, while those found with oral side face up devel- oped buds aborally. No correlation was found between parent coral size and the number of buds found."
+    },
+    {
+      "source_id": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+      "citation_number": 38,
+      "cited_text": "MATERIALS AND METHODS an air pick. All 8 corals were examined monthly for the appearance of anthocauli. Upon the appearance of polyp buds the corals were taken to the laboratory for further examination. To determine whether pieces of tissue could indeed produce anthocauli, various-sized wedge-shaped frag- ments of tissue containing skeleta (septae) were bro- ken off from medium sized live corals of Fungia granu- losa and kept in petri dishes containing 0.45 (pm filtered sea water. The fragment sizes were classified as follows: (1) large, having a width of more than 5 septae, some with parental mouth and other fragments with no mouth tissues; (2) medium, having a width of 2 to 5 septae; and (3) small, or 'sliver', having a width of less than 2 scleroseptae. In addition, small pieces of tissues were pinched off the corallum using sharp for- ceps, and kept in petri dishes with 0.45 pm filtered sea water. The dishes were kept in an incubator at a con- stant temperature of 25°C and under a 12 h light: 12 h dark light regime. The water in the dishes was changed daily and the coral and tissue fragments were monitored for morphological changes."
+    },
+    {
+      "source_id": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+      "citation_number": 39,
+      "cited_text": "Following evidence of changes in the tissue con- figuration, i.e. the appearance of mouth, septae and/or tentacles, some of these specimens were relaxed in 4 % MgC12 and fixed in 2.5 % glutaraldehyde in filtered sea water. They were then decalcified in saturated EDTA, dehydrated in a series of alcohols, embedded in paraf- fin, sectioned, stained in hematoxylin eosin and ob- served under a Nikon light microscope. The remaining specimens were allowed to continue growing until a polyp was formed and a calyx was visible. Buds on excised coral pieces were raised for up to 6 mo in aquaria containing aerated sea water and were sub- sequently placed in the sea."
+    },
+    {
+      "source_id": "c849a042-644e-4b4f-a530-33cfb800d9a9",
+      "citation_number": 40,
+      "cited_text": "Large W mouth 8 Repaired - 0 0 Large 10 Repaired, 3.28 & 1.87 2.40 + 1.35 4 WO mouth new mouths Medium 10 Shrunken, balled- 2.15 * 1.13 6.90 + 4.58 15 u7o mouth up, new mouths Small 3 2 Shrunken, balled- 1.29 * 0.71 2 46 + 1.77 C WO mouth up, new mouths o r  mouths most  proximal to t h e  original mouth  devel-  sep tae  (see Table 2, Fig. 3). A n u m b e r  of s tomae devel- o p e d  fastest,  a t  t imes leading to t h e  disappearance of oped  centrally on  each tissue island 10 d to 2 w k  after the  more  distal mouths.  T h e  n e w  mouths eventually b reakage .  Polyps developed 2 to 3 w k  later Small developed into n e w  buds  or anthocauli.  Tissue rem-  fragments  or slivers gave  rise to 1 or more  polyps nan ts  o n  medium-sized coral f ragments  (2  to 5 septae)  depending  on the  number  of tissue balls remaining on. regressed ,  a n d  formed islands of tissues be tween  t h e  the  sep tae .  T h e  tissue b e g a n  disintegrating a n d"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 41,
+      "cited_text": "degrees of settlement by other organisms, intensities of damage, and amounts of resources available for regeneration all contributed to the differences in recovery rates found between injuries with varying characteristics. The regeneration of injuries requires resources that are in limited supply.  In this study, there was a marked effect of injury on reproduction for A. hyacinthus, A. gemmifera and G. retiformis, inferring a trade-off between reproduction and regeneration.  Presumably the resources usually available for gamete production are being reallocated towards"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 42,
+      "cited_text": "5.3. Materials and Methods   ……………………………………………..…   83 5.3.1. Response to injury: experimental design   …………………….   83 5.3.2. Effects of injury on colony growth, regeneration and survival   ………………………………………………….….   85 5.3.3. Effects of injury on reproduction   …………………………….   86 5.3.4. The loss of reproductive output as a result of injury   …………  87 5.4. Results   ………………………………………………………………....   88 5.4.1. Response to injury by scleractinian corals   …………………... 88 5.4.2. The effect of injury on colony growth, regeneration"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 43,
+      "cited_text": "and survival   ……………………………………….……………..  88 5.4.3. The effect of injury on reproduction   ………………..…….….   89 5.4.3.1. Colony-wide effect of injury on reproduction   ……..   89 5.4.3.2. Localised effects of injury on reproduction   …….….   91 5.4.4. Loss of reproductive output associated with injury   ………….   95 5.5. Discussion   ……………………………………………………………...   98 5.5.1. Response to injury   ……………………………………..…….   98 5.5.2. Strategies of resistance   ………………………………………   99 5.5.3. Trade-offs between growth, reproduction and survival   …….   100"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 44,
+      "cited_text": "Table 3.2.   The mean colony diameter + SE (cm) for the study species   …………..   47 Table 3.3.   An ANOVA table for the comparison of the amount of regeneration between species and injury position for experiment 1 at North Reef, Lizard Island   …………………………………….………….   52 Table 3.4.   (a) Linear extension of new growth for the two injury types (tissue removal and branch removal) inflicted on A. millepora and A.  gemmifera in experiment 2b.  (b) Injury size and regeneration for the two injury types inflicted on A. millepora and A. gemmifera in"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 45,
+      "cited_text": "experiment 2b   …………………………………………………..…………..   55 Table 4.1.   A summary of the repeated measures ANOVA testing for differences in regeneration between species and injury types, and how these patterns change between censuses   …………………………………………………...   71 Table 4.2.   A summary of the repeated measures ANOVA testing for differences in the amount of algal colonisation between species and injury types, and how these patterns change over time   …………..………………..……..   73 Table 4.3.   The zone of tissue available for regeneration to original injury area"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 46,
+      "cited_text": "Table 5.1.   A summary of ANCOVA results testing the effects of injury size and frequency of damage on colony growth (cm2) and regeneration (cm2) for each species   ……………………………………………………………..   92 Table 5.2.   A summary of ANOVA results testing colony-wide effects of injury size and frequency of damage on egg volume per polyp (mm3) and polyp fecundity for the three species   …………………………………...…..   93 Table 5.3.   A summary of ANOVA results testing the effects of injury (size and frequency of damage) and position (samples taken close to and"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 47,
+      "cited_text": "hammer and chisel was used to remove tissue and skeleton (scraping injury) and break off branches (branch removal).  Recovery of injuries was quantified by either recording the dimensions of the lesion with a tape measure or digitising the lesion area from photographs of consecutive censuses.  These data were then expressed as percentage of injury regenerated (as per Meesters et al. 1992). Table 3.2:  Mean colony diameter + se (cm) for the study species.  Values are based on measurements taken of the maximum diameter and the diameter perpendicular to the"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 48,
+      "cited_text": "cytherea.  (Error bars represent one SE). 0 71 153 215 286 0 50 100 0 71 153 215 286 0 50 100 %   I nj ur y R eg en er at ed S E + TIME (days) P. australiensis A. cytherea Tissue/SkeletonTissue . Table 3.4:  (a)  Linear extension of new growth for the two injury types (tissue removal and branch removal) inflicted on A. millepora and A. gemmifera in experiment 2b (mean +  1 SE).  KW represents the Kruskal- Wallis statistic obtained by comparing the differences in linear extension between the two injury types, and P equals the"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 49,
+      "cited_text": "probability.  (b)  Injury size and regeneration (percent of injury recovered) for the two injury types inflicted on A. millepora and A. gemmifera in experiment 2b (mean + 1 SE).  (Number of colonies =8 and 10 for A. gemmifera and A. millepora respectively). (a) Injury Type A. gemmifera A. millepora Regeneration Statistic Regeneration Statistic Linear Extension of Tissue (mm) 3.19 + 0.86 KW=14.4 4.3 + 0.31 KW=11.3 Linear Extension of Branch (mm) 0.25 + 0.13 P=0.0001 0.55 + 0.12 P=0.0008 (b)"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 50,
+      "cited_text": "individual colonies belonging to three species and two size-classes every 3-4 months for 2 years at Mermaid Cove, Lizard Island (Figure 2.1).  The survey commenced in February 1994 and ended with a final census in February 1996.  A total of 8 censuses were conducted over this period. The three species investigated were Acropora hyacinthus, A. gemmifera and Goniastrea retiformis, chosen because they represented three of the main morphological groups investigated for the spatial study.  These species were also considered because of their"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 51,
+      "cited_text": "differing life-histories and their abundance on the reef-crest.  Acropora hyacinthus is a fast-growing, relatively short-lived tabular coral, A. gemmifera is a digitate coral with a moderate growth rate and life-span, and G. retiformis is a massive species with a long life-span and slow growth rate.  Colonies for each species were distinguished by size: the average diameter of small colonies was < 10 cm and the average diameter of large colonies was > 20cm.  Plastic horticultural tags nailed to the substratum close to each"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 52,
+      "cited_text": "Japan Acropora formosa, A. nasuta Kobayashi 1984 Western Australia Pocillopora damicornis Ward 1995 Great Barrier Reef, Australia Acropora millepora, Acropora palifera Pocillopora damicornis Porites lutea Liddle and Kay 1987 Pocillopora damicornis, Goniastrea retiformis, Porites mayeri, P. lichen, P. australiensis, Acropora robusta, A. millepora, A. cytherea, A. palifera A. hyacinthus, A. gemmifera This Study 3.3 MATERIALS AND METHODS This study was conducted at Lizard Island (14o40',145o28'), a continental island on the"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 53,
+      "cited_text": "within a colony, I inflicted a 4 cm2 tissue wound at two positions (edge and centre) within 10 replicate colonies of each of seven species.  Common reef-crest species with contrasting morphologies were chosen and included Acropora robusta, A. hyacinthus, A. palifera, Pocillopora damicornis, Porites mayeri, P. lichen, and Goniastrea retiformis.  The growth forms of the first four species are arborescent, tabular, submassive, and bushy respectively, while the last three species are massive.  For the"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 54,
+      "cited_text": "the massive coral Porites australiensis were examined to detect any interspecific differences in regeneration.  Tissue was removed with compressed air as described previously, while the scraping injury was created using a hammer and chisel.  For P. australiensis, the scraping injury was inflicted by chiselling away tissue and skeleton to a depth of 2 mm resulting in the partial injury of polyps within the injury site (average tissue depth in Porites is 5 mm, Barnes and Lough 1992).  For A. cytherea, 10 -15"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 55,
+      "cited_text": "estimate the amount of recovery. 3.3.2. Experiment 2: Interspecific differences in recovery and injury types. 3.3.2.1 Tissue Removal versus Scraping Injuries in Massive and Tabular Corals. To examine the response of corals to a scraping versus a tissue injury, and to investigate the impact of a scraping injury on species with different morphologies, each of 10 replicate colonies were inflicted with both injury types, the size of the injury being 4 cm2 (Figure 3.1).  Two abundant coral species, the table coral Acropora cytherea and"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 56,
+      "cited_text": "OF SCLERACTINIAN CORALS TO DAMAGE 5.1.   ABSTRACT The response of modular organisms such as scleractinian corals to damage is dependent on the nature and extent of the wide variety of agents that cause injuries.  In this study, I investigated the response of colonies of Acropora hyacinthus, A. gemmifera and Goniastrea retiformis to injury by monitoring their recovery over nine months.  Two injury regimes, injury size and repetitive injury, were inflicted on colonies to test the hypothesis that the impact of an injury will depend on the size and frequency of"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 57,
+      "cited_text": "fecundity and egg volume per polyp (mm3) for all species in response to injury.  This localised decline in reproduction in response to damage was not exacerbated by injury size or frequency with one exception.  Polyp fecundity was reduced by 28% for colonies of A. gemmifera that had been injured three times.  The loss of reproductive tissue resulting from an injury comprising 75 cm2 projected area of a colony was substantial and had the potential to impact on reproductive success since there were"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 58,
+      "cited_text": "5.3.1.   Response to injury: experimental design Two aspects of damage were investigated for the three species (Figure 5.1).  The first was injury size where 8% (Tr 1), 16% (Tr 2) and 25% (Tr 3) of colonies were injured. The second was repetitive injury where colonies were injured twice (initially and three months later, Tr 4) or three times (initially, three months and six months later, Tr 5). For repetitive injury, the level of damage inflicted at each injury event was 8% of the colony.  Undamaged colonies were used as controls for injury size while the controls"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 59,
+      "cited_text": "(i.e. 20 colonies per species and treatment) to prevent the confounding of results with natural injury events.  Only colonies where natural injury levels did not exceed 5% of the colony area during the experiment were used in the final analysis, resulting in an unbalanced design.  Additionally, only large colonies from each species were selected to avoid any effect of colony size (average projected area + 1 se = 2067 + 134 cm2, 329 + 18 cm2 and 250 + 11 cm2 for A. hyacinthus, A. gemmifera, and G. retiformis,"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 60,
+      "cited_text": "The data was log- transformed to meet the assumptions of ANOVA.  The size-structure of the morphological groups was examined in relative terms, that is, the proportion of small and large colonies among morphological groups and sites.  Differences in the distribution of colonies among these groups were tested with a logistic regression analysis (as described previously). 2.3.3.   Temporal patterns of injury To determine natural rates of injury and regeneration for large and small reef-crest corals I recorded the number of new injuries, and followed the fate of old injuries on"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 61,
+      "cited_text": "simultaneously over a few consecutive nights each spring (Harrison et al. 1984; Willis et al. 1985).  The experiment was initiated in February 1994, just prior to the onset of oogenesis in these species, and terminated in early November of the same year, just before mass spawning.  This timing allowed for the collection of mature gonads from corals.  At this stage of development, eggs and testes are clearly identifiable, and meaningful comparisons can be made between species and injury regimes."
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 62,
+      "cited_text": "35mm close-up attachment, were taken at the time of the injury, and 12 (census 1) and 24 (census 2) days after the injuries were inflicted.  A ruler attached to the close-up frame was used as a size reference.  The amount of regeneration that had taken place over time was quantified from the photographs by projecting the image at its actual size onto a paper screen and tracing the damaged and recovered areas.  Both areas were then digitised on a Hi-Pad-Plus Digitiser used in association with the computer package"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 63,
+      "cited_text": "colonies differed among species with different morphologies, and if regeneration was influenced by the position of the injury within the colony or the type of injury.  Eleven species exhibited a wide range of responses to damage, from little to no change to complete recovery within 71 to 286 days.  Regenerative ability was able to be ranked according to morphological attributes for these species (arborescent > bushy > tabular > massive > submassive), suggesting that morphology does influence the recovery of the"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 64,
+      "cited_text": "massive, tabular and bushy corals, the injuries were located at the center and edge of the colony while for the arborescent and submassive species, injuries were located at the base (centre) and tips (edge) of branches and columns.  Seventy-four days after injuring the colonies, the dimensions (length and width + 1mm) of each lesion (amount of injured area not regenerated) was measured using a tape measure.  The area of the remaining lesion was then calculated and subtracted from the original injury size to"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 65,
+      "cited_text": "the scraping injury and partial recovery of the tissue injury.  D.  The tissue injury is still only partially recovered after 215 days.  Scale bar = 1cm. 3.3.2.2 Tissue Loss versus Branch Removal in Branching Corals. Branching acroporids on the Great Barrier Reef are prone to injuries (e.g. predation, physical disturbances) which result in either the removal of branches or tissue loss.  To determine how branching corals respond to branch removal and tissue loss, and to detect interspecific differences in their response to these injury types, I removed the"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 66,
+      "cited_text": "inflicted in-situ on the edge of colonies and only large colonies (diameter >75cm) were used.  A total of 60 colonies were injured in this experiment (10 per injury type and species). The positions of all colonies were marked with horticultural tags attached to the substratum close to the colony to ensure relocation at subsequent censuses. 4.3.1.   Amount of regeneration To determine the amount of regeneration of the injuries over time, they were monitored photographically with a Nikonos V underwater camera.  Close-up photographs, using a"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 67,
+      "cited_text": "data chapters.  Jason Tanner, Chris Alexander and Howard Choat have all been very supportive and encouraging throughout my PhD. This study was field intensive and I spent much of my time at Lizard Island with a whole sweep of field assistants.  I would like to thank Luke Smith, Andrew Baird, Sheryl Fitz-Patrick, Francis Pantus, Annabel Miles, Robyn Cumming, Patrick Sutton, Lachie Maclay, Larnie Linton, Jo Sadler and Jackie Wolstenholme for being very patient and enthusiastic field assistants.  I would also like to extend my gratitude to the"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 68,
+      "cited_text": "in the past. 2.3.1. Description of study sites This study was conducted on the fringing reefs around Lizard Island (14040’, 145028’), a continental island of the Great Barrier Reef, approximately 25 km off the eastern coast of mainland Australia.  The Lizard Island complex consists of Lizard Island and three smaller islands, Palfrey, South, and Bird Islets, all of which are connected by reefs (Pichon and Morrissey 1981).  These islands are protected from oceanic swells by the outer barrier reef.  The study sites were South Reef, Lizard Head, Washing Machine,"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 69,
+      "cited_text": "North Reef, and Mermaid Cove (Figure 2.1).  South Reef and Washing Machine are exposed sites subjected to the dominant southeast trade winds.  In contrast, Mermaid Cove, North Reef and Washing Machine are relatively protected sites, sheltered from the southeast trade winds by Lizard Island.  The section of reef that was examined at all sites was the reef crest.  The reef crest is defined as the narrow strip of reef between the reef flat and reef slope (Pichon and Morrissey 1981). 2.3.2.   Spatial patterns of injury"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 70,
+      "cited_text": "Great Barrier Reef, approximately 25 km off the eastern coast of mainland Australia (Figure 2.1).  Experiments were set up at two locations, on the reef-crest at North Reef (experiment 1), and in the lagoonal back-reef of Osprey Island (experiment 2).  These sites were chosen because they provided a wide selection of species and an abundance of large colonies (see Table 3.2 for average colony sizes).  One hundred and ten colonies were selected haphazardly for the experiments and individually tagged."
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 71,
+      "cited_text": "Colonies with injuries comprising greater than 25% of the total surface area were excluded.  Three of the four injury types were experimentally inflicted on colonies to simulate natural injuries.  These include extensive tissue loss (tissue injury), superficial tissue and skeleton loss (scraping injuries) and extensive tissue and skeleton loss (branch removal).  Tissue was removed from colonies with compressed air that was delivered through the small nozzle (5mm diameter) of an air gun.  To standardise the"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 72,
+      "cited_text": "reproductive output, feeding and photosynthetic capacity, and destroys stored reserves (e.g. Bak et al. 1977; Wahle 1983; Rinkevich and Loya 1989). CHAPTER 4: THE RESPONSE OF ACROPORA HYACINTHUS AND MONTIPORA TUBERCULOSA TO SCRAPING INJURIES, TISSUE MORTALITYAND BREAKAGE. 4.1.   ABSTRACT Three types of injuries commonly generated on corals by biotic and abiotic agents are tissue mortality, scraping injuries and breakage of peripheral sections of the colony.  To determine if recovery was affected by injury type, colonies of Acropora hyacinthus and"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 73,
+      "cited_text": "dimensions of the tissue from which regeneration can occur, and (3) regeneration rates, vary among colonies with tissue mortality, scraping or breakage injuries for the two species. 4.3.   MATERIALS AND METHODS To investigate the response of corals to scraping injuries, tissue mortality and breakage, I injured colonies of two species and monitored the subsequent recovery process.  The species were Acropora hyacinthus and Montipora tuberculosa, chosen because of their susceptibility to the injury types under investigation, their contrasting morphologies,"
+    },
+    {
+      "source_id": "58b15640-3061-4ea9-a606-877701eef38c",
+      "citation_number": 74,
+      "cited_text": "√ 2 � A c\u001f + A , where P is an approximation of the perimeter, A is the area of the lesion, and c is the ratio of the width and height of the ellipse. Val-ues of c near 1 indicate circular lesions (relatively equal heights and widths and a high area:perimeter ratio). Larger values of c indicate a narrower lesion (unequal heights and widths and a lower area: perimeter ratio). 1 3 Effect of damage distribution on lesion healing and whole colony growth I conducted a field experiment to determine how the spac-ing between tissue lesions affected lesion healing (i.e., tissue regeneration) and skeletal growth of the colony. I collected 40 small massive Porites colonies (6–7 cm diameter) without existing damage near the reef crest on the north shore of Moorea, French Polynesia, placed them in individual ziplock bags, transported them to the Richard B. Gump South Pacific Research Station, and kept them in a flow-through seawater table. Each coral was attached to plastic mesh with Z-Spar marine epoxy. After 24 h, I determined the skeletal mass of the col-ony using buoyant weight (Davies 1989) and randomly assigned each coral to one of four experimental treat-ments: no damage, or two lesions with centroids separated by either 1.2 cm, 3.5 cm, or 6 cm. I used a Waterpik and 1 cm diameter circular stencil to make lesions on the tops of the corals and removed all tissue from within the lesion area (Fig. 2, Online Resource). I handled all corals simi-larly regardless of treatment, and I weighed corals after damaging to ensure that their skeletal mass was the same as prior to damage."
+    },
+    {
+      "source_id": "58b15640-3061-4ea9-a606-877701eef38c",
+      "citation_number": 75,
+      "cited_text": "I deployed corals in the field by mounting them to cinderblocks arranging them in a line perpendicular to the current. Corals were blocked in space and time, with one replicate of each treatment in each block. After 20 and 39 days, I returned corals to the lab to weigh and photograph them. I analyzed photographs using Image J to document changes in lesion size at each time point. To determine the effects of damage on coral growth, I tested three hypotheses with a priori orthogonal con-trasts at each time point: (1) is there a significant effect of damage on coral growth? (undamaged corals vs. corals that received damage); (2) do adjacent lesions respond differently than lesions that are separated? (corals with lesion centers separated by 1.2 cm vs. corals with lesions with centers separated by at least 3.5 cm); (3) does the degree of spacing between non-adjacent lesions influence healing or growth? (corals with lesions centers separated by 3.5 cm vs. corals with lesions separated by 6 cm). I analyzed these contrasts in R using linear mixed effects models using the lme4 (Bates et al. 2015) and lmerTest (Kuznetsova et al. 2017) packages. I treated coral ID and block as random effects, time as a fixed effect, and tested the three hypotheses along with interactions. I removed one coral from the growth analysis because it was dropped during transport, and three corals from the lesion healing analysis due to poor quality of the photographs. For all analyses, I analyzed data in R (version 3.3.2)."
+    },
+    {
+      "source_id": "58b15640-3061-4ea9-a606-877701eef38c",
+      "citation_number": 76,
+      "cited_text": "After 1 year, I collected the corals, and placed them in a bleach solution to remove the tissue. I then used an angle grinder to cut the corals in half, ensuring that the cuts passed through the lesion locations. I sanded and dampened the corals before photographing them so that growth lines were clear. To analyze the images, I used Image J and marked damaged areas (indicated by a low density of Alizarin), traced the dye line, and traced the outer surface of the skel-eton. The region between the dye line and the outer surface represented skeletal accretion during the course of the exper-iment. To measure growth, I traced > 100 growth lines per colony (each demarcating the edge of a polyp as it accreted  CaCO3) from the outer edge of the dye to the edge of the colony (Fig. 3, Online Resource). I modeled linear exten-sion as a function of location on the coral colony (e.g., edge vs. top of the colony). I did this by measuring the angle of growth relative to the vertical growth line. I removed 15 corals due to death prior to the end of the experiment (seven control, ten near, and eight far)."
+    },
+    {
+      "source_id": "58b15640-3061-4ea9-a606-877701eef38c",
+      "citation_number": 77,
+      "cited_text": "I found 12 massive Porites corals on the north shore of Moorea, French Polynesia approximately 1 m in diameter with C. violacea present. I randomly selected one snail on each colony, and found a similar location on the same colony with respect to height and flow that was at least 20 cm from the nearest snail. At each location, I quantified coral morphology, using a triangular piece of plexiglass (30 cm per side) with a 20 cm by 20 cm grid in the center. The grid contained 20 pre-drilled holes at random loca-tions. The plate was centered at the snail (or control loca-tion) and laid flat upon the coral (resting on at least three points). I then measured the perpendicular distance from the coral to the plate at each of the 20 locations and used the variance of these distances to quantify surface rugosity (i.e., “bumpiness”); corals with high variances were more topographically complex than corals with low variance. I remeasured each coral after 1 year (using a nail as a refer-ence point) and calculated the change in variance."
+    },
+    {
+      "source_id": "58b15640-3061-4ea9-a606-877701eef38c",
+      "citation_number": 78,
+      "cited_text": "19 months (van Woesik 1998), yet few are completely healed within 6 months (Denis et al. 2011). Many factors influence the rate of regeneration, likely by influencing the amount of available resources (see review by Henry and Hart 2005). For example, healing is more likely in smaller lesions and lesions with a greater perimeter-to-area ratio (Bak and Steward-Van Es 1980; Meesters et al. 1997; Oren et al. 1997a), presumably because areas heal faster when they have a greater number of neighboring, healthy polyps. The link between available resources and regeneration is further highlighted by the role of symbiont communities and heterotrophy: corals with symbiont com-munities that provide resources exhibit higher regeneration rates than corals without (DeFilippo et al. 2016; Burmester et al. 2017), and fed corals with symbiont communities show greater healing than those that are unfed (Burmester et al. 2018). Additionally, bleached corals exhibit lower regenera-tion rates (Meesters and Bak 1993; Mascarelli and Bunkley-Williams 1999), and corals with bumpier morphotypes can exhibit higher regeneration rates than massive or columnar morphologies (Van Veghel and Bak 1994). Finally, abiotic conditions such as temperature can influence regeneration rates due to available resources (Edmunds and Lenihan 2010; Denis et al. 2011, 2013)."
+    },
+    {
+      "source_id": "58b15640-3061-4ea9-a606-877701eef38c",
+      "citation_number": 79,
+      "cited_text": "Methods Field surveys of coral damage I quantified the spatial patterns of coral damage (both size/ shape of the lesion and the spatial patterns of the lesions) by conducting photoquadrat surveys in the backreef of the north shore of Moorea, French Polynesia, where massive Porites was the dominant coral. At each of two sites on either side of Cook’s Bay at depths of 2–3 m, I haphazardly selected two large, focal corals in the backreef lagoon. The backreef of the north shore of Moorea has a strong, unidirectional flow running from the reef crest to the shore (Hench et al. 2008). Therefore, I ran four 25 m transects in the cardinal direc-tions from the bommie to capture variation both parallel to"
+    },
+    {
+      "source_id": "58b15640-3061-4ea9-a606-877701eef38c",
+      "citation_number": 80,
+      "cited_text": "Vol.:(0123456789) Oecologia (2019) 191:621–632 https://doi.org/10.1007/s00442-019-04509-7 COMMUNITY ECOLOGY – ORIGINAL RESEARCH Spatial distribution of damage affects the healing, growth, and morphology of coral Elizabeth A. Hamman1,2 Received: 20 June 2018 / Accepted: 9 September 2019 / Published online: 30 September 2019 © Springer-Verlag GmbH Germany, part of Springer Nature 2019 Abstract Many predators and herbivores do not kill their prey, but rather remove or damage tissue. Prey are often able to heal or regenerate this lost tissue. If the prey are modular organisms (e.g., some plants and cnidarians), regeneration is frequently influenced by other modules interconnected to damaged ones. For example, many coral predators remove tissue from colonies consisting of many polyps, and these polyps often share resources with their neighbors. Thus, the distribution of tissue loss on a coral colony could affect the coral’s response. I hypothesized that spatially aggregated damage might be slow to heal due to competing demands on nearby polyps. To explore the spatial patterns of corallivory and their implications, I conducted: (1) field surveys documenting the spatial distribution of lesions on corals; (2) field experiments testing the effect of the distance between lesions on coral tissue healing, skeletal growth, and morphology; and (3) field surveys relating corallivore presence to coral growth and morphology. In the field surveys, lesions were aggregated at multiple spatial scales, and most lesions had other lesions within 2 cm. When lesions were near one another, coral tissue regeneration was depressed, although there was no effect on whole colony growth. After a year, however, linear extension was lower in the neighborhood of the lesions. Additionally, gastropod corallivores (Coralliophila violacea) with low movement decreased coral growth and increased coral topographical complexity. These results suggest that corallivores that create clusters of coral damage have a greater effect on coral growth and recovery from damage than corallivores that spread damage throughout the colony."
+    },
+    {
+      "source_id": "58b15640-3061-4ea9-a606-877701eef38c",
+      "citation_number": 81,
+      "cited_text": "I analyzed the data using the nlme package in R, and included the angle of growth as a fixed effect. I included the individual coral as a random effect, fit several models (e.g., growth as linear, quadratic, vs. cubic functions of angle) (Table 3), and selected the best model using AIC. 1 3 Effect of chronic damage on coral morphology While the first two experiments test the effects of acute damage on the response of the coral, many coral predators inflict chronic damage that might have greater effects on the coral by repeatedly drawing resources from the same areas of healthy of tissue. Therefore, I evaluated the effects of chronic damage on coral morphology by comparing long-term patterns of coral growth in regions near the corallivorous gastropod, C. violacea, with coral growth in regions that lacked this predator. Oren et al. referred to this snail as a “prudent sessile feeder”, because it feeds in one location for extended periods of time and creates carbon sinks (no snails moved during the 4-month experi-ment: Oren et al. 1998), similarly a related species, Cor-alliophila abbreviata rarely moves on mounding colonies (Hayes 1990). While it is known that C. violacea reduces Porites growth rate (Clements and Hay 2018; Hamman 2018), and related snails in the Atlantic are associated with decline in coral tissue (Miller 2001; Baums et al. 2003) and recovery from bleaching (Shaver et al. 2018), no stud-ies have examined the effects of grazing on coral growth within a coral colony."
+    },
+    {
+      "source_id": "58b15640-3061-4ea9-a606-877701eef38c",
+      "citation_number": 82,
+      "cited_text": "Effect of acute damage distribution on coral linear extension While the first field experiment tests the short-term effect of tissue damage on the skeletal growth of the entire colony, it does not provide long-term data on the colony growth response at different locations within the coral col-ony (e.g., growth where tissue was removed, or adjacent to where tissue was removed). Therefore, I conducted a second field experiment to test the effect of the distance between tissue lesions on the growth of specific parts of the colony. I collected 60 massive Porites corals approxi-mately 5 cm in diameter near the reef crest and returned them to the lab. I damaged the corals with a Waterpik (as in the previous experiment) with lesion centroids 1.2 cm and 3.5 cm apart. Control corals were handled similarly, but not damaged."
+    },
+    {
+      "source_id": "58b15640-3061-4ea9-a606-877701eef38c",
+      "citation_number": 83,
+      "cited_text": "ra te (g /d ay ) Time 20 Days 39 Days (B) No Damage 1.2 3.5 6 N/A 0.00 Fig. 2  Effect of lesion spacing on a percent of lesion healed and b coral skeletal growth rate and after 20 (light gray bars) and 39 (dark gray bars) days. The percent of lesion healed was significant between corals with lesions with centers separated by 1.2 cm and by at least 3.5  cm after 20  days, but not 39. There were no significant effects between distance between lesion centers and skeletal growth. Values plotted are fitted values from the mixed effects model and error bars represent ± 1 SE (N = 10)"
+    },
+    {
+      "source_id": "58b15640-3061-4ea9-a606-877701eef38c",
+      "citation_number": 84,
+      "cited_text": "Coral lesions were also abundant. The number of lesions per quadrat ranged from 2 to 611, with a mean of 42 lesions per quadrat, or from 0.01 lesions/cm2 to 0.96 lesions/cm2 with a mean of 0.12 lesions/cm2 (Fig. 1a). Between quad-rats, lesions were very clustered, with some corals having extremely high densities of lesions, although several had lower levels (Fig. 1a). The model with the best fit for the number of lesions was the negative binomial fit including site (Table 1). Within quadrats, lesions showed a variety of spatial dis-tributions. Lesions on 12 quadrats indicated spatial clus-tering, 74 were indistinguishable from spatial randomness, and 9 had a demonstrably even distribution of lesions. Even though the spatial point pattern of lesions was variable, lesions were sufficiently dense to be in close proximity to other lesions. The centers of 75% of lesions were < 1.76 cm from the center of the nearest neighboring lesion (Fig. 1b). Lesions were approximately elliptical with the major axis exceeding the minor one by 15% (Fig. 1c: c = 1.15 ± 0.01; estimate ± SE), and this shape appeared to be independent of overall lesion size, although the size of the lesions were also variable (Fig. 1d)."
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 85,
+      "cited_text": "total of 3 months (April 7, 2007–June 28, 2007) to enable measurement of growth both leading up to the closure of lesions, and for an extended period thereafter. Average daily air temperature and average daily solar radiation measured during the experimental time period at the HIMB weather station was 25.7 ± 1.1\"C (mean ± SD), respectively, 252.9 ± 45.1 calories cm-2 (mean ± SD). Average daily sea water temperature, at the sea water intake (2 m depth on adjacent reef), was 24.4 ± 0.6\"C (mean ± SD)."
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 86,
+      "cited_text": "REPORT Effects of frequent fish predation on corals in Hawaii D. Jayewardene Æ M. J. Donahue Æ C. Birkeland Received: 17 May 2008 / Accepted: 28 January 2009 / Published online: 20 February 2009 ! Springer-Verlag 2009 Abstract The abundance of lesions from fish bites on corals was quantified at nine shallow reefs in the main Hawaiian Islands. There were on average 117 bite scars m-2 on Pocillopora meandrina tissue from the barred filefish Cantherhines dumerilii, 69 bites m-2 on Porites compressa tissue, and 4 bites m-2 on Porites lobata tissue from the"
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 87,
+      "cited_text": "ian Islands. The specific objectives were: (1) to quantify the level of fish predation on corals by surveying a range of reefs in the islands for the prevalence of characteristic bite lesions left by A. meleagris and C. dumerilii; (2) to deter- mine the intensity and immediate effect of predation on coral by exposing two size classes of out-planted Porites compressa branches to natural levels of predation on the reef; (3) to establish the healing time for bite lesions inflicted by A. meleagris on P. compressa by monitoring in"
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 88,
+      "cited_text": "1,000 m2 area. Ten 0.5 9 0.5 m quadrats were randomly placed along each transect, and discrete bites within each quadrat were identified as either (1) A. meleagris lesions on P. compressa, (2) A. meleagris lesions on P. lobata, or (3) C. dumerilii lesions on P. meandrina. Predation pressure, i.e., number of bites per square meter of reef divided by the abundance of each coral species (bites m-2 of coral tissue), was calculated to enable comparisons among species and sites. Differences in bite density (bite m-2) and predation"
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 89,
+      "cited_text": "site. Tiles were placed haphazardly within the 1,000 m2 area among the surrounding coral and monitored once in a week for 3 weeks. Predation was defined as removal of the Fig. 2 Bite marks by Arothron meleagris on a Porites compressa, b, c Porites lobata, by Cantherhines dumerillii on d Pocillopora meandrina, and e by the bullethead parrotfish (Chlorurus sordidus) on non-coral tissue adjacent to P. lobata Coral Reefs (2009) 28:499–506 501 123 intact tip of nubbins (=maximum 4 bites replicate tile-1)."
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 90,
+      "cited_text": "number of days before complete recovery and p(C) is the daily probability of a bite. Over-predation risk is defined as Prob(Bites C 2). Results Coral abundance Average coral cover across reefs was 37 ± 4% (mean ± SE), but total coral cover varied among sites (F11,83 = 26.01, P \\ 0.001, Table 1). The three most common corals across sites were P. lobata 20.3 ± 10.2% (mean ± SD), P. compressa 10.3 ± 9.6%, and P. meand-rina 1.5 ± 1.9%, followed by less common Porites lutea 0.6 ± 0.7%, Montipora patula 0.5 ± 0.9%, Montipora capitata 0.5 ± 0.5%, Pavona varians 0.3 ± 0.6%, and"
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 91,
+      "cited_text": "spotted puffer Arothron meleagris. Across sites, the frequency of A. meleagris bites on P. compressa per unit area of living coral cover declined exponentially with increasing coral cover. P. compressa nubbins in two size classes (1–2 cm and 4–5 cm) were transplanted onto six study reefs. Nubbins in the small size class were entirely removed by bites from A. meleagris, while nubbins C4 cm were only partially consumed, leaving them able to recover. At sites with abundant P. compressa, predation had little effect on transplanted nubbins; at sites where P. compressa comprised less than 5% of living cover, all"
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 92,
+      "cited_text": "lesions, less than 2% of parrotfish bites are inflicted on live coral, and these are generally along the edge where the coral tissue meets the algae (pers. obs., Ong 2007). The majority of bite lesions in the Main Hawaiian Islands are inflicted by the barred filefish (Cantherhines dumerilii) and the spotted puffer (Arothron meleagris), which have been observed by the authors to remove coral skeleton and inflict lesions when feeding on coral (Jayewardene and Birkeland 2006). They are, however, very skittish and thus seldom seen in action by divers. All but one of Hawaii’s 13 species"
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 93,
+      "cited_text": "bite. Healing time (h) is the number of days required for a wound to heal. Previous work indicates that healing time is independent of coral head size and other wounds on the same coral head (Jayewardene 2009), but could depend on environmental stress (Meesters et al. 1992; Meesters and Bak 1993; Fisher et al. 2007). Bite frequency (i.e., per capita risk of predation) of A. meleagris on P. compressa at each site was calculated as area of bites (bites m-2 9 0.9 cm2 per bite, Jayewardene 2009) divided by the"
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 94,
+      "cited_text": "pressure (bites m-2 coral tissue) among sites were analyzed using non-parametric Mann–Whitney and Kruskall–Wallis tests. Differences in A. meleagris predation on P. lobata versus P. compressa were examined using a binomial test, comparing observed bites (total number of bites recorded per species per site) and expected bites (calculated assuming that bites are proportional to coral cover per species per site). Predation experiment Predation was experimentally measured by transplanting P. compressa branches (nubbins) to eight sites (Wawaloli Beach, Puako, Wawaloli FMA, Wawaloli FMAshallow,"
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 95,
+      "cited_text": "situ tissue regeneration; and (4) to examine whether fish predation could pose a risk to coral recovery. Materials and methods Study sites The study was conducted from March 2004 to August 2005 at 12 sites on nine shallow coral reefs located in the Main Hawaiian Islands (Fig. 1). Two sites were ‘‘open’’ sites with unregulated fishing (Portlock and Wawaloli Beach), seven sites had ‘‘partial’’ management prohibiting lay net fishing (Puako, Anaehoomalu Bay, Wawaloli Fisheries Management Area (FMA), Wawaloli FMAshallow, Papawai,"
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 96,
+      "cited_text": "The depth of these areas ranged between 6 and 12 m. Coral abundance Coral cover within each 1,000 m2 study site was deter- mined by analyzing fifteen 40 9 60 cm random photoquadrats along each of 10 randomly located 20 m transects (=150 photoquadrats/site). PhotogridTM image analysis software was used to analyze 20 random points per photoquadrat. Differences in mean coral cover among sites were analyzed using one-way ANOVA. Abundance of fish bites Although C. dumerilii and A. meleagris were observed on"
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 97,
+      "cited_text": "Hawaii Island were collected from the reef off Honokohau harbor at 8 to 10-m depth. Sets of four small or four large nubbins were attached to 15.2 9 15.2 cm terracotta tiles using epoxy putty (1 tile = 1 replicate). Nubbins were grouped, rather than individually attached to tiles, to most closely represent a colony of P. compressa. Nubbins were maintained in aquaria for 2 days prior to transplantation on to the reefs. Four tiles of each size class were set out at each site totaling eight tiles per site =4 tiles-1 size class-1"
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 98,
+      "cited_text": "inflicted on nubbins between the two size classes, predation on the small nubbins at Hanauma resulted in the entire Table 1 Total coral cover (%), coral cover of the three most common species (%), bite density on these species (# bites/m-1) and the intensity of predation on small (1–2 cm) and large (4–5 cm) experimental Porites compressa nubbins (number of bites tile-1, max = 4 bites tile-1) across study sites Sites % Coral (±SE) # Bites/m-1 (±SE) # Bites/tile (±SD) Total PC PL PM PC PL PM Small Large"
+    },
+    {
+      "source_id": "45fcfd8e-a2d2-4345-aec0-baeb03f883a4",
+      "citation_number": 99,
+      "cited_text": "Keei, and Keeishallow), and three sites were ‘‘no-take’’ Marine Life Conservation Districts, in which all fishing was prohibited (Hanauma Bay, Hanauma Bayshallow, and Kealakakua Bay). The shallow areas were included in the study to increase the range in the background cover of P. compressa found across study sites. Surveys and experiments at each site were conducted within an area of *1,000 m2 overlapping the locations of fixed fish survey transects (Tissot and Hallacher 2003, Jayewardene 2009)."
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 100,
+      "cited_text": "tissue regeneration across simulated bite scars on the growth of experimentally scarred P. compressa nubbins, of three different size classes (4, 2, 1 cm tall), in a controlled laboratory environment. The results indicate that inflicted P. compressa lesions heal completely within approximately 36 days, on even the smallest nubbins. While growth was slowed before lesions closed, the healing process did not appear to affect the longer-term growth of fragments. Successful regeneration of tissue may be explained by"
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 101,
+      "cited_text": "Measurement of healing and growth Growth following scarring (=day 0) was measured on day 1, 3, 5, 7, 10, 12, 14, 18, 20, 25, 31, 34, 41, 48, 56, 62, 66, 75, 80, and 83. The stage of tissue regeneration across lesions was visually assessed and photographically recor-ded at each of these times, with the aim of determining the average number of days until lesion closure. The buoyant weight method (Jokiel et al. 1978) was used to measure skeletal growth. This involved removing each nubbin from the mesocosm tank, hanging it in a beaker of salt water"
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 102,
+      "cited_text": "from a balance, and recording the weight in grams to three decimal places. To compare growth rates between treatment groups, the weight gained per unit area of live tissue (g cm-2) was calculated for each nubbin. The surface area of live tissue for each nubbin was calculated upon completion of moni- toring by: (1) weighing each nubbin, dipping the nubbin excluding the bottom surface into hot wax (60\"C), letting the wax cool, and reweighing the nubbin with the wax coat on; (2) similarly, weighing and dipping into the wax 12 standard calcium carbonate blocks with varying yet known"
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 103,
+      "cited_text": "(mean ± SE) during the first 4 days after scarring for the smallest treatment (1 cm), average cumulative weight gain (g cm-2), for each of all four treatments over the course of the 3-month monitoring period, was positive and linear (Fig. 2). The factor analysis indicated that the rate of nubbin growth [(end weight–start weight) 9 30 days] was signifi- cantly different both between treatments and before versus after lesion closure (period) (Table 1). The interaction term (treatment 9 period) was also significant, indicating that the"
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 104,
+      "cited_text": "REPORT Experimental determination of the cost of lesion healing on Porites compressa growth D. Jayewardene Received: 15 May 2009 / Accepted: 20 October 2009 / Published online: 4 November 2009 ! Springer-Verlag 2009 Abstract The spotted puffer (Arothron meleagris) com-monly feeds on finger coral (Porites compressa) on Hawaiian shallow reefs. The predation involves removal of branch tips, resulting in open lesions that, in the field, heal in little over a month. This study determined the cost of"
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 105,
+      "cited_text": "small lesion size, the high surface area to perimeter ratio of the lesions, and the location of lesions on the growing tips. The lack of impact on overall growth rate of experimental fragments indicates that under favorable conditions, P. compressa is resilient to predation. Keywords Lesion ! Healing ! Regeneration ! Predation ! Growth ! Porties compressa Introduction Feeding by the spotted puffer Arothron meleagris (Lace- pède 1798) on the tips of the finger coral Porites compressa (Link 1807) is common on Hawaiian reefs (Jayewardene et al. 2009) and involves removal of tissue and chunks of"
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 106,
+      "cited_text": "nubbins were cut to 2 cm lengths. Using epoxy putty, each nubbin was individually attached to a 2.5 cm 9 2.5 cm ceramic tile. Sixteen of the 5-cm nubbins were allocated as controls and remained undamaged, while Arothron melea-gris bites were simulated on the remainder of the nubbins by removing *1 cm height off each of the nubbin tips using a 7-inch wire cutter (Fig. 1). This created four experimental treatment groups (5-cm undamaged controls, 4-cm scarred nubbins, 2-cm scarred nubbins, and 1-cm scarred nubbins),"
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 107,
+      "cited_text": "SD), and 5.0 ± 1.0 cm2 (mean ± SD) for the 4-, 2-, and 1-cm treatment, respectively. The surface area of each inflicted lesion was calculated by measuring the two per- pendicular diameters [0.9 ± 0.3 cm2 (mean ± SD) (same for all treatments, one-way ANOVA: f = 0.77, P = 0.469)]. The entire surface area of the lesion was subtracted from the calculated nubbin surface area, when calculating weight gain per nubbin surface area on day 0. Subsequently, proportionately less of the lesion area was subtracted from the nubbin surface area until nothing was"
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 108,
+      "cited_text": "123 Coral Reefs (2010) 29:131–135 DOI 10.1007/s00338-009-0560-2 environment. Nubbin growth was measured during the tissue regeneration-healing process and after lesion closure using the buoyant weight method (Jokiel et al. 1978). Materials and methods Experimental design and preparation Sixty-four Porites compressa nubbins were haphazardly collected from the reef at approximately 2 m depth at the Hawaii Institute of Marine Biology (HIMB). Of these specimens, 32 randomly chosen nubbins were cut to 5 cm lengths, 16 nubbins were cut to 3 cm lengths, and another 16"
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 109,
+      "cited_text": "which were placed randomly in relation to each other in a 1 m (w) 9 1 m (l) 9 0.4 m (h) body of water in a meso-cosm tank at HIMB. The nubbins in the tank were shaded from direct irradiance by a mesh and subject to a continuous flow (7–8 l min-1) of sea water, pumped from the adjacent reef. The sea water was aerated and exposed to ambient air temperature. As closure of lesions was expected to occur within 42 days, based on previous field observations (Jayewardene et al. 2009), nubbins were monitored for a"
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 110,
+      "cited_text": "surface areas, reweighing each of these when covered with wax, calculating the weight of wax per surface area for each block, then calculating the mean weight of wax per car- bonate surface area (36.9 ± 6.6 g cm-2 SD); (3) using this standard weight-surface ratio to calculate the total surface areas of each of the nubbins based on the weights of their wax coats (Stimson and Kinzie 1991). Nubbin tissue surface area for the control was 28.1 ± 4.2 cm2 (mean ± SD), 21.4 ± 4.2 cm2 (mean ± SD), 8.9 ± 1.2 cm2 (mean ±"
+    },
+    {
+      "source_id": "4cc9b30b-9ed8-4123-82aa-2f182db391b7",
+      "citation_number": 111,
+      "cited_text": "132 Coral Reefs (2010) 29:131–135 123 treatments and before and after lesion healing were com- pared using factor analysis (General Linear Model). Results Healing and growth Complete lesions closure occurred within 39 ± 2 days (mean ± SE) for 4-cm treatment, 35 ± 1 days (mean ± SE) for 2-cm treatment, and 34 ± 2 days (mean ± SE) for 1-cm treatment. These healing rates were not statistically different (one-way ANOVA: f = 2.47, P = 0.096). Apart from an initial loss in weight of 0.001 ± 0.0004 g cm-2"
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 112,
+      "cited_text": "Response of Pocillopora verrucosa to corallivory varies with environmental conditions Hunter S. Lenihan1,*, Peter J. Edmunds2 1Bren School of Environmental Science and Management, University of California, Santa Barbara, California 93106-5131, USA 2Department of Biology, California State University, Northridge, California 91330-8303, USA ABSTRACT: We wounded Pocillopora verrucosa to simulate injury caused by fish corallivores, and then evaluated impacts of this damage on coral performance under different temperatures (26.6 and 29.6°C) and flow speeds (6 and 21 cm s–1) in microcosms. Colony growth (weight), photosynthetic effi-ciency (maximum dark-adapted quantum yield of PSII, Fv/Fm [where PSII is Photosystem II, Fv vari-able fluorescence and Fm maximum fluorescence yield in the dark]), and the healing of lesions were measured during 2 replicate 10 d trials. Injury caused growth to increase in 3 of 4 treatments: high flow, high temperature; low flow, high temperature; and low flow, low temperature. However, growth was greatest for uninjured corals in the high-flow, low temperature treatment, which appears to pro-vide optimal conditions for P. verrucosa (when not injured). Temperature alone had little effect on growth but influenced Fv/Fm, as did flow; Fv/Fm was 5% greater at 26.6°C than 29.6°C, and 3% higher at 21 cm s–1 than 6 cm s–1. Injury had little effect on Fv/Fm, and neither temperature nor flow affected the rate of healing that occurred at 17 to 25% of the lesion area in 10 d. Results from a field ex-periment, in which growth of P. verrucosa was tested as a function of flow speed (~14 cm s–1 versus ~3 cm s–1) and fish predation (predators versus no predators), but not temperature, supported results of the microcosm experiment. Growth was greatest for corals in the high-flow, no predator treatment, and relatively high for injured corals in low flow. Together, these results suggest that P. verrucosa, a common branching coral, prioritizes overall growth over repair when injured by fish feeding, which differs from the outcome observed in a companion study in which juvenile colonies of massive Porites were subjected to similar injuries."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 113,
+      "cited_text": "At the conclusion of the experiment, Fv/Fm was again measured after 3 h of dark adaptation, the sizes of the damage lesions were measured and the buoyant weights recorded. All measurements were completed in an identical manner to the initial measurements. The changes in buoyant weight were converted to dry weight assuming that the skeletal aragonite had a den-sity of 2.93 g cm–3 (Jokiel et al. 1978). Following the final weighing, the corals were dried at 60°C, and their tissue areas measured using the wax dipping tech-"
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 114,
+      "cited_text": "Statistical approach. To detect differences in growth and Fv/Fm in the microcosm experiment, we used a 3-way blocked ANOVA in which injury (injured versus uninjured), flow speed (high versus low), and tempera-ture (high versus low), were orthogonal fixed factors, and trial (n = 2) was the blocking factor. For the change in the size of the lesion (i.e. ‘healing’), we compared treatments using a 2-way blocked ANOVA in which flow speed and temperature were crossed, fixed fac-tors, and trial (n = 2) was the blocking factor. A 1-way ANOVA was used to test for differences in initial Fv/Fm"
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 115,
+      "cited_text": "The prepared corals were inserted into the PVC racks and left to recover for ∼36 h in the tank held at ambient temperature and illuminated for 12 h each day at 700 µmol photons m–2 s–1. Following recovery, 40 of the corals in each trial were exposed to a simulated effect of fish predation achieved by scraping the colonies with 10 mm wide, snub-nose pliers. The scrapes were made in haphazard locations on the colonies, and the pliers were applied to create a pair of rectangular lesions ∼12 × 8 mm in size. The pliers were rinsed in seawater between colonies to reduce the chance of contamination, and the sizes of the lesions (length × width) were recorded with calipers (±1 mm). The scraping removed superficial skeleton to 1 to 2 mm depth, as well as the entire tissue layer, and caused damaged areas similar in dimension to those seen naturally on Pocillopora on the reefs of Moorea (H. Lenihan unpubl. data). While our experimental approach assessed the response to injury in nubbins that had already been broken from donor colonies, we rationalized this approach in 2 ways. First, any effect of the fracturing necessary to collect the corals would be consistent among all nubbins and independent of the lesions created on some of the corals to simulate coral-livory. Second, the fractured surface resulting from collection was immediately placed into epoxy to pre-pare the corals as upright nubbins, and, therefore, there was no potential for the tissue to heal across this surface (as was the case with the experimental lesions)."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 116,
+      "cited_text": "cant because injured corals outgrew uninjured corals in all treatments (HH, LH, LL) except the high-flow-speed and low-temperature (HL) treatment (Fig. 1; SNK, p < 0.05), in which corals grew the most (SNK, p < 0.05). Uninjured corals in the HH treatment grew less than all corals (SNK, p < 0.05). The mean (±SE) value of Fv/Fm for the freshly collected Pocillopora verrucosa was 0.691 ± 0.004 (n = 80) and 0.648 ± 0.004 (n = 77) in Trial 1 and 2, respec-tively. Following the incubations, mean Fv/Fm (±SE) ranged between 0.558 ± 0.012 (LL, predation, Trial 2) to 0.646 ± 0.016 (HH, no predation, Trial 2), and dif-fered significantly between trials (Table 3); the mean value was higher in Trial 1 than Trial 2. Fv/Fm was also significantly lower in the low-temperature treatment (0.594 ± 0.004; Table 3) than the high-temperature treatment (0.630 ± 0.004). Relative to the high-temper-ature treatment, Fv/Fm was more depressed at low tem-perature in Trial 1 (7% depression) than Trial 2 (4% depression)."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 117,
+      "cited_text": "53 Mar Ecol Prog Ser 409: 51–63, 2010 dead coral structures; see 'Field experiment' for defin-ition) or lower down on the adjacent benthos (Lenihan et al. 2008). The corals were collected on 12 April 2008 (Trial 1) and 27 April 2008 (Trial 2) from the back-reef hard substrate (‘pavement’) at 3 m depth. For each trial, 80 short branches of Pocillopora verrucosa were broken from colonies that were selected haphazardly, and one branch was broken from each colony to increase the likelihood that each represented a unique coral geno-type. The freshly collected branches were returned to the lab, where the apices were trimmed to a length of 13 to 42 mm using bone shears. Trimming was accom-plished with care to ensure that the branch apices were undamaged and were of similar, digitate shapes. The branches were glued (with Z Spar, A788 epoxy) to the tops of pieces of individually numbered PVC pipe (∼2 cm long and 1.5 cm diameter), the bottoms of which were fitted with a 6 mm diameter nylon screw. This procedure created experimental units—with corals attached to the PVC with minimal contact between the coral tissue and the epoxy—that could be inserted into PVC racks drilled to accept the screw attached to the base of the pipe; each rack held 20 corals upright in a linear array."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 118,
+      "cited_text": "Following preparation, the corals were buoyant weighed (Davies 1989) so that their growth (change in weight) could be determined; they were then returned to the racks in the tank held at ambient temperature. Following 3 h of darkness (beginning at 18:30 h), the photosynthetic efficiency of the corals was assessed as Fv/Fm using a Diving-PAM (Walz) fitted with an 8 mm diameter probe and operated with constant settings for all corals. Fv/Fm was measured with the probe held ∼5 mm above the coral tissue, and all measurements were made at haphazard positions on the coral surface and, for the injured corals, outside the area of damage. Finally, the corals were allocated randomly to each of 4 racks, with 20 undamaged and 20 damaged colonies on each rack. The experimental incubation began the following morning (∼66 h after collection), on either 15 April (Trial 1) or 30 April (Trial 2), with the alloca-tion of the racks at random to either the high-flow or the low-flow speed treatments within the ambient and the cool tanks. Thereafter, each trial was maintained for 10 d until its conclusion at 20:00 h on either 25 April (Trial 1) or 10 May 2008 (Trial 2)."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 119,
+      "cited_text": "using cages (‘no predation’ treatment) and cage con-trols (‘predation’ treatments, composed of half cages), which we deployed on the tops of bommies. Cages consisted of 6-sided enclosures (15 × 15 × 15 cm) made of Vexar® plastic (1 cm mesh size), and cage controls were the same design but with 2 sides missing to allow corallivorous fishes access while exposing corals to hydrodynamic conditions similar to those within cages (H. Lenihan unpubl. data). We used this size of cage control (and thus cages), because in a preliminary test we observed D. hystrix, A. hispidus, and B. undulates biting Pocillopora verrucosa corals within the cage controls and leaving distinctive lesions. A no-cage treatment was deemed unnecessary because prior tri-als revealed no difference in coral growth and intensity of corallivory on corals in cage versus no cage treat-ments. One replicate coral was placed in each cage or cage control using Z-Spar® marine epoxy, and each pair of cages was attached either to a bommie or the adjacent seafloor (n = 12 replicates for each of the 2 substrate types). Growth of the corals was measured as change in buoyant weight after 30 d, converted to dry weight using the density of aragonite (2.93 mg cm3), and normalized to area (mg cm–2 d–1) as determined using the wax dipping technique (Stimson & Kinzie 1991)."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 120,
+      "cited_text": "57 Source df SS MS F p Trial 1 0.008 0.008 0.20 0.66 I 1 0.000 0.000 0.01 0.94 F 1 0.012 0.012 0.29 0.59 T 1 0.076 0.076 1.85 0.18 I × F 1 0.038 0.038 0.92 0.34 I × T 1 0.155 0.155 3.76 0.05 F × T 1 0.000 0.000 0.00 0.96 I × F × T 1 0.208 0.208 5.05 0.03 Error 142 5.841 0.041 Table 2. Results of a 3-way, blocked ANOVA comparing the growth in buoyant weight of Pocillopora verrucosa nubbins as a function of injury, flow speed, temperature, and their interaction in the laboratory experiment. Trials, of which there were 2, was the blocking factor. n = 10 replicates per treatment in each trial. I: injury; F: flow speed; T: temperature."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 121,
+      "cited_text": "On 2 January 2008, 48 juvenile Pocillopora verru-cosa colonies (30 to 35 mm diameter) were collected from the back reef near Cook’s Bay, and transported to seawater tables at the research station. After 24 h, they were buoyant weighed, and within an additional 24 h, returned to the reef, where they were placed on the tops of bommies (∼1 m in height at ∼2 m water depth) or the adjacent seafloor (3 m water depth). These 2 locations were selected to provide a natural contrast of flow regimes (Lenihan et al. 2008), and corals were allocated at random to each location."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 122,
+      "cited_text": "The nubbins of Pocillopora verrucosa survived well through the 2 trials, with no mortality, no signs of par-tial tissue mortality, and normal nighttime polyp expansion. However, at the end of the first trial (but not the second), many of the corals were slightly pale in color, particularly in the high-flow, high-temperature (HH; 55% of the corals) and high-flow, low-tempera- 56 Trial Treatment Temperature Variable Light (µmol (°C) Flow photons m–2 s–1) (cm s–1) 1 High temperature High flow 29.6 ± 0.01 (513) 18.0 ± 0.3 (30) 768 ± 20 (36) Low flow 29.6 ± 0.01 (513) 6.8 ± 0.2 (30) 768 ± 20 (36)"
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 123,
+      "cited_text": "May 2008) Lenihan & Edmunds: Response of corals to injury ture (HL; 50%) conditions, and to a lesser extent, in the low-flow, low-temperature (LL; 45%) and high-flow, low-temperature (HL; 20%) conditions. Mean (±SE) growth rates ranged from 0.46 ± 0.05 mg cm–2 d–1 (LH, no predation, Trial 1) to 0.89 ± 0.16 mg cm–2 d–1 (HL, no predation, Trial 1), but it did not vary between trials (Table 2). Growth did, however, vary as a function of the interactive effects of injury, flow speed, and tem-perature (Table 2). The 3-way interaction was signifi-"
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 124,
+      "cited_text": "Table 4. Results of a 2-way ANOVA comparing the growth in buoyant weight of juvenile Pocillopora verrucosa as a func-tion of substrate type (bommie versus seafloor), predation (predator exclusion cages versus cage controls in which predators attacked corals), and their interaction. n = 12 repli-cates per treatment. S: substrate; P: predation. Values in bold are significant Lenihan & Edmunds: Response of corals to injury those caused by corallivorous fishes, depended on flow speed and water temperature. In 3 of 4 combinations of flow and temperature, growth rates were higher in corals that had been injured than those that were unin-jured. However, highest overall growth occurred in uninjured corals in the high-flow (21 cm s–1) low-temperature (26.6°C) treatment, which we construe, therefore, to be closer to the optimal conditions for this species, at least relative to the range of treatment con-ditions employed. The literature suggests that the ther-mal optimum for Pocillopora growth is close to the low-temperature treatment (26.6°C), although it has a wide range (26 to 31°C) depending on species and location (Jokiel & Coles 1977, 1990, Edmunds 2005). Critically, however, the growth of Pocillopora declines at temper-atures greater than the threshold value(s), as is true for corals in general (Buddemeier & Kinzie 1976), and is probably an important factor explaining why growth of uninjured corals in the present study was higher at 26.6 compared to 29.6°C, at least under high flow. Results for P. verrucosa from the microcosm experi-ment are supported by our field experiment, which demonstrated that growth was greatest for unbitten corals in high flow (and low temperature: 26.6°C), and revealed a trend for elevated growth in injured corals at low flow speeds. Potentially, some of this slight increase in growth at the low flow speed in situ was a result of increased sedimentation under reduced water motion, and it would be productive in future studies to assess the effects of this factor (i.e. sedimentation) on the healing response of corals following corallivory. Importantly, in our field analysis, corals were actually bitten by fish (rather than being subjected to predation"
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 125,
+      "cited_text": "MATERIALS AND METHODS Laboratory study. A laboratory experiment was con-ducted during April and May 2008 at the University of California-Berkeley Richard B. Gump South Pacific Research Station in Moorea (17° 30’ S, 149° 50’ W), French Polynesia. This experiment was designed to test the prediction that injuries similar to those caused by corallivorous fishes in the excavating functional group (Bellwood & Choat 1990) influence the growth of Pocillopora verrucosa, but that the response varies with abiotic conditions. Specifically, we tested whether water motion (‘flow speed’) and temperature influ-enced growth, maximum dark-adapted quantum yield of PSII, Fv/Fm [where PSII is Photosystem II, Fv is vari-able fluorescence and Fm is maximum fluorescence yield in the dark] a measure of photosynthetic effi-ciency; Maxwell & Johnson 2000), and the sizes of the sites of injuries (hereafter ‘lesions). Fv/Fm was exam-ined because it directly quantifies the efficiency with"
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 126,
+      "cited_text": "The tanks were 200 × 95 cm, and filled to 14 cm depth with unfiltered seawater pumped from Cook’s Bay. When filled, these tanks contained 266 l of seawa-ter that was continuously refreshed at 1 l min–1, with the volume replaced within 5 h. Each tank was fitted with a chiller and heater that maintained the tempera-ture at either ∼27 or ∼29°C, and was illuminated on a 12:12 h light:dark cycle with two 1000 W metal halide lamps (Sylvania BT37, Metalarc). The higher tempera-ture was close to the ambient seawater temperature when the 2 trials of the experiment were completed in April/May 2008, and both temperatures spanned the normal range that occurs in the shallow back reef of Moorea (Lenihan et al. 2008, P. Edmunds unpubl. data). The lamps were screened with neutral density mesh to ∼700 µmol photons m–2 s–1 (measured with a LiCor LI 193SA), which, although lower than the high-est irradiance recorded at the collection site at noon on a sunny day, ensured that the daily integrated irradi-ance (∼30 E m–2 d–1 supplied as a square function over 12 h) was close to that experienced in the field (sup-plied as a sine function over 12 h with a maximum of 1200 µmol photons m–2 s–1). Two 170 cm long raceways were constructed from PVC sheets in each tank, and each was fitted at one end with 1 or 2 aquarium pumps (2600 l h–1; Rio Aqua) that created either a low- or a high-flow treatment, respectively. The outflow from each pump passed through a 5 cm long flow straight-ener to reduce turbulence, and was adjusted with a valve to achieve target flow speeds of about 5 and 20 cm s–1. These flow speeds were selected to simulate the differences in flow utilized in the field experiment by growing corals on top of bommies (dead or partially"
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 127,
+      "cited_text": "54 Lenihan & Edmunds: Response of corals to injury nique (Stimson & Kinzie 1991) to normalize growth rates to area (mg cm–2 d–1); the comparison of these growth rates among treatments assumes that they were linear over the study. Field experiment. We conducted a field experiment in January 2008 to test whether the growth of juve-nile Pocillopora verrucosa varied with flow speed and partial predation in the back reef of Moorea. The experiment was conducted in a mid-lagoon area, located ~200 m from the reef crest, at 3 m depth near Cook’s Bay. The mid-lagoon is dominated by pave-ment together with patches of Porites lobata, Porites australiensis, Porites lutea, and Porites rus. These coral structures, referred to as ‘bommies’, can reach >3 m diameter and >2 m height, and are often colo-nized by smaller branching corals, other inverte-brates, and algae. In a recent demographic survey of branching corals in the back reef of Moorea, we found that growth and survival of juvenile Pocillopora verrucosa (colonies <40 mm diameter) was higher on bommies compared with the adjacent seafloor, because bommies provide access to increased water flow (Lenihan et al. 2008), a greater flux of zooplank-ton (Alldredge & King 2009), and reduced rates of sedimentation (Lenihan et al. 2008). We have found only minor differences in temperature and light be-tween the seafloor and the tops of bommies in this location (Lenihan et al. 2008), and differences in these factors are probably not responsible for the observed differences in coral performance on these 2 substrate types."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 128,
+      "cited_text": "RESULTS Laboratory experiment The microcosms were effective in maintaining the treatments, with seawater temperature remaining almost identical in both trials, and mean light levels differing between trials by only 40 µmol photons m–2 s–1 in the high-temperature tank, and 111 µmol pho-tons m–2 s–1 in the low-temperature tank (Table 1). Mean temperature differed between treatment micro-cosms (26.7 versus 29.6°C ± <0.1°C SE), but differed by <0.1°C within each microcosm between trials (Table 1). Light intensities were statistically indistin-guishable between trials (F1,179 = 3.07, p = 0.08) but varied significantly between tanks (F1,179 = 3.07, p = 0.02) due to random effects such as differential aging of bulbs. The difference in light levels between micro-cosms averaged across trials was trivial in biologically meaningful terms (low-temperature microcosm: 692 ± 25 µmol photons m–2 s–1 versus high-temperature tank: 772 ± 25 µmol photons m–2 s–1). Flow speed (Table 1) varied between flow treatments (i.e. raceways; F1, 47 = 6.17, p = 0.02) but not with trial (F1, 47 = 1.76, p = 0.19), tank (i.e. temperature; F1, 47 = 0.89, p = 0.35), or the interaction between flow treatment and tank (F1, 47 = 0.90, p = 0.35)."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 129,
+      "cited_text": "which PSII harvests light, and indirectly assesses the capacity to fix carbon through photosynthesis (Maxwell & Johnson 2000). We reasoned that a metric (i.e. Fv/Fm) evaluating the capacity to supply organic carbon by photosynthesis and drive changes in con-centration of dissolved inorganic carbon would be helpful in identifying a mechanism causing variation in growth and healing of corals (Furla et al. 2000, Henry & Hart 2005). We used small branches (13 to 42 mm long; ‘nubbins’) of P. verrucosa as a model system; we collected these from 3 to 4 m depth in the back reef of Moorea. These corals were allocated to 1 of 2 groups: one was left unmanipulated, and the other was injured with pliers in a treatment designed to simulate the effects of excavating corallivores. The 2 groups of corals were incubated in 2 indoor tanks that were maintained at different temperatures and contained 2 flow speed treatments. The experiment was replicated with different corals in 2 sequential trials (5 d apart) to exploit temporal replication and address some of the limitations of a pseudoreplicated design in which mul-tiple corals were incubated in each tank."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 130,
+      "cited_text": "Growth rates of Pocillopora verrucosa were higher on the tops of bommies than on the adjacent seafloor (Fig. 3, Table 4; SNK, p < 0.05), and the corals grew more on bommies when protected from corallivores than when unprotected (SNK, p < 0.05). In January 2008, the mean flow speed on the tops of bommies was 14.3 ± 2.9 cm s–1 (±SE), which was significantly higher (F1,15 = 478.51, p = 0.0001) than flow speed over the adjacent seafloor (3.4 ± 1.2 cm s–1). During the 24 h ADV deployment in June 2008, there was a greater frequency of relatively high flow speeds measured on the tops of bommies than on the adjacent seafloor (Fig. 4). There was no significant difference in mean temperatures (F1,19 = 0.16, p = 0.69) between treat-ments (bommies: 27.2 ± 0.2°C versus seafloor: 27.3 ± 1.0°C). For the corals transplanted to the tops of bom-mies, there was a significant and positive correlation between flow speed and growth in the no predation treatments (r = 0.79, p < 0.0001) but not in the preda-tion treatments (r = 0.14, p > 0.09)."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 131,
+      "cited_text": "Moorea’s back reef supports populations of coralliv-orous porcupinefish Diodon hystrix (Diodentidae), white-spotted pufferfish Arothon hispidus (Tetradonti-dae), and orange-striped triggerfish Balistapus undu-lates (Balistidae) (H. Lenihan unpubl. data) that belong to the excavating functional feeding group (Bellwood & Choat 1990) that consumes coral tissue as well as underlying skeleton. Butterflyfishes (Chaetodontidae) are also common in this habitat, but most of these fishes eat only the soft tissues of coral and do not remove the underlying skeleton (Bellwood & Choat 1990; but see Motta 1979). We manipulated the access of corallivorous fishes to our experimental corals by"
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 132,
+      "cited_text": "Throughout the experiment, the seawater tempera-ture was recorded every 30 min with loggers (Hobo Aquapro II, Onset Computer Company), and light intensity and water transport were measured periodi-cally. The light intensity was measured using a 4π quantum sensor (LiCor LI 193SA) that was positioned beneath the water at 3 positions along each of the 2 raceways in each tank. The water motion within the raceways was assessed as net water transport, which was measured by timing the repeated passage of neu-trally buoyant particles along a known distance. This technique was not intended to measure the absolute flow speed experienced by each coral, but instead, characterized the net movement of water along the raceways. As the water motion varied along the race-way, and upstream corals affected the flow around downstream corals, the position of all corals within each raceway was randomized daily. Randomization was achieved by removing the corals from the racks each morning and replacing them in the same racks but at new, randomly selected positions; this was accomplished without touching the coral tissue or removing the corals from the seawater."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 133,
+      "cited_text": "To characterize the flow regimes in the 2 substrata treatments, flow speed and direction were measured on the tops of bommies and on the adjacent seafloor (n = 8 of each type) on 14 January 2008, using an Acoustic Doppler Velocimeter (ADV; 6 MHz Nortek Vector). We measured horizontal current speed, defined as √!U 2!+!V 2\", where U and V are the east-west and north-south velocity components, respectively (the sign convention is that east and north are positive), on the top of each bommie and on the adjacent seafloor for a 15 min period. An additional set of flow speed measurements was made in June 2008, in which an ADV was placed on the top of a 1.1 m tall bommie and another on the adjacent seafloor, and data were col-lected for a 24 h period. Data were recorded every sec-ond but averaged over 15 min periods. Water tempera-ture was recorded 10 times (about every other day) during the 30 d experiment with a hand-held ther-mometer (accuracy ±0.5°C) placed within 10 cm of the replicate cage and cage control pairs."
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 134,
+      "cited_text": "North Carolina 28516 USA 3Department of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara, California 93106-9610 USA 4Coastal Research Center, Marine Science Institute, University of California, Santa Barbara, California 93106-6150 USA Abstract. Hydrodynamic conditions can influence the distribution and abundance of aquatic species in many ways, including directly through disturbance and resource delivery, and indirectly by altering environmental cues and species interactions. In coral reef ecosystems, corallivory is an important top-down control of coral populations, while water motion can enhance coral performance via autotrophic and/or heterotrophic pathways. Using a large-scale field assay in Mo‘orea, French Polynesia, we measured the extent to which the growth of a branching acroporid coral is influenced by hydrodynamics that deliver nutrients and food to corals but also impede corallivory. We explored two hydrodynamic properties that characterized our study system, mean current velocity and current velocity fluctuation (a measure of waves and turbulence). In treatments where predators were excluded, coral skeletal growth was positively related to mean current velocity, whereas no effect of velocity fluctuations was detected. In the presence of predators, growth was positively related to velocity fluctuations, but no relationship with mean velocity was detected. The major effect of velocity fluctuations was to reduce the attack rate of corallivores by lowering both their per capita bite rate and local density. Corals thus benefited directly from increased currents, probably through enhanced autotrophy and/or heterotrophy, and indirectly from velocity fluctuations through reduced corallivory. Our data indicate that for the coral and locale we examined, the indirect hydrodynamic effect on coral performance via reduction in corallivory was substantial, increasing daily growth rate by 4%. Hydrodynamic enhancement of acroporid coral growth via simultaneous direct and indirect effects can be important for the persistence of coral reefs as well as their recovery following disturbance."
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 135,
+      "cited_text": "HUNTER S. LENIHAN ET AL.1542 Ecology, Vol. 96, No. 6 1) to test the influence of hydrodynamics and corallivory on coral growth. Coral nubbins were similar in size and shape to juvenile coral colonies. See Appendix C for details about the coral transplanting procedure. Partial predation by corallivores reduces growth of acroporid and other branching corals (Lenihan et al. 2011). Accordingly, we explored the effect of corallivory on performance of transplanted nubbins. To do this, we manipulated the access of corallivorous fishes to coral nubbins by using cages ($predator treatment) and cage controls (þpredator treatments, composed of partial cages); corals at each site were randomly assigned to treatments. Cages consisted of six-sided enclosures (153 15 3 15 cm) made of Vexar plastic (1-cm mesh size; Vexar Plastics, Los Angeles, California, USA), and cage controls were the same design but with two sides missing to allow corallivorous fishes access while exposing corals to hydrodynamic conditions similar to those within cages (Lenihan and Edmunds 2010). We used this size of predator exclusion cages and cage controls because, in a preliminary test, we observed butterflyfishes and other corallivores, especially spot-fin porcupinefish, white-spotted puffer, and the orange-striped triggerfish, biting branching corals within the cage controls, with all but the butterflyfishes leaving distinctive lesions. A no-cage treatment was not used, as prior trials revealed no difference in coral growth and intensity of corallivory on corals in cage controls vs. no-cage treatments. We also reasoned that, to control for the potential influence of mesh cages on local hydrodynamic conditions, and thus growth of transplanted nubbins, partially open cages allowed fish predation but also altered hydrodynamics in similar ways to predator exclusion cages. One replicate coral was placed in each cage or cage control by first fitting the cylindrical coral nubbin into a PVC plastic collar and then attaching the coral to the cage (N ¼ 12 cages and N ¼ 12 cage controls) with cable ties at each site. One $predator and one þpredator treatment were placed together on rigid wire mesh that was attached to a cinder block, which, in turn, was bolted to the seafloor. This design placed corals ;35 cm above the seafloor. Coral skeletal growth was measured after two weeks, and is reported with the variable coral growth measured in buoyant weight scaled to colony size. Following buoyant weighing, corals were dried at 608C, and their tissue areas measured using the wax dipping technique (Stimson and Kinzie 1991) to normalize growth rates to area (mg&cm$2&d$1). Coral growth difference measured the difference in daily coral growth between pairs of predator treatments [($predator) $ (þpredator)] located on each cinder block at each site (N ¼ 12 per site). Statistical treatment of this assay design is described in Statistical analyses."
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 136,
+      "cited_text": "Estimation of the intensity of corallivory To estimate the intensity of corallivory, we assessed separately the abundance of corallivorous fishes and their per capita attack (bite) rates at each site. Corallivore abundance measured all obligate and facultative corallivores, as recorded by the same observer (H. Lenihan), who counted fishes repeatedly along one 20 3 4 m transect located at each of the five sites. Every site was surveyed on each of eight days during the assay. Of the 31 species of corallivorous fishes observed, 14 were represented by a single individual observed only once over the course of the sampling, and these 14 species were excluded from analyses. The 17 most abundant species included four species of obligate corallivores (Chaetodon bennetti, C. lunulatus, C. ornatissimus, and C. trifascialis) and 13 species of facultative corallivores (Arothron hispidus, Balistapus undulatus, Diodon hystrix, Pseudobalistes flavimarginatus, Heniochus chrysostomus, Chaetodon auriga, C. citrinellus, C. ephippium, C. lunula, C. mertensii, C. pelewensis, C. quadrimaculatus, and C. vagabundus) (based on Cole et al. 2008)."
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 137,
+      "cited_text": "Bite rate measured the number of corallivore bites on corals, estimated during four days, by counting the number of bites taken by haphazardly selected focal chevron butterflyfish (Chaetodon trifascialis) at each site (N ¼ 3 fish per site per day). This species is an obligate corallivore (Pratchett et al. 2013), was relatively abundant throughout the study area, and displayed the same general pattern of distribution across the lagoon that we observed for all corallivores, obligate coralli-vores, and facultative corallivores (Appendix D: Fig. D1). All sampling was conducted between 08:30 and 11:00 each day. One observer (H. Lenihan) conducted all the sampling by selecting a fish that was observed initially attacking corals, and following that fish for a 5-min period, recording the number of bites taken. The diver maintained a distance of 5–8 m, so as not to interfere with the fish’s feeding activity. Data are reported as the grand means of all attack rates recorded for all 12 fish over the four-day period for each site. An index of consumer pressure for each site was generated by multiplying the mean abundance of C. trifascialis with the bite rate of C. trifascialis."
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 138,
+      "cited_text": "performance of juvenile branching acroporid corals is influenced directly by hydrodynamic conditions that enhance coral growth (e.g., through autotrophy and/or heterotrophy), and indirectly by limiting predation by corallivorous fish. If the relative influence of direct and indirect controls by hydrodynamic conditions can be identified, it has tremendous implications for conserva-tion and management of reef-forming corals. This is especially true for highly branched corals that have major positive effects on reef biodiversity (Holbrook et al. 2003, 2011, Johnson et al. 2011). We used a large-scale, multi-disciplinary field assay to explore direct and indirect effects of local heterogeneity in hydrodynamic conditions on growth of a common branching coral, Acropora elseyi, in lagoons of Mo‘orea, French Poly-"
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 139,
+      "cited_text": "Effects of hydrodynamics on coral growth We conducted our field assay to quantify effects of hydrodynamics on growth of Acropora elseyi in the austral summer (December). We transplanted A. elseyi coral nubbins to each of the five study sites (L1–L5; Fig. FIG. 1. A cross-section of the reef bathymetry, showing the location of the five study sites (L1–L5), the distance of the sites from the reef crest, and water depths. The scale of the horizontal, or x-axis, is greatly compressed. The predominant direction of the current within the lagoon is across the reef (left to right), driven primarily by waves breaking over the reef crest."
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 140,
+      "cited_text": "June 2015 1541HYDRODYNAMICS EFFECTS ON CORALS conceptual model has been previously studied in a number of reef flat systems (e.g., Hearn et al. 1999), including the field site examined here (Hench et al. 2008, Rosman and Hench 2011, Monismith et al. 2013). The Vaipahu Lagoon floor is a patchy mosaic of substrata (coral rubble, sand, and basalt bottom) interspersed with coral colonies ranging from ,1 cm to .3 m diameter. Mounding and massive corals (Porites spp.) are distributed across the three major lagoon habitats: back reef (adjacent to the barrier reef crest), mid-lagoon, and fringing reef (adjacent to shore). Juvenile and adult branching corals, predominantly Pocillopora and Acropora spp., are found in greatest abundance in the back reef (Lenihan et al. 2011). Mo‘orea’s lagoon supports relatively large populations of many corallivorous fishes, especially butterflyfishes (Chaetodon spp.; Chaetodontidae), spot-fin porcupine-fish (Diodon hystrix; Diodontidae), white-spotted puffer (Arothron hispidus; Tetradontidae), and several species of triggerfish (Balistidae) (Brooks 2014). See Appendix A for further details about the lagoon habitats."
+    },
+    {
+      "source_id": "40359446-8345-4a72-8169-af86ad3de9d6",
+      "citation_number": 141,
+      "cited_text": "Finally, we estimated the abundance of coral preda-tors in the relative vicinity of the field experiment by counting all corallivorous fishes along transect lines located on the forereef (just outside of the lagoon; 250 m from our experiments; 6 m water depth), in the back reef (within the lagoon; 10 to 100 m from the reef crest; 100 to 190 m from our experiments; 2 m water depth), and in the mid-lagoon (150 to 250 m from the reef crest; surrounding our experiments; 3 m water 55 Mar Ecol Prog Ser 409: 51–63, 2010"
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 142,
+      "cited_text": "RESULTS Patterns of hydrodynamics Mean velocity (ū) and velocity fluctuations (ru,med) varied substantially among the five sites but their correlation did not differ from zero (r ¼ 0.201; P . 0.10). Velocity was also uncorrelated with ru,tot (r ¼ 0.118; P . 0.30), ru,high (r¼ 0.138; P . 0.10), and ru,low (r¼ 0.137; P . 0.20). Current velocities were very low in the back reef just behind the reef crest (site L1¼ 13 6 2 cm/s; mean 6 SD) and also at the fringing reef site closest to shore (L5¼ 12 6 2 cm/s). They were greatest at L4 (31 [29, 33] cm/s) in the mid-lagoon, and lower at the other mid-lagoon sites (L2¼ 23 [20, 26] cm/s and L3 ¼15 [12, 18] cm/s) (see Appendix B: Fig. B2A for current velocity data). Mean velocity was probably highest at L4 because the flow from a relatively large proportion of the lagoon was funneled in by the local reef topography. In contrast to mean velocity, ru,med declined across the lagoon (see Appendix B: Fig. B2B for ru data). Velocity fluctuations were highest just behind the reef crest (L1¼ 10.8 cm/s), where velocity was low, and lowest at the innermost site (L5 ¼ 4.1 cm/s), with the remaining sites having intermediate values (L2¼ 9.4 cm/s, L3¼ 6.6 cm/ s, and L4 ¼ 7.8 cm/s). All frequency bands of velocity fluctuations showed the same trend across sites. This decrease in water velocity fluctuations across the lagoon was consistent with transformation and dissipation of incident offshore waves (Monismith et al. 2013) and drag (Rosman and Hench 2011) over rough reef topography. At sites L1 and L2, where velocity fluctuations were the greatest, hydrodynamic conditions were dominated by frequency fluctuations characteristic of passing waves and turbulent eddies. Water temper-atures varied minimally across the five sites, ranging from 28.72 6 0.478C to 28.94 6 0.458C (mean 6 SD), over the course of the study."
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 143,
+      "cited_text": "on coral growth (i.e., coral growth difference) was unrelated to mean current velocities (Fig. 4A; r2¼ 0.004; F1,4 ¼ 0.03, P . 0.50), but was related negatively to ru,med (Fig. 4B; r 2¼ 0.50, F1,4¼ 45.79, P , 0.01). Coral FIG. 2. Skeletal growth (mean and 95% CI) of Acropora elseyi as a function of the (A) mean current velocity and (B) velocity fluctuations (ru,med, a measure of waves and turbulence measured at each study site; see Methods: Hydrodynamic measurements). Data are from corallivorous fish exclusion treatments (i.e., full cages; $predator). N ¼ 12 corals for each growth measurement. The symbols L1–L5 indicate the five study sites (see Fig. 1)."
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 144,
+      "cited_text": "FIG. 6. (A) Density of all corallivorous fishes (no. corallivores/80 m2) and (B) per capita bite rate of C. trifascialis as a function of ru,med, a measure of waves and turbulence. N¼ 8 transects per site for fish density counts; N¼ 12 focal fish per site for the estimation of per capita bite rates. Values are means and 95% CI. HUNTER S. LENIHAN ET AL.1546 Ecology, Vol. 96, No. 6 predator–prey interactions involving fish, despite the ubiquitous presence of turbulence and/or waves in shallow water habitats. Yet consideration of these factors provided key insight in our study. Prior work has shown that turbulence reduces the capacity of zooplanktivorous fish from capturing suspended zoo-plankton (Kiflawi and Genin 1997), and that turbulence interferes with olfactory-based detection of benthic prey by crabs (Smee et al. 2010) and crayfish (Moore and Grills 1999). In turbulent flow, reef fish spend a relatively large amount of time in flow energy refuges (Johansen et al. 2007, 2008). Others have examined the influences of wave motion on the swimming modes of fish assemblages (Fulton and Bellwood 2005), the composition of reef fish assemblages (Friedlander et al. 2003, Fulton and Bellwood 2004, Fulton et al. 2005), the zonation of prey species attributed to the negative effects of wave energy on benthic predators, especially sea stars, crabs, and spiny lobsters (Leonard et al. 1998, Robles et al. 2001), and the simultaneous direct (displacement) and indirect effects (habitat structuring) of wave exposure on the distribution and abundance of crypto-benthic reef fishes (Santin and Willis 2007). Here we provide the first quantitative estimates of the direct"
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 145,
+      "cited_text": "METHODS Study site We conducted our study in Vaipahu Lagoon on the north shore of Mo‘orea, French Polynesia (178300 S, 1498500 W; see Plate 1). As with many island reef systems, Mo‘orea is exposed to offshore wave forcing that drives persistent across-reef hydrodynamic gradi-ents. Waves breaking over the reef crest drive water motion on the reef flat in two ways. First, while much of the incident wave energy is dissipated by wave breaking, some wave energy continues to propagate across the reef at a range of wave frequencies. Second, in a time-averaged sense, waves generate ‘‘set-up,’’ which is a super-elevation of the water surface near the reef crest. Wave set-up generates an across-reef horizontal pressure gradient force that drives a mean current toward the reef flat and lagoon. Currents and waves are modified and attenuated across the reef by turbulent dissipation over the rough coral substrate (Rosman and Hench 2011, Hench and Rosman 2013). Thus offshore wave forcing and drag due to the coral substrate produce gradients in both mean and oscillatory flow on the back reef. This"
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 146,
+      "cited_text": "Hydrodynamic measurements We explored the effects of hydrodynamics on growth of the branching coral Acropora elseyi at five lagoon sites located at increasing distances from the reef crest (sites L1–L5, Fig. 1). The sites were selected to permit simultaneous sampling across the hydrodynamic gradient and provide a framework to understand and quantify potential physical-biological interactions. We conducted hydrodynamic measurements so we could relate charac-teristics of hydrodynamic forcing to coral growth and corallivory. We focused on water motion that could influence the growth of corals through processes affecting gas exchange and the delivery of nutrients and food, and"
+    },
+    {
+      "source_id": "a67392b0-7a7e-43ad-917d-94febf750c1a",
+      "citation_number": 147,
+      "cited_text": "Manuscript received 10 June 2014; revised 6 November 2014; accepted 10 November 2014. Corresponding Editor: R. B. Aronson. 5 E-mail: lenihan@bren.ucsb.edu 1540 branched, or robust plating corals often occupy hydrodynamically exposed areas (e.g., outer shallow reef slopes). Massive, slow-growing corals can withstand high temperature, sediment loading, and low light levels, and so frequently dominate sheltered to semi-exposed habitats (e.g., fringing reefs). Delicate, highly branched, acroporid corals usually inhabit moderately exposed environments (e.g., at medium water depths on exposed reef slopes), where they have adapted through rapid growth, asexual reproduction, and other mechanisms (Jackson 1992). Similar patterns of coral community composition exist in lagoon environments (Lenihan et al. 2011). Of course, hydrodynamic conditions also benefit corals. For example, current velocity can increase the growth of coral colonies by improving mass transfer of gasses, nutrients, and metabolites across coral tissue (Jokiel 1978, Lesser et al. 1994, Falter et al. 2004), thus enhancing autotrophy (Sebens et al. 2003). Biotic stressors that help determine patterns of coral"
+    }
+  ]
+}

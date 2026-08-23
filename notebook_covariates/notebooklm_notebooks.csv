@@ -1,0 +1,4 @@
+role,notebook_id,title,source_count,url,created_at,modified_at,notes
+primary_all_sources,bb37eb1a-3b19-4f6c-9cc3-7df3a41e1388,Coral regeneration all sources,267,https://notebooklm.google.com/notebook/bb37eb1a-3b19-4f6c-9cc3-7df3a41e1388,2025-09-28T00:35:18Z,2026-08-13T04:38:11Z,"Primary all-source NotebookLM workspace for coral-regeneration extraction, covariate accessibility discovery, and batch validation."
+manuscript_cited_pdfs,d58364f7-1cf5-4f55-9528-6509248e2ceb,Stier wound-response MS - cited PDFs (2026-05-21),96,,,2026-08-13,"Related notebook for manuscript citation checks; not the primary extraction target."
+temperature_subset,c19961a0-7a59-47b6-bb45-9ae49c1e0246,Coral Regeneration Temperature,11,,,,Related temperature-focused notebook; not the primary extraction target.

@@ -1,0 +1,884 @@
+P.S.Z.N. I: Marine Ecology, 16 (4): 317-335 (1995)
+(Cj 1995 Blackwell Wissenschafts-Verlag, Berlin                               Accepted: July 10, 1995
+ISSN 0173-9565
+
+
+
+
+          Hurricanes Cause Population
+          Expansion of the Branching Coral
+          Acropora palmata (Scleractinia):
+          Wound Healing and Growth Patterns
+          of Asexual Recruits
+          P. FONG'& D. LIRMAN'
+
+          ' Department of Biology, University of California Los Angeles, 405 Hilgard Avenue,
+           Los Angeles CA 90024-1606, USA.
+          ' Rosenstiel School of Marine and Atmospheric Science, University of Miami,
+           4600 Rickenbacker Causeway, Miami FL 33149, USA.
+
+          With 8 figures and I table
+
+          Key words: Coral. reefs, hurricanes, populations, recruitment, disturbance, Florida Keys.
+
+Abstract. Three mechanisms aiding recovery and expansion of a population of Arropora palmala on a
+patch reef that was directly in the path of Hurricane Andrew were documented: rapid wound healing,
+high rates of asexual recruitment, and rapid growth rate of the new recruits. In addition, the growth
+pattern of new recruits was assessed in order to quantify the initial sequence of StrUCtUrdl changes
+during the transition from recruit to adult morphology. Wound healing was initially rapid (1.59cm of
+linear growth per month). but slowed with time. Nine months after the storm, 72% of 218 hurricane-
+generated fragments of A . pulmarci had cemented to the bottom, becoming new asexual recruits. Within
+18 months of the storm, the number of fragments in the same area had increased to 271, average
+fragment size was larger, and 94% had become recruits. Recruits showed complex patterns of branch
+formation, including rapid growth of solitary proto-branches, differential growth of proto-branches
+dependent on recruit orientation, and dominance within aggregates of proto-branches. We present a
+conceptual model that suggests A . pulmata is adapted to disturbances of both low intensity and high
+frequency (conditions typical of reef flat zones) and episodic high intensity and low frequency events
+(hurricanes and tropical storms).
+
+
+
+
+          Problem
+Disturbance is an important factor structuring coral reefs (GLYNN,1976; CONNELL,
+1978; HAY, 198 I ; HUGHES& JACKSON, 1985; HUSTON,1985; DONE,1992; WITMAN.
+1992; BYTHELL    rr d.,1993). Many types of disturbances to coral reefs have been
+documented across a wide range of spatial and temporal scales (e.y., KNOWLTON
+P I NI., 1981, 1990; PEARSON,1981; POTTS. 1983; STODDART,1985; WILLIAMS           &
+BUNKLEY-WILLIAMS,      1990; GLYNN,  1993; ROGERS,1993). One of the main objectives
+of recent coral reef research has been to establish links between the frequency and
+
+U. S. Copyright Clearance Center Code Statement: 0 173-9565/95/1604-03 17$11          .oo/o
+                                                                                                 14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+318                                                                        FONG& L l R M A N
+
+intensity of disturbances and the magnitude and timing of the effects in order
+to understand how disturbance affect different resident populations, community
+structure, and ultimately overall reef development.
+   Disturbance is believed not only to be a major source of temporal and spatial
+heterogeneity in the structure and dynamics of communities, but to be an agent of
+natural selection in the evolution of natural populations (SOUSA,1984). Conse-
+quently, the disturbance regime experienced by a community may act as a key
+factor in determining the life-history strategies of its components. ENDEAN&
+CAMERON    ( I 990) divide corals into two groups based on life-history strategies,
+opportunists and persisters. Traits associated with opportunists include large num-
+bers of propagules at frequent or timely intervals, high recruitment rates, rapid
+colony growth, short generation time, high adult mortality, a clumped distribution,
+and unstable local populations. Characteristics associated with persisters are slower
+colonization. low recruitment, slow growth, resistance to biological or physical
+disturbance, and dispersed distribution.
+   A croporu pa/nzura, a branching, upright coral with a tree-like morphology does
+not fall readily into this classification scheme as it has characteristics of both
+opportunists and persisters. Characteristics of A . pulniata attributed to oppor-
+tunistic species include fast growth and regeneration rates (GLADFELTER                et d.,
+1978; BAK & CRIENS,1981 ; HIGHSMITH,             1982). However, A . pnlmuta has limited
+sexual recruitment capabilities (DUSTAN,1977; RYLAARSDAM,                 1983; ROSESMYTH,
+1984) and allocates much energy to structural components (BAK& ENGEL,1979),
+characteristics attributed to persisters.
+   Studies of A . pulmata distribution and abundance suggest this species may
+be adapted to chronic levels of intermediate intensity physical disturbance as
+encountered in the shallow, exposed areas of reefs where it dominates (GOREAU,
+1959; GEISTER,      1977; GLADFELTER      ef a/., 1978; ROGERS    et al., 1982; JAPP, 1984;
+DUSTAN,1985; BYTHELLet al., 1991). A . pulmata has several adaptations that
+enable it to persist in high-energy environments, including a strong skeleton, a
+thick basal attachment to the substratum, and branches usually oriented parallel
+to the prevailing currents (GRAUSef al., 1977; SCHUHMACHER                & PLEWKA,      1981;
+GLADFELTER,      1991).
+   In some cases, A . pulniura has been found to be extremely susceptible to high
+intensity but low frequency disturbances, such as hurricanes or tropical storms.
+Significant fragmentation and dislodgment were reported after Hurricanes Edith
+(GLYNN   et ul., 1964), Gerta (HIGHSMITH       el al., 1980), Allen (WOODLEY    et u/., 1981).
+David and Frederic (ROGERS        ef al., 1982), Hugo (GLADFELTER,       1991), and Andrew
+(FONG   & LIRMAN,       1994). During Hurricane Allen, up to 95% of the existing A .
+pulnzatu cover in transects over the reefs of Discovery Bay, Jamaica, was lost
+(WOODLEY     r f ul., 1981).
+   Despite documented damage, there are indications that A . pulmatn is adapted to
+physical disturbance associated with hurricanes (JACKSON            & HUGHES,1985). The
+major propagation mode of A. palniuta in the Caribbean is colony fragmentation
+(HIGHSMITH,      1982; RYLAARSDAM,       1983; WALLACE,      1985), and it has been hypo-
+thesized that local dominance may be achieved by regeneration and subsequent rapid
+growth rates of hurricane-generated fragments (HIGHSMITH,             1982; HUSTON,1985;
+PORTER,1987), enabling A . pulnzata to re-cover and re-populate intensely disturbed
+areas (HIGHSMITH      et al., 1982; ROGERS   et ul., 1982; L ~ R M A&NFONG,1996a).
+                                                                                                            14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Hurricane-mediated population expansion                                                             319
+   The earliest stages of asexual recruitment of Acruporu paln7ata have been docu-
+mented. The deposition of live fragments of A . palmata has been reported after
+almost every major hurricane in the Caribbean (GLYNN       et a/., 1964; HIGHSMITH et
+a/., 1980; WOODLEY    et d.,  1981; ROGERSet al., 1982; GLADFELTER,     1991; FONG&
+LIRMAN, 1994). Early survivorship rates of hurricane-generated fragments from
+35-60 YOhave been measured, with a strong relationship between survivorship and
+fragment size (HIGHSMITH et a/., 1980; ROGERSet a/. 1982). In addition, BAK&
+CRIENS   (1981) found that stabilization of fragments was dependent on substrate
+type; there was a significant relationship between substrate type and both fragment
+survivorship and fusion. However, in only a few studies was the upward growth
+rate of new branches forming on hurricane-damaged colonies measured (ROGERS
+ct a/., 1982; GLADFELTER,    1991).
+   For A . palnwta recruits, quickly establishing upward growth leading to the adult
+morphology is very important as the arboreal shape may confer an advantage in
+competition for light (SHINN.1972; PORTER,1976); without this, A . pdmata is an
+inferior direct competitor for space (LANG,1973; JACKSON, 1991). However, the
+early structural changes that take place during the transition from a relatively flat
+fragment to the complex tree-like structure typical of an adult A . palniutci are
+largely unknown.
+   The objective of this study was to determine initial recovery rates and processes
+for the storm-damaged population of A . palmuta on Elkhorn reef. Three
+approaches were used. First, we measured the pattern and rate of wound-healing
+on colonies that were still standing after the storm. Second, temporal changes in
+the size-frequency distributions of fragments and new recruits were measured in
+order to quantify rates of sexual recruitment. Last, the pattern of initial growth of
+new recruits was assessed in order to quantify the initial sequence of structural
+changes during the transition from recruit (flat) to adult (tree-like) morphology.
+This was accomplished by sequential measures of the abundance, height, and
+spatial distribution of newly forming branches. We tested the hypotheses that the
+orientation and surface area of new recruits would significantly affect rates of early
+growth and survivorship.
+
+
+          Material and Methods
+           1. Study site
+
+Elkhorn reef (25 21.766”. 80 09.961‘W). in the northern region of the Florida Reef Tract (Fig. I).
+has been characterized as a transitional or embryonic bank reef (JAAP. 1984). It measures approximately
+4.5 hectares and is surrounded by sand plains and seagrass beds. Although it is a mid-shore formation
+located 2.5 km from the outer reef, it is afforded little protection from wave action as the fore-reef is
+discontinuous in the direction of the prevailing wind (east and south-east; SHINNP / d..1989). There is
+no typical reef crest formation. but a relatively wide and shallow reef flat.
+  On 24 August 1994, Hurricane Andrew. a compact and quickly moving storm, crossed the northern
+section of the Florida Reef Tract. Hurricane Andrew was a category 4 storm on the Satfir-Simpson
+hurricane damage-potential scale (AHRENS,1993). making it the largest storm to hit South Florida in
+at least 50 years. Maximum sustained winds of 225 km h - l with gusts of up to 285 krn h I were
+measured 15 km north of Elkhorn reef (POWELL& HOUSTON,1993; RAPPORT               & SHEETS.1993). I t is
+estimated that winds were slightly less than maximum. about 210 km h - ’ . directly over Elkhorn reef
+(Fig. I ) .
+                                                                                                            14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+320                                                                                    FONC;& LIKMAN
+
+
+
+
+Fig. 1. Map of South Florida including the path of Hurricane Andrew with demarcations indicating
+bands of approximate maximum sustained winds, the boundaries of Biscayne National Park, and
+several of the larger reefs of the northern Florida Reef Tract. The inset shows the location of the study
+site, Elkhorn reef.
+
+
+                                                                         el a/., 1994; T l L M A N T P I
+  Damage to the reef from hurricane-generated waves was very patchy (DAVIS
+a/., 1994). The worst damage was inflicted to dense aggregates of Acropora palmura upon the shallow
+reef flat (LIRMAN & FONG.1996a.b). The largest A . palmuta patch on the reef was severely damaged.
+with >60% of the colonies broken into fragments and transported to the back-reef area. These
+fragments formed a field of live 'rubble' that originated on the shoreward boundary of the reef flat and
+extended roughly 15 m westward.
+   In this study, we detined 'fragments' as those broken colonies o r branches that lacked a basal
+attachment to the substrate and were still covered by live tissue, regardless of size. Once a fragment
+reattached to the bottom, reducing the chance of being removed from the reef, it became a 'recruit'.
+Several months after Hurricane Andrew, we observed that many of these new recruits had developed
+small growth protuberances on their top and side surfaces. We termed these features 'proto-branches'.
+
+
+          2. Wound healing rates of damaged colonies
+
+The most common type ol' damage observed after Hurricane Andrew was broken Auopora pu/r~icirri
+branches. On 22 October 1992, an experiment was initiated to determine the rate at which A . pa/ma/tr
+                                                                                                                   14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Hurricane-mediated population expansion                                                                    32 1
+healed broken branch ends. We marked five large colonies, each with 5-8 injury sites, and took fixed-
+frame photographs ofeach lesion. On 14 December 1992 and 2 March 1993, injury sites on the surviving
+colonies were re-photographed. Sequential photographs of the lesions were projected onto a screen.
+Distances across several areas of each wound were measured, and using planimetry, the area of each
+wound estimated. From these sequential measures we calculated the healing rate as growth or expansion
+across the exposed skeleton as well as changes in wound area through time. The community that
+colonized the exposed skeleton was noted.
+
+
+
+           3. Distribution and survivorship of hurricane-generatedAcropora
+               palmafa recruits
+
+To quantify changes in the size-frequency distribution of fragments and recruits that were deposited i n
+the rubble ficld. 5 parallel transects were selected that originated on the shoreward edge of the reef flat
+where the rubble field started. and bisected the largest A . pulniulu fragment field on the reef. Along
+each transect. we flipped a I m’ quadrat from east to west until no more live fragments were found.
+The number of quadrats along each transect ranged from 8 to 12. Within each quadrat we counted the
+number of fragments. measured the size of each fragment as longest length and widest width. an noted
+whether the fragment was loose or cemented to the substrate. This survey was done in May 1993. 9
+months after the storm. and repeated in March 1994, 19 months after the storm.
+
+
+
+           4. Distribution, abundance, and growth rates of proto-branches
+
+In spring and early summer of 1993. many fragments had begun to regenerate. The process was initiated
+after most of the fragments had reattached to the benthos by accreting calcium carbonate skeleton
+between the fragment and substratum (LIRMAN        & FONG,1996a). By mid-June of 1993. small proto-
+branches appeared on the top and sides of nearly all of the surviving fragments.
+   On I July 1993 we niarked 6 fragments. noted orientation of each fragment as a deviation from the
+upright pre-hurricane position, and measured the initial size both photographically and irt s i r i r as longest
+length by widest width. We mapped the distribution of proto-branches on each recruit and measured
+their maximum height. These measurements were repeated on 6 October 1993. Analysis of variance
+was used to determine if there were any significant differences between the average height of proto-
+branches among fragments for each date.
+   Two hypotheses were developed to investigate differences in distribution and growth of proto-
+branches among colonies. The first hypothesis was that there would be differences in number and height
+of proto-branches on recruits due to the degree of change in orientation that the fragment experienced
+as a result of transport during the hurricane. The underlying rationale is that more energy would have
+to be expended to initiate upward growth by a coral colony that was further from the original
+orientation. and growth would thus be slower on fragments with greater deviations. Marked and
+measured fragments were divided into 2 categories. One group was rotated 180 from their original
+orientation on the ‘mother’ colony; these fragments were standing on what were the branch tips of the
+original colony. The rest of the fragments were lying flat on the benthos. or shifted 90 from the original
+orientation. Differences in proto-branch height due to fragment orientation were tested with /-tests.
+   Our second hypothesis was that the initial size of new recruits would have a significant effect on the
+abundance and/or height of proto-branches: more energy should be available lo allocate branch growth
+if more polyps were present on a recruit. We used regression analysis to quantify the relationship
+between initial Fragment size (estimated roughly as area by multiplying length by width) and proto-
+branch number and height.
+   The next objective was to assess how spatial distribution patterns of new proto-branches would affect
+their height. The sketch of each coral fragment revealed distinct patterns of proto-branch distribution
+on each colony, with some proto-branches being aggregated, while others were isolated. Proto-branches
+were segregated into ‘solitary’ and ‘aggregated’ categories by defining an aggregate as containing proto-
+branches < 5 cm from each other. and a solitary proto-branch as > 5 cm from other proto-branch. The
+hypothesis is that clustering of newly generated proto-branches would reduce their average growth. T-
+                                                                                                            14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+322                                                                                    FONC& LIKMAN
+tests compared the mean height of solitary vs. aggregated proto-branches and the height of solitary
+branches vs. the largest proto-branch within an aggregate.
+   Our last objective was to quantify the effect of being within an aggregate on thc growth rate and
+resultant size of new proto-branches, i.c>.. to quantify the patterns of variability within an aggrcgate.
+We hypothesized that, through time, one of the proto-branches within an aggregate would become
+dominant. This was based o n two lines of reasoning. First, as most adult colonies have a central haw.
+were reasoned that these aggregated and genetically identical proto-branches must eventually fuse
+undcr one dominant. The second argument is based on energy allocation. Under similar environmental
+conditions any two given 100 cm’ patches ofcoral tissue supporting new proto-branches will be xble to
+allocate roughly the same amount orenergy to one solitary proto-branch as to an entire aggregate of 3
+t o 7 proto-branches. One proto-branch may thus develop faster and eventually over-top or shade the
+others. T o investigate this variability we ranked proto-branches within 7 randomly selected aggregates
+from smallest to largest. and graphically compared average height among ranks for each sampling date
+using a one-way ANOVA followed by a Fisher’s PLSD inultiple comparison test. Lastly, the height of
+solitary proto-branches and the largest proto-branch within an aggregate were compared using a /-test.
+
+
+
+
+           1. Wound healing rates of damaged colonies
+Between the October and December sampling periods, the amount of disturbance
+to A . pulniutu increased considerably due to strong winter wind events (NWS,
+1993; LIRMAN     & FONG,1996b). Three of the five colonies marked in October for
+our lesion study were completely shattered, with large pieces still bearing tags
+transported to new locations. For those A . pulmutu colonies that survived this
+secondary disturbance (two colonies with 6 identifiable lesions), the rate at which
+tissue regenerated and expanded linearly over the exposed skeleton slowed with
+time (Table 1). The healing rate was faster in the first period (October-December)
+than in the second (December-March). There was no relationship between the
+initial area injured and the mean linear distance the ‘healing lip’ of the coral tissue
+moved over each injury (r’ = 0.006; P > 0.05); thus, the rate that the ‘healing lip’
+advanced over a wound was not dependent on the initial size of the wound.
+Variability in the rate that the tissue moved over the injuries was great; both the
+highest and lowest rates were measured in the first time period. This variability
+occurred because wounds did not always heal evenly, with one edge of tissue
+moving further than others.
+   In October, green filamentous macroalgae colonized 90% of the injury sites. By
+December this algal community changed to turfs dominated by red filamentous
+algae. These algal turfs did not vary visually among injury sites. Except for lack of
+a crustose coralline component, the turf did not appear to differ from the ubiquitous
+turf community that occupies hard substrates on other parts of Elkhorn reef
+(LIRMAN,    unpublished data). We did not observe colonization by sponges or coral
+recruits.
+   The area of tissue that covered the injury sites during the 5 month period
+(October-March) varied considerably between injuries (Table 1). There was a
+simple linear relationship between the initial size of the injury and the area of the
+wound that was covered by tissue during the interval (r2 = 0.87; P < 0.01); larger
+wounds resulted in larger areas healed. There was a significant relationship between
+the perimeter-to-area ratio (P : A ratio) and both the area (r2 = 0.75; P < .05) and
+                                                                                                                                                                                                                                                                                                                                                      2
+                                                                                           pulntura colonies that remained standing 6 months after Hurricane Andrew. Lesions were marked
+                     Table I . Wound-healing rates for six injury sites on two A c r c y w ~ ~
+                     and photographed with a fixed-distance framer on 22 October 1992 and 2 March 1993. Healing rates are reported as linear extension or planar distance that the tissue
+                     around the edge of a wound grew over the bared skeleton. Values are mean (k standard error) of n measurements of growth across the injury site (nd = no data).                                                                                                                                                                   E.
+                     Areas were estimated by weighing paper cutouts of each injury photograph and transforming weight to area. Mean growth is in cm month- I, areas are in cm'. and                                                                                                                                                                   g.
+                     area recovered in cm' month I.                          ~                                                                                                                                                                                                                                                                        3
+                                                                                                                                                                                                                                                                                                                                                      z
+                                                                                                           mean growth                                                     initial area                      initial                perimeter/                    area recovered                         % area recovered
+                     colony no.                     lesion no.                     TILT2                     T2-T3                              TI-T3                         [cm']                        perimeter                   area                           T 1-T3                                       TILT3                              2-.
+                                                                                                                                                                                                                                                                                                                                                       0
+
+                     3                                      2                    I .80 (0.72)                 1.32 (0.66)                   1.91 (0.51)                           48.1                          48.8                        I                                2.3                                      21.1
+                                                                                    n=3                          n=3                             n=7
+                     3                                      3                    3.89 (0.53)                  1.24 (0.90)                  2.42 (0.82)                          105.3                           56.2                       0.5                               6                                        24.8
+                                                                                    n=2                          n=3                          n=4
+                      3                                     4                    2.38 (0.31)                  0.83 (0.33)                  1.46 (0.17)                            12.6                          19.9                        1.6                              1.2                                       42
+                                                                                    n = 10                      n = 10                        n = 10
+                      3                                      5                   0.28 (0.35)                  0.19 (0.24)                  0.41 (0.16)                            69.6                          65.8                       0.9                               3.6                                      22.3
+                                                                                    n = 10                      n = 10                        n = 10
+                      3                                     6                         nd                          nd                       1.97 (0.49)                            88.7                          51.2                       0.6                               3.4                                       17
+                                                                                                                                               n=7
+                     4                                      4                          nd                            nd                     1.50 (0.23)                           11.8                          19.3                        I .6                              1.6                                     59.3
+                                                                                                                                               n=8
+                      overall mean (SE) =                                        1.59 (0.31)                  0.78 (0.21)                   1.47 (0.16)                                                                                                                 3.0 (0.7)                                31.1 (6.7)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                      W
+                                                                                                                                                                                                                                                                                                                                                      N
+                                                                                                                                                                                                                                                                                                                                                      ..
+                                                                                                                                                                                                                                                                                                                                                      w
+
+
+
+
+14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+                                                                                                        14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+324                                                                                FONG& LlRMAN
+
+percentage (r' = 0.75; P < 0.05) of tissue regenerated. The P : A ratio provides an
+estimate of wound shape. Round wounds (low P : A ratio) healed a smaller per-
+centage of the initial wound area than wounds with a flattened or compressed
+shape (high P : A ratio). Thus, the number of coral polyps along the edge of a
+wound that were available to bud and form new tissue was directly related to the
+amount of tissue regenerated.
+
+
+            2. Survival of hurricane-generated Acropora palmata
+               fragments
+In May 1993, 9 months after the storm, 218 fragments in 48-1 m' quadrats within
+the hurricane-generated field of fragments were measured (mean = 4.56 frag-
+ments. m-'; S.E. = 0.54). Most fragments were longer than 5 cm (Fig. 2), possibly
+because few smaller fragments were generated or because fragments of this size
+had rapid mortality in the first 9 months. The greatest abundance of hurricane-
+generated fragments was in the next three 5-cm-wide size classes, with a longest
+length from 5 to 20 cm. Forty-nine percent of the fragments were 5-20 cm, 40%
+20-50 cm, and 1 I YO 2 5 0 cm. At this time, 72% of the sampled fragments had
+cemented to the substratum, becoming new recruits. There was no difference in
+mean size (longest length) of uncemented and cemented recruits (/-test; P = 0.56).
+   More fragments were recorded within our transects during the March 1994
+survey than in the previous year; 271 fragments (mean = 5.24 fragments.in-';
+S.E. = 0.6). By this survey (19 months after the storm), 94% of the sampled
+fragments had become cemented recruits. Size did not significantly affect the
+rate of asexual recruitment: there was no difference in mean size of recruits and
+uncemented fragments (/-test; P = 0.80). Mean fragment size did not differ sig-
+
+
+
+      55
+                                                                                        1993
+      50
+                                                                                        1994
+      45
+      40
+      35
+      30
+      25
+      20
+       15
+       10
+        5
+        0
+
+
+
+
+Fig. 2. Size-frequency distributions of coral fragments and recruits found in the 48 m2 of hurricane-
+generated rubble surveyed in May 1993 and March 1994.
+                                                                                             14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Hurricane-mediated population expansion                                              325
+nificantly between 1993 and 1994 (t-test; P = 0.945). The relative distribution of
+fragments in the small (5-20 cm), medium (20-50 cm), and large ( > 50 cm) ranges
+were 53, 29, and 1 I , respectively (Fig. 2) in 1994. During our surveys we observed
+several small or medium-sized fragments that had developed continuous tissue
+connections among them, making them almost indistinguishable.
+
+
+         3. Distribution, abundance, and growth rates of proto-
+            branches
+The number of proto-branches on each of the coral recruits ranged from 17 to 36
+(Fig. 3a). There were significant differences between the mean height of these
+branches on different coral colonies both in July (ANOVA; P < 0.05) and October
+(ANOVA; P < 0.001). However, the patterns were different in the two sampling
+periods. In July, the hierarchy for average proto-branch height was recruit
+2 > 3 = 4 = I = 6 = 5 (Fig. 3b, Fisher’s PLSD). By October the hierarchy changed
+to 3 = 2 = I = 6 > 5 = 4 (Fig. 3c, Fisher’s PLSD). This change in hierarchy
+reflected different average growth rates (Fig. 3d, ANOVA P < 0.001). Growth
+rates of proto-branches on recruits 3, I , and 6 were significantly faster than those
+on recruits 5 and 4, while the mean rate on recruit 2 was intermediate, differing
+significantly from only the fastest (3) and slowest (4) rates (Fisher’s PLSD).
+   The average growth rate of proto-branches on colony 4 was negative. Polyps
+surrounding each proto-branch also grow, increasing the height of the tissue
+surrounding each proto-branch. Since net proto-branch growth is the difference
+between the growth of polyps on the branch and polyp growth on the surface of
+the recruit, a possible explanation for the observed negative growth is that the
+surrounding tissue grew faster than the proto-branch. GLADFELTER           c’t id. ( 1979)
+also noted that the deposition of skeletal material on the arms of A . pulniritrr
+sometimes exceeds that of the growing tips.
+   The final position of the recruit compared to its original orientation on the
+colony had a significant, but short-term, effect on proto-branch height (Fig. 4a). I t
+significantly affected height in July (1-test, P < 0.05), but not in October (1-test.
+P = 0.70). In July, proto-branches on recruits that were lying flat (rotated 90 )
+were larger than those that were upside down (rotated 180 ). By October. the
+difference was no longer significant. In contrast, the shift in orientation of the
+original branch did not affect the number of new proto-branches in July (!-test,
+P = 0.42) or October (t-test, P = 0.54). There were no differences between the
+mean proto-branch numbers on differently oriented corals (Fig. 4b), and their
+abundance did not change between sampling periods.
+   The size of a recruit affected the number of proto-branches on that recruit, with
+a significant linear relationship between initial area of a recruit and branch number
+(r2 = 0.855; Fig. 5a). However, no significant relationships were found between
+initial size and proto-branch height (r’ < 0.05; Fig. 5b).
+   Proto-branches that were distributed within an aggregate ( < 5 cm apart) were
+significantly smaller than those that were solitary ( > 5 cm from any other proto-
+branch; Fig. 6; t-test, P < 0.05 in July and October). In July, the mean height of
+the solitary category was 2.9 cm (S.E. = 0.2; n = 40) vs. 2.4 cm (S.E. = 0. I ; n = 82)
+in the aggregated category. Although all branches grew between July and October,
+                                                                                                        14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+326
+
+
+
+
+                  E
+                  r"
+
+
+
+
+                  A
+                 r
+
+
+
+
+                                                recruit (n)
+Fig. 3. Pcrtterns of distribution and abundance of proto-branches among Ai,ropor~/pu/nio/ti recruits.
+Panels show: (a) number of proto-branches on each recruit;average proto-branch height on each recruit
+in (b) July and ( c ) October; (d) average growth rate of proto-branches between the two sampling
+periods. Bars are standard errors.
+
+
+the mean height of the solitary types was still larger than that of aggregated types,
+3.9 cm (S.E. = 0.3; n = 40) and 3.2 cm (S.E. = 0.2; n = 83), respectively. Solitary
+proto-branches grew significantly faster than those within an aggregation (!-test,
+P < 0.05): 0.53 cm . month-' (S.E. = 0.05) versus 0.20 cm . month-' (S.E. = 0.09).
+The variability of the growth rate within an aggregate was also much higher.
+  The effect of proximity to other proto-branches on the largest branch within an
+aggregate was determined by comparing heights of solitary and largest within-
+                                                                                                               14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Hurricaric-mediated population expansion                                                               327
+
+
+
+
+                                                earnpiing period
+Fig. 4. Dilferences in ( a ) average height and. ( b )number of proto-branches in relationship to the degrcc
+01' rotation that the recruit experienced from the tinie it was attached to the 'mother' colony. Rccruits
+were grouped into two categories. Recruits in one category were originally upright branches tliiit ended
+up lying flat on the benthos (rotated 90 ). Recruits i n the other category were sections o f the mother
+colon! that landed upside-down on the branch tips.
+
+
+
+aggregate branches. The mean height of the latter was not significantly diflerent
+from that of the solitary types in either July ([-test; P = 0.60) or October (/-test:
+P = 0.56). In July, the mean height of the largest within-aggregate branch was 2.9
+cm (S.E. = 0.2). while solitary branches measured 3.1 (S.E. = 0.3). In October. the
+corresponding values 3.9 (S.E. = 0.3) and 4.3 (S.E. = 0.3), but this difference was
+not significant.
+   To test for the effect of being within an aggregate, such proto-branches were
+ranked from largest to smallest (Fig. 7a). There was a difference in the mean
+size among ranks in both July (ANOVA; P < 0.001) and October (ANOVA;
+P < 0.0001). In July, mean height within an aggregate ranged from I .O (S.E. = 0.0)
+in the smallest to 3.2 (S.E. = 0.2) in the largest rank. In October, the value in the
+                                                                                                               14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+328                                                                                             FONG& LIRMAN
+
+
+
+
+                        "       #   .      ,   .         I
+
+                            0           2000       4000         6000        8000    10000
+                                                       recruit area (cm )
+
+
+
+
+                  r
+                                                   b              b          * October height
+
+
+
+
+                            0       2000           4000         6000        8000    10000
+                                                                       2
+                                                       recruit area (cm )
+Fig. 5 . Relationship between (a) proto-branch number and (b) proto-branch height and recruit size
+estimated as live tissue area (cm'). Squares with inset diamonds in panel b signify overlapping data
+points.
+
+
+
+
+                                                   sampling perlod
+Fig. 6. Differences in average height of solitary and aggregated proto-branches in the two sampling
+periods. Solitary proto-branches were > 5 cm away from other proto-branches and aggregated proto-
+branches were > 5 cm apart. Bars are standard errors.
+                                                                                                         14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Hurricane-mediated population expansion                                                          329
+
+
+
+
+                                 rank helght of proto-branch In aggregate
+Fig. 7. DiKerences in (a) average height and (b) average growth rate of aggregated proto-branches in
+the two sampling periods. Proto-branches were ranked from smallest (rank 1) to largest (rank 8 ) based
+on height. Bars are standard errors.
+
+
+largest rank was 4.2 cm (S.E. = 0.2), while it remained 1.0 cm (S.E. = 0.0) in the
+smallest rank. In both sampling periods, mean proto-branch height in the two
+largest ranks was significantly larger than in the other 6 ranks (Fisher’s PLSD).
+Within the smallest 6 ranks, growth from July to October was extremely variable
+(Fig. 7b), ranging from -0.042 (S.E. = 0.142) to 0.167 (S.E. = 0.167). Mean
+growth rate within the largest two ranks was also variable, but higher than in the
+other ranks.
+
+
+          Discussion
+Acroporu puknuru is adapted to disturbance, but has very different adaptive stra-
+tegies for different disturbance regimes (Fig. 8). A chronic (high frequency), inter-
+mediate intensity disturbance regime (e.g., reef flat zone) favours the maintenance
+of dense adult populations at relatively stable abundances. Adaptations to this
+                                                                                                              14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+330                                                                                       F o N ( ~& LlHMAN
+                                           disturbance frequency
+            intermediate                                                              w high
+
+
+
+
+Fig. 8 . C'onctptuiil model of the adaptntions ol' Acroponr pubrrirrtr t o dillerent disturbance regimcb
+
+
+disturbance regime had been previously documented (SCHUHMACHIIR               & PLIWKA.
+1981; ROGERSC~      UI., 1982; BACK& CRims, 1981; BAK, 1983). When both frequency
+and intensity of disturbance are decreased (c.g., deeper, more sheltered zones), the
+species can be found as isolated colonies that d o not aggregate into dense patches.
+In sheltered areas, A . pu/n?u/u colonies do not fragment as often, resulting i n
+decreased asexual recruitment. This, coupled with A . ~ ~ I I I I N I N ' S
+                                                                        limited success
+in space competition ( LANG, 1973; JACKSON, 199l), may explain the observed
+distribution. In this study, we documented that low frequency but high intensity
+disturbance (c..q.,hurricanes and tropical storms) favoured the rapid expansion of
+an A . pu/tuu/upopulation by asexual recruitment of hurricane-generated fragments
+and persistence of injured adults by wound healing.
+   I t i contrast. .41*roporu c~cri~ic~orrti.~.
+                                          another branching species believed to be
+adapted to high energy environments, has a different strategy for high intcnsity
+disturbance, sacrificing persistence of adults for new asexual recruits. This congener
+does not allocate as much energy as A . pultnurrrr to enhancing adult persistence. but
+may instead fragment completely forming many asexual propagules (GILMOKI:              &
+H A L L . 1976; TUNNICLIFE'E,   1981; 1983; JACKSON   & HUGHES,1985). For example.
+prior to Hurricane Allen, 80% of the A . cwr2icorni.s colonies surveyed on transccts
+across three zones of the reefs of Discovery Bay were formed from broken and
+recemented fragments (TUNNICLIFFE,       198 I ; 1983).
+   Wound healing is a trait that aids in coral recovery, and thus is an aduptnticm
+to any sort of a disturbance. BAK (1983) showed 100% regeneration of artilicially
+produced sinall lesions ( 1 cm') within 80 days. Our study on naturally-produced
+lesions showed less recovery. One explanation may be that variability in sizc
+and orientation of these natural lesions afTected growth. Alteratively. hurricane-
+damaged colonies may have healed each wound more slowly because of the extcnt
+of the colony injury. The average linear growth over the lesions produced by
+Hurricane Andrew is similar to the regeneration rates of A . p u / m ~ t ulesions marked
+                                                                                                14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Hurricdne-mediated population expansion                                               331
+after Hurricanes David and Frederic in St. Croix (ROGERS           c f al., 1982). In our
+study, the shape of the resulting lesion (i.e., the number of polyps on the periphery)
+was the most important factor affecting the regeneration process.
+   Our results supported other findings that healing rates of natural and artificially
+produced lesions on A . palniura, as well as other coral species, slowed with time
+(BAK& STEWARD         VAN-ES, 1980; ROGERS   rt u/., 1982; BAK,1983). Similarly, GLAD-
+FELTER (1991) showed that the areal growth of A . pulniata ‘crusts’ decreased
+significantly during winter months. One possible explanation is that winter con-
+ditions (changes in temperature, light, and turbidiiy) reduced growth. However, it
+is not clear if these factors cause the reduced healing rate we recorded for injuries
+on Elkhorn reef. We measured the fastest growth in October through December,
+with slower growth from December through March, both periods when many of
+these factors are fluctuating.
+   A trait that promoted both recover and expansion of the Acroporu p c i l t n u t ~ ~
+population following hurricane damage was the high rate of asexual recruitment
+from fragments. A large percentage of the hurricane-generated fragments reat-
+tached to the substratum, forming new recruits in areas that were not previously
+occupied by A . palmata and expanding the area covered or dominated by the
+population (LIRMAN        & FONG,unpublished data). Although early mortality rates
+(0-9 months after the storm) were not measured. in the intermediate term (9 to 18
+months) we observed that few fragments died completely. Fragments became
+smaller by partial mortality and larger by tissue expansion and fusion. The fusion
+of A . pu/tnutu fragments has been previously reported by BAK& CRIENS          ( 1 98 I ) and
+ROGERS    rt a/. ( 1982).
+   New recruits of Acroporu pulniata underwent rapid initial growth. On Elkhorn
+reef, the new growth was directed into upward growth rather than into rapid areal
+or planar expansion as was found after catastrophic predation on Acroporu spp.
+by Acuntliuster plunci (COLGAN,       1987). This may be because A . plunci predation
+leaves behind intact, upright skeletons, while hurricanes flatten them, and re-
+covering old skeleton may cost less energetically than growing one. Planar growth
+or ‘sheeting’ was observed for sexual recruits of A . palmafa growing on dead
+standing skeletons of the same species (JORDAN-DAHLGREN,           1992). Growth rates
+measured for the proto-branches (average = 3.6 cm . a-’) were slower than those
+recorded for branches on intact, undisturbed A . pulrnata colonies (4-1 1 cni
+BAK, 1976; GLADFELTER       et al., 1978; ROGERS  et a/., 1982; GLADFELTER,   199 I ). This
+slower growth may be partly due to the disturbance experienced by the fragments
+and the energy spent in stabilization and fusion.
+   Two years after the storm, it is still unclear what sequence of structural changes
+the recruits will undergo to achieve adult morphology; this sequence will have to
+be followed over a longer time scale. However, patterns of early growth were
+uncovered across several spatial scales, from among recruits to among proto-
+branches within an aggregate. The only factor that affected proto-branch abun-
+dance was the initial size (area) of the recruit, indicating there is a finite number of
+new branches that a given area of tissue can support. Interestingly, all of the new
+proto-branches initiated at about the same time in early summer, and no new ones
+formed in the 9 months between sampling periods. On the other hand, growth rate
+and subsequent height was controlled, at least in the short-term, by the orientation
+of the fragment. The longer-term growth rate of proto-branches was controlled,
+                                                                                         14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+332                                                                    FONC;& LIHMAN
+
+to some degree, by distribution within a recruit. This occurred in two ways. First,
+growth of solitary proto-branches was faster than of branches in aggregates,
+suggesting that the former may become primary stalks. In addition, the within-
+aggregate effect on proto-branch growth suggests that one or two branches within
+each aggregate may become dominant.
+   One interesting observation about the growth patterns of the new recruits was
+the similarity to patterns of growth in higher plants, especially trees. In a similar
+analogy, TUNNICLIPFE     ( 1983) compared regeneration and growth of Acroporu L'CJI'-
+ticornis to the 'weedy' habit or brambles. There are two main similarities between
+the growth of new recruits of Acroporapulmutu and trees. First, the proto-branches
+of A . pulmatu are all initiated at the same time, much like buds in a temperate tree,
+suggesting a seasonal or temporal cue. Alternatively, growth of recruits may be
+synchronized by the need for a recovery period before they can produce new
+growth. In addition, since a considerable amount of energy may be spent in the
+stabilization process, upward growth may be delayed until this is achieved. The
+second similarity to tree growth is that, within an aggregate, one of the proto-
+branches 'dominates', and the others have reduced growth rates. This is analogous
+to plants exhibiting apical dominance. In trees, this dominant-subdominant
+relationship is tightly regulated by growth hormones; the controlling factors in
+new A. palniatu recruits are unknown. We hypothesize that, after sufficient growth,
+'solitary' proto-branches may become 'aggregated' at a larger scale, and this pattern
+of one becoming dominant and subsuming the rest may be repeated until the
+Elkhorn colony has the typical adult morphology.
+   Several authors believe it unlikely that organisms can evolve adaptive responses
+to disturbances such as hurricanes, because they occur very seldom relative to
+generation times (PAINE,     1979; SOUSA,  1984). However, hurricanes may not occur
+infrequently for corals that have continuous growth and often reproduce by colony
+fragmentation. These traits may result in high generation overlap and the long-
+term persistence o f a given genotype (POTTS.1983). Thus, a given population may
+be exposed to several major disturbances during its lifespan. VOGL(1980) maintains
+that organisms and the communities in which they exist must be considered in
+terms of the species' lifespans and life cycles.
+   In addition, smaller-magnitude disturbances of the same kind as hurricanes (~..y.,
+seasonal storms, groundings) occur at regular intervals. In the case of A . pulmutcr
+populations, the smaller-scale disturbances they encounter on a seasonal basis may
+have resulted in the evolution of features that may also aid recovery after major
+disturbance events such as infrequent hurricanes.
+
+
+         Summary
+Initial recovery of a population of the branching coral Acroporupulmaru damaged
+during Hurricane Andrew (Biscayne National Park, northern Florida Reef Tract,
+USA) was documented. Recovery was measured in three ways: the rate of wound-
+healing of damaged adults, hurricane-generated asexual recruitment rate, and the
+pattern and rate of initial upward growth of new recruits. Immediately after the
+storm, wounds on surviving adult colonies - formed when branches were
+broken ~-healed rapidly ( I .59 cm of linear growth per month); however, this
+                                                                                                                        14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    Hurricane-mediated population expansion                                                                    333
+growth slowed with time and few wounds healed completely within the 18 months
+of the study. In this study, a broken fragment was considered an asexual recruit
+when it stabilized by cementation to the substratum. Nine months after the storm,
+72 % of 21 8 hurricane-generated fragments of A . pulmutu had become cemented
+to the substratum. Within I8 months of the storm, the number of fragments in the
+same area had increased to 271, average fragment size was larger, and 9.5% had
+become recruits. This suggests that, although significant damage was occurring
+well after the hurricane, recovery via asexual recruitment was significant. Once
+cemented, recruits showed complex patterns of branch formation, including rapid
+growth of solitary proto-branches, differential growth of proto-branches dependent
+on recruit orientation, and dominance within aggregates of proto-branches. We
+present a conceptual model that suggest A . pulrnutu is adapted to disturbances of
+both low intensity and high frequency (conditions typical of reef flat zones) and
+episodic high intensity and low frequency events (hurricanes and tropical storms).
+
+
+             Acknowledgements
+This research was funded. in part, by NSF grant no. OCE-9-00649 to the University of Miami.
+Additional support was provided by the E. 0. Dunn Foundation and the Key Biscayne Rotary Club.
+Biscayne National Park provided field support. We thank RICHARD
+                                                              CURRY,  Science Director for BNP.
+as well as our volunteer divers, JUANMATE,GUILLERMO      DIAZ.MAIAMCGUIRE.ANDREW         BAKIX.
+CARLOSR I V ~ R Oand
+                   , many others. Thanks are also extended to LAURAKAPLANfor help with the
+figures.
+
+
+
+             References
+
+AHR~NS     C. D., 1993: Essentials of Meteorology. West Publishing Co.. Minneapolis; 437 pp.
+BAK.K. P. M.. 1976: The growth of coral colonies and the importance of crustose coralline algae and
+     burrowing sponges in relation with carbonate accumulation. Neth. J. Sea Res.. 1 0 285-337.
+- -. 1983: Neoplasia. regeneration and growth in the reef-building coral AW(JjMJrU / ~ d n i r r / c r .Mar. Biol..
+     77: 221-227.
+~ - & S. R. CRIENS.1981: Survival after fragmentation of colonies of Mrrdrucis riiiruhi/is. A c . r o / x m
+     ptr/rw/rr and A . crwicorrii.v (Scleractinia) and the subsequent impact of a coral disease. Proc. 4th
+     Int. Coral Reef Symp.. 2: 221-227.
+- - & M. S. ENGFL.1979: Distribution, abundance and survival ofjuvenile corals (Sclerectinia) and the
+     importance of life history strategies in the parent coral community. Mar. Biol.. 5 4 341-352.
+- - & Y . STEWARII         VAN-ES. 1980: Regeneration of superficial damage in the Scleractinian corals ,.l,quric.icr
+     u,yerr.icifie.sj:, I J U I ~ W U and Porifes usfreoiekc,,s.Bull. Mar. Sci.. 3 0 883-887.
+BYTtlr..LL. J. C.. E. H. GLAWELTER            & M. BYTtiEi-t., 1993: Chronic and catastrophic natural mortality
+     of three common Caribbean corals. Coral Reefs, 12: 143-152.
+-~-  E.,H. GLADFELTER.             W. B. GLAIWELTER,      K. FRENCH,   & S. HILLIS,1991: Chapter 2. In: Ecological
+     Studies of Buck Island Reef National Monument. St. Croix. U.S. Virgin Islands. U.S. Department
+     of the Interior, National Park Service. U.S. Virgin Islands: 8-27.
+COLOAN,M. W.. 1987: Coral reef recovery on Guam (Micronesia) after catastrophic predation by
+     A c u t t h s f e r pkrznci 1987. Ecology, 68: 1592-1605.
+CONNELL. J . H.. 1978: Diversity in tropical rain forests and coral reefs. Science. 199: 1302-1310.
+DAVIS,G. E., L. L. LOOPE,C. T. ROMAN,               T. J . SMITH111, J. T. TILMANT&    M. SOUKUP.1994: Assessment
+     of the impacts of Hurricane Andrew on natural and archeological resources. US Department of
+     the Interior, National Park Service, Denver, CO; 152 pp,
+DONE.T. J., 1992: Constancy and change in some Great Barrier Reef coral communities: 1980-1990.
+     Am. Zool., 32: 6 5 5 4 6 2 .
+DUSTAN,    P., 1977: Vitality of coral reef populations off Key Largo, Florida: recruitment and mortality.
+     Env. Geol.. 2: 51-58.
+                                                                                                                  14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+334                                                                                           FONG& LIKMAN
+            .. 1985: Community structure of reef-building corals in the Florida Keys: Carysfort Reef, Key Largo
+     and Long Key Reef, Dry Tortugas. Atoll Res. Bull., 288 1-29.
+ENWAN.R. & A. M. CAMERON, 1990: Trends and new perspectives in coral-reef ecology. In: Z.
+     Dubinksy (Ed.). Ecosystems of the World. No. 25: 469-492.
+FONC;.P. & D. LIRMAN.1994: Damage and recovery on a coral reef following Hurricane Andrew.
+     National Geographic Research and Exploration, 1 0 I 16-131.
+GEISTER.   J., 1977: The influence of wave exposure on the ecological zonation of Caribbean coral reefs.
+     Proc. 3rd Int. Coral Reef Symp.. I: 23-30.
+GII.MORE.   M. D. & B. R. HAM.,1976: Life-history, growth habits, and constructional roles of Acrop~roi
+     crriirorrris in the patch reef environment. Sediment. Petrol.. 4 6 519-522.
+GLADFELTIX,     E. H.. R. K. MONAIIAN,          & W. B. GLADFELTER,    1978: Growth rates of tive reef-building
+     corals in the northeastern Caribbean. Bull. Mar. Sci., 28: 728-734.
+        -.
+     W. B. GLADFELTI~R,         D. K. HUHHAKD,      R. C. CARPENTER   & G . S. SIMPSON,    1979: Environmental
+     Studies of Buck Island Reef National Monument, St. Croix. U.S. Virgin Islands. U S . Department
+     of the Interior. National Park Service, U.S. Virgin Islands; 172 pp.
+GLADFELTER.     W. B..1991: Population structure of Acroporu pu/niu/u on the windward forereef, Buck
+     Island National Monument: seasonal and catastrophic changes 1988-1989. Chapter 5. In: Eco-
+     logical Studies of Buck Island Reef National Monument, St. Croix, U.S. Virgin Islands U.S.
+      Department of the Interior, National Park Service, U S . Virgin Islands: 59-67.
+GLYNN.P. W.. 1976: Some physical and biological determinants of coral community structure in the
+     eastern Pacific. Ecol. Monogr. 4 6 431-456.
+    ~         .
+     1993: Coral reef bleaching: Ecological perspectives. Coral Reefs, 12: 1-17.
+    ~L. R. ALMODOVAK.
+        - %                     & J . G . GONZALEZ,    1964: Etfects of hurricane Edith on marine life i n La
+     Parguera, Puerto Rico. Caribb. J. Sci.. 4 335-345.
+GORI~AU,    T. F. 1959: The ecology of Jamaican coral reefs. I. Specifies composition and zonation.
+      Ecology, 4 0 67- 90.
+GRAUS.R. R.. J . A. C i i A M r w u . A i N & A. M . BOKER, 1977: Structural moditication of corals in relation
+     to waves and currents. Am. Assoc. Petrol. Geol., 4 135-153.
+HAY,M. E., 1981: The functional morphology of turf-forming seaweeds: persistence in stressful marine
+     habitats. Ecology, 62: 739-750.
+HIGIISMITH,    R. C. 1982: Reproduction by fragmentation in corals. Mar. Ecol. Prog. Ser.. 7: 207 226.
+  -, A. C. Ric;c;s & C. M. D'ANTONIO, 1980: Survival of hurricane generated coral fragments and ii
+     disturbance model of reef calcitication/growth rates. Oecologia, 4 6 322- 329.
+HLIGIIES.T. P. & J. B. C. JACKSON. 1985: Population dynamics and life histories of foliaceous corals.
+      Ecol. Monogr.. 55: 141 166.
+HUSTON.M., 1985: Patterns of species diversity on coral reefs. Annu. Rev. Ecol. Syst.. 16: 149-177.
+JAAP.W. C.. 1984: The ecology of the south Florida coral reefs: a community prolile. U S . Fish. Wildl.
+      Sew. FWS/OBS-82/08: 138 pp.
+JACKSON,    J. B. C., 1991: Adaptation and diversity of reefcorals. Bioscience. 41: 474482.
+    & T. P. HUGHES,1985: Adaptive strategies of coral-reef invertebrates. Am. Sci. 73: 265-274.
+    ~   ~
+
+
+
+
+JORI)AN-DAH~.~;           E.,R E N . Recolonization patterns of Acrc)purupolriirirci in a marginal environment.
+                               1992:
+      Bull. Mar. Sci.. 51: 104- 117.
+KOWLTON.N.. J. C. LAN(;. & B. D. KELI-ER.1990: Case study of natural population collapse: post-
+      hurricane predation on Jamaican staghorn corals. Smithson. Contrib. Mar. Sci. 31: 1-25.
+   , J. C. L A N ~ ; ,M . C. ROONEY,       & P. CLIFI:ORD. 1981: Evidence for delayed mortality in hurricane-
+     damaged Jamaican staghorn corals. Nature. 294 251-252.
+LAN(;, J., 1973: Interspecific aggression by Sclerectinian corals. 2. Why the race is not only to the swift.
+      Bull. Mar. Sci. 23 260-279.
+LIRMAN,    D. & P. FONG,1996a: Patterns of damage to the branching coral Acroporu pultiiutu following
+      Hurricane Andrew: damage and survivorship of hurricane-generated asexual recruits. Journal of
+      Coastal Research. Vol. 12.
+  -& P. FONG.1996b: Sequential storms cause zone-specific damage on a reef in the northern Florida
+      reef tract: evidence from Hurricane Andrew and the 1993 storm of the century. Florida Scientist.
+      5 9 5&64.
+NATIONAL     WEATHER      SERVIW,     1993: LCD report (1975-1993). Miami, FL. USA: 1-8.
+ PAIN^, R. T.. 1979: Disaster, catastrophe and local persistence of the sea palm Pos/e/siupubnrw/6,nii.u.
+      Science, 205: 685-687.
+PEARSON.    R. G . . 1981: Recovery and recolonization ofcoral reefs. Mar. Ecol. Prog. Ser.. 4: 105 122.
+PORTER.J . W.. 1976: Autotrophy, heterotrophy, and resource partitioning in Caribbean reef-building
+     corals. Am. Nat.. 110 731-742.
+~       ~.
+     1987: Species profiles: life-histories and environmental requirements of co
+     ebrates (South Florida) -- reef-building corals. U.S. Fish Wildl. Serv. Biol. Re. 82(11.73), U.S.
+      Army Corps of Engineers, T R EL-82-4; 23 pp.
+- - & 0. W. MEIER,1992: Quantification of loss and change in Floridian reef coral populations. Am.
+      Zool.. 32: 625-640.
+                                                                                                                   14390485, 1995, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0485.1995.tb00415.x by University Of California, Wiley Online Library on [13/04/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Hurric~une-mediatedpopulation expansion                                                                335
+P~TTS.   D. C.. 1983: Evolutionary disequilibrium among Indo-Pacific corals. Bull. Mar. Sci.. 33: 6 1 9 ~
+      632.
+POWICLL.     M. D. & S. H. HOUSTON.1993: Surface wind field analyses i n Hurricane Andrew. Seventh
+      U.S. Conference on Wind Engineering: 523-532.
+RAPPAPOKT.        E. D. & R. C. Sirerm, 1993: A meteorological analysis of Hurricane Andrew. 15th Annual
+      Nalional Hurricane Conference: 1--18.
+Ro(ikRs. C. S.. 1993: Hurricanes and coral reefs: the intermediate hypothesis revisited. Coral reels. 12:
+      127 137.
+  -,T. H. SLIWANIX           & F. A. PECOKA.  1982: Effects of hurricanes David and Frederic (1979) on shallow
+      A c r o p ~ r updnitrtrr reef communities: St. Croix. U.S. Virgin Islands. Bull. Mar. Sci.. 32: 532-548.
+ROSESMYTH. M . C.. 1984: Growth and survival of sexually produced A c r q m u recruits: a post-hurricane
+      study at Discovery Bay. Jamaica (extended abstract). In: Advances in Reef Science. University of
+      Miami, Florida: 105 106.
+                          ~
+
+
+
+
+RYLAARSDAM,          K. M.. 1983: Life histories and abundance patterns of colonial corals on Jamaican reefs.
+      Mar. Ecol. Prog. Ser., 13: 249-260.
+S C I I U I ~ M A ~H.  ~ I I&I ~M.
+                                 K ,PLEWKA, 198 I: The adaptive significance of mechanical properties vcrsus
+     morphological adjustments in skeletons of Acwporu puhiu/ci and Acroporcr c~rrricwiii.s(Cnidaria.
+     Scleractinia). Proc. 4th Int. Coral Reef Symp.. 2: 121 -128.
+SHINS.E. A., 1972: Coral reef recovery in Florida and the Persian Gulf. Env. Cons. Dept.. Shell Oil
+     Co.. Houston. Texas; 9 pp.
+ -, B. H. LIDZ. J. L. KINDINGEK, J. H. HUDSON            & R. B. HALLEY.     1989: Reefs of Florida and the Dry
+     Tortugas (Field Trip Guidebook TI 76). American Geophysics Union, Washington. DC; 53 pp.
+SOUSA. W. P.. 1984: The role of disturbance in natural communities. Annu. Rev. Ecol. Syst., IS: 353
+     350.
+STOI1I)ART. D. R.. 1963: Erects of Hurricane Hattie on the British Honduras reefs and cays. Oct. 30k
+     31. 1961. Atoll R ~ s .Bull.. 95: 1-142.
+--.  1985: Hurricane effects on coral reefs. Proc. 5th Int. Coral Reef Congr.. Tahiti. 3: 349-350.
+TILMANT.      J. T.. R. W. CUKKY.R. JONES.A. SZMANT.             J. C. ZIEMAN,  M. FLOKA.M. B. Ro1wLIt. D.
+     SMITII. R. W. SNOW & H. WANLESS.1994: Hurricane Andrew's effects on marine resources.
+     Bioscience. 44: 2 3 0 237.
+TUNNI(~i.itl:I:.V.. 198 I : Breakage and propagation of the stony coral Ac,i'f>p>rrJ ccwic~oriiis.Proc. Natl.
+     Acad. Sci.. 78: 2427-2431.
+- ~,1983: Caribbean staghorn coral populatirons: pre-hurricane Allen conditions in Discovery Buy.
+     Jamaica. Bull. Mar. Sci.. 33: 132- I5 I .
+VCK~L.   R. J.. 1980: The ecological Factors that produce perturbation-dependent ecosystems. In: The
+     Recovery Process in Damaged Ecosystems, Chapter 2. Ann Arbor Science Publishers. Ann Arbor.
+     Michigan. USA: 167 pp.
+WALLAC'IL       C. C., 1985: Reproduction, recruitment and fragnientation in nine sympatric species or the
+     coral genus Acwporcr Mar. Biol., 8 8 217-233.
+WILLIAMS.       E. H. & L. BUNKLEY-WILLIAMS.        JR. 1990: The world-wide coral reef bleaching cycle and
+     related sources o f coral mortality. Atoll Res. Bull., 335: I - 71.
+WITMAN.      J . D.. 1992: Physical disturbance and community structure of exposed and protected reefs: a
+     case study. Am. 2001..32: 641-654.
+WtX~I)I.IlY.J. D.. E. A. CHOKNESKY,        P. A. CLIFtOKI), J. B. C . JACKSON,  L. S. KAUbMAN. N. KNOWL.I'ON.
+     J. C. LANG.M. P. PEAKSON.         J. W. PORTER,   M. C. R O ~ E Y  K.. W. RYLAARSDAM.    V. J. TVNNICLIIII.
+     C. M. WAIILI:.J. L. WULFI..A. S. G. CURTIS.M. D. DALLMEYEK,                B. D. JUPP.M. A. R. KOI.HL.J.
+     N I ~ G E I&. E. M. SIIES. 1981: Hurricane Allen's impact on Jamaican coral reefs. Science, 214 749-
+     755.
+

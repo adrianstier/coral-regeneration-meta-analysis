@@ -1,0 +1,1849 @@
+                        UNIVERSITY OF CALIFORNIA
+
+                                   Santa Barbara
+
+
+
+
+Host and Symbiont Physiology During Wound Regeneration in Acropora pulchra Under
+
+                               Warming Conditions
+
+
+
+
+                  A Thesis submitted in partial satisfaction of the
+
+                   requirements for the degree Master of Science
+
+                    in Ecology, Evolution, and Marine Biology
+
+
+
+                                         by
+
+
+
+                               Ninah Jumamil Munk
+
+
+
+                               Committee in charge:
+
+                          Professor Hillary Young, Chair
+
+                         Professor Leander DL Anderegg
+
+                              Emily Donham, Ph.D.
+
+
+
+                                  September 2024
+       The thesis of Ninah Jumamil Munk is approved.
+
+
+
+_____________________________________________
+
+Leander DL Anderegg
+
+
+
+_____________________________________________
+
+Emily Donham
+
+
+
+_____________________________________________
+
+Hillary Young, Committee Chair
+
+
+
+
+                      September 2024
+                                 ACKNOWLEDGEMENTS
+
+       I acknowledge the cultural, social, spiritual, and economic significance of coral reefs
+
+to the Māʻohi (Native Tahitian) community who have engaged in direct stewardship with these
+
+ecosystems for time immemorial. I intend my work to support the continued management and
+
+stewardship of coral reef ecosystems and resources by the Māʻohi community.
+
+       Thank you to my family, friends, committee members, lab mates, fellow UCSB
+
+graduate students, and staff at Gump Station for their endless support as I completed this thesis.
+
+Most importantly, thank you to my mom and dad, Flo and Dennis. Also, a special thank you
+
+to my stepdad, Markie. A very heartfelt thank you to my grandparents, Bill and Pennye, who
+
+are always my biggest cheerleaders. Thank you to my wonderful and caring friends and lab
+
+mates who kept a smile on my face through this entire project. Finally, thank you to Shane for
+
+always showing up for me, I am so grateful.
+
+
+
+
+                                                 iii
+                                        ABSTRACT
+
+
+
+ Effects of Warming on Host and Symbiont Physiology During Wound Regeneration in the
+
+                                   Coral Acropora pulchra
+
+
+
+                                              by
+
+
+
+                                    Ninah Jumamil Munk
+
+
+
+Reef-building corals exhibit remarkable regenerative capabilities, enabling recovery from a
+
+range of physical disturbances. However, coral regeneration can incur significant energetic
+
+costs leading to tradeoffs with growth or reproduction. This physiological constraint may be
+
+exacerbated by stressful conditions, such as warming that can disrupt nutrient acquisition by
+
+algal endosymbionts (Symbiodinaceae). In this study, I investigate the role of temperature
+
+(27.9℃ & 29.5℃) and injury (abrasion & fragmentation) on energy acquisition, allocation,
+
+and utilization during regeneration. To explore these dynamics, I conducted a controlled
+
+mesocosm experiment in Moorea, French Polynesia, using a prominent reef building coral,
+
+Acropora pulchra. Overall, regeneration was achieved in 92% of corals 19 days post-injury,
+
+however tissue regeneration was faster in abraded corals. Interestingly, I found no significant
+
+effects of injury or temperature on growth rates of A. pulchra. This may be explained by a
+
+limited increase in respiration with significant increases in productivity (daily P:R) during
+
+regeneration. These results support the use of genus Acropora as an ideal candidate for coral
+
+restoration due to their capacity to rapidly regenerate from physical damage. Although I found
+
+
+
+                                                iv
+no evidence for a physiological tradeoff between growth and regeneration, these results
+
+highlight the importance of a broader investigation of physiological tradeoffs (or a lack thereof)
+
+as they apply to coral restoration efforts. As coral restoration practitioners aim to scale up
+
+production of propagated corals in land-based facilities, it is crucial to assess regenerative
+
+capacity and anticipate physiological tradeoffs for injured coral fragments under future
+
+warming conditions.
+
+
+
+
+                                                  v
+                                       INTRODUCTION
+
+       Reef-building corals possess an extraordinary ability to regenerate, restoring damaged
+
+tissue and skeleton following various disturbances such as predation (Rotjan and Lewis, 2008),
+
+storms (Madin and Connolly, 2006), and bleaching events (Hoegh-Guldberg et. al. 2017;
+
+Hughes et. al., 2017). This capacity for self-repair is exemplified in Acropora species that are
+
+known to rapidly regrow fragmented branches (Bak, 1983) as well as the “Phoenix effect”
+
+(Roff et. al., 2014), where new coral tissue regrows over dead skeletons that were previously
+
+covered in macro algae (Dias et. al., 2018). However, there can be significant energetic costs
+
+for tissue repair and skeletal regrowth, that can lead to trade-offs between regeneration and
+
+growth or reproduction (Henry & Hart, 2005; Rinkevich, 1996).
+
+       Corals primarily obtain energy through a symbiotic relationship with photosynthetic
+
+algae (Symbiodinaceae), which can provide up to 90% of their nutritional energy (Muscatine,
+
+1990). Research on a facultatively symbiotic coral, Astrangia poculata, shows that the
+
+presence of algal symbionts significantly increases healing capacity, even when corals have
+
+access to additional food sources (i.e., heterotrophy). This suggests that symbiosis may play
+
+an important role in facilitating coral recovery (Burmester et al., 2017; DeFilippo et al., 2016),
+
+however, it’s still unclear how environmental drivers (e.g., temperature) might constrain the
+
+healing capacity of coral symbionts.
+
+       Previous studies on how temperature influences coral regeneration reveal a complex
+
+picture, with the impacts of elevated temperature on healing and associated costs varying
+
+across species and environmental contexts. Research on Acropora species, known for their
+
+rapid growth, suggests that exposure to high temperatures can hinder wound recovery and
+
+
+
+                                                  1
+skeletal regrowth (Bonesso et al., 2017), potentially due to resource limitations and trade-offs
+
+with growth (Meesters et al., 1994; Denis et al., 2013). Conversely, in cauliflower corals of the
+
+genus Pocillopora, elevated temperatures, within certain limits, might actually enhance or
+
+maintain growth rates in injured corals due to trade-offs with wound healing (Lenihan and
+
+Edmunds, 2010; Rice et. al., 2019). Importantly, none of these studies assess the mechanistic
+
+underpinnings of trade-offs during regeneration which could offer critical insight into
+
+mechanisms of these variable responses. In particular, our understanding of how energy
+
+demand and energy acquisition is altered during regeneration processes is limited, but may
+
+shed light on how resources are allocated to other processes such as growth. Yet, because
+
+temperature stress can decouple the coral-algal symbiosis, rising temperatures may
+
+significantly affect the innate regenerative capacity of corals (Meesters & Bak, 1993; Bonesso
+
+et al., 2017). Given increases in the prevalence of marine heatwaves and global warming,
+
+understanding how warming impacts coral regeneration will be crucial for predicting future
+
+changes to coral reefs.
+
+       The relationship between coral regeneration and warming may also depend on the
+
+different types of injuries corals can experience. Superficial wounds (e.g., scraping by fish or
+
+mild abrasion by algae) may have different healing dynamics compared to more extensive
+
+injuries that involve removal of both tissue and skeletal structure [e.g., excavating predators,
+
+storm damage (Hall, 1997; Meesters et al., 1997)]. Wound characteristics such as the depth
+
+and size of the wound, the presence of residual tissue, and the extent of skeletal damage can
+
+all influence the healing process and interact with environmental factors like temperature
+
+(Meesters et al., 1997). For instance, deeper wounds with no remaining tissue may be more
+
+susceptible to infection and exhibit slower healing rates, especially under elevated
+
+
+
+                                                 2
+temperatures, as the coral's immune response is challenged and resources are diverted towards
+
+tissue repair (van de Water et al., 2015a). In contrast, superficial wounds with residual tissues
+
+left behind may be less impacted by temperature changes and heal more rapidly due to the
+
+availability of resources and the ability to regenerate from the wound margins (Lirman, 2000).
+
+Therefore, coral recovery dynamics, are likely to be dependent on the type of injury a coral is
+
+subjected (i.e., wound characteristics) and how warming interacts with the healing process over
+
+time as corals are actively regenerating.
+
+
+   To address these knowledge gaps and investigate how injury type and warming impact
+
+coral physiology and regeneration throughout the healing process I conducted a controlled
+
+mesocosm experiment in Moorea, French Polynesia, focusing on the branching coral Acropora
+
+pulchra. I subjected coral fragments to two distinct types of injuries: superficial tissue
+
+abrasions (hereafter abrasion) and skeletal fragmentation (hereafter fragmentation), simulating
+
+damage caused by different types of disturbances. I then exposed injured corals to either
+
+ambient (27.9℃) or warming (29.5℃°) seawater conditions in a fully factorial design to assess
+
+the impact of warming on coral regeneration and physiological tradeoffs. At the beginning (day
+
+1) , middle (day 10), and end (day 19) of the experiment, I documented regeneration (healing)
+
+of tissue, corallites, and polyps and quantified various metrics of coral physiology, including
+
+respiration rate (energy demand), photosynthetic rate and efficiency (energy acquisition), and
+
+calcification (growth) rate. Overall, I had four guiding hypotheses. Firstly, I hypothesized that
+
+warming will slow regeneration by disrupting the energy input (photosynthesis) required to
+
+fuel regeneration, with fewer corals fully healed by the end of the study in warming
+
+temperatures compared to ambient. Secondly, I hypothesized that remnant tissue in abrasions
+
+will allow for more rapid healing of damaged tissue (the phoenix effect), with more abraded
+
+
+                                                 3
+corals fully healed by the middle of the study compared to fragmented corals. Thirdly, I
+
+hypothesized that injury and warming will initially raise energy demand and lower energy
+
+acquisition as coral energetics respond to acute stress, but then energy demand will lower and
+
+energy acquisition will increase over time as corals heal and acclimate to warming conditions.
+
+Finally, and building on these prior hypotheses, I hypothesized that injury and warming will
+
+decrease calcification due to shifts in coral energetics [i.e., increased energy demand
+
+(respiration) and decreased energy acquisition (photosynthesis)] with the combined effects
+
+being greater than either effect in isolation. By assessing these hypotheses with respect to
+
+injury, warming, and their interaction I aimed to gain a deeper understanding of the energetic
+
+mechanisms underpinning coral regeneration and the potential consequences of rising ocean
+
+temperatures.
+
+
+
+                                        METHODS
+
+
+Study site
+
+       I conducted my study during the austral winter (May 28th to July 3rd, 2023) in Moorea,
+
+French Polynesia at Richard B. Gump Marine Research Station. Moorea is an ideal study
+
+system to study coral regeneration and the influence of ocean warming because it frequently
+
+experiences physical disturbance events from storms and crown of thorns sea star predation
+
+and also has regular warming related mortality events, such that these are highly relevant
+
+stressors to the system. I focused on Acropora pulchra due to its ecological significance as a
+
+prominent reef building coral on the fringing reef surrounding Moorea. This branching species
+
+grows in large thickets, some more than 20 meters in length, creating massive structures for
+
+
+
+                                                4
+reef fish and benthic organisms (Mapstone et al., 2007; Johnson et al., 2011). Additionally,
+
+from an application perspective, branching species of the genus Acropora are the most
+
+commonly targeted species in coral restoration (Boström-Einarsson et al., 2020) because of
+
+their recruitment success through asexual fragmentation and fast-growing life history strategy.
+
+       To address this question I harvested branches of A. pulchra from six distinct thickets
+
+(i.e., physically separated by sand patches or other reef substrata) along a fringing reef on the
+
+northern shore of Moorea (17.48725° S, 149.88693° W) and transported them to flow-through
+
+seawater tables at Gump Station for further processing.
+
+
+Coral processing and experimental design
+
+       Immediately after collection, coral branches were cut into fragments and transferred to
+
+partially recirculating seawater aquaria for two weeks of acclimation to tank conditions. I cut
+
+branches using a Gryphon Diamond Blade Saw to create 18 fragments (~6 cm in height) per
+
+thicket (hereafter, parental colony) producing a total of 108 A. pulchra fragments. Each
+
+fragment was secured to an aragonite coral plug (Ocean Wonders) with bonding glue (Bulk
+
+Reef Supply). I allowed glued fragments to cure in a flow-through seawater table for several
+
+minutes before transferring them to six identical partially recirculating seawater aquaria
+
+separated by parental colony. Each coral aquaria (20 L, N=6) exchanged filtered seawater (200
+
+μm) with one of two sumps which were continuously supplied with new seawater from Cook’s
+
+Bay, adjacent to Gump Station. Each sump contained a submersible pump to transport seawater
+
+through a three-output manifold to three of the six tanks for a flow rate between 244 to 298
+
+L/hr. Seawater was heated in the elevated temperature sump with a Finnex TH Deluxe
+
+Titanium Heating Element controlled by a Neptune Systems A3 Apex Pro Controller. I
+
+maintained two temperature treatments representing current (ambient) and future (elevated)
+
+                                                 5
+temperature conditions (ambient = 27.9°C; warming = 29.5℃). Temperature loggers (HOBO
+
+Pendant MX) recorded seawater temperature every 10 minutes in tanks and sumps. After two
+
+weeks of acclimation, injury (fragmentation or abrasion) and temperature (ambient or
+
+warming) treatments were randomly assigned to each coral fragment within each parental
+
+colony. I haphazardly distributed fragments in aquaria according to their assigned temperature
+
+treatment, maintaining a fully crossed experimental design.
+
+
+Wound regeneration
+
+       I experimentally wounded A. pulchra to simulate one of two injury types: 1) abrasion
+
+and 2) fragmentation. An abrasion injury was simulated by scraping the surface area of a
+
+branch trip (1 cm in length) with a tapered micro spatula tool. A fragmentation injury was
+
+simulated by cutting off a branch tip (1 cm in length) using a Gryphon Diamond Blade Saw. I
+
+calculate the amount of tissue removed with the formula for surface area of a cylinder (CSA)
+
+disregarding one of the circular faces: CSA = 2πrh + πr 2 . Photographs of wounds were taken
+
+with an Olympus Tough TG-6 camera at four time points (0, 1, 10, 19 days) and analyzed in
+
+ImageJ to quantify wound area and signs of healing. I documented signs of healing for a subset
+
+of A. pulchra (n = 24). Signs of healing included polyp, corallite, and tissue regeneration
+
+(Meesters et al., 1994). Polyp regeneration is defined as the re-emergence of tentacles,
+
+identifiable by dark pigmentation (symbionts) inside corallites within the wound site. Corallite
+
+regeneration is defined as the visual re-growth (linear extension) of radial or apical corallite
+
+structures within abrasion and fragmentation wound sites, respectively. Tissue regeneration is
+
+defined as new tissue growth within the wound site, identifiable by symbiont re-pigmentation
+
+and the restoration of A. pulchras’ tissue pattern. Signs of healing for polyp, corallite, and
+
+
+
+                                                 6
+tissue regeneration were documented separately as a ‘yes’ or ‘no’ for both injury types at each
+
+timepoint.
+
+
+Holobiont performance
+
+       Metabolism of the coral holobiont (host, symbiont, bacteria) can be quantified by
+
+measuring respiration rate. Respiration consumes resources produced by photosynthesis and is
+
+sensitive to extrinsic factors which are energetically costly. I conducted respirometry at each
+
+timepoint of this study to examine coral holobiont respiration (light-enhanced dark respiration)
+
+(Barott et al., 2021; Innis et al., 2021) throughout regeneration from experimental wounding
+
+at two temperature regimes. Coral fragments were individually loaded into acrylic chambers
+
+(650 mL) (Australian Institute of Marine Science) filled with filtered seawater (200 μm)
+
+ensuring no air bubbles were present. Loaded chambers contained 1’’ magnetic stirrer bars and
+
+were secured onto a motorized stir plate (Australian Institute of Marine Science) and
+
+submerged in a temperature-controlled water bath (Inkbird). Seawater used to fill chambers,
+
+and the water bath were kept at 28°C and 30°C for ambient and warming temperature trials,
+
+respectively. Oxygen concentration ([O2]) and temperature were recorded within each
+
+chamber every three seconds throughout the trial with a Presens Oxygen Meter (OXY-10 SMA
+
+(G2) Regensburg, Germany) equipped with Presens Oxygen Dipping Probes (DP-PSt7) and
+
+Presens Temperature Sensors (Pt1000). Immediately following data collection for
+
+photosynthesis (see methods for Symbiont Performance), I measured light-enhanced dark
+
+respiration for 15 minutes in complete darkness in order to achieve a stable negative [O2]
+
+slope. Each coral fragment (N=108) was randomly assigned to one of three groups to run 12
+
+trials across three days (four trials day ) for a single time point. Respiration rates were
+                                          -1
+
+
+
+
+determined using repeated local linear regressions with the R package LoLinR (Olito et al.
+
+                                                 7
+2017) with L as the linearity metric (L = sum of the percentile-ranks of the Z scores for
+                pc                        pc                                       min
+
+
+
+
+each component metric and alpha set to 0.5 (alpha = the minimum proportion of total
+
+observations needed to fit local regressions). Respiration rates were standardized by the
+
+volume of water in the chamber (vol of chamber – vol of coral fragment) and initial geometric
+
+surface area of the coral fragment. Initial geometric surface area was obtained for each coral
+
+by measuring branch length and width with digital calipers, calculating CSA (see equation
+
+under ‘Wound Regeneration’) for each branch, and taking the sum of branch surface areas for
+
+each coral. O2 rates measured post-injury were standardized using initial geometric surface
+
+area minus wound surface area (i.e., the area of coral tissue removed or damaged by the
+
+injury).
+
+
+Symbiont performance
+
+           Photosynthesis by algal symbionts (Symbiodinaceae) is the primary source of oxygen
+
+and nutritional energy for the zooxanthellate coral host to fuel metabolic processes. Like
+
+respiration, photosynthesis may be influenced by extrinsic factors and/or the capacity of light-
+
+harvesting machinery to capture and convert light energy into photosynthetic products. I
+
+examined algal symbiont performance by quantifying net photosynthetic rate and measuring
+
+photosynthetic efficiency. Net photosynthesis (PNet) was measured during a light phase of each
+
+respirometry trial. Light intensity was controlled by an LED light (Neptune Systems Sky LED
+
+Aquarium Light) positioned ~16’’ above the chambers. P Net was measured for 15 minutes at
+
+100% light intensity (344 土 69 μmol m-2 s-1, Apogee MQ-210X Underwater Quantum Meter).
+
+In order to achieve a stable positive [O2] slope, each coral was light acclimated (5 min at 40%
+
+and 5 min at 70% light intensity) prior to measuring photosynthesis. PNet rates were determined
+
+
+
+                                                 8
+using repeated local linear regressions with the R package LoLinR (Olito et al. 2017) as
+
+described above for respiration rate measurements. PNet rates were standardized for each coral
+
+fragment by the volume of water in the chamber and surface area of the coral fragment. Gross
+
+photosynthesis (PGross) was calculated as PNet plus respiration (as a positive value). I calculated
+
+daily P:R ratios (Coles and Jokiel, 1977; Krueger, 2019) from hourly rates of PGross and
+
+respiration (R) for a 11h:13h day:night cycle (the length of light and dark hours in Moorea
+
+during austral winter) with the following equation:
+
+                        Daily P:R = 11 x PGross h-1/13 x Respiration h-1
+
+Daily P:R ratios are an approximation of a daily coral metabolic budget (Odum and Odum,
+
+1955). A ratio greater than 1 can be indicative of net autotrophy, suggesting a coral is producing
+
+more energy than it demands. A ratio of less than 1 suggests net heterotrophy, where energetic
+
+demand is surpassing production.
+
+       I also measured photosynthetic efficiency (F /F ) of each coral throughout the study
+                                                        v   m
+
+
+
+
+(day 0, 10, 19) with an Underwater Fluorometer Diving-PAM (Heinz Walz GmbH, Germany).
+
+Photosynthetic efficiency can be broadly defined as the capacity of light harvesting machinery
+
+to capture light energy for photosynthesis. In corals, a significant drop in F /F can signal a
+                                                                                 v   m
+
+
+
+
+disruption of energy transfer in photosystem II, which can be caused by abiotic stressors
+
+including elevated temperature (Warner et. al., 2010). Corals were dark acclimated before
+
+measuring photosynthetic efficiency by taking measurements 30 minutes to an hour after
+
+sunset. Three measurements were taken per coral and averaged to produce a single F /F value.
+                                                                                         v   m
+
+
+
+
+Growth quantification
+
+       To test if wounding affected growth rate, I determined the rate of calcification (growth)
+
+during regeneration. Dry skeletal mass was derived from coral buoyant weights (Davies 1989)
+
+                                                  9
+using an aragonite density of 2.93 (Jokiel 1978). I quantified calcification rate by taking the
+
+difference in dry skeletal mass (final – initial) of each coral fragment and normalizing by final
+
+surface area and time (19 days) to report as mg cm day . Final surface area was derived by
+                                                      -2   -1
+
+
+
+
+wax-dipping dry coral skeletons to calculate surface area against a standard curve of mass
+
+difference of wax-dipped dowels with geometrically calculated surface area (R > 0.9). Wax
+                                                                                   2
+
+
+
+
+derived final surface areas were highly correlated with geometrically derived initial surface
+
+areas (r = 0.8).
+
+
+Unexpected presence of Acropora eating flatworms
+
+        Acropora Eating Flatworms (AEFW) were found in the experimental aquaria during
+
+day 1 of the experiment and eradicated by manual removal after visually inspecting each
+
+individual coral. To document the impact of these worms, a single person visually examined
+
+each individual coral to record 1) if there was evidence of tissue predation (i.e., bite marks)
+
+and if so 2) an estimation of percent tissue removal. To assess the impact of tissue removal by
+
+AEFW on coral growth, I included AEFW percent tissue removal as a continuous covariate in
+
+my initial growth model. Upon finding that AEFW percent tissue removal was statistically
+
+significant, I iteratively filtered the growth data, decreasing the threshold of percent removal
+
+until its effect was no longer significant in the model. For all subsequent respiration,
+
+photosynthesis, daily P:R, photosynthetic efficiency, and growth analyses, I include only corals
+
+with less than or equal to 10% damage by AEFW, N = 71. Subsequent regeneration analysis
+
+also includes only corals with less than or equal to 10% damage by AEFW, N = 14. .
+
+
+Statistical analysis
+
+
+
+                                                 10
+       To assess how injury and temperature impact coral energetics, I fit linear mixed models
+
+to respiration, net photosynthesis, gross photosynthesis, daily P:R, and photosynthetic
+
+efficiency with injury (non-injured, abrasion, or fragmentation), temperature (ambient or
+
+warming), time (1st, 10th, or 19th day of treatment, coded categorically as beginning, middle,
+
+and end, respectively), and all two-way interactions and a three way interaction between injury,
+
+temperature, and time as fixed effects using the lme4 package in R (Bates et al. 2015). Parental
+
+colony was included as a random effect, with individual coral nested within parental colony to
+
+allow random intercepts for each coral individual. To determine how injury and temperature
+
+impact coral growth, I also fit a linear mixed model to calcification rate with injury (non-
+
+injured, abrasion, or fragmentation) and temperature (ambient or warming), and a two-way
+
+interaction between injury and warming as fixed effects and parental colony as a random effect.
+
+Pairwise comparisons were made on fixed effects to determine significant differences between
+
+groups with estimated marginal means or least-squares means using the emmeans package
+
+(Lenth 2023). In cases where there was not a significant three-way interaction of injury,
+
+temperature and time, pairwise comparisons were made across significant two-way
+
+interactions (e.g., if temperature*time is significant I looked at differences between
+
+temperature-time combinations pooled across injury types). To determine how injury and
+
+temperature influence regeneration, I conducted 1) Kaplan Meier survival curves and 2) Cox
+
+Proportional Hazards mixed models. I treat signs of healing (polyp, corallite, and tissue
+
+regeneration) as discrete response variables. Each variable was analyzed separately with injury
+
+(abrasion or fragmentation) , temperature (ambient or warming), and the interaction between
+
+injury and temperature as fixed effects and parental colony as a random effect. All data
+
+analyses were conducted in R statistical environment (Version 4.3.2) using R Studio (Version
+
+
+
+                                                11
+2023.03.1+446). All data and code used for this study are available on GitHub
+
+(https://github.com/ninahmunk/Acropora_Regeneration-main).
+
+
+
+                                           RESULTS
+
+
+Experimental aquaria maintained ambient and warming seawater temperature
+
+regimes.
+
+          I effectively maintained distinct temperature regimes in the experimental aquaria, with
+
+average temperatures of 27.9 ± 0.7486°C and 29.5 ± 0.3508°C for ambient and warming
+
+regimes, respectively. Daily average temperatures ranged from 27.12 to 28.31°C and 28.74 to
+
+29.70°C for ambient and warming regimes, respectively (Fig. A1). Averaged over the duration
+
+of the experiment (19 days), the warming regime was 1.65°C ± 0 .33 higher than the ambient
+
+regime.
+
+
+Tissue regeneration is faster in abraded corals.
+
+
+          On average, the amount of surface area (i.e., live tissue) removed due to fragmentation
+
+was 1.07 ± 0.04 cm-2, with a resulting wound area of only 0.22 ± 0.02 cm-2. For abrasions, the
+
+amount of live tissue removed is equivalent to the resulting wound area and was on average
+
+0.95 ± 0.03 cm-2. Regardless of injury type, 92% (13/14) of A. pulchra fragments displayed at
+
+least two out of three signs of healing (polyp, corallite, and/or tissue regeneration) by the end
+
+of the experiment (Fig. 1; Table 1). However, abrased corals were more likely to have
+
+regenerated new tissue in the wound site than fragmentation (cox survival analysis; Fig. 2C;
+
+Table 2). I did not detect statistically significant effects of injury, temperature, or the
+
+
+                                                  12
+interactions of injury and temperature on polyp or corallite regeneration by the end of the
+
+experiment (Table 2).
+
+
+Warming increases daily productivity.
+
+
+        Warming positively influenced coral daily productivity, with daily P:R reaching a peak
+
+during the middle of regeneration (Fig. 3C), with a statistically significant interaction between
+
+temperature and time (Table 3). Surprisingly, injury did not substantially influence P:R, with
+
+neither injury nor injury interactions of temperature and/or time proving significant in the
+
+mixed effects model (Table 3). Pairwise comparisons reveal that warming significantly
+
+increased daily P:R from the beginning to the middle of regeneration (p < 0.0001) and
+
+significantly decreased P:R from the middle to the end (p = 0.03) (Fig. 3C). Furthermore, coral
+
+daily P:R in warming conditions was significantly higher during the middle (p < 0.001) and
+
+end of regeneration (p = 0.01) compared to ambient (Fig. 3C).
+
+
+        The only detectable effect of injury on metabolism (i.e., photosynthesis or respiration)
+
+was on net photosynthesis (PNet), which had a statistically significant three-way interaction
+
+between injury, temperature, and time on net photosynthesis (Table 3), which was driven
+
+primarily by significantly higher PNet in abraded corals (but not fragmented or uninjured corals)
+
+at the end of regeneration in warming conditions compared to ambient (pairwise comparisons,
+
+p < 0.03, Fig. 4).
+
+
+        I found statistically significant effects of temperature (p < 0.01) and time (p = 0.017)
+
+on gross photosynthesis (Pgross) and no significant effects of injury or significant interactions
+
+of temperature and/or time with injury (Table 3). Pairwise comparisons reveal significantly
+
+
+
+                                                 13
+higher Pgross in warming conditions compared to ambient (p < 0.01) (Fig. 3C) and significantly
+
+higher Pgross at the end of regeneration compared to the middle of regeneration (p = 0.02) (Fig.
+
+3B).
+
+
+        Warming did not influence a distinct pattern on respiration, with no differences in
+
+respiration rates between temperature treatments at any timepoint during regeneration (Figure
+
+3A). However, I detected a statistically significant interaction between temperature and time
+
+on respiration and no significant effects of injury or significant interactions of temperature
+
+and/or time with injury (Table 3). Pairwise comparisons reveal that respiration rates
+
+significantly lowered from the beginning to the middle of regeneration in warming conditions
+
+(p < 0.0001) but not ambient conditions. In both warming (p < 0.001) and ambient conditions
+
+(p < 0.0001) respiration rates significantly increased from the middle to the end of
+
+regeneration. Prior to the start of the experiment, there were no significant differences in daily
+
+P:R, PNet, Pgross, or respiration across all treatment groups.
+
+
+Warming eventually reduces photosynthetic efficiency
+
+        Warming negatively influenced A. pulchra photosynthetic efficiency (Fv/Fm),
+
+significantly reducing Fv/Fm by the end of the study (Fig. 5). I detected a significant interaction
+
+between temperature and time on Fv/Fm and no significant effects of injury or significant
+
+interactions of temperature and/or time with injury (Table 4). Pairwise comparisons reveal that
+
+Fv/Fm in warming conditions was significantly lowered from the middle to the end of
+
+regeneration (p < 0.01) and significantly lower than Fv/Fm in ambient conditions (p < 0.01). In
+
+warming conditions, average end point FvFm values are lowest in uninjured corals, 0.9% lower
+
+than fragmented corals and 1.3% lower than abraded corals. Pooled across injury status,
+
+
+                                                  14
+warming reduced Fv/Fm by 3% from pre-experiment measurements to endpoint measurements
+
+compared to only 0.5% at ambient temperature. Prior to the start of the experiment (pre-
+
+treatment), Fv/Fm happened to be significantly higher in corals which were assigned to the
+
+fragmentation + warming group, however, by the middle timepoint Fv/Fm was lowered and
+
+there were no significant differences between treatments.
+
+
+Injury and temperature had no effect on coral calcification.
+
+
+       I did not observe significant effects of injury, temperature, or the interaction between
+
+injury and temperature on A. pulchra calcification rates (Fig. 6; Table A1). Calcification rates
+
+of A. pulchra fragments (N = 71) ranged from 0.59 to 2.59 mg cm-2 day-1 with an average rate
+
+of 1.62 ± 0.05 mg cm-2 day-1.
+
+
+                                        DISCUSSION
+
+       I aimed to better understand the balance between energy acquisition, allocation, and
+
+utilization during coral regeneration to address how warming oceans influence coral recovery
+
+from injury. I hypothesized that 1) warming would slow regeneration by further enforcing
+
+energy limitation and disrupting the function of photosynthetic symbionts, 2) abraded corals
+
+would heal faster than fragmented corals due to residual tissues within abrasion wounds, 3)
+
+injury and warming wound raise energy demand and lower energy input in the beginning of
+
+regeneration as corals respond to acute stress, but then would lower energy demand and
+
+increase energy input over time as corals heal and acclimate to warming, and 4) that injury,
+
+warming, and their interaction would decrease calcification rates by diverting energy towards
+
+regeneration and increasing metabolic costs. My findings largely do not support these
+
+hypotheses and highlight the resilience of Acropora pulchra to both injury and warming. All
+
+                                                15
+corals survived (N = 71) and calcification rates were unaffected by injury and warming, but
+
+tissue regeneration was faster in abrasion injuries compared to fragmentation. I observed no
+
+immediate effects of injury or warming on coral energetics. However, by the end of the
+
+experiment, there were detectable effects of injury and warming on coral holobiont physiology
+
+and these effects partially differed in direction from those anticipated.
+
+
+Mechanisms of coral regeneration under warming conditions
+
+
+       Observed effects of warming on A. pulchra physiology post-injury are driven by
+
+several potential mechanisms. Warmer temperatures can stimulate physiological activity,
+
+including photosynthesis and respiration in heat treated corals, resulting in changes in energetic
+
+expenditure and acquisition. Extreme temperatures (3 and 5 ℃ above thermal optimum) and
+
+injury by abrasion have been shown to significantly reduce photosynthesis and increase
+
+respiration in A. cervicornis (Paradis et. al., 2019). Here, I do not observe reductions in
+
+photosynthesis or increases in respiration due to warming or injury, potentially because my
+
+treatments did not initiate an immediate stress response. Less extreme warming conditions can
+
+initially increase photosynthesis, but eventually result in a bleaching response with time
+
+(Rädecker et. al., 2020). Rädecker et. al., 2020 observed 27% higher photosynthesis in heat
+
+treated corals after 10 days, but after 21 days they observed a 78% and 67% decline in algal
+
+symbiont densities and chlorophyll a content (i.e., bleaching), respectively. Here I observe
+
+depressed respiration during the middle of regeneration followed by recovery at the end (Fig.
+
+3A). This metabolic recovery coincides with enhanced productivity (Figure. 3B & 3C), which
+
+was likely essential for fueling the rapid regeneration observed in both fragmented and abraded
+
+corals. This suggests that injured A. pulchra can effectively allocate energy towards
+
+
+
+                                                 16
+regeneration even under warming conditions and that small increases in temperature below
+
+tolerance thresholds may actually enhance energy acquisition. In the facultatively symbiotic
+
+coral, Astrangia poculata, diminished healing capacity was attributed to symbiont loss rather
+
+than wound stress, underscoring the responsibility of algal symbionts in providing energy for
+
+wound regeneration (DeFilippo et al., 2016). However, prolonged exposure to thermal stress
+
+can be detrimental to the coral-algal symbiosis by disrupting the electron transport chain
+
+(Oakley et al., 2014), building up oxidative stress, and limiting resources for photosynthesis
+
+(Buxton et al., 2009), which will eventually impair algal symbiont photosynthetic capabilities.
+
+Here, I observe reduced photosynthetic efficiency due to warming conditions (Figure 5),
+
+indicating potential stress on the photosynthetic machinery of algal symbionts (Warner et al.,
+
+1999) which could have longer-term negative implications for energy acquisition (Maxwell &
+
+Johnson, 2000; Warner et al., 1996). The interplay between enhanced physiological activity
+
+and photoinhibitory stress, highlights the complex responses of corals to warming,
+
+emphasizing the need for further research into the cellular and molecular processes involved.
+
+
+        Acropora pulchra exhibited a robust capacity for regeneration under warming
+
+conditions, without compromising growth rates. This aligns with previous studies on
+
+Acropora, which are known for their rapid regeneration abilities (Bak, 1983) but differs from
+
+studies that have shown impaired growth at warmer temperature (Bonesso et al., 2016;
+
+Anderson et al., 2019). The results of this study also contrast with results on other coral species,
+
+such as Pocillopora spp. or Porites spp., where elevated temperatures can either enhance or
+
+hinder growth depending on the context (Edmunds and Lenihan, 2009; Lenihan and Edmunds,
+
+2010). These highly variable results, both here and in the literature, highlight the complex
+
+relationship between coral metabolism and temperature, which likely varies enormously across
+
+
+                                                  17
+taxa and is highly sensitive to both the temperature relative to species specific thermal tolerance
+
+(i.e., positive before thresholds of damage and negative beyond these thresholds) and timescale
+
+(positive in the short-term but negative after multiple weeks of exposure).
+
+
+       The concept of the “phoenix effect”, where residual tissues within abrasion wounds
+
+facilitate regeneration, is another key mechanism in the regeneration process (Roff et al.,
+
+2014). Here I observe faster regeneration of tissue in abraded corals compared to those which
+
+were fragmented. These remnant tissues reduce the demand for resources from the wound
+
+perimeter, allowing for more efficient energy allocation towards healing. It’s possible that
+
+rapid tissue regeneration in abrasion wounds played a role in the high net photosynthetic rates
+
+of abraded corals (Figure 3). At warmer temperatures, certain strains of Symbiodiniaceae can
+
+have enhanced population growth (Karim et al., 2015), which could have contributed to higher
+
+photosynthetic rates and faster tissue regeneration. Future research should focus on the
+
+mechanisms underlying these species-specific responses to injury and thermal stress, including
+
+the role of algal symbiont dynamics.
+
+
+High regenerative capacity underscores coral resilience
+
+
+       The implications of these findings for coral resilience are significant. The remarkable
+
+regenerative capacity of Acropora pulchra under warming conditions, surpassed hypothesized
+
+predictions of resilience to injury. This demonstration of greater resilience to injury and
+
+warming may be attributed to several factors, including rapid growth rates, efficient metabolic
+
+recovery, and productive symbiosis. Additionally, the small wound sizes in these experiments
+
+likely facilitated faster regeneration, as they had low surface area to perimeter ratios, which
+
+are more manageable for the coral to heal (Bak and Steward-Van es, 1980; Meesters et al.,
+
+                                                  18
+1997; Lirman et al., 2000). These components may be critical for the survival of coral reefs in
+
+the face of climate change, as it allows corals to recover from physical disturbances more
+
+rapidly. Poor regenerative capacity can have detrimental implications for overall fitness with
+
+respect to colony size, competition for space (Highsmith, 1982), and disease susceptibility
+
+(Bak and Criens 1981; van de Water et al., 2015a), which can ultimately lead to partial
+
+(Meesters et al., 1997) or full colony mortality (Meesters and Bak, 1993). The ability of A.
+
+pulchra to maintain high regenerative capacity and growth rates under warming temperatures
+
+suggests that certain coral species possess inherent biological traits that enhance their
+
+adaptability to changing environmental conditions (Pratchett et al., 2013). High predation rates
+
+on Acropora in the Indo-Pacific (Rotjan and Lewis, 2008) may have driven an adaptive
+
+response for high regenerative capacity to various injury types.
+
+
+       My study highlights the potential for leveraging the regenerative capacities of
+
+branching corals like Acropora pulchra in restoration efforts. Moreover, the resilience of A.
+
+pulchra I document here underscores the importance of considering the physiological
+
+processes underpinning coral regeneration when developing restoration strategies. Monitoring
+
+and optimizing environmental conditions, such as temperature, is critical in supporting coral
+
+regeneration and growth. As climate change continues to increase ocean temperatures and the
+
+prevalence of marine heatwaves (Oliver et. al., 2013), it is essential to understand how these
+
+factors interact with coral regeneration. Overall, this knowledge can inform the selection of
+
+coral species and genotypes for restoration projects, ensuring that the chosen corals possess
+
+the necessary traits to withstand thermal stress (Caruso et. al., 2021) and recover from injuries
+
+(Baums et al., 2019). Integrating these physiological insights into restoration practices will be
+
+
+
+
+                                                 19
+useful for developing effect strategies to restore and preserve coral reefs in a rapidly changing
+
+climate.
+
+
+                                       REFERENCES
+
+
+  Anderson, K. D., Cantin, N. E., Casey, J. M., & Pratchett, M. S. (2019). Independent
+
+       effects of ocean warming versus acidification on the growth, survivorship and
+
+       physiology of two Acropora corals. Coral Reefs, 38(6), 1225–
+
+       1240. https://doi.org/10.1007/s00338-019-01864-y
+
+  Bak, R. P. M. (1983). Neoplasia, regeneration and growth in the reef-building coral
+
+       Acropora palmata. Marine Biology, 77(3), 221–
+
+       227. https://doi.org/10.1007/BF00395810
+
+  Bak, R. P. M., Criens, S. R., Bak, R. P. M., & Criens, S. R. (1982). Survival after
+
+       fragmentation of colonies of Madracis mirabilis, Acropora palmata and A. cervicornis
+
+       (Scleractinia) and the subsequent impact of a coral disease. Proceedings of the
+
+       International Coral Reef Symposium, 4, 221-227 Volume 2.
+
+  Bak, R. P. M., & Steward-Van Es, Y. (1980). Regeneration of Superficial Damage in the
+
+       Scleractinian Corals Agaricia Agaricites F. Purpurea and Porites Astreoides. Bulletin
+
+       of Marine Science, 30(4), 883–887.
+
+  Barott, K. L., Huffmyer, A. S., Davidson, J. M., Lenz, E. A., Matsuda, S. B., Hancock, J.
+
+       R., Innis, T., Drury, C., Putnam, H. M., & Gates, R. D. (2021). Coral bleaching
+
+       response is unaltered following acclimatization to reefs with distinct environmental
+
+       conditions. Proceedings of the National Academy of Sciences, 118(22),
+
+       e2025435118. https://doi.org/10.1073/pnas.2025435118
+
+
+
+                                                 20
+Bates, D., Kliegl, R., Vasishth, S., & Baayen, H. (2018). Parsimonious Mixed
+
+     Models (arXiv:1506.04967). arXiv. https://doi.org/10.48550/arXiv.1506.04967
+
+Bates, D., Maechler, M., Bolker, B., & Walker, S. (2003). lme4: Linear Mixed-Effects
+
+     Models using “Eigen” and S4 (p. 1.1-35.5)
+
+     [Dataset]. https://doi.org/10.32614/CRAN.package.lme4
+
+Baums, I. B., Baker, A. C., Davies, S. W., Grottoli, A. G., Kenkel, C. D., Kitchen, S. A.,
+
+     Kuffner, I. B., LaJeunesse, T. C., Matz, M. V., Miller, M. W., Parkinson, J. E., &
+
+     Shantz, A. A. (2019). Considerations for maximizing the adaptive potential of
+
+     restored coral populations in the western Atlantic. Ecological Applications, 29(8),
+
+     e01978. https://doi.org/10.1002/eap.1978
+
+Bonesso, J. L., Leggat, W., & Ainsworth, T. D. (2017). Exposure to elevated sea-surface
+
+     temperatures below the bleaching threshold impairs coral recovery and regeneration
+
+     following injury. PeerJ, 5, e3719. https://doi.org/10.7717/peerj.3719
+
+Boström-Einarsson, L., Babcock, R. C., Bayraktarov, E., Ceccarelli, D., Cook, N., Ferse,
+
+     S. C. A., Hancock, B., Harrison, P., Hein, M., Shaver, E., Smith, A., Suggett, D.,
+
+     Stewart-Sinclair, P. J., Vardi, T., & McLeod, I. M. (2020). Coral restoration – A
+
+     systematic review of current methods, successes, failures and future directions. PLOS
+
+     ONE, 15(1), e0226631. https://doi.org/10.1371/journal.pone.0226631
+
+Burmester, E., Finnerty, J., Kaufman, L., & Rotjan, R. (2017). Temperature and symbiosis
+
+     affect lesion recovery in experimentally wounded, facultatively symbiotic temperate
+
+     corals. Marine Ecology Progress Series, 570, 87–
+
+     99. https://doi.org/10.3354/meps12114
+
+
+
+
+                                             21
+Buxton, L., Badger, M., & Ralph, P. (2009). Effects of Moderate Heat Stress and
+
+     Dissolved Inorganic Carbon Concentration on Photosynthesis and Respiration of
+
+     Symbiodinium Sp. (Dinophyceae) in Culture and in Symbiosis. Journal of
+
+     Phycology, 45(2), 357–365. https://doi.org/10.1111/j.1529-8817.2009.00659.x
+
+Caruso, C., Hughes, K., & Drury, C. (2021). Selecting Heat-Tolerant Corals for Proactive
+
+     Reef Restoration. Frontiers in Marine
+
+     Science, 8. https://doi.org/10.3389/fmars.2021.632027
+
+Coles, S. L., & Jokiel, P. L. (1977). Effects of temperature on photosynthesis and
+
+     respiration in hermatypic corals. Marine Biology, 43(3), 209–
+
+     216. https://doi.org/10.1007/BF00402313
+
+DeFilippo, L., Burmester, E. M., Kaufman, L., & Rotjan, R. D. (2016). Patterns of surface
+
+     lesion recovery in the Northern Star Coral, Astrangia poculata. Journal of
+
+     Experimental Marine Biology and Ecology, 481, 15–
+
+     24. https://doi.org/10.1016/j.jembe.2016.03.016
+
+Denis, V., Guillaume, M. M. M., Goutx, M., de Palmas, S., Debreuil, J., Baker, A. C.,
+
+     Boonstra, R. K., & Bruggemann, J. H. (2013). Fast Growth May Impair Regeneration
+
+     Capacity in the Branching Coral Acropora muricata. PLoS ONE, 8(8),
+
+     e72618. https://doi.org/10.1371/journal.pone.0072618
+
+Dias, M., Ferreira, A., Gouveia, R., Cereja, R., & Vinagre, C. (2018). Mortality, growth
+
+     and regeneration following fragmentation of reef-forming corals under thermal
+
+     stress. Journal of Sea Research, 141, 71–
+
+     82. https://doi.org/10.1016/j.seares.2018.08.008
+
+
+
+
+                                             22
+Edmunds, P. J., & Lenihan, H. S. (2010a). Effect of sub-lethal damage to juvenile colonies
+
+     of massive Porites spp. Under contrasting regimes of temperature and water
+
+     flow. Marine Biology, 157(4), 887–897. https://doi.org/10.1007/s00227-009-1372-1
+
+Edmunds, P. J., & Lenihan, H. S. (2010b). Effect of sub-lethal damage to juvenile colonies
+
+     of massive Porites spp. Under contrasting regimes of temperature and water
+
+     flow. Marine Biology, 157(4), 887–897. https://doi.org/10.1007/s00227-009-1372-1
+
+Hall, V. R. (1997). Interspecific differences in the regeneration of artificial injuries on
+
+     scleractinian corals. Journal of Experimental Marine Biology and Ecology, 212(1), 9–
+
+     23. https://doi.org/10.1016/S0022-0981(96)02760-8
+
+Henry, L. A., & Hart, M. (2005). Regeneration from injury and resource allocation in
+
+     sponges and corals–a review. International Review of Hydrobiology: A Journal
+
+     Covering all Aspects of Limnology and Marine Biology, 90(2), 125-158.
+
+     https://doi.org/10.1002/iroh.200410759
+
+Hoegh-Guldberg, O., Poloczanska, E. S., Skirving, W., & Dove, S. (2017). Coral Reef
+
+     Ecosystems under Climate Change and Ocean Acidification. Frontiers in Marine
+
+     Science, 4. https://doi.org/10.3389/fmars.2017.00158
+
+Hughes, T. P., Kerry, J. T., Álvarez-Noriega, M., Álvarez-Romero, J. G., Anderson, K. D.,
+
+     Baird, A. H., Babcock, R. C., Beger, M., Bellwood, D. R., Berkelmans, R., Bridge, T.
+
+     C., Butler, I. R., Byrne, M., Cantin, N. E., Comeau, S., Connolly, S. R., Cumming, G.
+
+     S., Dalton, S. J., Diaz-Pulido, G., … Wilson, S. K. (2017). Global warming and
+
+     recurrent mass bleaching of corals. Nature, 543(7645), 373–
+
+     377. https://doi.org/10.1038/nature21707
+
+
+
+
+                                               23
+Innis, T., Allen‐Waller, L., Brown, K. T., Sparagon, W., Carlson, C., Kruse, E., Huffmyer,
+
+     A. S., Nelson, C. E., Putnam, H. M., & Barott, K. L. (2021). Marine heatwaves
+
+     depress metabolic activity and impair cellular acid–base homeostasis in reef‐building
+
+     corals regardless of bleaching susceptibility. Global Change Biology, 27(12), 2728–
+
+     2743. https://doi.org/10.1111/gcb.15622
+
+Karim, W., Nakaema, S., & Hidaka, M. (2015). Temperature Effects on the Growth Rates
+
+     and Photosynthetic Activities of Symbiodinium Cells. Journal of Marine Science and
+
+     Engineering, 3(2), 368–381. https://doi.org/10.3390/jmse3020368
+
+Krueger, T. (2019). Measuring coral oxygen metabolism via respirometry.
+
+Lenth, R. V., Bolker, B., Buerkner, P., Giné-Vázquez, I., Herve, M., Jung, M., Love, J.,
+
+     Miguez, F., Piaskowski, J., Riebl, H., & Singmann, H. (2024). emmeans: Estimated
+
+     Marginal Means, aka Least-Squares Means (Version 1.10.4) [Computer
+
+     software]. https://cran.r-project.org/web/packages/emmeans/index.html
+
+Lirman, D. (2000). Lesion regeneration in the branching coral Acropora palmata:effects of
+
+     colonization, colony size, lesion size, and lesion shape. Marine Ecology Progress
+
+     Series, 197, 209–215. https://doi.org/10.3354/meps197209
+
+Madin, J. S., & Connolly, S. R. (2006). Ecological consequences of major hydrodynamic
+
+     disturbances on coral reefs. Nature, 444(7118), 477–
+
+     480. https://doi.org/10.1038/nature05328
+
+Mapstone, B., Andrew, N., Chancerelle, Y., & Salvat, B. (2007). Mediating effects of sea
+
+     urchins on interactions among corals, algae and herbivorous fish in the Moorea
+
+     lagoon, French Polynesia. Marine Ecology Progress Series, 332, 143–
+
+     153. https://doi.org/10.3354/meps332143
+
+
+
+                                             24
+Meesters, E., & Bak, R. (1993). Effects of coral bleaching on tissue regeneration potential
+
+     and colony survival. Marine Ecology Progress Series, 96, 189–
+
+     198. https://doi.org/10.3354/meps096189
+
+Meesters, E. H., Wesseling, I., & Bak, R. P. M. (1997). Coral colony tissue damage in six
+
+     species of reef-building corals: Partial mortality in relation with depth and surface
+
+     area. Journal of Sea Research, 37(1–2), 131–144. https://doi.org/10.1016/S1385-
+
+     1101(96)00004-4
+
+Meesters, E., Noordeloos, M., & Bak, R. (1994). Damage and regeneration: Links to
+
+     growth in the reef-building coral Montastrea annularis. Marine Ecology Progress
+
+     Series, 112, 119–128. https://doi.org/10.3354/meps112119
+
+Muscatine, L. (1990). The role of symbiotic algae in carbon and energy flux in reef
+
+     corals. Coral Reefs. https://cir.nii.ac.jp/crid/1571698600651972480
+
+Oakley, C. A., Schmidt, G. W., & Hopkinson, B. M. (2014). Thermal responses of
+
+     Symbiodinium photosynthetic carbon assimilation. Coral Reefs, 33(2), 501–
+
+     512. https://doi.org/10.1007/s00338-014-1130-9
+
+Odum, H. T., & Odum, E. P. (1955). Trophic structure and productivity of a windward
+
+     coral reef community on Eniwetok Atoll. Ecological monographs, 25(3), 291-320.
+
+     https://www-jstor-org.proxy.library.ucsb.edu/stable/1943285
+
+Olito, C., White, C. R., Marshall, D. J., & Barneche, D. R. (2017). Estimating monotonic
+
+     rates from biological data using local linear regression. Journal of Experimental
+
+     Biology, 220(5), 759–764. https://doi.org/10.1242/jeb.148775
+
+Oliver, E. C. J., Burrows, M. T., Donat, M. G., Sen Gupta, A., Alexander, L. V., Perkins-
+
+     Kirkpatrick, S. E., Benthuysen, J. A., Hobday, A. J., Holbrook, N. J., Moore, P. J.,
+
+
+
+                                              25
+    Thomsen, M. S., Wernberg, T., & Smale, D. A. (2019). Projected Marine Heatwaves
+
+    in the 21st Century and the Potential for Ecological Impact. Frontiers in Marine
+
+    Science, 6. https://doi.org/10.3389/fmars.2019.00734
+
+Paradis, B. T., Henry, R. P., & Chadwick, N. E. (2019). Compound effects of thermal
+
+    stress and tissue abrasion on photosynthesis and respiration in the reef-building coral
+
+    Acropora cervicornis (Lamarck, 1816). Journal of Experimental Marine Biology and
+
+    Ecology, 521, 151222. https://doi.org/10.1016/j.jembe.2019.151222
+
+Pratchett, M. S., McCowan, D., Maynard, J. A., & Heron, S. F. (2013). Changes in
+
+    Bleaching Susceptibility among Corals Subject to Ocean Warming and Recurrent
+
+    Bleaching in Moorea, French Polynesia. PLOS ONE, 8(7),
+
+    e70443. https://doi.org/10.1371/journal.pone.0070443
+
+Rädecker, N., Pogoreutz, C., Gegner, H. M., Cárdenas, A., Roth, F., Bougoure, J.,
+
+    Guagliardo, P., Wild, C., Pernice, M., Raina, J.-B., Meibom, A., & Voolstra, C. R.
+
+    (2021). Heat stress destabilizes symbiotic nutrient cycling in corals. Proceedings of
+
+    the National Academy of Sciences, 118(5),
+
+    e2022653118. https://doi.org/10.1073/pnas.2022653118
+
+Rice, M. M., Maher, R. L., Thurber, R. V., & Burkepile, D. E. (2019). Different nitrogen
+
+    sources speed recovery from corallivory and uniquely alter the microbiome of a reef-
+
+    building coral. PeerJ, 7, e8056. https://doi.org/10.7717/peerj.8056
+
+Rinkevich, B. (1996). Do reproduction and regeneration in damaged corals compete for
+
+    energy allocation? Marine Ecology Progress Series, 143, 297–
+
+    302. https://doi.org/10.3354/meps143297
+
+
+
+
+                                            26
+Roff, G., Bejarano, S., Bozec, Y.-M., Nugues, M., Steneck, R. S., & Mumby, P. J. (2014).
+
+     Porites and the Phoenix effect: Unprecedented recovery after a mass coral bleaching
+
+     event at Rangiroa Atoll, French Polynesia. Marine Biology, 161(6), 1385–
+
+     1393. https://doi.org/10.1007/s00227-014-2426-6
+
+Rotjan, R., & Lewis, S. (2008). Impact of coral predators on tropical reefs. Marine
+
+     Ecology Progress Series, 367, 73–91. https://doi.org/10.3354/meps07531
+
+Spencer Davies, P. (1989). Short-term growth measurements of corals using an accurate
+
+     buoyant weighing technique. Marine Biology, 101(3), 389–
+
+     395. https://doi.org/10.1007/BF00428135
+
+Van De Water, J. A. J. M., Leggat, W., Bourne, D. G., Van Oppen, M. J. H., Willis, B. L.,
+
+     & Ainsworth, T. D. (2015). Elevated seawater temperatures have a limited impact on
+
+     the coral immune response following physical damage. Hydrobiologia, 759(1), 201–
+
+     214. https://doi.org/10.1007/s10750-015-2243-z
+
+Warner, M. E., Fitt, W. K., & Schmidt, G. W. (1996). The effects of elevated temperature
+
+     on the photosynthetic efficiency of zooxanthellae in hospite from four different
+
+     species of reef coral: A novel approach. Plant, Cell & Environment, 19(3), 291–
+
+     299. https://doi.org/10.1111/j.1365-3040.1996.tb00251.x
+
+Warner, M. E., Fitt, W. K., & Schmidt, G. W. (1999). Damage to photosystem II in
+
+     symbiotic dinoflagellates: A determinant of coral bleaching. Proceedings of the
+
+     National Academy of Sciences, 96(14), 8007–
+
+     8012. https://doi.org/10.1073/pnas.96.14.8007
+
+Warner, M. E., Lesser, M. P., & Ralph, P. J. (2010). Chlorophyll Fluorescence in Reef
+
+     Building Corals. In D. J. Suggett, O. Prášil, & M. A. Borowitzka (Eds.), Chlorophyll
+
+
+
+                                             27
+a Fluorescence in Aquatic Sciences: Methods and Applications (pp. 209–222).
+
+Springer Netherlands. https://doi.org/10.1007/978-90-481-9268-7_10
+
+
+
+
+                                      28
+                            FIGURES AND TABLES
+
+
+
+
+Figure 1. Photograph time series of wound regeneration in A. pulchra from abrasion and
+fragmentation injury at ambient and warming temperature. From left to right, photographs
+show stages of wound regeneration at the beginning (day 1), middle (day 10), and end (day
+19) of the experiment.
+
+
+
+
+                                           29
+Figure 2. Kaplan Meier survival curves displaying the proportion of corals with regenerated
+A) polyps, B) corallites, and C) tissue for abrasion and fragmentation wounds in ambient
+(blue) and warming (red) conditions. Instead of survival, curves represent probability of
+regeneration with the event being the presence of new polyp(s), corallite(s), or tissue.
+
+
+
+                                               30
+Table 1. Results from three Kaplan–Meier survival curves for tissue regeneration, polyp
+regeneration, and corallite regeneration from fragmentation and abrasion injuries at ambient
+(27.9 ℃) and warming (29.5 ℃) temperature conditions. The events in this survival
+analysis are tissue, polyp, or corallite regeneration. Intervals by which no individuals had
+reached regeneration (e.g., 100% survival) are not shown in the table. SE is standard error,
+and CI is confidence interval. In any treatment where all individuals have healed, an 'NA' is
+present for SE and 95% CI at that given time interval.
+                                                             Proportion                   upper
+                                      # not          #           not              lower 95%
+    Event       Treatment Time regenerated regenerated regenerated SE 95% CI CI
+
+               Fragmentation
+
+               Ambient     19         3              1        0.667     0.272     0.3      1
+
+               Warming     19         4              2         0.5      0.25    0.188      1
+
+               Abrasion
+   Tissue
+Regeneration
+               Ambient     10         3              1        0.667     0.272     0.3      1
+
+               Ambient     19         2              2          0        NA      NA       NA
+
+               Warming     10         4              3        0.25      0.217 0.0458       1
+
+               Warming     19         1              1          0        NA      NA       NA
+
+               Fragmentation
+
+               Ambient     10         3              1        0.667     0.272     0.3      1
+
+               Ambient     19         2              2          0        NA      NA       NA
+
+               Warming     10         4              1        0.75      0.217 0.4259       1
+
+               Warming     19         3              2        0.25      0.217 0.0458       1
+   Polyp
+Regeneration
+               Abrasion
+
+               Ambient     10         3              1        0.667     0.272 0.2995       1
+
+               Ambient     19         2              1        0.333     0.272 0.0673       1
+
+               Warming     10         4              1        0.75      0.217   0.426      1
+
+               Warming     19         3              3          0        NA      NA       NA
+
+                                                31
+             Fragmentation
+
+              Ambient      10         3              3           0          NA     NA      NA
+
+  Corallite Warming        10         4              3          0.25      0.2165 0.0458    1
+Regeneration
+             Abrasion
+
+              Ambient      10         3              2         0.3333     0.2722 0.673     1
+
+              Warming      19         4              2          0.5         0.25   0.188   1
+
+
+
+
+ Table 2. Results from three cox proportional hazard models for tissue regeneration, polyp
+ regeneration, and corallite regeneration from fragmentation and abrasion injuries at
+ ambient (27.9 ℃) and warming (29.5 ℃) temperature with parental colony as a random
+ effect. The interaction term is absent from the model for corallite regeneration due to
+ rapid healing creating insufficient data and is indicated by NAs. Significance is indicated
+ by a hazards ratio (HR) less than 1, confidence interval (CI) not overlapping 1, and a p-
+ value < 0.05.
+           Event                   Characteristic        HR     95% CI               p
+
+                                   Fragmentation          -           -
+
+                                     Abrasion            17    1.34, 216           0.029
+
+   Tissue Regeneration               Ambient              -           -
+
+                                     Warming             1.55 0.13, 17.8            0.7
+
+                                Abrasion ╳ Warming       0.92 0.05, 17.4           >0.9
+
+                                   Fragmentation          -           -
+
+                                     Abrasion            0.47 0.08,2.89             0.4
+
+    Polyp Regeneration               Ambient              -           -
+
+                                     Warming             0.54 0.11,2.70             0.4
+
+                                Abrasion ╳ Warming       3.6    0.33,38.9           0.3
+
+                                   Fragmentation          -           -
+
+                                                32
+Corallite Regeneration
+                              Abrasion        0.33 0.09, 1.25   0.1
+
+                              Ambient          -       -
+
+                              Warming         0.43 0.12, 1.55   0.2
+
+                         Abrasion ╳ Warming   NA      NA        NA
+
+
+
+
+                                         33
+Figure 3. Average A) respiration rates, B/C) gross photosynthesis rates, and D) daily P:R from
+respirometry trials during the beginning (day 1), middle (day 10), and end (day 19) of
+regeneration. Average rates in plots A & D are subset by ambient (blue, open circles) and
+warming (red, closed circles) temperatures pooled across injury type because there was no
+significant effect or interactive effects of injury with temperature or time. Average rates in plot
+
+                                                  34
+B are pooled across injury type and temperature and in plot C pooled across injury type and
+time because there were significant main effects of temperature and time and no significant
+effect or interactive effects of injury with temperature or time. Bars around circles are standard
+errors. Letters show statistically significant differences based on estimated marginal means
+from linear mixed effects models with injury, temperature, time (all categorical), and all their
+interactions.
+
+
+
+
+Figure 4. Average rates of net photosynthesis from respirometry trials during the beginning
+(day 1), middle (day 10), and end (day 19) of regeneration. Average rates are subset by ambient
+(blue) and warming (red) temperatures and injuries: no injury (circle), fragmentation (triangle),
+abrasion (square). Bars around circles are standard errors. Letters show statistically significant
+differences based on estimated marginal means from linear mixed effects models with injury,
+temperature, time (all categorical), and all their interactions.
+
+
+
+
+Table 3. ANOVA tables of four linear mixed effects models for net photosynthesis,
+respiration, gross photosynthesis, and daily P:R using Satterthwaite’s approximation for
+degrees of freedom. The models had individual and parental colony as random effects and
+
+
+                                                 35
+fixed effects of temperature (ambient and warming), injury (no injury, fragmentation, or
+abrasion), and time (beginning (day 1), middle (day 10), and end (day 19)). Effects of
+temperature, injury, and time were fixed and fully crossed.
+                                                   Mean
+      Variable            Effect         SS             df     DenDF       F        p
+                                                    SS
+
+                          Injury        0.027      0.013   2   61.281    1.311    0.277
+
+                        Temperature     0.160      0.160   1   61.266    15.632   <0.001
+
+                           Time         0.051      0.026   2   130.000   2.516    0.085
+
+                         Injury ╳
+                                        0.025      0.012   2   61.323    1.210    0.305
+                        Temperature
+ Net Photosynthesis
+                       Injury ╳ Time    0.013      0.003   4   130.000   0.325    0.861
+
+                       Temperature ╳
+                                        0.127      0.064   2   130.000   6.228    <0.01
+                           Time
+                         Injury ╳
+                       Temperature ╳    0.114      0.028   4   130.000   2.784    0.029
+                           Time
+
+                          Injury        0.003      0.002   2   61.334    0.708    0.497
+
+                        Temperature     0.001      0.001   1   61.322    0.501    0.482
+
+                           Time         0.149      0.075   2   130.001   31.889 <0.0001
+
+                         Injury ╳
+                                        0.004      0.004   2    0.004    0.811    0.449
+                        Temperature
+    Respiration
+                       Injury ╳ Time    0.006      0.002   4   130.001   0.645    0.631
+
+                       Temperature ╳
+                                        0.037      0.018   2   130.001   7.809    <0.001
+                           Time
+                         Injury ╳
+                       Temperature ╳    0.003      0.001   4   130.001   0.361    0.836
+                           Time
+
+                          Injury        0.037      0.018   2   61.246    1.574    0.215
+
+Gross Photosynthesis    Temperature     0.112      0.112   1   61.238    9.620    <0.01
+
+                           Time         0.098      0.049   2   130.000   4.230    0.017
+
+                                              36
+              Injury ╳
+                            0.021    0.011   2   61.265    0.916    0.405
+             Temperature
+
+            Injury ╳ Time   0.029    0.007   4   130.000   0.620    0.649
+
+            Temperature ╳
+                            0.063    0.031   2   130.000   2.693    0.071
+                Time
+              Injury ╳
+            Temperature ╳   0.092    0.023   4   130.000   1.973    0.102
+                Time
+
+               Injury       0.012    0.006   2   61.291    0.389    0.680
+
+             Temperature    0.177    0.177   1   61.267    11.484   <0.01
+
+                Time        0.362    0.181   2   130.000   11.750 <0.0001
+
+              Injury ╳
+                            0.032    0.016   2   61.492    1.034    0.362
+             Temperature
+Daily P:R
+            Injury ╳ Time   0.006    0.001   4   130.000   0.092    0.985
+
+            Temperature ╳
+                            0.303    0.152   2   130.000   9.839    <0.001
+                Time
+              Injury ╳
+            Temperature ╳   0.120    0.030   4   130.000   1.949    0.106
+                Time
+
+
+
+
+                                37
+Figure 5. Average photosynthetic efficiency (Fv/Fm) at middle and end of regeneration.
+Average Fv/Fm values are subset by ambient (blue, open circles) and warming (red, closed
+circles) temperatures, pooled across injury type because there was no significant effect or
+interactive effects of injury with temperature or time. Bars around circles are standard errors.
+Letters show statistically significant differences based on estimated marginal means from
+linear mixed effects models with injury, temperature, time (all categorical), and all their
+interactions.
+
+
+
+
+                                                38
+Table 4. ANOVA tables of a linear mixed effects model for photosynthetic efficiency
+using Satterthwaite’s approximation for degrees of freedom. The model had parental
+colony as a random effect and fixed effects of temperature (ambient and warming), injury
+(no injury, fragmentation, or abrasion), and time (beginning (day 1), middle (day 10), and
+end (day 19)). Effects of temperature, injury, and time were fixed and fully crossed.
+
+     Variable           Effect        SS     Mean SS df      DenDF        F          p
+
+                          W         54.75      27.37     2    61.78     0.143      0.867
+
+                          T        1056.67 1056.67       1   61.757     5.506      0.022
+
+                           I        905.91    905.91     1     65        4.72      0.033
+  Photosynthetic
+    Efficiency         W╳T         1094.68    547.34     2   61.869     2.852      0.065
+
+                        W╳I         212.69    106.34     2     65       0.554      0.577
+
+                        T╳I        1257.11 1257.11       1     65        6.55      0.013
+
+                     W ╳ T ╳ I 273.02         136.51     2     65       0.711      0.495
+
+
+
+
+                                               39
+Figure 6. Average coral calcification rates (mg cm-2 day-1) at ambient (blue) and elevated (red)
+temperatures for uninjured, fragmented, and abraded corals. Bars represent standard errors.
+
+
+
+
+                                                40
+                                       APPENDIX
+
+
+
+
+Figure A1. Temperature of experimental aquaria throughout the study period. Points are daily
+mean temperatures for ambient (blue, open circles) and elevated (red, closed circles)
+temperature treatments. Bars around points are standard errors.
+
+
+Table A1. ANOVA table of a linear mixed effects model for calcification rate using
+Satterthwaite’s approximation for degrees of freedom. The model had parental colony as a
+random effect and fixed effects of temperature (ambient and warming) and injury (no injury,
+fragmentation, or abrasion). Effects of temperature and injury were fixed and fully crossed.
+       Variable           Effects      SS      Mean SS df       DenDF        F         P
+   Calcification Rate        W        0.225      0.112     2    62.183     0.661     0.52
+
+                             T        0.187      0.187     1    62.184     1.096     0.299
+
+                          W╳T         0.943      0.943     2    62.461      2.77     0.07
+
+
+
+
+                                              41
+                            ProQuest Number: 31561877
+
+
+                         INFORMATION TO ALL USERS
+    The quality and completeness of this reproduction is dependent on the quality
+             and completeness of the copy made available to ProQuest.
+
+
+
+
+                                     Distributed by
+                     ProQuest LLC a part of Clarivate ( 2024 ).
+      Copyright of the Dissertation is held by the Author unless otherwise noted.
+
+
+         This work is protected against unauthorized copying under Title 17,
+              United States Code and other applicable copyright laws.
+
+
+This work may be used in accordance with the terms of the Creative Commons license
+ or other rights statement, as indicated in the copyright statement or in the metadata
+   associated with this work. Unless otherwise specified in the copyright statement
+            or the metadata, all rights are reserved by the copyright holder.
+
+
+                                   ProQuest LLC
+                            789 East Eisenhower Parkway
+                              Ann Arbor, MI 48108 USA
+

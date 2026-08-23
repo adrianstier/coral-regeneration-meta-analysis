@@ -1,0 +1,870 @@
+                                   Exposure to elevated sea-surface
+                                   temperatures below the bleaching
+                                   threshold impairs coral recovery and
+                                   regeneration following injury
+                                   Joshua Louis Bonesso1 , William Leggat1 ,2 and Tracy Danielle Ainsworth2
+                               1
+                                   College of Public Health, Medical and Veterinary Sciences, James Cook University, Townsville, Australia
+                               2
+                                   ARC Centre of Excellence for Coral Reef Studies, James Cook University, Townsville, Australia
+
+
+                                       ABSTRACT
+                                       Elevated sea surface temperatures (SSTs) are linked to an increase in the frequency and
+                                       severity of bleaching events due to temperatures exceeding corals’ upper thermal limits.
+                                       The temperatures at which a breakdown of the coral-Symbiodinium endosymbiosis
+                                       (coral bleaching) occurs are referred to as the upper thermal limits for the coral species.
+                                       This breakdown of the endosymbiosis results in a reduction of corals’ nutritional
+                                       uptake, growth, and tissue integrity. Periods of elevated sea surface temperature,
+                                       thermal stress and coral bleaching are also linked to increased disease susceptibility
+                                       and an increased frequency of storms which cause injury and physical damage to
+                                       corals. Herein we aimed to determine the capacity of corals to regenerate and recover
+                                       from injuries (removal of apical tips) sustained during periods of elevated sea surface
+                                       temperatures which result in coral stress responses, but which do not result in coral
+                                       bleaching (i.e., sub-bleaching thermal stress events). In this study, exposure of the
+                                       species Acropora aspera to an elevated SST of 32 ◦ C (2 ◦ C below the bleaching threshold,
+                                       34 ◦ C) was found to result in reduced fluorescence of green fluorescent protein
+                                       (GFP), reduced skeletal calcification and a lack of branch regrowth at the site of
+                                       injury, compared to corals maintained under ambient SST conditions (26 ◦ C). Corals
+                                       maintained under normal, ambient, sea surface temperatures expressed high GFP
+Submitted 13 September 2016            fluorescence at the injury site, underwent a rapid regeneration of the coral branch
+Accepted 29 July 2017
+Published 18 August 2017               apical tip within 12 days of sustaining injury, and showed extensive regrowth of the
+                                       coral skeleton. Taken together, our results have demonstrated that periods of sustained
+Corresponding author
+Joshua Louis Bonesso,                  increased sea surface temperatures, below the corals’ bleaching threshold but above
+joshua.bonesso@qut.edu.au              long-term summertime averages, impair coral recovery from damage, regardless of the
+Academic editor                        onset or occurrence of coral bleaching.
+Mauricio Rodriguez-Lanetty
+Additional Information and
+                                   Subjects Ecology, Genetics, Marine Biology, Climate Change Biology
+Declarations can be found on
+page 15                            Keywords Coral reefs, GFP, Heat shock proteins (HSP), Injury, Recovery, Scanning Electron
+                                   Microscopy (SEM), Temperature stress
+DOI 10.7717/peerj.3719
+
+    Copyright
+2017 Bonesso et al.                INTRODUCTION
+Distributed under                  Sea surface temperatures (SSTs) have increased in recent decades and are projected
+Creative Commons CC-BY 4.0         to continue to increase at a rate of, on average, 0.12 ◦ C per decade (Steig et al., 2009).
+OPEN ACCESS                        Elevated SSTs have been shown to severely impede calcification and skeletal deposition
+
+
+
+                                   How to cite this article Bonesso et al. (2017), Exposure to elevated sea-surface temperatures below the bleaching threshold impairs coral
+                                   recovery and regeneration following injury. PeerJ 5:e3719; DOI 10.7717/peerj.3719
+                                   in reef-building corals (Carricart-Ganivet et al., 2012). Synergistic stressors on coral reefs
+                                   during periods of increased SSTs are also projected to become increasingly common. For
+                                   example, storm and disease events are projected to increase in frequency and intensity
+                                   (Hoegh-Guldberg et al., 2007; Hughes et al., 2003) and predation by crown of thorns starfish
+                                   is predicted to increase in areas with decreasing water quality (De’arth et al., 2012; Brodie
+                                   et al., 2005). These events in isolation, and where occurring together, will result in a far
+                                   greater frequency of stress and injury to reef-building corals. However, the capacity of
+                                   corals to survive and recover is dependent on their capacity to successfully repair and/or
+                                   regenerate lost tissue and re-grow damaged branches (Kramarsky-Winter & Loya, 2000).
+                                   This reformation of both skeleton and tissue at lesion sites is essential for colony survival,
+                                   growth, reproduction and the prevention of disease (Oren, Benayahu & Loya, 1997; Van de
+                                   Water et al., 2015a; Van de Water et al., 2015b).
+                                       Corals produce fluorescent proteins (FPs) (Dove, Hoegh-Guldberg & Ranganathan,
+                                   2001) which play integral roles in photoprotection (Salih et al., 2000), photosynthetic
+                                   enhancement in low-light environments, antioxidant enhancement (Bou-Abdallah,
+                                   Chasteen & Lesser, 2006; Palmer, Modi & Mydlarz, 2009), camouflage (Matz, Marshall &
+                                   Vorobyev, 2006), regulation of the coral-Symbiodinium symbiosis (Dove et al., 2008; Field et
+                                   al., 2006) and the coral innate immune response (Palmer, Modi & Mydlarz, 2009; D’Angelo
+                                   et al., 2012). A principle role of Green Fluorescent Proteins (GFPs), photoprotection,
+                                   regulates the light environment of the coral host tissue and protects the photosynthetic
+                                   machinery of their endosymbionts from high irradiance (Salih et al., 2000; Schlichter, Weber
+                                   & Fricke, 1985). In reef-building corals, GFP concentration has been found to change
+                                   reversibly with light intensity, increasing in high-light corals and decreasing in medium
+                                   to low-light corals (Roth et al., 2010). In fact, GFP concentration has been correlated with
+                                   growth rates and light exposure, with high-light corals exhibiting faster growth rates and
+                                   fluorescence than low light corals (Roth et al., 2010; Roth et al., 2010). Under high light
+                                   conditions, GFPs dissipate excess energy and reflect light (Salih et al., 2000). Increased
+                                   expression of GFP-like proteins can be found around corals’ growth zones where symbiont
+                                   density is lowest, including the apical polyps, upper radial corallites, edges of healthy coral
+                                   colonies and in areas of high or direct light exposure (D’Angelo et al., 2012). Here, GFPs
+                                   have been hypothesised to reflect and scatter harmful and potentially damaging energy away
+                                   from the endosymbionts (Salih et al., 2000; Schlichter, Weber & Fricke, 1985). Coral tissue
+                                   compromised by injury, infection and the increased abundance of Reactive Oxygen Species
+                                   (ROS) have altered GFP fluorescence and expression (Palmer, Modi & Mydlarz, 2009). For
+                                   example, an up-regulation of GFP at the site of injured or compromised tissue functions
+                                   as an antioxidant and scavenger of harmful oxygen radicals (e.g., H2 O2 , O−    2 and OH )
+                                                                                                                              −
+
+                                   present at the wound site (Palmer, Modi & Mydlarz, 2009; Palmer, Roth & Gates, 2009).
+                                       Furthermore, specific GFP-like proteins and proliferating cell nuclear antigen growth
+                                   markers have been found to show upregulation in growing branches and disturbed parts
+                                   of colonies. This has been found to be important in the immune and repair response
+                                   of reef-building corals following injury (D’Angelo et al., 2012). Studies have also shown
+                                   a decrease in both concentration and expression of GFPs when corals are exposed to
+                                   thermal stress and undergo bleaching (Dove, 2004; Smith-Keune & Dove, 2008; Desalvo
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                         2/21
+                                   et al., 2008). Under experimental conditions, rapid reduction in GFP concentration
+                                   has been reported in Montipora monastriata, Acropora yongei, Acropora millepora and
+                                   Acropora aspera after exposure to thermal stress (Smith-Keune & Dove, 2008) and a result
+                                   of decreased symbiont densities (Roth & Deheyn, 2013). As a result, thermal stress has been
+                                   postulated to overwhelm the photo-protective mechanisms leading to increased sensitivity
+                                   to photo-damage (Roth & Deheyn, 2013).
+                                      Regeneration, or the renewal or repair of cells, tissues and organs, is widely distributed
+                                   yet highly variable among metazoans (Alvarado & Tsonis, 2006; Sanchez-Alvarado,
+                                   2000; Somorjai et al., 2012). Colonial invertebrates including corals, have the capacity
+                                   to regenerate entire organisms from tissue fragments, dissociated tissues and even re-
+                                   aggregated cells (Bosch, 2007; Gierer et al., 1972; Morgan, 1898). Regeneration is classified
+                                   into two general categories according to the following criteria: (1) regeneration in the
+                                   absence of cell proliferation and (2) regeneration mediated by cell proliferation (Sanchez-
+                                   Alvarado, 2000). The first, coined morphallaxis is most common in invertebrates, involving
+                                   the renewal of missing body parts through the remodelling of pre-existing cells. Although
+                                   cell differentiation is active, the result is a complete individual derived entirely from the
+                                   reorganisation or exchange of cells from the original organism (Gierer et al., 1972; Chera
+                                   et al., 2009). Hydra regeneration demonstrates the capacity to regenerate without the
+                                   creation of new material (Bosch, 2007). When individual (non-colonial) Hydra polyps are
+                                   severely damaged, the remaining structures are remodelled to regenerate whole body parts
+                                   including the mouth and tentacles (Agata, Saito & Nakajima, 2007; Böttger & Alexandrova,
+                                   2007; Passamaneck & Martindale, 2012). In corals, regeneration following injury has been
+                                   documented to occur via both morphallaxis, the re-arranging of pre-existing cells in the
+                                   polyps underlying fine tissue; or epimorphosis, involving a cascade of differentiation and
+                                   proliferation (Harrison, 1972; Fisher et al., 2007; Meesters, Pauchli & Bak, 1997). However
+                                   injury recovery and tissue repair in corals is impeded by thermal stress (Baker, Glynn &
+                                   Riegl, 2008; Meesters & Bak, 1993; Meesters & Bak, 1994; Baird & Marshall, 2002). Here we
+                                   monitored tissue repair, GFP fluorescence, and gene expression patterns in corals for 12
+                                   days following injury (removal of apical tips) whilst held under both ambient (26 ◦ C)
+                                   and sub-bleaching thermal stress (32 ◦ C). In doing so, the study aimed to investigate the
+                                   impact of sustained exposure to sub-lethal (pre-beaching) temperatures on coral capacity
+                                   to recover from injury.
+
+                                   MATERIALS AND METHODS
+                                   Large coral colony fragments (n = 20) of approximately 20 cm in diameter were randomly
+                                   sampled (under Great Barrier Reef Marine Park Authority permit number G13/36402.1)
+                                   from 4 distinct patches of Acropora aspera (tan morph) on the Heron Island reef flat
+                                   (23◦ 260 36.200 S 151◦ 540 43.100 E) at low tide during March 2014 (Fig. 1), no genotyping was
+                                   conducted. Sampling was conducted at a depth of 0.3 m, temperature range of 26–32 ◦ C,
+                                   and a midday light intensity between 300 to 2,200 µmol quanta m−2 s−1 . Colony fragments
+                                   were randomly assigned to two 1,000 litre flow-through seawater mesocosms (<100 m
+                                   from the site of collection), 10 colony fragments were assigned to each system, left to
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                        3/21
+                                    Figure 1 Field site of sample collection of A. aspera. Experimental species A. aspera following collec-
+                                    tion and removal of apical tips on 50% of colony branches (A), location of study site, Heron Island (B)
+                                    and map of Heron Island reef from which experimental coral colonies were collected (X) (C) Map Data:
+                                    Google Maps, DigitalGlobe.
+
+
+                                   acclimate for 7 days with flow-through seawater sourced directly from the adjacent reef
+                                   flat at a high turnover rate, and monitored for recovery. Water in-flow and circulation
+                                   was identical in the mesocosms and monitored throughout the day for the duration of the
+                                   experimental period. All corals recovered from fragmentation, corals were observed to be
+                                   feeding and damage points from collection fully healed during the acclimation, resulting in
+                                   20 healthy coral colonies to be used for experimental purposes. To mimic expected reef flat
+                                   light and temperature regimes, both mesocosms were positioned in full sunlight with no
+                                   direct shading from adjacent structures. Coral colony fragments were also positioned 20
+                                   cm apart from each other, and internal pumps were used to provide sufficient flow within
+                                   and around the coral colony fragments.
+
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                                      4/21
+                                      Two days prior to the end of acclimation, the branches of half the colony colonies in
+                                   each mesocosm (n = 5 coral colony fragment colonies) were injured by having apical tips
+                                   removed (∼3 cm of the apical region) and the remaining five colonies had their tips left
+                                   intact (Fig. 1). The corals where maintained in ambient conditions for two days to allow
+                                   wound healing to initiate and corals were monitored for health throughout this period.
+                                   This design was applied to provide a control baseline comparison of molecular regulation
+                                   of heat-shock responses between the two mescosms (n,10 colonies) without the application
+                                   of sub-lethal thermal stress, and allow for within treatment controls to compare coal
+                                   recovery under the two thermal regimes. Following the acclimation period one mesocosm
+                                   was maintained at ambient inflow seawater conditions of 26 ◦ C while the other mesocosm
+                                   had incoming seawater increased to 32 ◦ C (sub-bleaching) during daylight hours over a
+                                   12-day period.
+                                      Coral colonies showed no visible signs of paling or mucous sloughing when exposed to
+                                   daily peak temperatures of sub-bleaching 32 ◦ C (2 degrees below the bleaching threshold of
+                                   34 ◦ C for A. aspera (Ainsworth et al., 2016)) with changes in tissue pigmentation monitored
+                                   twice daily and compared to coral health check colour cards. To replicate natural reef
+                                   temperature conditions, aquarium heaters in the temperature treatment mesocosm (32 ◦ C)
+                                   were switched off at 1,900 h and switched on from 0,700 h each day for a duration of 12 h.
+                                   Seawater temperature was recorded using Odyssey temperature loggers (Christchurch,
+                                   New Zealand) every two minutes. Light levels in both systems were monitored every
+                                   10 min with Odyssey Photosynthetic Active Radiation (PAR) recorders (Dataflow Systems
+                                   Limited, Christchurch, New Zealand), ranging between 700–1,500 µmol quanta m−2 s−1 .
+                                      On days 2, 4, 6, 8, 10 and 12 following removal of the apical tips, 4 branches from each
+                                   coral colony fragment were randomly sampled at mid-day (1200 h) from each of the two
+                                   treatments. Coral branches (n = 2 of 4) were fixed with 4% paraformaldehyde (PFA) and
+                                   3 × Phosphate Buffer Saline (PBS) overnight, then transferred and stored in 3 × PBS at
+                                   4 ◦ C. The remaining coral branches (n = 2 of 4) were also immediately snap-frozen in
+                                   liquid nitrogen (LN2 ) and stored at −80 ◦ C. Coral branches snap frozen in liquid nitrogen
+                                   were crushed using a hydraulic press and homogenised to a fine powder in a mortar chilled
+                                   with liquid nitrogen under RNase free conditions. Samples were then stored at −80 ◦ C for
+                                   mRNA purification using the Dynabeads R mRNA DIRECTTM Kit (Ambion, Foster City,
+                                   CA, USA) and DNase/cDNA synthesis. Messenger RNA was isolated from approximately
+                                   150 mg of crushed sample from injured (n = 120) and non-injured (n = 120) coral
+                                   branches using the Dynabeads R mRNA DIRECTTM Kit (Ambion, Foster City, CA, USA)
+                                   (as per manufactures instructions). Isolated mRNA was quantified spectrophotometrically
+                                   using a NanoDrop-1000 (NanoDrop Technologies, Wilmington, DE, USA). Genomic
+                                   DNA contamination was removed from 0.1 µg of mRNA via a DNase digest treatment
+                                   using the RQ1 RNase-Free DNase (Promega, Madison, WI, USA). Complementary DNA
+                                   (cDNA) was synthesised from DNase-treated mRNA for use in quantitative real-time-
+                                   PCR (qRT-PCR). Approximately 100 ng of mRNA was reverse transcribed using the
+                                   SuperScriptTM III First-Strand Synthesis (SSIII) SuperMix for qRT-PCR (Invitrogen),
+                                   according to manufacturer’s instructions, with oligo (dT) primers.
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                      5/21
+                                    Table 1 Oligonucleotide sequences of target and housekeeping genes. Oligonucleotide primer
+                                    sequences of target and housekeeping genes for RT-qPCR of A. aspera.
+
+                                     Gene name               Oligonucleotide primer sequence (50 –30 )          Cited source
+                                     Target genes
+                                     HSP70                   F1 :AGGAGACCGCTGAGGCATACTTG                        Ogawa et al. (2013)
+                                                             R1 :CTTGGTGGCCTGACGCTGAGAATC
+                                     HSP90                   F1 :ATTCCGAGGATCTGCCACTGA                          Ogawa et al. (2013)
+                                                             R1 :TCTCTGCGATCTCTGCGAACAT
+                                     Catalase                F1 :GCAAAGTAGTTGGACGCGTTAC                         Seneca et al. (2010) and
+                                                             R1 :GGAATCCTTTCGACCTCACTAAG                        Ainsworth et al. (2016)
+                                     Housekeeping genes
+                                     Ctg1913                 F1 :GATTTAACCACCGGCAGTGT                           Ogawa et al. (2013) and
+                                                             R1 :ATGGTAGGGAGGAGGCTGTT                           Ainsworth et al. (2016)
+                                     Ado                     F1 :AAGAAGACAAACATCAAGCCTCA                        Ogawa et al. (2013)
+                                                             R1 :CACATCCAAGGTTCACAAGACG
+
+
+                                      Quantitative real-time PCR was performed using a Rotor-GeneTM 6000 (Corbett Life
+                                   Sciences, New South Wales, Australia) robot and a CAS-1200 robotic liquid handling
+                                   system (Corbet Robotics, Australia). A final volume of 15 µl was analysed in the PCR,
+                                   containing 7.5 µl of GoTaq R qPCR Master Mix (Promega, Madison, WI, USA), 3.5 µl of
+                                   gene specific primers and 4 µl of dilute cDNA template. Quantitative PCR was performed
+                                   under the following conditions: a 1 cycle hold-start activation at 95 ◦ C for 2 min, followed
+                                   by 40 cycles of 15 s at 95 ◦ C and 60 s at 60 ◦ C, with a melt stage between 55 ◦ C and
+                                   95 ◦ C with a temperature increase of 1 ◦ C every 5 s. General stress response genes were
+                                   quantified to confirm corals’ were undergoing thermal stress responses (heat shock protein
+                                   70 (HSP70), heat shock 90 (HSP90) and Catalase). In addition to the genes of interest,
+                                   Adohcyase (Ado) and Ctg1913 were used as coral housekeeping genes (HKGs) (Table 1).
+                                   Each Rotor-DiscTM 100 (Qiagen, Hilden, Germany) included three technical replicates for
+                                   10 biological samples with two template/housekeeping genes. Technical replicates were
+                                   automatically averaged when CT values were within 1 CT. In the few cases were this was
+                                   not the case amplification curves of the replicates were examined manually, and replicates
+                                   removed where amplification did not occur. Samples were repeated if filtered technical
+                                   replicates were not with one CT value. Non-template controls for all runs were performed
+                                   in triplicate.
+                                      Template cDNA dilution series were prepared to optimize quantification accuracy. Serial
+                                   dilutions between 1/5 and 1/80 were performed on a composite of cDNA randomly selected
+                                   from a variety of thermal regimes over the course of the experiment. These dilutions were
+                                   used to construct standard curves for the three target genes, HSP70, HSP90 and Catalase;
+                                   and two housekeeping genes, Ado and Ctg1913. For analysis, cDNA was diluted 1/10 prior
+                                   to use as a template in qRT-PCR analysis. Standard curves for each gene were imported into
+                                   qBASE plus 2.5 software (Biogazelle; http://www.biogazelle.com/products/qbasePLUS) for
+                                   CT value normalisation by calculating the geometric mean of the housekeeping genes.
+                                   Relative expression analysis were then performed using qBASE. Statistics software package
+                                   SPSS (SPSS Statistics v 22.0, IBM, Armonk, North Castle, NY, USA) was used for all
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                                  6/21
+                                   statistical analyses. Significant differences in the relative expression of heat shock protein,
+                                   HSP70 and HSP90; and antioxidant genes, Catalase, were determined using a generalised
+                                   linear model. ‘Injury’ and ‘temperature’ were both considered as single factors with two
+                                   levels. Factor ‘day’ was accounted as a repeated measure. For significantly different data
+                                   the sequential Bonferroni post-hoc least significant difference (LSD) test was performed to
+                                   adjust for type I error.
+                                      PFA fixed coral tips were viewed and photographed under an Olympus stereoscopic
+                                   microscope (Olympus SZX16 R , SDF PLAPO; Olympus Corporation of America, Center
+                                   Valley, PA, USA). Photographs of the apical and lateral polyps were taken using a
+                                   Fujifilm MX-2900ZOOM digital camera, under both visible light and GFP epifluorescence
+                                   (Excitation wavelength = 460–490 nm; Emission wavelength = 510 nm). GFP fluorescence
+                                   at the injury site was quantified using image analysis software ImageJ by calculating
+                                   Corrected Total Cell Fluorescence (CTCF = Integrated Density − (Area of selected
+                                   cells × Mean Fluorescence of background readings)) (McCloy et al., 2014; Burgess et al.,
+                                   2010). Following visible and epifluorescence microscopy, the PFA fixed coral tips were then
+                                   bleached using a 1:1 ratio of 4% hypochlorite bleach (Brighton Professional) to tap water to
+                                   remove all biological material, followed by three washes in tap water to remove any residual
+                                   calcified crystals. The calcified tips were then placed onto aluminium mounts using the
+                                   plastic conductive carbon cement Leit-C-Plast (ProSciTech, AustraliaTM ), and coated in six
+                                   layers of gold. Samples were viewed and photographed using scanning electron microscopy
+                                   (SEM) (JOEL, Tokyo, Japan, model JSM5410LV) at 15× and 5.0 kv magnification to
+                                   compare topographical differences in apical tip growth under ambient verses temperature-
+                                   treated (sub-bleaching) conditions over the 12-day experimental period. Linear extension
+                                   of the regenerating apical tips was measured from a fixed landmark (centre point on the
+                                   cut site at the base of the apical tip to the top of the extending apical tip) using ImageJ,
+                                   with coral branches positioned in the same direction in each image. Repeated measures
+                                   ANOVAs were performed using SPSS (SPSS Statistics v 22.0, IBM, USA) to compare
+                                   (1) differences in linear extension (mm day−1 ) and (2) differences in GFP fluorescence
+                                   intensity (CTCF) between ambient and temperature stressed treatments.
+
+                                   RESULTS
+                                   Visible and GFP epi-fluorescent response to injury and thermal stress
+                                   The regenerative and wound healing response of experimentally injured A. aspera
+                                   to the synergistic impacts of thermal stress was documented by a time-series of
+                                   micrographs of the apical tips of colonies held under temperature stressed and ambient
+                                   conditions. Examination of colonies with their apical tips removed, revealed significant
+                                   apical regeneration/healing under ambient summertime seawater conditions (26 ◦ C)
+                                   (Figs. 2A–2F). More than 50% of regrowth of the apical tip had occurred by day 8 and
+                                   complete regrowth of the apical tip was evident by experimental day 12. Epifluorescence
+                                   examination of apical tips of corals under ambient conditions further revealed that GFP
+                                   fluorescence was evident at the wound site where the apical tip had been removed and within
+                                   the reforming apical tip (Figs. 2G–2L). GFP fluorescence measured via the CTCF method
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                         7/21
+                                    Figure 2 Microscopic examination of apical tip regeneration following exposure to ambient SST con-
+                                    ditions. Time series photograph (A–F), epi-floruescence photographs (G–L) and scanning electron micro-
+                                    graph of skeletal structure (M–R) of A. aspera injured corals held under ambient SST conditions (26 ◦ C).
+                                    Measure of apical tip extension denoted by (ext).
+
+
+
+
+                                    Figure 3 Microscopic examination of apical tip regeneration following exposure to elevated SST con-
+                                    ditions. Time series photograph (A–F), epi-floruescence photographs (G–L) and scanning electron micro-
+                                    graph of skeletal structure (M–R) of A. aspera injured corals held under elevated SST conditions (32 ◦ C).
+
+
+                                   (McCloy et al., 2014; Burgess et al., 2010) was significantly different for corals exposed to
+                                   ambient and temperature stressed conditions (Wilks’ Lambda = 0.42, F1,5 = 6.8, p < 0.05).
+                                   GFP fluorescence increased during apical tip regrowth between day 2 (∼300000 CTCF)
+                                   and 10 (∼2500000 CTCF) under ambient seawater conditions and was observed within
+                                   the newly forming coral apical tip throughout the experimental period. During exposure
+                                   to sub-bleaching seawater temperature conditions, increased GFP fluorescence was only
+                                   evident at the central polyp growth channel on the wound site at day 4 (∼1100000 CTCF),
+                                   6 (∼1100000 CTCF) and 8 (∼1000000 CTCF) (Figs. 3H–3L) (Fig. 4).
+
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                                      8/21
+                                    Figure 4 Corrected Total Cell Fluorescence. Average Corrected Total Cell Fluorescence (CTCF) of in-
+                                    jury site (i.e., site of apical tip removal) in A. aspera held under ambient (26 ◦ C) and elevated (32 ◦ C) SST
+                                    conditions, Mean = ±1 s.e.
+
+
+                                   Calcification response to injury and thermal stress
+                                   Scanning electron microscopy was used to examine the effect of sub-bleaching thermal
+                                   stress on skeletal regeneration of the coral apical tips. Exposure to sub-bleaching conditions
+                                   (32 ◦ C) had a visible effect on patterns of skeletal regeneration across the 12-day
+                                   experimental period. Un-injured corals sampled from days 2 and 12 were used as base-line
+                                   comparisons of intact corallite structure. Skeletal linear extension (mm per day−1 ) of
+                                   the coral apical tip was significantly different between temperature stressed and ambient
+                                   seawater conditions (Wilks’ Lambda = 0.33, F1,5 = 9.8, p < 0.05) (Fig. 5). During exposure
+                                   to ambient seawater conditions, ∼1.44 mm extension of the calcium carbonate skeletal was
+                                   evident by day 6 with complete extension of ∼2.2 mm evident by day 12. Under exposure to
+                                   sub-bleaching temperature stress an emergent apical tip was only evident in some samples
+                                   by day 10 with only ∼0.5 mm extension of the apical tip evident.
+
+                                   Gene expression analyses
+                                   Heat shock protein and catalase regulation were examined in the coral host throughout
+                                   the experimental period. Both temperature and injury had a significant effect on catalase
+                                   expression resulting in a down-regulation at day 4 (14,069.56 fold, p < 0.001). There was
+                                   also a significant interaction of temperature and injury at day 4 on catalase expression.
+                                   Under ambient (control) conditions on this day, there was no significant difference in
+                                   expression between injured and non-injured corals. Instead, at elevated temperatures,
+                                   there was a significant difference in expression between injured and non-injured corals
+                                   (1000.1 fold, p < 0.001) (Fig. 6A). The response of both HSP70 and HSP90 was determined
+                                   for the coral A. aspera over the course of the 12 day experimental period. In the coral
+                                   host, temperature had a significant effect on HSP70 and HSP90 expression, resulting in a
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                                             9/21
+                                    Figure 5 Linear extension rates. Average total linear extension (mm per day−1 ) of apical tips in A. aspera
+                                    held under ambient and elevated SST conditions, Mean = ±1 s.e.
+
+
+                                   down-regulation at day 12 (979 fold decrease, p < 0.001; 1,676 fold decrease, p < 0.001).
+                                   However, there was no significant interaction between temperature and injury on both
+                                   HSP90 (Fig. 6B) and HSP70 expression (Fig. 6C).
+
+                                   DISCUSSION
+                                   In scleractinian corals injury results in the removal of tissue and/or skeletal from the
+                                   colony. Injuries are generally categorised based on the amount of tissue lost, including
+                                   partial or total tissue injuries, and superficial (e.g., scrapings/gross lesions) or extensive
+                                   (e.g., bump/branch removal) for injuries resulting in functional and morphologic changes
+                                   in tissue and skeleton (Stafford-Smith, 1993; Hall, 1997). Regeneration/wound healing
+                                   following extensive injury has been documented to occur in >74 days post-injury, and
+                                   between 24 h and 80 days following partial injuries (Hall, 1997; Bak, 1983; Meesters &
+                                   Bak, 1994; DeFilippo et al., 2016). Here we find the recovery and regeneration of A. aspera
+                                   to injury (i.e., apical tip removal) was significantly impeded following exposure to sub-
+                                   bleaching thermal stress conditions (32 ◦ C) compared to summertime ambient seawater
+                                   conditions (26 ◦ C). Injured corals showed less than 50% apical tip regrowth occurring
+                                   within 12 days post-injury. Previous studies have shown that corals compromised by
+                                   thermal stress have reduced growth rates (Leder, Szmant & Swart, 1991) and consequently
+                                   lower tissue regeneration capacities (Meesters & Bak, 1993). This is supported by Denis et
+                                   al. and colleagues (2013) who reported a significant reduction in the regeneration/recovery
+                                   of superficial lesions on A. muricata nubbins at sites exposed to high fluctuating seawater
+                                   temperatures (∼192 days post-injury) as opposed to sites characterised by stable seawater
+                                   temperatures (∼81 days post-injury). Damaged juvenile colonies of Porites spp. were also
+                                   found to show impeded regeneration at sub-lethal 29.6 ◦ C compared to colonies exposed to
+                                   26.7 ◦ C (Edmunds & Lenihan, 2010). Similarly, comparison of wound healing in naturally
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                                      10/21
+                                    Figure 6 Relative gene expression of target genes. Relative expression of injured and un-injured A. as-
+                                    pera Catalase (A), HSP 90 (B), and HSP 70 (C) in corals held under ambient (26 ◦ C) and elevated (32 ◦ C)
+                                    SST conditions, Mean = ±1 s.e.
+
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                                     11/21
+                                   non-symbiotic and symbiotic Astrangia poculata found that the presence of Symbiodinium
+                                   increased wound healing ability (DeFilippo et al., 2016; Burmester et al., 2017). In view of
+                                   this, our observations suggest that exposure to sub-bleaching thermal stress (32 ◦ C) also
+                                   impairs the healing capacity of A. aspera due to a reduced availability of energetic resources
+                                   and that the cellular regeneration and repair mechanisms may be compromised by the
+                                   physical environment and the direct effects of temperature on coral metabolism and growth
+                                   (as described by Kramarsky-Winter & Loya, 2000; Jokiel, 2004; Edmunds & Gates, 2008).
+                                   Studies with additional mesocosms and temperature conditions could further characterise
+                                   the dynamics of this synergistic interaction.
+
+                                   Calcification response to injury and thermal stress
+                                   Exposure to sub-bleaching thermal stress (32 ◦ C) had a visible impact on skeletal formation
+                                   at the coral apical tip, with linear extension only evident in some samples by day 10
+                                   compared to full extension being evident by day 12 in corals held in normal, ambient,
+                                   seawater conditions (26 ◦ C). Calcification and extension rates in corals are significantly
+                                   greater at the top of colonies (i.e., branch tips) than at the sides (Lough & Barnes, 2000).
+                                   When subjected to thermal stress, reef-building corals have been shown to exhibit
+                                   abnormally reduced extension and calcification rates, and are more susceptible to other
+                                   stressors including bleaching (Goreau & Macfarlane, 1990); Meesters & Bak, 1993; De’ath,
+                                   Lough & Fabricius, 2009; Cantin et al., 2010). Previous studies have postulated an increase
+                                   in calcification rates with increasing temperature up to an optimum and then declining
+                                   significantly as water temperatures approach ∼30 ◦ C, likely the result of increasing levels of
+                                   thermal stress (Jokiel & Coles, 1977; Marshall & Clode, 2004). Our results, in conjunction
+                                   with what has been reported in previous literature, indicate that exposure of A. aspera to
+                                   synergistic sub-bleaching thermal stress (32 ◦ C) substantially reduces skeletal extension
+                                   in the coral apical tips. It is also possible that physiological adjustments (i.e., higher rates
+                                   of heat shock protein production and/or ROS scavenging) could exert energetic costs
+                                   high enough to subvert calcification (Dandan et al., 2015), thus explaining the reduced
+                                   calcification and extension in the A. aspera apical tips when subjected to sub-bleaching
+                                   thermal stress.
+
+                                   GFP epi-fluorescent response to injury and thermal stress
+                                   GFP epi-fluorescence was found to be significantly lower in injured corals under thermally
+                                   stressed seawater conditions (32 ◦ C), compared to ambient seawater conditions (26 ◦ C).
+                                   In the current study GFP fluorescence in the apical tips was found to significantly increase
+                                   between days 4 and 12 following injury under normal ambient seawater conditions
+                                   (26 ◦ C), but an increase in GFP at the injury site was absent in thermally stressed, injured,
+                                   corals. Simultaneous exposure to thermal stress and/or solar radiation in shallow tropical
+                                   waters such as that exposed to A. aspera, is known to cause photoinhibition and increase
+                                   the production of damaging ROS in Symbiodinium and coral host tissue, and lead to
+                                   perturbations of the metabolic and cellular processes in Symbiodinium and/or their coral
+                                   host cells (Smith, Suggett & Baker, 2005; Bou-Abdallah, Chasteen & Lesser, 2006) due to
+                                   the overwhelming of antioxidant defences. In A. aspera, GFP-like homologs are also
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                         12/21
+                                   hypothesised to be photo-protective at normal temperatures less than 32 ◦ C (Dove, 2004).
+                                   The observed increase in GFP fluorescence may be due to the photo-protection of newly
+                                   differentiating host tissue from the build-up of harmful ROS elevated in the epithelial and
+                                   gastrodermal tissue during injury, in addition to the deposition of a newly forming calcium
+                                   carbonate skeleton. A high concentration of host pigments in this active growth region acts
+                                   to deflect visible, infra-red light and thermal damage from the coral host tissue surfaces
+                                   (Bou-Abdallah, Chasteen & Lesser, 2006; Salih et al., 2000; Kaniewska et al., 2012), however
+                                   this protection does not occur under temperature regimes which result in thermal stress
+                                   to the coral.
+
+                                   Antioxidant gene expression
+                                   Endogenous antioxidant enzymes including catalase and superoxide dismutases are a corals
+                                   first line of defence against the harmful effects of excessive ROS production in Symbiodinium
+                                   and host tissues. The sensitivity of these enzymes to temperature makes them particularly
+                                   useful indicators for the onset of thermal stress and bleaching in reef-building corals (Seneca
+                                   et al., 2010; Merle et al., 2007). In the current study, exposure of A. aspera to sub-bleaching
+                                   thermal stress (32 ◦ C) was characterised by a significant up-regulation in catalase expression
+                                   at day 4. In corals, up-regulation of catalase is important in limiting the production of
+                                   highly cytotoxic hydroxyl radicals (Ross et al., 2010). Our findings in A. aspera following
+                                   thermal stress are consistent with previous studies in various species of adult and juvenile
+                                   corals, reporting consistent up-regulation within 48 h following immediate exposure to
+                                   increased seawater temperatures (Voolstra et al., 2009; Pernice et al., 2011).
+                                      Catalase expression was also found to show significant up-regulation at day 4 in
+                                   response to injury. Coral tissue compromised by injury, exhibit an increased abundance
+                                   of damaging oxygen radicals, due to increased activity of the melanin-synthesis pathway
+                                   (Palmer, Modi & Mydlarz, 2009). This may therefore have resulted in the induction of
+                                   catalase as a scavenger of ROS at the site of injury, resulting in a significant up-regulation.
+                                   Further evidence may be drawn from higher metazoan species and plants. Following
+                                   traumatic brain injury in rats, catalase showed significant upregulation 3 days post-injury
+                                   in comparison to non-traumatised controls. This was followed by a return to normal
+                                   expression by day 7 (Goss et al., 1997). Given the findings in A. aspera, peak expression
+                                   was found at day 4 followed by a drop in expression level at day 6. Findings by Guan,
+                                   Zhao & Scandalios (2000) have also reported up-regulation of three catalase homolog
+                                   genes in response to wounding in immature embryos and leaves of maize, a response
+                                   to increased levels of endogenous H2 O2 in wounded tissue and leaves. Importantly, a
+                                   significant temperature stress/injury interaction effect on catalase up-regulation was found
+                                   only under thermally stressed seawater temperatures. During the coral stress response,
+                                   the effects from temperature stress, injury and/or infection contribute to elevated ROS in
+                                   the coral host tissue (Palmer, Modi & Mydlarz, 2009). Hence, it can be postulated that the
+                                   combination of sub-bleaching temperature and injury in A. aspera were responsible for an
+                                   up-regulation in catalase activity in response to overcome the overproduction of damaging
+                                   ROS at the injured apical tips.
+
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                        13/21
+                                   HSP gene responses
+                                   The role of HSPs as molecular chaperones are to aid in proper protein folding and prevent
+                                   aggregation at elevated temperature and other stressors (Sørensen, Dahlgaard & Loeschcke,
+                                   2001), and are generally normally up-regulated by organisms under heat stress (Feder &
+                                   Hofmann, 1999). It is therefore unusual that no significant up-regulation of HSP70 or
+                                   HSP90, following exposure to sub-bleaching thermal stress in A. aspera, was observed
+                                   during this study. Despite this, a significant down-regulation was reported only at day
+                                   12. Several studies examining thermal stress in a diversity of coral species have failed to
+                                   detect an up-regulation in either genes. Desalvo et al. (2008) reported no up-regulation in
+                                   HSP70 in thermally stressed M. faveolata, while Mayfield et al. (2011) found no differential
+                                   expression of HSP70 in heat stressed Seriatopera hystrix. Lack of differential expression
+                                   in the HSPs may have resulted from not sampling earlier enough to capture expressional
+                                   changes following the induction of thermal stress (Bellantuono et al., 2012). Studies on
+                                   the effect of heat stress on A .millepora larvae supports this interpretation, with the
+                                   transcriptional induction of HSP70 and HSP90 detected after only 3 h (Rodriguez-Lanetty,
+                                   Harii & Hoegh-Guldberg, 2009). However, it is important to acknowledge that a rapid
+                                   induction of HSPs following heat stress has been reported in several coral species including
+                                   A. grandis, M. faveolata and Goniopora djiboutiensis.
+
+                                   CONCLUSION
+                                   Understanding corals’ capacity for recovery, the drivers of a failure to recover from injury,
+                                   and the underlying mechanisms governing coral regeneration/injury repair, are particularly
+                                   important given the projected change to coral reefs under future climate change. Mass
+                                   bleaching events, attributed to increasing SSTs and solar irradiance (e.g., UV and IR), have
+                                   driven a worldwide decline of 30% in coral cover (Harrison, Dubinsky & Stambler, 2011; Hill
+                                   & Wilkinson, 2004; Hoegh-Guldberg et al., 2004). Despite this, the underlying molecular
+                                   and cellular mechanisms controlling regenerative/repair processes under thermal stress
+                                   have not been thoroughly investigated. In addition, recent work has demonstrated that the
+                                   coral immune system assists in protecting regenerating tissue from microbial competition
+                                   (Van de Water et al., 2015a; Van de Water et al., 2015b), which is particularly important
+                                   considering how microbial populations may shift as climate changes (Ainsworth & Gates,
+                                   2016). This study was the first to demonstrate a synergistic impact of temperature and injury
+                                   to coral recovery, regrowth and skeletal regeneration in Acroporid corals. In doing so, this
+                                   study also highlights the need for further research into both synergistic and sub-bleaching
+                                   stressors to further determine the impact of climate change on coral reef ecosystems.
+
+                                   ACKNOWLEDGEMENTS
+                                   The authors would like to thank Dr Ben Gordon, Dr Jörg Frommlet and Ms Ligia Maria
+                                   Sousa for sample collection at Heron Island Research Station. We would also like to
+                                   thank the scientific and technical staff of Heron Island Research Station for assistance in
+                                   experimental set-up and logistics. JB would also like to cordially thank As/Prof Jennifer Firn,
+                                   Dr Carmelo Fruciano and Ms Erica Porter, QUT, for proofreading drafts of the manuscript.
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                        14/21
+                                    ADDITIONAL INFORMATION AND DECLARATIONS
+
+                                   Funding
+                                   This work was supported by the Australian Research Council, Discovery Program (grant
+                                   number DP130101421) awarded to TA & WL; Australian Research Council, Super Science
+                                   Program (grant number FS110200046) awarded to TA; and the Australian Research
+                                   Council, Centre of Excellence for Coral Reef Studies (grant number CE0561435). The
+                                   funders had no role in study design, data collection and analysis, decision to publish, or
+                                   preparation of the manuscript.
+
+                                   Grant Disclosures
+                                   The following grant information was disclosed by the authors:
+                                   Australian Research Council, Discovery Program: DP130101421.
+                                   Australian Research Council, Super Science Program: FS110200046.
+                                   Australian Research Council, Centre of Excellence for Coral Reef Studies: CE0561435.
+
+                                   Competing Interests
+                                   William Leggat and Tracy Ainsworth are Academic Editors for PeerJ.
+
+                                   Author Contributions
+                                   • Joshua Louis Bonesso conceived and designed the experiments, performed the
+                                     experiments, analyzed the data, wrote the paper, prepared figures and/or tables, reviewed
+                                     drafts of the paper.
+                                   • William Leggat conceived and designed the experiments, analyzed the data, contributed
+                                     reagents/materials/analysis tools, wrote the paper, reviewed drafts of the paper.
+                                   • Tracy Danielle Ainsworth conceived and designed the experiments, analyzed the data,
+                                     contributed reagents/materials/analysis tools, wrote the paper, prepared figures and/or
+                                     tables, reviewed drafts of the paper.
+
+                                   Field Study Permissions
+                                   The following information was supplied relating to field study approvals (i.e., approving
+                                   body and any reference numbers):
+                                     The Great Barrier Reef Marine Park Authority approved this study (permit number
+                                   G13/36402.1).
+
+                                   Data Availability
+                                   The following information was supplied regarding data availability:
+                                     The raw data is supplied as Supplemental Files.
+
+                                   Supplemental Information
+                                   Supplemental information for this article can be found online at http://dx.doi.org/10.7717/
+                                   peerj.3719#supplemental-information.
+
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                    15/21
+                                   REFERENCES
+                                   Agata K, Saito Y, Nakajima E. 2007. Unifying principles of regeneration I: Epimor-
+                                       phosis versus morphallaxix. Development, Growth & Differentiation 49:73–78
+                                       DOI 10.1111/j.1440-169X.2007.00919.x.
+                                   Ainsworth TD, Gates RD. 2016. Coral’s microbial sentinels. Science 352:1518–1519
+                                       DOI 10.1126/science.aad9957.
+                                   Ainsworth TD, Heron SF, Ortiz JC, Mumby PJ, Grech A, Ogawa D, Eakin CM, Leggat
+                                       W. 2016. Climate change disables coral bleaching protection on the Great Barrier
+                                       Reef. Science 352:338–342 DOI 10.1126/science.aac7125.
+                                   Alvarado AS, Tsonis PA. 2006. Bridging the regeneration gap: genetic insights from
+                                       diverse animal models. Nature Reviews Genetics 7:873–884 DOI 10.1038/nrg1923.
+                                   Baird AH, Marshall PA. 2002. Mortality, growth and reproduction in scleractinian
+                                       corals following bleaching on the Great Barrier Reef. Marine Ecology Progress Series
+                                       237:133–141.
+                                   Bak RPM. 1983. Neoplasia, regeneration and growth in the reef-building coral Acropora
+                                       palmata. Marine Biology 77:221–227 DOI 10.1007/BF00395810.
+                                   Baker AC, Glynn PW, Riegl B. 2008. Climate change and coral reef bleaching: an
+                                       ecological assessment of long-term impacts, recovery trends and future outlook.
+                                       Esturine, Coastal and Shelf Science 80:435–471 DOI 10.1016/j.ecss.2008.09.003.
+                                   Bellantuono AJ, Granados-Cifuentes C, Miller DJ, Hoegh-Guldberg O. Rodriguez-
+                                       Lanetty M. 2012. Coral thermal tolerance: tuning gene expression to resist thermal
+                                       stress. PLOS ONE 7:e50685 DOI 10.1371/journal.pone.0050685.
+                                   Bosch TC. 2007. Why polyps regenerate and we don’t: towards a cellular and molec-
+                                       ular framework for Hydra regeneration. Developmental Biology 303:421–433
+                                       DOI 10.1016/j.ydbio.2006.12.012.
+                                   Böttger A, Alexandrova O. 2007. Programmed cell death in Hydra. Seminars in Cancer
+                                       Biology 17:134–146 DOI 10.1016/j.semcancer.2006.11.008.
+                                   Bou-Abdallah F, Chasteen ND, Lesser MP. 2006. Quenching of superoxide radicals by
+                                       green fluorescent protein. Biochimica Et Biophysica Acta (BBA)—General Subjects
+                                       1760:1690–1695 DOI 10.1016/j.bbagen.2006.08.014.
+                                   Brodie J, Fabricius K, De’ath G, Okaji K. 2005. Are increased nutrient inputs responsible
+                                       for more outbreaks of crown-of-thorns starfish? An appraisal of the evidence. Marine
+                                       Pollution Bulletin 51:266–278 DOI 10.1016/j.marpolbul.2004.10.035.
+                                   Burgess A, Vigneron S, Brioudes E, Labbé J-C, Lorca T, Castro A. 2010. Loss of human
+                                       Greatwall results in G2 arrest and multiple mitotic defects due to deregulation of the
+                                       cyclin B-Cdc2/PP2A balance. Proceedings of the National Academy of Sciences of the
+                                       United States of America 107:12564–12569 DOI 10.1073/pnas.0914191107.
+                                   Burmester EM, Finnerty JR, Kaufman L, Rotjan RD. 2017. Temperature and symbiosis
+                                       affect lesion recovery in experimentally wounded, facultatively symbiotic tempera-
+                                       ture corals. Marine Ecology Progress Series 570:87–99.
+
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                    16/21
+                                   Cantin NE, Cohen AL, Karnauskas KB, Tarrant AM, McCorkle DC. 2010. Ocean
+                                       warming slows coral growth in the central red sea. Science 329:322–325
+                                       DOI 10.1126/science.1190182.
+                                   Carricart-Ganivet JP, Cabanillas-Teran N, Cruz-Ortega I, Blanchon P. 2012. Sensitivity
+                                       of calcification to thermal stress varies among genera of massive reef-building corals.
+                                       PLOS ONE 7:e32859 DOI 10.1371/journal.pone.0032859.
+                                   Chera S, Ghila L, Dobretz K, Wenger Y, Bauer C, Buzgariu W, Martinou JC,
+                                       Galliot B. 2009. Apoptotic cells provide an unexpected source of Wnt3 sig-
+                                       naling to drive hydra head regeneration. Developmental Cell 17:279–289
+                                       DOI 10.1016/j.devcel.2009.07.014.
+                                   Dandan SS, Falter JL, Lowe RJ, McCulloch MT. 2015. Resilience of coral calcification to
+                                       extreme temperature variations in the Kimberley region, northwest Australia. Coral
+                                       Reefs 34:1151–1163 DOI 10.1007/s00338-015-1335-6.
+                                   D’Angelo C, Smith E, Oswald F, Burt J, Tchernov D, Wiedenmann J. 2012. Locally
+                                       accelerated growth is part of the innate immune response and repair mechanisms
+                                       in reef-building corals as detected by green fluorescent protein (GFP)-like pigments.
+                                       Coral Reefs 31:1045–1056.
+                                   De’arth G, Fabriciusa KE, Sweatmana H, Puotinenb M. 2012. The 27-year decline
+                                       of coral cover on the Great Barrier Reef and its causes. PNAS 44:17995–17999
+                                       DOI 10.1073/pnas.1208909109.
+                                   De’ath G, Lough JM, Fabricius KE. 2009. Declining coral calcification on the great
+                                       barrier reef. Science 323:116–119 DOI 10.1126/science.1165283.
+                                   DeFilippo L, Burmerster EM, Kaufman L, Rotjan RD. 2016. Patterns of surface lesion
+                                       recovery in the northern star coral, Astrangia poculata. Journal of Experimental
+                                       Marine Biology and Ecology 481:15–24.
+                                   Denis V, Guillaume MMM, Goutx M, De Palmas S, Debreuil J, Baker AC, De-
+                                       nis V, Guillaume MMM, Goutx M, De Palmas S, Debreuil J, AC Baker AC,
+                                       Boonstra RK, Bruggemann JH. 2013. Fast growth may impair regeneration
+                                       capacity in the branching coral acropora muricata. PLOS ONE 8:e72618
+                                       DOI 10.1371/journal.pone.0072618.
+                                   Desalvo M, Voolstra C, Sunagawa S, Schwarz J, Stillman J, Coffroth M, Szmant AM,
+                                       Medina M. 2008. Differential gene expression during thermal stress and bleaching
+                                       in the Caribbean coral Montastraea faveolata. Molecular Ecology 17:3952–3971
+                                       DOI 10.1111/j.1365-294X.2008.03879.x.
+                                   Dove S. 2004. Scleractinian corals with photoprotective host pigments are hyper-
+                                       sensitive to thermal bleaching. Marine Ecology Progress Series 272:99–116
+                                       DOI 10.3354/meps272099.
+                                   Dove S, Hoegh-Guldberg O, Ranganathan S. 2001. Major colour patterns of reef-
+                                       building corals are due to a family of GFP-like proteins. Coral Reefs 19:197–204
+                                       DOI 10.1007/PL00006956.
+                                   Dove SG, Lovell C, Fine M, Deckenback J, Hoegh-Guldberg O, Iglesias-Prieto R,
+                                       Anthony KR. 2008. Host pigments: potential facilitators of photosynthesis in coral
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                     17/21
+                                        symbioses. Plant, Cell and Environment 31:1523–1533
+                                        DOI 10.1111/j.1365-3040.2008.01852.x.
+                                   Edmunds PJ, Gates RD. 2008. Acclimatization in tropical reef corals. Marine Ecology
+                                        Progress Series 361:307–310 DOI 10.3354/meps07556.
+                                   Edmunds PJ, Lenihan HS. 2010. Effect of sub-lethal damage to juvenile colonies of
+                                        massive Porites spp. under contrasting regimes of temperature and water flow.
+                                        Marine Biology 157:887–897 DOI 10.1007/s00227-009-1372-1.
+                                   Feder ME, Hofmann GE. 1999. Heat-shock proteins, molecular chaperones, and the
+                                        stress response: evolutionary and ecological physiology. Annual Review of Physiology
+                                        61:243–282 DOI 10.1146/annurev.physiol.61.1.243.
+                                   Field SF, Bulina MY, Kelmanson IV, Bielawski JP, Matz MV. 2006. Adaptive evolution
+                                        of multicolored fluorescent proteins in reef-building corals. Journal of Molecular
+                                        Evolution 62:332–339 DOI 10.1007/s00239-005-0129-9.
+                                   Fisher EM, Fauth JE, Hallock-Muller P, Woodley CM. 2007. Lesion regeneration rates
+                                        in reef-building corals Montastraea spp. As indicators of colony condition. Marine
+                                        Ecology Progress Series 339:61–71 DOI 10.3354/Meps339061.
+                                   Gierer A, Berking S, Bode H, David CN, Flick K, Hansmann G, Schallar H, Trenkner
+                                        E. 1972. Regeneration of hydra from reaggregated cells. Nature/New Biology
+                                        239:98–101.
+                                   Goreau TJ, Macfarlane AH. 1990. Reduced growth rate of Montastrea annularis
+                                        following the 1987–1988 coral-bleaching event. Coral Reefs.
+                                   Goss JR, Taffe KM, Kochanek PM, DeKonky ST. 1997. The antioxidant enzymes
+                                        glutathione peroxidase and catalase increase following traumatic brain injury in the
+                                        rat. Experimental Neurology 146:291–294 DOI 10.1006/exnr.1997.6515.
+                                   Guan L, Zhao J, Scandalios JG. 2000. Cis-elements and trans-factors that regulate
+                                        expression of the maize Cat1 antioxidant gene in response to ABA and osmotic
+                                        stress: H2 O2 is the likely intermediary signalling molecule for the response. The Plant
+                                        Journal 22:87–95 DOI 10.1046/j.1365-313x.2000.00723.x.
+                                   Hall VR. 1997. Interspecific differences in the regeneration of artificial injuries on
+                                        scleractinian corals. Journal of Experimental Marine Biology and Ecology 212:9–23.
+                                   Harrison FW. 1972. The nature and role of the basal pinacoderm of Corvomeyenia
+                                        carolinensis (Porifera: Spongillidae) a histochemical and developmental study.
+                                        Hydrobiologia 39:495–508 DOI 10.1007/BF00046742.
+                                   Harrison PL, Dubinsky Z, Stambler N. 2011. Coral reefs: an ecosystem in transition.
+                                        Sexual reproduction of scleractinian corals. Dordrecht: Springer Netherlands, 59–85.
+                                   Hill J, Wilkinson C. 2004. Methods for ecological monitoring of coral reefs. Townsville:
+                                        Australian Institute of Marine Science, 117.
+                                   Hoegh-Guldberg O, Mumby PJ, Hooten AJ, Steneck RS, Greenfield P, Gomez E,
+                                        Harvell CD, Sale PF, Edward Aj, Caldeira K, Knowlton N, Eakin CM, Iglesias-
+                                        Prieto R, Muthiga N, Bradbury RH, Dubi A, Hatziolos ME. 2004. Coral reefs in a
+                                        century of rapid environmental change. Symbiosis 37:1–31.
+
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                       18/21
+                                   Hoegh-Guldberg O, Mumby P, Hooten A, Steneck R, Greenfield P, Gomez E,
+                                       Harvell CD, Sale PF, Edwards AJ, Caldiera K, Knowlton N, Eakin CM, Iglesias-
+                                       Prieto R, Muthiga R, Bradbury RH, Dubi A, Hatziolos ME. 2007. Coral reefs
+                                       under rapid climate change and ocean acidification. Science 318:1737–1742
+                                       DOI 10.1126/science.1152509.
+                                   Hughes TP, Baird AH, Bellwood DR, Card M, Connolly SR, Folke C, Grosberg
+                                       R, Hoegh-Guldberg O, Jackson JB, Kleypas J, Lough JM, Marshall P, Nys-
+                                       trom M, Palumbi SR, Pandolfi JM, Rosen B, Roughgarden J. 2003. Climate
+                                       change, human impacts, and the resilience of coral reefs. Science 301:929–933
+                                       DOI 10.1126/science.1085046.
+                                   Jokiel PL. 2004. Temperature stress and coral bleaching. In: Coral health and disease.
+                                       Berlin, Heidelberg: Springer, 401–425.
+                                   Jokiel PL, Coles SL. 1977. Effects of temperature on the mortality and growth of
+                                       Hawaiian reef corals. Marine Biology 43:201–208 DOI 10.1007/BF00402312.
+                                   Kaniewska P, Campbell PR, Kline DI, Rodriguez-Lanetty M, Miller DJ, Dove S,
+                                       Hoegh-Guldberg O. 2012. Major cellular and physiological impacts of ocean
+                                       acidification on a reef building coral. PLOS ONE 7:1–12
+                                       DOI 10.1371/journal.pone.0034659.
+                                   Kramarsky-Winter E, Loya Y. 2000. Tissue regeneration in the coral Fungia gran-
+                                       ulosa: the effect of extrinsic and intrinsic factors. Marine Biology 137:867–873
+                                       DOI 10.1007/s002270000416.
+                                   Leder JJ, Szmant AM, Swart PK. 1991. The effect of prolonged ‘‘bleaching’’ on skeletal
+                                       banding and stable isotopic composition in Montastrea annularis. Coral Reefs
+                                       10:19–27 DOI 10.1007/BF00301902.
+                                   Lough JM, Barnes DJ. 2000. Environmental controls on growth of the massive
+                                       coral Porites. Journal of Experimnetal Marine Biology and Ecology 245:225–243
+                                       DOI 10.1016/S0022-0981(99)00168-9.
+                                   Marshall A, Clode P. 2004. Calcification rate and the effect of temperature in a zoox-
+                                       anthellate and an azooxanthellate scleractinian reef coral. Coral Reefs 23:218–224
+                                       DOI 10.1007/s00338-004-0369-y.
+                                   Matz MV, Marshall NJ, Vorobyev M. 2006. Symposium-in-print: green fluorescent
+                                       protein and homologs. Photochemistry and Photobiology 82:345–350.
+                                   Mayfield AB, Wang L, Tang P, Fan T, Hsiao Y, Tsai C, Chen C. 2011. Assessing the
+                                       impacts of experimentally elevated temperature on the biological composition
+                                       and molecular chaperone gene expression of a reef coral. PLOS ONE 6:1–13
+                                       DOI 10.1371/journal.pone.0026529.
+                                   McCloy RA, Rogers S, Caldon CE, Lorca T, Castro A, Burgess A. 2014. Partial inhibition
+                                       of Cdk1 in G 2 phase overrides the SAC and decouples mitotic events. Cell Cycle
+                                       13:1400–1412 DOI 10.4161/cc.28401.
+                                   Meesters EH, Bak RP. 1993. Effects of coral bleaching on tissue regeneration potential
+                                       and colony survival. Marine Ecology Progress Series 17:189–198.
+                                   Meesters H, Bak R. 1994. Effect of coral bleaching on tissue regeneration potential and
+                                       colony survival. Marine Ecology Progress Series 96:189–198 DOI 10.3354/meps096189.
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                19/21
+                                   Meesters E, Pauchli W, Bak R. 1997. Predicting regeneration of physical damage on a
+                                       reefbuilding coral by regeneration capacity and lesion shape. Marine Ecology Progress
+                                       Series 146:91–99 DOI 10.3354/meps146091.
+                                   Merle PL, Sabourault C, Richier S, Allemand D, Furla P. 2007. Catalase characterization
+                                       and implication in bleaching of asymbiotic sea anemone. Free Radical Biology and
+                                       Medicine 42:236–246 DOI 10.1016/j.freeradbiomed.2006.10.038.
+                                   Morgan TH. 1898. Experimental studies of the regeneration of Planaria maculata.
+                                       Development Genes and Evolution 7:364–397.
+                                   Ogawa D, Bobeszko T, Ainsworth T, Leggat W. 2013. The combined effects of tem-
+                                       perature and CO2 lead to altered gene expression in Acropora aspera. Coral Reefs
+                                       32:895–907 DOI 10.1007/s00338-013-1046-9.
+                                   Oren U, Benayahu Y, Loya Y. 1997. Effect of lesion size and shape on regeneration
+                                       of the Red Sea coral Favia favus. Marine Ecology Progress Series 146:101–107
+                                       DOI 10.3354/meps146101.
+                                   Palmer CV, Modi CK, Mydlarz LD. 2009. Coral fluorescent proteins as antioxidants.
+                                       PLOS ONE 4:e7298 DOI 10.1371/journal.pone.0007298.
+                                   Palmer CV, Roth MS, Gates RD. 2009. Red fluorescent protein responsible for pig-
+                                       mentation in trematode-infected Porites compressa tissues. The Biological Bulletin
+                                       216:68–74 DOI 10.1086/BBLv216n1p68.
+                                   Passamaneck YJ, Martindale MQ. 2012. Cell proliferation is necessary for the regen-
+                                       eration of oral structures in the anthozoan cnidarian Nematostella vectensis. BMC
+                                       Developmental Biology 4:34 DOI 10.1186/1471-213X-12-34.
+                                   Pernice M, Dunn SR, Miard T, Dufour S, Dove S, Hoegh-Guldberg O. 2011.
+                                       Regulation of apoptotic mediators reveals dynamic responses to thermal
+                                       stress in the reef building coral acropora millepora. PLOS ONE 6:e16095
+                                       DOI 10.1371/journal.pone.0016095.
+                                   Rodriguez-Lanetty M, Harii S, Hoegh-Guldberg O. 2009. Early molecular re-
+                                       sponses of coral larvae to hyperthermal stress. Molecular Ecology 18:5101–5114
+                                       DOI 10.1111/j.1365-294X.2009.04419.x.
+                                   Ross C, Ritson-Williams R, Pierce R, Bullington JB, Henry M, Paul VJ. 2010. Effects
+                                       of the Florida red tide dinoflagellate, Karenia brevis, on oxidative stress and
+                                       metamorphosis of larvae of the coral Porites astreoides. Harmful Algae 28:173–179
+                                       DOI 10.1007/s00338-012-0956-2.
+                                   Roth MS, Deheyn DD. 2013. Effects of cold stress and heat stress on coral fluorescence in
+                                       reef-building corals. Scientific Reports 3:1–8 DOI 10.1038/srep01421.
+                                   Roth MS, Latz MI, Goericke R, Deheyn DD. 2010. Green fluorescent protein regulation
+                                       in the coral Acropora yongei during photoacclimation. Journal of Experimental
+                                       Biology 213:3644–3655 DOI 10.1242/jeb.040881.
+                                   Salih A, Larkum A, Cox G, Kühl M, Hoegh-Guldberg O. 2000. Fluorescent pigments in
+                                       corals are photoprotective. Nature 408:850–853 DOI 10.1038/35048564.
+                                   Sanchez Alvarado AS. 2000. Regeneration in the metazoans: why does it happen?
+                                       Bioessays 22:579–590.
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                   20/21
+                                   Schlichter D, Weber W, Fricke H. 1985. A chromatophore system in the hermatypic,
+                                        deep-water coral Leptoseris fragilis (Anthozoa: Hexacorallia). Marine Biology
+                                        89:143–147 DOI 10.1007/BF00392885.
+                                   Seneca FO, Forêt S, Ball EE, Smith-Keune C, Miller DJ, Van Oppen MJ. 2010. Patterns
+                                        of gene expression in a scleractinian coral undergoing natural bleaching. Marine
+                                        Biotechnology 12:594–604 DOI 10.1007/s10126-009-9247-5.
+                                   Smith DJ, Suggett DJ, Baker NR. 2005. Is photoinhibition of zooxanthellae photosynthe-
+                                        sis the primary cause of thermal bleaching in corals? Global Change Biology 11:1–11
+                                        DOI 10.1111/j.1365-2486.2004.00895.x.
+                                   Smith-Keune C, Dove S. 2008. Gene expression of a green fluorescent protein homolog
+                                        as a host-specific biomarker of heat stress within a reef-building coral. Marine
+                                        Biotechnology 10:166–180 DOI 10.1007/s10126-007-9049-6.
+                                   Sørensen J, Dahlgaard J, Loeschcke V. 2001. Genetic variation in thermal tolerance
+                                        among natural populations of Drosophila buzzatii: down regulation of Hsp70 ex-
+                                        pression and variation in heat stress resistance traits. Functional Ecology 15:289–296
+                                        DOI 10.1046/j.1365-2435.2001.00525.x.
+                                   Somorjai IM, Somorjai RL, Garcia-Fernàndez J, Escrivà H. 2012. Vertebrate-
+                                        like regeneration in the invertebrate chordate amphioxus. Proceedings of the
+                                        National Academy of Sciences of the United States of America 109:517–522
+                                        DOI 10.1073/pnas.1100045109.
+                                   Stafford-Smith MG. 1993. Sediment-rejection efficiency of 22 species of Australian
+                                        scleractinian corals. Marine Biology 115:229–243 DOI 10.1007/BF00346340.
+                                   Steig EJ, Schneider DP, Rutherford SD, Mann ME, Comiso JC, Shindell DT. 2009.
+                                        Warming of the Antarctic ice-sheet surface since the 1957 international geophysical
+                                        year. Nature 457:459–462 DOI 10.1038/nature07669.
+                                   Van de Water J, Ainsworth TD, Leggat W, Bourne D, Willis B, Van Oppen MJH. 2015a.
+                                        The coral immune response facilitates protection against microbes during tissue
+                                        regeneration. Molecular Ecology 24:3390–3404 DOI 10.1111/mec.13257.
+                                   Van de Water J, Leggat W, Bourne D, Van Oppen MJH, Willis B, Ainsworth TD. 2015b.
+                                        Elevated seawater temperatures have little impact on the coral immune response
+                                        following physical damage. Hydrobiologia 759:201–214.
+                                   Voolstra CR, Schnetzer J, Peshkin L, Randall CJ, Szmant AM, Medina M. 2009. Effects
+                                        of temperature on gene expression in embryos of the coral Montastraea faveolata.
+                                        BMC Genomics 10:627 DOI 10.1186/1471-2164-10-627.
+
+
+
+
+Bonesso et al. (2017), PeerJ, DOI 10.7717/peerj.3719                                                                     21/21
+

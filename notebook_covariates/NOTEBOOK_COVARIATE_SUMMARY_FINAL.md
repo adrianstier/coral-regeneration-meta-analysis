@@ -1,29 +1,39 @@
 # Notebook Covariate Summary
 
-## Coverage
-- total notebook sources queried: 128
-- parsed rows: 128 (100.0%)
-- include_primary rows: 77
-- include_primary parsed rows: 77 (100.0%)
+This summary reflects the current geoaugmented covariate files:
 
-## Status Counts
-- `parsed`: 128
+- `notebook_covariates_all_sources_geoaugmented.csv`
+- `notebook_covariates_primary_geoaugmented.csv`
+- `study_location_metadata_geoaugmented.csv`
+
+Earlier `_final.csv` outputs were pre-georeference intermediates and should not be used as the current covariate layer.
+
+## Coverage
+
+- total NotebookLM sources parsed: 128
+- parsed rows: 128 (100.0%)
+- current `include_primary` rows: 76
+- current `include_primary` parsed rows: 76 (100.0%)
 
 ## Final Status Counts
+
 - `duplicate_alias`: 2
-- `exclude_review`: 6
+- `exclude_review`: 7
 - `exclude_scope`: 23
 - `include_mechanism_only`: 20
-- `include_primary`: 77
+- `include_primary`: 76
+
+These counts are for the 128 NotebookLM-covered sources only. Full project-level screening counts live in `pipeline/PRISMA_COUNTS.md`.
 
 ## Field Coverage Across Parsed Rows
+
 - `study_type`: 128/128 (100.0%)
 - `study_year`: 91/128 (71.1%)
 - `location_raw`: 119/128 (93.0%)
-- `latitude`: 65/128 (50.8%)
-- `longitude`: 65/128 (50.8%)
-- `depth_min_m`: 86/128 (67.2%)
-- `depth_max_m`: 87/128 (68.0%)
+- exact coordinate pairs: 65/128 (50.8%)
+- approximate coordinate pairs: 53/128 (41.4%)
+- best coordinate pairs: 117/128 (91.4%)
+- depth: 88/128 (68.8%)
 - `species`: 126/128 (98.4%)
 - `growth_form`: 111/128 (86.7%)
 - `tissue_type`: 113/128 (88.3%)
@@ -32,7 +42,7 @@
 - `lesion_source`: 118/128 (92.2%)
 - `lesion_method`: 115/128 (89.8%)
 - `lesion_type`: 118/128 (92.2%)
-- `area_mm2`: 68/128 (53.1%)
+- `area_mm2`: 69/128 (53.9%)
 - `rel_wound_size`: 29/128 (22.7%)
 - `perimeter_mm`: 4/128 (3.1%)
 - `lesion_depth`: 51/128 (39.8%)
@@ -53,45 +63,47 @@
 - `control_description`: 87/128 (68.0%)
 
 ## Field Coverage Across Parsed Primary Rows
-- `study_type`: 77/77 (100.0%)
-- `study_year`: 65/77 (84.4%)
-- `location_raw`: 76/77 (98.7%)
-- `latitude`: 44/77 (57.1%)
-- `longitude`: 44/77 (57.1%)
-- `depth_min_m`: 64/77 (83.1%)
-- `depth_max_m`: 64/77 (83.1%)
-- `species`: 77/77 (100.0%)
-- `growth_form`: 75/77 (97.4%)
-- `tissue_type`: 74/77 (96.1%)
-- `colony_size_cm`: 50/77 (64.9%)
-- `symbiont_status`: 25/77 (32.5%)
-- `lesion_source`: 76/77 (98.7%)
-- `lesion_method`: 74/77 (96.1%)
-- `lesion_type`: 76/77 (98.7%)
-- `area_mm2`: 52/77 (67.5%)
-- `rel_wound_size`: 21/77 (27.3%)
-- `perimeter_mm`: 3/77 (3.9%)
-- `lesion_depth`: 37/77 (48.1%)
-- `num_lesions`: 57/77 (74.0%)
-- `lesion_position`: 61/77 (79.2%)
-- `temperature_c`: 34/77 (44.2%)
-- `temp_manip`: 10/77 (13.0%)
-- `ph_or_pco2`: 5/77 (6.5%)
-- `nutrient_enrich`: 10/77 (13.0%)
-- `light_par`: 17/77 (22.1%)
-- `light_regime`: 18/77 (23.4%)
-- `sedimentation`: 4/77 (5.2%)
-- `flow_regime`: 25/77 (32.5%)
-- `sample_size`: 76/77 (98.7%)
-- `replication_level`: 76/77 (98.7%)
-- `randomization`: 46/77 (59.7%)
-- `blocking`: 17/77 (22.1%)
-- `control_description`: 53/77 (68.8%)
 
-## Location Resolution
-- parsed rows with decimal coordinates: 65/128 (50.8%)
-- parsed rows with any depth information: 87/128 (68.0%)
+- `study_type`: 76/76 (100.0%)
+- `study_year`: 65/76 (85.5%)
+- `location_raw`: 76/76 (100.0%)
+- exact coordinate pairs: 44/76 (57.9%)
+- approximate coordinate pairs: 32/76 (42.1%)
+- best coordinate pairs: 75/76 (98.7%)
+- depth: 65/76 (85.5%)
+- `species`: 76/76 (100.0%)
+- `growth_form`: 74/76 (97.4%)
+- `tissue_type`: 74/76 (97.4%)
+- `colony_size_cm`: 50/76 (65.8%)
+- `symbiont_status`: 25/76 (32.9%)
+- `lesion_source`: 76/76 (100.0%)
+- `lesion_method`: 74/76 (97.4%)
+- `lesion_type`: 76/76 (100.0%)
+- `area_mm2`: 53/76 (69.7%)
+- `rel_wound_size`: 21/76 (27.6%)
+- `perimeter_mm`: 3/76 (3.9%)
+- `lesion_depth`: 37/76 (48.7%)
+- `num_lesions`: 57/76 (75.0%)
+- `lesion_position`: 61/76 (80.3%)
+- `temperature_c`: 34/76 (44.7%)
+- `temp_manip`: 10/76 (13.2%)
+- `ph_or_pco2`: 5/76 (6.6%)
+- `nutrient_enrich`: 10/76 (13.2%)
+- `light_par`: 17/76 (22.4%)
+- `light_regime`: 18/76 (23.7%)
+- `sedimentation`: 4/76 (5.3%)
+- `flow_regime`: 25/76 (32.9%)
+- `sample_size`: 76/76 (100.0%)
+- `replication_level`: 76/76 (100.0%)
+- `randomization`: 46/76 (60.5%)
+- `blocking`: 17/76 (22.4%)
+- `control_description`: 53/76 (69.7%)
 
 ## Notes
+
 - NotebookLM covariates are a structured screening and moderator layer, not a substitute for paper-level numeric outcome extraction.
-- Excluded and review papers remain in this table because the user requested a full-notebook covariate pass.
+- Excluded and review papers remain in the all-source table because the covariate pass covered the full NotebookLM source set.
+- Use `latitude`/`longitude` only for reported-exact coordinates. Use `latitude_best`/`longitude_best` for mapping or coarse geographic moderators where approximate site centroids are acceptable.
+- Taxonomic and skeletal-architecture moderators are not fully model-ready in this table: `species`, `growth_form`, and a heterogeneous `tissue_type` field are present, but `genus`, `family`, `skeletal_porosity`, and clean `perforate`/`imperforate` status fields are not part of the current schema.
+- The next covariate pass should follow `COVARIATE_EXTRACTION_STRATEGY.md`: keep study context source-level, move wound/treatment metadata to treatment or observation rows, and fill family/skeletal porosity/life history through a taxon-trait table.
+- See `TRAIT_COVARIATE_COVERAGE.md` for the source-set audit tying trait coverage to the raw overview figure, digitization queue, and rate source index.

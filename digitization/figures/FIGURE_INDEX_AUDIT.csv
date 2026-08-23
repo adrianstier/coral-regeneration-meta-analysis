@@ -1,0 +1,11 @@
+severity,check,object_type,object_id,detail,expected,observed,path
+warning,queue_no_valid_candidate_found,queue_id,DIG-06ab1757-growth,Queue row is not ready for crop-to-data extraction.,audited_candidate_available,no_valid_candidate_found,
+warning,queue_no_valid_candidate_found,queue_id,DIG-12e9e864-survival,Queue row is not ready for crop-to-data extraction.,audited_candidate_available,no_valid_candidate_found,
+warning,queue_no_valid_candidate_found,queue_id,DIG-1d237b2c-growth,Queue row is not ready for crop-to-data extraction.,audited_candidate_available,no_valid_candidate_found,
+warning,queue_no_valid_candidate_found,queue_id,DIG-33d2bc0d-survival,Queue row is not ready for crop-to-data extraction.,audited_candidate_available,no_valid_candidate_found,
+warning,queue_no_valid_candidate_found,queue_id,DIG-3f852e08-survival,Queue row is not ready for crop-to-data extraction.,audited_candidate_available,no_valid_candidate_found,
+warning,queue_no_valid_candidate_found,queue_id,DIG-45fcfd8e-growth,Queue row is not ready for crop-to-data extraction.,audited_candidate_available,no_valid_candidate_found,
+warning,queue_no_valid_candidate_found,queue_id,DIG-a67392b0-survival,Queue row is not ready for crop-to-data extraction.,audited_candidate_available,no_valid_candidate_found,
+warning,queue_no_valid_candidate_found,queue_id,DIG-ad751939-survival,Queue row is not ready for crop-to-data extraction.,audited_candidate_available,no_valid_candidate_found,
+warning,queue_no_valid_candidate_found,queue_id,DIG-d17e3c0b-rate,Queue row is not ready for crop-to-data extraction.,audited_candidate_available,no_valid_candidate_found,
+warning,queue_no_valid_candidate_found,queue_id,DIG-ec19aed9-survival,Queue row is not ready for crop-to-data extraction.,audited_candidate_available,no_valid_candidate_found,

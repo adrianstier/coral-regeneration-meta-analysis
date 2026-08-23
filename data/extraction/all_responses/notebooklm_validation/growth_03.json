@@ -1,0 +1,860 @@
+{
+  "answer": "| source_id | response variables measured | taxon | wound/fragment/colony size information | timepoints or monitoring duration | sample size and variance if reported | environmental setting | experimental treatments or stressors | key missing covariates |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| **Lirman_2010** | • Linear extension regrowth of donor branches [1, 2]<br>• Growth rate of non-donor branches on donor colony [1, 3]<br>• Growth/survivorship of branch tips [2, 4, 5]<br>• Linear extension of nursery vs. wild colonies [6-8] | *Acropora cervicornis* [6, 9] | • Donor colonies: 30–295 linear cm [10]<br>• Clipped branch tips: 2.5 cm (small) and 3.5 cm (large) fragments [10, 11]<br>• Marked branches at 2 cm from lesion [11] | • Exp 1: Initiated June 25, 2009; monitored at 20, 39, 63, and 129 days [12-14]<br>• Exp 2: Initiated July 15, 2009; monitored at 24 and 90 days [5, 13, 14] | • Exp 1: 15 donor, 7 control colonies [12]<br>• Exp 2: 12 donor, 6 control colonies [13]<br>• Total branch tips: 30 (Exp 1) [15]; 24 (Exp 2) [16]<br>• Variance: Standard Deviation (SD) [3, 14] and Standard Error (SE) [17] | Coral nursery in Biscayne National Park, Florida, USA; deployed on sand patch (5.5 m depth) [10] | • Fragment length (2.5 cm vs. 3.5 cm) [10, 11]<br>• Transportation handling (boat/onboard gluing/1 h out-of-water vs. underwater/no-air exposure) [12, 13] | Seawater temperature, pH, pCO₂, salinity, nutrients, and precise current flow speed [18] |\n| **Meesters_1994** | • Calcification/growth (buoyant weight/mg calcium carbonate production) [19, 20]<br>• Lesion tissue recovery rate (remaining lesion size, mm²) [21, 22] | *Montastrea annularis* (columnar morphotype) [19, 23] | • Coral cores (3.7 cm diameter) [23]<br>• Artificial lesions: ~1 cm² (mean area: 170 ± 6.6 mm²; mean depth: 2.16 ± 0.19 mm) [19, 21] | • Lesion recovery: 56-day study [19]<br>• Handling experiment: 16-day study [24, 25] | • N = 20 colonies (2 cores per colony, total 40 cores) [19, 23]<br>• Handling groups: 3 treatments (n = 10, 10, 20 cores) [26]<br>• Variance: SE [21] and 95% Confidence Limits [25] | Carmabi Buoy 1, leeward coast of Curaçao, Netherlands Antilles; depth 7 m [23, 27] | • Artificial physical damage (removing ~1 cm² tissue + skeleton) [19]<br>• Handling/weighing frequency (every 2, 4, or 8 days) [24, 25]<br>• Irradiance/light variations [26, 28] | High-resolution nutrients, water flow velocity, and salinity [29, 30] |\n| **Miller_1998** | • Fragment complete survival (%) [31, 32]<br>• Predator bite frequency (bites/h) [33, 34]<br>• Seaweed percent cover (%) [35, 36]<br>• Coral growth rate (relative buoyant weight change) [34, 35]<br>• Grazing bite scars [34, 35] | • *Porites divaricata* [31, 37]<br>• *Porites porites* [31, 35] | • *P. divaricata*: 4 fragments glued per cinder block (2 per end) [33, 37]<br>• *P. porites*: 1 fragment glued per end [35]<br>• Cinder blocks: 20 x 41 x 5 cm [38] | • *P. divaricata* trial: 48 hours [31, 39]<br>• *P. porites* trial: 14 weeks [31, 35]<br>• Video assay: 2 hours [33, 34] | • N = 15 groups of 3 blocks initially; final analyzed N = 12–13 blocks due to storm losses [38, 40]<br>• Video: 4 stations [41]<br>• Variance: SE [34, 36, 42] | Fore-reef relict spur and groove zone at Pickles Reef, Key Largo, Florida, USA; depth 6–8 m [31, 38] | • Fish corallivore exclusion (full-cage, half-cage, no-cage) [31, 38]<br>• Macroalgae competition (preplanted *Dictyota* and *Halimeda opuntia* clumps vs. initially bare blocks) [40] | Seawater temperature, pH, pCO₂, salinity, and nutrient concentrations [43] |\n| **Okubo_2008** | • Wound closure (days to fully closed) [44, 45]<br>• New polyp and axial polyp formation (days/counts) [46]<br>• Linear extension (mm) [47, 48]<br>• Spawning ratio (%) [47] | *Acropora muricata* (formosa) [44] | • Fragment lengths: 5 cm, 10 cm, and 20 cm long [44]<br>• Cut surface dimensions: constant ~0.785 cm² [49]<br>• Donor colony size: 1 m height; 4.5 m² cross-section [49] | • Exp 1 (extension/spawning): 9 months [47]<br>• Exp 2 (wound regeneration): 24 days [45] | • Exp 1: 5 cm (n=11), 10 cm (n=10), 20 cm (n=8) [50]<br>• Exp 2: 5 cm (n=30), 10 cm (n=26), 20 cm (n=27) [50]<br>• Variance: Mean ± Standard Deviation (SD) [51] | Transplanted on concrete nails driven into coral pavement, Akajima Island, Okinawa, Japan; depth 2–3 m [50, 52] | • Fragment size class (5, 10, or 20 cm) [44]<br>• Physiological state (reproductive fragments with spawning oocytes vs. non-reproductive) [51] | Water temperature, salinity, pH, pCO₂, nutrients, water flow velocity, and light/PAR |\n| **Palacios_2014** | • Normalized linear extension (cm cm⁻² yr⁻¹) [53]<br>• Normalized weight growth (g cm⁻² yr⁻¹) [53, 54]<br>• Weight gain to linear extension ratio (D weight/D length) [54]<br>• Snail/puffer densities, bite rates, and carbonate removal rates [55-58] | • *Pocillopora capitata*, *P. damicornis*, *P. eydouxi* [59]<br>• Predator: *Arothron meleagris* [55] | • Coral colonies: 75–325 g (tolerance) [60]<br>• Coral nubbins: ~4 cm long (predator exclusion) [61]<br>• Natural bite area: 0.47 ± 0.38 cm²; depth: 0.19 ± 0.08 mm [62] | • Abundance surveys: April–December 2012 [59]<br>• Tolerance experiment: 122 days [63]<br>• Predator exclusion experiment: 183 days [64] | • Prey cover: 30 quadrats per zone [65]<br>• Snail/puffer surveys: 150 transects [66]<br>• Tolerance: N = 40 colonies [60]<br>• Predator exclusion: N = 30 nubbins [61]<br>• Variance: Mean ± SD/SE [67, 68] | La Azufrada reef, Gorgona Island, Colombia; back reef, reef flat, and reef crest zones (depth 4–12 m; stable temp 27.7 ± 0.4°C) [59, 67, 69] | • Simulated bite-injury intensity (0%, 25%, 50%, 75% branch tips scraped) [60, 70]<br>• Predation exposure (no-cage predation, full-cage exclusion, half-cage control) [61, 71]<br>• Reef zone micro-habitat [69] | Continuous pH/carbonate chemistry, salinity, nutrients, and precise current flow velocity [72] |\n| **Raymundo_2016** | • Snail scar healing progress (healing, static, progressing % per week) [73, 74]<br>• Tissue loss/lesion progression or healing rate (cm d⁻¹) [75]<br>• Cellular/pathological host responses (necrosis, basophilic/hyaline membranes, calicodermis hypertrophy, inflammation) [76] | • *Porites cylindrica* [73, 77]<br>• *Porites rus* [73, 77]<br>• Predator: *Coralliophila violacea* [78, 79] | • *P. cylindrica*: intact wild colonies hosting a snail [73]<br>• *P. rus*: plates 4–8 cm in diameter [73] | • In situ scars: monitored weekly for 3 weeks [73]<br>• Lab transmission experiment: 4-week timeline (starved 24 h, fed 1 week, transferred 1 week, monitored 2 weeks) [73, 74] | • In situ: 25 colonies of *P. cylindrica* [73]<br>• Lab: 40 fragments of *P. rus* (10 diseased, 30 healthy) [73]<br>• Histology: 11 *P. cylindrica* and 13 *P. rus* colonies [76]<br>• Snail scars: 13 diseased-fed, 14 healthy-fed [80]<br>• Variance: SD [75, 81] | • Field: Luminao Reef, Guam [73]<br>• Lab: University of Guam Marine Laboratory wet lab (2 L aerated aquaria in water baths) [73] | • Vector disease-transmission risk (snails fed diseased tissue-loss lesions vs. healthy tissue) [73, 74]<br>• Host congeneric contrast (*P. cylindrica* vs. *P. rus*) [76, 77] | Ambient seawater temperature, pH, light/PAR, nutrients, salinity, and water flow speed [81] |\n| **Shaver_2017** | • Full colony mortality (proportion/treatment) [82, 83]<br>• Area of tissue predation/loss (cm²) [82, 84]<br>• Growth (Total Linear Extension [TLE], cm) [82, 84, 85]<br>• Turf algae colonization on scars (%) [82, 85, 86]<br>• Microbiome UniFrac distance/relative abundance of OTUs [87, 88] | • *Acropora cervicornis* (Upper Keys genotypes U-2 and U-8) [89, 90]<br>• Predator: *Coralliophila abbreviata* [89, 91] | • Initial experimental fragments: ~10 cm long [90]<br>• Surveys: colony height, length, width (cm) [91] | • Pre-experiment surveys: June–August 2013 [90]<br>• Factorial experiment: 8 weeks (June to August 2013) [90] | • Field surveys: 198 colonies across 4 reefs [92]<br>• Field experiment: 80 fragments initially; final N = 71 after storm/turtle losses [82, 90]<br>• Microbiome: 5 colonies per treatment [93] | Coral Restoration Foundation nursery, Key Largo, Florida, USA; open sand flat; depth 30 ft [90] | • Predation stress (presence of 2 starved *C. abbreviata* snails vs. absent) [85, 94]<br>• Nutrient enrichment (Osmocote slow-release nitrogen-phosphorus tubes vs. ambient) [94]<br>• Host genotype (U-2 vs. U-8) [90] | High-resolution temperature logs, seawater pH, pCO₂, salinity, and precise water flow velocity [95, 96] |\n| **Ward_1995** | • Whole colony survival/mortality (%) [97]<br>• Growth (linear skeletal branch extension, mm) [98, 99]<br>• Tissue lipid content (% dry weight) [98-100]<br>• Standardized larval capture (planulae/wax weight) [100, 101]<br>• Larval lipid content (%) [101]<br>• Index of Reproductive Potential (IRP) [102] | *Pocillopora damicornis* [103] | • Healthy colonies: 30–50 cm in diameter [104]<br>• Broken branches: three ≤ 5 cm long branches sampled per colony per date [99, 105]<br>• Fragmentation: 50% branches broken throughout colony [104] | • July 1988 to September 1989 (13 months; sampled 14 times) [103, 106]<br>• Spawning window: March (new moon larval capture) [100, 107] | • N = 4 to 10 colonies per treatment combination per site [106]<br>• Total colonies: N = 46 across LSB and Mary Cove [106, 107]<br>• Variance: standard errors (SE) represented in figures [108, 109] | Little Salmon Bay (LSB) and Mary Cove, Rottnest Island, Western Australia (temperate zone reefs, limestone, direct wave action) [103, 110] | • Mechanical fragmentation (50% branches broken with hammer but left in situ) [104]<br>• Dislodgement stress (knocked from reef onto sand/rock/seagrass below) [104]<br>• Site (LSB vs. Mary Cove) [106] | High-resolution water temperature logs, seawater pH, pCO₂, salinity, nutrient levels, and water flow velocity [111, 112] |\n| **Wolf_2013** | • Visual coral health score (1–5 scale) [113, 114]<br>• Mobile epifauna/fireworm abundance [113, 115]<br>• Bleached, healthy, and dead tissue surface area (cm² / %) [116]<br>• White plague signs prevalence (%) [115, 117]<br>• Fragment mortality [118] | • *Montastraea faveolata* [119, 120]<br>• *Montastraea cavernosa*, *Siderastrea siderea*, *Colpophyllia natans*, *Diploria strigosa* [120]<br>• Predators: *Hermodice carunculata* [119, 121] & *Coralliophila abbreviata* [121] | • Lab fragments: ~300 cm² surface area [122]<br>• Algal clumps: ~90 g wet mass [122, 123]<br>• Overgrown area: ~90 cm² [122, 123]<br>• Fireworms: ~3–6 cm in length [122] | • Field survey: March–April 2010 [113]<br>• Field experiment: 25 days (checked every 5 days) [123]<br>• Lab experiment: 24 days [118, 122] | • Field survey: n = 11–14 clumps per contact substrate [120]<br>• Field experiment: N = 20 colonies per treatment (120 total) [123]<br>• Lab experiment: N = 4 aquaria (split in two; 6 fragments per section, total 48 fragments) [122]<br>• Variance: SE [114, 124] | • Field: Carmabi Buoy 0 and 1, Curaçao; reef terrace (4–8 m depth) [120, 123]<br>• Lab: Outdoor 1 m³ aquaria with flow-through seawater [122] | • Algal competition (*Halimeda opuntia* contact vs. plastic mimic vs. bare) [122, 123]<br>• Predator corallivory (*H. carunculata* vs. *C. abbreviata* vs. none) [122]<br>• Epifauna removal (algae disturbed every 5 days to clear fauna vs. left undisturbed) [123] | High-resolution water flow velocity under macroalgal canopy, seawater pH, pCO₂, and nutrient levels [125] |\n| **Yap_1984** | • Mean monthly linear growth rate (cm/mo) [126, 127]<br>• Percentage zero growth (%) [128]<br>• Branch budding/branching initiation (buds/site/interval) [129, 130]<br>• Days to regenerate broken branches and linear rate (cm/yr) [128, 131]<br>• Fragment mortality (%) [131, 132] | *Acropora pulchra* [126] | • Naturally-established control colonies vs. transplanted fragments [132, 133]<br>• Linear branch increment: wire base to terminal tip [133] | • Monitoring period: October 1980 to March 1982 (17 months; monthly intervals) [126, 133]<br>• Regeneration period: 302 to 336 days [134] | • Controls: ≥15 colonies per site (2 branches/colony, ≥30 branches total; Sites A, B, D) [133]<br>• Transplants: ≥15 fragments per site (Site A, B, and modules I/IV at C) [132]<br>• Regeneration: N = 9 branches [134]<br>• Variance: Mean ± SD [134, 135] | Santiago Island lagoon, Bolinao, Pangasinan, northern Philippines; Site A, B, D (natural patches) vs. Site C (rubber-tire artificial reef, modules I/IV; depth 3–5 m) [136] | • Water temperature natural variation (Ryan Thermograph) [137, 138]<br>• Day length photoperiod natural variation [137, 139]<br>• Transplantation/substrate stress (controls vs. tire/concrete transplants) [132, 133]<br>• Mechanical breakage [128, 131] | High-resolution light/PAR, continuous seawater pH, pCO₂, salinity, and precise water flow velocity [140] |\n\n***\n\n📈 **Nudge:** Would you like me to generate a Python visualization script that processes these validated results to plot the relationship between initial wound size (\\\\(mm^2\\\\)) and complete healing times across different massive species like *Montastrea* and *Porites*?",
+  "conversation_id": "e1a4c269-6535-4de1-aff1-bda941ff6a53",
+  "sources_used": [
+    "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+    "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "9cbae935-6259-4ba6-a2ec-44d3f3bc0902"
+  ],
+  "citations": {
+    "1": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "2": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "3": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "4": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "5": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "6": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "7": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "8": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "9": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "10": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "11": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "12": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "13": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "14": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "15": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "16": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "17": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "18": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+    "19": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "20": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "21": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "22": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "23": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "24": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "25": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "26": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "27": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "28": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "29": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "30": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+    "31": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "32": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "33": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "34": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "35": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "36": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "37": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "38": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "39": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "40": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "41": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "42": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "43": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+    "44": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "45": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "46": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "47": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "48": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "49": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "50": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "51": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "52": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+    "53": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "54": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "55": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "56": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "57": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "58": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "59": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "60": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "61": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "62": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "63": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "64": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "65": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "66": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "67": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "68": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "69": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "70": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "71": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "72": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+    "73": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+    "74": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+    "75": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+    "76": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+    "77": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+    "78": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+    "79": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+    "80": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+    "81": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+    "82": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "83": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "84": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "85": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "86": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "87": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "88": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "89": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "90": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "91": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "92": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "93": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "94": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "95": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "96": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+    "97": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "98": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "99": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "100": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "101": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "102": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "103": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "104": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "105": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "106": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "107": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "108": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "109": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "110": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "111": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "112": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "113": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "114": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "115": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "116": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "117": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "118": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "119": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "120": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "121": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "122": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "123": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "124": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "125": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+    "126": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "127": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "128": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "129": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "130": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "131": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "132": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "133": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "134": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "135": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "136": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "137": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "138": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "139": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+    "140": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902"
+  },
+  "references": [
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 1,
+      "cited_text": "extension of the donor branches were only temporary and donor branches grew faster than control branches after an initial recovery period of approximately 3–6 weeks; (4) fragmentation did not affect the growth rates of non-donor branches within the same colony; (5) small branch tips experienced initial mortality due to handling and trans- portation but surviving tips grew well over time; and (6) when the growth of the branch tips is added to the regrowth of the fragmented donor branches, the new coral produced"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 2,
+      "cited_text": "on the growth of the marked undisturbed branches). When the growth of the surviving transplanted branch tips is added to the regrowth of donor branches, the new coral produced is 1.4–1.8 times more than the amount produced by the same number of branches in control colonies in 3–4 months (Fig. 2). Thus, coral productivity is clearly enhanced by pruning activities, even when some mortality of branch tips is experienced. To evaluate the immediate effect of fragmentation on branch recovery and growth, the linear growth of the donor"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 3,
+      "cited_text": "period of 90–129 days after fragmentation. In this case, no significant difference in the growth of any of the control or donor branches was detected (Mann–Whitney test, df = 3, x2 = 1.62, P = 0.65) (Fig. 3), highlighting enhanced growth of donor branches after the initial slow-down per- iod. The annual growth rates calculated in this study were 15.5 cm yr-1 (3.9) for branches in control colonies, 13.3 cm yr-1 (4.2) for unfragmented branches in donor colonies, 13.8 cm yr-1 (5.9) for donor branches (small"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 4,
+      "cited_text": "the growth and survivorship of donor colonies; (2) the role of size and handling methods on the growth and survivorship of branch tips; and (3) the role of colony size on the growth rates of donor and control branches. By tracking the growth and survivorship of both donor colonies and the extracted branch tips, we are able to evaluate the value of coral gardening methods for the propagation of A. cervicornis. Materials and methods All activities for this project were conducted at the stag- horn coral nursery established by the University of Miami"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 5,
+      "cited_text": "mortality (13%). In the second experiment, where the tips were epoxied underwater and were not removed from the water, mortality was only recorded for 1 out of 12 of the small tips (8% mortality) and none of the large tips after 24 days. No subsequent tissue mortality was observed for the surviving tips over 3–4 months of observation, but 730 Coral Reefs (2010) 29:729–735 123 some of the tips were broken probably due to predation or physical impacts. For the first experiment, total length of coral collected"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 6,
+      "cited_text": "of depleted coral populations. In this study, we describe several aspects of the coral gardening approach that dem- onstrate this methodology is an effective way of propa- gating the threatened Caribbean staghorn coral Acropora cervicornis: (1) the growth of colonies within the nursery exceeded the growth rates of wild staghorn colonies in the same region; (2) the collection of branch tips did not result in any further mortality to the donor colonies beyond the coral removed for transplantation; (3) decreases in linear"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 7,
+      "cited_text": "were attached individually to ceramic disks using epoxy and secured to PVC frames in the nursery. The linear extension of the branch tips and the distance between the cable ties and the terminal ends of branches on the donor and control colonies were measured over time using plastic rulers to evaluate linear growth rates as previously described for this species in the Florida Keys by Shinn (1966). The fragmentation experiment was repeated twice using similar methods to assess the potential negative effects of"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 8,
+      "cited_text": "projects. Acropora cervicornis has proven to be an excellent choice for nursery propagation. The growth of nursery- reared staghorn colonies’ (i.e., control colonies in this study) fragments [15.5 cm yr-1 (S.D. = ±3.9)] within the Florida nursery exceeded the growth recorded for wild A. cervicornis in the Florida Keys (10.9 cm yr-1) using sim- ilar methods as documented previously by Shinn (1966). Moreover, the collection of small branch tips appears to be a viable option for the propagation of staghorn coral. The"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 9,
+      "cited_text": "and restoration program to be successful, it clearly needs to minimize the impacts of collection on the parent stock and, after some period of recovery, result in a net increase in tissue and skeleton production through the aggregate growth of the donor colonies and the coral propagules extracted from the parent stock. In this study, we test whether coral production is ulti- mately enhanced or hindered by the removal of branch tips from parent colonies of the staghorn coral Acropora cervi- cornis by documenting: (1) the role of branch-tip removal on"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 10,
+      "cited_text": "within Biscayne National Park, Florida in 2007 (25\u0003 21.7530 N, 80\u0003 09.9850 W, 5.5 m of depth). The nursery consists of cinder blocks and cement platforms deployed on a sand patch onto which staghorn fragments collected from nearby reefs were cemented using underwater epoxy (Herlan and Lirman 2009). The staghorn colonies used in this study had been growing in the nursery for at least 2 years and ranged in size from 30 to 295 linear cm. For each donor colony, two branch tips were clipped using pliers to extract one 2.5 cm (small tip) and one 3.5 cm"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 11,
+      "cited_text": "(large tip) fragment. Each of the donor branches was marked with a plastic tie placed 2 cm from the lesion (Fig. 1). A third, unfragmented control branch, was chosen from each donor colony and marked at 2 cm from the intact branch tip (Fig. 1). In addition to the donor colonies, a subset of colonies was chosen haphazardly as unfrag- mented controls. Three branches were marked within each of these undisturbed colonies at 2 cm from intact branch tips using plastic ties (Fig. 1). The branch tips collected"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 12,
+      "cited_text": "transport on branch-tip survivorship. In the first experiment (initiated on June 25, 2009 with 15 donor colonies and 7 control colonies), the branch tips collected were trans- ported back to the boat anchored at the site and glued to the ceramic disks while on board. The branch tips were always kept submerged, and they were returned back to the nursery within 1 h of collection. This was done to simulate a sce- nario in which staghorn fragments are collected at one site and out planted to another. In the second experiment (ini-"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 13,
+      "cited_text": "tiated on July 15, 2009 with 12 donor colonies and 6 control colonies), the branch tips were epoxied to the ceramic disks and deployed onto the PVC frames without ever leaving the water. Results The effects of the handling stress of removing the branch tips from the nursery (and onto the boat) to simulate the impacts of transportation were clearly influenced by the size of the branch tips. While 13 out of 15 of the small tips (2.5 cm) were dead after 20 days (87% mortality), only 2 out of 15 of the larger tips (3.5 cm) experienced complete"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 14,
+      "cited_text": "was 90 cm (15 9 2.5 cm, 15 9 3.5 cm). Total aggregate length of surviving tips was 55 cm after 39 days, 59 cm after 63 days, and 70 cm after 129 days (Fig. 2a). For the second experiment, total length collected was 72 cm (12 9 2.5 cm, 12 9 3.5 cm). Total aggregate length of surviving tips was 91 cm after 24 days and 110 cm after 90 days (Fig. 2b). The mean annual growth rate was 7.6 cm yr-1 (3.5) for large tips and 5.4 cm yr-1 (2.3) for small tips. However, when the amount produced was nor- malized by initial length of fragments, small tips produced"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 15,
+      "cited_text": "initiated with the collection of fragments or colonies from wild coral stocks (Rinkevich 1995). In cases where donor s Fragmented Branches Branch Tips Unfragmented Branches C or al  S ke le to n an d Ti ss ue  ( lin ea r le ng th , c m ) After 39 days A B Fig. 2 Amount of tissue and skeleton (linear length) of staghorn branch tips and branches used in experiment 1 (a) and 2 (b). The white bars represent the total amount of new coral produced by the fragmented donor branches (n = 30 branches for experiment 1 and 24"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 16,
+      "cited_text": "for experiment 2). The striped bars represent the total linear length of all surviving branch tips in each experiment (pooled for 2.5- and 3.5- cm branch tips). The black bars represent the total amount of new coral produced by unfragmented branches in control colonies. The dashed horizontal lines represent the total amount of coral collected from colonies at the start of the experiments (30 branch tips in experiment 1 and 24 branch tips in experiment 2) Fig. 3 Mean daily growth (cm, S.E.) of branches from fragmented"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 17,
+      "cited_text": "and unfragmented staghorn colonies. Fragmented Controls = unfrag- mented branches from colonies that were fragmented, Fragmented/ Large Tips = donor branches from which larger tips (3.5 cm) were collected, Fragmented/Small Tips = donor branches from which smaller tips (2.5 cm) were collected, Unfragmented Controls = un- fragmented branches from colonies that did not experience any fragmentation. White bars represent growth from the initial sampling period (24–39 d after fragmentation), and black bars represent growth"
+    },
+    {
+      "source_id": "d110a8f5-278e-4ba7-a502-32eb61aed5cb",
+      "citation_number": 18,
+      "cited_text": "the growth of fragmented branches; the impact within the colonies was limited to the damaged branches. The control branches within donor colonies showed growth rates sim- ilar to those of branches in control colonies. This shows that, at the minimal level of fragmentation used in this study, the negative impacts are limited only to the frag- mented branches and that resources can be directed toward recovery without affecting the continued growth of undamaged branches. Also, while the size of the donor"
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 19,
+      "cited_text": "ABSTRACT: The influence of colony tissue regeneration on growth was studied in the reef-building  coral Montastiea annularis (Ellis & Solander, 1786) by buoyant weighing. Experimental corals  consisted of a series of cores, 2 cores from each of 20 colonies. One core of each pair was artificially  damaged by removing approximately 1 cm2 of tissue and skeleton, the other served as a control for nor  mal growth. Growth was measured as calcification, i.e. mg calcium carbonate production. There was a  linear relation between growth and solar radiation. Variation in growth, calculated before the regener  ation experiment, was insignificant between cores from the same colony but significantly different  between colonies. Growth was reduced in damaged cores when compared to controls. Calcification  decreased immediately upon damage and remained reduced during the whole study (56 d). Lesions  caused by physical damage did not always close completely. We propose and test a model that  describes regeneration in terms of closure of lesions. This model includes an asymptote in an exponen  tially decreasing function. Calcification remained suppressed after regeneration slowed down and  lesions were still not completely closed, probably because of the formation of polyps and skeletal fea  tures in the new tissue. We suggest regeneration to be fuelled by polyps and tissue directly bordering  the damaged area. Also, successful regeneration depends on the amount of tissue bordering a lesion  and not on colony size."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 20,
+      "cited_text": "Growth. Growth of the cores was Fig. 1. Montastrea annularis. Experimental cores in situ determined by buoyant weighing  (Franzisket 1964, Bak 1973, 1976, Jok  iel et al. 1978, Dodge et al. 1984),  recently modified by Davies (1989)  to increase accuracy. We applied this  modified method using a Sartorius  1217 MP electronic balance. To weigh  the cores they were retrieved from the  reef, quickly transported to the labora  tory, and returned within 2 to 6 h. The  cores were kept underwater and heav  ily shaded during the whole process.  Practically, they received light only  when in situ on the reef. Mean density  of PVC was determined by weighing  10 pieces of PVC in air and water with  known density. Calcium carbonate  density was calculated by weighing 10  small cores in water with known den"
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 21,
+      "cited_text": "Regeneration and growth. To study regeneration, a  lesion was made on one of the 2 cores from each colony  with a cylindrical grinding stone (0 10 mm). The aver  age lesion surface area (including the shallow wall of  the lesion) and depth were respectively 170 mm2 (SE =  6.6) and 2.16 mm (0.19, n = 20). The initial area of liv  ing tissue that was removed with lesion infliction was  subtracted from the total core area when growth was  calculated per cm2. This makes our growth estimates  conservative in that the difference in growth between"
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 22,
+      "cited_text": "c res with and without a lesion could only be more and  not less. Lesion recovery was followed through time in terms  of lesion size. Simple exponential regression (Lesion  size = S0 x I0(slope x days)) has been used effectively to  describe lesion regeneration (Bak 1983, Meesters &  Bak 1993). This model assumes that lesion size will  eventually approach zero. However, lesions are some  times not completely closed. Initially intrinsic, later  extrinsic factors such as settlement of organisms in the  lesions can be responsible. Consequently, regenera  tion may be better described by the model: Lesion size  = S„ + (Smax x io|slope x days)), which is a modification of  the equations of Bertalanffy (1957). This model simply  states that lesion size decreases exponentially to an  asymptote (SJ determined by the initial lesion size,  which is the sum of the asymptotic value (SJ and the  maximum lesion size that will be closed completely  (Smax). The slope and Smax depend on the regeneration  potential of the species and environmental conditions.  Sn depends on species and initial lesion size. As regen  eration rate decreases, alien organisms become more  firmly established in the lesion and lesion size  approaches SM."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 23,
+      "cited_text": "MATERIALS AND METHODS We studied the effects of lesion regeneration on the  growth of the coral Montastrea annularis, the main  reef-building coral in the Caribbean, at the island of  Curaçao, Netherlands Antilles. The experiments were  restricted to the columnar morphotype (Van Veghel &  Bak 1993), which is the most common type on the reefs  of Curaçao. Two cores (diameter 3.7 cm) were sawcut  from each of 20 haphazardly collected colonies. In this  way 2 samples of the same genetic identity were  obtained that enabled determination of intra-colony  growth variation and that, more importantly, made the  regeneration experiment a pairwise design, excluding  variation between colonies. The cores were clamped  into pre-weighed tight-fitting PVC tubes and returned  to the collecting site (Carmabi buoy 1, depth 7 m;  Fig. 1). They were left undisturbed on the reef while the tissue on the edge of the cores regenerated. After  3 wk all core edge damage had been regenerated and  the cores were ready for the experiments."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 24,
+      "cited_text": "Handling. To assess the influence of handling,  including repeated transport to the laboratory and  repeated weighing, a nested design was used. The  20 colonies (2 cores colony-1) were randomly assigned  to 3 groups that were weighed at different intervals  during a 16 d period. Cores of the first group were  measured at the end of every second day; cores of the  second and third group were measured at the end of  every fourth and eighth day respectively. After 16 d  the total increase in weight was determined for each  core. Because cores of the first group had been han  dled, respectively, 2 and 4 times as often as the second  and third group (and the second group twice as often  as the third group), thus receiving less light, growth of  each core was standardised to average accumulated  daily radiation."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 25,
+      "cited_text": "Handling Handling included collecting, transporting to the  laboratory, weighing and taking the corals back to the  reef. Mean growth of 3 groups of colonies (2 cores per  colony) handled 2, 4 or 8 times in 16 d is shown in  Fig. 3. If there had been a handling effect, one would  expect growth to be higher when a colony is handled  less. Instead, mean growth for colonies sampled only  once every 8 d was even less than for colonies in the  other 2 treatments. However, there was no significant  difference in growth between the 3 handling intensi  ties (Table 1). The overall mean growth was 3.60 mg  cm-2 d\"1 (SE = 0.20; range 1.78 to 5.45)."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 26,
+      "cited_text": "group: n2 = 10; n4 = 10; n8 = 20 Growth Core I (mg cm\"2 d\"1) Fig. 4. Montastrea annularis. Similarity in growth between  the 2 cores (Core I and Core II) of each colony (n = 20), after  18 d. Dashed line represents equal growth. Solid line is  regression line; Growth core II = 0.85 + (0.83 x Growth core I); r2 = 0.71, p< 0.001 RESULTS Light There is a linear relationship between growth, mea  sured as weight increase, and the amount of irradiance  a core had received since the previous weighing  (Fig. 2). Because average daily irradiance was about  49.8 E m\"2, data points in the figure represent approx  imately 1, 2, 4 and 7 d of light. The variation between  colonies is of the same magnitude whether corals were  weighed after 1, 2, 4 or 7 d. Calcification increases by  1 mg cm-2 every additional 16 E m 2 (PAR) and on an  average day weight increases about 3 mg cm\"2."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 27,
+      "cited_text": "is collaborating with JSTOR to digitize, preserve and extend access to Marine Ecology Progress Series This content downloaded from v«i 119. 110 19« 1 Qû/i MARINE ECOLOGY PROGRESS SERIES _ ... , , c 4 . 0 Vol. 112: 119-128, 1994 Published September 8 Mar. Ecol. Prog. Ser. * Damage and regeneration: links to growth in the  reef-building coral Montastrea annularis Erik H. Meesters1, Marco Noordeloos1, Rolf P. M. Bäk1,2 'Institute of Taxonomic Zoology, PO Box 4766, 1009 AT Amsterdam, The Netherlands  Netherlands Institute for Sea Research (NIOZ), PO Box 59, 1790 AB Den Burg, The Netherlands"
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 28,
+      "cited_text": "In our experiments cores could not be weighed at  exactly the same time each measuring day. Conse  quently they received different amounts of light.  Therefore, and to correct for daily variations in irradi  ance, we standardised growth to the average inte  grated daily radiation. Standardisation was done by  dividing growth by total irradiance integrated over the  time the core was at the experimental site and multi  plying that by the amount of light of a normal day. We  tested the assumption of a linear relation between  growth and light. Hourly radiation measurements  were obtained from the Curaçao Meteorological Sur  vey at Hato Airport. During our study total integrated  irradiance of an average day was approximately 49.8 E  m~2 of photosynthetically active radiation (PAR; 400  to 700 nm wavelength). This equals approximately  3000 Wh nr2."
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 29,
+      "cited_text": "However, growth decreased through time in our  experiment, approaching the values found by Davies  (1990). Handling (tested during 16 d) had no influence  on growth, but other factors such as temperature  (Clausen & Roth 1975, Houck et al. 1977, Jokiel &  Coles 1977), sedimentation (Dodge et al. 1974, Bak  1978), eutrophication (Tomascik & Sander 1985,  Tomascik 1990), and availability of plankton (Lewis  1974, Wellington 1982) are known to affect calcifica  tion. The decreasing growth rate through time in our  experiments is probably caused by temperature. We  found a significant inverse relationship between  itJiiipeiaiuit; ^ineaauieu wim a Lanuiateu cicl-u unit"
+    },
+    {
+      "source_id": "c84ce087-58f5-4e19-a373-34f57299f6d0",
+      "citation_number": 30,
+      "cited_text": "Hudson, J. H. (1981). Response of Montastrea annularis to  environmental change in the Florida Keys. Proc. 4th int.  coral Reef Symp. 2: 233-240 Hunte, W., Wittenberg, M. (1992). Effects of eutrophication  and sedimentation on juvenile corals. 2. Settlement. Mar.  Biol. 114: 625-631 Jackson, J. B. C., Coates, A. G. (1986). Life cycles and evolu  tion of clonal (modular) animals. Phil. Trans. R. Soc. Lond.  B 313: 7-22 Jokiel, P. L., Coles, S. L. (1977). Effects of temperature on the  mortality and growth of Hawaian reef corals. Mar. Biol. 43:  201-208"
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 31,
+      "cited_text": "Margaret W. Miller á Mark E. Hay Effects of ®sh predation and seaweed competition on the survival and growth of corals Received: 31 May 1997 /Accepted: 2 September 1997 Abstract On Caribbean coral reefs, high rates of graz-ing by herbivorous ®shes are thought to bene®t corals because ®shes consume competing seaweeds. We con-ducted ®eld experiments in the Florida Keys, USA, to examine the eects of grazing ®shes on coral/seaweed competition. Initially, fragments of Porites divaracata from an inshore habitat were transplanted into full-cage, half-cage, and no-cage treatments on a fore-reef. Within 48 h, 56% of the unprotected corals in half-cage and no-cage treatments (62 of 111) were completely consumed. Stoplight parrot®sh (Sparisoma viride) were the major coral predators, with redband parrot®sh (S. auro-frenatum) also commonly attacking this coral. Next, we transplanted fragments of P. porites collected from the fore-reef habitat where our caging experiments were being conducted into the three cage treatments, half in the presence of transplanted seaweeds, and half onto initially clean substrates. The corals were allowed to grow in these conditions, with concurrent development of competing seaweeds, for 14 weeks. Although seaweed cover and biomass were both signi®cantly greater in the full-cage treatment, coral growth did not dier signi®-cantly between cage treatments even though corals placed with pre-planted seaweeds grew signi®cantly less than corals placed on initially clean substrate. This surprising result occurred because parrot®shes not only grazed algae from accessible treatments, but also fed directly on our coral transplants. Parrot®sh feeding scars"
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 32,
+      "cited_text": "Two days later (31 July), we found that many of the corals in the no-cage and half-cage treatments were missing, apparently bitten o at the base which remained embedded in the epoxy. At this time, each of the four corals in each cage was scored as undamaged, one-quarter, one-half, three-quarters, or completely eaten. These scores were averaged to obtain the percentage of corals remaining for each cage. We had 12 excess corals that had not been used in the initial experiment, so these were axed to the blocks at 1100 hours. We observed several of these corals for the next hour (to see if they were attacked by ®shes) and then revisited them 4 h later. At this time, the experiment was ended because all of the corals had been completely consumed."
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 33,
+      "cited_text": "Fig. 1 Schematic design of one replicate of the ®eld experiment.H and D represent preplanted clumps of the seaweedsHalimeda opuntia and Dictyota spp., respectively. In the experiment with Porites divaracata, two coral transplants were placed on each end of each cinder block 232 (P. divaracata, Cladocora arbuscula, Siderastrea radians, and Manicina sp.) were placed at the corners of a 50-cm square in view of each camera and ®lmed for 2 h. The number of bites of each coral species taken and the identity of ®shes attacking the corals were quanti®ed."
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 34,
+      "cited_text": "Fig. 5A±C Results of the experiment with P. porites. Bars represent means + 1 SE. P-values from two-factor split-plot ANOVA (n = 12±13). AMacroalgal percent cover in the six treatment groups after 14 weeks. B Coral growth as relative change in buoyant weight over the course of the experiment.CGrazing scars on corals in the six treatment groups Fig. 4 Number of bites/h (mean + 1 SE) on approximately equal sized clumps of four species of corals transplanted from a seagrass bed to a fore-reef habitat. All bites were by the two species of parrot®shes indicated. The large SE is due to two sites being rapidly found and attacked by ®shes while two other sites were found only near the end of the 2-h ®lming period"
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 35,
+      "cited_text": "Experiment with P. porites We repeated the above experiment using P. porites collected from the fore-reef near our cages. On 1 August 1996, these corals were weighed and one piece of coral was transplanted onto each end of each cinder block as described above. This experiment ran for 14 weeks at which time (20 November 1996), the corals were harvested and seaweed cover was estimated on each half of each cinder block using a 50-point grid to determine the number of points intersecting macroalgae. Corals were returned to the laboratory at the Rosenstiel School of Marine and Atmospheric Science at the University of Miami where they were buoyant-weighed and ex-amined carefully to quantify the number of bite scars. Number of bite scars, seaweed cover, and coral growth were analyzed by the ANOVA design described above."
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 36,
+      "cited_text": "Fig. 2 Results of the experiment with P. divaracata. Bars represent means + 1 SE. P-value from Kruskal-Wallis one-way ANOVA. Treatments with the same letter are not signi®cantly dierent (P > 0.05) by Dunn's post hoc pairwise comparisons Fig. 3 Forty-eight-hour P. divaracata survival in individual replicates of the no-cage and half-cage treatments. Virtually all the corals consumed were at the southwest end of the experimental array 233 Experiment with P. porites At the end of the 14-week experiment, seaweed percent cover was signi®cantly higher (approximately double, Fig. 5A) in full-cage treatments than in the half-cage and no-cage treatments (P = 0.002). In addition, sea-weed cover on the preplanted side of each block remained signi®cantly greater (by 5±10%) than on the initially bare side (P = 0.002). There was also a signi-®cant spatial eect of cinder block (P < 0.002). Dic-tyota spp. that had been preplanted were the most abundant seaweed present in all replicates of all cage treatments. H. opuntia was also present in all types of cage treatments, but at lower abundance that Dictyota. Colonizing species of seaweed (mostly reds) were largely restricted to full-cage treatments (Fig. 6)."
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 37,
+      "cited_text": "Experiment with P. divaracata On 28 July 1996, we collected fragments of the slender branching coral P. divaracata from the grass ¯ats around Rodriguez Key, approximately 3 km inshore from the fore-reef site at Pickles Reef. The fragments were returned to the National Undersea Research Center in Key Largo and kept in ¯owing seawater until the buoyant weight of each fragment was determined (Davies 1989). On 29 July, each fragment was placed in an individually numbered plastic bag, transported back to Pickles Reef, and attached to a numbered cinder block using Petit Polypoxy Underwater Patching Compound. In this experiment, two small fragments were glued to each end of each cinder block (i.e., four coral pieces/cinder block)."
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 38,
+      "cited_text": "Materials and methods Field experiments were conducted in the relict spur and groove zone at Pickles Reef, Key Largo, Fl, USA (24°59.200¢ N, 80°25.133¢ W). We used ¯at cinder blocks (20 ´ 41 ´ 5 cm) as our experimental units. A 2-cm hole was drilled in the center of each cinder block and a large galvanized steel stake was hammered through the hole and driven into the reef substrate to secure the blocks in place. Forty-®ve blocks were arranged in 15 groups of three (n = 15, each with three treatments) in an approximately linear arrangement running northeast to southwest at a depth of 6±8 m. Each group of three blocks was separated from adjacent groups by at least 2±3 m. One of each group of three blocks was left bare (no cage), one was com-pletely enclosed in plastic mesh (full-cage treatment), and one was partially enclosed (twowalls and a top, half-cage control; see Fig. 1). A large mesh size (2-cm openings) was used to exclude large grazing ®shes while allowing access to smaller predatory ®shes such as wrasses and blennies. Access by these smaller ®shes should minimize potential artifacts resulting from cages providing predation refuges for mesograzers (Lewis 1986)."
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 39,
+      "cited_text": "Results Experiment with P. divaracata When we ®rst monitored the P. divaracata transplants, 48 h after placing them in the ®eld, we found that 56% of the corals (62 of the 111) in no-cage and half-cage treatments were missing. In most cases, it appeared that they had been bitten o at the base, leaving what looked like parrot®sh feeding scars in the bit of skeleton re-maining embedded in the epoxy. All corals in full cages remained intact. New corals transplanted onto the cinder blocks at 1100 hours were immediately attacked and completely consumed by stoplight parrot®sh (Sparisoma viride). All of these transplants were con-sumed within 4 h. Stoplight parrot®sh were also ob-served nosing against the full cages, apparently trying to access the corals they protected."
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 40,
+      "cited_text": "A second factor was also used in the experiments. Because we were starting with clean substrates, we chose to preplant seaweeds into one end of every cinder block. Clumps of Dictyota spp. and of Halimeda opuntia were attached with cable ties to a 5-cm wide strip of mesh cut from a seine. This mesh was cable-tied around one end of each cinder block so that it held the algae ®rmly against the block and allowed them to attach to the block and grow up through the mesh. A bare strip of mesh was cable-tied around the other end of the block as a control. One or two corals (depending on the experiment, see below) were then attached through slits in the mesh onto each end of each block (i.e., attached between the clumps of preplanted algae on one end and through the mesh onto the bare block on the other end; see Fig. 1). Because each experi-mental unit (cinder block) received both levels of the preplanting factor but only one level of the caging factor, we had a two-factor split-plot experiment for which we used an ANOVA design sug-gested by Milliken and Johnson (1984) with the error mean square term associated with the cinder block used to test signi®cance of the cage treatment. Over the course of the experiment, a few of our cages were lost due to rough weather, yielding a sample size for analysis of 12 or 13. Due to this imbalance, we report statistical results of type III sum-of-squares calculated by PROC GLM of SAS (Shaw and Mitchell-Olds 1993)."
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 41,
+      "cited_text": "Because of the short duration of this experiment, the preplanted seaweed factor was ignored and a Kruskal-Wallis nonparametric one-way ANOVA followed by Dunn's pairwise comparisons was used to detect signi®cant dierences in coral survival between the cage treatments. Video assay To determine which ®shes were consuming corals, four underwater video cameras were set up at haphazard positions in the vicinity of the experimental cages on 31 July 1996. Fist-sized aggregations of four species of corals collected from grassbeds near Rodriguez Key"
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 42,
+      "cited_text": "Kruskal-Wallis one-way ANOVA followed by Dunn's test showed that survivorship in closed cages was signi®cantly greater than in either half-cage or no-cage treatments; these last two treatments did not dier from each other (Fig. 2). One striking aspect of these results was that the corals consumed were not evenly distrib-uted among replicates (Fig. 3). Replicates were arranged approximately linearly from southwest to northeast; all of the corals consumed were from the southwest end. None of the corals that were in replicates on the extreme northeast end were consumed (Fig. 3)."
+    },
+    {
+      "source_id": "f46ad039-b2d6-4a0a-860d-98cf61f2a7de",
+      "citation_number": 43,
+      "cited_text": "In conclusion, direct feeding by parrot®shes in the Florida Keys can substantially reduce the abundance and distribution of some coral species (P. divaracata) while other corals (P. porites) can be negatively aected by both direct ®sh predation and, in the absence of grazing ®shes, by seaweed competition. The eects of parrot®sh feeding on coral populations are not gener-alizable to all corals and will depend on species-speci®c traits of the corals and parrot®shes involved. 236 Acknowledgements This work was made possible through funding provided by the NOAA Coastal Ocean Program and by NSF grant OCE 95-29784 to M.E.H. Logistical support was provided by the University of North Carolina at Wilmington National Undersea Research Center in Key Largo, Fl., and by the Florida Keys Na-tional Marine Sanctuary, Key Largo oce. Field assistance was provided by Robin Bolser, Dan Malone, Eric Sotka, Giancarlo Cetrulo, and Robert Carter. Dan Malone analyzed the video tapes."
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 44,
+      "cited_text": "Galaxea, Journal of Coral Reef Studies 10: 83 87 2008 Abstract To reveal the optimal resource allocation among regeneration, growth, sexual reproduction, and survivor- ship in a colonial animal, a specimen of the branching coral Acropora muricata (formosa), without oocytes, was separated into fragments of three different sizes (5, 10, and 20 cm long) that were then transplanted onto coral pavement. Regardless of the fragment size, a wound was fully closed within 11 days after fragmentation. The num-"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 45,
+      "cited_text": "population. The survival rate was monitored within 24 days after transplantation. The data for (2) were analyzed using a Kruskal-Wallis test. Where signifi cant differences were established, Dunn’s multiple comparison test was employed to determine which group(s) differed. Experiment 2 The condition of each fragment was monitored daily for 24 days after transplantation using SCUBA. The fol- lowing observations were recorded: (1) survivorship 24 days after transplantation, (2) the day on which a wound"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 46,
+      "cited_text": "fully closed, (3) the day when the fi rst polyp and the axial polyp appeared on a cut surface, (4) the number of polyps on a cut surface 24 days after transplantation. The data for (4) were analyzed using a one-way ANOVA, after nor- mality was confi rmed using a chi-square goodness-of-fi t test and homoscedasticity was tested using a Bartlett test. Where signifi cant differences were established, Scheffe’s test was employed to determine which group(s) differed. Results Wound regeneration and formation of new polyps"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 47,
+      "cited_text": "at the bottom of the fragment was attached to the substrate to prevent growth (e.g. Okubo et al. 2005). Experiment 1 The condition of each fragment was monitored after 9 months using SCUBA. The following observations were Okubo: Investment allocation in Acropora muricata 85 recorded: (1) survivorship, (2) linear extension rate (mm), and (3) spawning ratio (%) in the fi rst period after frag- mentation. The spawning ratio was expressed as the num- ber of fragments having bundles within the total fragment"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 48,
+      "cited_text": "18th day after fragmentation (Table 1); and axial polyps started emerging on 6 September 2000, the 20th day after fragmentation. The number of newly formed polyps did not differ signifi cantly with fragment size (Table 1). One 5 cm fragment died during experiment (Table 1). Survival, linear growth and spawning (Experiment 1) No signifi cant differences were observed in linear ex- tension rates among the three fragment sizes (Table 2). These results show that the linear extension rate was also independent of fragment size. One 5 cm fragment died"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 49,
+      "cited_text": "Acropora muricata was artifi cially fragmented twice, on 11 (Experiment 1) and 13 (Experiment 2) August 2000, when the colonies had no oocytes. Wire cutters were used to cut fragments from the branch tips of the donor colony, which measured approximately 1 m in height and 4.5 m2 in cross-section. Polyps located within 3 cm from the colony top were removed to confi rm that there were no oocytes in the fragment; the dimensions of the cut surface were kept constant (ca. 0.785 cm2). Using a ruler in situ, the fragments"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 50,
+      "cited_text": "were grouped into three size classes: fragments that were 5 cm in length (n 11 for Experiment 1, n 30 for Experiment 2), 10 cm fragments (10, 26), and 20 cm fragments (8, 27). Then, all fragments were moved 15 to 20 m away from the donor colony and transplanted at depths of 2 3 m. We drove 8 cm long concrete nails into the substrate of the coral pavement, leaving 5 cm protruding from the surface with a 20 cm space between nails. Each fragment was fastened vertically along a nail using one or two polyethylene cable ties. The cut surface"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 51,
+      "cited_text": "during experiment (Tables 2). During the fi rst year after fragmentation, the 5 cm and 10 cm fragments did not spawn; on 6 and 7 June 2001, only the 20 cm fragments spawned (Table 2). The linear extension rates (mm) during the 9 months preceding spawning were 60.4 31.5 (n 13) for reproductive fragments and 37.0 33.0 (n 14) for non-reproductive fragments. Discussion The wound closure rate and the time until new polyps emerged on the new tissue layer were similar in all frag- ments, indicating that regeneration rate was independent"
+    },
+    {
+      "source_id": "d17e3c0b-32a1-4c10-94fa-7558d22f726e",
+      "citation_number": 52,
+      "cited_text": "resource allocation among regeneration, growth, sexual reproduction, and survivorship, experiments should use corals without gametes. Herein, I examined the effect of fragment size on in- vestment allocation in the branching coral Acropora muricata by conducting an experiment in August, after the mass spawning, when the corals had no oocytes (Hayashibara et al. 1993). This species is well known to produce fragments (reviewed by Highsmith 1982), and occurs abundantly in Okinawa, Japan. Materials and methods"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 53,
+      "cited_text": "on the number of the fish bites that each nubbin presented. Changes in the length and weight of coral nubbins were normalized to surface area (cm cm-2 yr-1 and g cm-2 yr-1) using the wax-dipping technique (Stimson and Kin- zie 1991) to account for any differences in the size or surface area of the nubbins that might affect growth. To compare the normalized linear extension rate (cm cm-2 yr-1) among the three treatments (predation treatment, predator exclusion treatment, and cage control treatment),"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 54,
+      "cited_text": "we used a one-way ANOVA followed by a Tukey post hoc analysis. In contrast, as data from the normalized weight gained (g cm-2 yr-1) did not satisfy the assumptions of parametric tests, differences between treatments were analyzed through a resampling one-way ANOVA. Addi- tionally, because treatment-related changes in nubbin morphology (colony weight/length ratio) were apparent, we ran a parametric one-way ANOVA and Tukey’s post hoc test to compare, across the three treatments, the aver- age ratio of the normalized weight gain to the linear"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 55,
+      "cited_text": "REPORT Fish corallivory on a pocilloporid reef and experimental coral responses to predation M. M. Palacios • C. G. Muñoz • F. A. Zapata Received: 12 October 2013 / Accepted: 18 May 2014 / Published online: 1 June 2014 \u0002 Springer-Verlag Berlin Heidelberg 2014 Abstract This study examined the effects of the Guineafowl pufferfish (Arothron meleagris), a major co- rallivore in the Eastern Pacific, on pocilloporid corals on a reef at Gorgona Island, Colombia. Pufferfish occurred at a density of 171.2 individuals ha-1 and fed at a rate of 1.8"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 56,
+      "cited_text": "bites min-1, which produced a standing bite density of 366.2 bites m-2. We estimate that approximately 15.6 % of the annual pocilloporid carbonate production is removed by the pufferfish population. Examination of the predation effect on individual pocilloporid colonies revealed that although nubbins exposed to corallivory had lower linear growth, they gained similar weight and became thicker than those protected from it. Additionally, colonies with simulated predation injuries (on up to 75 % of branch tips)"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 57,
+      "cited_text": "approximate carbonate production. Colony density (g cm-3) was determined for five Pocillopora colonies that were individually wrapped with plastic film, weighed (g), and submerged in a container with water to estimate their volume (cm3). Wrapping the entire colony in plastic film served to include the empty volume between branches in the estimation of the colony volume and thus colony den- sity (Adams et al. 1985; Vytopil and Willis 2001). On the other hand, the rate of Puffer Destruction (kg m-2 yr-1) was obtained as:"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 58,
+      "cited_text": "Puffer destruction ¼ population density ind ha\u00041 \u0002 \u0003 \u0003 destruction rate per fish g min \u00041 \u0002 \u0003 \u0003 feeding correction factor: Data on puffer density were obtained from the fish surveys made in this study (see ‘‘Predator abundance’’ section), whereas the destruction rate per fish was calcu- lated following fish bioerosion studies (e.g., Bellwood 1995; Bruggemann et al. 1996), in which the fish feeding rate (bites min-1; see ‘‘Feeding rate’’ section) is multiplied by the mass of coral removed per bite (g bite-1). To esti-"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 59,
+      "cited_text": "carbonate production by pocilloporid corals?. Methods Study site This study was conducted from April to December 2012 at La Azufrada reef, a fringing coral reef located at Gorgona Island (2\u00035802700N and 78\u00031101300W) off the Colombian coast in the TEP region. La Azufrada reef is a shallow (4–12 m depth at high tide) calcareous framework extending over 9.4 ha, dominated by branching coral spe- cies of the genus Pocillopora (P. capitata, P. damicornis, P. eydouxi). Despite having relatively high coral cover"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 60,
+      "cited_text": "standard parametric tests. Tolerance to corallivory experiment The tolerance of pocilloporid colonies to different levels of damage caused by simulated pufferfish biting was Coral Reefs (2014) 33:625–636 627 123 determined through a field experiment conducted in the reef crest of La Azufrada. We monitored the tissue regeneration and growth of 40 small colonies of Pocillo- pora spp. (75–325 g) after exposure to four experimental treatments (N = 10 colonies per treatment) that differed in the percentage of branch tips per colony that was artifi-"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 61,
+      "cited_text": "linear extension and weight change) of Pocillopora spp. was assessed in situ by exposing 30 nubbins, each *4 cm long, to three experimental treatments (N = 10 per treat- ment): (1) predation treatment in which nubbins were kept Fig. 1 Bite marks by the pufferfish Arothron meleagris on Pocillopora spp. colonies: a scrapes to the coral tissue, b, c excavating bites where coral tissue and skeleton have been removed, d pocilloporid colony exhibiting pufferfish bite marks, e A. meleagris feeding on Pocillopora spp."
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 62,
+      "cited_text": "by puffers on Pocillopora spp. revealed that bites were small (area = 0.47 ± 0.38 cm2; mean ± SD; N = 362 bites) and that most often puffers inflicted only shallow injuries (mean bite depth = 0.19 ± 0.08 mm, N = 50 bites) on branch tips (although they also can occasionally break weak branches). In this experiment, artificial injuries made with pliers were similar in area to those measured in the field and although they were deeper (between 0.1 mm and 0.5 cm depth) than natural ones, we haphazardly made"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 63,
+      "cited_text": "At the end of the experiment (122 d later), each colony was weighed for a second time. To assess pocilloporid tolerance to bite injuries and measure the degree to which coral fitness (in terms of growth) was affected, we compared the mean change in colony weight (g) among the four experimental groups (0, 25, 50, and 75 % of the branch tips injured by simulated puffer feeding) with a one-way ANCOVA using the initial colony weight as a covariate. Predator exclusion experiment The effect of puffer predation on the growth (measured as"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 64,
+      "cited_text": "vidually glued (with epoxy cement) to plastic screws (Fig. 2), tagged, measured with calipers (lengthwise; from the base of the epoxy to the tip of the nubbin) to the nearest 0.01 cm, and weighed on a scale (including the screw and the tag) to the nearest 0.01 g. Afterward, they were placed on the reef flat at 5-m intervals, where the three treatments were systematically assigned to them in sequence. After 183 d, the nubbins were collected, measured, weighed, and examined closely for bite marks. Annotations were made"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 65,
+      "cited_text": "divided into 100 sub-quadrats of 10 9 10 cm2. In each 626 Coral Reefs (2014) 33:625–636 123 zone, 30 quadrats were haphazardly placed and pocillop- orid percentage cover was calculated for each as the number of sub-quadrats that were occupied by Pocillopora spp. (1 sub-quadrat = 1 % of cover). Differences in mean percentage of pocilloporid cover (arcsine-transformed) among reef zones (back reef, reef flat, and reef crest) were assessed using a resampling one-way ANOVA as the data did not satisfy the assumptions of normality and homo-"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 66,
+      "cited_text": "scedasticity required by standard parametric procedures. Subsequently a two-sample resampling test with Holm’s correction (a = 0.05) was used as a post hoc analysis to detect which means were significantly different from each other. The software Rundom Pro version 3.14 (Jadwiszczak 2009) was used to perform all the resampling analyses in this study. Predator abundance (Arothron meleagris) To estimate the population density of the puffer A. mel- eagris, we conducted 150 visual surveys along 50 9 5 m"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 67,
+      "cited_text": "(*40–75 %; Zapata et al. 2010), La Azufrada reef (like other reefs of the TEP) occurs within suboptimal and highly variable environmental conditions, such as an intense rainfall regime (resulting in frequent low salinity episodes and high water turbidity), sporadic extreme low tides, that cause subaerial exposure of corals and temper- ature alterations by ENSO events (Zapata and Vargas- Ángel 2003). During the time of the study, however, mean water temperature remained stable (27.7 ± 0.4 \u0003C; mean ± SD) and oceanographic conditions corresponded"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 68,
+      "cited_text": "proportion of puffers actively feeding at a given time and was calculated from our field observations (see ‘‘Feeding rate’’ section). Results Prey abundance (Pocillopora spp.) The average cover of pocilloporid colonies at La Azufrada reef was 49.6 ± 37 % (mean ± SD, N = 90). Pocillopora spp. cover varied significantly across reef zones (F2,87 = 43.3, P \\ 0.001; Fig. 3a), with the highest cover recorded on the reef crest, where a dense and continuous stand of interlinked pocilloporid colonies occupied"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 69,
+      "cited_text": "to neutral/weak El Niño conditions (NOAA 2013). Based on substrate cover composition and reef topog- raphy, three main reef zones can be distinguished at La Azufrada reef: (1) the back reef, which comprises a soft sediment bottom with many unattached coral colonies; (2) the reef flat, which is the largest reef zone and has a rel- atively thick ([8 m; Glynn et al. 1982) carbonate matrix where Pocillopora colonies are found both individually and in patches; and (3) the reef crest, where Pocillopora"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 70,
+      "cited_text": "cially damaged by simulated puffer bites: 0 % (control), 25, 50, and 75 % of branch tips scraped/tissue removed. Based on preliminary field observations, these damage treatments were designed to mimic the wide range of standing bite densities observed on pocilloporid colonies (47.7 ± 23.0 % of coral branches assessed had bite marks, mean ± SD, N = 3,263 branches) and to resemble the natural injuries inflicted by puffers (Fig. 1). Measurements with calipers (to the nearest 0.1 mm) of bite marks made"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 71,
+      "cited_text": "628 Coral Reefs (2014) 33:625–636 123 in the open, exposed to corallivory; (2) predator exclusion treatment in which mesh cages (25 9 25 9 11.5 cm; 1.5 cm mesh size) protected nubbins from fish corallivores; and (3) cage control treatment in which nubbins were kept within half-open cages (mesh cages lacking two sides) and therefore exposed to corallivory; this controlled possible effects of the full cage on the nubbins (Fig. 2). To conduct this experiment, haphazardly collected nubbins were indi-"
+    },
+    {
+      "source_id": "3f852e08-6b2f-488b-9351-0f78b2ba41a5",
+      "citation_number": 72,
+      "cited_text": "work when coincident with major coral mortality or the presence of acute environmental stressors (e.g., aerial exposure, ENSO events; Zapata and Vargas-Ángel 2003). At these times, predators will tend to concentrate on the remaining live coral colonies (causing increased bite den- sity) and corals will be less physiologically capable of responding to the impact of tissue and skeletal damage. A noteworthy finding of this work was that corallivory causes phenotypic changes in hard corals and consequently can be"
+    },
+    {
+      "source_id": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+      "citation_number": 73,
+      "cited_text": "MATERIALS AND METHODS All studies were carried out between March and December 2011 in the University of Guam Marine Lab wet lab (tank studies) and at Luminao Reef, Guam (field observations). Corals for histology were collected from Luminao and Gabgab reefs, fixed, and sent to the National Wildlife Center Honolulu Field Station, Hawaii, USA, for processing and analysis. To examine the fate of scars in situ, 25 colonies of the branching coral Porites cylindrica hosting a snail, but with no gross clinical signs of tissue loss, were tagged in Luminao reef, Guam, and the snail was removed. The scar was photographed and condition of the tissue margin noted. Scars were photographed weekly for 3 wk after snail removal and scored as (1) healing: tissue deposition over dead skeleton along the scar margin; (2) static: an eroded scar mar-gin with no tissue deposition; or (3) progressing: con-tinued tissue loss beyond the original scar border. To test for the ability of snails to transmit tissue loss between colonies, 40 plates of P. rus, ranging from 4 to 8 cm in diameter, were collected from Gabgab reef, Guam. Ten plates had acute to subacute tissue loss, and 30 plates were clinically healthy on collec-tion. Twenty adult snails were collected from the same reef. The 10 plates containing lesions (‘dis-eased plates’) and 10 apparently healthy plates (corals with no gross evidence of lesions) were placed in individual 2 l aerated aquaria and randomly arranged in water baths at the University of Guam Marine Lab. Snails were starved for 24 h, then ran-domly distributed among the 20 fragments. Snails assigned to diseased fragments were placed on the margin of an active lesion, while snails assigned to"
+    },
+    {
+      "source_id": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+      "citation_number": 74,
+      "cited_text": "76 Raymundo et al.: Gastropod-mediated tissue loss in corals healthy fragments were haphazardly placed on healthy tissue. Snails were allowed to feed for 1 wk, after which they were removed and immediately placed on the remaining 20 healthy fragments, randomized in additional aquaria. We tracked which fragments were fed upon by snails that had pre-viously fed on tissue-loss lesions vs. those previously fed apparently heal -thy fragments. Snails were allowed to feed for an additional week and then re moved. Resultant scars were moni-tored for 2 wk and scored as healing, static, or progressing, as described above. Chi-squared tests were used to test whether the fate of feeding scars differed between treatments (diseased-fed vs. healthy-fed), and ANOVAs were used to examine differences in the rate of lesion progression or healing. Data were transformed, where necessary, to meet assumptions of normality."
+    },
+    {
+      "source_id": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+      "citation_number": 75,
+      "cited_text": "RESULTS Of the 25 snail scars monitored in intact colonies in situ, the majority (64%) healed within 3 wk (Fig. 1). Healing lesions had intact margins with healthy tis-sue overgrowing bare skeleton. Two scars remained static, with a margin of skeletal accretion surround-ing the scar with no evident regeneration of coral tis-sues after snail removal. Seven scars (28%) pro-gressed, showing gross signs of tissue loss similar to white syndrome. In the laboratory feeding experiment, several plates developed more than 1 feeding scar due to snail movement (Fig. 2). We tracked the fate of each scar formed and later pooled the data for statistical tests, after tests for an effect of source plate on lesion fate revealed no significant differences. The majority of feeding scars on corals exposed to snails previ-ously fed diseased tissue exhibited progressing lesions after snails were removed, while the majority of scars formed by snails previously fed healthy tis-sue healed (Table 1; χ2 = 4.891; p = 0.0270). Interest-ingly, the rate at which scars either healed or formed progressing lesions was not significantly different between treatments (roughly 0.25 cm d−1; ANOVA F1,24 = 0.8168; p = 0.385), although the apparent dif-ference in tissue loss rate in plates with healthy-fed snails (Table 1) was due to a single lesion that pro-gressed very rapidly. When that lesion was removed from the analysis, the rate at which lesions pro-gressed in healthy-fed scars was reduced to 0.16 ± 0.09 (SD) cm d−1, but this difference was still not sig-nificant (ANOVA F1,24 = 0.013; p = 0.908)."
+    },
+    {
+      "source_id": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+      "citation_number": 76,
+      "cited_text": "Histology of snail predation scars on coral tissue was examined on 11 and 13 colonies each of P. cylin-drica and P. rus, collected from Luminao reef (P. cylindrica) and Gabgab reef (P. rus) in August 2010 and immediately fixed in Z-fix® concentrate diluted 1:5 in seawater as per the manufacturer’s rec-ommendations. Gross lesions were classified as recent (≤10 d old; no skeletal accretion and partial tissue loss) or old (>10 d; skeletal accretion apparent and complete tissue loss). Tissues were processed for histology and interpretation as described by Work et al. (2012). Briefly, tissues were decalcified, embed-ded in paraffin, sectioned at 5 µm, and stained with hematoxylin and eosin, stains adequate to identify cyanobacteria (Sato et al. 2010) and Gram-positive or Gram-negative microcolonies of bacteria (Work & Aeby 2014). On microscopy, changes were classified as ‘host response’ or ‘organisms associated with host response.’ Host responses included necrosis, depo -sition of hyaline or basophilic membranes, fragmen-tation, cleft formation, hypertrophy, atrophy, or  infiltration of mesogleal cells (inflammation). Organ-isms were categorized as helminths, fungi, algae, or ciliates."
+    },
+    {
+      "source_id": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+      "citation_number": 77,
+      "cited_text": "ABSTRACT: We investigated interactions between the corallivorous gastropod Coralliophila vio-lacea and its preferred hosts Porites spp. Our objectives were to experimentally determine whether tissue loss could progress in Porites during or after Coralliophila predation on corals with and without tissue loss and to histologically document snail predation. In 64% of feeding scars, tis-sue regenerated within 3 wk, leaving no trace of predation. However, in roughly 28% of scars, lesions progressed to subacute tissue loss resembling white syndrome. In feeding experiments, scars from snails previously fed diseased tissue developed progressive tissue loss twice as fre-quently as scars from snails previously fed healthy tissue. Scars from previously healthy-fed snails were 3 times as likely to heal as those from previously diseased-fed snails. Histology revealed marked differences in host responses to snails; P. cylindrica manifested a robust inflammatory response with fewer secondary colonizing organisms such as algae, sponges, and helminths, whereas P. rus showed no evident inflammation and more secondary colonization. We conclude that lesion progression associated with Coralliophila may be associated with secondary coloniza-tion of coral tissues damaged by predator-induced trauma and necrosis. Importantly, variation at the cellular level should be considered when explaining interspecific differences in host responses in corals impacted by phenomena such as predation."
+    },
+    {
+      "source_id": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+      "citation_number": 78,
+      "cited_text": "© The authors 2016. Open Access under Creative Commons by Effects of Coralliophila violacea on tissue loss in the scleractinian corals Porites spp. depend on host response L. J. Raymundo1,*, T. M. Work2, R. L. Miller3, P. L. Lozada-Misa4 1University of Guam Marine Laboratory, Mangilao, Guam 96923, USA 2USGS National Wildlife Health Center, Honolulu Field Station, Honolulu, Hawaii 96850, USA 3Guam Coral Reef Monitoring Program, Bureau of Statistics and Plans, Guam 96923, USA 4National Oceanic and Atmospheric Administration, Honolulu, Hawaii 96818, USA"
+    },
+    {
+      "source_id": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+      "citation_number": 79,
+      "cited_text": "Coralliophila violacea is a muricid corallivorous snail that prefers poritid corals in the Indo-Pacific and Red Sea. The unique feeding mode of this snail, referred to as ‘prudent feeding,’ involves insertion of a proboscis into the coral polyp’s coelenteron, allow-ing the snail to remain stationary for extended peri-ods while consuming coral tissues (Ward 1965, Braw-ley & Adey 1982). Snails remain firmly attached for months, killing the underlying tissue and creating a distinct scar surrounded by accreted coral skeleton. Snails are often clustered on massive corals but singly on branching corals (Chen et al. 2004), and this creates variably sized zones of tissue injury that stim-ulate host tissue regeneration. In Porites, Oren et al. (1998) documented translocation of carbon into these injury zones from surrounding tissue to promote"
+    },
+    {
+      "source_id": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+      "citation_number": 80,
+      "cited_text": "of endoliths on calcium carbonate-secreting organ-isms cite both positive and negative effects on the host (Tribollet 2008). Fungi penetrate and dissolve coral skeleton and attack both endolithic algae and coral polyps (Bentis et al. 2000). Ostreobium spp., endolithic algae in many normal corals, can colonize 78 Metric Diseased-fed Healthy-fed Total feeding scars 13 14 Number of lesions progressing (%) 9 (69) 4(28) Number of feeding scars healing (%) 3 (23) 9 (65) No lesions formed (%) 1 (8) 1 (7) Lesion progression rate (cm d−1 ± SD) 0.24 ± 0.3 0.47 ± 0.62 Feeding scar healing rate (cm d−1 ± SD) 0.27 ± 0.3 0.21 ± 0.16"
+    },
+    {
+      "source_id": "06ab1757-8fe9-4325-96ed-6f3106b325e4",
+      "citation_number": 81,
+      "cited_text": "Our feeding experiments revealed that rates of tis-sue loss and healing were not significantly different, either between or within feeding treatments. Tissue loss rates were highly variable, and our small repli-cate size may account for a failure to reveal a possible treatment effect. Healing rate is a process dictated by how rapidly new tissue can be produced to resheet bare skeleton. Thus, this process would not be ex -pected to differ between treatments if disease signs were absent within the lesion. Lozada-Misa et al. (2015) reported in situ tissue loss lesion healing rates of 0.15 ± 0.3 (SD) cm d−1 in P. cylindrica and 0.015 ± 0.002 cm d−1 for massive Porites. Thus, the rates we observed for P. rus, a close relative, are comparable. Furthermore, the artificial environment of the aquaria may influence both tissue loss and healing processes."
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 82,
+      "cited_text": "Statistical analysis Coral fragments that went missing due to roaming turtles and storms were removed from statistical analyses (snail + nutrient: n = 3; snail- only: n = 2; nutrient- only: n = 0; control: n = 3). Colony mortality was defined as a total loss of living tissue from the coral fragment and was analyzed using a generalized linear model (GLM) with a binomial distribution due to uneven sample sizes between treatments. Tissue loss was only observed on snail addition colonies during our experiment; therefore, we examined the effects of nutrients on tissue predation. To do this, we estimated the area of tissue predation using the equation for the area of an ellipse (A = πab) to approximate the natural shape of C. abbreviata feeding scars. We used measurements of the maximum height and width of scars taken at the end of the experiment or before tissue sloughing was observed on corals. When predation scars extended across the circumference of the coral, we averaged the maximum and minimum scar height and multiplied it by the circumference measured at the base of each individual coral. Tissue loss data were square root transformed to meet the assumptions of par-ametric statistics and Analysis of Variance (ANOVA) was used to analyze the effect of nutrient enrichment and coral genotype on tissue predation. To examine treatment effects on coral growth, corals that suffered full colony mortality or were broken and reattached in the middle of the experiment were excluded from this analysis. Growth data were analyzed using a GLM (nutrients × pre-dation + genotype). The percent cover of filamentous turf algae on coral colonies was analyzed using beta regression with the betareg package in R (Cribari- Neto and Zeileis 2010), as beta regression is used to model continuous sample proportions. All analyses were conducted in R version 3.2.1 (R Core Team 2015)."
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 83,
+      "cited_text": "Effects of nutrients and predation on growth,  tissue loss, and mortality Predation by Coralliophila abbreviata lead to the death of 33% of snail addition colonies by the end of the exper-iment (n = 11; Fig. 2A); in contrast, no nutrient- only or control colonies suffered full mortality (GLM, Psnail < 0.0001, χ2 = 16.9). Snails were removed from 10 corals in snail- only treatments and five corals in snail + nutrient treatments after large predation scars were made and 60% of these corals suffered full mortality after snails were removed. These corals included 29.4 ± 11.4% of snail + nutrient (n = 5) and 33.3 ± 12.1% (n = 6) of snail- only colonies. When comparing only snail- addition corals, we found no effect of nutrient enrichment"
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 84,
+      "cited_text": "834 Ecology, Vol. 98, No. 3ELIZABETH C. SHAVER ET AL. (P = 0.797, t = −0.257). We additionally found no effect of genotype (P = 0.6314, z = 0.48). We observed disease symptoms similar to those reported for rapid tissue loss syndrome (e.g., rapid death, tissue sloughing) on all corals that suffered full mortality (Williams and Miller 2005, Miller et al. 2014b). Coral tissue loss increased from 0% without snails to approximately ~30% of live tissue surface area with snail predation (GLM, Psnail = 0.0005, χ2 = 12.4). We found no effects of nutrient enrichment (with nutrients: 5.60 ± 3.94 cm2, without nutrients: 3.84 ± 3.37 cm2; P = 0.192, F1,34 = 1.773) or genotype (P = 0.621, F1,34 = 0.248) on tissue predation (Fig. 2B). The growth of corals with snail predation was reduced by 64% rel-ative to corals without predation (P = 0.0107, t = −2.687) (Fig. 2C). However, growth was most significantly affected by genotype, where U- 8 corals grew 71% more than U- 2 corals (U- 8: 5.75 ± 0.74 cm, U- 2: 3.35 ± 0.50 cm; P = 0.0020, t = 3.328). We found no effect of nutrients (P = 0.5281, t = 0.637) or the interaction between  predation and nutrients (P = 0.1881, t = −1.341). While nutrient- only and control corals grew the most during this experiment (N: 6.74 ± 0.95 cm; C: 6.04 ± 1.21 cm), growth of snail- only and snail + nutrient corals were reduced to 3.06 ± 0.83 cm and 1.38 ± 1.02 cm, respectively."
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 85,
+      "cited_text": "832 Ecology, Vol. 98, No. 3ELIZABETH C. SHAVER ET AL. immediately adjacent to the nutrient tubes (N = 1.474 ppm; P = 0.4211 ppm) relative to controls (N = 0.007 ppm, PN = 0.012; P = 0.007 ppm, PP = 0.006). Though samples were not directly next to corals, we believe this suggests corals received heightened levels of nutrients throughout the experiment. For predator addition treatments, we collected C. abbreviata snails from non- diseased corals on nearby corals reefs and starved snails in an aquarium for one week to ensure that any potential pathogens were not transmitted through fecal matter. We placed two snails at the base of each snail- only and snail + nutrient coral, which approximated naturally high snail densities on sur-veyed A. cervicornis colonies harboring C. abbreviata when corrected for colony height (see Results). Every 2–3 days, we examined corals for predation scars indi-cated by white coral skeleton (Fig. 1A) and removed snails from colonies when a large portion of tissue (~30% of colony surface area) was consumed. We recorded colony mortality, tissue loss, and disease signs (e.g., tissue sloughing; Fig. 1B, C) for all treatments every 2–3 days during the study. To assess coral growth, we measured the total linear extension (e.g., additive length of all branches, TLE) of corals at the beginning and end of the exper-iment. After observing that turf algae began colonizing the bare coral skeleton left by snail feeding scars, we addi-tionally measured algal colonization on coral colonies at the end of the experiment. This was done by visually esti-mating the percent cover of algae within snail feeding scars and on live coral tissue to the nearest 5%."
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 86,
+      "cited_text": "The colonization of turf algae on coral colonies was also significantly affected by predation (Fig. 2D; P = 0.0026, z = 3.009), but not by nutrients (P = 0.7604, z = 0.0305), genotype (P = 0.9793, z = −0.026), or the interaction between predation and nutrients (P = 0.8845, z = 0.145). Algae covered 18.1 ± 3.4% of total colony surface area in corals subjected to predation, while algal colonization on nutrient- only and control colonies was rare (~0.01% algal cover). The majority of algal coloni-zation occurred within snail predation scars (92.0 ± 3.3%), covering on average 57.4 ± 6.7% of snail scars, while little colonization occurred on live coral tissue (1.1 ± 0.22% algal cover)."
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 87,
+      "cited_text": "To assess treatment effects on coral microbiomes, we performed Principal Coordinates Analysis (PCoA) using QIIME’s beta_diversity_through_plots.py. We calcu-lated weighted UniFrac distances and principal coordi-nates after rarefying the raw OTU table to a uniform depth of 43,000 reads per sample. Data were loaded into R using the Phyloseq package v1.12.2 (McMurdie and Holmes 2014, R Core Team 2015). We used Levene’s tests and ANOVAs to assess treatment affects for PCoA axes using the car package v2.0.25 in R. Correlations between OTUs and PCoA axes were determined with QIIME using the rarefied table and observation_metadata_corre-lation.py. Correlations with family- level taxa were assessed by pooling these OTUs with summarize_taxa.py."
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 88,
+      "cited_text": "Effects of nutrients and predators on A. cervicornis microbiomes Overall, 64.84% of the variation observed in coral microbiomes was explained by the first two PCoA axes (Appendix S1: Fig. S1). Variation in PC1 was signifi-cantly greater in nutrient- enriched corals (Levene test, P = 0.017; Fig. 3A), and was correlated with the abun-dance of OTU 150441 (Rickettsiales; R2 = 0.992, P < 0.0001; Fig. 3B). The relative abundance of this Rickettsiales OTU increased from at most 11.4% of the bacterial community without nutrients to at most 87.9%"
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 89,
+      "cited_text": "ELIZABETH C. SHAVER ,1,4 ANDREW A. SHANTZ,2 RYAN MCMINDS,3 DERON E. BURKEPILE,2  REBECCA L. VEGA THURBER,3 AND BRIAN R. SILLIMAN1 1Division of Marine Science and Conservation, Nicholas School of the Environment, Duke University,  Beaufort, North Carolina 28516 USA 2Department of Ecology, Evolution, & Marine Biology, University of California, Santa Barbara,  Santa Barbara, California 93106 USA 3Department of Microbiology, Oregon State University, 454 Nash Hall, Corvallis, Oregon 97331 USA Abstract.   By inflicting damage to prey tissues, consumer species may increase stress in prey hosts and reduce overall fitness (i.e., primary effects, such as growth or reproduction) or cause secondary effects by affecting prey interactions with other species such as microbes. However, little is known about how abiotic conditions affect the outcomes of these biotic interactions. In coral reef communities, both nutrient enrichment and predation have been linked to reduced fitness and disease facilitation in corals, yet no study to date has tested their combined effects on corals or their associated microbial communities (i.e., microbiomes). Here, we assess the effects of grazing by a prevalent coral predator (the short coral snail, Coralliophila abbreviata) and nutrient enrichment on staghorn coral, Acropora cervicornis, and its microbiomes using a factorial experiment and high- throughput DNA sequencing. We found that predation, but not nutrients, significantly reduced coral growth and increased mortality, tissue loss, and turf algae colonization. Partial predation and nutrient enrichment both independently altered coral  microbiomes such that one bacterial genus came to dominate the microbial community. Nutrient- enriched corals were associated with significant increases in Rickettsia-like organ-isms, which are currently one of several microbial groups being investigated as a disease agent in this coral species. However, we found no effects of nutrient enrichment on coral health, disease, or their predators. This research suggests that in the several months following coral transplantation (i.e., restoration) or disturbance (i.e., recovery), Caribbean acroporid corals appear to be highly susceptible to negative effects caused by predators, but not or not yet sus-ceptible to nutrient enrichment despite changes to their microbial communities."
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 90,
+      "cited_text": "Predation × nutrient experiment To assess how predation and nutrients affect corals and their microbiomes, we exposed colonies of A. cervicornis to a fully factorial field experiment from June to August 2013. Due to the threatened status of this species, this exper-iment could not be conducted in natural reef settings or with already- restored colonies. Thus, we  conducted this experiment in the Coral Restoration Foundation’s coral nursery in Key Largo, FL, USA in an open sand flat (30- ft depth) using corals grown through established propa-gation techniques (Johnson et al. 2011). We collected coral fragments using wire cutters from  visually healthy (e.g., non- diseased) colonies of two  genotypes (Upper Keys 2, “U- 2”; Upper Keys 8, “U- 8”) due to possible genotypic variation in disease susceptibility. All coral fragments were ~10 cm long to approximate coral transplant sizes used in restoration activities and due to limits in using nursery corals. Using All Fix Marine Epoxy, we secured each coral fragment to an individual structure consisting of a con-crete slab with attached vertical PVC pipes, with corals attached to the top of one PVC pipe. Structures were placed 3 m apart in all directions and were cleaned of all fouling organisms prior to experimentation."
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 91,
+      "cited_text": "METHODS Survey of corallivory on staghorn colonies To determine the prevalence of predation on Acropora cervicornis by Coralliophila abbreviata in natural settings, we conducted surveys of both natural and restored colonies across four coral reefs in the Florida Keys National Marine Sanctuary (Molasses Reef: N 25 0.579, W 80 22.471; Pickles Reef: N 24 59.170, W 80 24.940; Conch Reef: N 24 57.110, W 80 27.564; American Shoals: N 24 31.568, W 81 31.383). At each site, we sur-veyed all A. cervicornis colonies found in 15–20, 2 × 20 m belt transects and recorded the density of C. abbreviata per colony, as well as colony height, length, and width to the nearest cm."
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 92,
+      "cited_text": "RESULTS Surveys of predation on staghorn corals A total of 198 Acropora cervicornis colonies were recorded across the four reefs surveyed. Of these, 15.2% (n = 30) were found harboring Coralliophila abbreviata. Snail density ranged from 0 to 7 snails per colony and averaged 0.35 ± 1.01 snails per colony (mean ± SD) across all colonies surveyed, but increased to 2.30 ± 1.51 snails on colonies harboring snails (range: 1–7 snails per colony). When standardizing C. abbreviata density by colony branch length, we found snail density averaged 0.01 ± 0.01 snails per cm. Because C. abbreviata do not often climb onto secondary branches of A. cervicornis (E. C. Shaver, personal observation), we also calculated snail density per colony height (e.g., of the primary branch) and found C. abbreviata averaged 0.14 ± 0.08 individuals per cm."
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 93,
+      "cited_text": "Coral microbiome collections and processing To determine the effects of nutrients and predators on coral microbiomes, we randomly selected five colonies from each treatment (including both genotypes) for sam-pling at the end of the experiment. Part of the main branches of corals were clipped and placed in 50 mL cen-trifuge tubes and frozen until analysis. Feeding scars were included in samples for all snail addition treatments. We did not sample corals with disease signs as rapid mor-tality occurred before sampling could be conducted. We used high- throughput 16S amplicon sequencing to assess the bacterial and archaeal communities associated with each coral. To do this, we isolated and homogenized coral tissue from both the tip and the base of each coral fragment with a WaterPik and sterile Milli- Q water. Total DNA was extracted from 200 μL of the resulting tissue slurry with a MoBio PowerSoil kit according to manufacturer’s protocol. Barcoded primers 515F and 806R and ToughMix PCR (Quanta BioSciences, Gaithersburg, Maryland, USA) were used to amplify and tag the V4 region of the bacterial and archaeal 16S rRNA gene. Samples were amplified in triplicate, with each tech-nical replicate given a different combination of barcodes. Triplicates were pooled, cleaned, and quantified before all samples were combined in equimolar ratios. Multiplexed libraries were submitted to Oregon State University’s Center for Genome Research and Biocomputing (CGRB) for sequencing on the Illumina MiSeq platform."
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 94,
+      "cited_text": "After a 1- week acclimation period, we assigned corals to one of four treatments: (1) snail + nutrient; (2) snail- only; (3) nutrient- only; and (4) no snails or nutrients (control). Each treatment consisted of 10 repli-cates per genotype for a total of 80 colonies. To ensure variation in environmental conditions did not affect treatment results, we evenly distributed genotypes and treatments throughout the experimental site. For nutrient addition treatments, diffusion tubes were secured to PVC tubes ~5 cm below coral colonies and replaced every 2–3 weeks. Diffusion tubes consisted of a 6- inch long × 1- inch wide PVC pipe with 16, 3/8- inch holes drilled into the side and covered in mesh screen. Tubes were filled with 70 g Osmocote 19- 6- 12 Smart- Release plant ferti-lizer pellets following the methods of Worm et al. (2000). To ensure nutrient diffusion tubes were effective in releasing nutrients, we analyzed inorganic nitrogen and phosphorus spectrophotometrically from water samples taken within ~3 cm of 5 control corals and ~1 cm from 5 nutrient diffusion tubes a few days after diffusion tubes were established (UV- 2450, Shimadzu; Southeast Environmental Research Center, Miami, Florida, USA). Inorganic nutrients were significantly higher in water"
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 95,
+      "cited_text": "In contrast, we did not find any effects of nutrient enrichment on coral tissue loss, mortality, growth, or algal colonization. The lack of nutrient effects may have been due to the short duration of our experiment, par-ticularly as turf algae can overgrow dead surfaces of coral colonies under nutrient enrichment conditions (McClanahan et al. 2003, Vermeij et al. 2010). The rela-tionship between nutrients and coral growth can also vary across nutrient concentrations (Gil 2013, Shantz and Burkepile 2014), and therefore results of our presence/ absence nutrient treatments also limit our interpretation. Additionally, the levels of nutrients exposed to corals also likely affected our results; however, we did not attempt to determine these levels through seawater sam-pling as nutrient concentrations often vary with changes in temperature, flow, and other environment variables. Nutrient exposure in our methods closely followed other studies (here: ~5.0 g Osmocote/day; Bruno et al. 2003: ~4.3 g Osmocote/day; Vega Thurber et al. 2009: ~5.4 g Osmocote/day), which reported increased seawater nutrient levels within the range of anthropogenic nutrient pollution (2–5× higher than ambient seawater: Bruno et al. 2003, 3× higher than ambient seawater: Szmant 2002, Vega Thurber et al. 2009). Though increased nutrient exposure may have resulted in effects on coral health or disease, the lack of precise measurements of nutrient- exposed seawater surrounding corals limits our interpretation of anthropogenic pollution effects on small acroporid corals."
+    },
+    {
+      "source_id": "9d6998fc-caf1-4dbd-883f-ad9b9184d062",
+      "citation_number": 96,
+      "cited_text": "that are closely associated with the health of terrestrial plants (Johnson et al. 2003). Determining the potential role of the coral microbiome in affecting coral health, disease, and fitness is similarly an important research frontier (Thompson et al. 2015). Importantly, in our study we did not observe any nutrient effects on corals despite strong changes to the composition of their microbiomes. As our study was conducted in a mid- shelf sandflat, future research should seek to compare microbial responses to multiple factors under natural coral reef conditions and over longer time periods."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 97,
+      "cited_text": "2.8. Statistical analysis Comparison of growth, IRP and the percentage of lipid in tissue at different sites and with different damage treatments was made using analysis of variance. Homogeneity of variances was tested using Cochran’s test and, where necessary, appropriate trans- formations were performed. The damage experiments were treated as an orthogonal analysis of variance and, as site was included, this was a three-factor design. 3. Results 3.1. Mortality The most dramatic effect of damaging the corals was on their survival. There was a very low mortality of undamaged colonies at both sites with only one of the 14 un- damaged colonies dying. There was a higher mortality amongst the dislodged and fragmented colonies with half of these corals dead by the end of the study period (Table 2). Significantly more dislodged corals died than not dislodged corals and, al- though more fragmented corals died than not fragmented corals, this difference was not significant."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 98,
+      "cited_text": "This study aimed to investigate allocation of energy in corals at Rottnest Island. Corals can use energy for three main functions: in growth, reproduction and storage of lipid (Sibly & Calow, 1986). Allocation of input to these three functions was mea- sured simultaneously in a population of corals over a period of 13 months. Growth was measured as linear extension, storage of lipid was estimated gravimetrically as the percentage of tissue made up of lipid and reproductive activity was investigated by measuring ova production, production of planulae and the lipid content of those planu- lae. Stages of gametogenesis were also monitored."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 99,
+      "cited_text": "Three branches were taken from the colony and the tips were placed into fresh water. After 2-3 days the branch tips were washed with a jet of tap water until all the tissue had been removed. They were then cut on a trim saw with a diamond blade so that there was a flat face on which to measure the linear extension from the stain mark. Once the coral had dried, the growth was measured using callipers (to + 0.1 mm) under a magnifying lamp. 2.5. Lipids The remaining branch sections from the above growth samples were placed in 10% formaldehyde in seawater for 24 h. The samples were then immersed in Bouin’s fixa- tive for 2 wk to decalcify the skeleton. The tissue samples were placed in embedding cassettes and dried in an oven for 24 h at 55 “C. The samples were then weighed (to & 0.0001 g) and immersed on a 2: 1 chloroform-methanol solution for 24 h to dissolve"
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 100,
+      "cited_text": "the lipids (Barnes & Blackstock, 1973; Stimson, 1987). The tissue samples were then redried for 3 h and reweighed. The total lipid content was calculated by subtraction and expressed as a percentage of the total tissue biomass. 2.6. Larval capture To estimate the number of larvae produced, portions of colonies were taken from each coral 4 days before the new moon in March and transported to the laboratory. Colonies were placed in fresh sea water and larvae were collected, counted and stored in a solution of 10% formaldehyde in sea water."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 101,
+      "cited_text": "The number of planulae shed per piece of coral was standardised by calculating the relative surface area of each branch. Branches were weighed, placed in a Miles Tissue Tek consul of paralhn wax at 60 ‘C for 5 s and then reweighed when cooled. The weight of wax was then calculated and the number of planulae shed was divided by the weight of wax. Captured larvae were analysed for lipid content following the methods used by Barnes & Blackstock (1973) and Stimson (1987). Larvae from individual colonies were"
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 102,
+      "cited_text": "On each slide all polyps (50-100) were scored for their stage of gametogenesis and their planulae were counted. Stages were identified basically following those of Stoddart (1984a,b). There were four stages of spermatogenesis and two stages of oogenesis. Reproduction includes both production of planulae and gametes, so a measure of reproductive output which included both components was devised. An index of repro- ductive potential (IRP) was calculated from the percentage of polyps with ova and planulae for each colony at each date. The largest sum of the percentage of polyps containing the two oogenic stages and/or planulae at each time point of each coral was termed the IRP."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 103,
+      "cited_text": "Journal of Experimental Marine Biology and Ecology 187 (1995) 193-206 JOURNAL OF EXPERIMENTAL MARINE BIOLOGY AND ECOLOGY The effect of damage on the growth, reproduction and storage of lipids in the scleractinian coral Pocillopora damicornis (Linnaeus) Selina Ward Centre for Coastal Management, Resource Science and Management. Southern Cross University, Lismore 2480, New South Wales, Australia Received 17 November 1993; revision received 9 August 1994; accepted 4 November 1994 Abstract A population of the scleractinian coral Pocillopora damicornis (Linnaeus) was examined at Rottnest Island, off the Western Australian coast. This is a temperate zone and an area under consid- erable tourist pressure. Experiments were conducted at Little Salmon Bay and Mary Cove to investigate the effect of mechanical damage on the growth, reproduction and storage of lipid to see whether patterns of energy allocation were affected. These parameters were measured simultaneously 14 times over 13 months."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 104,
+      "cited_text": "Manipulative experiments were set up at Mary Cove and Little Salmon Bay. All P. damicornis colonies chosen for this study appeared healthy, were between 30 and 50 cm in diameter, and were not shaded. Two treatments were used: fragmentation and dislodgement. Fragmentation involved breaking some branches from the colony with a hammer but leaving the colony in place. Approximately 50% of branches were broken off throughout the colony rather than just one section of the colony. The remaining colony was sampled. Dislodged corals were knocked from the reef onto the substra- tum below which was either sand, rock or seagrass bed. Corals were placed face up at the time of damage and at each sampling time."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 105,
+      "cited_text": "An orthogonal design was used for this experiment so all possible combinations of these two treatments were used. At both sites there were fragmented only, dislodged only, fragmented and dislodged and not fragmented, not dislodged corals (Table 1). 2.3. Sampling procedure Sampling of colonies involved breaking three branches, E 5 cm long from each coral at each date. Branches from the lowest parts of the colonies were avoided. Samples were used to monitor growth, reproduction and lipid storage. The branch tips were used for growth measurement and the rest of each branch for lipids and evaluation of the"
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 106,
+      "cited_text": "Table 1 Number of corals sampled at Little Salmon Bay and Mary Cove during the 13-month study period. Treat- ments were dislodgement and fragmentation Fragmented dislodged Not dislodged Not fragmented dislodged Not dislodged Little Salmon Bay Mary Cove I 5 6 4 4 6 10 7 196 S. Ward/J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206 gametogenic cycle. Sampling began in July 1988 and continued until September 1989. During the winter, samples were taken each month and during the summer months they were taken every 2 wk."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 107,
+      "cited_text": "3.4. Larval capture There were numerically fewer larvae captured in dislodged than not dislodged cor- als, more in fragmented than not fragmented corals and fewer at Mary Cove than at Little Salmon Bay but none of these differences were statistically significant (Fig. 3). The lipid content of the larvae was most frequently 50-60%. Some corals produced very few larvae and these were difficult to analyse. Although there was less lipid in the larvae captured from corals which were dislodged than those which were not dislodged and more in not fragmented than fragmented corals, the differences were not signifi- cant (Fig. 4). The data for larval capture were significantly correlated with the num- ber of planulae from the histological data, although the relationship is not strong (r = 0.56, p< 0.05, n = 46)."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 108,
+      "cited_text": "3.2. Growth Dislodged corals grew slower (between December 1988 and June 1989) than those which were not dislodged (Table 3) (Fig. 1) but there was no significant effect of fragmentation on the amount of cumulative growth. Corals at Little Salmon Bay grew faster than those at Mary Cove (Table 3). 3.3. Lipids There was no clear pattern of the effect of dislodgement, fragmentation or site on the quantity of lipid in tissue of experimental corals at Little Salmon Bay and Mary Cove on the 12 dates the analyses of lipids were conducted. In November the dislodged corals had less lipid in the tissues than the undislodged colonies (Fig. 2) and on the 7th February colonies from Mary Cove had a higher quantity of lipid than those from Little Salmon Bay."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 109,
+      "cited_text": "FFIAG DISL F+D Fig. 1. Growth, as linear extension, of colonies of P. dumicornis at Rottnest Island. Treatments are cant = controls, frag = fragmentation, disl = dislodged, f + d = fragmentation and dislodgement. Error bars are stan- dard errors. S. Ward/J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206 199 Table 3 Three-factor orthogonal analysis of variance information for growth (as cumulative linear extension) of corals from Little Salmon Bay and Mary Cove between 17th December and 10th June, 1989"
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 110,
+      "cited_text": "of allocation factors such 2. Methods 2.1. Sites S. Ward 1 J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206 195 for the damaged and the undamaged corals as well as between individual as growth rates. Rottnest Island lies 20 km off the coast of Western Australia at 32” S. Two sites were sampled: Little Salmon Bay and Mary Cove. These sites are both on the west side of the island and recieve some direct wave action. Corals grow on limestone but there is no coral reef structure at these sites. 2.2. Experimental design"
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 111,
+      "cited_text": "With respect to growth and mortality, dislodgement appears to be a more severe type of damage than fragmentation, as it caused a decrease in cumulative growth as well as an increase in mortality. S. Ward/J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206 203 Corals at Rottnest Island had a high lipid content. The 29-46x of tissue weight made up by lipid recorded here is slightly higher than past studies with Patton et al. (1977) finding 34% for P. capitata and Stimson (1987) finding 30-40x for P. dami- comis. It is possible that the high percentage of lipid found in this study may be a characteristic of corals in cooler water. However, there are no suitable studies with which to compare these results."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 112,
+      "cited_text": "The reproductive activity of P. damicomis at Rottnest Island was affected by both dislodgement and fragmentation. The IRP was lower for dislodged corals due to re- duced numbers of both ova and planulae. Dislodged corals are frequently exposed to greater sediment stress, due to resuspension, because they are on the substrate sur- rounded by sand. This may cause a decrease in light available to the corals which is often compounded by a slight decrease in light due to increased depth as the corals usually fall from the reef downwards."
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 113,
+      "cited_text": "corals. We also collected H. opuntia overgrowing the coral M. faveolata and algae overgrowing dead coral skeletons only at three other sites on the island (Marie Pompoen, 12805.5250 N 68854.5160 W; Spanish Water, 12803.7900 N, 68851.1900 W; and Playa Kalki, 12822.5300 N, 69809.4700 W). After removing each clump of algae overgrowing live coral tissue, coral health underneath the algae was scored as follows: 1, tissue normal; 2, tissue partially bleached; 3, tissue completely bleached; 4, tissue ,50% dead; 5, tissue \"50% dead. Back in the laboratory, all fireworms were separated from the algal segments, identified microscopically following Fauchald (1977), and counted. Sampling was carried out between March and April 2010. Field experiment.—We tested the effect of H. opuntia-"
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 114,
+      "cited_text": "carunculata in the algal clumps was highest in corals overgrown with large sized clumps and varied signifi-cantly among overgrown substrata (PERMANOVA, algal dry mass pseudo-F ¼ 18.21, df ¼ 1, P ¼ 0.001; substrate pseudo-F¼ 2.37, df¼ 5, P¼ 0.041). There were more fireworms in H. opuntia overgrowing all coral species except C. natans than in algae overgrowing dead coral (Fig. 1a). The difference in fireworm abundances between M. faveolata and dead coral was consistent among sites, with site having no influence (substrate P¼ 0.030; site and substrate 3 site interaction P . 0.05; algal dry mass P ¼ 0.044). Negative relationships between fireworm abundance and tissue condition under the algae were found for M. faveolata and S. siderea at Carmabi Buoy One (intercepts¼ 0.69 6 0.31 and 0.78 6 0.40 [mean 6 SE], P¼0.028 and P¼0.042, respectively), with algal dry mass having no effect (P . 0.05). Pooling species and sites, both fireworm abundance and algal"
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 115,
+      "cited_text": "percentage of total area covered by the bag. The controls (T5) suffered no mortality and had 100% healthy tissue. In addition, signs of white plague, in the form of recently dead tissue characterized by a sharp and regular demarcation between apparently healthy coral tissue and freshly denuded skeleton often extending beyond the algal overgrown area were recorded. Back in the laboratory, all epifauna were removed from the living and mimic H. opuntia and mesh bags. H. carunculata were identified and counted. Laboratory experiment.—The field experiment had its"
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 116,
+      "cited_text": "April 2010). All replicates were checked every five days. H. opuntia clumps remained healthy for the duration of the study. At the end of the experiment, the mesh bags were collected using Ziploc bags. The surface areas of recently dead coral, bleached, and healthy tissue underneath the mesh bag were measured to the nearest cm2 using a flexible transparent plastic grid divided into 100 1 3 1 cm square cells and were expressed as ALEXANDER T. WOLF AND MAGGY M. NUGUES1668 Ecology, Vol. 94, No. 8"
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 117,
+      "cited_text": "the 20 transplants in the H. opuntia-added (T1) treatment, only one (5%) of the transplants in the epifauna-removed (T2) treatment, and in none of the transplants in the other treatments. Differences among treatments were significant (heterogeneity G test, GH ¼ 39.58, df ¼ 4, P , 0.005, n ¼ 20; Fig. 2d). STP tests indicated that fT1, T2g and fT2, T3, T4, T5g formed two homogenous groups. Thus, these results support a positive trend between the algae and coral disease, but we cannot conclusively attribute the disease to the sole effect of the algal-associated epifauna. Laboratory experiment.—In the experiment with H."
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 118,
+      "cited_text": "November 2010 for H. carunculata and 18 November to 12 December 2010 for C. abbreviata). Tank surfaces were cleaned every two days with scouring pads. All replicates were checked during the tank cleaning process. H. opuntia and corallivores remained healthy for the duration of the study. At the end of the experiment, the mesh bags were collected using Ziploc bags and the surface areas of recently dead coral, bleached, and healthy tissue were measured. Complete fragment mortality was also recorded. Upon complete death, fragments showed rapid tissue disintegration and white plague signs typical of the natural conditions were not observed."
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 119,
+      "cited_text": "Abstract. Indirect biotic interactions play a crucial role in structuring ecological communities, but many of these interactions have not been explored. Algal competition and corallivory are two major stressors contributing to the decline of coral reefs. Here, we provide the first evidence of algal-induced corallivory and synergistic effects between the two stressors on corals. When corals (Montastraea faveolata) were placed in contact with algae (Halimeda opuntia) together with corallivorous fireworms (Hermodice carunculata) in aquaria, corals suffered high tissue mortality. This mortality was reduced in the presence of algae only, and no mortality occurred in the presence of fireworms only or when excluding both algae and fireworms. These findings were supported by field observations showing a predominance of fireworms inside algae contacting live corals, and by an in situ experiment demonstrating higher coral mortality in contact with algae left undisturbed than with algae from which all mobile epifauna were periodically removed. Among the main contributing mechanisms, we suggest that algal contact produces decaying coral tissue that attracts the corallivore and enhances its aggregation behavior. Our study demonstrates an indirect effect pathway by which algae can impact corals, which shares similarities with the classic models of apparent competition and habitat facilitation."
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 120,
+      "cited_text": "MATERIALS AND METHODS Field survey.—If H. carunculata is using H. opuntia to feed on corals, it should be more abundant in algae overgrowing living corals compared to algae exclusively covering dead coral skeleton, and its abundance should be negatively associated with coral health. Additionally, since corallivores commonly exhibit prey preferences (Rotjan and Lewis 2008), their abundance in the algae could differ among coral species. To test these hypoth-eses, clumps of H. opuntia overgrowing live tissue from five coral species (M. faveolata, Montastraea cavernosa, Siderastrea siderea, Colpophyllia natans, Diploria strigo-sa) and dead coral skeleton only (n ¼ 11–14 replicates) were haphazardly collected using Ziploc bags (SC Johnson, Racine, Wisconsin, USA) by swimming along the reef terrace (4–8 m depth) at Carmabi Buoy One (12807.551 0 N, 68858.529 0 W) in Curaçao, in the southern Caribbean. Clumps overgrowing dead coral skeletons only were collected .1 m away from any living"
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 121,
+      "cited_text": "H. carunculata in interactions between the green calcareous alga Halimeda opuntia and Caribbean reef-building corals. H. opuntia provides a complex three-dimensional framework known to host a wide variety of invertebrates, including fireworms (Naim 1988). It is also known to cause coral mortality and disease (Nugues et al. 2004). H. carunculata is commonly observed feeding on diseased corals (Miller and Williams 2006) and has been shown to act as a vector of the coral-bleaching pathogen Vibrio shiloi in the Mediterranean (Sussman et al. 2003). We hypothesized that corallivory by the worm could enhance mortality in corals interacting with the alga. First, we investigated the abundance of the worm in algae overgrowing different coral species and related its abundance with coral health in the field. Second, we tested the effects of whole algal-associated epifauna on coral bleaching, death and disease in interactions between H. opuntia and the coral Montastraea faveolata in a field experiment. Finally, we examined the separate and combined effects of the algae and the worm on coral bleaching and mortality under laboratory conditions. This last experiment was also performed using another corallivore, the snail C. abbreviata."
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 122,
+      "cited_text": "limitations since we could not remove H. carunculata without removing the reminder of the epifauna, access by H. carunculata could not be controlled and the algae had to be periodically disturbed to remove the epifauna. We therefore performed a laboratory experiment in which we could control the presence/absence of H. carunculata without disturbing the algae and study the independent and combined effects of the fireworm and H. opuntia on M. faveolata. Four outdoor 1 m3 (13 13 1 m) aquaria were each split in two equal sections, provided with flow-through seawater (;4–5 L/minute) subject to natural daily temperature fluctuations (range 29.48 to 30.88C), and shaded to ensure light conditions similar to the depth range at which all organisms were collected (;30% of the incident surface photosyntheti-cally active radiation). One section of each aquarium was randomly allocated to one of two corallivore treatments: (1) corallivores present, 30 fireworms (;3– 6 cm in length, collected in H. opuntia clumps) were added, and (2) corallivores absent, no fireworms added. Within each section, six coral fragments of similar size (;300 cm2) and free of epifauna were placed and randomly allocated to one of two algae treatments: (1) H. opuntia present, a clump (;90 g wet mass) of H. opuntia with all epifauna removed was placed inside a nylon mesh bag (1 cm mesh) and positioned with cable ties to overgrow ;90 cm2 of living coral surface, and (2) H. opuntia absent, no H. opuntia and mesh bag were added (Appendix A: Fig. A1). Coral fragments were 20– 25 cm apart. All organisms were collected on the reef terrace at Carmabi Buoy Zero. Coral fragments were removed from the reef by breaking off columns below the live coral to avoid tissue damage and acclimated for five days in the experimental aquaria prior to experi-mentation. The same experiment was also carried out using the corallivorous snail C. abbreviata and the coral Montastraea annularis, which is commonly infested by the snail (Baums et al. 2003). In this second experiment, 60 snails were added to each section assigned to the corallivores present treatment. The experiments were run for 24 days (16 October to 9"
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 123,
+      "cited_text": "associated epifauna on corals at Carmabi Buoy Zero (12807.4170 N, 68858.5920 W) in Curaçao. Colonies of M. faveolata were haphazardly chosen swimming along the reef terrace. They were used in the experiment if the colonies showed no sign of disease and were not overgrown by algae. The coral M. faveolata was chosen for this study as it is a major reef building species, and adult corals are abundant. Also, our field survey had indicated a high abundance of fireworms inH. opuntia in contact with this species. The colonies were tagged and randomly allocated to one of the following five treatments (n¼ 20 colonies each): T1, H. opuntia added, a clump (;90 g wet mass) ofH. opuntia with all epifauna removed in the lab was put inside a nylon mesh bag (1-cm mesh) and positioned to overgrow ;90 cm2 of living coral surface using rubber bands and nails inserted onto nearby dead coral substrate, with no further manipula-tion; T2, H. opuntia added, epifauna removed, as with T1 but the mesh bag was retrieved every five days, all epifauna was removed from the alga in the lab, and the mesh bag with the alga was returned to its initial position on the same day; T3,H. opuntiamimic, a plastic aquarium plant of similar structure and size was used instead of the living alga, the epifauna was not removed during the experiment; T4, procedural control, only a nylon mesh bag was placed in contact with the coral tissue; T5, control, the coral colony was left untouched. The H. opuntia mimic treatment was used to distinguish between the biological and physical properties of the alga. In addition, 20 nylon mesh bags with similarly sized clumps of H. opuntia were placed onto dead coral substrate .1 m away from any living corals (T6) to control for the effect of coral-algal contact on H. carunculata. The experiment was run for 25 days (20 March–14"
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 124,
+      "cited_text": "every five days in the H. opuntia added, epifauna removed (T2) treatment, averaged 1.09 6 0.26 (mean 6 SE) individuals per 100 g algal dry mass (n ¼ 100 replicates) and did not differ among retrieval times (Kruskal-Wallis ANOVA on ranks,H¼3.65, df¼4, P¼ 0.45). At the end of the experiment, there were significantly more fireworms in the H. opuntia added (T1) treatment compared to all other treatments, including the epifauna removed (T2) treatment (Fig. 2a), indicating that the removal treatment effectively reduced the abundance of fireworms. Paralleling pat-terns of fireworm abundance, the percentage of recently dead tissue was significantly higher in the H. opuntia added (T1) treatment compared to all other treatments, including the epifauna removed (T2) and H. opuntia"
+    },
+    {
+      "source_id": "1d237b2c-1d5d-479a-985a-bde3d28a4fce",
+      "citation_number": 125,
+      "cited_text": "ALEXANDER T. WOLF AND MAGGY M. NUGUES1672 Ecology, Vol. 94, No. 8 metabolites leaking out of dying tissues could act as olfactory attractants. Once corallivores are attracted to the zone of interaction, mechanisms leading to coral mortality remain to be elucidated. Gut contents of H. carunculata have been found to include coral tissue (Marsden 1963), confirming that the worm can feed on corals. Aggregative feeding behavior of predators, in particu-lar scavengers, can cause high mortality in prey subject to even a small degree of stress and/or damage (Ramsay and Kaiser 1998) and constitutes an impor-tant mechanism driving trait-mediated indirect inter-actions (Werner and Peacor 2003). For example, Schmitt (1987) showed that adding bivalves to plots increased predation on gastropods due to aggregative behavior of invertebrate predators. In our study, the worms showed a marked aggregation behavior in H. opuntia, which appeared to be further enhanced by the presence of live coral. Halimeda alone is able to damage and weaken corals, as confirmed by our algal treat-ments without corallivores and laboratory work (Smith et al. 2006). The alga may thus lead to high coral mortality by enhancing the aggregative behavior of H. carunculata. The worms may also modify the physical, chemical and microbial microenvironment of over-grown corals, by excreting particulate wastes and leaving remains of decaying tissues that can then be colonized by microbes, increase oxygen demand, and reduce pH. These effects are likely to be exacerbated by the conditions of reduced flow underneath the algal canopy and to add on to the already detrimental effects of algae (Hauri et al. 2010). Moreover, a number of corallivores, including H. carunculata, have been implicated as potential disease vectors (Sussman et al. 2003, Williams and Miller 2005). Our field experiment supported a relationship between H. opuntia and white plague signs, reinforcing earlier work at the same site (Nugues et al. 2004). However, although trends were suggestive of a role of the algal-associated epifauna in the disease process, differences in disease prevalence between algal treatments with and without epifauna were not significant. Corallivores may also reduce coral disease progression through selective consumption of diseased coral tissues (Chong-Seng et al. 2011). Thus, their role in coral diseases is still equivocal. The snail C. abbreviata was found in very low"
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 126,
+      "cited_text": "Marine Biology 81,209-215 (1984) Marine . . . . . . . . . .  Biology \u000e9 Springer-Verlag 1984 Growth of A cropora pulchra II. Responses  of  natural and transplanted colonies  to temperature and day length * H. T. Yap and E. D. Gomez Marine Sciences Center, University of the Philippines; Diliman, Quezon City 3004, Philippines Abstract The growth of both undisturbed colonies and transplants of the branching coral Acropora pulchra (Brook) was studied over a 17-month period in the reef of Bolinao, Pangasinan, northern Philippines. Growth rate was moni- tored using linear measurement techniques. Of the envi- ronmental factors measured, both temperature and day length, in the range of natural conditions encountered, correlated negatively with the growth and branching of the undisturbed corals and, to a lesser extent, growth of the transplants. Temperature, in addition, appeared to affect mortality of the transplants significantly. Using various methods of computation of  data for the undisturbed colonies, the projected annual growth rate of the species was found to range from 13.1 to 15.8cmyr -1. Growth rates of the transplants were in general considerably lower."
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 127,
+      "cited_text": "Growth Trends in growth of controls and transplants were inferred from the data by means of analysis of variance (ANOVA) tests (Sokal and Rohlf, 1969). Controls Mean monthly growth rates of the control colonies at each site are depicted in Fig. 1 b, c, and d. These ranged from a low of 0.3 to a high of 2.3 cm/mo. Negative increments, such as those brought about by mechanical breakage or predation, were excluded from the averages. In general, no significant differences in growth rates among the different sites were registered."
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 128,
+      "cited_text": "As a corollary to the monitoring of growth rates, the percentages of  branches of transplants that did not register any growth for a particular time interval were recorded for each site. The greater percentages of branches registering zero growth rates were obtained during the warm season roughly spanning the months of  April to June (Fig. 3). Regeneration of broken branches Data on the regeneration and growth of broken branches are presented in Table 1. Percentage mortality (i.e. of branches that did not survive the entire monitoring peri-"
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 129,
+      "cited_text": "* Contribution No. 100 of the Marine Sciences Center, University of the Philippines Observed trends in the initiation of branching (\"bud- ding\") throughout the year are related to trends in growth rate. Data on the regeneration of broken branches within a year's time are also presented, and related to projected annual growth rates of the species. Relatively few studies exist on the effects of tempera- ture, acting alone or in concert with other factors, on coral growth in the tropics and subtropics (Clausen, 1971; Jones and Randall, 1973; Jokiel and Coles, 1974, 1977; Coles etal., 1976; Hudson, 1981). In some cases, sublethal elevation of temperature has been shown to reduce growth rates in certain coral species (Jones and Randall, 1973). High light intensities combined with extreme temperatures likewise appeared to affect coral physiology adversely (Coles and Jokiel, 1978)."
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 130,
+      "cited_text": "Budding Data on the initiation of new branches on the same observed branches at Sites A, B and D for each time interval within the study period are presented in Table 2. Branches that did not bud during the entire observation period were not included in the computations. These \"dormant\" branches comprised 3.7, 26.5 and 14.3% of the total branches monitored at Sites A, B and D respectively. As indicated by the data in Table 2, budding seems to have been more profuse during the cooler season as compared to the warmer season - the same period when growth rates were also relatively high."
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 131,
+      "cited_text": "od) was 36.4%. This figure does not include branches that could not be located at the end of the observation period. These preliminary observations indicate that an average of 12.6 cm of new growth may be regenerated in a year's time, provided the coral survives the trauma of breakage and concomitant stresses. Mortality (transplants) Percentage mortalities of branches of transplants are plotted in Fig. 4. Comparisons of responses of transplants among the different sites showed no significant differences. On the other hand, increases in percentage mortality for transplants at all sites again occurred during the warm months."
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 132,
+      "cited_text": "Other colonies at Sites A and B served as sources of the transplants. A minimum of 15 coral fragments were broken off and reattached within their same sites of origin (A and B), as well as transplanted to Site C, the artificial reef. A corals were transplanted to Module IV, and B corals to Module I. Transplants were attached to rubber tires and concrete flagstones by means of underwater epoxy. Two branches per transplant were tagged and monitored in the same manner as the controls. Mortality was taken to be the number of dead, marked branches over the total number of marked branches at each site."
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 133,
+      "cited_text": "Measurement of growth and transplantation of corals At least 15 naturally-established colonies growing side by side in each of Sites A, B and D were designated as the controls. Two branches per colony (to make a total of at least 30 branches per site) were tied with plastic-coated 210 H.T. Yap and E. D. Gomez: Responses ofA cropora pulchra to temperature and day length well as a measuring base. Linear branch increment was monitored by measuring branch length from the wire base to the tip at monthly intervals with an architect's plastic flexible curve graduated in millimeters."
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 134,
+      "cited_text": "Table 1. Aeropora pulchra. Regeneration and growth of broken branches Branch Length of new Growth period Projected growth no. growth (cm) (d) rate (cm yr -1) 1 2.3 336 2.5 2 13.9 336 15.1 3 8.2 336 8.9 4 14.7 336 16.0 5 20.9 336 22.7 6 21.1 336 22.9 7 13.4 336 14.6 8 6.4 302 7.7 9 2.5 302 3.0 Average _+ SD: 12.6-+ 7.6 Correlation of trends in day length and temperature with growth, mortality and budding An assumption in this study is that day length and temperature each varied linearly with growth, mortality and budding. Based on this assumption, simple correlation"
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 135,
+      "cited_text": "In this study, growth rate was negatively correlated with both day length and temperature. This trend was highly significant in the case of the controls, and was Table 4. Acroporapulchra. Projected annual growth rates (values stand for mean _+ SD cm yr -1) Site A Site B Site D Mean controls controls controls I. Observation period: October 1980-March 1982 Based on net growth over 16.8 • 6.3 15.2 _+ 9.7 13.9 _+ 9.6 15.3 entire observation period Based on mean monthly 16.1 16.1 15.2 15.8 growth rates"
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 136,
+      "cited_text": "Material and methods Location Bolinao, Pangasinan is located at the northwestern corner of Lingayen Gulf, northern Philippines, approximately between Lat. 16o21 ' and 16~ and between Long. 119~ ' and 120~ The study area, situated in the lagoon of Santiago Island in Bolinao, is described in detail in Yap and Gomez (1981). SitesA, B and D are natural A cropora pulchra (Brook) patches, while Site C is a rub- ber-tire artificial reef divided into four groups of tires called \"modules\" and situated in a bare, silty portion of the reef. Depths vary from 3 to 5 m, depending on the tide."
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 137,
+      "cited_text": "Measurement of environmental parameters Records of day length were procured from weather re- ports. Temperature was continuously monitored with a Peabody-Ryan Model \"J\" Thermograph tied to the bottom of the artificial reef. R e s u l t s Environmental factors Mean values for water temperature and day length for each measurement interval within the observation period spanning October 1980 to September 1981 are plotted in Fig. 1 a. Shorter days were generally associated with lower water temperatures, although the extreme lows of each did not coincide. The shortest average day length, 11.29 h, was recorded for the period December 1980 to January 1981, while mean temperature was lowest at 26.0~ for the period January to February 1981. No data are available for later months."
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 138,
+      "cited_text": "-- - - - - o -  - - A CONTROLS -_ B CONTROLS d / . i t \" D CONTROLS O'D D-Ja Ja-F' F 'Ap A;-My My-Jn' dn-dl' dI-Au' Au-S' / ~S -  Mr Fig. 1. Acropora pulchra. (a) Temperature and day length curves for the months October t980-July 1981 and October 1980-September 1981, respectively. T= Temperature, D=Day length. (b-d) Mean monthly growth rates (cm/mo) of control colonies at Sites A, B, and D, from October 1980 to March 1982. Solid fines represent significant differences (P= 0.05) between data points, and dashed lines insignificant differences. Data for Site D from December 1980"
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 139,
+      "cited_text": "Introduction In a previous paper (Yap and Gomez, 1981), the growth rate of the branching coral species Acropora ?ulehra was shown to be negatively correlated with temperature. Mortality likewise appeared to be significantly related to temperature, the latter's effects possibly compounded by additional stress caused by sedimentation. The present study covers the period October 1980 to March 1982, building on and concluding the first study, which spanned the months of October 1980 to May 1981. It includes analyses of records of an additional factor, day length, here representing an alternative means of measuring light. Day length, along with temperature, is shown to correlate negatively with coral growth rate. These factors together characterize the warm summer months believed to be stressful for growth of the species in shallow water."
+    },
+    {
+      "source_id": "9cbae935-6259-4ba6-a2ec-44d3f3bc0902",
+      "citation_number": 140,
+      "cited_text": "It would therefore seem that period or duration of observation tends to affect estimates of growth rate signifi- cantly. This constitutes an artifact to be avoided as much as possible in field investigations. Possible effects of environmental factors The parameter day length, which is the total number of hours of daylight, is considered here to represent light, although it is only one of several ways of representing or measuring this environmental factor. It gives an indica- tion, at the very least, of the quantity of light that was available, or that the corals were exposed to. The times of the year in the Philippines characterized by longer day lengths, the summer months, were also associated with clear skies and, thus, more intense solar insolation. It is to be expected that the extended periods of high light intensi- ties related to the longer day lengths and clear skies of summer resulted in warmer ambient temperatures, par- ticularly in the shallow depths characteristic of the habitat ofA cropora pulchra."
+    }
+  ]
+}

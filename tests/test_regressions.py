@@ -4,6 +4,7 @@ import csv
 import importlib.util
 import io
 import json
+import math
 import sys
 import tempfile
 import unittest
@@ -35,6 +36,18 @@ extraction_review = load_module("extraction_review", "tools/build_extraction_rev
 figure_audit_merge = load_module("figure_audit_merge", "tools/merge_figure_candidate_audits.py")
 figure_visual_reaudit = load_module("figure_visual_reaudit", "tools/build_figure_visual_reaudit.py")
 figure_crop_manifest = load_module("figure_crop_manifest", "tools/build_figure_crop_manifest.py")
+figure_index_audit = load_module("figure_index_audit", "tools/audit_figure_indexing.py")
+rate_extraction_audit = load_module("rate_extraction_audit", "tools/audit_rate_extraction_dataset.py")
+trait_covariate_audit = load_module("trait_covariate_audit", "tools/audit_trait_covariate_coverage.py")
+all_response_extraction = load_module("all_response_extraction", "tools/build_all_response_extraction_dataset.py")
+notebooklm_validation = load_module("notebooklm_validation", "tools/run_notebooklm_validation_batches.py")
+notebooklm_dataset_audit = load_module(
+    "notebooklm_dataset_audit", "tools/audit_dataset_against_notebooklm.py"
+)
+analysis_ready_gate = load_module("analysis_ready_gate", "tools/build_analysis_ready_dataset.py")
+taxon_trait_lookup = load_module("taxon_trait_lookup", "tools/build_taxon_trait_lookup.py")
+model_covariates = load_module("model_covariates", "tools/build_model_covariates.py")
+meta_analysis_inputs = load_module("meta_analysis_inputs", "tools/build_meta_analysis_inputs.py")
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -984,6 +997,19 @@ class ExtractionReviewArtifactTests(unittest.TestCase):
                     "source_page_render": "digitization/figures/source_pages/source__page-001.png",
                     "render_status": "rendered",
                     "candidate_text": "Fig. 1. Mean lesion recovery rate with SE error bars.",
+                },
+                {
+                    "queue_id": "DIG-source-growth",
+                    "source_id": "source-1",
+                    "paper_title": "Paper.pdf",
+                    "response_type": "growth",
+                    "candidate_descriptor": "figure:Fig. 1:p1",
+                    "candidate_type": "figure",
+                    "candidate_label": "Fig. 1",
+                    "pdf_page": "1",
+                    "source_page_render": "digitization/figures/source_pages/source__page-001.png",
+                    "render_status": "already_rendered",
+                    "candidate_text": "Fig. 1. Mean growth rate with SE error bars.",
                 }
             ]
             caption_rows = [
@@ -1006,8 +1032,9 @@ class ExtractionReviewArtifactTests(unittest.TestCase):
         self.assertEqual(rows[0]["reaudit_row_type"], "accepted_visual_candidate")
         self.assertEqual(rows[0]["visual_reaudit_status"], "source_page_image_verified")
         self.assertEqual(rows[0]["extractability_class"], "quantitative_plot_candidate")
-        self.assertEqual(rows[1]["reaudit_row_type"], "retained_caption_rejected")
-        self.assertEqual(rows[1]["crop_readiness"], "do_not_crop_from_caption_audit")
+        self.assertEqual(rows[1]["visual_reaudit_status"], "source_page_image_verified")
+        self.assertEqual(rows[2]["reaudit_row_type"], "retained_caption_rejected")
+        self.assertEqual(rows[2]["crop_readiness"], "do_not_crop_from_caption_audit")
 
     def test_figure_crop_manifest_creates_reviewable_proposal_and_keeps_rejection(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
@@ -1083,6 +1110,575 @@ class ExtractionReviewArtifactTests(unittest.TestCase):
         self.assertTrue(crop_exists)
         self.assertEqual(rows[1]["crop_status"], "retained_rejected_not_cropped")
         self.assertEqual(rows[1]["crop_review_status"], "do_not_crop_from_caption_audit")
+
+
+class RateExtractionAuditTests(unittest.TestCase):
+    def test_strict_csv_reader_flags_underfilled_rows(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "bad.csv"
+            path.write_text("a,b,c\n1,2\n", encoding="utf-8")
+            issues: list[dict[str, str]] = []
+
+            header, rows = rate_extraction_audit.read_csv_strict(path, issues)
+
+        self.assertEqual(header, ["a", "b", "c"])
+        self.assertEqual(rows[0]["c"], "")
+        self.assertIn("csv_row_width_mismatch", {issue["check_id"] for issue in issues})
+        self.assertEqual(issues[0]["severity"], "error")
+
+    def test_analysis_ready_curated_rows_require_ready_qc_status(self) -> None:
+        issues: list[dict[str, str]] = []
+        source_rows = [{"source_id": "source-1"}]
+        observation_rows = [
+            {
+                "observation_id": "obs-1",
+                "source_id": "source-1",
+                "analysis_ready": "1",
+                "qa_status": "extracted_needs_independent_qc",
+                "rate_derivation_basis": "reported_areal_rate",
+                "observation_type": "reported_rate",
+                "species": "Porites astreoides",
+                "timepoint_or_interval": "8 d",
+                "figure_or_table_label": "Table 1",
+                "page": "5",
+                "evidence_key": "pdf_page_5_table_1",
+                "sample_size": "12",
+                "variance_type": "SE",
+                "variance_value": "1.2",
+            }
+        ]
+
+        rate_extraction_audit.audit_curated_observations(issues, observation_rows, source_rows)
+
+        self.assertIn("curated_ready_without_ready_qc", {issue["check_id"] for issue in issues})
+
+
+class TraitCovariateCoverageTests(unittest.TestCase):
+    def test_raw_overview_source_ids_keep_only_plotted_rows(self) -> None:
+        rows = [
+            {"source_id": "s2", "plot_status": "not_plotted"},
+            {"source_id": "s1", "plot_status": "plotted"},
+            {"source_id": "s1", "plot_status": "plotted_duplicate"},
+            {"source_id": "s3", "plot_status": "plotted_from_legacy"},
+        ]
+
+        self.assertEqual(trait_covariate_audit.source_ids_raw_overview(rows), ["s1", "s3"])
+
+    def test_missing_model_covariate_layer_reports_model_fields_absent(self) -> None:
+        covariate_rows = [
+            {
+                "source_id": "s1",
+                "paper_title": "Paper",
+                "species": "Porites astreoides",
+                "growth_form": "massive",
+                "tissue_type": "perforate",
+                "notes": "",
+            }
+        ]
+
+        rows = trait_covariate_audit.build_coverage(covariate_rows, [], {"test_set": ["s1"]})
+        by_field = {row["field"]: row for row in rows}
+
+        self.assertEqual(by_field["species"]["n_present"], 1)
+        self.assertEqual(by_field["family"]["field_status"], "model_column_absent")
+        self.assertEqual(by_field["skeletal_porosity"]["field_status"], "model_column_absent")
+        self.assertEqual(by_field["tissue_type_mentions_perforate_or_imperforate"]["n_present"], 1)
+
+    def test_model_covariate_layer_counts_model_ready_trait_fields(self) -> None:
+        covariate_rows = [
+            {"source_id": "s1", "species": "Porites astreoides", "growth_form": "massive", "tissue_type": "perforate"}
+        ]
+        model_rows = [
+            {
+                "source_id": "s1",
+                "genus": "Porites",
+                "family": "Poritidae",
+                "growth_form_standard": "massive_submassive",
+                "skeletal_porosity": "perforate",
+            }
+        ]
+
+        rows = trait_covariate_audit.build_coverage(covariate_rows, model_rows, {"test_set": ["s1"]})
+        by_field = {row["field"]: row for row in rows}
+
+        self.assertEqual(by_field["family"]["field_status"], "model_column_present")
+        self.assertEqual(by_field["family"]["n_present"], 1)
+        self.assertEqual(by_field["skeletal_porosity"]["n_present"], 1)
+
+
+class AllResponseExtractionTests(unittest.TestCase):
+    def test_covariate_prefill_prefers_model_covariates_for_taxon_traits(self) -> None:
+        value, status, source = all_response_extraction.covariate_prefill(
+            "family",
+            {"species": "Porites astreoides"},
+            {"family": "Poritidae"},
+            Path("notebook_covariates/notebook_covariates_primary_geoaugmented.csv"),
+            Path("data/extraction/meta_analysis/META_ANALYSIS_COVARIATES.csv"),
+        )
+
+        self.assertEqual(value, "Poritidae")
+        self.assertEqual(status, "existing_model_covariate")
+        self.assertEqual(source, "data/extraction/meta_analysis/META_ANALYSIS_COVARIATES.csv")
+        self.assertEqual(all_response_extraction.needs_pdf_verification("family", status), 0)
+        self.assertEqual(all_response_extraction.needs_pdf_verification("depth_m", status), 1)
+
+    def test_text_windows_and_snippets_find_response_covariate_evidence(self) -> None:
+        text = (
+            "Methods. Circular lesions were made with a Dremel tool on each colony. "
+            "Initial lesion area was 50 mm2 and wounds were photographed after 30 days. "
+            "Treatment tanks were maintained at 29 degrees C with n = 12 colonies."
+        )
+
+        windows = all_response_extraction.text_windows(text)
+        snippets = all_response_extraction.snippets_for("initial_wound_area_mm2", windows)
+        sample_size = all_response_extraction.snippets_for("sample_size", windows)
+
+        self.assertTrue(windows)
+        self.assertTrue(any("Initial lesion area" in snippet for snippet in snippets))
+        self.assertTrue(any("n = 12" in snippet for snippet in sample_size))
+
+    def test_notebooklm_batches_are_response_specific_and_deduplicated(self) -> None:
+        workplan_rows = [
+            {"source_id": "s1", "response_type": "rate"},
+            {"source_id": "s1", "response_type": "rate"},
+            {"source_id": "s2", "response_type": "rate"},
+            {"source_id": "s3", "response_type": "survival"},
+        ]
+        schema_rows = [
+            {"tier": "1", "covariate": "taxon_raw"},
+            {"tier": "2", "covariate": "depth_m"},
+            {"tier": "3", "covariate": "family"},
+        ]
+
+        rows = all_response_extraction.build_notebooklm_batches(workplan_rows, schema_rows, batch_size=1)
+
+        self.assertEqual([row["batch_id"] for row in rows], ["rate_01", "rate_02", "survival_01"])
+        self.assertEqual(rows[0]["source_ids"], "s1")
+        self.assertIn("taxon_raw", rows[0]["query_prompt"])
+        self.assertIn("depth_m", rows[0]["query_prompt"])
+        self.assertNotIn("family", rows[0]["query_prompt"])
+
+
+class NotebookLMValidationTests(unittest.TestCase):
+    def test_parse_answer_stats_accepts_cli_json_shape(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "batch.json"
+            path.write_text(json.dumps({"answer": "abc", "sources_used": ["s1", "s2"]}), encoding="utf-8")
+
+            answer_chars, sources_used_count = notebooklm_validation.parse_answer_stats(path)
+
+        self.assertEqual(answer_chars, 3)
+        self.assertEqual(sources_used_count, 2)
+
+    def test_audit_prompt_is_concise_validation_not_full_csv_extraction(self) -> None:
+        prompt = notebooklm_validation.validation_prompt("growth")
+
+        self.assertIn("Validate the extraction scaffold", prompt)
+        self.assertIn("growth sources", prompt)
+        self.assertIn("key missing covariates", prompt)
+        self.assertNotIn("Return strict CSV rows", prompt)
+
+
+class NotebookLMDatasetAuditTests(unittest.TestCase):
+    def test_split_source_ids_accepts_single_pipe_and_comma_lists(self) -> None:
+        row = {"source_id": "s1", "source_ids": "s2|s3,s4"}
+
+        self.assertEqual(notebooklm_dataset_audit.split_source_ids(row), ["s1", "s2", "s3", "s4"])
+
+    def test_title_similarity_handles_notebook_filename_format(self) -> None:
+        similarity = notebooklm_dataset_audit.title_similarity(
+            "Bak and Steward-Van Es - 1980 - Regeneration of superficial damage in the scleractinian corals.pdf",
+            "Bak_1980_Regeneration_of_superficial_damage_in_the_scleractinian_cora....pdf",
+        )
+
+        self.assertGreaterEqual(similarity, 0.35)
+
+    def test_support_for_value_detects_direct_and_token_matches(self) -> None:
+        content = (
+            "Methods. Circular lesions were made at 18-23 m. "
+            "The experimental colonies were Porites astreoides and Agaricia agaricites."
+        )
+
+        direct = notebooklm_dataset_audit.support_for_value("Porites astreoides", content)
+        token = notebooklm_dataset_audit.support_for_value("Agaricia at 18-23 m", content)
+
+        self.assertEqual(direct["support_status"], "direct_string_match")
+        self.assertIn(token["support_status"], {"high_token_match", "partial_token_or_numeric_match"})
+
+    def test_derived_target_covariates_are_not_forced_to_paper_text(self) -> None:
+        records = {}
+        notebooklm_dataset_audit.add_value_record(
+            records,
+            source_id="s1",
+            paper_title="Paper",
+            covariate="family",
+            value="Poritidae",
+            kind="derived_or_model_covariate",
+            dataset_file=Path("data/extraction/all_responses/ALL_RESPONSE_COVARIATE_TARGETS.csv"),
+        )
+
+        [record] = records.values()
+        self.assertEqual(record["value_kind"], "derived_or_model_covariate")
+        self.assertEqual(record["row_count"], 1)
+
+
+class AnalysisReadyGateTests(unittest.TestCase):
+    def test_label_matching_handles_fig_abbreviations_and_compound_labels(self) -> None:
+        row = {
+            "source_id": "s1",
+            "response_type": "rate",
+            "figure_or_table_label": "Figure 1; Table 1",
+            "page": "4",
+        }
+        crop_rows = [
+            {
+                "source_id": "s1",
+                "response_type": "rate",
+                "candidate_label": "Fig. 1",
+                "pdf_page": "4",
+            },
+            {
+                "source_id": "s1",
+                "response_type": "rate",
+                "candidate_label": "Figure 2",
+                "pdf_page": "4",
+            },
+        ]
+
+        matches = analysis_ready_gate.crop_rows_for_observation(row, crop_rows)
+
+        self.assertEqual(len(matches), 1)
+        self.assertEqual(matches[0]["candidate_label"], "Fig. 1")
+
+    def test_figure_row_blocks_on_unreviewed_placeholder_digitization(self) -> None:
+        row = {
+            "normalized_row_id": "row-1",
+            "source_table": "data/extraction/rate/RATE_EXTRACTED_OBSERVATIONS.csv",
+            "source_row": "2",
+            "source_id": "s1",
+            "response_type": "rate",
+            "taxon_raw": "Acropora pulchra",
+            "response_value": "1.2",
+            "response_unit": "mm d-1",
+            "sample_size": "12",
+            "figure_or_table_label": "Figure 1",
+            "page": "4",
+            "qa_status": "extracted_needs_independent_qc",
+        }
+        original = {
+            "timepoint_or_interval": "14 d",
+            "variance_type": "SE",
+            "variance_value": "0.2",
+        }
+        crop_rows = [
+            {
+                "source_id": "s1",
+                "response_type": "rate",
+                "candidate_label": "Fig. 1",
+                "pdf_page": "4",
+                "crop_review_status": "needs_human_crop_box_qa",
+                "final_clip_path": "digitization/figures/s1__rate__fig-1_panel-<panel>.png",
+                "digitized_data_path": "digitization/data/s1__rate__fig-1_panel-<panel>.csv",
+            }
+        ]
+
+        audit_row, issues = analysis_ready_gate.audit_observation(row, original, crop_rows)
+        issue_ids = {issue["issue_id"] for issue in issues}
+
+        self.assertEqual(audit_row["analysis_ready"], 0)
+        self.assertIn("qa_status_not_ready", issue_ids)
+        self.assertIn("figure_crop_not_qc_passed", issue_ids)
+        self.assertIn("figure_final_clip_missing", issue_ids)
+        self.assertIn("figure_digitized_data_missing", issue_ids)
+
+    def test_survival_raw_counts_satisfy_variance_requirement_but_not_qc(self) -> None:
+        row = {
+            "normalized_row_id": "row-1",
+            "source_table": "data/extraction/EXTRACTION_SURVIVAL.csv",
+            "source_row": "2",
+            "source_id": "s1",
+            "response_type": "survival",
+            "taxon_raw": "Pocillopora damicornis",
+            "control_value": "14",
+            "wounded_value": "24",
+            "sample_size": "38",
+            "duration_days": "395",
+            "figure_or_table_label": "Table 2",
+            "page": "6",
+            "qa_status": "needs_source_provenance_review",
+        }
+        original = {
+            "Control_Total": "14",
+            "Control_Dead": "1",
+            "Wounded_Total": "24",
+            "Wounded_Dead": "14",
+        }
+
+        audit_row, issues = analysis_ready_gate.audit_observation(row, original, [])
+        issue_ids = {issue["issue_id"] for issue in issues}
+
+        self.assertEqual(audit_row["analysis_ready"], 0)
+        self.assertNotIn("variance_missing", issue_ids)
+        self.assertIn("qa_status_not_ready", issue_ids)
+
+
+class MetaAnalysisInputTests(unittest.TestCase):
+    def test_taxon_lookup_prefers_coral_homonym(self) -> None:
+        record = taxon_trait_lookup.select_coral_record(
+            [
+                {
+                    "scientificname": "Acropora",
+                    "rank": "Genus",
+                    "status": "unaccepted",
+                    "valid_name": "Porina",
+                    "family": "Porinidae",
+                    "order": "Cheilostomatida",
+                    "class": "Gymnolaemata",
+                    "phylum": "Bryozoa",
+                },
+                {
+                    "scientificname": "Acropora",
+                    "rank": "Genus",
+                    "status": "accepted",
+                    "valid_name": "Acropora",
+                    "family": "Acroporidae",
+                    "order": "Scleractinia",
+                    "class": "Hexacorallia",
+                    "phylum": "Cnidaria",
+                },
+            ]
+        )
+
+        assert record is not None
+        self.assertEqual(record["family"], "Acroporidae")
+
+    def test_model_covariates_normalize_taxonomy_traits_and_numeric_fields(self) -> None:
+        lookup = model_covariates.lookup_by_genus(
+            [
+                {
+                    "genus_raw": "Acropora",
+                    "genus": "Acropora",
+                    "family": "Acroporidae",
+                    "taxonomy_lookup_status": "worms_scleractinia_match",
+                }
+            ]
+        )
+
+        row = model_covariates.build_covariate_row(
+            {
+                "source_id": "s1",
+                "paper_title": "Paper",
+                "species": "Acropora palmata",
+                "growth_form": "branched",
+                "tissue_type": "perforate",
+                "study_type": "field",
+                "depth_min_m": "2",
+                "depth_max_m": "4",
+                "area_mm2": "35, 105",
+                "temperature_c": "26-31",
+                "ph_or_pco2": "400, 1000 uatm",
+            },
+            lookup,
+        )
+
+        self.assertEqual(row["genus"], "Acropora")
+        self.assertEqual(row["family"], "Acroporidae")
+        self.assertEqual(row["growth_form_standard"], "branching")
+        self.assertEqual(row["skeletal_porosity"], "perforate")
+        self.assertEqual(row["field_lab_mesocosm"], "field")
+        self.assertEqual(float(row["depth_mid_m"]), 3.0)
+        self.assertEqual(float(row["initial_wound_area_mid_mm2"]), 70.0)
+        self.assertEqual(float(row["temperature_mid_c"]), 28.5)
+        self.assertEqual(float(row["pCO2_uatm_mid"]), 700.0)
+
+    def test_model_covariates_do_not_collapse_multi_taxon_porosity_candidate(self) -> None:
+        lookup = model_covariates.lookup_by_genus(
+            [
+                {"genus_raw": "Porites", "genus": "Porites", "family": "Poritidae"},
+                {"genus_raw": "Pocillopora", "genus": "Pocillopora", "family": "Pocilloporidae"},
+            ]
+        )
+
+        row = model_covariates.build_covariate_row(
+            {
+                "source_id": "s1",
+                "paper_title": "Paper",
+                "species": "Porites spp., Pocillopora meandrina",
+                "growth_form": "massive, branching",
+                "tissue_type": "perforate",
+                "study_type": "field",
+            },
+            lookup,
+        )
+
+        self.assertEqual(row["taxon_parse_status"], "multi_taxon")
+        self.assertEqual(row["skeletal_porosity_candidates"], "perforate")
+        self.assertEqual(row["skeletal_porosity"], "")
+        self.assertEqual(row["skeletal_porosity_model_status"], "single_porosity_candidate_multi_taxon_not_model_ready")
+
+    def test_sampling_variance_from_se_sd_and_ci(self) -> None:
+        self.assertEqual(meta_analysis_inputs.sampling_variance_from_summary("SE", "0.5", 31), (0.25, None))
+        self.assertEqual(meta_analysis_inputs.sampling_variance_from_summary("SD", "2", 4), (1.0, None))
+
+        vi, blocker = meta_analysis_inputs.sampling_variance_from_summary("95% CI", "0.170-0.267", None)
+
+        self.assertIsNone(blocker)
+        self.assertAlmostEqual(vi, ((0.267 - 0.170) / (2 * 1.96)) ** 2)
+
+    def test_survival_effect_uses_log_odds_ratio_for_mortality(self) -> None:
+        yi, vi, blocker = meta_analysis_inputs.survival_effect(
+            {
+                "Control_Total": "10",
+                "Control_Dead": "1",
+                "Wounded_Total": "10",
+                "Wounded_Dead": "4",
+            }
+        )
+
+        self.assertIsNone(blocker)
+        self.assertAlmostEqual(float(yi), math.log((4 * 9) / (6 * 1)))
+        self.assertAlmostEqual(float(vi), 1 / 4 + 1 / 6 + 1 / 1 + 1 / 9)
+
+    def test_continuous_rom_blocks_when_group_sample_sizes_are_unknown(self) -> None:
+        yi, vi, blocker = meta_analysis_inputs.continuous_rom_effect(
+            {"control_value": "6.2", "wounded_value": "5.1", "variance_type": "SE", "sample_size": "57"},
+            {"Control_Var": "0.08", "Wounded_Var": "0.07"},
+        )
+
+        selfEqual = self.assertEqual
+        selfEqual(yi, "")
+        selfEqual(vi, "")
+        selfEqual(blocker, "group_sample_sizes_missing")
+
+    def test_ready_rate_row_becomes_model_input_when_yi_vi_are_computable(self) -> None:
+        row = {
+            "normalized_row_id": "row-1",
+            "source_table": "data/extraction/rate/RATE_EXTRACTED_OBSERVATIONS.csv",
+            "source_row": "2",
+            "source_id": "s1",
+            "response_type": "rate",
+            "taxon_raw": "Porites astreoides",
+            "rate_value": "12.4",
+            "rate_unit": "mm2 d-1",
+            "variance_type": "SE",
+            "variance_value": "0.5",
+            "sample_size": "31",
+            "timepoint_or_interval": "first 8 d",
+            "figure_or_table_label": "Table 1",
+            "page": "5",
+            "value_data_file": "data/extraction/rate/RATE_EXTRACTED_OBSERVATIONS.csv",
+        }
+        issues: list[dict[str, str]] = []
+
+        meta_row = meta_analysis_inputs.build_meta_row(row, {}, {}, issues)
+
+        self.assertEqual(meta_row["model_include"], 1)
+        self.assertEqual(meta_row["effect_size_metric"], "raw_rate_or_endpoint_mean")
+        self.assertEqual(meta_row["analysis_stratum"], "rate:absolute_areal_rate:mm2_d_1")
+        self.assertEqual(float(meta_row["yi"]), 12.4)
+        self.assertEqual(float(meta_row["vi"]), 0.25)
+        self.assertEqual(issues, [])
+
+    def test_meta_row_carries_normalized_covariates(self) -> None:
+        row = {
+            "normalized_row_id": "row-1",
+            "source_id": "s1",
+            "response_type": "rate",
+            "taxon_raw": "Porites astreoides",
+            "rate_value": "12.4",
+            "rate_unit": "mm2 d-1",
+            "variance_type": "SE",
+            "variance_value": "0.5",
+            "sample_size": "31",
+        }
+        model_covariate = {
+            "genus": "Porites",
+            "family": "Poritidae",
+            "growth_form_standard": "massive_submassive",
+            "skeletal_porosity": "perforate",
+            "field_lab_mesocosm": "field",
+            "depth_mid_m": "5",
+            "initial_wound_area_mid_mm2": "100",
+            "covariate_readiness_status": "core_covariates_ready",
+        }
+        issues: list[dict[str, str]] = []
+
+        meta_row = meta_analysis_inputs.build_meta_row(row, {}, {}, issues, model_covariate)
+
+        self.assertEqual(meta_row["model_include"], 1)
+        self.assertEqual(meta_row["family"], "Poritidae")
+        self.assertEqual(meta_row["skeletal_porosity"], "perforate")
+        self.assertEqual(meta_row["growth_form_standard"], "massive_submassive")
+        self.assertEqual(meta_row["depth_mid_m"], "5")
+
+
+class FigureIndexAuditTests(unittest.TestCase):
+    def test_source_id_prefix_collisions_are_blocking_index_errors(self) -> None:
+        issues: list[dict[str, str]] = []
+
+        figure_index_audit.audit_prefixes(
+            issues,
+            {
+                "12345678-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+                "12345678-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+                "87654321-cccc-cccc-cccc-cccccccccccc",
+            },
+        )
+
+        self.assertEqual(len(issues), 1)
+        self.assertEqual(issues[0]["severity"], "error")
+        self.assertEqual(issues[0]["check"], "source_id_prefix_collision")
+
+    def test_concrete_digitized_data_paths_must_exist(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp_root = Path(tmp)
+            source_path = tmp_root / "digitization" / "figures" / "source_pages" / "source__page-001.png"
+            crop_path = tmp_root / "digitization" / "figures" / "crop_review" / "source__rate__figure-fig-1__page-1__crop-001.png"
+            try:
+                from PIL import Image
+            except Exception as exc:  # pragma: no cover - test environment should provide Pillow.
+                self.skipTest(f"Pillow unavailable: {exc}")
+            source_path.parent.mkdir(parents=True)
+            crop_path.parent.mkdir(parents=True)
+            Image.new("RGB", (100, 100), color=(255, 255, 255)).save(source_path)
+            Image.new("RGB", (50, 50), color=(255, 255, 255)).save(crop_path)
+
+            crop_rows = [
+                {
+                    "crop_row_type": "accepted_visual_candidate",
+                    "crop_status": "auto_crop_proposal_created",
+                    "queue_id": "DIG-source-rate",
+                    "source_id": "source-1",
+                    "response_type": "rate",
+                    "candidate_descriptor": "figure:Fig. 1:p1",
+                    "crop_path": "digitization/figures/crop_review/source__rate__figure-fig-1__page-1__crop-001.png",
+                    "source_page_render": "digitization/figures/source_pages/source__page-001.png",
+                    "source_page_width": "100",
+                    "source_page_height": "100",
+                    "crop_box_xywh": "10,10,50,50",
+                    "digitized_data_path": "digitization/data/source__rate__figure-fig-1_panel-all.csv",
+                    "final_clip_path": "digitization/figures/source__rate__figure-fig-1_panel-all.png",
+                }
+            ]
+            visual_rows = [
+                {
+                    "reaudit_row_type": "accepted_visual_candidate",
+                    "queue_id": "DIG-source-rate",
+                    "candidate_descriptor": "figure:Fig. 1:p1",
+                }
+            ]
+
+            with patch.object(figure_index_audit, "ROOT", tmp_root), patch.object(
+                figure_index_audit, "CROP_REVIEW_DIR", tmp_root / "digitization" / "figures" / "crop_review"
+            ), patch.object(
+                figure_index_audit, "DIGITIZED_DATA_DIR", tmp_root / "digitization" / "data"
+            ):
+                issues: list[dict[str, str]] = []
+                stats = figure_index_audit.audit_crop_manifest(issues, crop_rows, visual_rows)
+
+        self.assertEqual(stats["concrete_digitized_data_paths"], 1)
+        self.assertEqual(stats["missing_concrete_digitized_data_paths"], 1)
+        self.assertIn("digitized_data_path_missing", {issue["check"] for issue in issues})
 
 
 if __name__ == "__main__":

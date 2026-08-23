@@ -1,0 +1,835 @@
+Marine Biology (2019) 166:148
+https://doi.org/10.1007/s00227-019-3601-6
+
+    ORIGINAL PAPER
+
+
+
+Colony size and depth affect wound repair in a branching coral
+Chelsie W. W. Counsell1         · Erika C. Johnston1 · Tayler L. Sale2
+
+Received: 30 March 2019 / Accepted: 26 September 2019 / Published online: 15 October 2019
+© Springer-Verlag GmbH Germany, part of Springer Nature 2019
+
+
+Abstract
+Coral colonies regularly suffer tissue damage from natural and anthropogenic sources. The resultant wounds can decrease
+colony fitness and act as sources of infection or algal overgrowth. By systematically breaking branches on 54 Pocillopora
+meandrina colonies and following in situ tissue regeneration (April–August 2017), variation in the wound recovery process
+was investigated within colonies, among colonies, and across four sites on O‘ahu, Hawai‘i. Ninety-five percent of all wounds
+healed, with an average healing time of 42 days. Average healing time was not different between initial and subsequent
+wounds. The relative importance of intrinsic factors, extrinsic factors, and disturbance history for the wound repair process
+was examined. Previous colony stressors, i.e., percent live coral tissue and bleaching history, were not correlated with wound
+healing time. These results indicate that wound repair is a priority for P. meandrina. Colony size and depth were signifi-
+cantly correlated with wound healing time: larger colonies healed 14 days faster than smaller colonies, and deeper colonies
+healed 25 days slower than shallower colonies. These findings support the hypothesis that larger colonies have more energy
+available for tissue regeneration. The observation of longer healing times for deeper colonies is likely driven by extrinsic
+factors that vary with depth, including temperature, wave energy, and irradiance. Overall, we show that wound healing in
+P. meandrina is physiologically resilient to previous stressors, but is affected by both colony size and depth. Understanding
+drivers of variation in regenerative processes for corals is critical for predicting coral population recovery after disturbances.
+
+
+Introduction                                                               ecosystem, providing most of the habitat’s structural com-
+                                                                           plexity. Branching corals create particularly complex reef
+Given the myriad of stressors facing hermatypic corals                     habitats. However, they are more susceptible than mounding
+today, including increased frequency and intensity of ther-                or encrusting corals to breakage during episodes of high
+mal stress (Hughes et al. 2018b) and high wave energy                      wave energy, or as a result of incidental interactions with
+resulting from storm events (Walsh et al. 2016), character-                boats, snorkelers, divers, and fishing gear (Fong and Lirman
+izing and understanding variation in coral tissue regenera-                1995; Madin and Connolly 2006; Madin et al. 2014). Tissue
+tion is critical for predicting coral reef ecosystem resilience.           damage resulting from these events can negatively affect
+Scleractinian corals are foundational components of the reef               colony fitness (Rotjan and Lewis 2008; Jayewardene et al.
+                                                                           2009). Further, broken branches present a potential path
+                                                                           for pathogens to enter the colony (Ben-Haim et al. 2003;
+Responsible Editor: D. Gochfeld.
+                                                                           Rodríguez-Villalobos et al. 2015) and for colonization by
+Reviewed by undisclosed experts.                                           fouling organisms on the exposed skeleton (Henry and Hart
+                                                                           2005), both of which can affect critical life history processes
+Electronic supplementary material The online version of this               such as growth rate (Meesters et al. 1994) and reproductive
+article (https​://doi.org/10.1007/s0022​7-019-3601-6) contains
+supplementary material, which is available to authorized users.            output (Rinkevich and Loya 1989; Rinkevich 1994). While
+                                                                           the ability of coral colonies to heal lesions has been found
+* Chelsie W. W. Counsell                                                   to vary in response to colony parameters and environmental
+  counsell@hawaii.edu                                                      variables (Fong and Lirman 1995; Henry and Hart 2005;
+1
+     School of Ocean and Earth Science Technology, Hawai‘i
+                                                                           Edmunds and Yarid 2017), the relative importance of these
+     Institute of Marine Biology, University of Hawai‘i at Mānoa,          drivers and the spatial scale of variation in the wound heal-
+     Kāne‘ohe, HI 96744, USA                                               ing process have not been as well studied.
+2
+     Department of Biology, University of Hawai‘i at Mānoa,
+     Honolulu, HI 96822, USA
+
+
+                                                                                                                                 1  3
+                                                                                                                          Vol.:(0123456789)
+148   Page 2 of 12                                                                                    Marine Biology (2019) 166:148
+
+
+   Coral tissue regeneration following wounding can                  In addition to understanding the effects of colony parame-
+be affected by colony parameters including colony size            ters and environmental variables on the rate of wound recov-
+(Hughes and Connell 1987; Henry and Hart 2005; Elahi and          ery, it is critical to understand how a colony’s disturbance
+Edmunds 2007; Kayal et al. 2015) and morphology (Henry            history impacts the energy available to heal wounds. Previ-
+and Hart 2005; Darling et al. 2012; Madin et al. 2016), as        ous wounding is expected to limit the resources available
+well as by the size and shape of the wound (Croquer et al.        for a colony to regenerate tissue for more recent wounds
+2002; Henry and Hart 2005; Fisher et al. 2007; Cameron            (Henry and Hart 2005). Partial mortality of tissue imme-
+and Edmunds 2014; Defilippo et al. 2016). Corals typically        diately surrounding wounds can decrease the amount of
+exhibit allometric growth, such that larger colonies grow         tissue regenerated at the wound site (Meesters et al. 1994;
+more slowly than smaller colonies (Edmunds and Burgess            Fong and Lirman 1995; Defilippo et al. 2016). However,
+2016; Dornelas et al. 2017). In contrast, tissue regenera-        the effect of partial mortality at the colony-scale on tissue
+tion associated with wound healing occurs at a faster rate in     regeneration has not been well studied. Coral bleaching
+larger colonies (Henry and Hart 2005; Elahi and Edmunds           decreases energy available for tissue growth (Goreau and
+2007). While colonies with branching and plating morphol-         Macfarlane 1990; Kenkel et al. 2013), which can impact
+ogies are at a higher risk of damage from extreme wave            colony survival (Yamashiro et al. 2005; Grottoli et al. 2014;
+energy events (Madin et al. 2014), these colonies are able to     Schoepf et al. 2015) and tissue regeneration (Meesters and
+heal wounds faster than colonies with massive and encrust-        Bak 1993; Fine et al. 2002; Rotjan et al. 2006). To date,
+ing morphologies (Hall 1997; Henry and Hart 2005). Fur-           studies on how bleaching impacts tissue regeneration have
+thermore, colonies with greater morphological complexity          focused on wound healing in colonies that were simultane-
+have more varied wound healing rates within each individual       ously bleached. Given predictions for increased frequency
+colony, because exterior branches decrease the light, water       and intensity of disturbances, including bleaching events
+flow, and particle flux for interior branches (Kaniewska et al.   (Hughes et al. 2018a), it is important to understand how a
+2011, 2014; Chang et al. 2014; but see Hall 1997).                colony’s disturbance history, e.g., colony-scale partial mor-
+   Environmental factors that impact coral community com-         tality and previous bleaching stress, affects wound repair.
+position, such as wave energy, sedimentation, irradiance,            To investigate the relative importance of intrinsic and
+and temperature (Franklin et al. 2013; Gove et al. 2015),         extrinsic factors, as well as disturbance history for wound
+also impact the rate of wound repair in corals (Henry and         repair in a common branching coral, we generated wounds
+Hart 2005). In situ, increased growth (Smith et al. 2008) and     on Pocillopora meandrina colonies, and then monitored tis-
+lesion recovery rates (Sabine et al. 2015) have been recorded     sue regeneration at the wound site and overall colony health.
+at sites with higher flow rates, though these site differences    We focused on P. meandrina because this early successional
+in flow rates co-varied with other environmental factors,         species commonly occurs throughout the Indo-Pacific and
+including nutrient and turbidity levels. High sedimentation       hosts one of the most diverse coral-associated cryptofaunal
+decreases growth and wound recovery rates for photosyn-           communities (Stella et al. 2010; Counsell et al. 2018). Gen-
+thetic corals (Croquer et al. 2002; Piniak and Brown 2008;        erated wounds were similar to broken branches observed
+Bégin et al. 2016), while higher irradiance levels increase       regularly at sites with periodic high wave energy events,
+energy available for growth (Osinga et al. 2011). Addition-       from parrotfish predation, or from direct contact with boat
+ally, increased temperatures can increase metabolic rates         anchors, divers, etc. Each colony was wounded twice to
+and coral growth across latitudes (Anderson et al. 2017),         examine differences in the recovery time of an initial wound
+seasons (Jokiel and Coles 1977; Tortolero-langarica et al.        versus a successive wound, and to consider within-colony
+2017), and sites (Smith et al. 2008). Thus, wound regenera-       variation. We expected low within-colony variation, but we
+tion rates are expected to be positively correlated with mod-     expected that the second wound would take longer to heal
+erate increases in water temperature (Henry and Hart 2005).       than the first due to a reduction in available energy as a
+However, the effects of temperature on wound healing vary         result of energy allocated to the initial wound. In addition to
+across taxa (Lester and Bak 1985; Kramarsky-Winter and            studying within and among colony variation, we examined
+Loya 2000; Lenihan and Edmunds 2010), and when tem-               among site variation in wound healing by selecting colo-
+peratures approach bleaching thresholds, coral growth and         nies across four sites around the island of O‘ahu, Hawai‘i.
+regeneration rates are reduced (Anderson et al. 2017; Bon-        Sites were chosen based on year-round accessibility that
+esso et al. 2017). These environmental factors often vary         enabled in situ monitoring of colony bleaching history,
+with depth, such that deeper sites have lower wave energy         colony health, and tissue regeneration. To study the relative
+(Sebens et al. 2003), decreased sedimentation and irradiance      importance of various drivers affecting the wound healing
+(Nagelkerken et al. 1999; Sebens et al. 2003; Kaniewska           process, we analyzed correlations between wound healing
+et al. 2008), and cooler temperatures (Lester and Bak 1985;       time and colony parameters (i.e., colony size, inter-branch
+Kramarsky-Winter and Loya 2000).                                  distance, wound size) and depth (i.e., a proxy for variation
+
+13
+Marine Biology (2019) 166:148                                                                                  Page 3 of 12 148
+
+in multiple co-varying environmental factors). We hypoth-         wound in which algal growth was observed, the proportion
+esized that (1) larger colonies would heal wounds faster          of wound area covered in algae was measured using ImageJ.
+under the assumption that they have more energy available             One week after wounds were generated, the surface area
+than smaller colonies, (2) colonies with larger inter-branch      of the wound (L × W) was measured with calipers to the
+distances would heal wounds faster due to increased water         nearest ­mm2. Colony size (L × W × H) to the nearest ­cm3 was
+flow between branches (Jokiel and Coles 1977; Smith et al.        also measured in situ for each colony. To quantify the inter-
+2008; Anderson et al. 2017), (3) larger wounds would heal         stitial space, the average inter-branch distance for each col-
+more slowly than smaller wounds (Henry and Hart 2005;             ony was estimated by measuring the distal distance between
+Defilippo et al. 2016), and (4) wound recovery time would         two adjacent branches to the nearest mm for five branch
+increase with increased depth primarily due to decreased          pairs haphazardly selected such that one pair was near the
+water temperature and irradiance. The health of focal colo-       top center and the other four pairs were on the sides of the
+nies was tracked over 3 years prior to wound generation,          colony. Depth, to the nearest 0.3 m, was measured using a
+allowing us to also evaluate how the disturbance history          Suunto dive computer at the base of each coral colony.
+of each colony affected wound healing. Thus, we further
+hypothesized that wound recovery time would increase with         Survey sites
+the severity of previous colony stress (i.e., bleaching his-
+tory, partial colony mortality) as a result of decreased energy   Three of the four survey sites were shallow (1–4 m: Kewalo
+available for tissue growth (Goreau and Macfarlane 1990).         Shallow, Lanikai, and Kāne‘ohe Bay), while one site was a
+Finally, we compared pre- and post-wounding changes in            deeper reef offshore from one of the shallow sites (7–8 m:
+colony-scale partial mortality to investigate the effects of      Kewalo Deep) (Table 1, Fig. 1). To determine maximum and
+wound generation and subsequent wound healing on overall          mean temperatures from April to July 2017, corresponding
+colony health. Understanding the ability of corals to recover     with the time of wound formation and healing, data loggers
+from tissue damage in situ, and drivers of variation in this      (Onset ­HOBO® Pendant Temperature Light Data Logger)
+process, is critical for predicting the recovery of coral popu-   were deployed at each site (Table 1). Lanikai and Kāne‘ohe
+lations after disturbances and for forecasting the long-term      Bay are somewhat sheltered by fringing reefs, while the
+persistence of corals.                                            Kewalo Shallow and Deep sites are exposed to moderate-
+                                                                  to-high swell in the summer (Fig. 1). The maximum and
+                                                                  mean values for maximum significant wave height (Table 1)
+Materials and methods                                             were calculated using SWAN model data at hourly intervals
+                                                                  from April to July 2017, accessed from the PacIOOS Voy-
+Systematic wound formation and colony surveys                     ager database for 0.5 km2 grid cells corresponding to each
+                                                                  site. The proximity of the Kewalo Deep and Shallow sites
+Using tissue samples (< 1 cm2) collected in 2016, 54 Pocillo-     was such that they were associated with the same grid cell.
+pora colonies from four sites on O‘ahu, Hawai‘i were identi-      While all sites have exposure to local human impacts, there
+fied as P. meandrina via the restriction length polymorphism      is variation in their human impact histories (ESM 1).
+assay developed by Johnston et al. (2018). On 5th April
+and 5th May 2017, wounds were generated on each colony            Bleaching history stress
+using bone cutters (HIMB Special Activity Permit 2018-3),
+such that the wounds (13.4 ± 2.8 mm diameter, mean ± SE,          To estimate bleaching history stress (BHS), colonies were
+n = 108) reflected partially broken branches. Following this      surveyed and photographed monthly for 1–3 years prior
+systematic wound formation, corals were surveyed and pho-         to wound formation. Using estimates of bleaching made
+tographed (at both the colony and wound scale) weekly for         in situ, with verification from chronological photographs,
+3 months to track the tissue recovery process and colony-         we recorded which years each colony showed any bleach-
+scale responses. Estimates of wound recovery (i.e., exposed       ing stress (denoted as shifts in pigmentation from Sep-
+stark white skeleton, some tissue regrowth, algae presence,       tember to December, when seasonal bleaching has been
+and tissue layer fully covering the wound site) and overall       observed in Hawai‘i). We also categorized the severity of
+colony percent live tissue were made in situ. The chrono-         bleaching stress on a scale of 1–3, where 1 corresponded
+logical photographs for each colony were used to verify           to noticeable paling of the colony, 2 to severe paling, and 3
+in situ estimates, confirming the date by which each wound        to stark white bleaching (Fig. 2). Using these data, we cal-
+healed (i.e., polyps with normal coloration completely cov-       culated a BHS index for each colony: (proportion of years
+ered the wound site), colony percent live tissue on the day       bleached) × (average severity of bleaching). The possible
+each wound was created, and change in colony-scale percent        range of this index was from 0 to 3, such that 0 represented a
+live tissue over 3 months post wound formation. For each          colony with no bleaching history and 3 represented a colony
+
+
+                                                                                                                     13
+148   Page 4 of 12                                                                                              Marine Biology (2019) 166:148
+
+Table 1  Site names with coordinates, number of Pocillopora meandrina colonies sampled, depth, colony bleaching history, average daily tem-
+perature, and time to heal wound
+Site name      Latitude     Longitude      Number of       Colony          Colony         Temperature       Significant      Time (days)
+               (deg N)      (deg W)        P. meandrina    bleaching       depth (m)      (°C) April–July   wave height      to heal wound
+                                           colonies        history         (mean ± SD)    2017 (max,        (m) April–July   (min, max,
+                                                           (mean ± SD)                    mean ± SD)        2017 (max,       mean ± SD)
+                                                                                                            mean ± SD)
+
+Lanikai        21.3842      − 157.7077     12              1.58 ± 0.26     2.09 ± 0.40    29.65,            1.03,            21, 56, 35 ± 8
+                                                                                           27.25 ± 0.97       0.58 ± 0.03
+Kāne‘ohe Bay 21.4564        − 157.7945     20              0.79 ± 0.40     3.59 ± 0.27    29.25,            0.76,            21, 72, 38 ± 10
+                                                                                           27.13 ± 0.92       0.56 ± 0.11
+Kewalo         21.2930      − 157.8663      6              1.25 ± 0.42     3.05 ± 0.17    28.95,            1.50,            26, 86, 50 ± 22
+ Shallow                                                                                   27.03 ± 0.67       0.70 ± 0.13a
+Kewalo Deep    21.2898      − 157.8628     16              0.42 ± 0.31     7.83 ± 0.53    28.26,            1.50,            34, 86, 52 ± 13
+                                                                                           26.77 ± 0.52       0.70 ± 0.13a
+a
+ The proximity of the Kewalo Shallow and Deep sites was such that they were associated with the same 0.5 km2 grid cell for the SWAN model
+data available from the PacIOOS Voyager database
+
+
+
+
+Fig. 1  Location of study sites around the island of O‘ahu, Hawai‘i. Images were generated using Google maps. Site details are provided in
+Table 1 and ESM 1
+
+
+with a consistent history of severe bleaching. This metric               bleaching stress than 2016, and we were missing coral
+was conservative because 2014 and 2015 had overall higher                health history for some colonies over these years. For a less
+
+
+13
+Marine Biology (2019) 166:148                                                                                             Page 5 of 12 148
+
+
+
+
+Fig. 2  Examples of 4 levels of bleaching severity rankings for Pocillopora meandrina colonies. Each colony was ranked in situ and through a
+comparison of chronological monthly photographs
+
+
+conservative estimate, we also calculated an index for each             to determine the relative amount of variation explained by
+colony that utilized site- and year-specific averages to fill in        each factor. To evaluate the relative effects of colony mor-
+missing data points (ESM 2). These colony surveys were                  phology (size and inter-branch distance), the environment
+also used to estimate changes in colony-scale percent live              (depth), and colony stress (BHS and percent live tissue) on
+tissue over the 3 months prior to wound formation.                      wound healing, a set of additional Poisson GLMMs was run
+                                                                        with these factors as fixed effects, the number of days for the
+Within‑colony wound healing variation                                   wound to heal as the response variable, and, to account for
+                                                                        potential non-independence in our data, month of wound
+To analyze variation in wound recovery time for the succes-             generation and colony identity nested within site as random
+sive wounds imposed on each colony, a linear mixed model                effects. Temperature and wave energy were not included in
+(function “lmer” in R package lme4; Bates et al. 2015)                  the models given the site scale resolution of these factors.
+was run with recovery time from the second wound as the                 The cube root of colony size and the square root of wound
+response variable and recovery time from the first wound as             surface area were used in analyses as linear estimates of col-
+a fixed effect. Study site was included as a random effect to           ony and wound diameter. The continuous variables included
+account for potential non-independence in the data related              as fixed effects were centered and scaled, and correlation
+to site level differences in wound healing. A Type II Wald              coefficients were evaluated with a threshold of ± 0.75 prior
+Chi square test (function “Anova” in R package car; Fox and             to inclusion in models. Residual plots of all models were
+Weisberg 2011) was used to evaluate the significance of the             visually inspected, and no strong deviations from homosce-
+correlation between the initial and subsequent healing times.           dasticity or normality were observed.
+The marginal R2, an estimate of the variance explained by
+fixed factors in a mixed model (function “r.squaredGLMM”                Effect of broken branches on colony‑scale live tissue
+in R package MuMIn; Bartoń 2016), was used to estimate
+how much of the variation in healing time of the subsequent             To determine whether or not the change in percent live coral
+wound could be explained by the healing time of the initial             tissue was different between the 3-month periods before and
+wound.                                                                  after wound generation, a GLMM was run (function “glmer”
+                                                                        in R package lme4; Bates et al. 2015) to compare the change
+Variation in wound healing among colonies                               in colony percent live tissue pre- and post-wound genera-
+                                                                        tion. This model included the average percent live tissue
+To partition variation in wound recovery times into among               for each colony over the associated 3-month period as a
+sites, among colonies, and between initial and succes-                  fixed effect, to account for colonies with lower percent live
+sive wounds, a Poisson Generalized Linear Mixed Model                   tissue being more likely to exhibit a continued decline in
+(GLMM; function “glmer” in R package lme4; Bates et al.                 live tissue, and colony identity nested within site as random
+2015) was run with number of days for the wound to heal as              effects. The response variable, change in percent live coral
+the response variable, and with the month of wound forma-               tissue for each colony over 3 months, was zero-inflated. As
+tion (April or May) and colony identity nested within site              a result, change in percent live coral tissue was reclassified
+as random effects. The conditional R2, a cumulative esti-               to a binary variable of either negligible change (≤ 10% over
+mate of the variance explained by both fixed and random                 3 months) or noteworthy change (> 10% over 3 months), and
+factors in a mixed model (function “r.squaredGLMM” in R                 this response variable was modeled with a binomial distribu-
+package MuMIn; Bartoń 2016), was used to estimate how                   tion. The threshold to distinguish between noteworthy and
+much variation in healing time was explained among these                negligible change, 10%, was selected to reflect the precision
+three factors. Random effect variance estimates were used               of in situ visual estimates of colony-scale percent live tissue.
+
+
+                                                                                                                                13
+148   Page 6 of 12                                                                                                                                                  Marine Biology (2019) 166:148
+
+
+Results                                                                                                   n = 51). A similar progression of tissue regeneration was
+                                                                                                          observed for all wounds that healed (Fig. 3; Fig. S1): tran-
+Systematic wound formation and colony surveys                                                             sition from exposed stark white skeleton, to live polyp
+                                                                                                          coverage with partial pigmentation, to live polyp cover-
+Of the 108 wounds generated in this study, 103 (95%)                                                      age with full pigmentation. Algal growth, usually in the
+healed within 3 months (21–86 days, min–max) to the                                                       center of the wound, was a normal part of the healing
+extent that it was difficult to distinguish which branches                                                process exhibited by 96% of all the wounds that healed.
+had been broken. The remaining five wounds were spread                                                    The average percent of wound area covered by algae was
+across three different Pocillopora meandrina colonies: two                                                13.6 ± 9.8% (mean ± SD, n = 103).
+at Kewalo Deep (60% live and 40% live on the date of
+wound generation) and one at Kewalo Shallow (80% live
+on the date of wound generation). These wounds experi-                                                    Within‑colony wound healing variation
+enced algal growth that started at the center of the wound,
+and the coral tissue never out-competed the algae such that                                               The linear mixed model comparing within-colony wound
+these wounds were algal covered at the end of the study.                                                  healing times did not find a significant correlation
+For these colonies, colony-scale decline was recorded pre-                                                between healing times for initial and subsequent wounds
+and post-sampling (average declines of 28% and 27% live                                                   (0.29 ± 0.17, effect size ± SE; p = 0.09; Fig. 4a). Initial
+coral tissue, respectively). For the 51 colonies that suc-                                                recovery time explained 6% (marginal R2) of the variation
+cessfully healed both wounds, colony-scale percent live                                                   in the recovery time for a subsequent wound imposed on
+tissue ranged from 20–100% (88.5 ± 17.2%, mean ± SD,                                                      the same colony.
+
+
+Fig. 3  Chronological photo-
+graphs of wound healing from
+an initial (April 2017) and
+subsequent (May 2017) broken
+branch of a Pocillopora meand-
+rina colony
+
+
+
+
+Fig. 4  a Scatterplot compar-
+
+
+
+
+                                   N. days to heal subsequent wound (May)
+ing the number of days to
+heal an initial wound versus                                                     a                                                                      b
+a subsequent wound for each
+Pocillopora meandrina colony.
+                                                                                                            1
+
+
+
+
+                                                                                                                           N. days to heal wound
+                                                                            75                            1:
+                                                                                                                                                   75
+The solid line depicts a 1:1
+correlation, and the dashed line
+shows the relationship predicted                                                                                    .06
+                                                                                                             r ,= 0
+                                                                                                              2
+
+by a linear mixed model. b                                                                                           .09
+Scatterplot comparing colony                                                50                                 p=0                                 50
+depth and the number of days to
+heal wounds. In both plots, the
+color and shape of each point
+correspond to the study site                                                25                                                                     25                    Site
+                                                                                                                                                                          Lanikai     Kewalo sh
+                                                                                                                                                                          Kane'oheBay Kewalo dp
+
+                                                                                     25         50          75                                          0.0   2.5         5.0        7.5
+                                                                                 N. days to heal initial wound (April)                                               Depth (m)
+
+
+13
+Marine Biology (2019) 166:148                                                                                                                                                                                                                                                                                                                                              Page 7 of 12 148
+
+
+Colony, wound, and site variability
+
+
+
+
+                                                               Table 2  Marginal R2 ( R2m , percent of variance in the response variable that is explained by fixed effects, FE) and conditional R2 ( R2c, percent of variance in the response variable that is explained
+                                                                                                                                                                                                                                                                                                                                   For the FE factors, the effect size estimates ± standard errors are listed; estimates with p values < 0.05 are in bold. For the RE factors, the percent of variance partitioned to each RE [(R2c − R2m
+                                                                                                                                                                                                                                                                            Month (RE, %)
+Colony diameters ranged from 13.7 to 44.3 cm (24.3 ± 6.0,
+mean ± SD, n = 54), and the average inter-branch distance                                                                                                                                                                                                                                                        0.7
+ranged from 0.9 to 2.1 cm (1.5 ± 0.3, mean ± SD, n = 54).
+                                                                                                                                                                                                                                                                                                                 0.6
+                                                                                                                                                                                                                                                                                                                 0.7
+                                                                                                                                                                                                                                                                                                                 0.6
+                                                                                                                                                                                                                                                                                                                 0.3
+                                                                                                                                                                                                                                                                                                                 0.3
+Wound diameters ranged from 7.9 to 24.2 mm (13.4 ± 2.8,
+
+                                                                                                                                                                                                                                                                            Site (RE, %)
+mean ± SD, n = 108). Lanikai, Kāne‘ohe Bay, and Kewalo
+Shallow all had a similar depth range (Fig. 4b). Temperature                                                                                                                                                                                                                                                     31.8
+                                                                                                                                                                                                                                                                                                                 34.4
+was highest and had the most variation at Lanikai (Table 1).
+                                                                                                                                                                                                                                                                                                                 31.2
+                                                                                                                                                                                                                                                                                                                   3.2
+                                                                                                                                                                                                                                                                                                                 < 0.1
+                                                                                                                                                                                                                                                                                                                 < 0.1
+The next highest temperature was at Kāne‘ohe Bay, and
+then at Kewalo Shallow. Lanikai had a higher maximum                                                                                                                                                                                                                        Colony ID
+and mean significant wave height than Kāne‘ohe Bay                                                                                                                                                                                                                          (RE, %)
+                                                                                                                                                                                                                                                                                                                 38.7
+                                                                                                                                                                                                                                                                                                                 35.4
+                                                                                                                                                                                                                                                                                                                 33.2
+(Table 1). Kewalo Deep was approximately twice as deep
+                                                                                                                                                                                                                                                                                                                 43.3
+                                                                                                                                                                                                                                                                                                                 36.2
+                                                                                                                                                                                                                                                                                                                 36.2
+as the other three sites (Fig. 4b) and had the lowest mean
+temperature as well as the lowest variation in temperature.                                                                                                                                                                                                                 R2c (%)
+                                                                                                                                                                                                                                                                                                                 71.2
+                                                                                                                                                                                                                                                                                                                 72.3
+                                                                                                                                                                                                                                                                                                                 71.2
+                                                                                                                                                                                                                                                                                                                 70.4
+                                                                                                                                                                                                                                                                                                                 71.3
+Kewalo Deep and Shallow were included in the same grid
+                                                                                                                                                                                                                                                                                                                 71.2
+
+cell for the SWAN model of maximum significant wave
+
+
+
+                                                                                                                                                                                                                                                                            Percent live coral Wound size (FE)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            This model included an alternative less conservative BHS index (ESM 2) with year- and site-specific averages used for missing data
+height, with higher maximum and mean wave height esti-                                                                                                                                                                                                                                                               –
+                                                                                                                                                                                                                                                                                                                     –
+mates than at Kāne‘ohe Bay or Lanikai (Table 1). Across                                                                                                                                                                                                                                                              –
+                                                                                                                                                                                                                                                                                                                     –
+the P. meandrina colonies sampled, the BHS index ranged                                                                                                                                                                                                                                                          0.018 ± 0.022
+from 0 to 2 (0.90 ± 0.56, mean ± SD, n = 54). The propor-                                                                                                                                                                                                                                                        0.018 ± 0.022
+
+
+
+
+                                                                                                                                                                                                                                                                            tissue (FE)
+tion of bleached colonies was greater in 2014 and 2015 than
+                                                                                                                                                                                                                                                                                                                       –
+in 2016 (Fig. S2). Stark white colonies that were ranked as                                                                                                                                                                                                                                                      − 0.037 ± 0.029
+having high bleaching severity were only observed at Lani-
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                   )*proportion variance for each RE] is listed. Akaike Information Criterion (AIC) scores are provided for each model as a relative measure of model fit
+                                                                                                                                                                                                                                                                                                                       –
+kai and Kewalo Shallow, while medium- and low-severity                                                                                                                                                                                                                                                                 –
+
+
+
+
+                                                               by the full model including FE and random effects, RE) for a set of Generalized Linear Mixed Models run with time for wound to heal as the response variable (Poisson distribution)
+                                                                                                                                                                                                                                                                                                                 − 0.029 ± 0.029
+bleaching were observed at all four sites (Fig. S2). Percent                                                                                                                                                                                                                                                     − 0.026 ± 0.029
+live coral tissue on the day of wounding ranged from 20 to
+100% (86 ± 19, mean ± SD, n = 108).
+
+                                                                                                                                                                                                                                                                            BHS index (FE)
+                                                                                                                                                                                                                                                                                                                     –
+                                                                                                                                                                                                                                                                                                                 0.011 ± 0.048
+                                                                                                                                                                                                                                                                                                                     –
+Variation in wound healing among colonies                                                                                                                                                                                                                                                                            –
+                                                                                                                                                                                                                                                                                                                 0.030 ± 0.042
+                                                                                                                                                                                                                                                                                                                 0.064 ± 0.045a
+The Poisson GLMM that only included random effects
+found that colony-scale differences accounted for 39%
+
+
+                                                                                                                                                                                                                                                                            Inter-branch (FE)
+of the variance, site scale differences accounted for 32%                                                                                                                                                                                                                                                            –
+of the variance, and differences between the initial and                                                                                                                                                                                                                                                             –
+                                                                                                                                                                                                                                                                                                                 0.047 ± 0.032
+successive wounds accounted for 0.7% of the variance                                                                                                                                                                                                                                                                 –
+                                                                                                                                                                                                                                                                                                                 0.023 ± 0.032
+in the number of days for wounds to heal (Table 2). In                                                                                                                                                                                                                                                           0.017 ± 0.031
+the full GLMM, the fixed effects (i.e., colony size, inter-
+branch distance, wound size, depth, BHS index, and per-
+
+
+                                                                                                                                                                                                                                                                            Colony size (FE)
+                                                                                                                                                                                                                                                                                                                       –
+cent live coral tissue) explained 35% of the variation in                                                                                                                                                                                                                                                              –
+                                                                                                                                                                                                                                                                                                                 − 0.063 ± 0.029
+wound healing time (Table 2), accounting for essentially                                                                                                                                                                                                                                                               –
+all of the site scale variation (Fig. S3). Only two fixed                                                                                                                                                                                                                                                        − 0.078 ± 0.030
+effects were significantly correlated with time to heal:                                                                                                                                                                                                                                                         − 0.077 ± 0.030
+depth (0.17 ± 0.04, effect size ± SE; p < 0.001) and colony                                                                                                                                                                                                                                                          –
+size (− 0.08 ± 0.03, effect size ± SE; p = 0.01). Colonies                                                                                                                                                                                                                                                           –
+
+                                                                                                                                                                                                                                                                            Depth (FE)
+                                                                                                                                                                                                                                                                                                                     –
+at deeper depths healed an average of 25 days slower than                                                                                                                                                                                                                                                        0.135 ± 0.046
+colonies at shallower depths (Fig. 5a). Smaller colonies                                                                                                                                                                                                                                                         0.167 ± 0.042
+                                                                                                                                                                                                                                                                                                                 0.195 ± 0.046
+healed an average of 14 days slower than larger colonies
+(Fig. 5b). Wound healing was unaffected by inter-branch
+distance (0.02 ± 0.03, effect size ± SE; p = 0.48; Fig. 5c),                                                                                                                                                                                                                R2m (%)
+                                                                                                                                                                                                                                                                                                                  0
+                                                                                                                                                                                                                                                                                                                  1.9
+                                                                                                                                                                                                                                                                                                                  6.0
+                                                                                                                                                                                                                                                                                                                 23.3
+                                                                                                                                                                                                                                                                                                                 34.8
+BHS index (0.03 ± 0.04, effect size ± SE; p = 0.47;
+                                                                                                                                                                                                                                                                                                                 36.2
+
+Fig. 5d), percent live coral tissue (− 0.03 ± 0.03, effect                                                                                                                                                                                                                                                       831.3
+                                                                                                                                                                                                                                                                                                                 833.6
+                                                                                                                                                                                                                                                                            AIC
+                                                                                                                                                                                                                                                                                                                 829.6
+size ± SE; p = 0.32; Fig. 5e), and wound size (0.02 ± 0.02,
+                                                                                                                                                                                                                                                                                                                 829.7
+                                                                                                                                                                                                                                                                                                                 830.8
+                                                                                                                                                                                                                                                                                                                 829.4                                                                                                                                                                                                            a
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               13
+148                                  Page 8 of 12                                                                                                                                       Marine Biology (2019) 166:148
+
+
+
+
+Time for Wound to Heal (days)
+                                     a          p<0.01         b              p=0.01          c              p=0.48               d             p=0.47              e               p=0.32              f            p=0.41
+                                60                        60                            60                                  60                                 60                                  60
+
+                                50                        50                            50                                  50                                 50                                  50
+
+                                40                        40                            40                                  40                                 40                                  40
+
+
+                                30                        30                            30                                  30                                 30                                  30
+
+                                                          30                            30                                                                     60
+                                                                                                                                                                                                   30
+                                30                                                                                          20
+
+
+
+No. of Colonies
+                                                          20                            20                                                                     40                                  20
+                                20
+                                                                                                                            10
+                                10                        10                            10                                                                     20                                  10
+
+                                 0                         0                             0                                  0                                  0                                   0
+                                     0    3       6   9        10    20     30     40        0.8     1.2    1.6    2.0           0.0   0.5  1.0    1.5   2.0        20   40     60     80    100            10  15     20   25
+                                          Depth (m)                 Colony Size (cm)           Inter-Branch Distance (cm)                 BHS Index                  Percent Live Coral Tissue              Wound Size (mm)
+
+
+
+Fig. 5  Plots of the average effect (across colonies, sites, and sampling                                                   time (in days) for wounds to heal in Pocillopora meandrina, based
+month) of depth (a), colony size (b), inter-branch distance (c), bleach-                                                    on a Generalized Linear Mixed Model. Gray bars show the 95% con-
+ing history stress (BHS) index, where 0 refers to no bleaching stress                                                       fidence interval on model estimates. Histograms (below effect plots)
+across survey years and 3 depicts severe bleaching stress for all sur-                                                      illustrate the variation across sample colonies for each variable
+vey years (d), percent live coral tissue (e), and wound size (f), on the
+
+
+
+effect size ± SE; p = 0.41; Fig. 5f). Results from the model                                                                Discussion
+that included an alternative, less conservative BHS index
+had double the effect size for BHS index, but the effect                                                                    Our results showed that differences between Pocillopora
+was still not significant (0.06 ± 0.05, effect size ± SE;                                                                   meandrina colonies accounted for slightly more variation
+p = 0.16; Table 2).                                                                                                         in wound healing time than differences in site scale factors
+   A model considering only metrics of colony stress as                                                                     (39% compared to 32%, Table 2). Colony size and inter-
+fixed effects, i.e., BHS index and percent live coral tissue,                                                               branch distance explained 6% of this colony-scale variation
+explained < 2% of the variation in wound healing time.                                                                      (Table 2). The effect of inter-branch distance on wound heal-
+A model that included only metrics of colony morphol-                                                                       ing time was not significant (Fig. 5c). In contrast, the effect
+ogy as fixed effects, i.e., size and inter-branch distance,                                                                 of colony size was significant, with larger colonies healing
+explained 6% of the variation in wound healing time. In                                                                     an average of 14 days faster than smaller colonies (Fig. 5b).
+contrast, the model that considered only a metric of vari-                                                                  While smaller Pocillopora colonies have been shown to have
+ation in the local environment as a fixed effect, i.e., depth,                                                              faster growth rates than larger colonies (Edmunds and Bur-
+explained 23% of the variation in wound healing time                                                                        gess 2016, 2018), faster lesion healing has been attributed
+(Table 2).                                                                                                                  to larger colony size in other coral species (Meesters et al.
+                                                                                                                            1996; Kramarsky-Winter and Loya 2000; Oren et al. 2001).
+                                                                                                                            This relationship between colony size and wound healing
+Effect of broken branches on colony‑scale live coral                                                                        time may be a result of colony-wide integration of resources
+tissue                                                                                                                      during the healing process, enabling larger colonies, which
+                                                                                                                            have a larger supply of energetic resources, to heal wounds
+When considering changes in colony-scale percent live                                                                       faster than smaller colonies (Oren et al. 2001). However,
+coral tissue over the 3 months pre- and post-wound gen-                                                                     this relationship may not be consistent across taxa. Several
+eration, only one colony had a shift in percent live coral                                                                  studies have found no relationship between wound heal-
+tissue > 40%. This colony changed from 100% live to 0%                                                                      ing time and colony size, finding instead that wound size
+live pre-sampling and was subsequently not wounded (Fig.                                                                    had a greater effect on healing time (Bak and Steward-Van
+S4a). A binomial GLMM found no difference in the prob-                                                                      Es 1980; Meesters et al. 1994, 1997; Oren et al. 1997; van
+ability of a colony having a noteworthy change (> 10%)                                                                      Woesik 1998). We did not find a significant relationship
+in percent live tissue between pre- and post-wound time                                                                     between wound size and healing time despite including a
+periods (0.97 ± 1.07, effect size ± SE; p = 0.36, Fig. S4a).                                                                broad range of wound sizes in our study (7.9–24.2 mm diam-
+Colonies that had lower average percent live tissue had                                                                     eter; Fig. 5f). Our results suggest that colony size is a better
+a higher probability of having a shift in percent live tis-                                                                 indicator of wound healing time than wound size for broken
+sue > 10% (− 0.13 ± 0.06, effect size ± SE; p = 0.03).                                                                      branches in P. meandrina.
+The average colony-scale percent live tissue was similar                                                                       Depth was significantly correlated with wound heal-
+between pre- (89 ± 15, mean ± SD) and post-wound forma-                                                                     ing time for P. meandrina, with healing times an aver-
+tion (85 ± 18, mean ± SD, Fig. S4b).                                                                                        age of 25 days longer for deeper colonies (Fig. 5a). Depth
+
+13
+Marine Biology (2019) 166:148                                                                                     Page 9 of 12 148
+
+accounted for 23% of the variation in wound healing time           of our focal colonies had > 75% coral tissue (Fig. 5e), and
+(Table 2) and explained most of the observed site scale vari-      this skewed distribution may have impacted our ability to
+ation (Fig. 4b; Fig. S3). Depth was likely a proxy for tem-        detect a significant relationship between percent live coral
+perature and irradiance, factors known to influence Pocillo-       tissue and wound healing. The difference between wounds
+pora growth rates and distributions (Lenihan and Edmunds           formed in April versus May accounted for less than 0.1% of
+2010; Franklin et al. 2013; Tortolero-Langarica et al.             the variation in wound recovery time (Table 2). This sug-
+2017). Across sites with similar depths, increased growth          gests that with at least 1 month in between broken branches,
+and wound healing rates have been observed for colonies            P. meandrina colonies can recover from successive wounds,
+exposed to elevated temperatures (Lester and Bak 1985;             such that the healing time of the subsequent wound is not
+Smith et al. 2008; Osinga et al. 2011), which is a pattern         inherently longer than that of the initial wound (Fig. 4a).
+that may be attributed to higher metabolic rates in warmer         The healing process we observed for P. meandrina was
+water. While we did not measure irradiance in our study, we        dominated by the migration of cells from the edge of the
+did find that the shallower sites had warmer and more vari-        wound towards the center of the wound (Fig. 3), with algal
+able temperatures than the deeper site (Table 1). The shorter      growth occurring on 96% of wounds (Fig. S1). This process
+recovery times recorded for shallower colonies may reflect         is similar to the healing process described for P. damicornis
+increased tissue recovery potential for colonies exposed to        (Rodríguez-Villalobos et al. 2016; Traylor-Knowles 2016).
+increased temperature, increased irradiance, or a combina-         In the current study, P. meandrina colonies were able to
+tion of these factors. Decreased wound healing times have          regenerate tissue and combat fouling organisms for 95% of
+also been associated with shallower depths for several other       wounds. For three colonies that were unable to combat foul-
+coral species (Nagelkerken et al. 1999; Fisher et al. 2007).       ing organisms and did not heal wounds, colony-scale decline
+   Contrary to our hypothesis, we did not find a significant       was observed pre- and post-wound generation, indicating
+effect of previous colony bleaching on wound healing time          some other underlying source of stress. For the remaining
+for P. meandrina (Fig. 5d, Table 2). This may suggest that         95% of wounds, the tissue recovery process was so thorough
+allocating resources towards wound healing is a priority           that it was challenging to confirm in situ which branches
+for corals, despite possible decreased fitness resultant from      had been broken 3 months after wound generation. Further,
+previous stressors. Alternatively, 1.5 years may be a rea-         the generation and healing of two broken branches did not
+sonable recovery window from bleaching stress. Bleaching           cause significant changes in the overall health of P. meand-
+was observed in focal colonies at all four sites during the        rina colonies (Fig. S4a). Our results support colony depth
+major bleaching events that occurred in Hawai‘i in 2014 and        and size as stronger drivers for variation in wound healing
+2015, with colonies at Lanikai and Kewalo Shallow expe-            time than metrics of previous and ongoing colony stress.
+riencing the greatest bleaching severity (Fig. S2). Wounds         Nonetheless, we encourage future studies to investigate the
+were generated in April and May of 2017, and no effect of          effects of bleaching stress after a shorter recovery window,
+BHS on wound repair was observed. For colonies experienc-          a more balanced range of partial colony mortality, and a
+ing bleaching, wound tissue regeneration and coral growth          greater number of successive wounds on tissue regeneration.
+are reduced or completely absent (Goreau and Macfarlane                The remaining variation not explained by the fixed effects
+1990; Henry and Hart 2005; Rotjan et al. 2006; Kenkel et al.       included in our full model (65%) was divided between col-
+2013). In addition, wound healing in a facultatively symbi-        ony-scale variation (36%) and wound scale variation (i.e.,
+otic coral is greater for colonies with symbionts in compari-      residual variation; 29%; Table 2). Unexplained colony-scale
+son to colonies without (Defilippo et al. 2016; Burmester          variation may have been caused by genetic or physiological
+et al. 2017), and heterotrophy increases wound recovery            differences, e.g., efficiency of autotrophy versus heterotro-
+rates for both symbiotic and aposymbiotic colonies (Burm-          phy (Levy et al. 2016; Burmester et al. 2018), availability of
+ester et al. 2018). This suggests that the effect of bleaching     metabolic energy, corallum morphology (Madin et al. 2016;
+on coral growth and tissue regeneration is a direct result of      Dornelas et al. 2017), supply of interstitial cells (Meesters
+the decreased ability to feed associated with the loss of sym-     et al. 1996; Henry and Hart 2005), or variation in resources
+bionts. Thus, for colonies that survive bleaching events and       as a result of the associated community of mutualistic
+successfully regain symbionts, bleaching stress may not have       invertebrates and fishes (Goldshmid et al. 2004; Stewart
+long-term effects on tissue regeneration processes. We still       et al. 2006; Holbrook et al. 2008; Stier et al. 2012). Differ-
+expect that BHS would have a significant effect on wound           ent predation intensities for specific colonies or sites could
+repair, if the tissue damage occurs soon after a bleaching         also affect wound healing. While our study did not include
+event.                                                             predator surveys, corallivores, including butterflyfishes, file-
+   We did not find significant effects of colony-scale partial     fishes, and snails, were observed at all four sites. During the
+mortality (Fig. 5e), nor of previous tissue injury (Fig. 4a), on   3 months before and after wound generation, bite marks that
+wound healing time in P. meandrina. However, the majority          exposed skeleton were observed only at Lanikai, on 4 of 12
+
+
+                                                                                                                        13
+148   Page 10 of 12                                                                                               Marine Biology (2019) 166:148
+
+focal colonies. These colonies had average recovery rates for            Compliance with ethical standards
+Lanikai, which had the fastest site scale recovery rate. There-
+fore, our observations do not suggest that predation events              Conflict of interest The authors declare that they have no conflict of
+impacted wound recovery time. Observed within-colony                     interest.
+variation in wound recovery times (Fig. 4a) emphasizes the               Ethical approval All applicable international, national, and/or insti-
+importance of factors at the wound scale on tissue regen-                tutional guidelines for the sampling, care, and use of animals were
+eration. These may include within-colony differences in                  followed and all necessary approvals were obtained. Sampling was
+water flow (Smith et al. 2008; Lenihan and Edmunds 2010;                 completed under the HIMB Special Activity Permit 2018-3.
+Nakamura 2010; Sabine et al. 2015), energy allocation, or
+light attenuation (Kaniewska et al. 2008, 2011). We utilized
+average inter-branch distance as a colony-scale metric of
+differences in morphology, but this factor was not correlated            References
+with healing time (Table 2). Future studies could investigate
+the effects of colony morphology, wound location, and water              Anderson KD, Cantin NE, Heron SF, Pisapia C, Morgan S (2017)
+                                                                             Variation in growth rates of branching corals along Australia’s
+flow metrics at both the colony and wound scale on the tis-
+                                                                             Great Barrier Reef. Sci Rep. https​://doi.org/10.1038/s4159​8-017-
+sue repair process.                                                          03085​-1
+   In conclusion, we found that P. meandrina colonies                    Bak RP, Steward-Van Es Y (1980) Regeneration of superficial dam-
+exhibited tissue regrowth over 95% of wounds an average                      age in the scleractinian corals Agaricia agaricites f. purpurea and
+                                                                             Porites astreoides. Bull Mar Sci 30:883–887
+of 42 days after wound formation, for wounds that resembled
+                                                                         Bartoń K (2016) MuMIn: multi-model inference. R package version
+a broken branch, similar to damage that occurs naturally                     1.15.6
+during high wave energy events, from direct interactions                 Bates D, Maechler M, Bolker B, Walker S (2015) Fitting linear mixed-
+with boats and divers, and from parrotfish predation. The                    effects models using lme4. J Stat Softw 67:1–48. https​://doi.
+                                                                             org/10.18637​/jss.v067.i01
+rate of wound healing observed in our study is similar to
+                                                                         Bégin C, Schelten CK, Nugues MM, Hawkins J, Roberts C, Cote IM
+the 30–40 day wound healing timeline recorded for bro-                       (2016) Effects of protection and sediment stress on coral reefs
+ken branches in P. damicornis (Rodríguez-Villalobos et al.                   in Saint Lucia. PLoS One 11:1–16. https​://doi.org/10.1371/journ​
+2016). Our results suggest that P. meandrina has the capac-                  al.pone.01468​55
+                                                                         Ben-Haim Y, Zicherman-Keren M, Rosenberg E (2003) Temperature-
+ity to heal sequential wounds without a detrimental effect on
+                                                                             regulated bleaching and lysis of the coral Pocillopora damicornis
+overall colony health (Fig. S4a). BHS did not affect wound                   by the novel pathogen Vibrio coralliilyticus. Appl Environ Micro-
+healing. This suggests that within 1–2 years of a bleach-                    biol 69:4236–4242. https​://doi.org/10.1128/AEM.69.7.4236
+ing event, the impact of this stress on a colony’s ability to            Bonesso JL, Leggat W, Ainsworth TD (2017) Exposure to elevated
+                                                                             sea-surface temperatures below the bleaching threshold impairs
+heal wounds is negligible. Over the ranges of partial mor-
+                                                                             coral recovery and regeneration following injury. PeerJ. https​://
+tality and wound size investigated, these factors were not                   doi.org/10.7717/peerj​.3719
+correlated with wound recovery time. Instead, our results                Burmester EM, Finnerty JR, Kaufman L, Rotjan RD (2017) Tem-
+highlight variation in wound recovery time across depth                      perature and symbiosis affect lesion recovery in experimentally
+                                                                             wounded, facultatively symbiotic temperate corals. Mar Ecol Prog
+and colony size, with larger and shallower colonies healing
+                                                                             Ser 570:87–99
+more quickly than smaller and deeper colonies. Given the                 Burmester EM, Breef-Pilz A, Lawrence NF, Kaufman L, Finnerty JR,
+potential for shifts in the size structure and depth distribution            Rotjan RD (2018) The impact of autotrophic versus heterotrophic
+of coral communities amidst a barrage of various stressors,                  nutritional pathways on colony health and wound recovery in cor-
+                                                                             als. Ecol Evol. https​://doi.org/10.1002/ece3.4531
+the ability for larger and shallower colonies to heal wounds
+                                                                         Cameron CM, Edmunds PJ (2014) Effects of simulated fish predation
+faster is an important finding for effectively predicting coral              on small colonies of massive Porites spp. and Pocillopora mean-
+population dynamics and reef resilience.                                     drina. Mar Ecol Prog Ser 508:139–148. https​://doi.org/10.3354/
+                                                                             meps1​0862
+Acknowledgements J. Jones supported this project with boat and dive      Chang S, Iaccarino G, Ham F, Elkins C, Monismith S (2014) Local
+safety guidance. Fieldwork was conducted by C. Counsell, E. Johnston,        shear and mass transfer on individual coral colonies: computations
+T. Sale, D. Ford, and C. Schlieman. Both C. Counsell’s and E. John-          in unidirectional and wave-driven flows. J Geophys Res Ocean.
+ston’s participation in this study was supported by National Science         https​://doi.org/10.1002/2013J​C0097​51
+Foundation Graduate Research Fellowships (Grant No. 2012103208           Counsell CWW, Donahue MJ, Edwards KF, Franklin EC, Hixon MA
+and 2015184863, respectively). Additional funding was provided by            (2018) Variation in coral-associated cryptofaunal communities
+the Castle Foundation (Grant No. 3846, M Hixon PI). This is HIMB             across spatial scales and environmental gradients. Coral Reefs
+contribution No. 1771 and SOEST contribution No. 10810. We thank             37:827–840. https​://doi.org/10.1007/s0033​8-018-1709-7
+the three anonymous reviewers and the associate editor whose com-        Croquer A, Villamizar E, Noriega N (2002) Environmental factors
+ments improved this manuscript.                                              affecting tissue regeneration of the reef building coral Montas-
+                                                                             traea annularis (Faviidae) at Los Roques National Park, Ven-
+                                                                             ezuela. Rev Biol Trop 50:1055–1065
+Data availability All data generated during this study are provided in
+                                                                         Darling ES, Alvarez-filip L, Oliver TA, McClanahan TR, Cote IM
+the electronic supplementary material.
+                                                                             (2012) Evaluating life-history strategies of reef corals from
+
+
+13
+Marine Biology (2019) 166:148                                                                                                    Page 11 of 12 148
+
+     species traits. Ecol Lett 15:1378–1386. https​://doi.org/10.111              Global warming transforms coral reef assemblages. Nature
+     1/j.1461-0248.2012.01861​.x                                                  556:492–497. https​://doi.org/10.1038/s4158​6-018-0041-2
+Defilippo L, Burmester EM, Kaufman L, Rotjan RD (2016) Pat-                  Hughes TP, Anderson KD, Connolly SR, Heron SF, Kerry JT, Lough
+     terns of surface lesion recovery in the Northern Star Coral,                 JM, Baird AH, Baum JK, Berumen ML, Bridge TC, Claar DC,
+     Astrangia poculata. J Exp Mar Bio Ecol 481:15–24. https​: //                 Eakin CM, Gilmour JP, Graham NAJ, Harrison H, Hobbs JA,
+     doi.org/10.1016/j.jembe​.2016.03.016                                         Hoey AS, Hoogenboom M, Lowe RJ, Mcculloch MT, Pandolfi
+Dornelas M, Madin JS, Baird AH, Connolly SR (2017) Allomet-                       JM, Pratchett M, Schoepf V, Torda G, Wilson SK (2018b) Spatial
+     ric growth in reef-building corals. Proc R Soc B Biol Sci                    and temporal patterns of mass bleaching of corals in the Anthro-
+     284:20170053                                                                 pocene. Science 359(6371):80–83. https​://doi.org/10.1126/scien​
+Edmunds PJ, Burgess SC (2016) Size-dependent physiological                        ce.aan80​48
+     responses of the branching coral Pocillopora verrucosa to ele-          Jayewardene D, Donahue MJ, Birkeland C (2009) Effects of frequent
+     vated temperature and pCO2. J Exp Biol 219:3896–3906. https​                 fish predation on corals in Hawaii. Coral Reefs 28:499–506. https​
+     ://doi.org/10.1242/jeb.19475​3                                               ://doi.org/10.1007/s0033​8-009-0475-y
+Edmunds PJ, Burgess SC (2018) Colony size and turbulent flow                 Johnston EC, Forsman ZH, Toonen RJ (2018) A simple molecular tech-
+     speed modulate the calcification response of the coral Pocil-                nique for distinguishing species reveals frequent misidentification
+     lopora verrucosa to temperature. Mar Biol 165:1–12. https​://                of Hawaiian corals in the genus Pocillopora. PeerJ 6:e4355. https​
+     doi.org/10.1007/s0022​7-017-3257-z                                           ://doi.org/10.7717/peerj​.4355
+Edmunds PJ, Yarid A (2017) The effects of ocean acidification on             Jokiel P, Coles S (1977) Effects of temperature on the mortality and
+     wound repair in the coral Porites spp. J Exp Mar Bio Ecol                    growth of Hawaiian reef corals. Mar Biol 43:201–208
+     486:98–104. https​://doi.org/10.1016/j.jembe​.2016.10.001               Kaniewska P, Anthony KRN, Hoegh-guldberg O (2008) Variation
+Elahi R, Edmunds PJ (2007) Tissue age affects calcification in the                in colony geometry modulates internal light levels in branch-
+     scleractinian coral Madracis mirabilis. Biol Bull 212:20–28.                 ing corals, Acropora humilis and Stylophora pistillata. Mar Biol
+     https​://doi.org/10.2307/25066​577                                           155:649–660. https​://doi.org/10.1007/s0022​7-008-1061-5
+Fine M, Oren U, Loya Y (2002) Bleaching effect on regeneration               Kaniewska P, Magnusson SH, Anthony KRN, Reef R, Kuhl M, Hoegh-
+     and resource translocation in the coral Oculina patagonica. Mar              Guldberg O (2011) Importance of macro- versus microstructure
+     Ecol Prog Ser 234:119–125                                                    in modulating light levels inside coral colonies. J Phycol 47:846–
+Fisher EM, Fauth JE, Hallock P, Woodley CM (2007) Lesion regen-                   860. https​://doi.org/10.1111/j.1529-8817.2011.01021​.x
+     eration rates in reef-building corals Montastraea spp. as indica-       Kayal M, Vercelloni J, Wand MP, Adjeroud M (2015) Searching for the
+     tors of colony condition. Mar Ecol Prog Ser 339:61–71                        best bet in life-strategy: a quantitative approach to individual per-
+Fong P, Lirman D (1995) Hurricanes cause population expansion                     formance and population dynamics in reef-building corals. Ecol
+     of the branching coral Acropora palmata (Scleractinia): wound                Complex 23:73–84. https​://doi.org/10.1016/j.ecoco​m.2015.07.003
+     healing and growth patterns of asexual recruits. Mar Ecol               Kenkel CD, Goodbody-Gringley G, Caillaud D, Davies SW (2013)
+     16:317–335                                                                   Evidence for a host role in thermotolerance divergence between
+Fox J, Weisberg S (2011) An R companion to applied regression, 2nd                populations of the mustard hill coral (Porites astreoides) from
+     edn. Sage, Thousand Oaks                                                     different reef environments. Mol Ecol 22:4335–4348. https​://doi.
+Franklin EC, Jokiel PL, Donahue MJ (2013) Predictive modeling of                  org/10.1111/mec.12391​
+     coral distribution and abundance in the Hawaiian Islands. Mar           Kramarsky-Winter E, Loya Y (2000) Tissue regeneration in the coral
+     Ecol Prog Ser 481:121–132. https​://doi.org/10.3354/meps1​0252               Fungia granulosa: the effect of extrinsic and intrinsic factors. Mar
+Goldshmid R, Holzman R, Weihs D, Genin A (2004) Aeration of corals                Biol 137:867–873
+     by sleep-swimming fish. Limnol Oceanogr 49:1832–1839. https​            Lenihan HS, Edmunds PJ (2010) Response of Pocillopora verrucosa to
+     ://doi.org/10.4319/lo.2004.49.5.1832                                         corallivory varies with environmental conditions. Mar Ecol Prog
+Goreau T, Macfarlane A (1990) Reduced growth rate of Montastrea                   Ser 409:51–63. https​://doi.org/10.3354/meps0​8595
+     annularis following the 1987–1988 coral-bleaching event. Coral          Lester RT, Bak RP (1985) Effects of environment on regeneration rate
+     Reefs 8:211–215                                                              of tissue lesions in the reef coral Montastrea annularis (Sclerac-
+Gove JM, Williams GJ, McManus MA, Clark SJ, Ehses JS, Wedding                     tinia). Mar Ecol Prog Ser 24:183–185
+     LM (2015) Coral reef benthic regimes exhibit non-linear threshold       Levy O, Karako-Lampert S, Ben-Asher HW, Zoccola D, Page G,
+     responses to natural physical drivers. Mar Ecol Prog Ser 522:33–             Ferrier-Pages C (2016) Molecular assessment of the effect of
+     48. https​://doi.org/10.3354/meps1​1118                                      light and heterotrophy in the scleractinian coral Stylophora pis-
+Grottoli AG, Warner ME, Levas SJ, Aschaffenburg MD, Schoepf V,                    tillata. Proc R Soc B 283:20153025. https​://doi.org/10.1098/
+     Mcginley M, Baumann J, Matsui Y (2014) The cumulative impact                 rspb.2015.3025
+     of annual coral bleaching can turn some coral species winners into      Madin JS, Connolly SR (2006) Ecological consequences of major
+     losers. Glob Chang Biol 20:3823–3833. https​://doi.org/10.1111/              hydrodynamic disturbances on coral reefs. Nature 444:477–480.
+     gcb.12658​                                                                   https​://doi.org/10.1038/natur​e0532​8
+Hall VR (1997) Interspecific differences in the regeneration of artificial   Madin JS, Baird AH, Dornelas M, Connolly SR (2014) Mechanical
+     injuries on scleractinian corals. J Exp Mar Bio Ecol 212:9–23                vulnerability explains size-dependent mortality of reef corals.
+Henry L-AA, Hart M (2005) Regeneration from injury and resource                   Ecol Lett 17:1008–1015. https​://doi.org/10.1111/ele.12306​
+     allocation in sponges and corals—a review. Int Rev Hydrobiol            Madin JS, Hoogenboom MO, Connolly SR, Darling ES, Falster DS,
+     90:125–158. https​://doi.org/10.1002/iroh.20041​0759                         Huang D, Keith SA, Mizerek T, Pandol JM, Putnam HM, Baird
+Holbrook SJ, Brooks AJ, Schmitt RJ, Stewart HL (2008) Effects of                  AH (2016) A trait-based approach to advance coral reef sci-
+     sheltering fish on growth of their host corals. Mar Biol 155:521–            ence. Trends Ecol Evol 31:419–428. https​://doi.org/10.1016/j.
+     530. https​://doi.org/10.1007/s0022​7-008-1051-7                             tree.2016.02.012
+Hughes TP, Connell JH (1987) Population dynamics based on size or            Meesters EH, Bak RP (1993) Effects of coral bleaching on tissue
+     age? A reef-coral analysis. Am Nat 129:818–829                               regeneration potential and colony survival. Mar Ecol Prog Ser
+Hughes TP, Kerry JT, Baird AH, Connolly SR, Dietzel A, Eakin CM,                  96:189–198
+     Heron SF, Hoey AS, Hoogenboom MO, Liu G, Mcwilliam MJ,                  Meesters EH, Noordeloos M, Bak RP (1994) Damage and regeneration:
+     Pears RJ, Pratchett MS, Skirving WJ, Stella JS, Torda G (2018a)              links to growth in the reef-building coral Montastrea annularis.
+
+
+                                                                                                                                         13
+148   Page 12 of 12                                                                                                  Marine Biology (2019) 166:148
+
+     Mar Ecol Prog Ser 112:119–128. https​://doi.org/10.3354/Meps1​        Sabine AM, Smith TB, Williams DE, Brandt ME (2015) Environmen-
+     12119​                                                                     tal conditions influence tissue regeneration rates in scleractinian
+Meesters EH, Wesseling I, Bak RP (1996) Partial mortality in three              corals. Mar Pollut Bull 95:253–264. https​://doi.org/10.1016/j.
+     species of reef-building corals and the relation with colony mor-          marpo​lbul.2015.04.006
+     phology. Bull Mar Sci 58:838–852                                      Schoepf V, Grottoli G, Levas SJ, Aschaffenburg MD, Baumann JH,
+Meesters EH, Pauchli W, Bak RPM (1997) Predicting regeneration of               Matsui Y, Warner ME (2015) Annual coral bleaching and the
+     physical damage on a reef-building coral by regeneration capacity          long-term recovery capacity of coral. Proc R Soc B. https​://doi.
+     and lesion shape. Mar Ecol Prog Ser 146:91–99                              org/10.1098/rspb.2015.1887
+Nagelkerken I, Meesters E, Bak R (1999) Depth-related variation in         Sebens K, Helmuth B, Carrington E, Aguis B (2003) Effects of
+     regeneration of artificial lesions in the Caribbean corals Porites         water flow on growth and energetics of the scleractinian coral
+     astreoides and Stephanocoenia michelinii. J Exp Mar Bio Ecol               Agaricia tenuifolia in Belize. Coral Reefs 22:35–47. https​://doi.
+     234:29–39                                                                  org/10.1007/s0033​8-003-0277-6
+Nakamura T (2010) Importance of water-flow on the physiological            Smith LW, Wirshing HH, Baker AC, Birkeland C (2008) Environmen-
+     responses of reef-building corals. Galaxea, J Coral Reef Stud              tal versus genetic influences on growth rates of the corals Pocil-
+     12:1–14                                                                    lopora eydouxi and Porites lobata. Pacific Sci 62:57–69. https​://
+Oren U, Benayahu Y, Loya Y (1997) Effect of lesion size and shape on            doi.org/10.2984/1534-6188(2008)62%5b57:evgio​g%5d2.0.co;2
+     regeneration of the Red Sea coral Favia favus. Mar Ecol Prog Ser      Stella JS, Jones GP, Pratchett MS (2010) Variation in the structure of
+     146:101–107. https​://doi.org/10.3354/meps1​46101​                         epifaunal invertebrate assemblages among coral hosts. Coral Reefs
+Oren U, Benayahu Y, Lubinevsky H, Loya Y (2001) Colony integra-                 29:957–973. https​://doi.org/10.1007/s0033​8-010-0648-8
+     tion during regeneration in the stony coral Favia favus. Ecology      Stewart HL, Holbrook SJ, Schmitt RJ, Brooks AJ (2006) Symbiotic
+     83:802–813. https​://doi.org/10.2307/26801​99                              crabs maintain coral health by clearing sediments. Coral Reefs
+Osinga R, Schutter M, Griffioen B, Wijffels RH, Verreth JA, Shafir S,           25:609–615. https​://doi.org/10.1007/s0033​8-006-0132-7
+     Henard S, Taruffi M, Gili C, Lavorano S (2011) The biology and        Stier AC, Gil MA, McKeon CS, Lemer S, Leray M, Mills SC, Osen-
+     economics of coral growth. Mar Biotechnol 13:658–671. https​://            berg CW (2012) Housekeeping mutualisms: do more symbionts
+     doi.org/10.1007/s1012​6-011-9382-7                                         facilitate host performance? PLoS One 7:e32079. https​://doi.
+Piniak GA, Brown EK (2008) Growth and mortality of coral transplants            org/10.1371/journ​al.pone.00320​79
+     (Pocillopora damicornis) along a range of sediment influence in       Tortolero-langarica JDJA, Rodríguez-troncoso AP, Cupul-Magaña
+     Maui, Hawai‘i. Pacific Sci 62:39–55                                        AL, Carricart-Ganivet JP (2017) Calcification and growth rate
+Rinkevich B (1994) Do reproduction and regeneration in dam-                     recovery of the reef-building Pocillopora species in the northeast
+     aged corals compete for energy allocation? Mar Ecol Prog Ser               tropical Pacific following an ENSO disturbance. PeerJ. https​://doi.
+     143:297–302                                                                org/10.7717/peerj​.3191
+Rinkevich B, Loya Y (1989) Reproduction in regenerating colonies of        Traylor-Knowles N (2016) Distinctive wound-healing characteristics in
+     the coral Stylophora pistilata. In: Spanier E, Steinberger Y, Luria        the corals Pocillopora damicornis and Acropora hyacinthus found
+     M (eds) Environmental quality and ecosystem stability. ISEEQS              in two different temperature regimes. Mar Biol 163:2–7. https​://
+     Publications IVB, Jerusalem, pp 259–265                                    doi.org/10.1007/s0022​7-016-3011-y
+Rodríguez-Villalobos JC, Work TM, Calderon-Aguilera LE, Reyes-             van Woesik R (1998) Lesion healing on massive Porites spp. corals.
+     Bonilla H, Hernández L (2015) Explained and unexplained tissue             MEPS 164:213–220. https​://doi.org/10.3354/meps1​64213​
+     loss in corals from the Tropical Eastern Pacific. Dis Aquat Organ     Walsh KJE, Mcbride JL, Klotzbach PJ, Balachandran S, Camargo
+     116:121–131. https​://doi.org/10.3354/dao02​914                            SJ, Holland G, Knutson TR, Kossin JP, Lee T, Sobel A, Sugi M
+Rodríguez-Villalobos JC, Work TM, Calderon-Aguilera LE (2016)                   (2016) Tropical cyclones and climate change. WIREs Clim Chang
+     Wound repair in Pocillopora. J Invertebr Pathol 139:1–5. https​://         7:65–89. https​://doi.org/10.1002/wcc.371
+     doi.org/10.1016/j.jip.2016.07.002                                     Yamashiro H, Oku H, Onaga K (2005) Effect of bleaching on lipid
+Rotjan RD, Lewis SM (2008) Impact of coral predators on tropical                content and composition of Okinawan corals. Fish Sci 71:448–453
+     reefs. Mar Ecol Prog Ser 367:73–91. https​://doi.org/10.3354/
+     meps0​7531                                                            Publisher’s Note Springer Nature remains neutral with regard to
+Rotjan RD, Dimond JL, Thornhill DJ, Leichter JJ, Helmuth B, Kemp           jurisdictional claims in published maps and institutional affiliations.
+     DW, Lewis SM (2006) Chronic parrotfish grazing impedes coral
+     recovery after bleaching. Coral Reefs 25:361–368. https​://doi.
+     org/10.1007/s0033​8-006-0120-y
+
+
+
+
+13
+

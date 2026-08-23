@@ -1,0 +1,447 @@
+     Vol. 119: 75–83, 2016              DISEASES OF AQUATIC ORGANISMS
+                                                                                             Published online April 12
+     doi: 10.3354/dao02982                        Dis Aquat Org
+
+
+                                                                                                OPEN
+                                                                                                ACCESS
+
+
+     Effects of Coralliophila violacea on tissue loss
+   in the scleractinian corals Porites spp. depend on
+                      host response
+              L. J. Raymundo1,*, T. M. Work2, R. L. Miller3, P. L. Lozada-Misa4
+                             1
+                          University of Guam Marine Laboratory, Mangilao, Guam 96923, USA
+              2
+               USGS National Wildlife Health Center, Honolulu Field Station, Honolulu, Hawaii 96850, USA
+                3
+                 Guam Coral Reef Monitoring Program, Bureau of Statistics and Plans, Guam 96923, USA
+                   4
+                    National Oceanic and Atmospheric Administration, Honolulu, Hawaii 96818, USA
+
+
+
+
+      ABSTRACT: We investigated interactions between the corallivorous gastropod Coralliophila vio-
+      lacea and its preferred hosts Porites spp. Our objectives were to experimentally determine
+      whether tissue loss could progress in Porites during or after Coralliophila predation on corals with
+      and without tissue loss and to histologically document snail predation. In 64% of feeding scars, tis-
+      sue regenerated within 3 wk, leaving no trace of predation. However, in roughly 28% of scars,
+      lesions progressed to subacute tissue loss resembling white syndrome. In feeding experiments,
+      scars from snails previously fed diseased tissue developed progressive tissue loss twice as fre-
+      quently as scars from snails previously fed healthy tissue. Scars from previously healthy-fed snails
+      were 3 times as likely to heal as those from previously diseased-fed snails. Histology revealed
+      marked differences in host responses to snails; P. cylindrica manifested a robust inflammatory
+      response with fewer secondary colonizing organisms such as algae, sponges, and helminths,
+      whereas P. rus showed no evident inflammation and more secondary colonization. We conclude
+      that lesion progression associated with Coralliophila may be associated with secondary coloniza-
+      tion of coral tissues damaged by predator-induced trauma and necrosis. Importantly, variation at
+      the cellular level should be considered when explaining interspecific differences in host responses
+      in corals impacted by phenomena such as predation.
+
+      KEY WORDS: Coralliophila · Coral disease · White syndrome · Porites · Guam
+
+
+
+
+                   INTRODUCTION                              al. 2003). However, several recent studies have sug-
+                                                             gested that organisms that interact with coral may be
+  It is thought that organisms that prey on or compete       implicated in certain infections, although the mecha-
+with corals can potentially transmit infectious agents       nisms for this effect are often unclear. For instance,
+resulting in lesions via physical trauma, deposition of      physical contact between corals and the macroalga
+fecal waste, or physical contact. If such organisms          Halimeda opuntia facilitated white plague (Nugues
+carry the infectious agent, they are considered vec-         et al. 2004). Crown-of-thorns starfish Acanthaster
+tors, and an increase in the abundance of a vector           planci have been implicated in brown band disease
+may then result in increased disease transmission. In        (Nugues & Bak 2009), and corallivorous snails may
+corals, conclusive evidence for the existence of vec-        transmit a pathogen associated with white syndrome
+tors is rare; the fireworm Hermodice carunculata is          (Antonius & Riegl 1997, Williams & Miller 2005). Ray-
+the only known case of a corallivore potentially trans-      mundo et al. (2009) revealed a significant positive
+mitting a bacterial agent to its host coral (Sussman et      correlation between the abundance of obligate coral-
+                                                             © The authors 2016. Open Access under Creative Commons by
+*Corresponding author: ljraymundo@gmail.com                  Attribution Licence. Use, distribution and reproduction are un-
+                                                             restricted. Authors and original publication must be credited.
+                                                             Publisher: Inter-Research · www.int-res.com
+76                                         Dis Aquat Org 119: 75–83, 2016
+
+
+
+
+livorous butterflyfish and coral disease prevalence; in     healing, with the net result of creating a continual
+reefs protected from fishing, corallivorous chaeto-         supply of food for C. violacea.
+dontids were less abundant, as were coral diseases.           In Guam, acute to subacute tissue loss (white syn-
+   Conversely, by debriding damaged tissues, preda-         drome) in Porites is highly prevalent (Myers &
+tors can also reduce lesion impacts in corals. For          Raymundo 2009), and our surveys of coral diseases
+instance, certain corallivorous fish prefer diseased or     occasionally noted progressive tissue loss beyond
+damaged coral tissue (McIlwain & Jones 1997, Aeby           Coralliophila feeding scars on Porites spp. Further,
+2002), and animals feeding on diseased tissue can           some tissue-loss lesions sometimes displayed signs of
+slow the progression of lesions (Cole et al. 2009).         a snail scar within the lesion. To shed light on the role
+Crabs can also slow progression of white syndrome           of this snail in Porites tissue loss, we set out to
+in Acropora (Pollock et al. 2013).                          (1) experimentally determine whether tissue loss
+   Implicit in the scenario of corallivores as vectors      could progress in Porites in the presence of Corallio-
+is a tacit assumption that these organisms are              phila or in association with a recent feeding scar; and
+transmitting, exacerbating, or alleviating infectious       (2) document histology of snail predation to better
+diseases in corals. However, many of the diseases           understand potential underlying mechanisms of tis-
+with which these competitors or predators are asso-         sue damage and host response.
+ciated have no well-defined causes, particularly
+those involving tissue loss (Work & Meteyer 2014).
+Concluding that an interacting organism is a vector                     MATERIALS AND METHODS
+requires not only the presence of the suspect infec-
+tious agent in the organism, but also evidence that            All studies were carried out between March and
+this agent is associated with cell death in the coral.      December 2011 in the University of Guam Marine
+Currently, the main evidence used to incriminate            Lab wet lab (tank studies) and at Luminao Reef,
+predators as vectors of coral diseases is gross evi-        Guam (field observations). Corals for histology were
+dence of lesion progression in corals in the pres-          collected from Luminao and Gabgab reefs, fixed, and
+ence of predators (Work & Meteyer 2014). However,           sent to the National Wildlife Center Honolulu Field
+an equally plausible explanation for this observa-          Station, Hawaii, USA, for processing and analysis.
+tion is that, by damaging tissues, coral predators             To examine the fate of scars in situ, 25 colonies of
+create portals of entry for secondary colonizers that       the branching coral Porites cylindrica hosting a snail,
+either exacerbate lesions or prevent healing. In            but with no gross clinical signs of tissue loss, were
+either case, understanding the nature of interactions       tagged in Luminao reef, Guam, and the snail was
+between host corals and corallivores can elucidate          removed. The scar was photographed and condition
+patterns of disease on coral reefs, particularly in         of the tissue margin noted. Scars were photographed
+light of the fact that at least some of these organ-        weekly for 3 wk after snail removal and scored as
+isms, such as crown-of-thorns starfish (De’ath et al.       (1) healing: tissue deposition over dead skeleton
+2012) or Drupella (Moyer et al. 1982), can reach            along the scar margin; (2) static: an eroded scar mar-
+outbreak population densities.                              gin with no tissue deposition; or (3) progressing: con-
+   Coralliophila violacea is a muricid corallivorous        tinued tissue loss beyond the original scar border. To
+snail that prefers poritid corals in the Indo-Pacific       test for the ability of snails to transmit tissue loss
+and Red Sea. The unique feeding mode of this snail,         between colonies, 40 plates of P. rus, ranging from
+referred to as ‘prudent feeding,’ involves insertion of     4 to 8 cm in diameter, were collected from Gabgab
+a proboscis into the coral polyp’s coelenteron, allow-      reef, Guam. Ten plates had acute to subacute tissue
+ing the snail to remain stationary for extended peri-       loss, and 30 plates were clinically healthy on collec-
+ods while consuming coral tissues (Ward 1965, Braw-         tion. Twenty adult snails were collected from the
+ley & Adey 1982). Snails remain firmly attached for         same reef. The 10 plates containing lesions (‘dis-
+months, killing the underlying tissue and creating a        eased plates’) and 10 apparently healthy plates
+distinct scar surrounded by accreted coral skeleton.        (corals with no gross evidence of lesions) were placed
+Snails are often clustered on massive corals but            in individual 2 l aerated aquaria and randomly
+singly on branching corals (Chen et al. 2004), and this     arranged in water baths at the University of Guam
+creates variably sized zones of tissue injury that stim-    Marine Lab. Snails were starved for 24 h, then ran-
+ulate host tissue regeneration. In Porites, Oren et al.     domly distributed among the 20 fragments. Snails
+(1998) documented translocation of carbon into these        assigned to diseased fragments were placed on the
+injury zones from surrounding tissue to promote             margin of an active lesion, while snails assigned to
+                                 Raymundo et al.: Gastropod-mediated tissue loss in corals                               77
+
+
+
+
+healthy fragments were haphazardly
+placed on healthy tissue. Snails were
+allowed to feed for 1 wk, after which
+they were removed and immediately
+placed on the remaining 20 healthy
+fragments, randomized in additional
+aquaria. We tracked which fragments
+were fed upon by snails that had pre-
+viously fed on tissue-loss lesions vs.
+those previously fed apparently heal-        Fig. 1. Time series photographs of a colony of Porites cylindrica with a single
+thy fragments. Snails were allowed to        healing Coralliophila violacea scar (red arrow). Note the skeletal accretion
+feed for an additional week and then         around the new scar and the tissue deposition that resulted in rapid healing
+removed. Resultant scars were moni-
+tored for 2 wk and scored as healing,
+static, or progressing, as described above. Chi-               static, with a margin of skeletal accretion surround-
+squared tests were used to test whether the fate of            ing the scar with no evident regeneration of coral tis-
+feeding scars differed between treatments (diseased-           sues after snail removal. Seven scars (28%) pro-
+fed vs. healthy-fed), and ANOVAs were used to                  gressed, showing gross signs of tissue loss similar to
+examine differences in the rate of lesion progression          white syndrome.
+or healing. Data were transformed, where necessary,               In the laboratory feeding experiment, several
+to meet assumptions of normality.                              plates developed more than 1 feeding scar due to
+   Histology of snail predation scars on coral tissue          snail movement (Fig. 2). We tracked the fate of each
+was examined on 11 and 13 colonies each of P. cylin-           scar formed and later pooled the data for statistical
+drica and P. rus, collected from Luminao reef                  tests, after tests for an effect of source plate on lesion
+(P. cylindrica) and Gabgab reef (P. rus) in August             fate revealed no significant differences. The majority
+2010 and immediately fixed in Z-fix® concentrate               of feeding scars on corals exposed to snails previ-
+diluted 1:5 in seawater as per the manufacturer’s rec-         ously fed diseased tissue exhibited progressing
+ommendations. Gross lesions were classified as                 lesions after snails were removed, while the majority
+recent (≤10 d old; no skeletal accretion and partial           of scars formed by snails previously fed healthy tis-
+tissue loss) or old (>10 d; skeletal accretion apparent        sue healed (Table 1; χ2 = 4.891; p = 0.0270). Interest-
+and complete tissue loss). Tissues were processed for          ingly, the rate at which scars either healed or formed
+histology and interpretation as described by Work et           progressing lesions was not significantly different
+al. (2012). Briefly, tissues were decalcified, embed-          between treatments (roughly 0.25 cm d−1; ANOVA
+ded in paraffin, sectioned at 5 µm, and stained with           F1, 24 = 0.8168; p = 0.385), although the apparent dif-
+hematoxylin and eosin, stains adequate to identify             ference in tissue loss rate in plates with healthy-fed
+cyanobacteria (Sato et al. 2010) and Gram-positive or          snails (Table 1) was due to a single lesion that pro-
+Gram-negative microcolonies of bacteria (Work &                gressed very rapidly. When that lesion was removed
+Aeby 2014). On microscopy, changes were classified             from the analysis, the rate at which lesions pro-
+as ‘host response’ or ‘organisms associated with host          gressed in healthy-fed scars was reduced to 0.16 ±
+response.’ Host responses included necrosis, depo-             0.09 (SD) cm d−1, but this difference was still not sig-
+sition of hyaline or basophilic membranes, fragmen-            nificant (ANOVA F1, 24 = 0.013; p = 0.908).
+tation, cleft formation, hypertrophy, atrophy, or                 A number of host responses to snail predation
+infiltration of mesogleal cells (inflammation). Organ-         were observed histologically (Table 2). The most
+isms were categorized as helminths, fungi, algae, or           common host response for both P. cylindrica and
+ciliates.                                                      P. rus was deposition of basophilic membranes either
+                                                               on the surface (Fig. 3A) or within (Fig. 4A) tissues,
+                                                               necrosis with hyaline membrane formation
+                        RESULTS                                (Fig. 3A−D), and ablation of the surface body wall
+                                                               (Figs. 3A & 4A). For P. cylindrica, surface body wall
+   Of the 25 snail scars monitored in intact colonies in       ablation, hypertrophied calicodermis, and mucus cell
+situ, the majority (64%) healed within 3 wk (Fig. 1).          hypertrophy were seen exclusively in new snail
+Healing lesions had intact margins with healthy tis-           lesions (Fig. 3), whereas cleft formation between
+sue overgrowing bare skeleton. Two scars remained              surface and basal body wall was present only in
+78                                            Dis Aquat Org 119: 75–83, 2016
+
+
+
+
+                                                                                 (Figs. 3A−D). Algae (Figs. 3E,F &
+                                                                                 Fig. 4B) were the dominant organ-
+                                                                                 isms seen on microscopy and were
+                                                                                 present only in old lesions for P. cylin-
+                                                                                 drica, whereas algae were seen in
+                                                                                 both new and old lesions for P. rus
+                                                                                 (Table 2). Endolithic sponges, fungal
+                                                                                 hyphae, and helminth worms consti-
+                                                                                 tuted other organisms associated with
+                                                                                 lesions.
+
+
+                                                                                              DISCUSSION
+
+                                                                                       Evidence that snails were transmit-
+                                                                                    ting a pathogen leading to tissue loss
+                                                                                    in Porites was equivocal, although our
+                                                                                    results clearly showed that snail feed-
+                                                                                    ing was associated with progressive
+                                                                                    tissue loss in snails previously ex-
+                                                                                    posed to acute tissue loss lesions. His-
+                                                                                    tology failed to detect bacterial or
+                                                                                    viral inclusions associated with either
+                                                                                    old or new snail-induced lesions,
+                                                                                    although the use of light microscopy
+                                                                                    cannot preclude the presence of vi-
+Fig. 2. Time series photographs of progressive tissue loss resembling white
+syndrome in Porites rus, originating from 3 feeding scars (green stars in panel     ruses that were not numerous enough
+A,B, with the snail indicated by the yellow arrow in A creating a third scar).      to form inclusions. The lack of con-
+Tissue continued to slough after the snail was removed on November 5, 2010          cordance between the assumption
+(panels B–D). Areas of tissue loss coalesced, forming a large lesion, with addi-    that tissue loss (white syndrome, WS)
+tional tissue loss initiating along the left border of the fragment around
+     another feeding scar (panels C and D). Dates are given as mm.dd.yy
+                                                                                    is caused by bacteria and absence of
+                                                                                    histological evidence of the pres-
+                                                                                    ence of bacteria associated with cell
+Table 1. Fate of feeding scars formed on healthy Porites rus plates (n = 10 per     death in WS-affected coral has been
+treatment; several plates contained >1 scar) partitioned by feeding treatment.      pointed out elsewhere (Ainsworth et
+Diseased-fed: Coralliophila violacea snails previously fed diseased coral tis-      al. 2007, Work et al. 2012), although it
+sue; healthy-fed: C. violacea snails previously fed healthy coral tissue. Census    has also been suggested that there
+                        taken 7 d after removal of snails
+                                                                                    may be more than 1 causal agent
+                                                                                    associated with this suite of disease
+  Metric                                    Diseased-fed         Healthy-fed
+                                                                                    signs (Work et al. 2012, Bourne et
+  Total feeding scars                              13                   14          al. 2015). We propose that second-
+  Number of lesions progressing (%)              9 (69)               4(28)         ary colonizers, primarily algae, may
+  Number of feeding scars healing (%)            3 (23)               9 (65)        be responsible for lesion progression
+  No lesions formed (%)                           1 (8)                1 (7)        after snail removal, but the mecha-
+  Lesion progression rate (cm d−1 ± SD)        0.24 ± 0.3         0.47 ± 0.62
+  Feeding scar healing rate (cm d−1 ± SD)      0.27 ± 0.3         0.21 ± 0.16
+                                                                                    nism by which they might cause
+                                                                                    progressive tissue loss remains un-
+                                                                                    known. Recent discussions of the role
+old lesions (Fig. 4). For P. rus, wound repair was seen             of endoliths on calcium carbonate-secreting organ-
+only in new lesions, whereas necrosis and cleft                     isms cite both positive and negative effects on the
+formation were seen only in old lesions. Mucus and                  host (Tribollet 2008). Fungi penetrate and dissolve
+calicodermal cell hypertrophy and inflammation,                     coral skeleton and attack both endolithic algae and
+characterized by prominent infiltrates of melanin-                  coral polyps (Bentis et al. 2000). Ostreobium spp.,
+like granular cells, were seen only in P. cylindrica                endolithic algae in many normal corals, can colonize
+                                 Raymundo et al.: Gastropod-mediated tissue loss in corals                                    79
+
+
+
+
+Table 2. Percent of Porites cylindrica and P. rus manifesting particular histological changes partitioned by whether Corallio-
+phila violacea snail-induced lesions were new (≤1 wk) or old (>1 wk), and host response or organisms associated with the
+                                                            lesions
+
+
+ Parameter                        Porites cylindrica (n = 11)                   Porites rus (n = 13)           All colonies
+                                New     Old        Total      %           New      Old       Total     %         n     %
+
+ Host response
+ Basophilic membrane             4        2          6        55            2       4         6        46       12    50
+ Necrosis                        2        3          5        45            0       6         6        46       11    46
+ Hyaline membrane                5        2          7        64            1       3         4        31       11    46
+ Fragmentation                   4        0          4        36            3       2         5        38        9    38
+ Cleft formation                 0        2          2        18            0       4         4        31        6    25
+ Hypertrophy calicodermis        2        0          2        18            0       0         0         0        2     8
+ Mucus cell hypertrophy          3        0          3        27            0       0         0         0        3    13
+ Inflammation                    2        1          3        27            0       0         0         0        3    13
+ Wound repair                    0        0          0         0            1       0         1         8        1     4
+ Atrophy                         0        0          0         0            0       1         1         8        1     4
+
+ Organisms
+ Algae                           0        1          1         9            2       0         2        15        3    13
+ Fungi                           0        1          1         9            1       1         2        15        3    13
+ Sponges                         0        1          1         9            0       1         1         8        2     8
+ Helminths                       0        2          2        18            0       0         0         0        2     8
+
+
+
+host skeleton following tissue loss, penetrating live              loss rates were highly variable, and our small repli-
+coral tissue, which could influence regeneration                   cate size may account for a failure to reveal a possible
+(Fine et al. 2006). The absence of bacteria associated             treatment effect. Healing rate is a process dictated by
+with cell death in early lesions in P. cylindrica and P.           how rapidly new tissue can be produced to resheet
+rus argues against snails acting as vectors of bacterial           bare skeleton. Thus, this process would not be ex-
+pathogens, as these would presumably be visible in                 pected to differ between treatments if disease signs
+early lesions if they were transmitted by snails. How-             were absent within the lesion. Lozada-Misa et al.
+ever, the more common presence of fungi and algae                  (2015) reported in situ tissue loss lesion healing rates
+in both early and late P. rus lesions is intriguing and            of 0.15 ± 0.3 (SD) cm d−1 in P. cylindrica and 0.015 ±
+suggests more rapid colonization of this species by                0.002 cm d−1 for massive Porites. Thus, the rates we
+secondary organisms.                                               observed for P. rus, a close relative, are comparable.
+  Work et al. (2012) and Bourne et al. (2015) dis-                 Furthermore, the artificial environment of the
+cussed the evidence for multiple causative agents for              aquaria may influence both tissue loss and healing
+WS, which may constitute a suite of diseases. Our                  processes.
+results suggest that different processes may be at                   Microscopy provided a potential explanation for
+work in the 2 coral host species we examined, with                 the behavior of gross lesions induced by Corallio-
+similar gross signs of disease associated with a single            phila. Deposition of basophilic membrane within
+corallivore. Predation scars can serve as entry                    coral tissues has not been seen previously in Porites
+wounds that become invaded after the snail moves.                  examined histologically in the Pacific (Williams et al.
+At least 2 other coral diseases, viz. skeletal eroding             2011, Sudek et al. 2012, Work et al. 2014, 2016), and
+band (Page & Willis 2008) and brown band disease                   this change might serve as a useful histological
+(Nicolet et al. 2013), can be initiated by damage to               marker of snail predation in corals. The necrosis seen
+the coral surface. Additionally, our evidence indi-                would fit with the snail’s strategy of secreting proteo-
+cates that snail feeding facilitates colonization of               lytic enzymes to aid in consumption and digestion of
+coral by secondary organisms. Clearly, snails can                  coral tissues (Ward 1965). However, we saw differ-
+cause tissue necrosis and, depending on the host’s                 ences in host response to predation. Like P. com-
+ability to respond, subsequent progressive tissue loss             pressa (Sudek et al. 2012), P. cylindrica manifested a
+associated with secondary colonizers.                              prominent inflammatory response comprising hyper-
+  Our feeding experiments revealed that rates of tis-              trophied calicodermis and infiltrates of melanin-like
+sue loss and healing were not significantly different,             granule cells. Other congeners, such as massive
+either between or within feeding treatments. Tissue                Porites, can mount robust inflammatory responses,
+80                                              Dis Aquat Org 119: 75–83, 2016
+
+
+
+
+Fig. 3. Hematoxylin and eosin stained tissue sections of new (≤10 d) Coralliophila violacea snail-induced lesions in (A−D)
+Porites cylindrica and (E,F) P. rus. with paired low (A,C,E) and high (B,D,F) magnification photomicrographs; e: epidermis, m:
+mucus, a: algae, f: fungi, n: nematocyst. (A) Diffuse full thickness necrosis of surface and basal body wall; arrow points to bor-
+der of intact (upper left) and necrotic (lower right) tissues with deposition of basophilic membrane (arrowhead); scale bar =
+500 µm. (B) Close up of Panel A at arrow. Note copious mucus within basal body wall and deposition of hyaline membranes
+(arrow) with occasional fungal hyphae within necrotic debris (arrowhead); scale bar = 20 µm. (C) Necrosis of surface and basal
+body wall with deposition of hyaline membranes (arrow); scale bar = 500 µm. (D) Close up of Panel C at border of necrotic
+area; note basal body wall becoming progressively attenuated with hypertrophied calicodermis (arrowhead) and deposition of
+hyaline membranes (arrows); scale bar = 20 µm. (E) Invasion of coral tissues by algae (arrows) associated with necrosis (arrow-
+head); scale bar = 200 µm. (F) Close up of Panel E at arrowhead; note algae and fungi apposed to clumps of gastrodermal cells
+                             manifesting pyknosis and hypereosinophilia (arrows); scale bar = 20 µm
+                                  Raymundo et al.: Gastropod-mediated tissue loss in corals                                    81
+
+
+
+
+Fig. 4. Hematoxylin and eosin-stained tissue sections of old (>10 d) Coralliophila violacea snail-induced lesions in (A–D)
+Porites cylindrica and (E,F) P. rus with paired low (A,C,E) and high (B,D,F) magnifications; e: epidermis, n: nematocyst, s: sper-
+mary. (A) Ablation of surface body wall (arrow) with hypertrophy of calicodermis (arrowhead); scale bar = 500 µm. (B) Close
+up of Panel A; note clumps of plant material with cell walls (arrow) surrounded by basophilic wispy material, hypertrophied
+and granular calicodermis (arrowhead), and epidermis infiltrated with melanin-like granule cells; scale bar = 20 µm. (C) Cleft
+formation (asterisk) with deposition of basophilic membrane (arrow) and lifting of surface body wall that is infiltrated with
+melanin-like granule cells (arrowhead); scale bar = 200 µm. (D) Close up of Panel C; note basophilic laminar membrane over-
+laid by surface body wall with portions of gastrodermis separated by mesoglea (arrows) and infiltrates of melanin-like granule
+cells; scale bar = 20 µm. (E) Deposition of basophilic-laminated membrane below the surface body wall (arrows); scale bar =
+500 µm. (F) Higher magnification view of Panel E; note that basophilic membranes (arrows) appear to be deposited into
+                                                  gastrodermis; scale bar = 20 µm
+   82                                            Dis Aquat Org 119: 75–83, 2016
+
+
+
+
+   particularly of melanin-like granule-containing cells,         ➤ Bentis CJ, Kaufman L, Golubic S (2000) Endolithic fungi in
+   similar to those seen in this study (Palmer et al. 2008).           reef-building corals (Order: Scleractinia) are common,
+                                                                       cosmopolitan, and potentially pathogenic. Biol Bull
+   Calicodermal hypertrophy would explain skeletal                     (Woods Hole) 198:254−260
+   accretion at the edges of snail lesions; evidently, dep-       ➤ Bourne D, Ainsworth T, Pollock F, Willis B (2015) Towards
+   osition of aragonite by calicodermal cells forms part               a better understanding of white syndromes and their
+   of the host response repertoire in P. cylindrica (Alle-             causes on Indo-Pacific coral reefs. Coral Reefs 34:
+                                                                       233−242
+   mand et al. 2011). Given their close association with
+                                                                    Brawley SH, Adey WH (1982) Coralliophila abbreviata: a
+   hypertrophied calicodermis, we suspect that hyaline                 significant corallivore! Bull Mar Sci 32:595−599
+   membranes were acid-rich proteins of the skeletal              ➤ Chen MH, Soong K, Tsai ML (2004) Host effect on size struc-
+   organic matrix (Mass et al. 2014). In contrast, P. rus              ture and timing of sex change in the coral-inhabiting
+                                                                       snail Coralliophila violacea. Mar Biol 144:287−293
+   displayed a minimal inflammatory response. Colo-
+   nizing organisms such as algae and fungi were pres-            ➤ Cole AJ, Chong Seng KM, Pratchett MS, Jones GP (2009)
+                                                                       Coral-feeding fishes slow progression of black-band dis-
+   ent mainly in older lesions for P. cylindrica, whereas              ease. Coral Reefs 28:965
+   they were more common in early and late lesions in             ➤ De’ath G, Fabricius K, Sweatman H, Puotinen M (2012) The
+   P. rus. This may be linked with the superior inflam-                27-year decline of coral cover on the Great Barrier Reef
+                                                                       and its causes. Proc Natl Acad Sci USA 109:17995−17999
+   matory response of P. cylindrica that would presum-
+                                                                  ➤ Fine M, Roff G, Ainsworth TD, Hoegh-Guldberg O (2006)
+   ably dissuade colonization by opportunistic organ-                  Phototrophic microendoliths bloom during coral ‘white
+   isms for longer than P. rus.                                        syndrome’. Coral Reefs 25:577−581
+     In summary, our study illustrates the power of com-          ➤ Lozada-Misa P, Kerr A, Raymundo L (2015) Contrasting
+                                                                       lesion dynamics of white syndrome among the sclerac-
+   bining gross observations with microscopy to explain
+                                                                       tinian corals Porites spp. PLoS One 10:e0129841
+   biological phenomena in corals and yield insights
+                                                                  ➤ Mass T, Drake JL, Peters EC, Jiang WG, Falkowski PG
+   into disease processes. In this case, snails caused sig-            (2014) Immunolocalization of skeletal matrix proteins in
+   nificant damage to corals by opening portals of entry               tissue and mineral of the coral Stylophora pistillata. Proc
+   for secondary colonizers. The degree of damage to                   Natl Acad Sci USA 111:12728−12733
+   the colony may depend, in part, on the robustness of           ➤ McIlwain JL, Jones GP (1997) Prey selection by an obligate
+                                                                       coral-feeding wrasse and its response to small-scale dis-
+   the host inflammatory response. Whilst the snails                   turbance. Mar Ecol Prog Ser 155:189−198
+   cannot be considered vectors of infectious agents, it            Moyer JT, Emerson WK, Ross M (1982) Massive destruction
+   is possible that they could move algae and fungi                    of scleractinian corals by the muricid gatropod, Drupella,
+                                                                       in Japan and the Philippines. Nautilus 96:69−82
+   between corals, and histology of snails associated
+                                                                  ➤ Myers RL, Raymundo LJ (2009) Coral disease in Microne-
+   with corals may shed light on this question.                        sian reefs: a link between disease prevalence and host
+                                                                       abundance. Dis Aquat Org 87:97−104
+   Acknowledgements. This work was supported by a grant           ➤ Nicolet K, Hoogenboom MO, Gardiner NM, Pratchett MS,
+   from the NOAA Coral Reef Conservation Program to L.J.R.             Willis BL (2013) The corallivorous invertebrate Drupella
+   and G. Aeby. A. Miller, T. Reynolds, and R. Diaz assisted in        aids in transmission of brown band disease on the Great
+   laboratory experiments. Discussions with G. Aeby guided             Barrier Reef. Coral Reefs 32:585−595
+   the experimental set up. Mention of products or trade names    ➤ Nugues MM, Bak RPM (2009) Brown-band syndrome on
+   does not imply endorsement by the US Government. We                 feeding scars of the crown-of-thorn starfish Acanthaster
+   thank the anonymous reviewers for their comments, which             planci. Coral Reefs 28:507−510
+   greatly improved the paper.                                    ➤ Nugues MM, Smith GW, van Hooidonk RJ, Seabra MI, Bak
+                                                                       RPM (2004) Algal contact as a trigger for coral disease.
+                                                                       Ecol Lett 7:919−923
+                      LITERATURE CITED                            ➤ Oren U, Brickner I, Loya Y (1998) Prudent sessile feeding
+                                                                       by the corallivore snail Coralliophila violacea on
+  Aeby G (2002) Trade-offs for the butterflyfish, Chaetodon            coral energy sinks. Proc R Soc Lond B Biol Sci 265:
+     multicinctus, when feeding on coral prey infected with            2043−2050
+     trematode metacercariae. Behav Ecol Sociobiol 52:            ➤ Page CA, Willis BL (2008) Epidemiology of skeletal eroding
+     158−165                                                           band on the Great Barrier Reef and the role of injury in
+➤ Ainsworth TD, Kvennefors EC, Blackall L, Fine M, Hoegh-              the initiation of this widespread coral disease. Coral
+     Guldberg O (2007) Disease and cell death in white syn-            Reefs 27:257−272
+     drome of acroporid corals on the Great Barrier Reef. Mar     ➤ Palmer  CV, Mydlarz LD, Willis BL (2008) Evidence of an
+     Biol 151:19−29                                                    inflammatory-like response in non-normally pigmented
+  Allemand D, Tambutté E, Zoccola E, Tambutté S (2011)                 tissues of two scleractinian corals. Proc R Soc Lond B Biol
+     Coral calcification, cells to reefs. In: Dubinsky Z, Stam-        Sci 275:2687−2693
+     bler N (eds) Coral reefs: an ecosystem in transition.        ➤ Pollock FJ, Katz SM, Bourne DG, Willis BL (2013) Cymo
+     Springer, Berlin, p 119–150                                       melanodactylus crabs slow progression of white syn-
+  Antonius A, Riegl B (1997) A possible link between coral dis-        drome lesions on corals. Coral Reefs 32:43−48
+     eases and a corallivorous snail (Drupella cornus) out-       ➤ Raymundo LJ, Halford AR, Maypa AP, Kerr AM (2009)
+     break in the Red Sea. Atoll Res Bull 447:1−9                      Functionally diverse reef-fish communities ameliorate
+                                       Raymundo et al.: Gastropod-mediated tissue loss in corals                                83
+
+
+
+
+      coral disease. Proc Natl Acad Sci USA 106:17067−17070            tern, prevalence and transmission in Acropora cervicor-
+➤ Sato Y, Willis BL, Bourne DG (2010) Successional changes in          nis. Mar Ecol Prog Ser 301:119−128
+     bacterial communities during the development of black        ➤ Williams GJ, Work TM, Aeby GS, Knapp IS, Davy SK (2011)
+     band disease on the reef coral, Montipora hispida. ISME           Gross and microscopic morphology of lesions in Cnidaria
+     J 4:203−214                                                       from Palmyra Atoll, Central Pacific. J Invertebr Pathol
+➤ Sudek M, Work TM, Aeby GS, Davy SK (2012) Histological               106:165−173
+     observations in the Hawaiian reef coral, Porites com-        ➤ Work TM, Aeby GS (2014) Microbial aggregates within tis-
+     pressa, affected by Porites bleaching with tissue loss.           sues infect a diversity of corals throughout the Indo-
+     J Invertebr Pathol 111:121−125                                    Pacific. Mar Ecol Prog Ser 500:1−9
+  Sussman M, Loya Y, Fine M, Rosenberg E (2003) The marine        ➤ Work T, Meteyer C (2014) To understand coral disease, look
+     fireworm Hermodice carunculata is a winter reservoir              at coral cells. EcoHealth 11:610−618
+     and spring-summer vector for the coral-bleaching patho-      ➤ Work TM, Russell R, Aeby GS (2012) Tissue loss (white syn-
+     gen Vibrio shiloi. Environ Microbiol 5:250−255                    drome) in the coral Montipora capitata is a dynamic dis-
+  Tribollet A (2008) The boring microflora in modern coral reef        ease with multiple host responses and potential causes.
+     ecosystems: a review of its roles. In: Wisshak M, Tapanila        Proc R Soc Lond B Biol Sci 279:4334−4341
+     L (eds) Current developments in bioerosion. Springer,        ➤ Work  TM, Aeby GS, Lasne G, Tribollet A (2014) Gross and
+     Berlin                                                            microscopic pathology of hard and soft corals in New
+➤ Ward J (1965) The digestive tract and its relation to feeding        Caledonia. J Invertebr Pathol 120:50−58
+     habits in the stenoglossan prosobranch Coralliophila           Work TM, Aeby GS, Hughen K (2016) Gross and micro-
+     abbreviata (Lamark). Can J Zool 43:447−464                        scopic lesions in corals from Micronesia. Vet Pathol 53:
+➤ Williams DE, Miller MW (2005) Coral disease outbreak: pat-           153−162
+
+   Editorial responsibility: Garriet Smith,                           Submitted: October 5, 2015; Accepted: February 18, 2016
+   Aiken, South Carolina, USA                                         Proofs received from author(s): March 22, 2016
+

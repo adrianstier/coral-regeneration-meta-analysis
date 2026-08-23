@@ -1,0 +1,459 @@
+Oecologia (1998) 113:231±238                                                                      Ó Springer-Verlag 1998
+
+
+
+
+Margaret W. Miller á Mark E. Hay
+
+Effects of ®sh predation and seaweed competition on the survival
+and growth of corals
+
+
+
+Received: 31 May 1997 / Accepted: 2 September 1997
+
+
+Abstract On Caribbean coral reefs, high rates of graz-       were signi®cantly more abundant on P. porites from the
+ing by herbivorous ®shes are thought to bene®t corals        half and no-cage treatments than on corals in the full
+because ®shes consume competing seaweeds. We con-            cages. On this Florida reef, direct ®sh predation on some
+ducted ®eld experiments in the Florida Keys, USA, to         coral species (P. divaracata) can exclude them from fore-
+examine the eects of grazing ®shes on coral/seaweed         reef areas, as has previously been shown for certain
+competition. Initially, fragments of Porites divaracata      seaweeds and sponges. For other corals that live on the
+from an inshore habitat were transplanted into full-cage,    fore-reef (P. porites), the bene®ts of ®shes removing
+half-cage, and no-cage treatments on a fore-reef. Within     seaweeds can be counterbalanced by the detrimental
+48 h, 56% of the unprotected corals in half-cage and no-     eects of ®shes directly consuming corals.
+cage treatments (62 of 111) were completely consumed.
+Stoplight parrot®sh (Sparisoma viride) were the major        Key words Coral á Corallivory á Florida á Predation á
+coral predators, with redband parrot®sh (S. auro-            Seaweed competition
+frenatum) also commonly attacking this coral. Next, we
+transplanted fragments of P. porites collected from the
+fore-reef habitat where our caging experiments were          Introduction
+being conducted into the three cage treatments, half in
+the presence of transplanted seaweeds, and half onto         Invertebrate corallivores are widely recognized as having
+initially clean substrates. The corals were allowed to       important eects on reef development and reef coral
+grow in these conditions, with concurrent development        populations in both the Caribbean (e.g., the gastropod
+of competing seaweeds, for 14 weeks. Although seaweed        Coralliophila: Ott and Lewis 1972; Brawley and Adey
+cover and biomass were both signi®cantly greater in the      1982; Knowlton et al. 1990) and Paci®c (e.g., Acanth-
+full-cage treatment, coral growth did not dier signi®-      aster and other echinoderms: Endean 1973; Glynn et al.
+cantly between cage treatments even though corals            1979; Glynn and Krupp 1986). In contrast, much of the
+placed with pre-planted seaweeds grew signi®cantly less      literature on corallivory by reef ®shes refers to special-
+than corals placed on initially clean substrate. This        ized Paci®c butter¯y®shes (Reese 1977; Neudecker 1979;
+surprising result occurred because parrot®shes not only      Cox 1986). Most research in the Caribbean and tem-
+grazed algae from accessible treatments, but also fed        perate Atlantic has focused on how grazing ®shes indi-
+directly on our coral transplants. Parrot®sh feeding scars   rectly bene®t corals by consuming seaweeds and thus
+                                                             reducing competitive pressure (Birkeland 1977; Lewis
+                                                             1986; Steneck 1988; Hughes 1994; Miller and Hay 1996).
+                                                             These studies suggest that a signi®cant reduction of ®sh
+M.W. Miller (&)
+                                                             grazing can result in the overgrowth of juvenile and
+National Marine Fisheries Service,                           adult corals by other benthic life forms, especially ¯eshy
+Southeast Fisheries Science Center,                          macroalgae. Observations by Birkeland (1977) in the
+75 Vivginia Beach Dr.                                        tropical eastern Paci®c indicate that herbivorous ®shes
+Miami, FL 33149, USA,                                        actively avoid consuming juvenile corals greater than a
+e-mail: margaret.w.miller@noaa.gov;
+Fax: (305) 361-4562                                          few millimeters in size. A similar result was reported by
+                                                             Brock (1979) for Hawaiian parrot®sh. In his laboratory
+M.E. Hay
+University of North Carolina at Chapel Hill,
+                                                             study, ®eld densities of parrot®sh were determined to be
+Institute of Marine Sciences,                                ``optimal'' in promoting coral recruitment and benthic
+3431 Arendell St., Morehead City, NC 28557, USA              community development.
+232
+
+   The exceptions to this rule are an anecdotal account
+from Barbados of substantial direct predation on corals
+by parrot®shes (Frydl 1979) and a careful experimental
+study by Littler et al. (1989) showing that direct preda-
+tion by parrot®shes on Porites porites, but not P. as-
+treoides, is a primary factor controlling the distinct
+zonation of these two coral species on the protected side
+of a Belizean reef ¯at.                                                    Fig. 1 Schematic design of one replicate of the ®eld experiment. H and
+   Long-term over®shing of grazers as well as piscivores                   D represent preplanted clumps of the seaweeds Halimeda opuntia and
+in many areas of the Caribbean (Hay 1984a; Hughes                          Dictyota spp., respectively. In the experiment with Porites divaracata,
+1994), in combination with the loss of the echinoderm                      two coral transplants were placed on each end of each cinder block
+grazer Diadema antillarum in a pandemic die-o in
+1982±1983 (Lessios 1988), is implicated in the prolifer-                   through the mesh. A bare strip of mesh was cable-tied around the
+ation of macroalgae and the loss of live coral from many                   other end of the block as a control. One or two corals (depending
+Caribbean reefs (Liddell and Ohlhorst 1986; de Ruyter                      on the experiment, see below) were then attached through slits in
+van Steveninck and Bak 1986; Hughes et al. 1987;                           the mesh onto each end of each block (i.e., attached between the
+                                                                           clumps of preplanted algae on one end and through the mesh onto
+Carpenter 1990a; Hughes 1994). Though many reef                            the bare block on the other end; see Fig. 1). Because each experi-
+®sheries in the Florida Keys are also classi®ed as over-                   mental unit (cinder block) received both levels of the preplanting
+®shed (J. Ault and J. Bohnsack, personal communica-                        factor but only one level of the caging factor, we had a two-factor
+tion), these ®sheries are primarily of a recreational                      split-plot experiment for which we used an ANOVA design sug-
+rather than a subsistence nature, and the over®shed                        gested by Milliken and Johnson (1984) with the error mean square
+                                                                           term associated with the cinder block used to test signi®cance of the
+stocks are primarily carnivores, such as grouper and                       cage treatment. Over the course of the experiment, a few of our
+snapper, rather than grazing scarids and acanthurids.                      cages were lost due to rough weather, yielding a sample size for
+   Our study was designed to test the direct eect of                      analysis of 12 or 13. Due to this imbalance, we report statistical
+large grazing ®shes on the accumulation of seaweed                         results of type III sum-of-squares calculated by PROC GLM of
+                                                                           SAS (Shaw and Mitchell-Olds 1993).
+standing stock, as well as the indirect eect of ®sh
+grazing on coral growth and survivorship on a fore-reef
+in the Florida Keys. Our a priori hypothesis, based on                     Experiment with P. divaracata
+our own and others' previous results (Lewis 1986;
+Morrison 1988; Hughes 1994; Miller and Hay 1996), was                      On 28 July 1996, we collected fragments of the slender branching
+that the exclusion of large grazing ®shes would result in                  coral P. divaracata from the grass ¯ats around Rodriguez Key,
+                                                                           approximately 3 km inshore from the fore-reef site at Pickles Reef.
+a proliferation of seaweeds and a decrease in coral                        The fragments were returned to the National Undersea Research
+growth and/or survivorship due to competition from                         Center in Key Largo and kept in ¯owing seawater until the
+these seaweeds. This is not what we found.                                 buoyant weight of each fragment was determined (Davies 1989).
+                                                                           On 29 July, each fragment was placed in an individually numbered
+                                                                           plastic bag, transported back to Pickles Reef, and attached to a
+                                                                           numbered cinder block using Petit Polypoxy Underwater Patching
+                                                                           Compound. In this experiment, two small fragments were glued to
+Materials and methods                                                      each end of each cinder block (i.e., four coral pieces/cinder block).
+                                                                               Two days later (31 July), we found that many of the corals in
+Field experiments were conducted in the relict spur and groove zone        the no-cage and half-cage treatments were missing, apparently
+at Pickles Reef, Key Largo, Fl, USA (24°59.200¢ N, 80°25.133¢ W).          bitten o at the base which remained embedded in the epoxy.
+We used ¯at cinder blocks (20 ´ 41 ´ 5 cm) as our experimental             At this time, each of the four corals in each cage was scored as
+units. A 2-cm hole was drilled in the center of each cinder block and a    undamaged, one-quarter, one-half, three-quarters, or completely
+large galvanized steel stake was hammered through the hole and             eaten. These scores were averaged to obtain the percentage of
+driven into the reef substrate to secure the blocks in place. Forty-®ve    corals remaining for each cage. We had 12 excess corals that had
+blocks were arranged in 15 groups of three (n = 15, each with three        not been used in the initial experiment, so these were axed to the
+treatments) in an approximately linear arrangement running                 blocks at 1100 hours. We observed several of these corals for the
+northeast to southwest at a depth of 6±8 m. Each group of three            next hour (to see if they were attacked by ®shes) and then revisited
+blocks was separated from adjacent groups by at least 2±3 m. One of        them 4 h later. At this time, the experiment was ended because all
+each group of three blocks was left bare (no cage), one was com-           of the corals had been completely consumed.
+pletely enclosed in plastic mesh (full-cage treatment), and one was            Because of the short duration of this experiment, the preplanted
+partially enclosed (two walls and a top, half-cage control; see Fig. 1).   seaweed factor was ignored and a Kruskal-Wallis nonparametric
+A large mesh size (2-cm openings) was used to exclude large grazing        one-way ANOVA followed by Dunn's pairwise comparisons was
+®shes while allowing access to smaller predatory ®shes such as             used to detect signi®cant dierences in coral survival between the
+wrasses and blennies. Access by these smaller ®shes should minimize        cage treatments.
+potential artifacts resulting from cages providing predation refuges
+for mesograzers (Lewis 1986).
+    A second factor was also used in the experiments. Because we
+were starting with clean substrates, we chose to preplant seaweeds         Video assay
+into one end of every cinder block. Clumps of Dictyota spp. and of
+Halimeda opuntia were attached with cable ties to a 5-cm wide strip        To determine which ®shes were consuming corals, four underwater
+of mesh cut from a seine. This mesh was cable-tied around one              video cameras were set up at haphazard positions in the vicinity of
+end of each cinder block so that it held the algae ®rmly against           the experimental cages on 31 July 1996. Fist-sized aggregations of
+the block and allowed them to attach to the block and grow up              four species of corals collected from grassbeds near Rodriguez Key
+                                                                                                                                         233
+
+(P. divaracata, Cladocora arbuscula, Siderastrea radians, and
+Manicina sp.) were placed at the corners of a 50-cm square in view
+of each camera and ®lmed for 2 h. The number of bites of each
+coral species taken and the identity of ®shes attacking the corals
+were quanti®ed.
+
+
+Experiment with P. porites
+
+We repeated the above experiment using P. porites collected from
+the fore-reef near our cages. On 1 August 1996, these corals were
+weighed and one piece of coral was transplanted onto each end of
+each cinder block as described above. This experiment ran for 14
+weeks at which time (20 November 1996), the corals were harvested
+and seaweed cover was estimated on each half of each cinder block
+using a 50-point grid to determine the number of points intersecting
+macroalgae. Corals were returned to the laboratory at the
+Rosenstiel School of Marine and Atmospheric Science at the
+University of Miami where they were buoyant-weighed and ex-
+amined carefully to quantify the number of bite scars. Number of
+bite scars, seaweed cover, and coral growth were analyzed by the
+ANOVA design described above.
+
+                                                                       Fig. 2 Results of the experiment with P. divaracata. Bars represent
+                                                                       means + 1 SE. P-value from Kruskal-Wallis one-way ANOVA.
+Results                                                                Treatments with the same letter are not signi®cantly dierent
+                                                                       (P > 0.05) by Dunn's post hoc pairwise comparisons
+Experiment with P. divaracata
+
+When we ®rst monitored the P. divaracata transplants,
+48 h after placing them in the ®eld, we found that 56%
+of the corals (62 of the 111) in no-cage and half-cage
+treatments were missing. In most cases, it appeared that
+they had been bitten o at the base, leaving what looked
+like parrot®sh feeding scars in the bit of skeleton re-
+maining embedded in the epoxy. All corals in full cages
+remained intact. New corals transplanted onto the
+cinder blocks at 1100 hours were immediately attacked
+and completely consumed by stoplight parrot®sh
+(Sparisoma viride). All of these transplants were con-
+sumed within 4 h. Stoplight parrot®sh were also ob-
+served nosing against the full cages, apparently trying to
+access the corals they protected.
+   Kruskal-Wallis one-way ANOVA followed by
+Dunn's test showed that survivorship in closed cages was
+signi®cantly greater than in either half-cage or no-cage
+treatments; these last two treatments did not dier from
+each other (Fig. 2). One striking aspect of these results
+was that the corals consumed were not evenly distrib-                  Fig. 3 Forty-eight-hour P. divaracata survival in individual replicates
+                                                                       of the no-cage and half-cage treatments. Virtually all the corals
+uted among replicates (Fig. 3). Replicates were arranged               consumed were at the southwest end of the experimental array
+approximately linearly from southwest to northeast; all
+of the corals consumed were from the southwest end.
+None of the corals that were in replicates on the extreme              damage to these corals. They bit o large portions of
+northeast end were consumed (Fig. 3).                                  whole branches, while redband parrot®sh appeared to
+                                                                       scrape only the surface of the corals. P. divaracata was
+                                                                       much more attractive to both species of parrot®sh than
+Video assays                                                           were any of the other three species of corals tested. This
+                                                                       experiment also suggested considerable small-scale spa-
+The video-taped assays documented rapid consumption                    tial variation in the intensity of coral predation. Corals
+of P. divaracata by stoplight parrot®sh (S. viride) and                at two of our four video stations received a large number
+redband parrot®sh (Sparisoma aurofrenatum). Our ®eld                   of bites from the beginning of our ®lming, while two
+observations and these videos both suggested that large                other stations showed very low activity until just before
+stoplight parrot®sh were responsible for the majority of               ®lming ended (Fig. 4).
+234
+
+
+
+
+Fig. 4 Number of bites/h (mean + 1 SE) on approximately equal
+sized clumps of four species of corals transplanted from a seagrass bed
+to a fore-reef habitat. All bites were by the two species of parrot®shes
+indicated. The large SE is due to two sites being rapidly found and
+attacked by ®shes while two other sites were found only near the end
+of the 2-h ®lming period
+
+
+
+Experiment with P. porites
+
+At the end of the 14-week experiment, seaweed percent
+cover was signi®cantly higher (approximately double,
+Fig. 5A) in full-cage treatments than in the half-cage
+and no-cage treatments (P = 0.002). In addition, sea-
+weed cover on the preplanted side of each block
+remained signi®cantly greater (by 5±10%) than on the
+initially bare side (P = 0.002). There was also a signi-
+®cant spatial eect of cinder block (P < 0.002). Dic-
+tyota spp. that had been preplanted were the most
+abundant seaweed present in all replicates of all cage
+treatments. H. opuntia was also present in all types of                    Fig. 5A±C Results of the experiment with P. porites. Bars represent
+cage treatments, but at lower abundance that Dictyota.                     means + 1 SE. P-values from two-factor split-plot ANOVA
+                                                                           (n = 12±13). A Macroalgal percent cover in the six treatment groups
+Colonizing species of seaweed (mostly reds) were largely                   after 14 weeks. B Coral growth as relative change in buoyant weight
+restricted to full-cage treatments (Fig. 6).                               over the course of the experiment. C Grazing scars on corals in the six
+   Contrary to our a priori hypothesis, there was no                       treatment groups
+signi®cant cage eect on coral growth (Fig. 5B,
+P = 0.886) even though there was a signi®cant eect of
+the initial planting of seaweeds on coral growth                           cause of protection from predation (zero bite scars in all
+(P = 0.007). Thus, seaweed competition clearly has an                      replicates). Thus, protection of P. porites from direct
+important detrimental eect on coral growth based on                       predation in our full cages appears to counterbalance the
+the signi®cant eect of preplanting of seaweeds. How-                      detrimental eects of increases in competing seaweeds
+ever, the signi®cant dierence in seaweed cover between                    when ®shes are excluded.
+cage treatments was not re¯ected in a signi®cant eect                         We used the half-cage treatment to control for arti-
+on coral growth associated with treatments that had low                    facts associated with caging (e.g., water movement and
+algal cover due to their open access to grazers. This may                  shading). In the case of algal proliferation, the half-cage
+be because the reduction in seaweed cover that occurred                    treatments behaved similarly to the no-cage controls,
+in the presence of grazers (Fig. 5A) was oset by sig-                     suggesting that these eects were due to grazers rather
+ni®cantly higher rates of direct predation (as measured                    than cage artifacts. In contrast, the number of bite scars
+by bite scars) on corals (Fig. 5C, P < 0.001). The two                     on corals in half cages was intermediate between those in
+treatments that had the highest coral growth rates were                    the open and in the full cages. It appears that coral-
+ones that had both few grazing scars on the corals                         eating ®shes were somewhat deterred by half cages,
+(Fig. 5C) and relatively less algal competition (Fig. 5A).                 probably because larger individuals were responsible for
+The full-cage treatment without preplanted seaweeds                        most of the coral predation (video observations) while
+had relatively high coral growth despite having the sec-                   all sizes of ®sh eat seaweeds. Thus, the half-cage treat-
+ond highest incidence of seaweed cover, seemingly be-                      ment may more accurately be considered an intermedi-
+                                                                                                                             235
+
+                                                                       strong intragenus variation in susceptibility of Pocillo-
+                                                                       pora species to ®sh predation in Guam, even between
+                                                                       species whose taxonomic distinctness was debated by
+                                                                       taxonomists.
+
+
+                                                                       Parrot®sh corallivory: do they or don't they?
+
+                                                                       Our data contribute to an ongoing debate regarding the
+                                                                       importance of direct ®sh grazing on corals. A recent ®eld
+                                                                       study in Bonaire (Bruggemann et al. 1996) concluded,
+                                                                       ``Living coral is rarely eaten by scarids, and largely es-
+                                                                       capes erosion by grazing.'' A recent review by Hixon
+                                                                       (1997) states that ``outside of damsel®sh territories, the
+                                                                       reported direct eects of herbivorous ®shes on corals are
+                                                                       contradictory (and) . . . appear to depend on the partic-
+                                                                       ular system.'' Frydl (1979) shows photographs of ex-
+                                                                       treme parrot®sh grazing of coral colonies, including
+                                                                       Montastraea annularis and P. porites, but notes that this
+Fig. 6 Seaweed composition of each cage treatment indicated by the
+percent of replicates with each taxa present (n = 11 for full cages,   intensity of damage is unusual. Randall (1974) and Bak
+n = 14 for half cages, and n = 15 for no cages) (red ®ls multiple      and Engle (1979) reported that grazing ®shes damage
+unidenti®ed red ®lamentous species)                                    juvenile corals, while Birkeland (1977) reported that
+                                                                       grazing ®shes avoided damaging even very small juve-
+                                                                       niles. Other recent observations suggest that the repro-
+ate treatment with regard to coral predation while it                  ductive status of the corals may also be important.
+functioned more as the described control with regard to                Developing gonads held in coral tissue might provide a
+grazing on seaweeds.                                                   particularly rich nutritional source, and M. annularis in
+                                                                       the Florida Keys appears to suer increased predation in
+                                                                       the weeks before the annual mass spawn (A.M. Szmant,
+Discussion                                                             personal communication).
+                                                                          In developing countries, intense over®shing often re-
+Parrot®sh grazing on corals in the Caribbean is thought                sults in direct depletion of herbivore ®sh guilds (Hay
+to be low and relatively inconsequential for both the                  1984a; McClanahan and Muthiga 1988; Hughes 1994).
+®shes and the corals (Randall 1974; Bruggemann et al.                  However, in the Florida Keys, the ®sheries are recre-
+1996). Grazing ®shes are, however, thought to be es-                   ational and commercial in nature, and reef piscivores
+sential components of healthy reefs because they remove                such as grouper and snapper are targeted while grazing
+seaweeds, avoid eating corals, and thus prevent seaweeds               ®shes are not considered desirable. It is plausible that
+from excluding corals via competition (Birkeland 1977;                 over®shing in the Florida Keys has reduced predation
+Brock 1979; Lewis 1986; McClanahan and Muthiga                         on grazers. Combined with the virtual absence of Dia-
+1988; Hughes 1994). Our data suggest that the bene®cial                dema, which competes with grazing ®shes (Hay and
+eects of ®sh grazing are not generalizable to all loca-               Taylor 1985; Carpenter 1990b; Robertson 1991), these
+tions or all corals, but vary greatly depending on the                 decreases in predators and competitors could result in
+coral species and parrot®sh species involved. Stoplight                abnormally high intensities of parrot®sh grazing on reefs
+and redband parrot®shes rapidly consumed most of our                   in the Florida Keys. Other caging experiments in
+P. divaracata transplants. They completely consumed                    Biscayne National Park, just north of our study site,
+over 50% of our transplants in 48 h (Fig. 2) and sys-                  have shown that grazing ®shes consume transplanted
+tematically removed all transplants from some areas of                 juvenile corals of many species (including P. as-
+the reef (Fig. 3). When four coral species typical of                  treoides, S. radians, and Favia fragum, as well as
+grassbed habitats were moved to the fore-reef, parrot-                 P. divaracata) to extinction if they are not protected in
+®shes rapidly consumed P. divaracata, commonly bit                     full cages (Miller et al., in preparation). At Conch Reef
+S. radians, but paid minimal attention to Manicina sp. or              (adjacent to our study site in the Key Largo area), video
+C. arbuscula (Fig. 4). Additionally, placing P. porites on             assays have also shown that Sparisoma parrot®shes
+the same cinder blocks used in the P. divaracata exper-                consume substantial amounts of sponges (Dunlap and
+iment showed that, even though it was grazed, P. porites               Pawlik 1996). Dunlap and Pawlik (1996) note that nu-
+could persist and grow (Fig. 5) in areas where grazing                 merous previous studies of parrot®sh foraging have not
+®shes excluded P. divaracata. Thus, even within the                    reported parrot®shes as sponge feeders (Hanley 1984;
+genus Porites, there is considerable variation in suscep-              Bellwood and Choat 1990; Bruggemann et al. 1994). It
+tibility to parrot®sh grazing, as shown previously by                  may be that Florida Keys reefs are overpopulated with
+Littler et al. (1989). Similarly, Neudecker (1979) showed              Sparisoma parrot®shes and that their foraging has
+236
+
+expanded from herbivory (Bruggemann et al. 1994) to          predation had a negative impact on P. porites growth
+include novel foods such as sponges and corals. This         that matched and oset the positive eects of herbivores
+hypothesis is not consistent, however, with the conven-      removing competing seaweeds (Fig. 5A).
+tional view that reefs in the Florida Keys are overgrown         Even more dramatically, on some portions of the
+with macroalgae and thus rich in algal foods relative to     reef, all P. divaracata transplants were eaten completely
+other reefs (Ward 1990; Torrence 1991; Hallock et al.        in only a few hours (Fig. 3). High susceptibility to par-
+1993).                                                       rot®sh predation may explain the restriction of this
+                                                             species from reef slopes to inshore habitats with lesser
+                                                             grazing intensity. Similar distributional restrictions due
+Does it matter?                                              to grazing have been shown for numerous seaweeds
+                                                             (Hay 1981, 1985) and, more recently, for sponges
+The studies of Bruggemann et al. (1994) from Bonaire         (Dunlap and Pawlik 1996). Greater chemical defenses
+demonstrated that up to 9% of bites by the parrot®sh         against predation have been shown in relatively unpal-
+S. viride were on live coral, primarily M. annularis. In     atable reef species versus palatable nonreef species for
+many cases, however, bites of coral were dropped and         both seaweeds (Hay 1984b; Paul and Hay 1986) and
+not consumed. They speculated that coral bites may           sponges (Pawlik et al. 1995). Chemical defenses in hard
+serve more of a social than a nutritional function, cre-     corals remain largely unexplored, but given the large
+ating territory markers by leaving a conspicuous white       variance in susceptibility to ®sh grazing that occurs be-
+spot on the live coral colony. Although they concluded       tween coral species (Fig. 4) and even among species
+that corallivory was of negligible nutritional importance    within a genus (Neudecker 1979; Littler et al. 1989; this
+for parrot®sh, this would not prevent parrot®sh corall-      paper), investigations of hard coral defenses seem
+ivory from having a signi®cant impact on populations of      warranted.
+some coral species. In our study, parrot®shes were not           Another unexpected aspect of our results is the con-
+observed dropping the corals they had bitten, and the        siderable small-scale (a few meters) spatial variation in
+fact that they rapidly consumed our transplants suggests     corallivory (Fig. 3). In both the cage experiments and
+that they were not biting these merely to mark territory     the video assays, corals transplanted to some areas were
+boundaries but that some species were being targeted as      consumed rapidly while those transplanted a few meters
+desirable foods.                                             away appear to have been found and consumed much
+   In agreement with our ®ndings, Littler et al. (1989)      more slowly, or not at all. Spatial variation in predation
+documented that grazing ®shes had a large impact on          intensity, both herbivory and corallivory, is well docu-
+some corals in Belize. The distribution of P. porites and    mented between sites, habitats, and depth zones
+P. astreoides as a function of distance from the reef ¯at    (Neudecker 1979; Hay 1981, 1985; Steneck 1988; Littler
+was controlled by dierential palatability to grazing ®sh.   et al. 1989; reviewed in Glynn 1990). Work with sea-
+In areas with sucient structure to harbor larger ®shes,     weeds and reef herbivores has demonstrated that grazing
+P. porites was rapidly eaten while P. astreoides was         pressure can vary dramatically over spatial scales of only
+largely ignored.                                             centimeters to meters due to eects of territorial dam-
+   Our a priori hypothesis was that reduced grazing in       sel®shes or of noxious seaweeds creating microsites of
+full cages would allow macroalgae to proliferate and         associational escapes for more palatable seaweeds (Hay
+overgrow corals, substantially reducing their growth.        1985, 1986, 1996). However, to our knowledge, there are
+While ®lamentous algae have been shown to compro-            no previously published reports of such signi®cant
+mise and/or kill corals in damsel®sh territories (Potts      variation in predation of corals on such a small scale (2±
+1977) and under natural nutrient enrichment (Genin           3 m) within a single habitat/depth zone (7±8 m, fore-reef
+et al. 1995), Lewis (1986) found that ®lamentous algae       relict spur and groove). The spatial pattern of coral
+decreased signi®cantly in caged experimental treatments      consumption we document (Fig. 3) could have resulted
+and noted that macroalgae, rather than ®lamentous            from territorial behavior of parrot®shes. S. viride are
+algae, overgrew and killed corals. We observed no            known to be territorial (Bruggemann et al. 1994) and the
+dierences in ®lamentous algal abundance between             video assays showed this species to be the primary feeder
+treatments, but did observe a signi®cant proliferation of    on P. divaracata with all S. viride that we saw feeding
+macroalgae in the full cages (Fig. 5A). Contrary to ex-      being large individuals that could bite o entire coral
+pectation, this increased macroalgal cover in full cages     branches.
+had no signi®cant cage eect on P. porites growth                In conclusion, direct feeding by parrot®shes in the
+(Fig. 5B). However, our study does con®rm previous           Florida Keys can substantially reduce the abundance
+results regarding the clear importance of seaweed com-       and distribution of some coral species (P. divaracata)
+petition to corals (when they are not eaten directly by      while other corals (P. porites) can be negatively aected
+®shes) in that the preplanted seaweeds signi®cantly in-      by both direct ®sh predation and, in the absence of
+hibited coral growth (Fig. 5B). The intensity of direct      grazing ®shes, by seaweed competition. The eects of
+predation on corals in our manipulations, as estimated       parrot®sh feeding on coral populations are not gener-
+by the number of bite scars, was inverse to the prolif-      alizable to all corals and will depend on species-speci®c
+eration of seaweeds. Thus, it appears that parrot®sh         traits of the corals and parrot®shes involved.
+                                                                                                                                       237
+
+Acknowledgements This work was made possible through funding           Hallock P, Muller-Karger FE, Halas JC (1993) Coral reef decline.
+provided by the NOAA Coastal Ocean Program and by NSF grant                Nat Geogr Res Expl 9: 358±378
+OCE 95-29784 to M.E.H. Logistical support was provided by the          Hanley F (1984) Time-budgeting and foraging strategy of the
+University of North Carolina at Wilmington National Undersea               stoplight parrot®sh Sparisoma viride Bonnaterre, in Jamaica.
+Research Center in Key Largo, Fl., and by the Florida Keys Na-             J Exp Mar Biol Ecol 83: 159±177
+tional Marine Sanctuary, Key Largo oce. Field assistance was          Hay ME (1981) Herbivory, algal distribution and the maintenance
+provided by Robin Bolser, Dan Malone, Eric Sotka, Giancarlo                of between-habitat diversity on a tropical fringing reef. Am Nat
+Cetrulo, and Robert Carter. Dan Malone analyzed the video tapes.           118: 520±540
+                                                                       Hay ME (1984a) Patterns of ®sh and urchin grazing on Caribbean
+                                                                           coral reefs: are previous results typical? Ecology 65: 446±454
+                                                                       Hay ME (1984b) Predictable spatial escapes from herbivory: how
+References                                                                 do these aect the evolution of herbivore resistance in tropical
+                                                                           marine communities? Oecologia 64: 396±407
+Bak RPM, Engel MS (1979) Distribution, abundance, and survival         Hay ME (1985) Spatial patterns of herbivore impact and their
+   of juvenile hermatypic corals (Scleractinia) and the importance         importance in maintaining algal species richness. Proc 5th Int
+   of early life history stages in the parent coral community. Mar         Coral Reef Congr 4: 29±34
+   Biol 54: 341±352                                                    Hay ME (1986) Associational plant defenses and the maintenance
+Bellwood DR, Choat JH (1990) A functional analysis of grazing in           of species diversity: turning competitors into accomplices. Am
+   parrot®shes (family Scaridae): the ecological implications. En-         Nat 128: 617±641
+   viron Biol Fish 28: 189±214                                         Hay ME (1996) Marine chemical ecology: what is known and what
+Birkeland C (1977) The importance of rate of biomass accumula-             is next? J Exp Mar Biol Ecol 200: 103±134
+   tion in early successional stages of benthic communities to the     Hay ME, Taylor PR (1985) Competition between herbivorous
+   survival of coral recruits. Proc 3rd Int Coral Reef Symp 1: 15±         ®shes and urchins on Caribbean reefs. Oecologia 65: 591±598
+   21                                                                  Hixon M (1997) Eects of reef ®shes on corals and algae. In:
+Brawley SH, Adey WH (1982) Coralliophila abbreviata: a signi®-             Birkeland C (ed) Life and death of coral reefs. Chapman &
+   cant corallivore! Bull Mar Sci 32: 595±599                              Hall, New York, pp 230±246
+Brock RE (1979) An experimental study on the eects of grazing by      Hughes TP (1994) Catastrophes, phase shifts, and large scale de-
+   parrot®shes and role of refuges in benthic community structure.         gradation of a Caribbean coral reef. Science 265: 1547±1551
+   Mar Biol 51: 381±388                                                Hughes TP, Reed DC, Boyle MJ (1987) Herbivory on coral reefs:
+Bruggemann JH, Oppen MJH van, Breeman AM (1994) Foraging                   community structure following mass mortality of sea urchins.
+   by the stoplight parrot®sh Sparisoma viride. I. Food selection in       J Exp Mar Biol Ecol 113: 39±59
+   dierent, socially determined habitats. Mar Ecol Prog Ser 106:      Knowlton N, Lang JC, Keller BD (1990) Case sutdy of a natural
+   41±55                                                                   population collapse: post-hurricane predation on Jamaican
+Bruggemann JH, Kessel AM van, Rooiji JM van, Breeman AM                    staghorn corals. Smithson Contrib Mar Sci 31: 1±25
+   (1996) Bioerosion and sediment ingestion by the Caribbean           Lessios HA (1988) Mass mortality of Diadema antillarum in the
+   parrot®sh Scarus vetula and Sparisoma viride: implications of           Caribbean: what have we learned? Annu Rev Ecol Syst 19:
+   ®sh size, feeding mode, and habitat use. Mar Ecol Prog Ser 134:         371±393
+   59±71                                                               Lewis SM (1986) The role of herbivorous ®shes in the organization
+Carpenter RC (1990a) Mass mortality of Diadema antillarum. I.              of a Caribbean reef community. Ecol Monogr 56: 183±200
+   Long term eects on sea urchin population dynamics and coral        Liddel WD, Ohlhorst SL (1986) Changes in the benthic community
+   reef algal communities. Mar Biol 104: 67±77                             composition following mass mortalities of Diadema at Jamaica.
+Carpenter RC (1990b) Mass mortality of Diadema antillarum. II.             J Exp Mar Biol Ecol 95: 271±278
+   Eects on population densities and grazing intensity of par-        Littler MM, Taylor PR, Littler DS (1989) Complex interactions in
+   rot®shes and surgeon®shes. Mar Biol 104: 79±86                          the control of coral zonation on a Caribbean reef ¯at. Oeco-
+Cox EF (1986) The eects of a selective corallivore on growth rates        logia 80: 331±340
+   and competition for space between two species of Hawaiian           McClanahan T, Muthiga NA (1988) Changes in Kenyan coral
+   corals. J Exp Mar Biol Ecol 101: 161±174                                reef community structure and function due to exploitation.
+Davies PS (1989) Short-term growth measurements of corals using            Hydrobiologia 166: 269±276
+   an accurate buoyant weighing technique. Mar Biol 101: 389±          Miller MW, Hay ME (1996) Coral/seaweed/grazer/nutrient inter-
+   395                                                                     actions on temperate reefs. Ecol Monogr 66: 323±344
+Dunlap M, Pawlik JR (1996) Video-monitored predation by Ca-            Milliken GA, Johnson DE (1984) Analysis of messy data. Volume
+   ribbean reef ®shes on an array of mangrove and reef sponges.            1: designed experiments. Lifetime Learning Publications, Bel-
+   Mar Biol 126: 117±123                                                   mont, Calif.
+Endean R (1973) Population explosions of Acanthaster planci and        Morrison D (1988) Comparing ®sh and urchin grazing in deep
+   associated destruction of hermatypic corals in the Indo-West            and shallow coral reef algal communities. Ecology 69: 1367±
+   Paci®c region. In: Jones OA, Endean R (eds) Biology and ge-             1382
+   ology of coral Reefs, vol 2. Academic Press, London, pp 390±        Neudecker S (1979) Eects of grazing and browsing ®shes on the
+   438                                                                     zonation of corals in Guam. Ecology 60: 666±672
+Frydl P (1979) The eect of parrot®shes (Scaridae) on coral in         Ott B, Lewis JB (1972) The importance of the gastropod Coral-
+   Barbados, W I Int Rev Ges Hydrobiol 64: 737±748                         liophila (Lamark) and the polychaete Hermodice carunculata
+Genin A, Lazar B, Brenner S (1995) Vertical mixing and coral               (Pallas) as coral reef predators. Can J Zool 50: 1651±1656
+   death in the Red Sea following the eruption of Mount Pina-          Paul VJ, Hay ME (1986) Seaweed susceptibility to herbivory:
+   tubo. Nature 377: 507±510                                               chemical and morphological correlates. Mar Ecol Prog Ser 33:
+Glynn PW (1990) Feeding ecology of selected coral-reef macro-              255±264
+   consumers: patterns and eects on coral community structure.        Pawlik JR, Chanas B, Toonen RJ, Fenical W (1995) Defenses of
+   In: Dubinsky Z (ed) Ecosystems of the world 25: Coral reefs.            Caribbean sponges against predatory reef ®sh. I. Chemical
+   Elsevier, Amsterdam, pp 365±400                                         deterrencey. Mar Ecol Prog Ser 127: 183±194
+Glynn PW, Krupp DA (1986) Feeding biology of a Hawaiian sea            Potts DC (1977) Suppression of coral populations by ®lamentous
+   star corallivore, Culcita novaeguineae. J Exp Mar Biol Ecol 96:         algae within damsel®sh territories: J Exp Mar Biol Ecol 28:
+   75±96                                                                   207±216
+Glynn PW, Wellington GM, Birkeland C (1979) Coral reef growth          Randall JE (1974) The eects of ®shes on coral reefs. Proc 2nd Int
+   in the Galapagos: limitation by sea urchins. Science 203: 47±49         Coral Reef Symp 1: 159±166
+238
+
+Reese ES (1977) Coevolution of corals and coral feeding ®shes of    Shaw R, Mitchell-Olds T (1993) ANOVA for unbalanced data: an
+   the family Chaetodontidae. Proc 3rd Int Coral Reef Symp 1:          overview. Ecology 74: 1638±1645
+   267±274                                                          Steneck RS (1988) Herbivory on coral reefs: a synthesis. Proc 6th
+Robertson DR (1991) Increases in surgeon®sh populations after          Int Coral Reef Symp 1: 37±49
+   mass mortality of the sea urchin Diadema antillarum in Panama    Torrence DC (1991) Deep ecology: rescuing Florida's reefs. Nat
+   indicate food limitation. Mar Biol 111: 437±444                     Conserv Jul±Aug: 9±17
+Ruyter van Steveninck E de, Bak RPM (1986) Changes in abun-         Ward F (1990) Florida's coral reefs are imperiled. Nat Geogr 178:
+   dance of coral-reef bottom components related to mass mor-          114±132
+   tality of the sea urchin Diadema antillarum. Mar Ecol Prog Ser
+   34: 87±94
+

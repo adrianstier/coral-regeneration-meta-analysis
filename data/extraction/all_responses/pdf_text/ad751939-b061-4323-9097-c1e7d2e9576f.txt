@@ -1,0 +1,448 @@
+                                            MARINE ECOLOGY PROGRESS SERIES
+   Vol. 234: 119–125, 2002                                                                                    Published June 3
+                                                    Mar Ecol Prog Ser
+
+
+
+
+      Bleaching effect on regeneration and resource
+      translocation in the coral Oculina patagonica
+                                             M. Fine, U. Oren, Y. Loya*
+      Department of Zoology, The George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 69978, Israel
+
+
+
+
+       ABSTRACT: Bleaching of corals is the result of the loss of their symbiotic algae (zooxanthellae)
+       and/or their pigments. The supply of photoassimilates provided by the zooxanthellae to the corals
+       declines during bleaching and reduces their ability to activate energy-costly processes. In the present
+       study we compared regeneration capabilities of unbleached Oculina patagonica colonies (an
+       encrusting Mediterranean stony coral) with those of bleached and partly bleached colonies. Using
+       the 14C point-labelling technique on coral tissue, we examined possible intra-colonial translocation of
+       photosynthetic products from the site of tissue labelling to recuperating lesions in partly bleached
+       versus unbleached intact colonies. The percentage recovery of 2 cm2 lesions inflicted on unbleached
+       O. patagonica colonies was significantly higher than the percentage recovery of similar lesions within
+       the bleached area of the partly bleached colonies. Totally bleached colonies showed no regeneration
+       of lesions. Lesion regeneration in unbleached O. patagonica resulted in oriented intra-colonial
+       translocation of 14C products towards recuperating lesions located up to 4–5 cm away. In partly
+       bleached colonies (40 to 80%), such translocation did not occur, probably explaining the reduced
+       recovery rates of lesions in these colonies. Our findings suggest a bleaching threshold of ca. 30%
+       within O. patagonica colonies that determines the levels of colony integration and intra-colonial
+       translocation of resources to regions of maximal demand.
+
+       KEY WORDS: Coral bleaching · Lesion recovery · 14C-labelling · Colony integration · Resource
+       translocation · Oculina patagonica
+                             Resale or republication not permitted without written consent of the publisher
+
+
+
+
+                    INTRODUCTION                                       encrusting Mediterranean stony coral common along
+                                                                       the Mediterranean coast of Israel (Fine et al. 2001), was
+   Coral bleaching disrupts the symbiotic association                  first recorded in summer 1993. This bleaching was
+between coral hosts and their symbiotic photosynthetic                 explained by a bacterial infection, to which elevated
+algal endosymbionts. Recent reports of world-wide                      temperature was a contributing factor (Kushmaro et al.
+coral bleaching events leading to unprecedented and                    1996, 1998). Bleaching events have since occurred
+devastating coral mortality have caused alarm among                    annually, starting in late May, concomitant with the
+scientists and resource managers (Hoegh-Guldberg                       rise in seawater temperature (Kushmaro et al. 1998). In
+1999, Wilkinson 1999, 2000). Coral bleaching is often                  contrast to reports from other regions of mass mortality
+linked to global climate change, especially elevated                   following bleaching events, over 90% of the bleached
+seawater temperature (Glynn 1991, 1993, Brown 1997,                    O. patagonica colonies fully recovered the following
+Hoegh-Guldberg 1999) and high solar irradiance (Jok-                   winter (Kushmaro et al. 1998) through division of the
+iel 1980, Lesser et al. 1990, Gleason & Wellington 1993,               remaining symbiotic zooxanthellae and/or recruitment
+Glynn 1993). Bleaching of Oculina patagonica, an                       of zooxanthellae from the ambient water.
+                                                                          During bleaching, hermatypic corals may sometimes
+                                                                       suffer damage from a multitude of other agents (apart
+*Corresponding author. E-mail: yosiloya@post.tau.ac.il                 from the loss of their main energy source), such as
+
+© Inter-Research 2002 · www.int-res.com
+120                                        Mar Ecol Prog Ser 234: 119–125, 2002
+
+
+
+
+storms (Scoffin 1993), sedimentation (Loya 1976a,              Kramarsky-Winter & Loya 2000). Consequently, intra-
+Rogers 1990), temperature fluctuations (Jokiel & Coles         colonial energy and resource integration is regarded
+1990), emersion at low tide (Loya 1972, 1976b), dis-           as a basic life-preserving ability and one of the most
+eases (Gladfelter 1982, Peters 1984, Brown 1997), com-         important advantages of clonal and colonial organ-
+petitive interactions (Chornesky 1989), anthropogenic          isms. However, despite extensive knowledge regard-
+stresses (Brown & Howard 1985) and predation                   ing the energetic importance of symbiotic zooxan-
+(Cameron et al. 1991). Colonies of Oculina patagonica          thellae for colony maintenance and survival, and the
+are often preyed upon by the polychaete Hermodice              accepted importance of colony integration during
+carunculata. This nocturnal predatory worm uses its-           stress, intra-colonial integration and resource translo-
+jaws to scrape the coral tissue off its skeleton, causing      cation in bleached corals has not yet been investigated.
+round tissue lesions (Fig. 1) which are also observed            In the present study we inflicted artificial lesions,
+during bleaching events. Witman (1988) reported per-           similar to those caused by Hermodice carunculata, in
+manent damage to milleporid hydrocorals after preda-           order: (1) to compare the regeneration capabilities of
+tion by H. carunculata that resulted in lower colony           healthy unbleached Oculina patagonica colonies with
+growth. Similar observations were made by Vreeland             those of bleached and partly bleached corals; and (2) to
+& Lasker (1989) in the Caribbean, where H. caruncu-            examine possible intra-colonial translocation of pho-
+lata preyed upon gorgonians.                                   tosynthetic products to regenerating lesions in un-
+   Lesion regeneration in corals was formerly regarded         bleached versus partly bleached colonies.
+as a localized energy process that does not require
+extensive colony integration (Bak & Steward-van Es
+1980, Meesters & Bak 1993, Meesters et al. 1997).                           MATERIALS AND METHODS
+However, in recent years, we have found that lesions
+may activate an oriented intra-colonial transport of             The entire study was performed in the field at Sdot-
+photoassimilates to the injured tissue (Oren et al. 1997,      Yam (Mediterranean coast of Israel: 32° 29.77’ N,
+1998), and that resources required for lesion recovery         34° 53.23’ E) along the vermetid reefs in a depth range
+are supplied not only by the polyps directly bordering         of 3 to 6 m.
+the injured area, but also by those located further              Lesion recovery rates in unbleached versus partly
+away, up to 10 cm from the injured area (Oren et al.           and totally bleached colonies. During June to August
+1997). Recently, Oren et al. (2001) found that the extent      2000 we examined the recovery rates (%) of round tissue
+of this resource translocation is regulated by the size        lesions (projected lesion size = 2 cm2), artificially inflicted
+and shape of the lesion.                                       on the surface of 34 similar sized colonies of Oculina
+   Corals have a limited set of resources, such as             patagonica (ca. 12 to 14 cm in diameter). Within this
+energy and interstitial cells, which have to be shared         group 13 colonies were unbleached, 11 were partly
+amongst a variety of life functions including sexual and       bleached, and 10 were totally bleached. Since bleached
+asexual reproduction, growth, maintenance and repair           and unbleached sections of the colony can be distin-
+(Kozlowski & Wiegert 1986, Harrison & Wallace 1990,            guished by a distinct border, colonies with 30 to 80%
+                                                               bleached surface area were marked as partly bleached.
+                                                               The lesions were created using an air-pick jet, which re-
+                                                               moves local tissue, causing no damage to the skeleton
+                                                               beneath. Each unbleached and totally bleached colony
+                                                               was inflicted with 1 lesion in its center, while each partly
+                                                               bleached colony was inflicted with 1 lesion in the center
+                                                               of the bleached section. All examined colonies were
+                                                               photographed using a Nikonos-V camera with a 35 mm
+                                                               lens on a 1:1 extension tube, enabling accurate mea-
+                                                               surement of lesion size, and a 28 mm close-up attach-
+                                                               ment for bleaching percentage measurements (% of
+                                                               bleached surface area). An image-analyzer (Olympus,
+                                                               CUE-3) was used to analyze the color slides. Forty-five
+                                                               days after injury, the lesions were rephotographed and
+                                                               analyzed by the image-analyzer, enabling accurate
+                                                               calculation of the percentage lesion healing. After
+Fig. 1. Oculina patagonica. Round tissue lesions on surface
+                                                               transforming percentage data by arcsine√p, a 1-way
+following predation by polychaete Hermodice carunculata        ANOVA was used to test the difference in lesion re-
+               (photograph is 38% actual size)                 covery between healthy and partly bleached colonies.
+                                 Fine et al.: Bleaching and resource translocation in corals                                  121
+
+
+
+
+   Radioactive labelling procedure. To study the possi-
+ble intra-colonial translocation of photosynthetic prod-
+ucts within colonies of Oculina patagonica, we used
+14
+   C-labelling cylinders (see Oren et al. 1997) that en-
+abled coral tissue-labelling on a limited colony portion
+of 5 cm2. A firm seal with the coral tissue was achieved
+by self-adhesive foam glued to the opening of each
+cylinder. Final attachment of the cylinders to the coral
+surface was accomplished by wires anchored to the
+substrate near the colony. A 0.5 mm hole covered with
+rubber enabled injection of the radioactive carbon into
+each cylinder (final concentration 0.01 µCi ml–1). 14C-
+labelling of all experimental colonies was initiated at
+09:00 h for a total period of 24 h, after which the cylin-
+ders were removed. Coral fragments of 1 cm2 (tissue +
+skeleton) were sampled 48 h after removal of the
+labelling cylinders. Each fragment was placed individ-
+ually in a plastic vial and transferred to the laboratory.
+The seawater was drained from each vial and 8 ml of
+hydrogen peroxide (30%) were added to digest the tis-
+sues. After complete tissue digestion (24 h), the re-
+maining skeletons were removed and 2 replicates of
+0.5 ml each from each vial were transferred to separate
+vials, each containing 5 ml of Biodegradable Counting
+Scintillation cocktail (BCS, Amersham). The activity of
+14
+   C in the tissues was determined by liquid scintillation
+counter (Packard, Tri-Carb 1500).
+   All colonies in the experiments were photographed
+using a Nikonos-V camera with 28 mm close-up
+attachment, enabling measurement of bleaching per-
+centage (% of bleached surface area) by an image-
+analyzer (Olympus, CUE-3).
+   Intra-colonial translocation in bleached colonies.
+To examine the possible intra-colonial translocation
+of photosynthetic products from unbleached colony
+sections to bleached colony sections, we conducted
+14
+   C-labelling in 4 partly bleached colonies (12 to 15 cm
+in diameter). In each of these colonies, the labelling
+cylinder was attached to the unbleached colony section
+at a distance of 4 to 5 cm from the border line of the
+bleached section (Fig. 2A). Five coral samples (tissue
+and skeleton) were taken from each labelled colony
+48 h after removal of the labelling cylinder (sampling
+sites in Fig. 2A). A 1-way ANOVA with repeated mea-
+sures, followed by an LSD test were used to compare
+14
+   C activity in the sampling site bordering the bleached
+section with that opposite the bleached section.
+   14                                                            Fig. 2. Oculina patagonica. Schematic diagram of 14C la-
+      C translocation during regeneration in un-
+                                                                 belling and sampling sites in (A) partly bleached colonies (n =
+bleached versus bleached colonies. To examine the                4), (B) experimentally injured healthy colonies (n = 4), and (C)
+possible translocation of photosynthetic products in             experimentally injured, partly bleached colonies (n = 9). L: la-
+injured colonies of Oculina patagonica, we conducted             belled area; BB: border line of bleached area located 4 to 5 cm
+14
+   C-labelling on 13 additional colonies (unbleached n =         away from labelled area; OB: sites opposite bleaching border,
+                                                                 also 4 to 5 cm from labelled area; IB: injury border located 4 to
+4, partly bleached n = 9). One tissue lesion (2 cm2) was         5 cm away from labelled area; OI: sites opposite injury border,
+inflicted on the surface of each of these colonies imme-         4 to 5 cm from labelled area; (d) sites from which tissue
+diately after attachment of the labelling cylinders, as               fragments were taken for measurement of 14C activity
+122                                             Mar Ecol Prog Ser 234: 119–125, 2002
+
+
+
+
+Table 1. Oculina patagonica. Percentage lesion recovery over                                 RESULTS
+45 d of 2 cm2 lesions inflicted on the surface of unbleached
+(n = 13), partly bleached (30 to 80%) (n = 11) and totally            Lesion recovery rates in unbleached versus partly
+                 bleached (n = 10) colonies
+                                                                                and totally bleached colonies
+
+ Colony no.        Unbleached        Partly            Totally        Percentage recovery of the 2 cm2 lesions inflicted on
+                                   bleached           bleached
+                                                                    the unbleached Oculina patagonica colonies (n = 13,
+ 1                      91               4               0          Table 1) was significantly higher than percentage
+ 2                     100               0               0          recovery of the lesions inflicted on the partly bleached
+ 3                      85               0               0          colonies (ANOVA after transforming percentage data
+ 4                      64              49               0
+                                                                    by arcsine√p, p < 0.001, df = 1, F = 68.4, n = 11). Only
+ 5                      75              85               0
+ 6                     100               0               0          1 lesion in the partly bleached colonies attained a
+ 7                     100               0               0          recovery of 85%, whereas most lesions in the un-
+ 8                     100              13               0          bleached colonies healed completely over the 45 d
+ 9                     100              13               0          period (Table 1).
+ 10                    100              38               0
+ 11                    100              39                            The bleached colonies (n = 10) showed no recovery
+ 12                     81                                          from the inflicted lesions even after 65 d (Table 1).
+ 13                    100
+ Mean ± SD         92.0 ± 12.0 % 21.9 ± 27.7%           0%
+                                                                        Intra-colonial translocation in partly bleached
+                                                                                            colonies
+follows: in the 4 unbleached colonies the lesions were
+inflicted at a distance of 4 to 5 cm from the 14C labelling           Forty-eight hours after 14C-labelling treatments, the
+site (Fig. 2B), while in the 9 partly bleached colonies             5 cm2 labelled areas in all experimental colonies
+the lesions were inflicted in the bleached section, at a            (L, Tables 2 & 3) displayed high 14C activity compared
+similar distance of 4 to 5 cm from the labelling site               to background 14C activity (i.e. 14C activity in healthy
+(Fig. 2C). Five coral samples were taken from each                  randomly sampled intact Oculina patagonica colonies
+labelled colony 48 h after removal of the labelling                 = 29 ± 6 counts min–1 cm–2, n = 6). Coral tissues taken
+cylinders (sampling sites in Fig. 2B,C). A 1-way                    from the borders of the bleached colony section and
+ANOVA with repeated measures, followed by an LSD                    from the site opposite the bleached section (Sites BB
+test were used to compare 14C activity in the sampling              and OB: Fig. 2, Table 2) located 4 to 5 cm away from
+site bordering the lesion with that opposite the lesion             the labelling area exhibited 14C activity that did not
+in each of the healthy, partly bleached and totally                 differ significantly from that of the intact control tissues
+bleached colonies.                                                  (1-way ANOVA with repeated measures, LSD p > 0.05,
+                                                                    df = 1, F = 0.5).
+
+Table 2. Oculina patagonica. Average 14C activity (counts
+min–1 cm–2 ± SD) in coral tissues in partly bleached colonies          14
+                                                                            C translocation during regeneration in healthy
+(n = 4). Percentage bleaching of each colony is presented in                          versus bleached colonies
+left column. L: coral tissue taken from labelled site; BB: coral
+tissue from border of bleached section, located 4 to 5 cm from
+labelled area; OB: coral tissue from sites opposite the                The 1-way ANOVA with repeated measures showed
+bleached area, 4 to 5 cm from labelled site. Each tissue sam-       no significant difference between sampling Site OI
+ple was divided into 2 replicates for measurement of 14C activ-     (from unbleached colonies and partly bleached
+ity. Average background activity of tissues = 29 ± 6 counts         colonies with > 40% bleaching) and the background
+min–1 cm–2 (intact control colonies, n = 6). Two tissue samples     14
+were taken from the BB and OB areas and divided into                   C activity (p > 0.05, df = 2, F = 61.82). These results
+2 replicates each. Data for L represent range of 14C activity.      indicate that partly bleached colonies (percentage
+Data for BB and OB are for samples with 2 replicates each           bleaching > 40%) of Oculina patagonica do not trans-
+                                                                    fer photosynthetic products from unbleached colony
+ Colony    %                          Sampling site                 sections to lesions in the bleached sections. In con-
+ no.    bleached             L            BB             OB         trast, a significant difference in 14C activity was found
+                                                                    between sampling Site IB (from unbleached colonies
+ 1            55       10 945–11625     24.0 ± 4.7    35.2 ± 4.6
+                                                                    and partly bleached colonies with < 40% bleaching)
+ 2            65        8231–9408       33.0 ± 14.6   25.2 ± 2.5
+ 3            70       12 204–14782     26.5 ± 4.0    21.5 ± 2.0    and the background 14C activity (1-way ANOVA with
+ 4            80        5768–6320       31.5 ± 3.7    24.0 ± 2.6    repeated measures, p < 0.001, df = 2, F = 42.76). The
+                                                                    LSD test revealed that coral tissues taken from the
+                                Fine et al.: Bleaching and resource translocation in corals                                 123
+
+
+
+
+borders of the lesions in the intact healthy colonies           Table 3. Oculina patagonica. Average 14C activity (counts
+(Site IB; Colonies 1 to 4 in Table 3; Sampling site in          min–1 cm–2 ± SD) in coral tissues in unbleached (n = 4) and
+                                                                partly bleached colonies (n = 9). Percentage bleaching of each
+Fig. 2C), exhibited significantly higher 14C activity           colony is presented in left column. L: coral tissue taken from
+than background levels (LSD p < 0.001). These                   labelled site; IB: coral tissue from injury border, located 4 to
+results demonstrate the ability of unbleached O.                5 cm from labelled site; OI: coral tissue from sites opposite
+patagonica colonies to translocate photosynthetic               injury, 4 to 5 cm from labelled site. Further details as in
+                                                                Table 1. Data for L represent range of 14C activity. Data for IB
+products to recuperating injuries. Tissue samples
+                                                                        and OI are for 2 samples with 2 replicates each
+taken from the borders of the lesions inflicted on the
+partly bleached colonies (Site IB; Colonies 9 to 13 in
+                                                                 Colony    %                       Sampling site
+Table 3; Sampling sites in Fig. 2C), exhibited 14C
+                                                                 no.    bleached              L        IB              OI
+activity that did not differ significantly from the back-
+ground levels (LSD p > 0.05). Insignificant 14C activity         1            0       8 615–11 025 201.2 ± 43.6    24.7 ± 5.5
+(compared to background levels) was also recorded                2            0       8 670–8 764 170.2 ± 2.0      22.5 ± 2.0
+for tissue samples taken from opposite the injury (Site          3            0       6 429–6 527 132.5 ± 6.6      27.2 ± 4.2
+                                                                 4            0      28 780–30 674 453.0 ± 13.0    51.0 ± 1.4
+OI; Table 3, p > 0.05; Sampling sites OI in Fig. 2C).            5           15      14 019–14 055 443 ± 18.0      96.5 ± 4.6
+Among the 9 partly bleached colonies, only 4 colonies            6           20      27 856–27 806 263.7 ± 42.3    71.0 ± 5.7
+(Colonies 5 to 8, exhibiting 15 to 35% bleaching)                7           25      11 024–11 089 329.5 ± 62.0    47.0 ± 3.9
+demonstrated oriented translocation of 14C products              8           35      40 757–43 606 308.5 ± 13.9    61.2 ± 23.6
+                                                                 9           40      14 925–15 042 73.2 ± 7.5      49.5 ± 20.6
+to lesions (Table 3).
+                                                                 10          55       4 662–4 936   30.2 ± 5.0     30.0 ± 3.3
+                                                                 11          65      10 785–10 819 21.5 ± 0.5      28.7 ± 6.6
+                                                                 12          70       9 724–10 071 24.0 ± 3.8      27.0 ± 4.2
+                     DISCUSSION                                  13          80      21 346–22 964 21.5 ± 6.1      25.5 ± 4.7
+
+
+   In this study we have shown that (1) Lesion regener-
+ation in unbleached healthy Oculina patagonica                  low energetic state of colonies is caused by the loss of
+colonies is significantly higher than that in partially         symbiotic algae. We assume that this resource defi-
+bleached colonies; totally bleached colonies showed             ciency is the factor also responsible for termination of
+no lesion recovery. (2) Lesion regeneration is coupled          gametogenesis in bleached O. patagonica colonies
+with resource translocation to the recovering lesion            (Fine et al. 2001), as well as for the dramatic re-
+borders. (3) During bleaching, a low integration capac-         duction in colony growth during the 5 mo (June to
+ity of the colony results in lower resource translocation       October) of the bleaching event (Fine unpubl. data).
+capabilities.                                                   Previous studies have reported cessation of growth
+   Although mortality may not be the eventual outcome           (Goreau & Macfarlane 1990) and reproduction (Szmant
+(Hoegh-Guldberg 1999), bleached corals show re-                 & Gassman 1990, Ward 2000, Fine et al. 2001) in
+duced growth (Goreau & Macfarlane 1990), reproduc-              bleached corals. In addition, Meesters & Bak (1993)
+tion (Szmant & Gassman 1990, Ward 2000), calcifica-             demonstrated the negative effect of bleaching on
+tion and repair capabilities (Glynn 1993, Meesters &            regeneration rates of the stony corals Montastrea
+Bak 1993). As zooxanthellae are the principal engine            annularis, Porites astreoides and Meandrina mean-
+of primary production in these organisms, the rate of           drites. They also found that mortality in bleached
+photosynthetic productivity of reef-building corals and         colonies of M. annularis and P. astreoides was higher
+other symbiotic organisms drops dramatically (Hoegh-            than in intact colonies. Although those studies have
+Guldberg 1999).                                                 already suggested that the effect of bleaching on
+   Lesion recovery in corals is an energy-costly pro-           recovery is related to the link between bleaching and
+cess that is fundamental to coral survival (Oren et al.         energy-costly processes (i.e. growth, reproduction
+2001). For most coral species the rapidity of this pro-         and regeneration), the present study shows that this
+cess is highly important, since fast lesion healing pre-        linkage is caused by reduction of colony integration.
+cludes settlement and subsequent overgrowth by                     An important consequence of modularity is reflected
+competing organisms or total disruption of the physio-          in the colony’s ability to continually re-allocate the pri-
+logical integration capacity of the colony (Loya 1976a,         ority of resource transport among its units in response
+Wahle 1983, Brown & Howard 1985, Jokiel & Coles                 to environmental changes and various stresses caused
+1990, Cameron et al. 1991, Rogers 1993, Ward 1995).             by biotic or abiotic factors. The intra-colonial transport
+No lesion recovery of totally bleached Oculina patag-           of organic compounds within hermatypic corals is in
+onica colonies and significantly lower lesion recovery          fact a well-known phenomenon (Muscatine & Porter
+rates by partly bleached colonies compared with un-             1977, Taylor 1977, Muscatine et al. 1981). Pearse &
+bleached colonies (Table 1) indicate that an overall            Muscatine (1971) have already suggested that sym-
+124                                          Mar Ecol Prog Ser 234: 119–125, 2002
+
+
+
+
+biont photosynthates are translocated throughout the                                 LITERATURE CITED
+coral tissue to regions of maximal demand. Oren et al.
+                                                                 Bak RPM, Steward-van Es Y (1980) Regeneration of super-
+(1997, 1998) showed an oriented intra-colonial trans-
+                                                                    ficial damage in the scleractinian corals Agaricia agari-
+port of 14C-labelled materials to regenerating areas in             cites f. purpurea and Porites astreoides. Bull Mar Sci 30:
+the massive stony corals Favia favus, Platygyra lamel-              883–887
+lina and Porites sp. Both studies indicated the im-              Brown BH (1997) Coral bleaching: causes and consequences.
+portance of intra-colonial resource translocation for               In: Lessios HA, MacIntyre IG (eds) Proceedings of the 8th
+                                                                    International Coral Reef Symposium. Smithsonian Tropi-
+achieving fast lesion recovery. The results obtained in             cal Research Institute, Panamá, p 65–74
+the present study confirm that such oriented transloca-          Brown BH, Howard LS (1985) Assessing the effects of ‘stress’
+tion also occurs in injured colonies of the Mediter-                on reef corals. Adv Mar Biol 22:1–63
+ranean coral Oculina patagonica (Table 3). Moreover,             Cameron AM, Endean R, deVantier LM (1991) The effect of
+                                                                    Acanthaster planci predation on populations of two spe-
+we have shown that a bleaching percentage above a
+                                                                    cies of massive corals. Hydrobiologia 216/217:257–262
+threshold of ca. 40% terminates intra-colonial resource          Chornesky EA (1989) Repeated reversals during spatial com-
+translocation in O. patagonica (Table 3). Of the 9 partly           petition between corals. Ecology 70:843–855
+bleached colonies examined by 14C-labelling (Fig. 2C),           Fine M, Zibrowius H, Loya Y (2001) Oculina patagonica: a
+only 4 demonstrated 14C translocation to the site of                non lessepsian scleractinian coral invading the Mediter-
+                                                                    ranean Sea. Mar Biol 138:1195–1203
+injury (Colonies 5 to 8; Table 3). It should be noted that       Gladfelter EH (1982) White-band disease in Acropora pal-
+these particular colonies were 15 to 35% bleached,                  mata: implications for the structure and growth of shallow
+whereas the bleaching percentage of the other col-                  reefs. Bull Mar Sci 32:639–643
+onies ranged from 40 to 80% (Colonies 9 to 13;                   Gleason DF, Wellington GM (1993) Ultraviolet-radiation and
+                                                                    coral bleaching. Nature 365:836–838
+Table 3). This result may indicate the existence of a
+                                                                 Glynn PW (1991) Coral-reef bleaching in the 1980s and pos-
+bleaching threshold, according to which the colony                  sible connections with global warming. Trends Ecol Evol
+regulates its rate of resource allocation. The existence            6:175–179
+of colony thresholds that determine resource allocation          Glynn PW (1993) Coral-reef bleaching — ecological perspec-
+and the onset of intra-colonial translocation of these              tives. Coral Reefs 12:1–17
+                                                                 Goreau TJ, Macfarlane AH (1990) Reduced growth rate of
+resources reflects a basic life-preserving strategy and             Montastrea annularis following the 1987–1988 coral blea-
+constitutes one of the most important advantages of                 ching event. Coral Reefs 8:211–215
+clonal and colonial organisms. Based on the known                Harrison PL, Wallace CC (1990) Reproduction, dispersal and
+importance of resource translocation for lesion regen-              recruitment of scleractinian corals. In: Dubinski Z (ed)
+                                                                    Coral reefs, ecosystems of the world, Vol 25. Elsevier,
+eration, we suggest that the relatively low recovery
+                                                                    Amsterdam, p 133–206
+rates characterizing partly bleached colonies com-               Hoegh-Guldberg O (1999) Climate change coral bleaching
+pared with unbleached ones (Table 1) are due to a                   and the world’s coral reefs. Mar Freshw Res 50:839–866
+controlled ‘blockage’ of the unbleached colony section           Jokiel PL (1980) Solar ultraviolet radiation and coral reef epi-
+from the bleached section. Moreover, impaired move-                 fauna. Science 207:1069–1071
+                                                                 Jokiel PL, Coles SL (1990) Response of Hawaiian and other
+ment of photosynthates and cells within the gastro-                 Indo-Pacific reef corals to elevated temperature. Coral
+vascular cavity cannot be ruled out. It is logical to               Reefs 8:155–162
+assume that the breakdown of resource flow within                Kozlowski J, Wiegert RG (1986) Optimal allocation of energy
+bleached colonies is the key factor responsible for the             to growth and reproduction. Theor Popul Biol 29:16–37
+                                                                 Kramarsky-Winter E, Loya Y (2000) Tissue regeneration in
+negative effects of bleaching on various energy-costly
+                                                                    the coral Fungia granulosa: the effect of extrinsic and
+processes in corals. At the same time, it is possible that          intrinsic factors. Mar Biol 137:867–873
+such detachment between the intact sections of the               Kushmaro A, Loya Y, Fine M, Rosenberg E (1996) Bacterial
+colony and the bleached sections contributes to overall             infection and bleaching. Nature 380:396
+colony survival by preserving the resources within               Kushmaro A, Rosenberg E, Fine M, Loya Y (1998) Effect of
+                                                                    temperature on bleaching of the coral Oculina patagonica
+that section with greatest chances of recovery after the            by Vibrio AK-1. Mar Ecol Prog Ser 171:131–137
+bleaching event.                                                 Lesser MP, Stochaj WR, Tapley DW, Shick JM (1990) bleach-
+   Further examination of intra-colonial integration in             ing in coral-reef anthozoans — effects of irradiance, ultra-
+tropical coral species that undergo bleaching will                  violet radiation, and temperature on the activities of pro-
+                                                                    tective enzymes against active oxygen. Coral Reefs 8:
+contribute additional vital knowledge regarding the
+                                                                    225–232
+ability of corals to survive bleaching events.                   Loya Y (1972) Community structure and species diversity of
+                                                                    hermatypic corals at Eilat, Red Sea. Mar Biol 13:100–123
+                                                                 Loya Y (1976a) Effects of water turbidity and sedimentation
+Acknowledgements. We thank the staff of the Sdot-Yam                on community structure of Puerto Rican corals. Bull Mar
+Marine Laboratory. We are grateful to N. Paz for her editorial      Sci 26:450–466
+assistance. This research was supported by the US-Israel Bi-     Loya Y (1976b) Recolonization of Red Sea corals affected by
+national Science foundation (BSF) and the Raynor Chair for          natural catastrophes and man-made perturbations. Eco-
+Environmental Conservation Research to Y.L.                         logy 57:278–289
+                                     Fine et al.: Bleaching and resource translocation in corals                                  125
+
+
+
+
+Meesters EH, Bak RPM (1993) Effects of coral bleaching on            Szmant A, Gassman NJ (1990) The effect of prolonged
+   tissue regeneration potential and colony survival. Mar               ‘bleaching’ on the tissue biomass and reproduction of the
+   Ecol Prog Ser 96:189–198                                             reef coral Montastrea annularis. Coral Reefs 8:217–224
+Meesters EH, Pauchli W, Bak RPM (1997) Predicting regener-           Taylor DL (1977) Intra-colonial transport of organic com-
+   ation of physical damage on a reef building coral by                 pounds and calcium in some Atlantic reef corals. In: Taylor
+   regeneration capacity and lesion shape. Mar Ecol Prog Ser            DL (ed) Proceedings of the 3rd International Coral Reef
+   146:91–99                                                            Symposium. Rosenstiel School of Marine and Atmospheric
+Muscatine L, Porter JW (1977) Reef corals: naturalistic sym-            Science, University Miami, Miami, p 431–436
+   biosis adapted to nutrient poor environments. BioScience          Vreeland HV, Lasker HR (1989) Selective feeding of the poly-
+   27:454–460                                                           chaete Hermodice carunculata Pallas on Caribbean gor-
+Muscatine L, McCloskey LR, Marian RF (1981) Estimating the              gonians. J Exp Mar Biol Ecol 129:265–277
+   daily contribution of carbon from zooxanthellae to coral          Wahle CM (1983) Regeneration of injuries among Jamaican
+   animal respiration. Limnol Oceanogr 26:601–611                       gorgonians: the role of colony physiology and environ-
+Oren U, Rinkevich B, Loya Y (1997) Oriented intra-colonial              ment. Biol Bull 165:778–790
+   transport of 14C labelled materials during regeneration in        Ward S (1995) The effect of damage on the growth, reproduc-
+   scleractinian corals. Mar Ecol Prog Ser 161:117–121                  tion and storage of lipids in the scleractinian coral Pocillo-
+Oren U, Brickner I, Loya Y (1998) Prudent sessile feeding by            pora damicornis (Linnaeus). J Exp Mar Biol Ecol 187:
+   the corallivore snail Coralliophila violacea on coral energy         193–206
+   sinks. Proc R Soc Lond Ser B Biol Sci 265:2043–2050               Ward S (2000) Changes in coral reproduction following slight
+Oren U, Benayahu Y, Lubinevsky H, Loya Y (2001) Extent of               changes in temperature and bleaching. In: Okamoto M
+   coral colony integration during regeneration. Ecology 82:            (ed) Proc JAMSTEC Int Coral reef Symp, Coral reef biodi-
+   802–813                                                              versity and health as indicators of invironmental change.
+Pearse VB, Muscatine L (1971) Role of symbiotic algae (zoo-             February 2000, Tokyo, Japan, 94-111. Science and Tech-
+   xanthellae) in coral calcification. Biol Bull 141:350–363            nology Agency
+Peters EC (1984) A survey of cellular reactions to environ-          Wilkinson CR (1999) The 1997–1998 mass bleaching event
+   mental stress and disease in Caribbean scleractinian                 around the world. Compilation of Internet reports, global
+   corals. Helgol Meeresunters 37:113–137                               reef monitoring network. Australian Institute of Marine
+Rogers CS (1990) Responses of coral reef and reef organisms             Science, Townsville
+   to sedimentation. Mar Ecol Prog Ser 62:185–202                    Wilkinson CR (2000). The 1997–98 mass coral bleaching and
+Rogers CS (1993) Hurricanes and coral reefs: the inter-                 mortality event: 2 years on. In: Wilkinson CR (ed) Status
+   mediate disturbance hypothesis revisited. Coral Reefs 12:            of coral reefs of the world: 2000. Australian Institute of
+   127–137                                                              Marine Science, Townsville, p 21–35
+Scoffin TP (1993) The geological effects of hurricanes on coral      Witman JD (1988) Effects of predation by the fireworm Her-
+   reefs and the interpretation of storm deposits. Coral Reefs          modice carunculata on milleporid hydrocorals. Bull Mar
+   12:203–221                                                           Sci 42:446–458
+
+Editorial responsibility: Otto Kinne (Editor),                       Submitted: July 19, 2001; Accepted: November 8, 2001
+Oldendorf/Luhe, Germany                                              Proofs received from author(s): May 8, 2002
+

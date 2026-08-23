@@ -1,0 +1,992 @@
+Colony Integration during Regeneration in the Stony Coral Favia favus
+Author(s): U. Oren, Y. Benayahu, H. Lubinevsky and Y. Loya
+Source: Ecology, Vol. 82, No. 3 (Mar., 2001), pp. 802-813
+Published by: Wiley
+Stable URL: http://www.jstor.org/stable/2680199
+Accessed: 25-06-2016 02:53 UTC
+
+
+REFERENCES
+Linked references are available on JSTOR for this article:
+http://www.jstor.org/stable/2680199?seq=1&cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+JSTOR, please contact support@jstor.org.
+
+
+
+
+                     Wiley is collaborating with JSTOR to digitize, preserve and extend access to Ecology
+
+
+
+
+                                       This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                                        All use subject to http://about.jstor.org/terms
+Ecology, 82(3), 2001, pp. 802-813
+? 2001 by the Ecological Society of America
+
+
+
+
+                        COLONY INTEGRATION DURING REGENERATION
+                                     IN THE STONY CORAL FAVIA FAVUS
+
+                                U. OREN,' Y. BENAYAHU,1 H. LUBINEVSKY,1 AND Y. LoYAI,2,3
+
+        'Department of Zoology, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv 69978, Israel
+                                    2Porter Super-Center for Ecological and Environmental Studies,
+                                              Tel Aviv University, Tel Aviv 69978, Israel
+
+
+
+                  Abstract. Modular organisms consist of repeated building blocks. An important con-
+              sequence of modularity may be reflected in the ability of a colony to continually reallocate
+              priority of resource transport among its units in response to stress. Hermatypic corals, the
+              main organisms constructing tropical reefs, are prone to damage by a multitude of agents.
+              Since colonization of lesions by competitors is a potent threat to colonial organisms, fast
+              recovery is an important component of colony survival. Previous regeneration studies have
+              claimed that the energy requirements of this essential process are fueled only by the polyps
+              directly bordering the injured area. This "localized regeneration hypothesis" rejects the
+              necessity for wide colony integration during regeneration and sees no advantage to large
+              colony size. The objective of the present study was to test an alternative regeneration
+              hypothesis that argues, in contrast, that injury repair (i.e., closure of lesions by newly
+              formed tissues) in corals may require extended colony integration (i.e., internal translocation
+              of resources from sites of acquisition to sites of maximal demand). To test our hypothesis
+              we examined: (1) the relationship between colony size and percentage recovery of lesions
+              differing in size and shape; and (2) the effect of different sized lesions on the fecundity
+              of polyps located at increasing distances from the lesion site. Both experiments were
+              conducted on the common, spherically shaped coral Favia favus in the Red Sea near Eilat,
+              Israel. The relatively small lesions (<1 cm2) were the only ones to support the localized
+              regeneration hypothesis, since their recovery was unaffected by colony size. However; the
+              two larger lesion types (approximate sizes of 2 cm2 and 3 cm2) confirmed the importance
+              of large colony size for achieving fast recovery. In the second experiment we found that
+              small lesions, repeated monthly, caused only a localized reduction in fecundity, while larger
+              monthly repeated lesions caused significant reductions in fecundity up to a distance of 15
+              cm away from their site. Both experiments indicate that regeneration from injury may
+              require an extended magnitude of energy integration throughout the colony, and that the
+              extent of this integration is regulated by the colony in accordance with lesion characteristics.
+              It is also concluded that in long-lived organisms such as corals, there is a priority of energy
+              allocation to recovery rather than to reproduction. Our findings reveal the existence of
+              injury thresholds within a colony that determine energy allocation and intra-colonial trans-
+              location of energy products toward regions of maximal demand. We suggest that such injury
+              thresholds may characterize many other coral species and that colony integration during
+              stress is a basic life-preserving ability and one of the most important advantages of clonal
+              and colonial organisms.
+                 Key words. artificial lesions; clonal organisms; colony integration; coral regeneration; energy
+             allocation; Favia favus; fecundity; Israel; Red Sea.
+
+
+
+                         INTRODUCTION                                  tion, survive, and reproduce sexually, alone or in small
+                                                                       groups, if separated from each other by injury or fission
+   Modular organisms consist of repeated building
+                                                                       (Jackson 1979, Hughes and Jackson 1980, Hughes et
+blocks (modules, ramets, polyps, zooids), that are asex-
+                                                                       al. 1992).
+ually derived by vegetative growth (Harper 1977,
+                                                                         Hermatypic corals, the main organisms constructing
+Hughes 1989, Hughes et al. 1992). A fundamental char-
+                                                                       tropical reefs, suffer damage from a multitude of
+acteristic of modular repeated units (polyps of corals
+                                                                       agents, such as storms (Scoffin 1993), sedimentation
+and hydrozoans, zooids of bryozoans, and colonial as-
+                                                                       (Loya 1976a, Rogers 1990), temperature fluctuations
+cidians), and one that distinguishes them from modules
+                                                                       (Jokiel and Coles 1990), emersion at low tide (Loya
+at lower levels of organization, is their ability to func-
+                                                                       1972, 1976b), predation (Cameron et al. 1991), dis-
+                                                                       eases (Gladfelter 1982, Peters 1984, Brown 1997),
+   Manuscript received 31 July 1998; revised 4 November 1999;
+                                                                       bleaching (Glynn 1993), competitive interactions
+accepted 3 January 2000; final version received 9 March 2000.
+   3 Address correspondence to this author.                            (Chornesky 1989), and humans (Brown and Howard
+E-mail: yosiloya@post.tau.ac.il                                        1985). Because of their modular organization, corals,
+
+                                                                 802
+
+
+
+                             This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                              All use subject to http://about.jstor.org/terms
+March 2001 CORAL INTEGRATION DURING REGENERATION 803
+
+
+like many plants, may sustain partial mortality (Hughes        smaller lesions, probably due to the larger colony area
+and Jackson 1985). Natural lesions in stony corals are         associated with their recovery (Oren et al. 1997a). We
+frequent and appear in a broad range of shapes and             tested this hypothesis by examining intra-colonial
+sizes (Loya 1972, Bythell et al. 1993, Genin et al.            translocation of 14C-labeled products in experimentally
+1995). Since colonization of lesions by competitors            injured colonies of three Red Sea scleractinians, F.
+(mainly algae and excavating sponges) is a potent              favus, Platygyra lamellina (Oren et al. 1997b), and
+threat, recovery from such disturbances is an important        Porites sp. (Oren et al. 1998). These studies indicated
+component of colony survival (Loya 1976c, Palumbi              that injuries may induce significant translocation of
+and Jackson 1982, Brown and Howard 1985, Jokiel                photosynthetic products from polyps located up to a
+and Coles 1990, Cameron et al. 1991, Rogers 1993,              distance of 10 cm. Moreover, these studies were the
+Meesters et al. 1994, Van Veghel and Bak 1994, Ward            first to show that the extent of this integration is reg-
+1995).                                                         ulated by the size and shape of the injury.
+  Convergence of form and function has accompanied                Because the energy available to an organism is often
+the evolution of modular growth in terrestrial plants          limited, and must be allocated among competing bio-
+and colonial aquatic invertebrates (Dyrynda 1986). Part        logical functions, such as maintenance, somatic
+of this convergence is related to exploitation of re-          growth, and reproduction (Kozlowski and Wiegert
+sources (space and light), and the ability to translocate      1986), energy trade-offs between regeneration and re-
+energy from sources to sinks (Ryland and Warner                production may also reflect the degree of colony in-
+1986). In modular organisms such as plants, studies on         tegration. This pattern has been examined in many cor-
+resource allocation and carbon budgets have revealed           al species including: Stylophora pistillate (Loya 1976c,
+the importance of an internal balance of carbon use in         d, 1985, Rinkevich and Loya 1989), Acropora cervi-
+determining rates of translocation (Lang and Thorpe            cornis, A. palmata, Diploria clivosa, D. strigosa, Favia
+1983, Bloom et al. 1985, Chapman et al. 1990, Marshall         fragum, Montastrea cavernosa, Porites astreoides, P.
+1990). Furthermore, clonal plants can redistribute re-         furcata, Siderastrea radians, S. siderea (Soong and
+sources internally from sites of acquisition to sites          Lang 1992), Montastrea annularis (Van Veghel and
+where such resources are scarce (Hester et al. 1994,           Bak 1994), Pocillopora damicornis (Ward 1995), Ac-
+Kemball and Marshall 1995, Hutchings and Wijesinghe            ropora hyacinthus, A. gemmifera, and Goniastrea re-
+1997). In colonial invertebrates, zooidal responses to         tiformis (Hall 1997). These studies suggest that the
+localized stress, caused by grazing, are highly variable,      negative effect exerted by one process on the other
+and are modified at times in very localized regions of         results from the energy link between the two; however,
+a colony by both intrinsic and extrinsic stimuli (Hughes       the extent of the association is as yet unknown.
+and Cancino 1985, Harvell and Grosberg 1988, Harvell              In this study we examine a new regeneration hy-
+1991). For example, localized injury of the growing            pothesis, which suggests that the process of lesion re-
+edge in a marine bryozoan induces energy transport             generation in colonial corals may require different
+(i.e., carbon) toward the damage (Palumbi and Jackson          magnitudes of colony integration (i.e., internal trans-
+1983, Best and Thorpe 1985, Harvell and Padilla 1990,          location of resources from sites of acquisition to sites
+Harvell 1991, 1992, Harvell and Helling 1993). In hy-          of maximal demand). To test this hypothesis, we de-
+drozoan colonies, injuries accelerate the onset of re-         signed two experiments. (1) We tested the relationship
+production due to elevated CO2 concentrations in the           between colony size and regeneration of tissue lesions
+injury site (Braverman 1974).                                  differing in size and shape. If the resources necessary
+  In this paper we experimentally characterize the             for the repair of damaged polyps come only from pol-
+scale of dynamics of colony integration during injury          yps adjacent to the lesion, then no relationship is ex-
+repair in the coral Favia favus. One hypothesis re-            pected between colony size and percentage recovery
+garding regeneration in colonial corals argues that the        of lesions differing in size and shape (i.e., the localized
+resources required for this process are derived only           regeneration hypothesis). If, however, a significant pos-
+from those polyps directly bordering the lesion area           itive relationship is found between these variables, then
+(Bak et al. 1977, Bak and Steward-Van Es 1980, Bak             the alternative hypothesis is more likely (i.e., that in-
+1983, Meesters et al. 1994, 1997a). In other words,            jury repair in corals requires extended coral integra-
+regeneration (i.e., closure of a lesion by newly formed        tion). Furthermore, larger corals are expected to heal
+tissues) requires minor integration of only a restricted       faster than smaller corals, when they suffer similar
+and localized portion of the colony, since "a minimal          damage. (2) We examined the extent of the energetic
+area would be needed for optimum regeneration" (Bak            link between injury regeneration and sexual reproduc-
+and Steward-Van Es 1980). Meesters et al. (1994) fur-          tion. If an increasing magnitude of trade-off is found
+ther claimed that successful regeneration depends on           between reproduction and regeneration (i.e., "priori-
+the amount of tissue bordering a lesion and not on             tizing" energy allocation to injury recovery rather than
+colony size. In contrast, we recently suggested that           to gonad production) in colonies with increasing lesion
+lesions with a relatively long perimeter receive a higher      sizes, it will indicate that an extended magnitude of
+energetic allocation from the colony compared with             energy integration throughout the colony is required
+
+
+
+
+                        This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                         All use subject to http://about.jstor.org/terms
+ 804        U.      OREN               ET       AL.           Ecology,                                    Vol.    82,   No.   3
+
+
+
+                                                                                         ,.' ~~~~~~~~~~~~~O'!.-
+
+
+
+
+                                                                            I'~~~~~~~A
+
+
+
+
+                              ,,dti~~~gql                t[-:;PE~~~~~tr,,
+                                 01f
+
+
+
+
+      FIG. ~ 15 1. Rersnttv ....ie .fFvaDvsfo aho h orsz lse xmndi h td:()sal
+
+
+
+
+  FIG. 1. Representative colonies of Favia favus from each of the four size classes examined in the study: (a) small, (b)
+intermediate, (c) large, and (d) very large. Length of ruler = 30 cm; distances between the black lines marked on the ruler
+= 10 cm.
+
+
+
+during the healing process. The different lesion sizes          of each colony with a computerized image analyzer
+inflicted on the surface of F. favus colonies, in both          (Olympus CUE-3; Data Translation, Incorporated, 100
+experiments, were designed to induce an increasing              Locke Drive, Marlboro, Massachusetts USA), 72
+scale of injury stress, and reveal possible increasing          healthy intact colonies (ranging in size from 6 to 24
+magnitudes of intra-colonial energy integration.                cm in diameter) were selected and divided into three
+                                                                size classes, each comprising 24 similar-sized colonies:
+                        METHODS
+                                                                small (surface area = 71 ? 20 cm2, Fig. la), inter-
+  Spherical colonies of Faviafavus are common in the            mediate (431 + 176 cm2, Fig. lb), and large (1204 ?
+shallow reef (0.5-4 m) in front of the Marine Biology           313 cm2, Fig. Ic).
+Laboratory (MBL) in the Red Sea at Eilat, Israel. Al-             The relationship between the surface area of the col-
+though most F. favus colonies in this region are healthy        ony and its ability to regenerate was tested for three
+and uninjured, they are occasionally subject to surface
+                                                                different types of tissue lesion: (1) single polyp lesions
+injuries (i.e., partial mortality) resulting from predation
+                                                                (SP, Fig. 2a); (2) elongated lesions of two neighboring
+by parrot fish (Torovezky 1997) and gastropods (Gur
+                                                                polyps (E-2, Fig. 2b); and (3) elongated lesions of three
+and Loya 1996) as well as from southern storms (Y.
+                                                                neighboring polyps in a row (E-3, Fig. 2c). We inflicted
+Loya, personal observations). Such injuries may range
+                                                                one lesion type (either SP, E-2, or E-3) on the upper
+from <1 cm2 (i.e., a single polyp) up to 100 cm2. Small
+                                                                surface of each colony using an air-pick jet (i.e., an air
+injuries are characterized by a circular shape, while the
+                                                                tube connected to the scuba regulator, which removes
+larger ones vary in shape and size from a rounded
+                                                                soft tissue causing only minor damage to the underlying
+patchy appearance to elongated and narrow.
+                                                                skeleton). Within each size class, SP lesions were in-
+            Lesion recovery vs. colony size                     flicted on eight colonies, eight with E-2 and eight with
+
+  Uninjured colonies of F. favus in the shallow reef            E-3 lesions. The average projected area (square mil-
+(2-3 m) of the Marine Biology Laboratory in Eilat were          limeters ? SD) and perimeter length (millimeters ? SD)
+tagged and photographed during November 1994, using             of these lesion types are presented in Table 1. The E-
+a Nikonos-V camera (Nikon Corporation, Tokyo, Ja-               3 lesions were additionally inflicted on another size
+pan) with 20-mm lens. After measuring the surface area          class of six very large colonies (surface area = 1569
+
+
+
+                        This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                         All use subject to http://about.jstor.org/terms
+March 2001 CORAL INTEGRATION DURING REGENERATION 805
+
+
+
+
+  FIG. 2. Photographs (70% actual size) of the lesion types (a) single polyp lesion (SP), (b) elongated lesion of two
+neighboring polyps in a row (E-2), (c) elongated lesion of three neighboring polyps in a row (E-3), and (d) elongated lesion
+of 10 neighboring polyps in a row (E-10).
+
+
+
+
+? 228 cm2, Fig. Id) that were significantly larger than          recorded in F. favus (Oren et al. 1997a). We therefore
+the large size class colonies (P < 0.01, t test).                focused on the relationship between colony size and
+  Recovery of all lesion types (i.e., percentage reduc-          lesion recovery during the first month of regeneration
+tion of the projected lesion area) was monitored month-          (i.e., rapid regeneration phase). The effects of both le-
+ly from early December 1994 to February 1995 by                  sion type (SP, E-2, or E-3) and colony size (small,
+calibrated underwater photography (Nikonos-V with an             intermediate, or large) on percentage recovery of the
+80-mm lens and close-up outfit). The first series of             various lesions were tested by two-way ANOVA.
+photographs was taken immediately after lesions were
+inflicted (early December 1994), and then at three con-                          Polyp fecundity vs. injury
+secutive monthly intervals. The percentage recovery of
+                                                                    F. favus is a broadcast spawner in which reproduc-
+each lesion type, in the course of the monthly intervals,
+                                                                 tion begins at four years when colony diameter is -3.5
+was analyzed from the photographs by image analyzer
+                                                                 cm (Shlesinger 1985). Oogenesis in mature F. favus
+and then transformed into arcsine square root of p for
+                                                                 colonies starts in January and spawning takes place
+further statistical analysis. Recovery of the various le-
+                                                                 during June (Shlesinger 1985). The effects of injury
+sions as a function of time (first, second, and third
+                                                                 on reproduction in F. favus colonies were characterized
+month) was tested by ANOVA with repeated measures.
+                                                                 in terms of polyp fecundity (number of oocytes per
+  A decreased rate of regeneration (i.e., closure of the
+                                                                 polyp septum) and oocyte diameter. We tested the effect
+lesion by newly formed tissues) over time is a well
+                                                                 of three different lesion types (either SP, E-3, or E-10)
+known phenomenon in coral regeneration (Bak et al.
+                                                                 on fecundity of 40 colonies, each -40 cm in diameter,
+1977, Bak and Steward-van Es 1980, Bak 1983, Mees-
+                                                                 as follows: 16 colonies were inflicted with one SP le-
+ters et al. 1992, 1997a, Van Woesik 1998), also recently
+                                                                 sion (Fig. 2a); 8 colonies with one E-3 lesion (Fig. 2c);
+                                                                 and 16 colonies with one E-10 lesion (Fig. 2d). This
+TABLE 1. Average dimensions (? 1 SD) of the experimen-           experiment was initiated in February 1996, during the
+  tally inflicted lesions (see Fig 2 for description of lesion
+                                                                 initial stages of F. favus oogenesis. It was expected
+  type).
+                                                                 that during the initial stages of oogenesis an increasing
+
+                Projected surface
+                                                                 demand for resources would be required by the colony;
+Lesion type area (mm2) Perimeter (mm)                            hence, a trade-off between reproduction and regener-
+
+     SP 87 ? 14 35 ? 5
+                                                                 ation would be most apparent. All lesions were inflicted
+     E-2 182 ? 16 59 ? 8                                         on the upper central part of the spherical colonies. Dur-
+     E-3 274 ? 35 83 ? 8                                         ing this experiment, we injured the colonies in two
+     E-10 958 ? 93 282 ? 23
+                                                                 ways: (1) one-time lesions, SP and E-10 (each n = 8)
+
+
+
+
+                         This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                          All use subject to http://about.jstor.org/terms
+ 806          U.     OREN                ET        AL.         Ecology,                    Vol.        82,        No.    3
+
+
+                TABLE 2. Average percentage (+ 1 SD) lesion recovery during three consecutive monthly
+                  intervals (see Fig. 2 for description of lesion type).
+
+
+                                                                           Recovery rates (%)
+
+                 Colony size Lesion type 0-30 d 31-60 d 61-90 d
+
+                 Small         SP      48.3 ? 7.3 19.8 ? 5.6 3.7 ? 3.2
+                                       E-2 20.6 ? 4.0 2.70 ? 2.5 0.4 ? 2.3
+                                       E-3 17.3 ? 4.2 -0.1 ? 2.3 -1.1 ? 1.9
+                Intermediate SP 50.6 ? 7.0 17.1 ? 3.7 2.9 ? 2.2
+                           E-2 34.3 ? 5.4 17.6 ? 6.0 4.1 ? 2.8
+                           E-3 27.2 ? 3.9 9.50 ? 3.8 1.4 ? 2.7
+                 Large          SP     52.0 ? 7.8 24.3 ? 4.1 4.2 ? 3.0
+                                       E-2 32.5 ? 5.6 7.80 ? 3.0 1.2 ? 2.6
+                                        E-3 37.8 ? 5.0 11.3 ? 3.4 1.2 ? 3.0
+
+
+
+
+that were allowed to heal without any further interfer-            had already begun to exhibit lower recovery rates,
+ence until June 1996 (i.e., 5 mo between injury and                while in the larger size groups they continued to heal
+polyp sampling); and (2) monthly repeated lesions, SP,             (Table 2). During the third month, recovery from all
+E-3, and E-10 (each n = 8) that were also inflicted in             lesion types was negligible (Table 2).
+February 1996 and thereafter re-inflicted monthly (i.e.,              The percentage recovery of the experimental colo-
+the newly formed tissues surrounding each lesion were              nies during the first month after injury is presented in
+removed every month) throughout oogenesis. For con-                Fig. 3 a-c. Lesion recovery was significantly affected
+trols, we tagged another group of 10 intact colonies of            by colony size and lesion type (for each factor P =
+the same size. These colonies were used to determine               0.0001, two-way ANOVA, Table 3). However, there
+the fecundity of intact colonies of F. favus.                      was a significant interaction between the main effects
+  In June 1996, (approximately two weeks before                    (P = 0.019, Table 3).
+spawning), we sampled three pairs of polyps from each                 An a posteriori analysis shows that lesion recovery
+of the experimentally injured colonies, using a round              in the large-colony class and in the intermediate-colony
+stainless-steel corer with a cross section of 1 cm2. Polyp         class was significantly higher than in the small-colony
+samples were taken from opposite sides of the different            class (Student-Newman-Keuls test [SNK], P < 0.05).
+lesions, at distances of 1, 7, and 15 cm from the center           However, there was no significant difference between
+of the lesion. In the colonies bearing the E-3 and E-10            the intermediate- and large-colony classes (SNK, P >
+lesions, these samples were taken from the two opposite            0.05). In addition, there were significant differences
+sides perpendicular to the elongated axis of the lesion.           between the SP and the E-2 lesions (SNK, P < 0.05),
+In addition, three pairs of polyps were similarly sam-             and between the SP and E-3 lesions (SNK, P < 0.05).
+pled from each of the 10 intact control colonies, at               The recovery rates of the SP lesions do not appear to
+equal sampling distances (1, 7, and 15 cm) away from               be affected by colony size (Fig. 3a). The larger E-2
+the central polyp of each colony. In the laboratory, the           lesions healed more slowly among small colonies com-
+polyps were decalcified and five septa within each pol-            pared to both intermediate and large colonies (Fig. 3b),
+yp were examined under a binocular microscope to                   accounting for part of the significant interaction be-
+determine their reproductive state. Because mature oo-             tween lesion type and colony size (P < 0.019, Table
+cytes of F. favus are large (380 pm, Shlesinger 1985),             3). In contrast to the E-2 lesions, recovery rates of the
+this enabled direct measurement and total count of the             E-3 lesions varied significantly (SNK, P < 0.05) in
+oocytes. The effects of both lesion type (SP, E-3, and             each of the colony size classes (Fig. 3c). Recovery rates
+E- 10) and sampling distances (1, 7, and 15 cm) on                 for E-3 lesions were highest in the large colonies (37.8
+polyp fecundity were tested by two-way ANOVA. It                   ? 5%, n = 8, Fig. 3c) and lowest among the small
+should be noted that no samples were taken from mar-               colonies (17.3 ? 4.2%, n = 8, Fig. 3c). This difference
+ginal polyps located at the growing edges of F. favus,             also contributes to the significant interaction between
+where fecundity often declines (Hughes and Jackson                 lesion type and colony size. When we inflicted E-3
+1985, Chornesky and Peters 1987, Harrison and Wal-                 lesions on six very large F. favus colonies (Fig. Id),
+lace 1990).                                                        the average percentage recovery did not differ signif-
+                                                                   icantly after 1 mo from the average recovery recorded
+                          RESULTS
+                                                                   in the large colonies (t test, P > 0.05, Fig. 3c).
+              Lesion recovery vs. colony size
+                                                                                     Polyp fecundity vs. injury
+  All lesions exhibited their highest percentage recov-
+ery during the first month after injury (P < 0.001,                  The mean diameter of the oocytes in the intact F.
+repeated-measures ANOVA). During the second                       favus colonies was 400 ? 25 pm (mean + 1 SD, n =
+month, the E-2 and E-3 lesions in the small colonies               10). Neither lesion type, nor sampling location affected
+
+
+
+
+                         This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                          All use subject to http://about.jstor.org/terms
+ March 2001 CORAL INTEGRATION DURING REGENERATION 807
+
+
+         80 a) SP lesions                                            TABLE 3. Two-way analysis of varience examining the ef-
+                                                                       fect of Favia favas colony size and lesion type on per-
+         70
+                                                                       centage recovery of the lesions (for details see Fig. 3).
+         60 -
+
+         50                                                                                       Sum of Mean
+                                                                                       Source df squares square F P
+         40
+                                                                     Colony size (A) 2 877.1 438.5 15.2 0.0001
+         30
+                                                                     Lesion type (B) 2 3281.4 1640.7 56.8 0.0001
+         20-                                                         Interaction (AB) 4 364.7 91.1 3.2 0.019
+                                                                     Error 72 2079.7 28.9
+         10
+
+          0
+                small intermediate large
+                                                                     0.05, two-way ANOVA). That is, the average number
+         80
+         70 - b) E-2 lesions                                         of oocytes per septum recorded in polyps sampled at
+    70 -                                                             distances of 1, 7, and 15 cm from the SP lesions (14.5
+ 60-                                                                 ? 1.5, 13.6 ? 1.8 and 14.3 ? 2.4 oocytes/septum,
+ , 50-                                                               respectively) and E-10 lesions (13.3 ? 1.3, 14.5 ? 2.3
+                                                                     and 14.1 ? 1.5 oocytes/septum, respectively) did not
+    40
+                                                                     differ significantly from the fecundity values of the
+    30
+0                                                                    intact control colonies (P > 0.05, two-way ANOVA).
+ 20
+                                                                           Polyp fecundity in colonies with monthly repeated
+         10
+                                                                                                         injury
+                small intermediate large                                   In contrast to the nonsignificant reduction in fecun-
+         80                                                          dity in colonies with one-time lesions (Fig. 4), monthly
+
+         70 c) E-3 lesions                                           repetition of lesions (SP, E-3, and E-10, each n = 8)
+
+         60
+
+         50
+                                                                                     20   .   *    Control           (n=      10)
+         40                                                                              a) SP lesion U SP lesion (n = 8)
+         30                                                                     15
+         20
+
+         10
+                                                                                E 10
+          0
+                small intermediate large very large
+                               Colony size                           CI-
+                                                                           0~
+    FIG. 3. Average percentage recovery rates recorded for
+the small, intermediate, and large Faviafavus colonies during                                     1        7        15
+the first month after injury: (a) colonies inflicted with SP
+lesions (n = 8), (b) colonies inflicted with E-2 lesions (n =
+                                                                      0 20 Control (n =10)
+8), and (c) colonies inflicted with E-3 lesions (n = 8). Error
+                                                                     4-- b) E-lIO lesion E-l0O lesion (n =8)
+bars represent the upper range of the 95% confidence interval
+                                                                      f 15
+for the mean deduced from the calculated percentage data
+(arcsine square-root p transformation for percentage data).
+                                                                      I 10 -
+
+the diameters of the oocytes (two-way ANOVA, P >                                 5
+0.05). The mean fecundity of polyps in intact control
+colonies was 14.2 ? 2 oocytes/septum (mean ? 1 SD)
+                                                                                 0
+and the mean fecundity of these colonies did not vary                                             1        7       15
+with respect to distance (1, 7, and 15 cm) from the                                               Distance from lesion (cm)
+colony center (14.1 ? 1.8, 14.4 + 1.9 and 14.4 ? 2.3
+oocytes/septum, respectively, one-way ANOVA, P >                           FIG. 4. Gray bars depict fecundity in terms of average
+                                                                     oocytes per septum (+1 SD) recorded in Favia favus polyps
+0.05).
+                                                                     sampled at distances of 1, 7, and 15 cm away from: (a) one-
+                                                                     time SP lesions (n = 8), and (b) one-time E-10 lesions (n =
+    Polyp fecundity in colonies with one-time lesions
+                                                                     8). Black bars represent the fecundity of polyps sampled from
+    The SP and E-10 lesions (each n = 8) inflicted in                intact control colonies (n = 10), at distances of 1, 7, and 15
+                                                                     cm away from the colony center. The lesions were inflicted
+February 1996 and allowed to heal without any further
+                                                                     on the upper surface of the colonies in February 1996 (initial
+interference until June 1996 (Fig. 4) did not affect pol-            oogenesis phase). Polyps for fecundity examination were
+yp fecundity at any of the sampling distances (P >                   sampled in June 1996.
+
+
+
+
+                             This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                              All use subject to http://about.jstor.org/terms
+ 808         U.       OREN               ET        AL.            Ecology,                     Vol.        82,       No.            3
+
+
+TABLE 4. Two-way analysis of variance examining the ef-            ments that focused mainly on healing of small, circular
+  fect of lesion type and the distance from the lesion on polyp
+                                                                   lesions of -1 cm2 (Wahle 1983, Lester and Bak 1985,
+  fecundity of Favia favus (for details see Fig. 5).
+                                                                   Meesters et al. 1992, Meesters and Bak 1993, Meesters
+               Sum of Mean                                         et al. 1994, Van Veghel and Bak 1994). The results of
+     Source df squares square F P                                  our study show that small lesions do not elicit the full
+Lesion type (A) 2 1050.5 525.3 168.1 0.0001                        regenerative potential of F. favus colonies, since the
+Distance from                                                      lesions require a minor energy investment for their re-
+   lesion (B) 2 901.5 450.8 144.2 0.0001
+                                                                   covery. The relatively small SP lesions examined in
+Interaction (AB) 4 446.8 111.7 35.7 0.0001
+ Error 63 196.8 3.1                                                our study (-1 cm2) were the only ones to support the
+                                                                   localized regeneration hypothesis, since their recovery
+                                                                   was unaffected by colony size (Fig. 3a). However, the
+                                                                   larger E-2 and E-3 lesions confirmed the significance
+significantly reduced fecundity. Both lesion type and
+the distance from the lesion reduced fecundity, and
+there was a highly significant interaction between these                                                       * Control (n = 10)
+                                                                                  20 a) SP lesion U SP lesion (n = 8)
+main effects (Table 4).
+  Multiple comparisons tests indicate that each of the
+                                                                                 15
+repeated lesion treatments (SP, E-3, and E-10) differed
+significantly in their effect on fecundity (SNK, P <
+                                                                                 10
+0.05). We also found that each sampling distance (1,
+7, and 15 cm from the lesion) differed significantly in
+                                                                                  5-
+its effect on fecundity (SNK, P < 0.05). The SP lesions
+reduced the fecundity of polyps located 1 cm away
+                                                                             .
+
+
+
+
+                                                                                  0
+from them (3.1 + 1.9 oocytes/septum, Fig. Sa); how-
+                                                                                              1      7       1        5
+ever, this lesion did not reduce the fecundity of polyps
+located at 7 and 15 cm (14.5 + 2.3 and 14.1 ? 2.4                      ,..
+                                                                                      1 20 U Control (n = 10)
+                                                                       a)         ~. b) E-3 lesion U E-3 lesion (n =8)
+oocytes/septum, respectively, Fig. 5a). In contrast to
+                                                                             .
+
+the SP lesions, the repeated E-3 lesions reduced fe-               a) 15-
+cundity up to 7 cm (1 cm = 1 ? 1 oocytes/septum, 7
+cm = 7.9 ? 2 oocytes/septum, Fig. Sb) without af-                                       Z1          7         15
+fecting the fecundity of polyps located at 15 cm (14 +             0
+                                                                   0
+2 oocytes/septum, Fig. Sb). This difference between
+the SP and E-3 lesions may explain part of the inter-
+action between lesion type and distance from lesion (P
+< 0.0001, Table 4). An additional part of this inter-                             _0
+
+
+action may be explained by the marked fecundity re-
+ductions caused by the E-10 lesions only (1 cm = 0.9
+                                                                                  20 * Control (n = 10)
++ 1.1 oocytes/septum, 7 cm = 1.6 + 1.2 oocytes/sep-                                     c) E-lO lesion * E-l10esion(n=8)
+tum, and 15 cm = 1.75 ? 1.2 oocytes/septum, Fig. Sc).
+                                                                                 15
+                         DIscusSION
+
+             Lesion recovery vs. colony size                                     10 -
+
+
+   The ability to regenerate is essential for coral sur-
+                                                                                  5-
+vival. Rapid regeneration precludes settlement and sub-
+sequent overgrowth by competing organisms or total
+                                                                                  0
+disruption of the physiological integrity of the colony
+                                                                                              1        7       15
+(Loya 1976c, Wahle 1983, Brown and Howard 1985,
+                                                                                              Distance from lesion (cm)
+Jokiel and Coles 1990, Cameron et al. 1991, Rogers
+1993, Ward 1995). Previous studies of coral regener-                  FIG. 5. Gray bars depict fecundity in terms of average
+ation indicated that lesion recovery is a localized pro-           oocytes per septum (?- SD) recorded in Faviafavus polyps
+                                                                   sampled at distances of 1, 7, and 15 cm away from: (a) month-
+cess, fueled energetically only by the polyps directly
+                                                                   ly repeated SP lesions (n = 8), (b) monthly repeated E-3
+bordering the injured area (Bak et al. 1977, Bak and               lesions (n = 8), and (c) monthly repeated E-10 lesions (n =
+Steward-Van Es 1980, Bak 1983, Wahle 1983, Meesters                8). The lesions were inflicted on the upper surface of the
+et al. 1994, 1997a). This localized regeneration hy-               colonies in February 1996 (initial oogenesis phase) and then
+pothesis assumes that colony-wide integration is not               re-inflicted monthly throughout the entire oogenesis phase.
+                                                                   Black bars present the fecundity of polyps sampled from in-
+necessary for lesion healing, and assumes no interac-              tact control colonies (n = 10), at distances of 1, 7, and 15
+tion between colony size and rate of healing. The lo-              cm away from the colony center. Polyps for fecundity as-
+calized regeneration hypothesis is based on experi-                sessment were sampled in June 1996.
+
+
+
+
+                          This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                           All use subject to http://about.jstor.org/terms
+March 2001 CORAL INTEGRATION DURING REGENERATION 809
+
+
+of colony size in recovery (Fig. 3b, c). This suggests          may be an effective means of maximizing nutrient in-
+that regeneration of major injuries depends upon col-           take per unit biomass of the genotype, in the absence
+ony integration, and indicates that lesion characteristics      of other selective forces acting on colony size. In our
+(i.e., size and shape) regulate the extent of this inte-        study, the significantly higher recovery rates attained
+gration.                                                        by the large F. favus colonies compared to the smaller
+  The various recovery rates exhibited by the different         ones, reveal an additional benefit of being large.
+lesion types indicate that F. favus colonies distinguish
+                                                                                Polyp fecundity vs. injury
+between different injuries and respond in accordance
+with the magnitude of the injured area. Such an ability           Partial mortality occurs naturally in many modular
+was previously demonstrated in other colonial inver-            organisms (Hughes and Jackson 1985, Bythell et al.
+tebrates, such as bryozoans (Palumbi and Jackson                1993, Meesters et al. 1997b). It has been suggested for
+1983, Harvell 1991), compound ascidians (Mackie and             a variety of solitary and colonial taxa that regeneration
+Singla 1983), sponges (Ayling 1981), and clonal plants          and sexual reproduction compete for the available en-
+suffering from localized injury or stress (Shea and Wat-        ergy resources (Kojis and Quinn 1985, Szmant-Froelich
+son 1989, Jackson et al. 1990, Evans 1991, Landa et             1985, Chapman et al. 1990, Harrison and Wallace 1990,
+al. 1992, Hutchings and Wijesinghe 1997). Harvell and          Babcock 1991, Hall and Hughes 1996, Rinkevich 1996).
+Helling (1993) suggested that the mechanisms under-            The negative effect of injury on reproduction has already
+lying the extent of resource translocation in bryozoans        been demonstrated in many clonal organisms (bivalves,
+and other colonial invertebrates are based on a change         Trevaillion et al. 1970; ectoprocts and sponges, Jackson
+in the strength of the carbon sink. In clonal plants, the       and Palumbi 1979; zoanthids, Karlson 1983) including
+level of carbohydrate translocation has been suggested         corals (Rinkevich and Loya 1989, Van Veghel and Bak
+to serve a number of potential functions such as storage        1994, Ward 1995, Hall 1997). However, in contrast to
+and maintenance of old roots and reserve meristems             previous studies in corals, which concluded that injury
+(Ho 1988, Landa et al. 1992). These functions of trans-        reduces coral fecundity only in the vicinity of the lesion
+location may be important in allowing clonal plants to          (Wahle 1983, Van Veghel and Bak 1994, Hall 1997),
+monopolize a local area or to explore a patchy envi-           our results show that the negative effect of injury on
+ronment (Landa et al. 1992, Wijesinghe and Handel              fecundity in F. favus may extend up to a distance of 15
+1994, Hutchings and Wijesinghe 1997). Thus, Hutch-              cm from the injured area (Fig. Sc). This discrepancy
+ings and Wijesinghe (1997) and Landa et al. (1992)             may be explained by differences between our study and
+have shown that in clonal plants physiological inte-           previous ones in terms of sampling intervals. For ex-
+gration can redistribute resources internally from sites        ample, Van Veghel and Bak (1994) examined the fe-
+of acquisition to areas where resources are scarce. Shea       cundity of Montastrea annularis 2.5 mo after injury,
+and Watson (1989) found that damaged fireweed plants           and Hall (1997) examined fecundity in Goniastrea re-
+(i.e., artificial leaf and flower herbivory) move assim-       tiformis, Acropora hyacinthus, and A. gemmifera 9 mo
+ilates throughout the plant, despite the strongly sec-         after injury. Such delays between injury and measure-
+torial pattern of assimilate movement in undisturbed           ments of fecundity may mask the full extent of the en-
+plants.                                                        ergetic link between regeneration and reproduction, as
+   Life history traits of most colonial organisms are          supported by the insignificant effect of the 5-mo old
+generally size- rather than age-dependent (Connell             injuries on fecundity in F. favus (Fig. 4). The size of
+1973, Hughes and Jackson 1985, Sebens 1987, Bab-               the experimentally inflicted lesions also influences the
+cock 1991, Soong 1991, Hughes et al. 1992, Ward                strength and persistence of this link. We found that rel-
+1995, Hall and Hughes 1996). Previous studies have             atively small lesions caused only localized reduction in
+suggested that large size may benefit sedentary colonial       fecundity (Fig. Sa), whereas the large lesions caused
+organisms in maximizing their feeding capabilities and         extensive reduction in fecundity up to 15 cm from the
+gas exchange by increasing the drag imposed by water           injury site (Fig. Sc). These findings indicate that small
+movement (Connell 1973, Hughes and Jackson 1985,               lesions induce only a localized energetic involvement
+Ryland and Warner 1986, Babcock 1991, Hall and                 for their healing, while larger ones elicit a much higher
+Hughes 1996). Colonial organisms exhibit considerable          level of colony integration.
+morphological plasticity, and the particular growth               A decrease in regeneration rate over time is well
+form assumed by a colony is often a function of the            known in scleractinian corals (Bak et al. 1977, Bak and
+flow regime it inhabits (Jackson 1979, McFadden                Steward-van Es 1980, Bak 1983, Meesters et al. 1992,
+1986). In bryozoan colonies faster ambient flow ve-             1997a, Van Woesik 1998), including F. favus (Oren et
+locities were found to reduce feeding of zooids of small       al. 1997a). Our findings support this observation and
+colonies but not of large colonies (Okamura 1984).             in addition highlight the possibility that repeated in-
+However, McFadden (1986) noted that some soft corals           juries prolong the process of regeneration in its initial
+undergo continual asexual fission as they grow, thereby        phase (i.e., rapid recovery phase typifying the first
+forming aggregations of small, physiologically discrete        month after injury, Table 2). More interestingly, heal-
+daughter colonies. She showed that this growth strategy        ing of repeated injuries in F. favus is favored over
+
+
+
+                        This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                         All use subject to http://about.jstor.org/terms
+ 810        U.      OREN                    ET         AL.          Ecology,                   Vol.        82,       No.        3
+
+
+
+
+                 a) SP
+                                                 00000 0000000000000 ^ D1OlO Oa a Colony
+
+
+
+
+                            _       ???&0000                0000        000000
+                            _   ~   ~   ~   ~   000   000000000000I000o~o~
+                                                0R    0   000      0000       0000
+                            _~ ~0 000 0000 I000
+
+
+
+                                                                              zesexex ~ Leio
+
+
+                     b)                 E-2                        *Atvtdae
+
+
+
+
+                           *xw~~~~ 000000
+                      Small colonies Inemeit olonie Lare c?%0olonoies Vrylagecoone
+
+                                                            0     ~    0     _      00     00
+
+
+
+                                                                          000              0   0
+
+
+                            Small~~~~~~~~~~00 0000e trmdaeclxie ag olne eylag ooi
+                           (diameter~~~~~~~~00 0000 daeer=1 m dsetr=2 m dimtr~3 m
+     hexagons prset th actua srace area oftecooy
+
+
+
+
+    hexagnspr smallth acoulone surf tearmedaofthe colonel. ag ooisVeylreclne
+
+
+
+
+reproduction in the colony. In clonal organisms with                     ucts required for lesion recovery are supplied not only
+shorter lives, this phenomenon is rare, and normally                     by polyps directly bordering the injured area, but also
+the energetic investment in reproduction does not de-                    by polyps located farther away (up to 10 cm from the
+crease during lesion recovery (e.g., hydrozoans, Brav-                   injured area), and that the extent of this translocation is
+erman 1974, Stebbing 1980; bryozoans, Harvell 1991,                      regulated by the size and shape of the injury. The results
+1992, Harvell and Helling 1993; weedy plants, Lang                       of the present study further support and extend these
+and Thorpe 1983, Bloom et al. 1985, Chapman et al.                       findings, since both experiments (i.e., colony size vs.
+1990, Marshall 1990). Our fecundity data support the                     lesion recovery and lesion recovery vs. polyp fecundity)
+previous conclusion of Harrison and Wallace (1990),                      reveal extensive colony integration during the regener-
+who claimed that in long-living organisms, such as                       ation process. We presume that integration following
+corals, there is a priority of energy allocation to re-                  injury is attained by translocation and utilization of pho-
+covery rather than to reproduction.                                      tosynthetic energy sources, rather than translocation of
+                                                                         stem cells as suggested by Rinkevich (1996). The fact
+  Extent of colony integration during regeneration
+                                                                         that 14C-labeled products are also incorporated into re-
+  Transport of organic compounds within hermatypic                       covering skeletons of F. favus (Oren et al. 1997b) sup-
+corals is well documented (Pearse and Muscatine 1971,                    ports this contention. Furthermore, F. favus cells ex-
+Muscatine and Porter 1977, Taylor 1977, Muscatine et                     perimentally labeled with 3H-thymidine at restricted
+al. 1981). Pearse and Muscatine (1971) have already                      sites located 3-5 cm from the injury site failed to show
+suggested that symbiont photosynthates are translocated                  any significant cell translocation toward recuperating ar-
+throughout the coral tissue to the region of maximal                     eas (U. Oren, unpublished data).
+demand. Recently, we have shown oriented intra-colo-                        The similar recovery rates elicited by the small SP
+nial transport of 14C-labeled products toward regener-                   lesions (average lesion size = 87 + 14 mm2, Table 1)
+ating areas in the massive stony corals F. favus, Pla-                   in each of the coral size classes (Fig. 3a) indicate that
+tygyra lamellina (Oren et al. 1997b), and Porites sp.                    their rapid recovery requires a low extent of colony
+(Oren et al. 1998). These studies indicated that the prod-               integration: the number of intact polyps necessary for
+
+
+
+
+                         This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                          All use subject to http://about.jstor.org/terms
+ March 2001 CORAL INTEGRATION DURING REGENERATION 811
+
+
+
+their healing is very small and is confined within the            research was supported by the Israel Science Foundation (Is-
+                                                                  rael Academy of Science and Humanities) and the Porter
+actual surface area of the small colonies (Fig. 6a). The
+                                                                  Super-Center for Ecological and Environmental Studies at
+localized reduction in fecundity caused by the SP le-             Tel-Aviv University.
+sions (Fig. 5a) further indicates that they activate a
+small colony area for their recovery. It is possible, in                                 LITERATURE CITED
+
+the specific case of the small SP lesions, that the bor-          Ayling, A. L. 1981. The role of biological disturbance in
+dering polyps are the only ones to be involved in re-               temperate subtidal encrusting communities. Ecology 62:
+
+generation, as previously suggested (Bak et al. 1977,               830-847.
+                                                                 Babcock, R. C. 1991. Comparative demography of three spe-
+Bak and Steward-Van Es 1980, Bak 1983, Wahle 1983,
+                                                                    cies of scleractinian corals using age- and size-dependent
+Meesters et al. 1994, 1997a).                                       classifications. Ecological Monographs 61:225-244.
+   The E-2 lesions exhibited low recovery rates in the            Bak, R. P. M. 1983. Neoplasia, regeneration and growth in
+small colonies, and relatively high and similar recovery            the reef-building coral Acropora palmata. Marine Biology
+                                                                    77:221-227.
+rates in both intermediate and large colonies (Fig. 3b).
+                                                                 Bak, R. P. M., J. J. W. M. Brouns, and F M. L. Heys. 1977.
+This indicates that the number of intact polyps required
+                                                                    Regeneration and aspects of spatial competition in the
+for their recovery is greater than the actual surface area          scleractinian corals Agaricia agaricites and Montastrea an-
+of the small colonies, but is still confined to within the          nularis. Pages 143-149 in Proceedings of the 3rd Inter-
+actual surface area of both the intermediate and large              national Coral Reef Congress. Rosenstiel School of Marine
+                                                                    and Atmospheric Sciences, University of Miami, Miami,
+colonies, as illustrated in Fig. 6b.
+                                                                    Florida, USA.
+   The E-3 lesions (Table 1) recovered more quickly in           Bak, R. P. M., and Y. Steward-Van Es. 1980. Regeneration
+the large-colony size class compared to the interme-                of superficial damage in the Scleractinian corals Agaricia
+diate and small ones (Fig. 3c), suggesting that the col-            agaricites f. purpurea and Porites astreoides. Bulletin of
+                                                                    Marine Science 30:883-887.
+ony portion of the surface area required for their rapid
+                                                                 Best, M. A., and J. P. Thorpe. 1985. Autoradiographic study
+recovery is larger than the actual surface area of the
+                                                                    of feeding and the colonial transport of metabolites in the
+small and intermediate colonies, as illustrated in Fig.             marine bryozoan Membranipora membranacea. Marine Bi-
+6c. The similar recovery rates exhibited by the E-3                 ology 84:295-300.
+lesions in the two largest size classes (Fig. 3c) suggest         Bloom, A. J., F S. Chapin, and H. A. Mooney. 1985. Re-
+                                                                    source limitation in plants-an economic analogy. Annual
+that the colony portion of surface area required for their
+                                                                    Review of Ecology and Systematics 16:363-392.
+rapid recovery is smaller than the actual surface area           Braverman, M. 1974. The cellular basis of morphogenesis
+of the large colonies. The extended reduction in fe-                and morphostasis in hydroids. Oceanography and Marine
+cundity (up to the distance of 7 cm, Fig. 5b) caused                Biology Annual Review 12:129-221.
+                                                                 Brown, B. H. 1997. Adaptations of reef corals to physical
+by the E-3 lesion compared to the localized fecundity
+                                                                    environmental stress. Advances in Marine Biology 31:221-
+reduction caused by the SP lesions (only at a distance
+                                                                    299.
+of 1 cm, Fig. 5a) further indicates that larger lesions          Brown, B. H., and L. S. Howard. 1985. Assessing the effects
+activate larger portions of the colony surface area for             of 'stress' on reef corals. Advances in Marine Biology 22:
+their recovery. Our contention of increasing levels of              1-63.
+                                                                 Bythell, J. C., E. H. Gladfelter, and M. Bythell. 1993. Chronic
+colony energy involvement with larger lesion size was
+                                                                    catastrophic natural mortality of three common Caribbean
+reinforced by the high extent of reduction in fecundity
+                                                                    reef corals. Coral Reefs 12:143-152.
+(up to the distance of 15 cm, Fig. 5c) caused by the E-          Cameron, A. M., R. Endean, and L. M. DeVantier. 1991. The
+10 lesions.                                                         effect of Acanthaster planci predation on populations of
+  An important consequence of modularity may be re-                 two species of massive corals. Hydrobiologia 216/217:257-
+                                                                    262.
+flected by the ability to reprioritize pathways of re-
+                                                                 Chapman, D. E, M. J. Robson, and R. W. Snaydon. 1990.
+source transport among the units of a colony, in re-                Short-term effects of manipulating the source-sink ratio of
+sponse to environmental changes and various stresses                white clover (Trifolium repens L.) plants on export of car-
+caused by biotic and abiotic factors. The present study             bon from and morphology of developing leaves. Plant
+highlights the advantages of a larger colony size in                Physiology 80:262-266.
+                                                                 Chornesky, E. A. 1989. Repeated reversals during spatial
+achieving faster recovery from injuries, and that the
+                                                                   competition between corals. Ecology 70:843-855.
+extent of energy reallocation by a colony is dictated            Chornesky, E. A., and E. C. Peters. 1987. Sexual reproduc-
+by the injury size. We suggest that the existence of               tion and colony growth in the scleractinian coral Porites
+injury thresholds, which determine energy allocation               astreoides. Biological Bulletin 172:161-177.
+                                                                 Connell, J. H. 1973. Population ecology of reef-building cor-
+and intra-colonial translocation of energy products
+                                                                    als. Pages 205-245 in 0. A. Jones and R. Endean, editors.
+within a colony toward regions of maximal demand, is
+                                                                    Biology and geology of coral reefs. Volume 2. Academic
+a basic life-preserving ability and one of the most im-             Press, New York, New York, USA.
+portant advantages of clonal and colonial organisms.             Dyrynda, P. E. J. 1986. Defensive strategies of modular or-
+                                                                    ganisms. Philosophical Transactions of the Royal Society
+                    ACKNOWLEDGMENTS
+                                                                    of London B 313:227-243.
+  We thank the H. Steinitz Marine Laboratory at Eilat for        Evans, J. P. 1991. The effect of resource integration on fitness
+their kind hospitality and facilities. We are grateful to Orly      related traits in a clonal dune perennial, Hydrocotyle bon-
+Stern for her help in developing the model, A. Shoob for the       ariensis. Oecologia 86:268-275.
+photography, and N. Paz for her editorial assistance. This       Genin, A., B. Lazar, and S. Brenner. 1995. Vertical mixing
+
+
+
+
+                          This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                           All use subject to http://about.jstor.org/terms
+ 812         U.       OREN               ET        AL.            Ecology,                Vol.          82,       No.        3
+
+
+  and coral death in the Red Sea following the eruption of           liminary experiments on sponges and ectoprocts. Pages
+  Mount Pinatubo. Nature 377:507-510.                                303-309 in Claude Levi and N. Bourg-Esnault, editors.
+Gladfelter, E. H. 1982. White-band disease in Acropora pal-          Biologie des spongiares. Centre National de la Recherche
+  mata: implications for the structure and growth of shallow         Scientifique, Paris, France.
+  reefs. Bulletin of Marine Science 32:639-643.                    Jackson, R. B., J. H. Manwaring, and M. M. Caldwell. 1990.
+Glynn, P. W. 1993. Coral-reef bleaching-ecological per-              Rapid physiological adjustment of roots to localized soil
+  spective. Coral Reefs 12:1-17.                                     enrichment. Nature 344:58-60.
+Gur, O., and Y. Loya. 1996. Life history and population dy-        Jokiel, P. L., and S. L. Coles. 1990. Response of Hawaiian
+  namics of the coral predatory snail Drupella cornus at Eilat,      and other Indo-Pacific reef corals to elevated temperature.
+  Red Sea. Galaxea 13:130-131.                                       Coral Reefs 8:155-162.
+Hall, V. R. 1997. Effects of injury on growth, reproduction        Karlson, R. 1983. Disturbance and monopolization of a spa-
+  and survivorship for common reef-crest corals. Pages 571-          tial resource by Zoanthus sociatus (Coelenterata, Antho-
+  574 in Proceedings of the 8th International Coral Reef Con-        zoa). Bulletin of Marine Science 33:118-131.
+  gress (Panama). Volume 1. Smithsonian Tropical Research          Kemball, W. D., and C. Marshall. 1995. Clonal integration
+  Institute, Balboa, Republic of Panama.                             between parent and branch stolons in white clover: a de-
+Hall, V. R., and T. P. Hughes. 1996. Reproductive strategies         velopmental study. New Physiologist 129:513-521.
+  of modular organisms: comparative studies of reef-building       Kojis, B. L., and N. J. Quinn. 1985. Puberty in Goniastrea
+  corals. Ecology 77:950-963.                                       favulus: age or size limited? Pages 289-293 in Proceedings
+Harperi J. L. 1977. Population biology of plants. Academic           of the 5th International Coral Reef Congress (Tahiti). Vol-
+  Press, London, England.                                            ume 4. Antenne Museum, Moorea, French Polynesia.
+Harrison, P. L., and C. C. Wallace. 1990. Reproduction, dis-       Kozlowski, J., and R. G. Wiegert. 1986. Optimal allocation
+  persal and recruitment of scleractinian corals. Pages 133-         of energy to growth and reproduction. Theoretical Popu-
+  206 in Z. Dubinsky, editor. Coral reef. Elsevier, Amster-          lation Biology 29:16-37.
+  dam, The Netherlands.                                            Landa, K., B. Benner, M. A. Watson, and J. Gartner. 1992.
+Harvell, C. D. 1991. Coloniality and inducible polymor-              Physiological integration for carbon in mayapple (Podo-
+  phism. American Naturalist 138:1-14.                               phyllum peltatum), a clonal perennial herb. Oikos 63:348-
+Harvell, C. D. 1992. Inducible defenses and allocation shifts        356.
+  in a marine bryozoan. Ecology 73:1567-1576.                      Lang, A., and M. R. Thorpe. 1983. Analyzing partitioning
+Harvell, C. D., and R. K. Grosberg. 1988. The timing of              in plants. Plant Cell and Environment 6:267-274.
+  sexual maturity in clonal animals. Ecology 69:1855-1864.         Lester, R. T., and R. P. M. Bak. 1985. Effect of environment
+Harvell, C. D., and R. Helling. 1993. Experimental induction         on regeneration of tissue lesions in the reef coral Montas-
+  of localized reproduction in a marine bryozoan. Biological         trea annularis (scleractinia). Marine Ecology Progress Se-
+  Bulletin 184:286-295.                                              ries 24:183-185.
+Harvell, C. D., and D. K. Padilla. 1990. Inducible morphol-        Loya, Y. 1972. Community structure and species diversity of
+  ogy, heterochrony, and size hierarchies in a colonial mono-        hermatypic corals at Eilat, Red Sea. Marine Biology 13:
+  culture. Proceedings of the National Academy of Sciences           100-123.
+  (USA) 87:508-512.                                                Loya, Y. 1976a. Effects of water turbidity and sedimentation
+Hester, M. W., K. L. McKee, D. M. Burdick, M. S. Koch, K.            on community structure of Puerto Rican corals. Bulletin of
+  M. Flynn, and S. Patterson. 1994. Clonal integration of            Marine Science 26:450-466.
+  Spartina patens across a nitrogen and salinity gradient. Ca-     Loya, Y. 1976b. Recolonization of Red Sea corals affected
+  nadian Journal of Botany 72:767-770.                               by natural catastrophes and man-made perturbations. Ecol-
+Ho, L. C. 1988. Metabolism and compartmentation of im-               ogy 57:278-289.
+  ported sugars in sink organs in relation to sink strength.       Loya, Y. 1976c. Skeletal regeneration in a Red Sea Scler-
+  Annual Review of Plant Physiology and Plant Molecular              actinian coral population. Nature 261:490-491.
+  Biology 39:355-378.                                              Loya, Y. 1976d. The Red Sea coral Stylophora pistillate is
+Hughes, R. N. 1989. A functional biology of clonal animals.          an r-strategist. Nature 259:478-480.
+  Chapman and Hall, New York, New York, USA.                       Loya, Y. 1985. Seasonal change in growth rate of the Red
+Hughes, R. N., and J. M. Cancino. 1985. An ecological over-          Sea coral population. Fifth International Coral Reef Con-
+  view of cloning in metazoa. Pages 153-186 in J. B. C.              gress, Tahiti 6:187-191.
+  Jackson, L. W. Buss, and R. E. Cook, editors. Population         Mackie, G. O., and C. L. Singla. 1983. Coordination of com-
+  biology and evolution of clonal organisms. Yale University         pound ascidians by epithelial conduction in the colonial
+  Press, New Haven, Connecticut, USA.                                blood vessels. Biological Bulletin, Marine Biological Lab-
+Hughes, T. P., D. Ayre, and J. H. Connell. 1992. Evolutionary        oratory, Woods Hole 165:209-220.
+  ecology of corals. Trends in Ecology and Evolution 7:292-        Marshall, C. 1990. Source-sink relations of interconnected
+  295.                                                               ramets. Pages 23-41 in J. van Groenen-daal and H. de
+Hughes, T. P., and J. B. C. Jackson. 1980. Do corals lie about       Kroon, editors. Clonal growth in plants: regulation and
+ their age? Some demographic consequences of partial mor-            function. Academic Publishing, The Hague, The Nether-
+ tality, fission and fusion. Science 209:713-715.                    lands.
+Hughes, T. P., and J. B. C. Jackson. 1985. Population dy-          McFadden, C. S. 1986. Colony fission increases particle cap-
+  namics and the life histories of foliaceous corals. Ecolog-        ture rates of a soft coral: advantages of being a small col-
+  ical Monographs 55:141-166.                                        ony. Journal of Experimental Marine Biology and Ecology
+Hutchings, M. J., and D. K. Wijesinghe. 1997. Patchy hab-            103:1-20.
+  itats, division of labor and growth dividends in clonal          Meesters, E. H., and R. P. M. Bak. 1993. Effects of coral
+  plants. Trends in Ecology and Evolution 12:390-394.                bleaching on tissue regeneration potential and colony sur-
+Jackson, J. B. C. 1979. Morphological strategies of sessile          vival. Marine Ecology Progress Series 96:189-198.
+  animals. Pages 499-555 in B. Rosen and G. Larwood, ed-           Meesters, E. H., A. Bos, and G. J. Gast. 1992. Effects of
+  itors. Biology and systematics of colonial animals. Aca-           sedimentation and lesion position on coral tissue regen-
+  demic Press, London, UK.                                           eration. Pages 671-678 in Proceedings of the 7th Inter-
+Jackson, J. B. C., and S. R. Palumbi. 1979. Regeneration and         national Coral Reef Congress (Guam). University of Guam
+  partial predation in cryptic coral reef environments: pre-         Marine Laboratory, Mangilao, Guam.
+
+
+
+
+                          This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                           All use subject to http://about.jstor.org/terms
+March 2001 CORAL INTEGRATION DURING REGENERATION 813
+
+
+Meesters, E. H., M. Noordeloos, and R. P. M. Bak. 1994.             mediate disturbance hypothesis revisited. Coral Reefs 12:
+  Damage and regeneration: links to growth in the reef-build-       127-137.
+  ing coral Montastrea annularis. Marine Ecology Progress         Ryland, J. S., and G. F Warner. 1986. Growth and form in
+  Series 112:119-128.                                               modular animals: ideas on the size and arrangement of
+Meesters, E. H., W. Pauchli, and R. P. M. Bak. 1997a. Pre-          zooids. Philosophical Transactions of the Royal Society of
+  dicting regeneration of physical damage on a reef building        London B 313:53-76.
+  coral by regeneration capacity and lesion shape. Marine         Scoffin, T. P. 1993. The geological effects of hurricanes on
+  Ecology Progress Series 146:91-99.                                coral reefs and the interpretation of storm deposits. Coral
+Meesters, E. H., I. Wesseling, and R. P. M. Bak. 1997b. Coral       Reefs 12:203-221.
+  colony tissue damage in six species of reef-building corals:    Sebens, K. P. 1987. The ecology of indeterminate growth in
+  partial mortality in relation with depth and surface area.        animals. Annual Review of Ecology and Systematics 18:
+  Journal of Sea Research 37:131-144.                               371-407.
+Muscatine, L., L. R. Mclosky, and R. E. Marian. 1981. Es-         Shea, M. M., and M. A. Watson. 1989. Patterns of leaf and
+  timating the daily contribution of carbon from zooxan-            flower removal: their effect on fruit growth in Chama-
+  thellae to animal respiration. Limnology and Oceanography         enerion angustifolium (fireweed). American Journal of Bot-
+  26:601-611.                                                       any 76(6):884-890.
+Muscatine, L., and J. W. Porter. 1977. Reef corals: mutualistic   Shlesinger, Y. 1985. Reproduction and juvenile growth in
+  symbioses adapted to nutrient poor environments. Bio-             stony corals. Dissertation. Tel-Aviv University, Tel-Aviv,
+  Science 27:454-460.                                               Israel.
+Okamura, B. 1984. The effects of ambient flow velocity,           Soong, K. 1991. Sexual reproductive patterns in shallow-
+  colony size, and upstream colonies on the feeding success         water reef corals in Panama. Bulletin of Marine Sciences
+  of Bryozoa. 1. Bugula Stolonifera Ryland, an arborescent          49:832-846.
+  species. Journal of Experimental Marine Biology and Ecol-       Soong, K., and J. C. Lang. 1992. Reproductive integration
+  ogy 83:179-193.                                                   in reef corals. Biological Bulletin 183:418-431.
+Oren, U., Y. Benayahu, and Y. Loya. 1997a. Effect of lesion       Stebbing, A. R. D. 1980. Increases in gonozooid frequency
+  size and shape on regeneration of the Red Sea coral Favia         as an adaptive response to stress in Campanulariaflexuosa.
+  favus. Marine Ecology Progress Series 146:101-107.                Pages 27-32 in P. Tradent and R. Tradent, editors. Devel-
+Oren, U., I. Brickner, and Y. Loya. 1998. Prudent sessile           opmental and cellular biology of coelenterates. Elsevier,
+  feeding by the corallivore snail Coralliophila violacea on        New York, New York, USA.
+  coral energy sinks. Proceedings of the Royal Society Lon-       Szmant-Froelich, A. 1985. The effect of colony size on the
+  don: Biological Sciences 265:2043-2050.                           reproductive ability of the Caribbean coral Montastrea an-
+Oren, U., B. Rinkevich, and Y. Loya. 1997b. Oriented intra-         nularis (Ellis and Solander). Pages 295-300 in Proceedings
+  colonial transport of 14C labeled materials during regen-         of the 5th International Coral Reef Congress (Tahiti). An-
+  eration in scleractinian corals. Marine Ecology Progress          tenne Museum-EPHE, Moorea, French Polynesia.
+  Series 161:117-121.                                             Taylor, D. L. 1977. Intra-colonial transport of organic com-
+Palumbi, S. R., and J. B. C. Jackson. 1982. Ecology of cryptic      pounds and calcium in some Atlantic reef corals. Pages
+  coral reef communities. II. Recovery from small distur-           431-436 in Proceedings of the 3rd International Coral Reef
+  bance events by encrusting bryozoa: the influence of              Congress. Rosenstiel School of Marine and Atmospheric
+  "host" species and lesion size. Journal of Experimental           Sciences, University of Miami, Miami, Florida, USA.
+  Marine Biology and Ecology 64:103-115.                          Torovezky, D. 1997. Bioerosion of the coral reef by parrot-
+Palumbi, S. R., and J. B. C. Jackson. 1983. Aging in modular        fish. Thesis. (In Hebrew with an English summary.) The
+  organisms: ecology of zooid senescence in Steginoporella          Hebrew University of Jerusalem, Jerusalem, Israel.
+  sp. (Bryozoa; Cheilostomata). Biological Bulletin 164:          Trevaillion, A. R., R. Edwards, and J. Steele. 1970. Dynamics
+  267-278.                                                          of the benthic bivalve. Pages 285-295 in J. Steele, editor.
+Pearse, V. B., and L. Muscatine. 1971. Role of symbiotic            Marine food chains. Oliver and Boyd, Edinburgh, UK.
+  algae (zooxanthellae) in coral calcification. Biological Bul-   Van Veghel, M. L. J., and R. P. M. Bak. 1994. Reproductive
+  letin 141:350-363.                                                characteristics of the polymorphic Caribbean reef building
+Peters, E. C. 1984. A survey of cellular reactions to envi-         coral Montastrea annularis. III. Reproduction in damaged
+  ronmental stress and disease in Caribbean scleractinian cor-      and regenerating colonies. Marine Ecology Progress Series
+  als. Helgolaender Meeresuntersuchungen 37:113-137.                109:229-233.
+Rinkevich, B. 1996. Do reproduction and regeneration in           Van Woesik, R. 1998. Lesion healing on massive Porites ssp.
+  damaged corals compete for energy allocation? Marine              corals. Marine Ecology Progress Series 164:213-220.
+  Ecology Progress Series 143:297-302.                            Wahle, C. M. 1983. Regeneration of injuries among Jamaican
+Rinkevich, B., and Y. Loya. 1989. Reproduction in regen-            gorgonians: the role of colony physiology and environment.
+  erating colonies of the coral Stylophora pistillate. Pages        Biological Bulletin 165:778-790.
+  257-265 in E. Spanier, Y. Stinberger, and M. Luria, editors.    Ward, S. 1995. The effect of damage on the growth, repro-
+  Environmental quality and ecosystem stability. Hebrew             duction and storage of lipids in the scleractinian coral Po-
+  University, Jerusalem, Israel.                                   cillopora damicornis (Linnaeus). Journal of Experimental
+Rogers, C. S. 1990. Responses of coral reef and reef organ-        Marine Biology and Ecology 187:193-206.
+  isms to sedimentation. Marine Ecology Progress Series 62:       Wijesinghe, D. K., and S. N. Handel. 1994. Advantages of
+  185-202.                                                          clonal growth in heterogeneous habitats: an experiment
+Rogers, C. S. 1993. Hurricanes and coral reefs: the inter-          with Potentilla simplex. Journal of Ecology 82:495-502.
+
+
+
+
+                          This content downloaded from 159.178.22.27 on Sat, 25 Jun 2016 02:53:52 UTC
+                                           All use subject to http://about.jstor.org/terms
+

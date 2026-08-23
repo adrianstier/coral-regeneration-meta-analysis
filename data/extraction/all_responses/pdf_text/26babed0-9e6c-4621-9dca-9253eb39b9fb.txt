@@ -1,0 +1,580 @@
+  Vol. 508: 139–148, 2014                  MARINE ECOLOGY PROGRESS SERIES
+                                                                                                             Published August 4
+   doi: 10.3354/meps10862                          Mar Ecol Prog Ser
+
+
+                                                                                                               FREE
+                                                                                                               ACCESS
+
+              Effects of simulated fish predation on
+            small colonies of massive Porites spp. and
+                      Pocillopora meandrina
+                             Caitlin M. Cameron1, 2,*, Peter J. Edmunds1
+    1
+    Department of Biology, California State University, 18111 Nordhoff Street, Northridge, California 91330-8303, USA
+       2
+        Rosenstiel School of Marine and Atmospheric Science, University of Miami, 4600 Rickenbacker Causeway,
+                                               Miami, Florida 33149, USA
+
+
+
+
+        ABSTRACT: The effects of corallivory on small colonies of massive Porites spp. (< 5 cm diameter)
+        and Pocillopora meandrina (< 7 cm high) were explored in situ on shallow reefs in Moorea, French
+        Polynesia. Experiments were conducted to test the hypothesis that corals respond equally to dam-
+        age caused by single bites of fishes belonging to 3 functional feeding guilds defined as excavators,
+        scrapers, and browsers, which damage corals in different ways. While recovering from damage,
+        massive Porites spp. grew 24 to 43% faster by weight than P. meandrina, and lesions caused by
+        scraping and browsing healed more rapidly on P. meandrina than on massive Porites spp.; lesions
+        caused by excavation healed more rapidly on massive Porites spp. than on P. meandrina. These
+        results suggest that the effects of fish corallivores differ between coral taxa, with the contrasting
+        effects potentially arising from differences in skeletal structure, corallum morphology, and mode
+        of corallivore feeding.
+
+        KEY WORDS: Scleractinia · Damage · Recovery · Fish predation · Porites · Pocillopora
+                            Resale or republication not permitted without written consent of the publisher
+
+
+
+
+                   INTRODUCTION                                       differences in the capacity for tissue regeneration
+                                                                      (Hall 1997, Meesters et al. 1997), colony size, coral-
+  Although corallivory by fishes is a well-known                      lum morphology, tissue thickness, and polyp density
+chronic disturbance affecting reef corals (Bak et al.                 (Hall 1997).
+1977, Jayewardene et al. 2009, Rotjan & Dimond                           Following damage to corals by fish corallivores, the
+2010, Cole et al. 2011, Cole & Pratchett 2011), there                 amount of skeleton that needs to be repaired depends
+have been few attempts to compare the effects of                      on the size of the bite and the depth to which the bite
+different types of fish corallivores on the growth of                 penetrates the skeleton. Perforate skeletons are more
+multiple coral taxa. Such studies are important                       readily excavated than imperforate skeletons, and
+because the effects of fish corallivory have strong                   therefore a fish corallivore is more likely to bite
+ecological implications through the consequences on                   deeper into the skeletons of perforate corals (e.g.
+growth and reproduction of coral tissue and skeleton                  Porites spp.) compared to the skeletons of imperforate
+(reviewed in Rotjan & Lewis 2005, 2008, 2009,                         corals (e.g. Pocillopora spp.). Additionally, corallum
+Edmunds & Lenihan 2010). While corals can recover                     morphology can affect the impact of fish bites, with
+from many kinds of corallivory (Rotjan & Lewis 2008,                  branching corals like Pocillopora spp. and Acropora
+Jayewardene et al. 2009), their physiological res-                    spp. subject to complete branch removal by a single
+ponses to these localized disturbances vary (Hall                     fish bite, whereas massive colonies like those of many
+1997, Meesters et al. 1997), potentially because of                   Porites spp. and Montastraea spp. typically have only
+
+
+*Corresponding author: CCameron516@gmail.com                          © Inter-Research 2014 · www.int-res.com
+140                                     Mar Ecol Prog Ser 508: 139–148, 2014
+
+
+
+
+smaller bites excavated from their surface. Once a          occurs across the colony surface (Barnes & Devereux
+coral is damaged, the repair of tissue and skeleton re-     1988). Associated with this difference, pocilloporids
+quires metabolic resources in the form of carbon, and       typically grow faster (28 mm yr−1; Jackson 1979, Ed-
+these are typically translocated from undamaged por-        munds 2005) than massive Porites spp. (13 mm yr−1;
+tions of the coral to the site of demand (Oren et al.       Lough & Barnes 2000), and pocilloporids heal rapidly
+1997a,b, 2001). Thus, bigger colonies with more             following damage (Ayre et al. 1997, Hall 1997, Leni-
+tissue and larger resources, or colonies with a strong      han & Edmunds 2010). The causes of the differences
+capacity to translocate resources across the colony         in healing rates between these taxa are unknown but
+surfaces, should be able to recover faster than small       may be related to the thickness of the tissue and
+colonies when both are damaged equally.                     skeletal porosity, both of which are well developed in
+   Fish corallivores feed on corals in different ways       massive Porites spp. (Stimson 1987, Barnes & Lough
+that separate them into 3 feeding guilds: browsers          1992, Edmunds 2008) but not in Pocillopora spp. (Tri-
+such as butterflyfish pluck tissue from polyps without      cas 1989, Lenihan & Edmunds 2010).
+damaging the skeleton (Hiatt & Strasburg 1960);                We simulated the damage caused to corals by fish
+scrapers such as parrotfish have fused jaws that            corallivores belonging to browser, scraper, and ex-
+scrape the surface of corals, damaging tissue and           cavator functional feeding guilds and used a 21 d
+some of the skeleton; and excavators such as some           field experiment to test the hypothesis that small
+parrotfish and some tetraodonts (pufferfish) exert          massive Porites spp. and branches of Pocillopora
+more force while biting than scrapers and are cap-          meandrina would heal and grow at equal rates fol-
+able of severely damaging coral tissue and skeleton         lowing damage. Small colonies of both taxa limited
+(Hiatt & Strasburg 1960). To heal the damage that           the impact of collecting on the coral communities,
+fish corallivory creates, coral tissue must regenerate      and by using small and young colonies of massive
+to occupy the void and ‘close’ the lesion, and if the       Porites spp., we focused on a life stage that is im-
+damage includes the removal of skeleton, complete           portant in structuring coral communities (Vermeij
+healing also requires new skeletal growth (CaCO3            & Sandin 2008). From this point on, massive Porites
+and organic matrix). The size, shape, and position of       spp. and Pocillopora meandrina are referred to as
+lesions on a coral colony also affects healing (Bak &       ‘Porites’ and ‘Pocillopora’, respectively.
+Steward-Van Es 1980, Meesters et al. 1992, Oren et
+al. 1997a), with large lesions taking longer to heal
+and having a greater chance of healing incompletely                     MATERIALS AND METHODS
+than small lesions (Bak & Steward-Van Es 1980, Oren
+et al. 1997a) and circular lesions healing faster than         This study was conducted during April and May
+rectangular lesions because they have proportion-           2009 in the back reef along the north shore of Moorea
+ately larger perimeters from which regeneration can         (149° 50’ W, 17° 30’ S). To test the hypothesis that
+occur (Oren et al. 1997a). In addition to the biological    corals respond equally to corallivory attributed to
+factors affecting rates of healing, physical factors        fishes representing 3 feeding guilds, 32 small colonies
+such as temperature and water flow also modulate            of Porites and branches of Pocillopora were damaged
+the rate of recovery from localized damage (Ed-             in one of 3 ways, simulating lesions created by coral-
+munds & Lenihan 2010, Lenihan & Edmunds 2010).              livorous fishes in the browsing, scraping, and exca-
+   The present study was conducted in the back reef of      vating guilds. Damaged corals were returned to the
+Moorea, French Polynesia, where massive Porites             reef for recovery within small cages (32 × 16 × 14 cm
+spp. and Pocillopora spp. are common (Adjeroud et al.       with 2 × 2 cm mesh) to prevent further damage from
+2009, Pratchett et al. 2011) and provide the food fa-       fishes, after which they were assessed for healing.
+vored by many corallivorous fishes (Berumen &                  A separate experiment serving as a procedural
+Pratchett 2006, Cole et al. 2008, Rotjan & Lewis 2008,      control tested the effects of cages on corals, assuming
+Jayewardene et al. 2009, Pratchett 2013). Massive           these could arise from decreased flow and light
+Porites spp. and Pocillopora meandrina were used for        within the mesh of the cages. Undamaged Porites
+experiments testing the effects of different types of       (n = 20) were allocated to either a caged (n = 10) or an
+fish corallivory on coral healing because they differ in    uncaged (n = 10) group in the back reef and left for
+a suite of features associated with skeletogenesis. No-     the duration of the damage experiment (21 d); cages
+tably, in branching corals like P. meandrina, growth        were attached to cinderblocks at 3 m depth. At the
+predominantly is apical (Allemand & Benazet-                end of this period, growth of caged and uncaged
+Tambutte 1996), whereas in massive corals, growth           corals was assessed using buoyant weighing, and
+                                    Cameron & Edmunds: Damage and recovery of corals                                        141
+
+
+
+
+Fig. 1. Photographs of colonies of massive Porites spp. damaged to simulate the effects of fish corallivores. (A) Browser treat-
+ment, with only tissue damage; (B) scraper treatment, with tissue and skeletal damage; and (C) excavation treatment, with
+tissue and deeper skeletal damage. Treatments were designed to mimic damage caused by (A) butterflyfish, (B) parrotfish,
+and (C) pufferfish. The white circle and boxes mark the approximate margins of the lesions, which had a mean size of 35.0 ±
+1.8 mm2 in the browsing treatment, 108.0 ± 2.5 mm2 in the scraping treatment, and 105.0 ± 3.2 mm2 in the excavating
+        treatment (± SE, n = 8). Lesions on Pocillopora meandrina (not shown) were similar in size and extent of damage
+
+
+area-normalized growth was compared between                       not feasible to use live fish to administer standard-
+groups with a 1-way ANOVA. A cage-control exper-                  ized damage in an experimental context.
+iment was not conducted for Pocillopora because we                   The damage caused by browsing fishes was simu-
+assumed that any effects on Porites were representa-              lated using a narrow stream of pressurized seawater
+tive of the ways in which our cages would affect other            from a 60 ml syringe to strip away the tissue in a cir-
+scleractinians.                                                   cular area ~6 to 7 mm in diameter without damaging
+   A total of 32 small (< 5 cm diameter) colonies of              the skeleton (Fig. 1A). This technique simulated the
+Porites and 32 short (< 7 cm high) branches from                  removal of polyps alone, and their removal was con-
+adult Pocillopora were collected from 2 to 3 m depth              firmed using a dissecting microscope in preliminary
+in the back reef on 7 April 2009 and prepared as nub-             trials. It proved difficult to find natural lesions on
+bins (Birkeland 1976). Colonies of Porites were col-              corals on the reef that could be unequivocally attrib-
+lected over ~800 m2 of rock pavement substratum,                  uted to browsing fishes (Lenihan et al. 2011), and
+and branches of Pocillopora were broken from hap-                 therefore we scaled our simulated browsed lesions to
+hazardly selected colonies, with 1 branch colony−1 to             match those simulated on Favia favus and massive
+increase the likelihood that each was genetically                 Porites spp. (Oren et al. 1997a, van Woesik 1998).
+unique. Freshly collected corals were transported to              Removing tissue and underlying skeleton to 1−2 mm
+the Richard B. Gump South Pacific Research Station                depth represented damage in the scraped treatment,
+and left in flowing seawater until the following day,             and in the excavated treatment, tissue and skeleton
+when they were allocated to one of 4 treatments                   were removed to 2−5 mm depth. For scraped and
+(8 nubbins in each of 4 treatments): undamaged                    excavated treatments, damage was created using
+controls; browsed damage (simulating damage caused                10 mm wide snub-nose pliers to abrade a lesion ~14 ×
+by chaetodontids; Hiatt & Strasburg 1960); scraped                7 mm (Fig. 1B,C). One limitation of the aforemen-
+damage (simulating damage caused by scarids; Bell-                tioned methods of damaging corals is that they create
+wood & Choat 1990); and excavated damage (simu-                   margins to the damaged areas that are more linear
+lating damage caused by tetraodontids; Bellwood &                 than those found in nature because of actual fish
+Choat 1990). The simulated damage was standard-                   corallivory. Immediately following damage, the area
+ized at a severity that is ecologically relevant to that          of damage in the scraped and excavated treatments
+occurring naturally from fish bites (Cole et al. 2008,            was similar in size to lesions caused naturally by
+Rotjan & Lewis 2008). Visual surveys in the back reef             fishes in the equivalent functional feeding guild in
+confirmed that the simulated bites were similar in                Moorea (C. M. Cameron unpubl. data). On the back
+size and shape to those caused naturally by fishes on             reef, the mean area of lesions created by fishes in the
+the same corals (C. M. Cameron unpubl. data). It was              scraping and excavating feeding guilds on Porites
+142                                    Mar Ecol Prog Ser 508: 139–148, 2014
+
+
+
+
+and Pocillopora was 95 ± 3 mm2 (± SE, n = 369),            for Pocillopora or covering with aluminum foil (Marsh
+whereas the mean size of lesions simulating these          1970) for Porites. Growth rates were normalized to
+effects was 106 ± 2 mm2 (± SE, n = 32, this experi-        area and time and expressed as mg cm−2 d−1.
+ment). The pliers were carefully rinsed in clean sea-        As the deposition of skeleton results in both coral-
+water between damaging each coral, and we assume           lum growth and the healing of scraping and excavat-
+this prevented cross contamination of mucous and           ing damage (where administered), it was not possible
+bacteria among corals.                                     in this experiment to distinguish skeletal growth of
+   In all treatments, damage was administered as a         the undamaged portion of the corallum from healing
+single ‘bite’ on the top of each coral because this is     at the site of the lesion. In a separate study, we used
+where most bites occur on branches of Pocillopora          Alizarin dye (Cameron 2011) to evaluate where on
+meandrina in the field (Cole et al. 2008). The stan-       the surface of coral colonies growth occurs following
+dardized location prevented position effects from          damage, and these results are reported elsewhere
+influencing healing (Meesters et al. 1992, Meesters &      (Cameron 2011).
+Bak 1995), and the single area of damage mimicked
+focused fish biting (Bruckner et al. 2000). Following
+damaging, corals were glued (Z-Spar A788) to plastic                          Statistical analysis
+bases to create nubbins and the size (length × width)
+of the damaged areas measured using calipers                  The effect of caging on Porites (the procedural
+(±1 mm). Lesion area (i.e. size) was calculated geo-       control) was analyzed using a 1-way ANOVA with
+metrically assuming the lesions were rectangular,          growth as the dependent variable. To test for differ-
+and the initial weight of the corals was recorded by       ences in growth and lesion healing among treat-
+buoyant weighing (±1 mg, Davies 1989).                     ments, partially nested ANOVAs were used, in which
+   On 9 April 2009, corals were transported to the         treatment (scraped, excavated, and browsed, with
+back reef and allocated haphazardly to cement              controls included in the analysis of growth) and taxon
+blocks at 2 to 3 m depth in a single contiguous area       (Porites versus Pocillopora) were fixed effects, and
+(~5 × 5 m), where they remained for 21 d. When the         cage was a random effect nested within the treat-
+experiment was conducted, the mean temperature of          ment × taxon interaction. Where the cage effect was
+ambient seawater was 29.00 ± 0.02°C (± SE, n = 21 d),      not significant at p > 0.25, it was dropped from the
+and at this depth the maximum light intensity in April     statistical model (Quinn & Keough 2002) and the
+typically is ~1200 µmol photons m−2 s−1 (at noon on a      analysis repeated as a 2-way ANOVA using corals as
+sunny day as measured with a LiCor LI 193SA sensor)        replicates. Taxon was treated as a fixed effect, since
+(Edmunds & Lenihan 2010). Each cinderblock held 2          taxa were chosen to contrast imperforate and perfo-
+replicate corals of the same taxon and same treatment      rate skeletons. Percentage lesion healing was arcsine
+group (control, browsed, scraped, or excavated) and        transformed prior to analyses and the statistical
+was entirely enclosed in a plastic-coated wire cage to     assumptions of ANOVA (normality and homoscedas-
+exclude fish and allow passage of seawater; cages          ticity) tested through graphical analyses of residuals.
+were cleaned of algae every other day. The allocation      Tukey’s post hoc procedures for each species were
+of corals to cages supported a statistical design (de-     used to test for differences among treatment groups
+scribed below) in which the effect of cages was            for growth rates. For lesion healing, there was a sig-
+nested in the treatment × taxon interaction.               nificant effect of cage (i.e. corals responded to treat-
+   Growth rates were evaluated as change in weight         ments in slightly different ways on each block;
+of the corals between the initial and final buoyant        described below), and thus we conducted post hoc
+weight (±1 mg). Change in buoyant weight was con-          analyses following the output of the nested ANOVA
+verted to dry weight using the density of aragonite        model instead of separate post hoc analyses by spe-
+(2.93 g cm−3, Jokiel et al. 1978). Following the final     cies. Statistical analyses were completed using Systat
+weighing on 30 April 2009, if lesions were visually        Version 12 software.
+detectable, they were again measured using calipers
+(length and width), and the difference between ini-
+tial and final lesion size was expressed as a percent-                            RESULTS
+age of the initial lesion size to quantify healing.
+Finally, corals were dried at 70°C for ~48 h and the         In the procedural control, there was no effect of
+surface area formerly occupied by live tissue meas-        caging on the growth of Porites (F = 0.097, df = 1,17,
+ured by either wax dipping (Stimson & Kinzie 1991)         p = 0.759), and the corals appeared normal in color
+                                 Cameron & Edmunds: Damage and recovery of corals                                     143
+
+
+
+
+with an absence of excess mucus production. Un-
+caged corals grew 2.52 ± 0.14 mg cm−2 d−1, and caged
+corals grew 2.59 ± 0.20 mg cm−2 d−1 (both ± SE,
+n = 10).
+   Most damaged corals produced a thin layer of
+mucus over the lesion within ~12 h of damage, with
+excavation damage associated with more mucus pro-
+duction than the other 2 corallivory treatments. With-
+in 2 d of damaging and after the corals had been
+returned to the reef, excess mucus production cea-
+sed. Approximately 4 d after damage, the tissue bor-
+dering most lesions (regardless of treatment type)
+formed a thin, pale yellow band, and at the same
+time, a normal brown/green color started to appear
+in the center of the lesions. After 10 d, the margins of
+all lesions were still visible as a narrow band of pale
+tissue, especially in the corals subjected to scraping
+and excavation damage. Even though signs of heal-
+ing were seen on all damaged corals at the end of the
+                                                           Fig. 2. Growth rates (mg cm−2 d−1) of massive Porites spp.
+experiment, the perimeters of the original lesion          and Pocillopora meandrina after 21 d in each treatment.
+remained visible, and the healed tissue was marked         Values plotted are mean ± SE (n = 7 control; n = 8 all others)
+by subtle discoloration or surface irregularities. Over-
+all, only one of the 64 experimental corals (one
+Porites in the control group) died during the experi-      Table 1. Results of partially nested ANOVA comparing
+                                                           growth over 21 d for massive Porites spp. and Pocillopora
+ment. By the end of the study, 3 Pocillopora corals
+                                                           meandrina (Taxon) exposed to control, browsed, scraped, or
+(1 coral from each damage treatment) and 1 Porites         excavated damage (Treatment). The effects of taxon, treat-
+colony had small patches (~2 mm2) of filamentous           ment, and the interaction between them were tested over
+algae overgrowing a portion of the original lesion.        MSerror , as the cage effect was not significant and was
+                                                                             dropped from the model
+   Corals in all treatments increased in dry weight
+between 650 and 1136 mg for Porites and between
+289 and 755 mg for Pocillopora, and area-normalized         Source                   MS       df        F         p
+growth rates ranged from 1.72 ± 0.12 to 2.83 ±
+                                                            Taxon                   8.927      1     96.841     < 0.001
+0.15 mg cm−2 d−1 for Porites and from 0.99 ± 0.08 to        Treatment               3.820      3     41.443     < 0.001
+2.15 ± 0.09 mg cm−2 d−1 for Pocillopora. Moreover,          Treatment × Taxon       0.059      3      0.638      0.594
+mean growth rates of Porites were 24, 42, 43, and           Error                   0.092     55
+27% faster than mean growth rates of Pocillopora in
+the control, excavated, scraped, and browsed treat-
+ments, respectively (Fig. 2). Corals in the control        among all treatments (p < 0.001), except for the con-
+group grew faster than those in the 3 damage treat-        trol versus browsed (p = 0.223), excavated versus
+ments, and excavated corals had the slowest growth         scraped (p = 0.083), and scraped versus browsed (p =
+rate (Fig. 2). Compared to the controls, mean growth       0.352) comparisons.
+rates of Porites were reduced 39% in the excavated           Most lesions showed at least some signs of healing,
+treatment, 24% in the scraped treatment, and 13% in        but the percentage of each lesion that healed dif-
+the browsed treatment; mean growth rates of Pocillo-       fered among treatments and taxa (Table 2, Fig. 3).
+pora were reduced 54% in the excavated treatment,          On average, lesions on Pocillopora healed 22% more
+42% in the scraped treatment, and 17% in the               than lesions in the same treatment group on Porites,
+browsed treatment. Growth rates differed among             except for excavated lesions (Fig. 3). Excavated
+treatments and taxa, and there was no taxon × treat-       lesions on Porites healed ~10% more than those on
+ment interaction and no effect of caging (Table 1,         Pocillopora. The difference in mean healing extent
+Fig. 2). For Pocillopora, post hoc analyses revealed       was ~50% for Pocillopora and ~20% for Porites for
+that all treatments differed from one another (p ≤         the least destructive mode of damage (i.e. browsing)
+0.001), except for the excavated versus scraped com-       versus the most destructive mode of damage (i.e.
+parison (p = 0.209). For Porites, growth differed          excavation) (Fig. 3). The post hoc analyses following
+144                                         Mar Ecol Prog Ser 508: 139–148, 2014
+
+
+
+
+Table 2. Results of partially nested ANOVA comparing the
+percentage that lesions healed (arcsine transformed) over
+21 d for massive Porites spp. and Pocillopora meandrina
+(Taxon) exposed to browsed, scraped, or excavated damage
+(Treatment). The effects of Taxon, Treatment, and the inter-
+action between them were tested over MScage(Treatment × Taxon)
+
+
+ Source                        MS      df     F        p
+
+ Taxon                        0.355     1    5.220  0.034
+ Treatment                    0.991     2   14.573 < 0.001
+ Treatment × Taxon            0.209     2    3.074  0.071
+ Cage (Treatment × Taxon)     0.068    18    2.429  0.021
+ Error                        0.028    24
+
+
+
+the nested ANOVA suggest that the percent that
+each lesion healed in each damage treatment (i.e.
+browsed, scraped, excavated), regardless of species,
+was significantly different from one another (p ≤
+                                                                 Fig. 3. Percentage of each lesion healed after 21 d for mas-
+0.001 for all comparisons). Based on the percent that            sive Porites spp. and Pocillopora meandrina in each treat-
+lesions healed, the treatments ranked as browsed >               ment group. Values plotted are the mean ± SE (n = 8); num-
+scraped > excavated (Fig. 3). The extent of healing              bers above each treatment represent the average initial
+also differed among cages (within taxon × treatment)                        lesion area (mm2) on corals in both taxa
+(Table 2), but the taxon × treatment interaction was
+not significant (Table 2, Fig. 3).                               vating corallivores (Penin et al. 2010, Trapon et al.
+                                                                 2013). Therefore, comparisons of the effects of multi-
+                                                                 ple types of simulated corallivory on coral perform-
+                      DISCUSSION                                 ance are likely to be relevant to understanding the
+                                                                 causes of changes in coral community structure.
+  The effects of localized damage on reef corals are                There are at least 3 hypotheses that can account for
+relatively well known, usually in response to one                the differences in growth and healing in Porites ver-
+type of mechanical damage (Nagelkerken & Bak                     sus Pocillopora, as well as the differences in healing
+1998, Lirman 2000, Rotjan & Lewis 2005, Jayewar-                 among modes of damage (i.e. types of corallivory).
+dene et al. 2009, Edmunds & Lenihan 2010, Jayewar-               First, the effect of taxon in mediating differences in
+dene 2010). Fish corallivores and the tissue and                 tissue healing following damage may reflect varia-
+skeleton they remove are one of the best-known                   tions in the capacity for translocation of metabolites
+sources of damage to coral colonies (Reyes-Bonilla &             within colonies (Oren et al. 1997b, 2001). For sclerac-
+Calderon-Aguilera 1999, Berumen & Rotjan 2010,                   tinians to heal tissue damaged within lesions, the
+Cole et al. 2011). A small number of studies have                damaged margin of the tissue must be repaired, and
+explored the effects of multiple types of damage on              tissue must be produced to occupy the lesion. In
+corals, but even in these cases, the underlying mech-            addition to repairing and replacing tissue, skeleton
+anisms responsible for the responses of the coral to             may also need to be produced when damage affects
+damage have not been extensively studied (but see                the skeleton as well (i.e. as in scraping and excava-
+Oren et al. 1997a,b, 2001). Our results show that                tion treatments). Together these processes require
+under field conditions, corals were able to heal                 raw materials (e.g. proteins and carbohydrates) and
+lesions and continue growing following all types of              metabolic energy to meet the costs of biochemical
+simulated damage, but the amount of healing and                  work (Henry & Hart 2005), and in corals containing
+growth depended on the degree of damage and the                  Symbiodinium, these needs ultimately are supplied
+coral species. Although corallivory may not be an                by heterotrophic feeding, photosynthesis, and food
+immediate threat to coral populations given global               reserves (Muscatine 1990, Houlbreque & Ferrier-
+increases in temperature and ocean acidification                 Pages 2009). Additionally, Ca2+ and dissolved inor-
+conditions, in at least one location, the abundance of           ganic carbon (DIC) required for skeletogenesis can
+small corals is negatively correlated with the abun-             come from the surrounding seawater, with additional
+dance and biomass of browsing, scraping, and exca-               DIC drawn from the internal environment of the coral
+                                  Cameron & Edmunds: Damage and recovery of corals                                145
+
+
+
+
+(Swart et al. 1996, Grottoli & Wellington 1999, Furla        ton and tissue), an imperforate skeleton may increase
+et al. 2000).                                                the ease with which browsing and scraping damage
+   Sources of the metabolites necessary to support           can be healed simply because less tissue is lost with
+healing in corals can be found in regions of the             an equal area of damage on Pocillopora versus
+colony separate from the site of damage, and there-          Porites (Edmunds et al. 2011). Although skeletal
+fore the capacity to translocate metabolites to the site     porosity provides a testable hypothesis to account for
+of use can influence healing (Oren et al. 1997b). In         at least some of the differences in the capacity to heal
+long-lived corals that are colonial and sessile, heal-       in Porites versus Pocillopora, in the present analysis,
+ing can be prioritized over growth and reproduction          this effect is confounded by corallum morphology,
+for energy allocation (Hall 1997, Oren et al. 2001)          which also differed between taxa. Further studies of
+because its benefits accrue over the life span. Motil-       healing in corals differing in skeletal porosity but not
+ity is not an option to avoid damage (Jackson 1979),         corallum morphology would be valuable in resolving
+and it is less costly to heal damaged polyps than to         these effects.
+produce new polyps (Hall 2001). Although browsed                Finally, the variation in response to damage simu-
+corals healed faster than excavated corals (Fig. 3),         lating different feeding guilds of fish corallivores
+the size of this effect was small, especially for Porites.   may be caused by lesion allometry, which differs
+Perhaps for a slow-growing coral like massive Porites        among the types of lesions (Bak & Steward-Van Es
+spp. that settles in lower abundance than Pocillopora        1980, Meesters & Bak 1995, Oren et al. 1997a,b,
+spp. in Moorea (e.g. Penin et al. 2010), there is a ben-     Jayewardene 2010). As lesion types differ in size,
+efit to healing a severe wound (consisting of damage         perimeter shape, and the extent to which they pene-
+to skeleton and tissue) almost as quickly as healing a       trate the skeleton, the ratios of damaged area and
+less severe wound (i.e. consisting of only tissue dam-       volume to the area and perimeter of tissue marginal
+age), to reduce the time that skeleton is exposed to         to the lesion are variable. Additionally, the ratio of
+seawater and the period over which metabolites must          area damaged to area of intact tissue on the remain-
+be diverted to heal the damage.                              der of the colony differs with colony size, as this could
+   Second, it is possible that skeletal porosity modu-       affect the capacity to heal (Oren et al. 1997a) by mod-
+lates recovery from fish corallivory, with the differ-       ulating the potential for more distant tissues to sup-
+ences in porosity between Porites (perforate) versus         ply metabolites to the site of damage.
+Pocillopora (imperforate) favoring differential recov-          Variation in lesion size among treatments may
+ery from damage. Covarying with skeletal porosity is         account for the difference in recovery of the present
+the extent to which coral tissue permeates the skele-        corals because browsing lesions were only 31% of
+ton, with this effect well developed in Porites (Barnes      the area of scraping and excavating lesions when
+& Lough 1992) but minimal in Pocillopora. The pene-          first created. The rate of healing of lesions inflicted
+tration of tissue into the skeleton has a variety of con-    on Porites is slower compared to other corals (i.e.
+sequences (Jokiel et al. 1993, Santos et al. 2009,           pocilloporids; Hall 1997, van Woesik 1998) regard-
+Edmunds et al. 2012), but in the context of the pres-        less of lesion size. Bak & Steward van Es (1980) found
+ent study, its role in affecting the capacity to heal        that lesions mimicking the damage caused by brows-
+damage might lie in providing access to photosyn-            ing and scraping fishes on Porites astreoides healed
+thetically fixed carbon translocated from Symbio-            faster than those inflicted on Agaricia agaricites, but
+dinium spread throughout a large volume of tissue            the largest lesions (i.e. 5 cm2 lesions) on both species
+(Edmunds et al. 2012). Additionally, tissue deep             did not heal fully even after 140 d. Our findings are
+within coral skeletons may be inaccessible to most           similar to those of Bak & Steward van Es (1980) in
+corallivorous fishes, and even a gouging fish bite           that our corals did not heal fully from the most severe
+potentially can leave coral tissue within the skeleton.      damage (i.e. tissue and skeleton lesions), but several
+Residual tissue might then serve as a reservoir of           corals completely recovered from the browser dam-
+interstitial cells (sensu Jokiel et al. 1993) that could     age. Although we are unable to determine whether
+support healing of tissue.                                   browsed corals displayed greater healing capacity
+   In contrast to Porites, Pocillopora has an imperfo-       because these lesions were small or because they
+rate skeleton with superficial tissue (Tricas 1989) and      were better able to heal tissue alone versus tissue
+thus must rely on events occurring at the margins of         plus skeleton, as is necessary in corals more severely
+lesions to effect repair. While an imperforate skele-        damaged, our results show that browsed corals
+ton is associated with reduced ability of Pocillopora        healed quickly compared to corals damaged by
+to endure excavation damage (which removes skele-            scraping or excavation.
+146                                         Mar Ecol Prog Ser 508: 139–148, 2014
+
+
+
+
+  Because of the increasing frequency and intensity                advice provided by R. C. Carpenter, M. Steele, and S. Dudg-
+of both natural and anthropogenic disturbances,                    eon throughout all stages of the project. Comments from 4
+                                                                   anonymous reviewers improved an earlier draft of this
+coral reefs likely will experience synergistic effects             paper. This is contribution number 214 of the CSUN Marine
+(Gardner et al. 2003), and their survival will be con-             Biology Program.
+tingent on the extent to which they can recover from
+such disturbances (Wilson et al. 2006). Disturbances
+                                                                                       LITERATURE CITED
+in the last decade caused a decline in coral cover on
+the outer reef of Moorea from ~40% in 2005 to < 5%
+                                                                 ä Adam TC, Schmitt RJ, Holbrook SJ, Brooks AJ, Edmunds PJ,
+in 2010 (Adam et al. 2011), as well as a shift in coral               Carpenter R, Bernardi G (2011) Herbivory, connectivity,
+community composition (Adjeroud et al. 2009). With                    and ecosystem resilience: response of a coral reef to a
+                                                                      large-scale perturbation. PLoS ONE 6:e23717
+an increase in reef stressors and a decrease in coral
+abundance, the role that corallivory plays in influ-             ä Adjeroud M, Michonneau F, Edmunds PJ, Chancerelle Y
+                                                                      and others (2009) Recurrent disturbances, recovery tra-
+encing coral reef community dynamics may be more                      jectories, and resilience of coral assemblages on a South
+complex than previously expected. For example,                        Central Pacific reef. Coral Reefs 28:775−780
+Penin et al. (2010) showed that corals in Moorea                 ä Allemand    D, Benazet-Tambutte S (1996) Dynamics of calci-
+                                                                      fication in the Mediterranean red coral, Corallium ru-
+between 1 and 5 cm in diameter had mean mortality                     brum (Linnaeus) (Cnidaria, Octocorallia). J Exp Zool 276:
+rates between 23 and 39% over 4 to 14 mo, and mor-                    270−278
+tality at 9 stations was significantly correlated with           ä Ayre DJ, Davis AR, Billingham M, Llorens T, Stryan C (1997)
+the abundance of chaetodontid corallivores. In con-                   Genetic evidence for contrasting patterns of dispersal in
+                                                                      solitary and colonial ascidians. Mar Biol 130:51−61
+trast, 18 to 70% of corals < 3 mo old (i.e. defined as
+                                                                   Bak RPM, Steward-Van Es Y (1980) Regeneration of super-
+recruits) died over 1 wk, and mortality in this age                   ficial damage in the scleractinian corals Agaricia agari-
+class at 9 stations was significantly correlated with                 cites f. purpurea and Porites astreoides. Bull Mar Sci 30:
+the abundance of scarid corallivores (Penin et al.                    883−887
+2010). Therefore, populations of coral genera pre-                 Bak RPM, Curacao P, Brouns J, Heys FML (1977) Regenera-
+                                                                      tion and aspects of spatial competition in the scleractin-
+ferred by fish corallivores may be more strongly                      ian corals Agaricia agaricites and Montastrea annularis.
+impacted by these corallivores if coral populations                   Proc 3rd Int Coral Reef Symp, Miami, 1:143−148
+continue to decline while their predators remain                 ä Barnes DJ, Devereux MJ (1988) Variations in the skeletal
+abundant, even for corals affected by the least-dam-                  architecture associated with density banding in the hard
+                                                                      coral Porites. J Exp Mar Biol Ecol 121:37−54
+aging type of corallivory (i.e. browsing). Although a
+                                                                 ä Barnes DJ, Lough JM (1992) Systematic variations in the
+variety of other biotic and abiotic factors contribute to             depth of skeleton occupied by coral tissue in massive
+the success of small corals, the positive correlation of              colonies of Porites from the Great Barrier Reef. J Exp Mar
+the mortality rate of small corals with the abundance                 Biol Ecol 159:113−128
+of fish corallivores in Moorea between 2001 and 2006             ä Bellwood DR, Choat JH (1990) A functional analysis of graz-
+                                                                      ing in parrotfishes (family Scaridae): the ecological
+(Penin et al. 2010) suggests that corallivory continues               implications. Environ Biol Fishes 28:189−214
+to play a role in determining coral community dyna-              ä Berumen ML, Pratchett MS (2006) Recovery without resili-
+mics on contemporary reefs. By revealing that the                     ence: persistent disturbance and long-term shifts in the
+response of small corals to simulated fish corallivory                structure of fish and coral communities at Tiahura Reef,
+                                                                      Moorea. Coral Reefs 25:647−653
+depends on the species of coral, the present study                 Berumen ML, Rotjan RD (2010) New records of corallivory in
+underscores the value of broadening the range of                      the Red Sea. Coral Reefs 29:727
+coral species and damage types studied in the con-                 Birkeland C (1976) An experimental method of studying
+text of fish corallivory to better understand the factors             corals during early stages of growth. Micronesica 12:
+                                                                      319−322
+contributing to shifts in abundance and diversity of
+coral species.
+                                                                 ä Bruckner AW, Bruckner RJ, Sollins P (2000) Parrotfish pre-
+                                                                      dation on live coral: ‘spot biting’ and ‘focused biting’.
+                                                                      Coral Reefs 19:50
+                                                                   Cameron CM (2011) The effects of partial mortality on corals
+Acknowledgements. We thank V. Moriarty, L. Jacobson, S.               in St. John, U.S. Virgin Islands and Moorea, French Poly-
+Davis, S. Swanson, D. H. Green, W. M. Goldenheim, A.                  nesia. Master’s thesis, California State University, North-
+Brown, and N. B. Colvard for their help in the field. Funding         ridge, CA
+was provided by the Moorea Coral Reef Long Term Ecolo-           ä Cole AJ, Pratchett MS (2011) Inter-specific variation in
+gical Research (MCR-LTER) program, US National Science                susceptibility to grazing among common reef corals.
+Foundation (grants OCE 04-17412 and OCE 10-26851), and                Mar Ecol Prog Ser 422:155−164
+gifts from the Gordon and Betty Moore Foundation. This           ä Cole AJ, Pratchett MS, Jones GP (2008) Diversity and func-
+research represents partial fulfillment for the Master of Sci-        tional importance of coral-feeding fishes on tropical coral
+ence degree to C. M. Cameron at California State Univer-              reefs. Fish Fish 9:286−307
+sity, Northridge (CSUN), and it benefited greatly from the       ä Cole AJ, Lawton RJ, Pratchett MS, Wilson SK (2011) Chronic
+                                       Cameron & Edmunds: Damage and recovery of corals                                        147
+
+
+
+
+     coral consumption by butterflyfishes. Coral Reefs 30:         ä Lenihan HS, Edmunds PJ (2010) Response of Pocillopora
+     85−93                                                              verrucosa to corallivory varies with environmental condi-
+ä Davies  PS (1989) Short-term growth measurements of corals            tions. Mar Ecol Prog Ser 409:51−63
+     using an accurate buoyant weighing technique. Mar Biol        ä Lenihan HS, Holbrook SJ, Schmitt RJ, Brooks AJ (2011)
+     101:389−395                                                        Influence of corallivory, competition, and habitat struc-
+ä Edmunds PJ (2005) The effect of sub-lethal increases in tem-          ture on coral community shifts. Ecology 92:1959−1971
+     perature on the growth and population trajectories of         ä Lirman D (2000) Lesion regeneration in the branching coral
+     three scleractinian corals on the southern Great Barrier           Acropora palmata: effects of colonization, colony size,
+     Reef. Oecologia 146:350−364                                        lesion size, and lesion shape. Mar Ecol Prog Ser 197:
+ä Edmunds PJ (2008) The effects of temperature on the                   209−215
+     growth of juvenile scleractinian corals. Mar Biol 154:        ä Lough JM, Barnes DJ (2000) Environmental controls on
+     153−162                                                            growth of the massive coral Porites. J Exp Mar Biol Ecol
+ä Edmunds PJ, Lenihan HS (2010) Effect of sub-lethal damage             245:225−243
+     to juvenile colonies of massive Porites spp. under con-       ä Marsh JA (1970) Primary productivity of reef-building
+     trasting regimes of temperature and water flow. Mar Biol           calcareous red algae. Ecology 51:255−263
+     157:887−897                                                   ä Meesters   EH, Bak RPM (1995) Age-related deterioration of a
+ä Edmunds PJ, Putnam HM, Nisbet RM, Muller EB (2011)                    physiological function in the branching coral Acropora
+     Benchmarks in organism performance and their use in                palmata. Mar Ecol Prog Ser 121:203−209
+     comparative analyses. Oecologia 167:379−390                     Meesters EH, Bos A, Gast GJ (1992) Effects of sedimentation
+ä Edmunds PJ, Putnam HM, Gates RD (2012) Photophysio-                   and lesion position on coral tissue regeneration. Proc 7th
+     logical consequences of vertical stratification of Symbio-         Int Coral Reef Symp, Guam, 2:671−678
+     dinium in tissue of the coral Porites lutea. Biol Bull 223:   ä Meesters EH, Wesseling I, Bak RPM (1997) Coral colony tis-
+     226−235                                                            sue damage in six species of reef-building corals: partial
+  Furla P, Galgani I, Durand I, Allemand D (2000) Sources and           mortality in relation with depth and surface area. J Sea
+     mechanisms of inorganic carbon transport for coral calci-          Res 37:131−144
+     fication and photosynthesis. J Exp Biol 203:3445−3457           Muscatine L (1990) The role of symbiotic algae in carbon
+ä Gardner TA, Cote IM, Gill JA, Grant A, Watkinson AR                   and energy flux in reef corals. In: Dubinsky Z (ed) Coral
+     (2003) Long-term region-wide declines in Caribbean                 reefs. Ecosystems of the world, Vol 25. Elsevier, Amster-
+     corals. Science 301:958−960                                        dam, p 75−87
+ä Grottoli AG, Wellington GM (1999) Effect of light and zoo-       ä Nagelkerken I, Bak RPM (1998) Differential regeneration of
+     plankton skeletal δ13C values in the eastern Pacific               artificial lesions among sympatric morphs of the Carib-
+     corals Pavona clavus and Pavona gigantea. Coral Reefs              bean corals Porites astreoides and Stephanocoenia
+     18:29−41                                                           michelinii. Mar Ecol Prog Ser 163:279−283
+ä Hall VR (1997) Interspecific differences in the regeneration     ä Oren U, Benayahu Y, Loya Y (1997a) Effect of lesion size and
+     of artificial injuries on scleractinian corals. J Exp Mar          shape on regeneration of the Red Sea coral Favia favus.
+     Biol Ecol 212:9−23                                                 Mar Ecol Prog Ser 146:101−107
+ä Hall VR (2001) The response of Acropora hyacinthus and           ä Oren U, Rinkevich    B, Loya Y (1997b) Oriented intra-colonial
+     Montipora tuberculosa to three different types of colony           transport of 14C labeled materials during coral regenera-
+     damage: scraping injury, tissue mortality and breakage.            tion. Mar Ecol Prog Ser 161:117−122
+     J Exp Mar Biol Ecol 264:209−223                               ä Oren U, Benayahu Y, Lubinevsky H, Loya Y (2001) Colony
+ä Henry LA, Hart M (2005) Regeneration from injury and                  integration during regeneration in the stony coral Favia
+     resource allocation in sponges and corals — a review. Int          favus. Ecology 82:802−813
+     Rev Hydrobiol 90:125−158                                      ä Penin L, Michonneau F, Baird AH, Connolly SR, Pratchett
+ä Hiatt RW, Strasburg DW (1960) Ecological relationships of             MS, Kayal M, Adjeroud M (2010) Early post-settlement
+     the fish fauna on coral reefs of the Marshall Islands. Ecol        mortality and the structure of coral assemblages. Mar
+     Monogr 30:65−127                                                   Ecol Prog Ser 408:55−64
+ä Houlbreque F, Ferrier-Pages C (2009) Heterotrophy in trop-         Pratchett MS (2013) Feeding preferences and dietary spe-
+     ical scleractinians corals. Biol Rev Camb Philos Soc 84:           cialization among obligate coral-feeding butterflyfishes.
+     1−17                                                               In: Pratchett MS, Berumen ML, Kapoor BG (eds) Biology
+  Jackson JBC (1979) Morphological strategies of sessile ani-           of butterflyfishes. CRC Press, Boca Raton, FL, p 140−179
+     mals. In: Larwood G, Rosen BR (eds) Biology and system-       ä Pratchett MS, Trapon M, Berumen ML, Chong-Seng K
+     atics of colonial organisms. Academic Press, London,               (2011) Recent disturbances augment community shifts in
+     p 499−555                                                          coral assemblages in Moorea, French Polynesia. Coral
+ä Jayewardene D (2010) Experimental determination of the                Reefs 30:183−193
+     cost of lesion healing on Porites compressa growth. Coral       Quinn GP, Keough MJ (2002) Experimental design and data
+     Reefs 29:131−135                                                   analysis for biologists. Cambridge University Press,
+ä Jayewardene    D, Donahue MJ, Birkeland C (2009) Effects of           Cambridge
+     frequent fish predation on corals in Hawaii. Coral Reefs      ä Reyes-Bonilla H, Calderon-Aguilera LE (1999) Population
+     28:499−506                                                         density, distribution and consumption rates of three
+  Jokiel PL, Maragos JE, Franzisket L (1978) Coral growth:              corallivores at Cabo Pulmo Reef, Gulf of California,
+     buoyant weight technique. UNESCO Monogr Oceanogr                   Mexico. Mar Ecol 20:347−357
+     Methodol 5:529−542                                            ä Rotjan RD, Dimond JL (2010) Discriminating causes from
+ä Jokiel PL, Hunter CL, Taguchi S, Watarai L (1993) Ecological          consequences of persistent parrotfish corallivory. J Exp
+     impact of a fresh-water ‘reef kill’ in Kaneohe Bay, Oahu,          Mar Biol Ecol 390:188−195
+     Hawaii. Coral Reefs 12:177−184                                ä Rotjan RD, Lewis SM (2005) Selective predation by parrot-
+  148                                          Mar Ecol Prog Ser 508: 139–148, 2014
+
+
+
+
+     fishes on the reef coral Porites astreoides. Mar Ecol Prog         gin of variations in the isotopic record of scleractinian
+     Ser 305:193−201                                                    corals: II. Carbon. Geochim Cosmochim Acta 60:2871−
+ä Rotjan  RD, Lewis SM (2008) Impact of coral predators on              2885
+     tropical reefs. Mar Ecol Prog Ser 367:73−91                   ä Trapon ML, Pratchett MS, Hoey AS (2013) Spatial variation
+ä Rotjan RD, Lewis SM (2009) Predators selectively graze                in abundance, size and orientation of juvenile corals
+     reproductive structures in a clonal marine organism. Mar           related to the biomass of parrotfishes on the Great
+     Biol 156:569−577                                                   Barrier Reef, Australia. PLoS ONE 8:e57788
+ä Santos SR, Toyoshima J, Kinzie RA III (2009) Spatial and         ä Tricas TC (1989) Prey selection by coral-feeding butterfly-
+     temporal dynamics of symbiotic dinoflagellates (Symbio-            fishes: strategies to maximize the profit. Environ Biol
+     dinium: Dinophyta) in the perforate coral Montipora                Fishes 25:171−185
+     capitata. Galaxea J Coral Reef Stud 11:139−147                ä van Woesik R (1998) Lesion healing on massive Porites spp.
+  Stimson JS (1987) Location, quantity and rate of change in            corals. Mar Ecol Prog Ser 164:213−220
+     quantity of lipids in tissue of Hawaiian hermatypic           ä Vermeij MJA, Sandin SA (2008) Density-dependent settle-
+     corals. Bull Mar Sci 41:889−904                                    ment and mortality structure the earliest life phases of a
+ä Stimson J, Kinzie RA III (1991) The temporal pattern and rate         coral population. Ecology 89:1994−2004
+     of release of zooxanthellae from the reef coral Pocillopora   ä Wilson  SK, Graham NAJ, Pratchett MS, Jones GP, Polunin
+     damicornis (Linnaeus) under nitrogen-enrichment and                NVC (2006) Multiple disturbances and the global degra-
+     control conditions. J Exp Mar Biol Ecol 153:63−74                  dation of coral reefs: Are reef fishes at risk or resilient?
+ä Swart PK, Leder JJ, Szmant AM, Dodge RE (1996) The ori-               Glob Change Biol 12:2220−2234
+
+
+  Editorial responsibility: Brian Helmuth,                           Submitted: November 11, 2013; Accepted: May 14, 2014
+  Nahant, Massachusetts, USA                                         Proofs received from author(s): July 13, 2014
+

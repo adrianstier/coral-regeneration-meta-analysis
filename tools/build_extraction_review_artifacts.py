@@ -638,6 +638,8 @@ def build_summary(
                 missing_fields[field] += 1
 
     def table(counter: Counter[str], label: str) -> str:
+        if not counter:
+            return "- None."
         lines = [f"| {label} | Count |", "| --- | ---: |"]
         for key, value in sorted(counter.items()):
             lines.append(f"| `{key}` | {value} |")

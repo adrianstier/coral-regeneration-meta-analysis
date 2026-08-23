@@ -1,0 +1,13 @@
+column,required_for,description
+study_id,all models,Cluster identifier for study-level random effects; currently source_id.
+obs_id,all models,Unique effect-size row within a study.
+yi,metafor,Computed effect size. Empty unless the raw inputs support a defensible calculation.
+vi,metafor,Sampling variance for yi. Empty rows are excluded from META_ANALYSIS_INPUTS.csv.
+analysis_stratum,all models,"Prevents mixing incompatible effect-size scales, for example raw areal rates and log odds ratios."
+dependent_effect_cluster,multilevel models,Cluster for non-independent effects sharing the same source/response/taxon/outcome/treatment.
+effect_size_metric,all models,"Metric passed to metafor or modeled directly; examples include raw_rate, log_odds_ratio_mortality, and log_response_ratio."
+effect_direction,interpretation,"Direction of positive yi, because higher values mean different things for healing rate versus mortality."
+family,taxonomic moderators,Single model-ready family from the normalized covariate layer; blank when mixed or missing.
+skeletal_porosity,trait moderators,Single perforate/imperforate moderator only when the covariate layer marks it unambiguous.
+growth_form_standard,trait moderators,Coarse normalized growth-form moderator from the covariate layer.
+field_lab_mesocosm,study-design moderators,"Standardized field, lab, mesocosm, or mixed setting."

@@ -27,24 +27,19 @@ Generated from the current repository state by `tools/build_pipeline_outputs.py`
 
 | Recommended action | Count |
 | --- | ---: |
-| `digitize_figures_or_graphs` | 84 |
+| `digitize_figures_or_graphs` | 86 |
 | `extract_from_tables_or_text` | 35 |
 | `mechanism_narrative` | 20 |
-| `retrieve_local_pdf_before_extraction` | 2 |
 
 Digitization status:
 
 | Digitization status | Count |
 | --- | ---: |
-| `blocked_missing_local_pdf` | 2 |
-| `needs_figure_id` | 84 |
+| `needs_figure_id` | 86 |
 
 ## QA Warnings
 
-- 1 included primary record is missing a local PDF.
-- 2 extraction workplan rows are blocked by missing local PDFs.
-- 2 digitization rows are blocked by missing local PDFs.
-- 84 digitization rows still need exact figure/table labels before clipping.
+- 86 digitization rows still need exact figure/table labels before clipping.
 
 ## Folder Placements To Review
 
@@ -52,12 +47,12 @@ Digitization status:
 
 ## Included Primary Sources To Retrieve
 
-- `needs_digitization`: Coral-Damsel-Wounding-Manuscript.pdf
+- None.
 
 ## Literature Reorganization
 
 - Deleted flat tracked PDFs: 150
-- Current PDFs under `literature/`: 151
+- Current PDFs under `literature/`: 152
 - Hash-matched organized copies: 150
 - Hash mismatches: 0
 - Missing organized copies: 0

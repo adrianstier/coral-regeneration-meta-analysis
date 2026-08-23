@@ -1,0 +1,760 @@
+                             Journal of Experimental Marine Biology and Ecology 323 (2005) 27 – 42
+                                                                                                         www.elsevier.com/locate/jembe
+
+
+
+
+           Regeneration of artificial injuries on scleractinian corals
+           and coral/algal competition for newly formed substrate
+  E.A. Titlyanova,b,T, T.V. Titlyanovaa,b, I.M. Yakovlevaa,c, Y. Nakanob, R. Bhagoolic
+              a
+              Institute of Marine Biology, Far East Branch of Russian Academy of Sciences, Vladivostok-41 690041, Russia
+                b
+                  Tropical Biosphere Research Center, University of the Ryukyus, Sesoko Island, Okinawa 905-0227, Japan
+         c
+          Department of Chemistry, Biology and Marine Science, University of the Ryukyus, Nishihara, Okinawa 903-0213, Japan
+                       Received 10 March 2004; received in revised form 27 June 2004; accepted 20 February 2005
+
+
+
+
+Abstract
+
+    Porites cylindrica and Porites lutea fragments of colonies were inflicted with five different injury types: chisel, file, Water
+Pik, osmotic and cement injuries. The fragments were maintained in outdoor aquaria for a period of 240 days under light
+intensities varying from 2–5% to 70–90% of incident surface photosynthetic active radiation (PAR0). During the exposure,
+changes in weight of the fragments, the rates of regeneration of the injuries, abundance of algae and animals settled onto injured
+areas were monitored. The regeneration rate of the injuries depended on interspecific differences in corals, injury types, number
+and composition of algae and animals settled onto the lesions, and light and temperature conditions. Competitive interactions
+between polyps and settlers occurred after colonizers settled onto the damaged surface or the live tissue. It is noteworthy that
+recovered coral tissue generally overgrew about 100 algal species with or without inhibition of coral growth by algae. In the
+summer period, the cyanobacterium Lyngbya majuscula covered some lesions (osmotic and cement) by 100%, thus reducing
+dramatically the regeneration rate of the inflicted injuries and also caused coral bleaching when in direct contact.
+D 2005 Elsevier B.V. All rights reserved.
+
+Keywords: Coral/algal competition; Injury; Overgrowth; Porites cylindrica; Porites lutea; Regeneration
+
+
+
+
+1. Introduction                                                            status of coral reefs. Competition is an important
+                                                                           process determining the structure, composition and
+   Competition between scleractinian corals and                            the abundance of both coral and algal benthic
+benthic algae is considered fundamental to the overall                     communities on coral reefs (Littler and Littler, 1984;
+                                                                           Lapointe, 1989; Hughes, 1994; Miller, 1998; McCook
+                                                                           et al., 2001; Diaz-Pulido and McCook, 2002).
+ T Corresponding author. Institute of Marine Biology, Far East
+                                                                           McCook et al. (2001) have suggested six mechanisms
+Branch of Russian Academy of Sciences, Vladivostok-41 690041,
+Russia. Tel.: +7 4232 310931; fax: +7 4232 310900.                         of coral/algal competition: overgrowth, shading,
+   E-mail addresses: etitlyanov@mail.ru, titlyanova@inbox.ru               abrasion, chemical, pre-emption/recruitment barrier,
+(E.A. Titlyanov).                                                          and epithelial sloughing. Corals and algae are
+0022-0981/$ - see front matter D 2005 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jembe.2005.02.015
+28                             E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42
+
+
+interspecific in competition for space, substrate and              organisms settled onto the damaged surface of
+resources (McCook et al., 2001). In most cases,                    scleractinian corals. In this study, we addressed the
+external factors, especially their sharp changes,                  following hypothetical ideas:
+determine not only the abundance and structure of
+both communities but also the superiority over the rest            1) Competitive success of coral for newly formed
+(McCook et al., 2001; Diaz-Pulido and McCook,                         substrate (injured part of colony) depends on the
+2002; Lapointe, 1989; Done, 1992).                                    physiological state of the coral, environmental
+   The competition between coral polyps and algae                     conditions, especially light intensity, and also on
+for substratum, space and sources is a common and                     the density and the structure of algal and animal
+constant process on coral reefs with varying success                  communities colonizing the substrate.
+for the competitors. However, for the past decades                 2) Competitive success of the algae for newly formed
+owing to global natural catastrophes, degradation of                  substrate depends on the number of spores and
+coral reefs and the so-called phase shifts from coral to              thalli fragments settled onto the injury, the compo-
+plant dominance have been observed. Plant reefs                       sition of algal community, the duration of the
+consist mostly of algal and seagrasses grown on                       existence of the algal community, the physiological
+newly formed substrate due to dead and damaged                        state and competitive abilities of coral polyps and
+colonies of hermatypic corals. The competition                        environmental conditions.
+between corals and algae begins immediately after
+the formation of this substrate. Micro- and macro-                    The major objectives were to examine how
+algae, cyanobacteria and seagrasses as well as benthic             scleractinian corals respond to different types of
+invertebrate animals including settled planulae and                inflicted injuries and to investigate the impact of a
+survived coral polyps, participate in this competition.            given injury on species with different morphologies
+During the first 1–2 years after catastrophe, algae are            by monitoring their regenerative abilities to the
+the winners and occupy more than 90% of the newly                  respective injury under different light conditions. A
+formed substrate (Lapointe, 1989; Loya et al., 2001).              second major objective was to monitor settlement on
+It is known that during the first years, after the                 the injured areas by algae in various seasons and
+catastrophe, recovery of coral reef on the new                     under different light and temperature conditions.
+substrate also occurs by the formation of new colonies
+(Sakai et al., 2004), by lesion healing and by
+spreading of polyps on the previously damaged                      2. Materials and methods
+colonies (Titlyanov, unpublished data).
+   The ability of many corals to recover from                      2.1. Study site, time and conditions
+damage, depending on the position, size, shape and
+type of the damage, has been well documented (e.g.,                    All experiments were conducted in outdoor
+Bak and Steward-van Es, 1980; Bak, 1983; Wahle,                    aquaria (50 L each) at the Sesoko Station of Tropical
+1983; Rinkevich and Loya, 1989; Meesters et al.,                   Biosphere Research Center of the University of the
+1992, 1994; Meesters and Bak, 1993, 1995; Hall,                    Ryukyus (Sesoko Island, Okinawa, Japan, 26838VN,
+1997, 2001; Oren et al., 1997; Marshall, 2000).                    127852V E) from November 2002 to August 2003. In
+However, to the best of our knowledge, the influence               the winter and spring periods, water temperature in
+of the settled organisms (algae and animals) on the                the aquaria was 20–26 8C and 18–24 8C during the
+recovery of injuries, especially in relation to light              daytime and at night, respectively. In the summer
+intensity has largely been ignored (McCook et al.,                 season, the temperature was 28–31 8C and 26–28 8C
+2001).                                                             during the daytime and at night, respectively.
+   In this paper, we show results of some experiments              Mineral nutrition and zooplankton concentration in
+on the study of the dynamics and mechanisms of                     the aquaria and in the sea were close because the
+competition for newly formed substrate (injured                    seawater was pumped from a depth of 2 m of the
+surface of colonies) between communities of coral                  fringing reef and was not subjected to filtration or
+polyps and micro- or macro-algae or some animal                    settling. The water in the aquaria was intensively
+                               E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42                          29
+
+
+aerated; water change was approximately 30% h1.                   was partly removed from the middle part of the
+The light intensity in open aquaria was 70–90%                     lesions. The remaining tissue after subject to the
+PAR0 (high light). Some aquaria were shaded by                     osmotic shock died off and then detached from the
+gray or black plastic mesh. In the shaded aquaria, the             skeleton. Healthy areas of some coral fragments
+light intensity was reduced to 30–50% PAR 0                        were partly covered with a 1-mm thick layer of
+(moderate light); 10–20% PAR0 (low light) and 2–                   cement (cement injuries). Except for WP injuries, the
+5% PAR0 (extremely low light). Incident surface                    lesions for all types of inflicted injuries were located
+photosynthetic active radiation (PAR0) was 1100–                   in the middle part of the fragments. Injury size
+1400 Amol m2 s1, 470–780 Amol m2 s1, 160–                      depended on the dimensions of the fragments and on
+320 Amol m2 s1, and 30–80 Amol m2 s1 at                        average amounted no more than 10% of the living
+midday during winter time and 800–1400 Amol m2                    tissue area. After the procedure with injuries, all
+s1, 600–1000 Amol m2 s1, 200–400 Amol m2                       fragments were photographed and placed onto plastic
+s1, and 40–100 Amol m2 s1 during summer time,                   grids in their natural position into the experimental
+in the respective four light regimes used.                         aquaria.
+
+2.2. Study specimens                                               2.4. Analytical procedures
+
+    Massive colonies of Porites lutea (Edwards and                 2.4.1. Growth rate measurements
+Haime 1860) and branched colonies of Porites                          Coral fragments were blotted with a paper towel to
+cylindrica (Dana, 1846) were collected from open                   remove excess seawater, weighed and placed back
+sites at the depth of 1–1.5 m from the fringing reef               into the respective aquaria. The fragments were
+during low tide. The colonies were damaged by                      weighed again after 30 days of maintenance. The
+the bleaching events in 1998. Two types of                         growth rate of samples was calculated using the
+fragments were cut from the colonies: (1) small                    formula:
+pieces with weight ranging from 2 to 60 g each
+                                                                   l ¼ ðm1  m0 =m0  DT Þ  100;
+and (2) large fragments with weight ranging from
+200 to 800 g each for P. lutea and from 80 to 200                  where, l is the average growth rate measured in mg
+g each for P. cylindrica.                                          g1 day1, m 0 is initial weight, m 1 is the weight at the
+                                                                   end of the experiment, and DT is the time between the
+2.3. Experimental design                                           two measurements of weight (Brinkhuis, 1985).
+
+    At the beginning of the experiments, coral frag-               2.5. Recovery rate of lesions
+ments were inflicted with injuries. Only one injury
+was made on each fragment.                                            To determine the amount of regeneration of the
+    Coral tissue was removed with Water-Pik (WP                    injuries over time, the injured areas of the exper-
+injury) from the top to the bottom of the large                    imental fragments were monitored photographically
+fragments and amounted to approximately H part of                  with digital camera bOlympusQ C5050Z. The amount
+whole surface area occupied with polyps. Such                      of regeneration within the experimental period was
+treatment led to removal of the live tissue from the               quantified from the color photographs by printing
+skeleton. The fragments were also inflicted with                   the image at 3 or 5 magnification and tracing the
+injuries as follows: a chisel injury over the surface in           damaged and healed areas. For five coral fragments,
+the middle part of the fragment to remove superficial              distance from the center to the edge of lesions was
+layer of tissue and skeleton 1–2 mm depth from the                 measured immediately after the damage and then
+coenosteum. Breakage was simulated with pincers                    after one, two or some months of the lesions
+(for P. cylindrica) or with a small hand-saw (for P.               regeneration. Every time, 10 measurements were
+lutea) after which the wounds were polished with a                 made for each fragment and the average regener-
+file (file injury). Osmotic shock (OS) injuries were               ative rate (or the rate of living tissue spreading on
+made with a gentle jet of fresh water and live tissue              newly formed substratum, mm per day) were
+30                             E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42
+
+
+calculated on the basis of these measurements.                     isons of means whenever ANOVA results were
+Means and standard deviations were calculated on                   significant. Differences were considered significant
+the basis of average data obtained for five fragments              at P b 0.05.
+(n = 5).
+
+2.6. Amount of algal and animal organisms settled                  3. Results
+onto damage
+                                                                   3.1. Regeneration of different injury types and their
+   To determine the area occupied by the algal and                 colonization by settlers on P. lutea and P. cylindrica
+animal organisms, bweightQ method was used. Color                  fragments during winter, spring and summer seasons
+image of lesion was printed on high quality Epson
+KA450PM paper at 3 or 5 magnification. The                           The greatest regeneration rate of tissue for all
+image of the injured area was cut and weighed, and                 the injury types for both coral species occurred
+then the images of the algae and animals were                      during winter (period I, Fig. 1). It dropped
+similarly cut and weighed. The relative area occupied              approximately 2-fold during spring (period II, Fig.
+by the settlers was then calculated by the following               1) and then 2–3-fold during summer (period III,
+formula:                                                           Fig. 1). During periods I and II, the regeneration
+                                                                   rates of file injuries were approximately 2-fold and
+%S ¼ W2 =W1  100;                                                 4-fold higher than those of OS and cement injuries,
+                                                                   respectively. During period III, the difference in the
+where, S is the relative area of a projective cover of             regeneration rates for various types of injuries was
+injury by settlers, W 1 is weight of paper with image of           insignificant. Sometimes in summer, the recovered
+lesion, and W 2 is weight of paper with image of                   live tissue of the OS injuries was found bleached
+settlers. Means and standard deviations were calcu-                (Fig. 2A).
+lated on the basis of five photographs (n = 5).                        During winter and spring periods, the growth rate
+    Algal composition and abundance were determined                of the P. lutea fragments varied insignificantly and
+under a stereoscopic microscope on the basis of 10                 was approximately two times higher than during
+fortuitous optical fields.                                         summer (Fig. 1C). There were no significant
+                                                                   differences in the growth rate of P. cylindrica
+2.7. Light intensity measurement                                   between fragments cultured at different seasons
+                                                                   (Fig. 1D).
+    Light intensity was measured at the water surface                  Means of the algal and animal settlement
+in the open aquaria and near the upper parts of the                expressed as a percentage of the injury size for both
+coral fragments in both the open and shaded                        coral species are presented in Table 1. During the
+aquaria with a Li-Cor radiation sensor (Model LI-                  first 60 days of the experiment, all the injury types
+192 SB). The measurements were performed three                     were colonized mainly by algae (approximately 5–
+times a day: at 9–10 h, 13–14 h and 17–18 h.                       20% of the whole injured area). After 150 days of
+Relative light intensity near the corals was calcu-                the maintenance, the overgrowth of chisel, file and
+lated from these measurements and represented in                   WP injuries by algae amounted to 80–100% of the
+percent of incident surface photosynthetic active                  total injured area. The cement injuries were over-
+radiation (PAR0).                                                  grown with the algae by almost 30%. The chisel and
+                                                                   file injuries were occupied with animals about 2–3%
+2.8. Statistical analyses                                          of the injured area. On the 240th day of the
+                                                                   experiment, chisel lesions healed whereas the OS,
+   The raw data for regeneration and growth rates                  file and WP injuries were still overgrown by the
+were arcsine transformed prior to use of analysis of               algae that colonized about 90–100% of the total
+variance (ANOVA) procedures. Tukey Honest Sig-                     injured area. The cement injuries were occupied with
+nificance Test was employed for multiple compar-                   the algae by about 60%.
+                                        E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42                                         31
+
+
+
+
+Fig. 1. Regeneration and growth rates of inflicted injuries on fragments of the corals P. lutea (A, C) and P. cylindrica (B, D) under light intensity
+30–70% PAR0 during winter, spring and summer periods. File—file injury; OS—osmotic shock injury; Cem—cement injury; WP—Water Pik
+injury. Error bars represent mean F S.D. The inserts show the summary of statistical results for comparison of regeneration rates for different
+injury types among the three recovery periods (I—(26.11.02—26.01.03), II—(26.01.03–26.04.03) and III—(26.04.03–26.07.03)). Significant
+differences were tested by ANOVA analysis followed by Tukey Honest Significant Difference Test. *P b 0.05, **P b 0.01, ***P b 0.001.
+NS = not significant.
+
+
+   The list and abundance of the algae settled onto                           celaria spp. The red algae (Rhodophyta) were
+different types of injuries for both coral species are                        represented by Centroceras clavulatum, Chondria
+given in Table 2. In total, more than 100 algal species                       minutula and Polysiphonia spp. Among microscopic
+were found growing on the border areas of the file                            blue-green algae (Cyanobacteria), Oscillatoria spp.
+injuries of both coral species. During spring, the                            and Calothrix spp. were commonly found. Nitzschia
+damaged areas of both coral species were mostly                               spp. (Bacillariophyta) were found in mass among other
+dominated by the green algae (Chlorophyta): Enter-                            algae. For marine animals, Acervulina spp. (Foramin-
+omorpha clathrata, Cladophora spp., Ostreobium                                ifera) and Spirorbis spp. (Polychaete) were common
+quekettii and Monostroma nitidum (only on P.                                  settlers on the algae and dead surface of the corals.
+cylindrica), and by the brown algae (Phaeophyta):                                 During the summer period, the number of
+Hincksia mitchelliae, Chilionema ocellata and Spha-                           green, brown and red algae decreased, while algal
+32                                      E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42
+
+
+
+
+Fig. 2. (A) Bleaching and overgrowth of P. lutea polyps by the cyanobacterium L. majuscula colonized OS injury by the 120th day of the
+maintenance under 30–50% PAR0 in the spring period. (B) Expansion of coral tissue around Acetabularia parvula stalk on file injury of P. lutea.
+(C) Overgrowth of turf algae (Coelothrix irregularis and C. clavulatum) by live tissue of the coral P. cylindrica on WP injury. (D) Overgrowth of
+entwined epilithic bfeltQ with sediments onto cement injury by live tissue of the coral P. lutea. (E) Impediment of the recovery of file injury on P.
+lutea by the colonizer L. majuscula. (F) Overgrowth of Dictyota sp. thallus on coral surface by the live tissue and entombing into calcium
+carbonate secret. For Fig. 1A, scale bar = 1 cm and for Fig. 1B–F, scale bars = 1 mm.
+
+
+species of Cyanobacteria and Bacillariophyta                                  species, except monodominant community of L.
+increased. They were dominated by Lyngbya                                     majuscula (Fig. 2A,E) that was found on the file
+majuscula, Oscillatoria spp., Phormidium spp.                                 injuries, were overgrown by the live tissue of both
+and Tolypothrix spp. (Cyanobacteria), Thalassia                               coral species (Fig. 2B,C,D,F).
+nitzschioides (only on P. lutea), Nitzschia long-
+issima (Bacillariophyta), Derbesia marina (only on                            3.2. Effects of light intensity on the recovery of
+P. lutea), Ostereobium quekettii (Chlorophyta), H.                            injuries, coral growth rates and colonization by
+itchelliae (Phaeophyta), C. clavulatum and Poly-                              settlers
+siphonia sp. (Rhodophyta). For marine animals,
+Acervulina spp. (Protozoa) was the dominant                                       Under all light regimes, the regeneration rates of
+species for both corals investigated. All algal                               file and WP injuries were highest during the first
+                                       E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42                             33
+
+
+Table 1
+Means and standard deviations of relative algal and animal cover (%) on injured areas of coral fragments maintained under moderate light
+intensity (30–70% PAR0) during 60, 150 and 240 days
+Coral species            Injury type          Settlers       From 26.11.02 to          From 26.11.02 to 26.04.03,    From 26.11.02 to
+                                                             26.01.03, 60 days         150 days                      26.07.03, 240 days
+Porites lutea            chisel               algal          16.3 F 2.1                 80.6 F 9.0
+                                              animal         b1                          1.7 F 1.5
+                         OS                   algal           8.3 F 1.5                100                           100
+                                              animal          0                          0                             0
+                         cement               algal           7.0 F 2.6                 32.6 F 11.3                   52.0 F 11.1
+                                              animal          0                          0                            b1
+Porites cylindrica       file                 algal          19.7 F 3.2                 70.7 F 11.6                   87.0 F 8.2
+                                              animal         b1                          2.0 F 1.0                     1.3 F 0.6
+                         WP                   algal          24.0 F 9.8                100                           100
+                                              animal          0                          0                             0
+
+
+
+
+month of the experiment (period I, Fig. 3A–D).                             30 days of the experiment was usually less than
+There were no significant changes in the regener-                          1%. During the second experimental period (90
+ation rates of the injuries in corals maintained under                     days), the subsequent algal colonization of the
+bright and low light (except file injuries on P.                           injuries averaged about 70–100% and 30–50%
+cylindrica, where the regeneration rate dropped                            under bright and extremely low light, respectively.
+twice under low light conditions). Under extremely                         The area occupied by the animal organisms
+low light, the regeneration rate dropped approx-                           within 90 days of the experiment under bright
+imately three times in P. lutea, while it was almost                       light remained less than 1%. Under low and
+not changed in P. cylindrica. During the following                         extremely low light, it varied from b1% to 6%
+2 months of exposure (period II), the regeneration                         and from 2% to 4%, respectively. There were no
+rate of file injuries in both coral species sharply                        significant differences in the colonization by
+dropped (approximately four and two times for P.                           settlers between the file and WP injuries for both
+lutea and P. cylindrica, respectively) irrespective of                     coral species.
+the light treatment. The regeneration rate of WP                              The list of species and abundance of organisms
+injuries also dropped in both coral species during                         settled onto the file injuries for both coral species
+the period II.                                                             maintained under different light intensities are
+   In the coral fragments of P. cylindrica and P.                          shown in Table 2. Analyses of species composition
+lutea maintained under bright (70–90% PAR0)                                of the algae settled onto file injuries carried out at
+and low (10–20% PAR0) light intensities, the                               the beginning of May (i.e. 3 months after the
+growth rates were approximately equal during the                           injuries were inflicted), showed significant differ-
+maintenance and amounted about 1 mg fw g1                                 ences in the composition and abundance of the
+fw day1. Under extremely low light (2–5%                                  algae living under various light intensities. Most of
+PAR0), it amounted to approximately 0.3 mg fw                              them (in total 102 species of algae) were found on
+g1 fw day1 for both coral species (Fig. 3E,F).                           the corals maintained under low light. Under bright
+Colonization of artificial lesions by the algal and                        light, 65 species and under extremely low light 43
+animal settlers under various light intensities is                         species were found. Under bright light, the algal
+shown in Table 3. During the first month of the                            phyla such as Bacillariophyta, Cyanobacteria, Chlor-
+experiment, the algae occupied from 4% to 16%                              ophyta and Phaeophyta were dominant. Under low
+of the injured areas in the bright light treatment,                        light, all the algal phyla were distributed approx-
+from 6% to 14% under low light and only from                               imately equally. Under extremely low light, mem-
+1% to 6% in the extremely low light treatments.                            bers of the Rhodophyta and Phaeophyta were
+The area occupied with animals during the first                            dominant. Under bright light, the algae such as N.
+34                                    E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42
+
+
+Table 2
+Species list and abundance of algae and animals settled onto the corals Porites lutea and Porites cylindrica after damages (file injuries)
+Species list                                              I*                       II*                     III*
+                                                                                   3070%                  70–90%       10–20%       2–5%
+                                                                                   xPAR0                   PAR0         PAR0         PAR0
+                                                          P. lutea P. cylindrica 26.04.03       26.07.03   06.05.03
+1                                                         2         3              4            5          6            7            8
+Bacillariophyta
+  Fragilaria sp.                                          +                        +                       +       +                 +
+  Asterionella japonica Cleve                             ++                     ++/        +/               +/              ++
+  Thalassionema nitzschioides Grunow?                     +++                      ++           +++                +++
+  Diatoma sp.                                             +++                    +/         +                +/              +++
+  Navicula sp.                                            +                       +            +/               +/               
+  Nitzschia closterium (Ehrenberg) W. Smith               ++                      ++/         +          ++/    ++
+  Nitzschia longissima (Brebisson) Ralfs                  +++                   +++/      ++/     +++/ +++/
+  Nitzschia seriata Cleve                                 ++                    ++/                 ++/    ++/            
+  Licmophora abbreviata Cleve                             +++                     ++/         +/        ++      +++/
+
+Cyanobacteria
+  Dermocarpella clavata (Setchell & Gardner)              +                      +            +                       +/
+  Pham Hoang Ho
+  Dermocarpa acervata (Setchell & Gardner)                +                      +/         +                      +/
+  Pham Hoang Ho
+  Aphanocapsa littoralis Hansgirg                         +                      +            +/                   +/         
+  Lyngbya epiphytica Hieron                               +                       +/          +                      +
+  Lyngbya majuscula (Dillwyn) Harvey                      +++                     +/          +++/      +++/        +++
+  Lyngbya martensiana Meneghini ex Gomont                 +                       +            +/                    +
+  Lyngbya polychroa (Meneghini) Rabenhorst                                                                           
+  [Lyngbya sordida (Zanardini) Gomont]
+  Lyngbya spp.                                            +                       +/          +          +            +/          
+  Oscillatoria margaritifera (Kutzing) Gomont             +                       +/          +/                     +/
+  Oscillatoria miniata (Zanardini) Gomont                 +++                     +++/        +/                    +++/
+  Oscillatoria tenuis Agardh                              ++                      +/          +                       ++/
+  Oscillatoria sp.                                        +++                     +++/       +++/      +/          +++/
+  Phormidium corium (C. Agardh) Gomont                    +                      +            +/                    +/          
+  Phormidium tenue (Meneghini) Gomont                     +                       +/          +/         +/          +/
+  Phormidium sp.                                          +++                     +            +++/                   +++/        
+  Spirulina subsalsa Oersted ex Gomont                    +                     +/        +/                 +/          
+  Spirulina subtilissima Kqtzing                          +                                    +/                     +/
+  Spirulina tenerrima Kqtzing                             +                       +/                                +/
+  Spirulina sp.                                           +++                      +++                                  +++
+  Calothrix confervicola (Roth) Agardh                    +                       +/                                 +/
+  Calothrix contarenii (Zanardini) Bornet & Flahault      +                       +/                                +/          
+  Calothrix scopulorum (Weber et Mohr) C. Agardh          +                                   +                       +/
+  Calothrix spp.                                          +++                    +++/       +/        +++/        +++/       
+  Dichotchrix sp.                                         ++                      +/                    +/          ++/         +/
+  Tolypothrix sp.                                         +++                     +            +++/                   +++/        
+
+Chlorophyta
+  Acrochaete viridis (Reinke) R. Nielsen                  ++                       ++      ++              ++           ++
+  Monostroma nitidum Wittrock                             +++                      +++                     +++          +
+  Enteromorpha clathrata (Roth) Greville                  +++                   +++/ +               +++/      ++/        
+  Enteromorpha ralfsii Harvey?                            +                                              +                        +
+  Enteromorpha sp.                                        +                       +/     +               +/          +/          +/
+  Ulva sp.                                                +                       +/                                  +/
+                                      E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42                                    35
+
+
+Table 2 (continued)
+Species list                                             I*                       II*                     III*
+                                                                                  3070%                  70–90%        10–20%      2–5%
+                                                                                  xPAR0                   PAR0          PAR0        PAR0
+                                                         P. lutea P. cylindrica 26.04.03       26.07.03   06.05.03
+1                                                        2         3              4            5          6             7           8
+Chlorophyta
+  Pringsheimiella scutata (Reinke) Hfhnel ex             +                       +/                     +/           +/
+  Marchewianka
+  Rhizoclonium implexum (Dillwyn) Kqtzing                +                        +                                     +
+  Cladophora laetevirens (Dillwyn) Kqtzing                                                                            
+  Cladophora vagabunda (Linnaeus) Van den Hoek           +                       +/                                   +/
+  Cladophora sp.                                         +                      +/         +          +/          +/         
+  Cladophoropsis sp.                                     +                      +                       +             +/
+  Dictyosphaeria cavernosa (Forssk3l) Bbrgesen                                                                       
+  Boodlea composita (Harvey) F. Brand                    +                        +            +          +             +
+  Derbesia fastigiata W.R. Taylor                                                                                    
+  Derbesia marina (Lyngbye) Solier                       +++                      +            +++        +++           ++
+  Codium sp.                                                                                            
+  Rhipidosiphon javensis Montagne [Udotea javensis       +++                                             ++            +++/
+  (Montagne) A. Gepp & E. Gepp]
+  Ostreobium quekettii Bornet et Flahault                +++                   +++/ +++             +++/        ++/      +++/
+  Penicillus sibogae A. Gepp & E. Gepp                   +                                +                             +
+  Neomeris annulata Dickie                                                                                           
+  Acetabularia dentata Solms-Laubach                                                                                 
+  Acetabularia exigua Solms-Laubach                                                                                  
+  Acetabularia parvula Solms-Laubach                                                                                 
+
+Phaeophyta
+  Ectocarpus elachistaeformis Heydrich                   +                      +/                                 +/         
+  Ectocarpus sp.                                         ++                      ++/         +          +/           +/         
+  Feldmannia irregularis (Kqtzing) G. Hamel              ++                      ++/         +          ++/          +/
+  Hincksia mitchelliae (Harvey) Silva in Silva et al.    +++                   +++/      +/       +++/       ++/      
+  Hincksia sp.                                           +                       +                                     +/
+  Pilayella littoralis (Lamouroux) Kjellman              +                        +                                     +
+  Chilionema ocellata (Kqtzing) Kuckkuck                 ++                     ++/                    +/           ++/        
+  Sphacelaria novae-hollandiae Sonder                    +++                     +++/        +          ++/          +++/       ++
+  Sphacelaria rigidula Kqtzing                           +++                     +++/        +/        ++/          +++/       ++/
+  Sphacelaria tribuloides Meneghini                      ++                      ++/         ++/                    ++/        
+  Sphacelaria sp.                                        +                        +                                     +
+  Lobophora variegata (Lamouroux) Womersley              +                        +                                     +
+  Dictyota linearis (C. Agardh) Greville                                                                              
+  Dictyota sp.                                                                                                                     
+  Chnoospora implexa Hering ex J. Agardh                                                                             
+
+Rhodophyta
+  Chroodactylon ornatum (C. Agardh) Basson                                                              
+  Stylonema alsidii (Zanardini) K.M. Drew                +                       +/          +                       +/
+  Erythrotrichia carnea (Dillwyn) J. Agardh              +                       +/                                   +/
+  Audouinella virgarula (Harvey) Dixon                   +                       +/          +                        +/         
+  Audouinella sp.                                        +                       +/          +          +/           +/         
+  Hydrolithon farinosum (J.V. Lamouroux)                 +                       +/                                  +/         
+  Penrose & Y.M. Chamberlain
+  Peyssonnelia inamoena Pilger                                                                                                    
+                                                                                                                     (continued on next page)
+36                                     E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42
+
+
+Table 2 (continued)
+Species list                                                I*                        II*                      III*
+                                                                                      3070%                   70–90%       10–20%       2–5%
+                                                                                      xPAR0                    PAR0         PAR0         PAR0
+                                                            P. lutea P. cylindrica 26.04.03        26.07.03    06.05.03
+1                                                           2         3               4            5           6            7            8
+Rhodophyta
+  Pneophyllum fragile Kqtzing                               +                        +            +/                                  +
+  Sporolithon sp.                                           +                         +            +                                   +
+  Champia parvula (C. Agardh) Harvey                                                 
+  Gelidiella pannosa (Feldmann) Feldmann & Hamel            +                         +                                     +
+  Jania capillacea Harvey                                   +                         +                                     +
+  Falkenbergia hillebrandii (Bornet) Falkenberg             +                         +                                     +
+  Anotrichium tenue (C. Agardh) N7geli                                                +            +           +            +
+  Antithamnion lherminieri (P. Crouan & H.Crouan)                                    
+  Bornet
+  Centroceras clavulatum (C. Agardh) Montagne               ++                      ++/         ++/       +/          ++/         +/
+  Centroceras inerme Kqtzing                                                                                              
+  Ceramium fastigiatum Harvey                               +                        +            +/                      +/
+  Ceramium flaccidum (Harvey ex Kqtzing) Ardissone          +                        +/          +                       +/
+  Ceramium sp.                                              +                        +/                      +                        +/
+  Corallophila apiculata (Yamada) R. Norris                 +                        +/          +                        +/
+  Crouania attenuata (C. Agardh) J. Agardh                                                                                            
+  Spyridia filamentosa (Wulfen) Harvey                      +                                    +/                      +/          
+  Chondria dasyphylla (Woodward) C. Agardh                  +                         +                        +
+  Chondria minutula Weber-van Bosse                         +                        ++/                                  +/
+  Chondria sp.                                              ++                       +                                     +            
+  Spermothamnion sp.                                        +                        +                        +            +            
+  Herposiphonia secunda (C. Agardh) Ambronn                 +                        +                                   +/          
+  f. secunda Wynne
+  Herposiphonia secunda (C. Agardh) Ambronn                                                                              
+  f. tenella Wynne
+  Herposiphonia sp.                                         +                                      +                        +
+  Laurencia implicata J. Agardh                                                                                           
+  Laurencia obtusa (Hudson) J.V. Lamouroux                  +                        +            +/                      +/          
+  Laurencia sp.                                                                                                                       
+  Polysiphonia sp.                                          +++                    +++/        +/       +++/        +/          
+  Tolypiocladia glomerulata (C. Agardh) F. Schmitz                                                                        
+
+Protozoa
+  Peridinium sp.                                            +                                      +                        +
+  Foraminifera sp.                                                                                                      +
+  Acervulina sp.                                            ++                      ++/        ++/        ++/         +/          +
+  Peneroplis planatus                                       +                                      +                        +
+
+Urochordata
+  Tunicate sp. (solitary tunicates)                         ++                      +/                                 ++/
+
+Polychaete
+  Spirorbis sp.                                             +++                     +/                                 +++/       +++/
+I*—abundance of settlers on file injuries of P. lutea and P. cylindrica for all experiments. II*—abundance of settlers on file injuries of P. lutea
+and P. cylindrica maintained in aquaria under moderate light intensity (30–50% PAR0) from 26.11.02 to 26.07.03. III*—abundance of settlers
+on file injuries of P. lutea and P. cylindrica maintained in aquaria under different light intensities from 26.02.03 to 06.05.03.
++—for P. lutea and —for P. cylindrica; +++/—for more than 10 individuals per cm2 ; ++/—for less than 10 individuals per cm2 ; +/
+—for less than 1 individual occurred per cm2 .
+                                      E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42                                    37
+
+
+
+
+Fig. 3. Regeneration and growth rates of damaged tissue in fragments of the corals P. lutea (A, C, F) and P. cylindrica (B, D, F) at different
+irradiance during winter and spring periods. Error bars represent mean F S.D.
+
+
+
+
+longissima (Bacillariophyta), L. majuscula, Spiru-                        Licmophora abbreviata (Bacillariophyta), Oscillato-
+lina subsalsa (only on P. cylindrica) and Calothrix                       ria spp., Phormidium spp., Spirulina spp. (only on
+spp. (Cyanobacteria), M. nitidum and D. marina                            P. lutea) and Tolypothrix spp. (Cyanobacteria),
+(only on P. lutea), E. clathrata, O. quekettii                            Rhipidosiphon javensis (Chlorophyta), Sphacelaria
+(Chlorophyta), H. mitchelliae (Phaeophyta), Poly-                         uhaeophyta), C. clavulatum (Rhodophyta) were
+siphonia spp. (Rhodophyta) were common. Under                             detected. Under extremely low light, high popula-
+low light, these species were also found in mass                          tion density was recorded for Diatoma spp. (Bacil-
+quantity (except for Polysiphonia sp.). Moreover,                         lariophyta) (only for P. lutea), O. quekettii
+high density of the algae such as Thalassionema                           (Chlorophyta), Sphacelaria rigidula (Phaeophyta)
+nitzschioides (only on P. lutea), Nitzschia seriata,                      and Polysiphonia spp. (Rhodophyta). For animals,
+38                                  E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42
+
+
+Table 3
+Means and standard deviations of relative algal and animal cover (%) on injured areas after 30 and 90 days maintenance in aquaria under
+different light regimes
+Coral species           Injury       Light intensity       From 06.02.03 to 06.03.03, 30 days           From 06.02.03 to 06.05.03, 90 days
+                        type         %, PAR0               Algae                  Animals               Algae                Animals
+Porites lutea           File         70–90                  7.7 F 2.5             b1                     71.6 F 7.6          b1
+                                     10–20                  8.3 F 1.5             b1                     88.3 F 7.6          6.3 F 1.5
+                                      2–5                   6.0 F 2.0             b1                     51.3 F 12.0         2.7 F 1.5
+                        WP           70–90                  3.7 F 2.0               0                   100                  0
+                                     10–20                 14.0 F 2.6               0                    89.6 F 5.5          b1
+                                      2–5                  0.83 F 0.28            b1                     32.3 F 7.8          1.3 F 0.6
+Porites cylindrica      File         70–90                 16.6 F 5.0             b1                     82.6 F 10.4         b1
+                                     10–20                  5.7 F 3.2             1.2 F 0.3              73.0 F 8.0          3.7 F 2.08
+                                      2–5                   2.3 F 0.6             b1                     27.6 F 10.6         4.3 F 1.15
+                        WP           70–30                 12.0 F 10.6            b1                    100                  0
+                                     10–20                 11.3 F 1.5             1.3 F 0.6              74.0 F 8.8          3.0 F 1.7
+                                      2–5                   1.7 F 0.7             3.7 F 2.1              36.0 F 9.1          2.2 F 0.3
+
+
+
+Spirorbis spp. (Polychaete) was dominant under low                       was two and three times higher than that of WP and
+and extremely low light.                                                 cement injuries, respectively. Our estimations
+                                                                         showed that the area of the partially damaged polyps
+                                                                         amounted to 10–20% in the file injuries, 5–10% in
+4. Discussion                                                            the WP injuries and about 1% of the whole area of
+                                                                         the damages in the cement injuries. Bak and
+4.1. Dynamics of repair of the damaged coral tissue                      Steward-van Es (1980) have reported similar results
+and competitive interactions between the corals and                      for the recovery of scraping and tissue injuries for
+the algae during various seasons                                         Porites asteroids. The authors have shown that the
+                                                                         rapid recovery observed was assisted by the regen-
+   As was shown in the previous investigations                           eration of the partially injured polyps within the
+(Bak, 1983; Meesters et al., 1992, 1994; Hall, 2001)                     injured site.
+and in our experiments, regenerative ability of                              Interspecific differences in the rates of regeneration
+injured corals in due course decreased under all                         for all the injury types were mostly found within the
+the tested conditions. One of the main reasons of                        first month of the experiment. The recovery of file and
+such an event occurring during the first months of                       WP injury types in P. lutea was approximately two
+the recovery might be the difference in the rates of                     times faster than that in P. cylindrica both under bright
+the recovery of damaged polyps and the formation                         and low light conditions. This fact undoubtedly
+of new polyps. As considered by Hall (2001), this                        appertains to the differences in the structure of these
+fact could be explained by the energetic expenses for                    corals. The type of injury as well as the structure
+these processes, i.e. it is energetically more costly to                 (morphology) of the polyps effect the number of
+produce new polyps than to repair partially damaged                      partially damaged polyps. Dimension of the file injury
+ones. Our experiments showed that re-growth of the                       restricted mainly by the polyp sizes and the height of
+partially damaged polyps occurred during the first                       corallites (i.e. on depth of the spread of live tissue).
+month of the experiment and then, new polyps                             The distance from the breakage edge (distal margin of
+started to form. The regenerative rate of the partially                  lesion) to the base of damaged polyps (corallites
+damaged polyps was faster than the formation of                          bottom) was approximately two times longer in P.
+new polyps. This fact was confirmed by the differ-                       lutea than in P. cylindrica. Consequently, partly
+ences in the rates of regeneration between different                     damaged tissue with the same injury type inflicted
+injury types during the experiments. During the first                    (file or WP) in P. lutea had a greater area of the lesion
+2 months, the repair of the file injuries in P. lutea                    than that in P. cylindrica.
+                               E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42                       39
+
+
+    Regenerative ability of injured colonies with                  from spring to summer: the number of algae dropped
+different morphologies has been studied in eleven                  by 40 species. However, new species appeared during
+coral species (Hall, 1997). The regenerative abilities             the same period and some of them such as L.
+could be ranked according to morphological attributes              majuscula and L. bouillonii (Cyanobacteria) poisoned
+for these species: arborescent N bushy N tubular N mas-            the corals (Fig. 2A,E; Titlyanov et al., 2004).
+sive N submassive. According to the scheme, recovery                   A previous investigation by Jompa and McCook
+of injuries for P. cylindrica (bushy) must be faster               (2002) has shown that the brown alga Lobophora
+than that for P. lutea (massive). However, we did not              variegata caused tissue mortality in P. cylindrica,
+obtain the confirmation for that in our experiments. A             apparently by adherently overgrowing the basal part
+plausible explanation for this might be the differences            of the coral branches upward, and consequently
+in the physiological state of the corals and conditions            smothering and killing the underlying coral tissue.
+under which the corals were maintained in the present              McCook et al. (see review, 2001) have described
+and Hall’s experiments.                                            many examples of overgrowing of corals by the algae
+    At the first stage of the regeneration of damaged              such as Dichotchrix and Sphacelaria, Cladophorop-
+polyps, coral/algal competition probably does not                  sis, Cladophora and Pneophyllum. However, in our
+determine the recovery rate, although it takes place.              experiments, all the abovementioned algal species
+Damaged tissue of the corals P. cylindrica and P. lutea            were found on the injured corals and were overgrown
+always overgrew algal spores and fragments settled                 by the corals. Moreover, the algae did not display any
+onto the surface of lesions and then entombed them                 negative effects (e.g., necrosis) on the recovery of
+into the skeleton (Fig. 2F).                                       coral tissue, although, they impeded the tissue growth
+    Long-term experiments showed that the regener-                 via physical obstacles. Recent studies (Jompa and
+ation rate for all injury types dropped 2–3 times within           McCook, 2003a,b) have reported that the red algae
+summer compared to spring. During these periods,                   Corallophila huysmansii and Anotrichium tenue were
+lesion healing was occurred via formation of new                   able to colonize and overgrow live tissue of the
+polyps and occupation of dead skeleton overgrown                   branching coral P. cylindrica and that the live tissue
+with algae. Two explanations could be proposed for                 became bleached and swollen and subsequently died.
+the reduction in the rates of wound healing during the             In our experiments, A. tenue, which was rarely found
+summer period. Firstly, the reduced regeneration rate              and occurred only on damaged P. lutea, did not
+depended on 1.5–2-fold decrease in the growth rates                present any serious impediment for the coral. C.
+of the corals probably caused by elevated temperature              huysmansii was not recorded on damages. Tanner
+in aquaria of up to 30–31 8C at midday during                      (1995) and Miller and Hay (1998) also have found
+summer. Secondly, the algal and animal settlers onto               relatively minor effects of primarily upright macro-
+new substrate caused the slower regeneration.                      algae on the coral mortality. Several studies (Meesters
+    The first supposition is confirmed by measure-                 and Bak, 1993; Meesters et al., 1994, 1997a,b; Van
+ments of growth rates. Mass of the coral fragments                 Woesik, 1998; McCook, 2001) have shown that
+significantly (two times) dropped in P. lutea during               filamentous turfs are poor competitors with corals in
+summer. The second supposition is confirmed by data                the field as well as under experimental conditions.
+on measurements of injured area colonized by the                   Two recent works (Jompa and McCook, 2003a,b) also
+algae and the animals. For instance, algal coverage on             have shown that mixed algal turfs were relative poor
+cement injuries amounted 7% and 32.6% in winter                    competitors with P. cylindrica.
+and spring seasons, respectively, whereas it reached                   Thus, our experiments showed that, when the
+52% in summer season. In most cases, algal com-                    corals P. cylindrica and P. lutea were recovered from
+munities act as a physical impediment for coral live               injuries, these species overgrew more than 100 species
+tissue extension on available substrate (Fig. 2A,B,C).             of micro- and macro algae, and only two species of
+Moreover, some of them also act as a chemical                      the Cyanobacteria (Lyngbya bouillonii and L. majus-
+impediment (Fig. 2E) probably because of the release               cula) acted as poison for the corals and significantly
+of secondary products which could poison the coral                 inhibited their growth, lesion healing and sometimes
+tissue. The algal composition changed significantly                bleached the corals (Titlyanov et al., 2004).
+40                             E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42
+
+
+   We suppose that allelopathic effect of L. majuscula             Thus, under the conditions of bright and low light, the
+and L. bouillonii on live coral tissue was probably                algae (and animals) settled onto dead surfaces of the
+caused by biologically active metabolites such as                  damaged corals caused approximately equal physical
+curacin D, barbamide, dechlorbarbamide (found in L.                and chemical impediments for the spreading of live
+majuscula) that are toxic for many marine organisms                tissue of P. cylindrica and P. lutea. The situation was
+(Marquez et al., 1998; Chang et al., 2002; Wu et al.,              sharply changed under extremely low light. The
+1997; Gerwick et al., 2003). For example, curacin D is             projective cover by algae amounted only to 20–40%
+an antimitotic agent (Marquez et al., 1998), which                 of injured area and the number of algal species
+probably inhibits nuclei division in polyp cells as well           dropped two times in the extremely low light treat-
+as in their zooxanthellae. Previously, De Nys et al.               ment compared to the low light treatment. The
+(1991) have shown that the red alga Plocamium                      poisonous cyanobacterium L. majuscula was absent.
+hamatum could affect and kill live tissue of the                   The number of animals (especially Spirorbis spp.)
+octocoral Sinularia cruciata by releasing the secon-               was approximately the same with that observed under
+dary product—Chloromertensene.                                     low light. Thus, algal colonizers on damaged corals
+                                                                   acted as physical and chemical (allelopathic) impedi-
+4.2. Ability to recover from injuries under main-                  ments for recovery of polyps under a wide range of
+tenance of fragments in aquaria with different light               light intensity (from 2% to 90% PAR0). Mass and
+intensities                                                        morphology of the algae, their density and negative
+                                                                   allelochemical properties affected the regenerative
+   Recovery from injuries had similar rates for both               ability of the corals.
+coral species under bright (70–90% PAR0) and low
+(10–20% PAR0) light and dropped only under
+extremely low light (2–5% PAR0), which is close to                 5. Conclusions
+the light limiting levels for scleractinian coral
+distribution across depth (Titlyanov and Titlyanova,                  Two species of scleractinian corals, the massive P.
+2002). Moreover, wound healing and new polyps                      lutea and the branching P. cylindrical, were able to
+formation at the injured areas for P. lutea under light            completely regenerate tissue and skeleton from
+intensity less than 1% PAR0 was detected (Titlyanov                injuries with partial or complete tissue removal.
+et al., unpublished data). It is assumed that regener-             The injured areas healed in two stages. At the
+ation of injuries has priority trend in metabolism of              beginning, partially damaged polyps healed and then
+corals even under extreme conditions. Probably,                    new polyps were formed on the injured areas.
+scleractinian corals are able to use the energy of                 During the first stage, the injury type, morphology
+heterotrophic metabolism as a result of predation of               and anatomy of the injured tissue, physiological state
+zooplankton or digestion of its own zooxanthellae                  of the corals, light conditions and to a lesser degree
+(Titlyanov et al., 1996, 2000) for tissue recovery                 coral/algal competition affected the duration of the
+under low light.                                                   polyp regeneration. During the second stage of the
+   Biomass and structure of the community of algal                 recovery, the rate of live tissue extension and new
+settlers affected the rate of live tissue extension on             polyp formation on dead areas of lesions were
+coral lesions. Under bright and low light, algae                   mainly affected by physiological state of the
+covered the injured area approximately by 80–90%                   damaged coral, light and temperature during their
+within 90 days. The number of algal species found on               maintenance and by coral/algal competition. Com-
+injured areas of the corals maintained under low light             petitive interactions between the newly formed
+was higher than that under bright light. Under these               polyps and the algal/animal settlers took place only
+both light intensities, N. longissima (Bacillariophyta),           under their direct contact. Both coral species were
+L. majuscula (Cyanobacteria), E. clathrata (Chloro-                able to overgrow more than 100 species of the algae
+phyta) and H. mitchelliae (Phaeophyta) were domi-                  and some species of sessile animals on the dead
+nant. Algal density and size of mass algal species                 areas of the injuries. All settlers acted as physical
+were similar under bright and low light exposures.                 impediment for the spreading of live coral tissue and
+                                     E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42                                         41
+
+
+thus reduced the rate of occupation of the substrate                         origin involving an unusual trichloroleucyl starter unit. Gene
+by the live tissue. Only in one case, allelopathic                           296 (1–2), 235 – 247.
+                                                                         De Nys, R., Coll, J.C., Price, I.R., 1991. Chemically mediated
+effect of the algae on corals was detected: mono-                            interactions between the red alga Plocamium hamatum (Rho-
+dominant community of L. majuscula (Cyanobac-                                dophyta) and the octocoral Sinularia cruciata (Alcyonacea).
+teria) being under direct contact with polyps of both                        Mar. Biol. 108, 315 – 320.
+coral species, inhibited coral growth and even                           Diaz-Pulido, G., McCook, L.J., 2002. The fate of bleached corals:
+                                                                             patterns and dynamics of algal recruitment. Mar. Ecol. Prog. Ser.
+bleached the polyps.
+                                                                             232, 115 – 128.
+    Thus, results of the experiments conducted under                     Done, T.J., 1992. Phase shifts in coral reef communities and their
+conditions close to natural environments suggest that                        ecological significance. Hydrobiologia 247, 121 – 132.
+scleractinian corals at the fringing reef of Sesoko                      Gerwick, W.H., Leslie, P., Long, G.C., Marquez, B.L., Willis, C.L.,
+Island successfully recover after the 1998 coral                             2003. [6-13C]-2.4S)-5-Chloroleucine: synthesis and incubation
+bleaching. Algae and animals settled onto damaged                            studies with cultures of the cyanobacterium, Lyngbya majus-
+                                                                             cula. Tetrahedron Lett. 44 (2), 285 – 288.
+areas impeded the recovery of coral reef by reducing                     Hall, V.R., 1997. Interspecific differences in the regeneration of
+the rate of occupation of the substrate by the polyps.                       artificial injuries on scleractinian corals. J. Exp. Mar. Ecol. Prog.
+Some ephemeral algae (e.g., L. majuscula) temporally                         Ser. 212, 9 – 23.
+impeded the recovery due to allelopathic effect. The                     Hall, V.R., 2001. The response of Acropora hyacinthus and
+average rate of lesion healing (about 4 mm/year)                             Montipora tuberculosa to three different types of colony
+                                                                             damage: scraping injury, tissue mortality and breakage. J. Exp.
+supports the idea that corals damaged during the 1998                        Mar. Biol. Ecol. 264, 209 – 223.
+bleaching events can completely recover after 30–50                      Hughes, T.P., 1994. Catastrophes, phase shifts and large-scale
+years under favorable conditions (i.e. in the absence of                     degradation of a Caribbean coral reef. Science 265,
+negative effects of natural catastrophes and pollution                       1547 – 1551.
+due to human activities).                                                Jompa, J., McCook, L.J., 2002. Effects of competition and
+                                                                             herbivory on interactions between a hard coral and a brown
+                                                                             alga. J. Exp. Mar. Biol. Ecol. 271, 25 – 39.
+                                                                         Jompa, J., McCook, L.J., 2003a. Coral–algal competition: macro-
+Acknowledgement                                                              algae with different properties have different effects on corals.
+                                                                             Mar. Ecol. Prog. Ser. 258, 79 – 86.
+   The Russian authors thank the President of the                        Jompa, J., McCook, L.J., 2003b. Contrasting effects of turf algae on
+University of the Ryukyus, Prof. Moshin Morita and                           corals: massive Porites spp. are unaffected by mixed species but
+                                                                             killed by the red alga Anotrichium tenue. Mar. Ecol. Prog. Ser.
+the scientific leader of the Sesoko Marine Biological
+                                                                             258, 87 – 95.
+Station Prof. Minoru Murai for the invitation to work at                 Lapointe, B.E., 1989. Caribbean coral reefs: are they becoming
+the Sesoko Station of the Tropical Biosphere Research                        algal reefs? Sea Front. 35, 82 – 91.
+Center. We are also grateful to all members of the                       Littler, M.M., Littler, D.S., 1984. Models of tropical reef biogenesis:
+Sesoko Station for use of facilities, technical help,                        the contribution of algae. In: Round, F.E., Chapman, D.J. (Eds.),
+                                                                             Progress in Phycological Research vol. 3. Biopress, Bristol,
+hospitality and convenience of research work. [SS]
+                                                                             England, pp. 323 – 363.
+                                                                         Loya, Y., Sakai, K., Yamazato, K., Nakano, Y., Sambali, H., Van
+                                                                             Woesik, R., 2001. Coral bleaching: the winners and the losers.
+References                                                                   Ecol. Lett. 4, 122 – 131.
+                                                                         Marquez, B., Verdier-Pinard, P., Hamel, E., Gerwick, W.H.,
+Bak, R.P.M., 1983. Neoplasia, regeneration and growth in the reef-           1998. Curacin D. An antimitotic agent from the marine
+   building coral Acropora palmata. Mar. Biol. 77, 221 – 227.                cyanobacterium Lyngbya majuscula. Phytochemistry 49 (8),
+Bak, R.P.M., Steward-van Es, Y., 1980. Regeneration of superficial           2387 – 2389.
+   damage in the scleractinian corals Agaricia agaricites f.             Marshall, P.A., 2000. Skeletal damage in reef corals: relating
+   purpurea and Porites astreoides. Bull. Mar. Sci. 30, 883 – 887.           resistance to colony morphology. Mar. Ecol. Prog. Ser. 200,
+Brinkhuis, B.H., 1985. Growth patterns and rates. Hand-book of               177 – 189.
+   Phycological Methods. Ecological Field Methods: Macroalgae.           McCook, L.J., 2001. Competition between coral and algal turfs
+   NJ Cambridge University Press, pp. 461 – 477.                             along a gradient of terrestrial influence in the nearshore central
+Chang, Z., Flatt, P., Gerwick, W.H., Nguyen, V.-A., Willis, C.L.,            Great Barrier Reef. Coral Reefs 19, 419 – 425.
+   Sherman, D.H., 2002. The barbamide biosynthetic gene cluster:         McCook, L.J., Jompa, J., Diaz-Pulido, G., 2001. Competition
+   a novel marine cyanobacterial system of mixed polyketide                  between corals and algae on coral reefs: a review of evidence
+   synthase (PKS)–non-rhibosomal peptide synthetase (NRPS)                   and mechanisms. Coral Reefs 19, 400 – 417.
+42                                    E.A. Titlyanov et al. / J. Exp. Mar. Biol. Ecol. 323 (2005) 27–42
+
+
+Meesters, E.H., Bak, R.P.M., 1993. Effects of coral bleaching on              Ecosystem Stability. IVB, ISEEQS Publishers, Jerusalem, Israel,
+   tissue regeneration potential and colony survival. Mar. Ecol.              pp. 259 – 265.
+   Prog. Ser. 96, 189 – 198.                                              Sakai, K., Muko, S., Nishikawa, A., Iwase, A., Heyward, A., 2004.
+Meesters, E.H., Bak, R.P.M., 1995. Age-related deterioration of a             Coral recruitment and recovery of coral communities after 1998
+   physiological function in the branching coral Acropora palmata.            mass coral bleaching around Okinawa Island. Abst. 10th Int.
+   Mar. Ecol. Prog. Ser. 121, 203 – 209.                                      Coral Reef Symp. Japan, p. 135.
+Meesters, E.H., Bos, A., Gast, G.J., 1992. Effects of sedimentation       Tanner, J.E., 1995. Competition between scleractinian corals and
+   and lesion position on coral tissue regeneration. Proc. 7th Int.           macroalgae: an experimental investigation of coral growth,
+   Coral Reef Symp. vol. 2, pp. 681 – 688.                                    survival and reproduction. J. Exp. Mar. Biol. Ecol. 190,
+Meesters, E.H., Noordeloos, M., Bak, R.P.M., 1994. Damage                     151 – 168.
+   and regeneration: links to growth in the reef-building                 Titlyanov, E.A., Titlyanova, T.V., 2002. Reef-building corals-sym-
+   coral Montastrea annularis. Mar. Ecol. Prog. Ser. 112,                     biotic autotrophic organisms: 2. Pathways and mechanisms of
+   119 – 128.                                                                 adaptation to light. Russ. J. Mar. Biol. 28, 16 – 31.
+Meesters, E.H., Wesseling, I., Bak, R.P.M., 1997a. Coral colony           Titlyanov, E.A., Titlyanova, T.V., Leletkin, V.A., Tsukahara, J.R.,
+   tissue damage in six species of reef-building corals: partial              van Woesik, R., Yamazato, K., 1996. Degradation of zooxan-
+   mortality in relation with depth and surface area. J. Sea Res. 37          thellae and regulation of their density in hermatypic corals. Mar.
+   (1–2), 131 – 144.                                                          Ecol. Prog. Ser. 139, 167 – 178.
+Meesters, E.H., Pauchli, W., Bak, R.P.M., 1997b. Predicting               Titlyanov, E.A., Leletkin, V.A., Dubinsky, Z., 2000. Autotrophy and
+   regeneration of physical damage on a reef-building coral by                predation in the hermatypic coral Stylophora pistillata in
+   regeneration capacity and lesion shape. Mar. Ecol. Prog. Ser.              different light habitats. Symbiosis 29, 263 – 281.
+   146, 91 – 99.                                                          Titlyanov, E.A., Titlyanova, T.V., Yakovleva, I.M., 2004. Compet-
+Miller, M.W., 1998. Coral/seaweed competition and the control of              itive relationships between algal and coral polyps communities
+   reef community structure within and between latitudes. Ocean-              under direct and indirect contacts on damaged corals. Abstr.
+   ogr. Mar. Biol. Ann. Rev. 36, 65 – 96.                                     10th Intern. Coral Reef Symp. June 28 to July 2, 2004,
+Miller, M.W., Hay, M.E., 1998. Effects of fish predation and                  Okinawa, Japan, p. 135.
+   seaweed competition on the survival and growth of corals.              Van Woesik, R., 1998. Lesion healing on massive Porites spp.
+   Oecologia 113, 231 – 238.                                                  corals. Mar. Ecol. Prog. Ser. 164, 213 – 220.
+Oren, U., Benayahu, Y., Loya, Y., 1997. Effect of lesion size and         Wahle, C.M., 1983. Regeneration of injuries among Jamaican
+   shape on regeneration of the Red Sea coral Favia favus. Mar.               gorgonians: the roles of colony physiology and environment.
+   Ecol. Prog. Ser. 6, 101 – 107.                                             Biol. Bull. 164, 778 – 790.
+Rinkevich, B., Loya, Y., 1989. Reproduction in regenerating               Wu, M., Milligan, K.E., Gerwick, W.H., 1997. Three new
+   colonies of the coral Stylophora pistillata. In: Spanier, E.,              malyngamides from the marine cyanobacterium Lyngbya
+   Steinberger, Y., Luria, N. (Eds.), Environmental Quality and               majuscula. Tetrahedron 53 (47), 15983 – 15990.
+

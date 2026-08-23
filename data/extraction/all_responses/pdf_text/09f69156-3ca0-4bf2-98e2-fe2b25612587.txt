@@ -1,0 +1,685 @@
+   Vol. 428: 105–117, 2011                    MARINE ECOLOGY PROGRESS SERIES
+                                                                                                                Published May 3
+      doi: 10.3354/meps09060                          Mar Ecol Prog Ser
+
+
+
+
+       Lesion regeneration capacities in populations of
+      the massive coral Porites lutea at Réunion Island:
+                  environmental correlates
+       V. Denis1,*, J. Debreuil1, 3, S. De Palmas1, J. Richard1, 4, M. M. M. Guillaume1, 2,
+                                        J. H. Bruggemann1
+           1
+            Laboratoire d’Ecologie Marine, Université de la Réunion, BP 7151, 97715 Saint-Denis, La Réunion, France
+  2
+      Département Milieux et Peuplements Aquatiques, UMR CNRS-MNHN-UPMC-IRD BOrEA, Muséum National d’Histoire
+                                        Naturelle, 61 rue Buffon, 75005 Paris, France
+                   3
+                   Present address: Centre Scientifique de Monaco, Avenue Saint Martin, MC98000, Monaco
+               4
+                Present address: British Antarctic Survey, High Cross, Madingley Road, Cambridge CB30ET, UK
+
+
+
+
+         ABSTRACT: The capacity of corals for repairing partial mortality is a fundamental determinant of
+         reef resilience. This capacity was assessed in the major reef-building coral Porites lutea by monitor-
+         ing the regeneration of artificially induced lesions of standard size (330 ± 50 mm2, 3 mm deep) in 4
+         shallow reef flat populations at Réunion Island, under different environmental conditions related to
+         sites and seasons, during a period without positive temperature anomalies. An exponential decay
+         model with an asymptote described the lesion regeneration through 14 experiments. In spite of fast
+         initial lesion regeneration, limited capacity for repair in this massive coral was indicated, as only 18%
+         of the inflicted lesions healed completely within 6 to 9 mo. Lesion regeneration was fastest and most
+         complete in the cooling and cool seasons, and may be impaired during the warming and hot seasons.
+         Both solar radiation and seawater temperature contributed to seasonal changes in regeneration
+         capacity, although they had opposite effects. While high radiation during the warming season
+         decreased lesion regeneration rate, potentially through reduction of the photosynthetic efficiency of
+         zooxanthellae, high temperature boosted it but also increased the amount of lesion area that could
+         not be regenerated. Study sites were characterised by different temperature and radiation regimes,
+         but these parameters alone could not explain all site effects on lesion regeneration capacity. Addi-
+         tional factors, most probably chronic stress caused by inputs of organic matter and run-off from land,
+         may further compromise the regeneration capacity of corals and the resilience of coral populations.
+
+         KEY WORDS: Scleractinia · Partial mortality · Resilience · Reproduction · Sea surface temperature ·
+         Solar radiation · Western Indian Ocean
+                               Resale or republication not permitted without written consent of the publisher
+
+
+
+
+                       INTRODUCTION                                      temperature anomalies and human activities may all
+                                                                         result in partial mortality of the coral colony
+   Scleractinian corals are damaged by a multitude of                    (DeVantier & Done 2007). Coral bleaching, the loss of
+biotic and abiotic factors, resulting in chronic or acute                symbiotic zooxanthellae following anomalous high
+tissue loss from colonies (Bythell et al. 1993, Connell                  temperatures in synergy with high light intensities,
+1997) to profound reductions of living coral cover on                    also often leads to partial mortality in affected parts of
+reefs (Goreau et al. 2000). Predation, diseases, compe-                  the colony, rather than the death of the entire colony
+titive interactions, emersion, storms, sedimentation,                    (Jones 2008). Colony survival and community recovery
+
+
+*Email: vianney.denis@univ-reunion.fr                                    © Inter-Research 2011 · www.int-res.com
+106                                       Mar Ecol Prog Ser 428: 105–117, 2011
+
+
+
+
+will, in part, depend on the regenerative capacities of       affected by global change during coming decades
+remnant coral colonies (Hughes & Jackson 1985). Diaz-         (Hoegh-Guldberg et al. 2007). Currently, it is a major
+Pulido et al. (2009) showed that rapid, large-scale           reef-building coral at Réunion Island (Guillaume 1988,
+recovery of coral communities after severe bleaching          Bruggemann et al. 2008). Moreover, previous studies
+depended largely on the survival and re-growth of             of lesion regeneration provide comparative data (van
+remnant coral tissue and identified regeneration              Woesik 1998, Titlyanov et al. 2005, Titlyanov &
+capacity as a key determinant of coral reef resilience.       Titlyanova 2009).
+   The clonal architecture of coral colonies facilitates
+the repair of partial mortality by the reallocation of
+resources among units (Oren et al. 1997a), although                        MATERIALS AND METHODS
+the spatial extent of the mobilization of energy may be
+limited (Meesters et al. 1994). Regeneration competes            Study sites and environmental setting. The study
+with other biological processes such as growth, repro-        was conducted from June 2007 to November 2008 at
+duction, mucus production and competition (Meesters           Réunion Island (21° 07’ S, 55° 32’ E), a tropical high vol-
+et al. 1994, Ward 1995, Rinkevich 1996, Kramarsky-            canic island located in the south-western Indian Ocean
+Winter & Loya 2000, Titlyanov et al. 2005). Lesion            (Fig. 1a,b). Experiments were conducted in situ on
+regeneration typically begins with the inward progres-        shallow subtidal reef flats (1 to 2 m depth) at 4 different
+sion of undifferentiated tissue created by the polyps         sites: Planch’Alizé and Trou d’Eau at la Saline reef,
+and coenenchyme surrounding the lesion, followed by           and Varangue and Kiosque at Saint-Leu reef. La Saline
+the appearance of new polyps (Bak et al. 1977). Reduc-        reef is the most extensive of the 4 reef complexes at
+tion in lesion size has been described using a negative       Réunion Island, with the reef flat extending 350 to
+exponential curve (Bak 1983, Meesters et al. 1992,            550 m from shore over 9 km length (Fig. 1c). Benthic
+Meesters & Bak 1993, van Woesik 1998). However, the           surveys (Naim 2006, Bruggemann et al. 2008) showed
+regeneration capacity of lesions varies with species          a relatively low coral diversity at la Saline, while at
+(reviewed by Henry & Hart 2005), colony characteris-          Planch’Alizé a large proportion of dead corals was cov-
+tics (Kramarsky-Winter & Loya 2000, Oren et al. 2001),        ered by macroalgae. At Saint-Leu the reef flat is 5.7 km
+lesion size and shape (Meesters et al. 1997, Oren et al.      long and 200 to 250 m wide (Fig. 1d), with coral com-
+1997b, van Woesik 1998) and environmental condi-              munities that have shown high resilience to distur-
+tions (Fisher et al. 2007). Incomplete lesion regenera-       bance (Scopélitis et al. 2009). Varangue is located near
+tion is characteristic for massive corals (Meesters et al.    2 river gullies (Fig. 1d) and is subject to terrigenous
+1994, 1997, Fisher et al. 2007). Therefore, an asymptote      input, mainly during the hot, rainy season (Naim et al.
+has been included in many regeneration models.                1997). Kiosque is exposed to strong wave action and
+Stressful environmental conditions that negatively            has a constant influx of coastal water. This site presents
+affect the holobiont physiological state (Fisher et al.       the highest coral diversity known from Réunion
+2007), and hence the quantity of energy that the coral        (Bruggemann et al. 2008).
+can allocate to regeneration, have been shown to                 Seawater temperature (sea surface temperature,
+decrease the regeneration capacity of corals (Lester &        SST) was measured in situ at each site at hourly inter-
+Bak 1985, Titlyanov et al. 2005). Under prolonged             vals using calibrated underwater temperature loggers
+stress, recovery may be impeded and supplanted by             (Hobo Water Temp Pro, accuracy: 0.2°C, Onset Com-
+progressive necrosis, leading to permanent partial            puter Corporation). SSTs were highest from January to
+mortality or worse, total mortality of the coral colony       April and lowest from July to October (Fig. 2a–d).
+(Meesters et al. 1994). Consequently, deviations from         Planch’Alizé (Fig. 2a) had the highest SSTs, ranging
+typical curve descriptors have been used to assess            from 29.0°C in February 2007 to 23.5°C in August
+colony condition and environmental quality (Ginsburg          2008, and highest SST variation (SD of monthly means
+et al. 2001, Fisher et al. 2007).                             > 0.8°C). Mean daily maxima varied from 30.5°C in the
+   The current study was designed to evaluate the             hot season (February 2007) to 25.0°C in the cool season
+regeneration capacity of lesions on the massive scler-        (July 2008), with a highest temperature of 32.7°C
+actinian coral Porites lutea Milne-Edwards and Haime          recorded in February 2007. At Kiosque (Fig. 2d), SST
+1860. The role of extrinsic factors was analysed by           ranged from 27.5°C in the hot season (January 2008) to
+monitoring colonies in different environmental settings       23.2°C in the cool season (August 2008) with the lowest
+and seasons. Intrinsic effects on capacity to regenerate      SST variation compared to Planch’Alizé (SD of
+lesions were minimized by creating artificial lesions of      monthly means < 0.8°C). Mean daily maxima ranged
+standard size and shape. P. lutea was selected because,       from 27.9°C in the hot season to 23.6°C in the cool sea-
+like other massive species of this genus, it will proba-      son, with a highest recorded temperature of 29.1°C.
+bly remain an important member of coral communities           Temperature characteristics of Trou d’Eau (Fig. 2b)
+                                        Denis et al.: Regeneration capacity of Porites lutea                                     107
+
+
+
+
+Fig. 1. (a) Réunion Island in the south-western Indian Ocean. (b) The 2 reef complexes studied. Study sites at (c) la Saline reef and
+                                                        (d) Saint-Leu reef
+
+
+and Varangue (Fig. 2c) were intermediate between                     est radiation occurred during the cooling and early
+these extremes, with slightly higher temperatures at                 cool seasons (June to July). Due to the formation of
+the former site.                                                     clouds along the steep slopes above Saint-Leu, daily
+   Water flow is considered proportional to the weight               cumulated radiation is lower here than at Trois-Bassins
+loss of ‘clod cards’ (g d–1; Doty 1971). It was estimated            during the warming and hot seasons. During the
+using 10 replicate clod cards made of plaster of Paris               coolest months, radiation values were similar for both
+(calcium sulfate), prepared as described by McClana-                 reef complexes (~1400 J cm–2). Seasonal precipitation
+han et al. (2005), deployed simultaneously at each                   was characteristic of a tropical climate with alternating
+study site in December 2007 (hot season) and collected               wet and dry seasons (Table 1). High rainfall occurs
+after 24 h. Water flow differed significantly between                mainly during the hot season, with peaks recorded in
+sites (analysis of variance, ANOVA, F = 324.9, p < 0.01;             February 2007 and 2008 at Saint-Leu.
+Fig. 2e). Highest clod dissolution rates were recorded                 Lesion regeneration. Artificial lesions were inflicted
+at the Saint-Leu reef sites (Kiosque: 27.6 ± 2.3 g d–1;              seasonally (Fig. 2a–d) on the top of hemispherical coral
+Varangue: 17.8 ± 2.1 g d–1). Water flow at both la Saline            colonies of Porites lutea (mean ± SD colony diameter:
+reef sites was much lower (Trou d’Eau: 4.8 ± 1.7 g d–1;              0.68 ± 0.22 m, n = 70), in July 2007 (cool season), No-
+Planch’Alizé: 7.0 ± 1.2 g d–1).                                      vember 2007 (warming season), January 2008 (hot sea-
+   Cumulated daily global radiation (J cm–2) and                     son) and May 2008 (cooling season). In July 2007, le-
+monthly precipitation data were obtained from the                    sion regeneration was assessed on 25 colonies selected
+French meteorological service from the station Trois-                haphazardly at Planch’Alizé and Kiosque. After analy-
+Bassins (no. 97415590), located at sea level near la                 sis of this first data set, the number of colonies moni-
+Saline reef, and station Saint-Leu (no. 97413545),                   tored during subsequent seasons was reduced to 10,
+located above Saint-Leu reef at 205 m altitude                       and experiments expanded to the sites Trou d’Eau and
+(Fig. 1c,d). Monthly means of daily cumulated radia-                 Varangue. Lesions were made using a grinding stone
+tion were highest in the warming season (November to                 (Dremel no. 8193) powered by a pneumatic drill, creat-
+December, Table 1) and decreased during the hot sea-                 ing circular lesions of 20.5 ± 1.5 mm (n = 170) diameter.
+son, especially during months with high rainfall. Low-               Lesion depth was set at 3 mm, which left no visible
+108                                      Mar Ecol Prog Ser 428: 105–117, 2011
+
+
+
+
+                                                                 Fig. 2. Monthly variation in sea surface temperature
+                                                                 recorded at (a) Planch’Alizé, (b) Trou d’Eau, (c) Va-
+                                                                 rangue and (d) Kiosque at 1.2 m depth from January
+                                                                 2007 to December 2008. Bars above (a) and (b) indicate
+                                                                 seasonality: H: hot season, HC: cooling season, C: cool
+                                                                 season, CH: warming season. Arrows indicate times of
+                                                                 lesion infliction. (e) Clod card dissolution rates (g d–1) at
+                                                                 the study sites (all means were significantly different
+                                                                 from one another at p < 0.05). Error bars are ± SD for all
+                                                                                            panels
+
+
+
+traces of remaining coral tissue inside the lesions.         portion recovered of the initial lesion area versus time
+Lesion regeneration was monitored by taking digital          (Nagelkerken & Bak 1998). For each lesion, least-
+photographs at a fixed distance, including a scale to        squares regressions were used to fit an exponential
+calibrate measurements. Monitoring frequency was             decay model with an asymptote (Meesters et al. 1994,
+adapted to the rate of regeneration, ranging from daily      1997, Fisher et al. 2007), as lesions were often not com-
+shortly after lesion induction, to 3 wk intervals. Regen-    pletely closed:
+eration was monitored during at least 150 d and until
+                                                                     Size = Asymptote + [Sizereg × e(– Slope × t)]          (1)
+no significant change in lesion size was detected. Sur-
+face area of lesions was quantified from photographs         where Size = lesion surface; Asymptote = the area not
+using CPCe software (Kohler & Gill 2006).                    regenerated after regeneration ceased; Sizereg = the
+   Initial lesion size was defined as the maximum size of    maximum area that can be fully regenerated; Slope =
+the lesion before first signs of regeneration and was        regression slope; t = time in days. Regeneration rate
+fixed at 100%. Regeneration was quantified as the pro-       can be determined using the differential equation:
+                                       Denis et al.: Regeneration capacity of Porites lutea                              109
+
+
+
+
+Table 1. Monthly means of daily cumulated global radiation         colony in different seasons were treated as dependent
+and monthly total rainfall from January 2007 to December           variables. Colony size and initial lesion size were taken
+2008 at Trois-Bassins (near la Saline, 5 m altitude) and Saint-
+                                                                   as co-variables in analyses of covariance (ANCOVA),
+             Leu (205 m altitude), Réunion Island
+                                                                   with sites and seasons as factors, to test their potential
+                                                                   effects on lesion regeneration parameters.
+ Year    Month         Radiation (J cm–2)      Rainfall (mm)
+                                                                     When parametric assumptions were met, differences
+                         Trois-   Saint-      Trois- Saint-
+                        Bassins     Leu      Bassins Leu           in model parameters between sites were tested using
+                                                                   analysis of variance (ANOVA), while season effects
+ 2007    January          2045      1845        25      32         alone, or season and site effects combined, were tested
+         February         2041      1703       147     277         using repeated measures ANOVA (RMA), using when
+         March            2171      1835        17      30
+         April            1703      1468        19       5
+                                                                   necessary the Greenhouse-Geisser correction to accom-
+         May              1618      1523         3       4         modate violation of sphericity assumption (Stevens
+         June             1430      1420         6      19         2002). We used t-tests and Fisher least significant dif-
+         July             1401      1370        56     103         ference (LSD) post hoc comparisons to interpret effects
+         August           1716      1580         9       7
+                                                                   detected by ANOVA. When parametric assumptions
+         September        1967      1799         3      15
+         October          2117      1838        40      40         could not be met, untransformed data (Sokal & Rohlf
+         November         2433      1985         0       5         1995) were analysed using KW to test season and site
+         December         2351      2103       162     116         effects separately and combined with the Scheirer-
+                                                                   Ray-Hare extension (SRH) to test season and site
+ 2008    January          2192      1847       174     137
+         February         2031      1707       127     199
+                                                                   effects simultaneously. Combinations of variables that
+         March            2111      1943        95     100         best predicted the regeneration parameters were
+         April            1685      1548        19      50         examined using forward stepwise least-squares multi-
+         May              1563      1544        56      55         ple regressions procedures (Sokal & Rohlf 1995). Val-
+         June             1347      1404        42      88
+                                                                   ues of environmental parameters were averaged over
+         July             1494      1539         0       1
+         August           1787      1654         9       4         various time periods following lesion infliction (day,
+         September        1891      1651        10      26         week, fortnight, month and total monitored lesion
+         October          1949      1802         7      19         regeneration period) and correlated to model esti-
+         November         2137      1777         3      35         mates. Best fits were obtained using monthly means of
+         December         2524      2209        11       9
+                                                                   daily average water temperature, monthly means of
+                                                                   daily cumulative solar radiation and monthly cumu-
+                                                                   lated rainfall; these values were used in regression
+                                                                   analysis. Absence of multicollinearity between vari-
+                d (Size – Asymptote)/dt =
+                                                             (2)   ables was assessed first using pairwise correlation,
+               –(Size – Asymptote) × Slope
+                                                                   then by examining the variance inflation factor (VIF)
+   Lesion size decreases exponentially over time as                values. All statistical analyses were performed using
+does the regeneration rate, which is a function of                 Statistica 6.1 (StatSoft).
+remaining lesion size. Therefore, the initial regenera-
+tion rate, also called maximum regeneration rate, was
+calculated at time 0, just after lesion infliction.                                           RESULTS
+   Statistical analysis. Normality and homogeneity of
+the data were checked visually using residual plots. As                 Onset and progression of lesion regeneration
+different scales of transformation failed to meet para-
+metric assumptions, differences in initial lesion size               In total, > 2500 photographs were analysed to monitor
+between sites and seasons were tested using the non-               the healing process of 170 lesions. During the first hours
+parametric Kruskal-Wallis (KW) analysis of variance                after removing coral tissue, fishes and hermit crabs
+followed by multiple pairwise comparisons.                         cleaned the lesions by eating dead tissue at the edges.
+   R2 represents the proportion of the variance ex-                Thus, during the first day, lesion size increased slightly
+plained by the lesion regeneration model. Model fit                due to mortality of surrounding polyps. Lesion regener-
+was compared by season and by site using R2 values                 ation was manifest from the second day onwards by the
+calculated for each lesion. Season and site effects on             rapid decrease of the lesion size (Fig. 3). Regeneration
+model estimates (slope, asymptote, initial regeneration            from within lesions was not observed. During the first
+rate) were analysed using parameters estimated for                 weeks of the regeneration process, healing edges pre-
+each lesion. Lesion regeneration parameters obtained               sented a conspicuous pale colour; these recovered pig-
+from different colonies were considered as indepen-                mentation similar to that of the rest of the colony, after
+dent variables, whereas those obtained from the same               this period of intense regeneration (Fig. 4a). Often, and
+110                                           Mar Ecol Prog Ser 428: 105–117, 2011
+
+
+
+
+Fig. 3. Porites lutea. Change in lesion size as % of original lesion size over time (mean ± SE) at the different reef sites in the
+(a) cool season, (b) warming season, (c) hot season and (d) cooling season. Note differences in the scales of the (a) x-axis and
+                           (c) y-axis; no cool season data were available for Trou d’Eau and Varangue
+
+
+
+in particular for degenerating lesions, a bright pink le-          curred only at Planch’Alizé and Varangue during the
+sion margin was observed (Fig. 4b).                                hot season, affecting 57 and 46% of the lesions,
+   Initial lesion size was 330 ± 50 mm2 (mean ± SD, n =            respectively (Figs. 3c, 4b).
+170). Despite efforts to inflict similar sized lesions, initial
+lesion sizes at Varangue were slightly higher for the
+warming season (390 ± 40 mm2, n = 10, KW, H = 35.3, p <                                Parameter estimates
+0.001) than for other sites and seasons. Differences in ini-
+tial lesion size did not affect lesion regeneration parame-           The temporal evolution of lesion size generally fol-
+ters (ANCOVA, regression slope: F = 0.13, p = 0.72; as-            lowed an exponential decay curve to an asymptote
+ymptote: F = 1.93, p = 0.17; initial regeneration rate: F =        (Fig. 3). Coefficients of determination (R2) of the nega-
+0.68, p = 0.41). Similarly, no effect of coral colony size on      tive decay model were mostly high (Table 2), attesting
+lesion regeneration was detected (ANCOVA, regression               the accuracy of the model for describing regeneration
+slope: F = 1.62, p = 0.20; asymptote: F = 1.07, p = 0.30; ini-     in Porites lutea. Both site and season affected model
+tial regeneration rate: F = 0.68, p = 0.41).                       fits (SRH, H = 16.12, p < 0.05): R2 values were signifi-
+   Overall, only 18% of the inflicted lesions healed               cantly lower during the hot season at Planch’Alizé
+completely within 6 to 9 mo. Lesion degeneration,                  (0.62) and Varangue (0.68), the 2 sites where degener-
+defined as progressively increasing lesion size, oc-               ation of lesions was observed.
+                                        Denis et al.: Regeneration capacity of Porites lutea                                     111
+
+
+
+
+Fig. 4. Porites lutea. Contrasting lesion regeneration patterns at Planch’Alizé. (a) Lesion inflicted in July 2007, almost completely
+healed; (b) lesion inflicted in January 2008, increasing in size. Note the pink margin around the degenerating lesion (with
+                                   photographs at 7 and 24 wk taken at night). Scale bar = 10 mm
+
+
+Table 2. Mean R2 values (± SE) by site and season of the lesion regeneration           At Planch’Alizé, curve slopes de-
+       curve (Eq. 1). Bold type indicates significant low values (p < 0.05)            creased from cool (0.038 d–1) to warm-
+                                                                                       ing seasons (0.023 d–1), followed by an
+  Season            Planch’Alizé       Trou     Varangue Kiosque         Overall       increase in the hot season (0.039 d–1)
+                                       d’Eau                              mean         with slopes attaining similar values as
+  Cool season        0.98 (0.00)         –          –      0.98 (0.00) 0.98 (0.00)     recorded in the cool season (p = 0.89).
+  Warming season 0.98 (0.00) 0.98 (0.00) 0.97 (0.00) 0.98 (0.00) 0.98 (0.00)           Similarly, curve slopes at Varangue
+  Hot season         0.62 (0.11) 0.98 (0.01) 0.68 (0.10) 0.98 (0.01) 0.80 (0.05)       were lowest in the warming season
+  Cooling season 0.98 (0.00) 0.97 (0.01) 0.97 (0.00) 0.97 (0.00) 0.97 (0.00)           (0.027 d–1) and highest in the hot sea-
+  Overall mean       0.90 (0.03) 0.98 (0.02) 0.87 (0.04) 0.98 (0.02) 0.93 (0.01)       son (0.054 d–1). At Trou d’Eau and
+                                                                                       Kiosque, slopes increased gradually
+                                                                                       from lowest values in the warming sea-
+                        Regression slope                              son (Trou d’Eau: 0.023 d–1; Kiosque: 0.036 d–1) to high-
+                                                                      est in the cooling season (Trou d’Eau: 0.040 d–1;
+   The rate of regeneration is reflected by the regres-               Kiosque: 0.062 d–1).
+                                                –1
+sion slope. Slopes ranged from 0.023 d (Planch’Alizé                     In the cool season, site comparisons did not reveal
+and Trou d’Eau, warming season) to 0.062 d–1                          significant differences in slopes between Planch’Alizé
+(Kiosque, cooling season; Fig. 5a). Both season                       and Kiosque (1-way ANOVA with post hoc compar-
+(RMAPlanch’Alizé/Kiosque – All seasons, F = 2.98, p < 0.05 and        isons, F = 0.06, p = 0.65, see brackets above bars in
+RMAAll sites – Warming/Hot/Cooling, F = 12.93, p < 0.001) and         Fig. 5a). In the warming season, slopes were signifi-
+site (RMAPlanch’Alizé/Kiosque – All seasons, F = 5.26, p < 0.05;      cantly higher at Kiosque than at both la Saline reef
+RMAAll sites – Warming/Hot/Cooling, F = 7.12, p < 0.01) signifi-      sites (ANOVA, F = 3.69, p < 0.05). Planch’Alizé had the
+cantly affected slopes. Overall, regression slopes                    lowest slopes, but these did not differ significantly
+showed significant season effects (RMA, F = 16.84, p <                from mean slopes at Trou d’Eau and Varangue, sites
+0.001), with lowest mean slopes during the warming                    which had intermediate values. During the hot season,
+season and highest during the cooling season, and no                  curve slopes were highest at Varangue, while slopes at
+significant difference in slopes between the cool and                 Trou d’Eau were significantly lower than those of the
+hot seasons (inset of Fig. 5a).                                       other sites (ANOVA, F = 7.68, p < 0.001). In the cooling
+   For each site separately, season significantly affected            season, Kiosque presented higher slopes than the 3
+the slopes (RMA with post hoc comparisons, Fig. 5a).                  other sites (ANOVA, F = 6.08, p < 0.01).
+112                                             Mar Ecol Prog Ser 428: 105–117, 2011
+
+
+
+
+                                                                     seasons, H = 9.76, p < 0.01 and SRHAll sites – Warming/Hot/Cooling,
+                                                                     H = 35.81, p < 0.001, season effect: SRHPlanch’Alizé/Kiosque
+                                                                     – All seasons, H = 61.90, p < 0.001 and SRHAll sites –
+                                                                     Warming/Hot/Cooling, H = 79.12, p < 0.001). Overall, asymp-
+                                                                     totes were higher in the warming and hot seasons than
+                                                                     in the cooling and cool seasons (KW, H = 39.5, p <
+                                                                     0.001, inset Fig. 5b).
+                                                                        For each site, season comparisons revealed signifi-
+                                                                     cantly higher asymptotes at Planch’Alizé (51.0%) and
+                                                                     at Varangue (39.2%) during the hot season (see aster-
+                                                                     isks above bars in Fig. 5b) than during the other sea-
+                                                                     sons. For the other 2 sites, no season effects on asymp-
+                                                                     totes were detected.
+                                                                        For each season, site comparisons showed significant
+                                                                     differences only in the hot season (KW, H = 23.12, p <
+                                                                     0.001, see brackets above bars in Fig. 5b). Two groups
+                                                                     were distinguished: Planch’Alizé and Varangue both
+                                                                     had high asymptotes and high variance (standard
+                                                                     error, SEPlanch’Alizé = 8.0% and SEVarangue = 9.1%), con-
+                                                                     trasting with Trou d’Eau and Kiosque with low asymp-
+                                                                     totes and variance (SETrou d’Eau = 2.7% and SEKiosque =
+                                                                     4.0%; Fig. 5b).
+
+
+                                                                                         Initial regeneration rate
+
+                                                                        Initial regeneration rates varied with season
+                                                                     (SRHPlanch’Alizé/Kiosque – All seasons, H = 61.48, p < 0.001 and
+                                                                     SRHAll sites – Warming/Hot/Cooling, H = 84.24, p < 0.001) and
+                                                                     site (SRHPlanch’Alizé/Kiosque – All seasons, H = 38.21, p < 0.001;
+                                                                     SRHAll sites – Warming/Hot/Cooling, H = 23.34, p < 0.01). Over-
+                                                                     all, initial regeneration rates decreased from the cool to
+                                                                     the warming season, followed by an increase during
+                                                                     the hot season to maximum values in the cooling sea-
+                                                                     son (inset Fig. 5c).
+                                                                        For each site, season comparisons showed gradual
+                                                                     changes between subsequent seasons (Fig. 5c). For the
+                                                                     warming and cooling seasons, Planch’Alizé and
+                                                                     Kiosque represented 2 extremes in the initial regener-
+                                                                     ation rates, with highest rates recorded at the latter site
+                                                                     (Fig. 5c). Trou d’Eau and Varangue had intermediate
+Fig. 5. Porites lutea. Regeneration curve parameters by sea-
+son and site. (a) Slopes, (b) asymptotes, (c) initial regeneration   initial regeneration rates. In the hot season, regenera-
+rates. Inset tables represent overall mean comparison by sea-        tion rates at Kiosque and Varangue were higher than
+son. Asterisks above bars indicate the level of significant          those at Trou d’Eau.
+change for each site compared to the previous season. Brack-            Based on these initial regeneration rates and on the
+ets with asterisks above bars indicate, for each season, the
+level of significant difference between sites. Errors bars
+                                                                     mean initial lesion size, maximum regeneration rates
+represent SE. ***p < 0.001, **p < 0.01 and *p < 0.05; ns: not        ranged from 6.0 mm2 d–1 at Planch’Alizé in the warm-
+         significant. See Fig. 2 for season abbreviations            ing season to 20.1 mm2 d–1 at Kiosque in the cooling
+                                                                     season.
+                           Asymptote
+
+  The asymptote level indicates the remaining un-                                     Environmental correlates
+healed lesion area (% of initial lesion size) after regen-
+eration ceased. Asymptotes were also strongly affected                 Forward stepwise multiple regressions for predict-
+by sites and seasons (Site effect: SRHPlanch’Alizé/Kiosque – All     ing lesion regeneration slope and initial regeneration
+                                              Denis et al.: Regeneration capacity of Porites lutea                               113
+
+
+
+
+                                                                             rate retained all environmental variables which
+                                                                             together explained 78% of the variation in slopes and
+                                                                             80% of the variation in initial regeneration rates
+                                                                             (Table 3). However, of these parameters, only SST
+                                                                             and radiation contributed significantly, explaining 63
+                                                                             and 65% of the variation, respectively. No interaction
+                                                                             between SST and radiation was detected. Slopes and
+                                                                             initial regeneration rates increased with SST, but
+                                                                             decreased with increasing radiation. Asymptotes
+                                                                             were affected only by SST, which accounted for
+                                                                             32% of the variation (Table 3). Residual lesion size
+                                                                             increased with SST.
+
+
+                                                                               Predicted lesion regeneration by site and season
+
+                                                                                Temporal and spatial characteristics of slopes and
+                                                                             asymptotes were used to simulate regeneration at each
+                                                                             site for each season (Fig. 6). Planch’Alizé clearly
+                                                                             showed a decrease in regeneration capacity from the
+                                                                             cool to the warming and hot seasons before regaining
+                                                                             high regenerative competence during the cooling sea-
+                                                                             son. A similar trend occurred at Varangue, but with
+                                                                             better regeneration capacity in warming and hot sea-
+                                                                             sons compared to the former site. Lesion regeneration
+                                                                             at sites Trou d’Eau and Kiosque did not show strong
+                                                                             seasonal variability. However, regeneration capacity
+                                                                             was always better in the cooling season.
+Fig. 6. Porites lutea. Prediction of the regeneration of lesions
+for the study sites using the model Size = Asymptote +
+[Sizereg × e(– Slope × t)] (see Eq. 1 in text) with a lesion inflicted in                                DISCUSSION
+(a,d) 4 different seasons or (b,c) 3 different seasons. (a)
+    Planch’Alizé, (b) Varangue, (c) Trou d’Eau, (d) Kiosque                                   Following recommendations of pre-
+                                                                                            vious studies (Fisher et al. 2007), con-
+Table 3. Forward stepwise multiple regressions of slope, asymptote (y0) and                 founding effects of initial lesion size
+initial regeneration rate with 4 environmental variables: seawater temperature,             and shape on lesion regeneration were
+solar radiation, rainfall and water flow. Stepwise analysis determines the                  avoided by inducing lesions of stan-
+variables that best explain the variation in the respective lesion regeneration             dard size and depth. The wide range of
+parameter. Selected variables were then used in the least squares multiple
+                                 regression model                                           regenerative responses observed, from
+                                                                                            complete healing to degeneration,
+                                                                                            suggests that the size of artificial
+  Parameter                        Beta            p         R2         F     p-value
+                                coefficient                                  regression     lesions used in this study (~330 mm2)
+                                                                                            was well suited to examine lesion
+                                                                                            regeneration capacity in Porites lutea
+  Regression slope                                          0.78      8.17     < 0.01       populations in different environmental
+    Temperature                     0.81        < 0.05
+                                                                                            settings. Generally, the temporal pat-
+    Solar radiation                –0.80        < 0.01
+    Rainfall                       –0.35          0.19                                      tern of regeneration was described
+    Water flow                      0.34          0.07                                      accurately by an exponential decay
+  Asymptote                                                 0.32      5.90     < 0.05       equation with an asymptote, as
+   Temperature                      0.57        < 0.05                                      attested by the large and significant R2.
+  Initial regeneration rate                                 0.80      9.13     < 0.01       While this model is not well suited to
+    Temperature                     0.69        < 0.05                                      accommodate increases in lesion size
+    Solar radiation                –0.91        < 0.001
+                                                                                            (degeneration), its use has the benefit
+    Rainfall                        0.27          0.09
+    Water flow                     –0.46          0.12                                      of facilitating comparisons with other
+                                                                                            studies.
+114                                       Mar Ecol Prog Ser 428: 105–117, 2011
+
+
+
+
+            Lesion healing in Porites lutea:                  Regenerative abilities in the same species can thus
+                parameter comparisons                         differ markedly between localities, highlighting the
+                                                              importance of environmental factors.
+   Asymptote values vary with initial lesion size in mas-
+sive corals, indicating that such corals have limited
+capacity for lesion regeneration (Meesters et al. 1997).         Season and site effects on lesion regeneration at
+Lesion regeneration in the massive coral Montastrea                              Réunion Island
+annularis was incomplete for lesions of sizes similar to
+those used in the present study (243 to 406 mm2), leav-          Porites lutea showed seasonal and site variability in
+ing unhealed patches representing 14 to 30% of initial        regeneration capacity. Lesion repair was best in the
+lesion size (Meesters et al. 1997). While lesion regener-     cooling and cool seasons. During the cooling season,
+ation capacity in massive Porites lutea at Réunion            when solar radiation was low but SSTs intermediate,
+Island was also clearly limited (this study), asymptote       lesion regeneration was characterised by highest
+values were generally lower (approximately 5 to 20%),         slopes and highest initial regeneration rates. Asymp-
+except during the hot season at Planch’Alizé and              tote values, influenced by temperature alone, were
+Varangue, where up to 50% of the initial lesion size          lowest during the cool season. This contrasted with the
+was not regenerated after healing ceased. In contrast,        warming and hot seasons, when lesion regeneration
+P. lutea on the high-latitude reefs of Okinawa, Japan,        properties exhibited lower slopes and initial regenera-
+were capable of complete lesion regeneration, in spite        tion rates and high asymptote values, correlated to the
+of the relatively large initial lesion sizes (≤ 1310 mm2,     high solar radiation (warming season) and high tem-
+van Woesik 1998).                                             peratures (hot season). Comparable results were ob-
+   Regression slopes of lesion regeneration curves of         tained in Okinawa where mean daily healing rates in
+Porites lutea at Réunion Island ranged from 0.023 to          P. lutea were higher during winter and lower during
+0.062 d–1, higher than those of P. lutea and P. lobata at     summer (Titlyanov et al. 2005). These observations
+Okinawa (0.013 to 0.019 d–1 and 0.014 to 0.018 d–1            contrast with the temperature effects on lesion regen-
+respectively, van Woesik 1998), but within the range of       eration observed in Fungia granulosa in the northern
+values reported for massive (Montastrea annularis)            Red Sea. Field and laboratory experiments with this
+and submassive (P. astreoides) corals in the Caribbean        fungiid coral revealed faster and more complete lesion
+(Meesters & Bak 1993).                                        repair during the hotter months. However, intrinsic
+   The high initial regeneration rate rapidly decreased       (gametogenesis) and extrinsic (algal blooms, sedimen-
+lesion size, entraining an exponential decrease in            tation) factors may have contributed to the seasonal
+regeneration rate (see Eq. 2). Calculated from the            pattern observed at this site (Kramarsky-Winter & Loya
+parameters given by van Woesik (1998) for lesion size         2000).
+similar to the one inflicted in the present study, initial       Key life processes, such as reproduction, typically
+regeneration rates for Porites lutea in Okinawa were          show seasonal patterns. Lower regenerative abilities
+somewhat lower than those in Réunion (respectively            recorded before spawning have been associated with
+0.4 to 17.0 mm2 d–1 and 6.0 to 20.1 mm2 d–1).                 the energy required for gametogenesis (Kramarsky-
+   Several studies report mean daily regeneration rates,      Winter & Loya 2000). A chance observation of gamete
+determined from the difference in lesion size across a        release by several colonies of Porites lutea on
+period of time. Comparisons with such results are             29 December 2007 at Planch’Alizé (V. Denis et al.
+problematical because of the incorrect postulate of a         unpubl. obs.) suggests that gamete maturation occurs
+constant regeneration rate. Nevertheless, we calcu-           during the warming season. Competition for energy
+lated a mean daily regeneration rate for Porites lutea,       allocation to reproduction versus regeneration may
+using similar time intervals and seasons as used by           partially explain the lower regenerative abilities ob-
+Titlyanov et al. (2005) and Titlyanov & Titlyanova            served during this season.
+(2009) for documenting its regeneration capacity in              Site variability in lesion regeneration properties has
+Okinawa. Despite the very large lesions (up to around         been used as an indicator of environmental conditions
+25 cm2) used and the high (initial) regeneration rates        that affect coral health (Fisher at al. 2007). High and
+that should be expected as a consequence (see Eq. 2),         steady regeneration capacity of coral colonies at
+mean daily regeneration rates in P. lutea at Okinawa          Kiosque may be related to the regular influx of coastal
+(~0.01 to 0.22 mm d–1) were comparable to the regen-          water onto the reef flat at this site (Fig. 2e). Source and
+eration rates recorded at Réunion Island (0.01 to             flow speed of water masses control the opportunities
+0.20 mm d–1). This further confirms the fast initial          that coral have for heterotrophic feeding (Sebens et al.
+lesion regeneration in P. lutea at Réunion Island, in         1998), which may represent an important additional
+spite of limited capacity to heal lesions completely.         energy source for zooxanthellate corals (Houlbrèque &
+                                    Denis et al.: Regeneration capacity of Porites lutea                              115
+
+
+
+
+Ferrier-Pagès 2009), potentially boosting lesion regen-         ching on Réunion reefs, lesion regeneration capacity in
+eration (Nagelkerken & Bak 1998).                               Porites lutea was generally lower during this season. It
+   Lesion regeneration capacity was poorest at                  is therefore highly likely that during El Niño years with
+Planch’Alizé and Varangue, the only sites where                 positive SST anomalies the capacity of P. lutea popula-
+degeneration occurred during the hot season. Benthic            tions to repair damage will be seriously compromised
+communities at these sites are characterised by low             at Réunion Island, especially during bleaching events.
+coral diversity and a high cover of foliose macroalgae             Higher SSTs boost coral metabolism and increase
+(Mioche & Cuet 1999, Naim 2006, Bruggemann et al.               skeletal growth rates (Lough & Barnes 2000), but also
+2008). While the high mean SST and high SST                     increase the amount of energy required for mainte-
+variance, especially during the hot season, combined            nance. Slopes and initial regeneration rates of lesions
+with high solar radiation, may have impaired lesion             in Porites lutea were positively correlated with SST.
+regeneration capacity at Planch’Alizé (see section              Temperature effects on regenerative rate, mediated by
+below), synergistic stressors may have contributed. At          coral metabolism, have also been reported from the
+this site, the back-reef zone is chronically enriched           Red Sea (Kramarsky-Winter & Loya 2000) and the
+with nutrients due to groundwater inputs; organic mat-          Caribbean (Lester & Bak 1985).
+ter produced here spreads onto the reef flat, while                Higher SSTs were further correlated with increases
+nutrient recycling (Mioche & Cuet 1999) may further             in the lesion surface that was not healed. Although
+contribute to algal development. Corals at Varangue,            only 32% of the variation in asymptote values was
+located in the vicinity of 2 river gullies, are probably        accounted for by temperature, it may reflect a conse-
+submitted regularly to large amounts of land-derived            quence of energy depletion due to high coral metabo-
+sediments, in particular 1 mo after summer lesions              lism. Alternatively, environmental conditions prevail-
+were inflicted, due to heavy rains in February 2008             ing during the hot season favour the development of
+(Table 1). Previous studies have shown that sedimenta-          benthic algae on reefs at Réunion (Naim 1993, V. Denis
+tion and algal settlement may represent important               pers. obs.) and increase the competition between
+physical and/or chemical impediments to lesion regen-           corals and algae (Bak & Steward-van Es 1980,
+eration (Meesters et al. 1992, Titlyanov et al. 2005,           Titlyanov et al. 2005). While some algae may have
+Titlyanov & Titlyanova 2009). Chronic disturbance               allelopathic effects on corals (Rasher & Hay 2010) and
+thus impairs the resilience capacity of corals (Connell         may hamper regeneration (Titlyanov & Titlyanova
+1997), contributing to the loss of coral cover at urban-        2008), no known allelopathic algal taxa were identified
+ized coastlines (Fisher et al. 2007), which is ongoing at       inside lesions. Furthermore, the photosynthetic effi-
+Réunion Island (Bigot 2008).                                    ciency of coral tissues at margins of regenerating
+                                                                lesions was not depressed (V. Denis unpubl.).
+                                                                   In conclusion, the capacity for lesion regeneration in
+    Effects of light and temperature on holobiont               Porites lutea is clearly related to light and temperature.
+      functioning and capacity for lesion repair                These observations are best explained by the com-
+                                                                bined effects of variations in the supply of photosyn-
+   The capacity of corals for lesion repair decreases           thates by zooxanthellae, the metabolic rate of the coral
+when the supply of photosynthetic products from zoo-            host and its energy requirements for maintenance and
+xanthellae is reduced, e.g. under light-limiting condi-         other life processes. Monitoring in situ the photosyn-
+tions (Titlyanov et al. 2005). We showed a negative             thetic efficiency of zooxanthellae during lesion regen-
+effect of solar radiation on regression slopes and initial      eration may contribute to a better understanding of the
+regeneration rates of lesions in Porites lutea. These           mechanisms underlying the supply side of this vital
+observations may be explained by an inhibition of pho-          process.
+tosynthesis (Warner et al. 2002). A parallel study of the          Site effects cannot be explained by the environmen-
+photosynthetic efficiency of zooxanthellae around the           tal parameters light and temperature alone; lesion
+regenerating lesions studied here confirmed that high           repair capacity can thus be used as a simple indicator
+radiation decreased their photosynthetic yield (V.              of chronic disturbances that undermine the regenera-
+Denis unpubl.).                                                 tion capacity of corals.
+   Lesion regeneration may be drastically impaired by              Global climate change is expected to increase the
+coral bleaching (Meesters & Bak 1993, Meesters et al.           frequency and severity of coral bleaching events over
+1997, Fine et al. 2002). In the present study, lesions          the next decades. As coral bleaching often results in
+inflicted during the hot season coincided with a La             partial colony mortality, identifying the environmental
+Niña event (Levy 2009), resulting in lower summer               conditions that compromise the resilience capacity of
+temperatures than usual for this time of year. Notwith-         coral populations assists in focusing management
+standing the fresh summer and absence of coral blea-            efforts aiming to preserve coral reefs.
+   116                                          Mar Ecol Prog Ser 428: 105–117, 2011
+
+
+
+
+   Acknowledgements. The PhD fellowship to V.D. and research        ➤ Henry LA, Hart M (2005) Regeneration from injury and
+   grant to J.H.B. and M.M.M.G. (ITUE program) provided by               resource allocation in sponges and corals — a review. Int
+   Regional Council of Réunion Island are gratefully acknowl-            Rev Hydrobiol 90:125–158
+   edged. Research was conducted with permission of the             ➤ Hoegh-Guldberg O, Mumby PJ, Hooten AJ, Steneck RS and
+   regional authorities of marine affairs and the marine park            others (2007) Coral reefs under rapid climate change and
+   authorities (RNNMR). We thank A. Delval, J. K. L. Leung, P.           ocean acidification. Science 318:1737–1742
+   Pinet, C. Simon, A. Valery and M. Wilhem for field assistance    ➤ Houlbrèque F, Ferrier-Pagès C (2009) Heterotrophy in tropi-
+   and L. Bigot, P. Cuet and J. Kolasinski for helpful comments          cal scleractinian corals. Biol Rev Camb Philos Soc 84:1–17
+   on this manuscript. Meteo France kindly provided solar radi-     ➤ Hughes TP, Jackson JBC (1985) Population dynamics and life
+   ation and rainfall data.                                              histories of foliaceous corals. Ecol Monogr 55:141–166
+                                                                    ➤ Jones RJ (2008) Coral bleaching, bleaching-induced mor-
+                                                                         tality, and the adaptive significance of the bleaching
+                       LITERATURE CITED                                  response. Mar Biol 154:65–80
+                                                                    ➤ Kohler KE, Gill SM (2006) Coral point count with Excel exten-
+➤ Bak RPM (1983) Neoplasia, regeneration and growth in the               sions (CPCe): a visual basic program for the determination
+     reef-building coral Acropora palmata. Mar Biol 77:                  of coral and substrate coverage using random point count
+     221–227                                                             methodology. Comput Geosci 32:1259–1269
+  Bak RPM, Steward-van Es Y (1980) Regeneration of super-           ➤ Kramarsky-Winter E, Loya Y (2000) Tissue regeneration in
+     ficial damage in the scleractinian corals Agaricia agari-           the coral Fungia granulosa: the effect of extrinsic and
+     cites f. purpurea and Porites astreoides. Bull Mar Sci 30:          intrinsic factors. Mar Biol 137:867–873
+     883–887                                                        ➤ Lester RT, Bak RPM (1985) Effect of environment on regener-
+  Bak RPM, Brouns J, Heys FML (1977) Regeneration and                    ation rate of tissue lesions in the reef coral Montastrea
+     aspects of spatial competition in the scleractinian corals          annularis (Scleractinia). Mar Ecol Prog Ser 24:183–185
+     Agaricia agaricites and Montastrea annularis. Proc 3rd Int       Levy JM (2009) Global oceans. In: Peterson TC, Baringer MO,
+     Coral Reef Symp 1:143–148                                           Knight J, Kennedy JJ and others (eds) State of the climate
+  Bigot L (2008) Evolution spatio-temporelle de la biodiversité          in 2008. Bull Am Meteorol Soc 90: 1–196
+     et de la structure des communautés benthiques entre 1998       ➤ Lough JM, Barnes DJ (2000) Environmental controls on
+     et 2008 sur les stations sentinelles GCRMN de la Réunion.           growth of the massive coral Porites. J Exp Mar Biol Ecol
+     Rapport UR/APMR                                                     245:225–243
+  Bruggemann H, Guillaume M, Bigot L, Chabanet P and                ➤ McClanahan TR, Maina J, Moothien-Pillay R, Baker AC
+     others (2008) Mise en œuvre de l’effet réserve: développe-          (2005) Effects of geography, taxa, water flow, and temper-
+     ment des protocoles et établissement de l’état initial de la        ature variation on coral bleaching intensity in Mauritius.
+     Réserve Naturelle Nationale Marine de la Réunion                    Mar Ecol Prog Ser 298:131–142
+     (secteurs de la Saline — Souris Blanche et de Saint-Leu).      ➤ Meesters EH, Bak RPM (1993) Effects of coral bleaching on
+     Rapport UR/MNHN/AR/APMR                                             tissue regeneration potential and colony survival. Mar
+➤ Bythell JC, Gladfelter EH, Bythell M (1993) Chronic and cat-           Ecol Prog Ser 96:189–198
+     astrophic natural mortality of three common Caribbean            Meesters EH, Bos A, Gast GJ (1992) Effects of sedimentation
+     reef corals. Coral Reefs 12:143–152                                 and lesion position on coral tissue regeneration. Proc 7th
+➤ Connell JH (1997) Disturbance and recovery of coral assem-             Int Coral Reef Symp 2:681–688
+     blages. Coral Reefs 16:S101–S113                               ➤ Meesters EH, Noordeloos M, Bak RPM (1994) Damage and
+  DeVantier LM, Done TJ (2007) Inferring past outbreaks of               regeneration: links to growth in the reef-building coral
+     crown-of-thorns seastar from scar patterns on coral heads.          Montastrea annularis. Mar Ecol Prog Ser 112:119–128
+     In: Aronson RB (ed) Geological approaches to coral reef        ➤ Meesters EH, Pauchli W, Bak RPM (1997) Predicting regener-
+     ecology. Springer, New York, NY                                     ation of physical damage on a reef-building coral by
+  Diaz-Pulido G, McCook LJ, Dove S, Berkelmans R and oth-                regeneration capacity and lesion shape. Mar Ecol Prog Ser
+     ers (2009) Doom and boom on a resilient reef: climate               146:91–99
+     change, algal overgrowth and coral recovery. PLoS ONE            Mioche D, Cuet P (1999) Métabolisme du carbone, des car-
+     4:e5239                                                             bonates et des sels nutritifs en saison chaude, sur un récif
+➤ Doty MS (1971) Measurement of water movement in refer-                 frangeant soumis à une pression anthropique (île de la
+     ence to benthic algal growth. Bot Mar 14:32–35                      Réunion, Océan Indien). CR Acad Sci Ser IIa Sci Terre
+➤ Fine M, Oren U, Loya Y (2002) Bleaching effect on regenera-            Planètes 329:53–59
+     tion and resource translocation in the coral Oculina patag-    ➤ Nagelkerken I, Bak RPM (1998) Differential regeneration of
+     onica. Mar Ecol Prog Ser 234:119–125                                artificial lesions among sympatric morphs of the Carib-
+➤ Fisher EM, Fauth JE, Hallock P, Woodley CM (2007) Lesion               bean corals Porites astreoides and Stephanocoenia miche-
+     regeneration rates in reef-building corals Montastraea              linii. Mar Ecol Prog Ser 163:279–283
+     spp. as indicators of colony condition. Mar Ecol Prog Ser      ➤ Naim O (1993) Seasonal responses of a fringing reef commu-
+     339:61–71                                                           nity to eutrophication (Réunion Island, Western Indian
+  Ginsburg RN, Gischler E, Kiene WE (2001) Partial mortality of          Ocean). Mar Ecol Prog Ser 99:137–151
+     massive reef-building corals: an index of patch reef condi-      Naim O (2006) The structure of coral reef benthic communi-
+     tion, Florida Reef Tract. Bull Mar Sci 69:1149–1173                 ties at Saint-Gilles la Saline in 1987 (Réunion, Mascarene
+➤ Goreau T, McClanahan T, Hayes R, Strong A (2000) Conser-               Archipelago, SW Indian Ocean). J Nat 18:13–31
+     vation of coral reefs after the 1998 global bleaching event.     Naim O, Cuet P, Letourneur Y (1997) Experimental shift in
+     Conserv Biol 14:5–15                                                benthic community structure. Proc 8th Int Coral Reef
+  Guillaume M (1988) La croissance du squelette de Porites               Symp 2:1873–1878
+     lutea, scléractiniaire hermatypique, sur le récif frangeant    ➤ Oren U, Rinkevich     B, Loya Y (1997a) Oriented intra-colonial
+     de la Saline, île de la Réunion, océan Indien. PhD thesis,          transport of 14C labeled materials during coral regenera-
+     University of Aix-Marseille II, Marseille                           tion. Mar Ecol Prog Ser 161:117–122
+                                         Denis et al.: Regeneration capacity of Porites lutea                                      117
+
+
+
+
+➤ Oren U, Benayahu Y, Loya Y (1997b) Effect of lesion size and       Stevens J (2002) Applied multivariate statistics for the
+     shape on regeneration of the Red Sea coral Favia favus.             social sciences, 4th edn. Lawrence Erlbaum Assoc.,
+     Mar Ecol Prog Ser 146:101–107                                       Mahwah, NJ
+  Oren U, Benayahu Y, Lubinevsky H, Loya Y (2001) Colony           ➤ Titlyanov EA, Titlyanova TV (2008) Coral-algal competition
+     integration during regeneration in the stony coral Favia            on damaged reef. Russ J Mar Biol 34:199–219
+     favus. Ecology 82:802–813                                     ➤ Titlyanov EA, Titlyanova TV (2009) The dynamics of the
+➤ Rasher DB, Hay ME (2010) Chemically rich seaweeds poison               restoration of mechanical damage to colonies of the scler-
+     corals when not controlled by herbivores. Proc Natl Acad            actinian coral Porites lutea under conditions of competi-
+     Sci USA 107:9683–9688                                               tion with algal settlers for substratum. Russ J Mar Biol 35:
+➤ Rinkevich B (1996) Do reproduction and regeneration in dam-            230–235
+     aged corals compete for energy allocation? Mar Ecol Prog      ➤ Titlyanov EA, Titlyanova TV, Yakovleva IM, Nakano Y, Bha-
+     Ser 143:297–302                                                     gooli R (2005) Regeneration of artificial injuries on sclerac-
+➤ Scopélitis J, Andréfouët S, Phinn S, Chabanet P, Naim O,               tinian corals and coral/algal competition for newly formed
+     Tourrand C, Done T (2009) Changes of coral communities              substrate. J Exp Mar Biol Ecol 323:27–42
+     over 35 years: integrating in situ and remote-sensing data    ➤ van Woesik R (1998) Lesion healing on massive Porites spp.
+     on Saint-Leu Reef (la Réunion, Indian Ocean). Estuar                corals. Mar Ecol Prog Ser 164:213–220
+     Coast Shelf Sci 84:342–352                                    ➤ Ward S (1995) Two patterns of energy allocation for growth,
+➤ Sebens KP, Grace SP, Helmuth B, Maney EJ Jr, Miles JS                  reproduction and lipid storage in the scleractinian coral
+     (1998) Water flow and prey capture by three scleractinian           Pocillopora damicornis. Coral Reefs 14:87–90
+     corals, Madracis mirabilis, Montastrea cavernosa and          ➤ Warner M, Chilcoat G, McFarland F, Fitt W (2002) Seasonal
+     Porites porites, in a field enclosure. Mar Biol 131:347–360         fluctuations in the photosynthetic capacity of photosystem
+  Sokal RR, Rohlf FJ (1995) Biometry. WH Freeman, San Fran-              II in symbiotic dinoflagellates in the Caribbean reef-
+     cisco, CA                                                           building coral Montastraea. Mar Biol 141:31–38
+
+   Editorial responsibility: Tim McClanahan,                          Submitted: May 17, 2010; Accepted: January 26, 2011
+   Mombasa, Kenya                                                     Proofs received from author(s): April 6, 2011
+

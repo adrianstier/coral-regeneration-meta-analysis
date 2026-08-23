@@ -1,0 +1,622 @@
+Ecology, 96(6), 2015, pp. 1540–1549
+! 2015 by the Ecological Society of America
+
+
+
+
+                       Hydrodynamics influence coral performance
+                     through simultaneous direct and indirect effects
+  HUNTER S. LENIHAN,1,5 JAMES L. HENCH,2 SALLY J. HOLBROOK,3,4 RUSSELL J. SCHMITT,3,4 AND MATTHEW POTOSKI1
+  1
+   Bren School of Environmental Science and Management, University of California, Santa Barbara, California 93106-5131 USA
+           2
+             Marine Laboratory, Nicholas School of the Environment, Duke University, 135 Marine Lab Road, Beaufort,
+                                                   North Carolina 28516 USA
+  3
+    Department of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara, California 93106-9610 USA
+     4
+       Coastal Research Center, Marine Science Institute, University of California, Santa Barbara, California 93106-6150 USA
+
+                 Abstract. Hydrodynamic conditions can influence the distribution and abundance of
+             aquatic species in many ways, including directly through disturbance and resource delivery,
+             and indirectly by altering environmental cues and species interactions. In coral reef
+             ecosystems, corallivory is an important top-down control of coral populations, while water
+             motion can enhance coral performance via autotrophic and/or heterotrophic pathways. Using
+             a large-scale field assay in Mo‘orea, French Polynesia, we measured the extent to which the
+             growth of a branching acroporid coral is influenced by hydrodynamics that deliver nutrients
+             and food to corals but also impede corallivory. We explored two hydrodynamic properties
+             that characterized our study system, mean current velocity and current velocity fluctuation (a
+             measure of waves and turbulence). In treatments where predators were excluded, coral skeletal
+             growth was positively related to mean current velocity, whereas no effect of velocity
+             fluctuations was detected. In the presence of predators, growth was positively related to
+             velocity fluctuations, but no relationship with mean velocity was detected. The major effect of
+             velocity fluctuations was to reduce the attack rate of corallivores by lowering both their per
+             capita bite rate and local density. Corals thus benefited directly from increased currents,
+             probably through enhanced autotrophy and/or heterotrophy, and indirectly from velocity
+             fluctuations through reduced corallivory. Our data indicate that for the coral and locale we
+             examined, the indirect hydrodynamic effect on coral performance via reduction in corallivory
+             was substantial, increasing daily growth rate by 4%. Hydrodynamic enhancement of acroporid
+             coral growth via simultaneous direct and indirect effects can be important for the persistence
+             of coral reefs as well as their recovery following disturbance.
+                Key words: Acropora elseyi; coral reefs; corallivory; fish; hydrodynamics; indirect effects; Mo‘orea,
+             French Polynesia; predation; recovery; resilience; turbulence; waves.
+
+
+                         INTRODUCTION                             multiple and recurrent natural perturbations, especially
+   Coral reefs are highly complex and diverse ecosystems          bleaching events, Acanthaster sea star outbreaks, and
+that provide critical ecosystem services but which are            cyclones (Adjeroud et al. 2009, Adam et al. 2011, 2014).
+increasingly threatened by human activities (Aronson              Such resilience is not surprising because coral reefs are
+and Precht 1997, Mumby and Steneck 2008). On many                 dynamic, disturbance-driven systems that have evolved
+reefs worldwide, the combination of stressors, including          over millennia to withstand abiotic and biotic stress
+added nutrients from land-based activities, increased             (Jackson 1992, Brown 1997). Identifying factors that
+storm activity, predators, diseases, and over exploitation        promote coral reef resilience could advance our ability
+of herbivorous fishes, has elevated coral mortality and           to conserve and manage reefs as impacts of climate
+recruitment failure (Hughes 1994, De’ath et al. 2012). In         change and other anthropogenic perturbations persist
+some cases, this has caused persistent shifts from the            (Bellwood et al. 2004).
+original dominance by corals to dominance by macro-                  Reef-building scleractinian corals display substantial
+algae, a change that has degraded reef biodiversity and           phenotypic (morphological, behavioral, and biochemi-
+ecological functioning (Hughes et al. 2010). By contrast,         cal) and genetic plasticity in response to physical stress,
+some reef systems, predominantly those in the Indo-               allowing some species to inhabit areas impacted by
+Pacific, appear resilient to disturbance even in the face of      powerful waves, low light, and heavy sedimentation
+                                                                  (Brown 1997). Despite this plasticity, coral communities
+                                                                  display spatial zonation driven partially by interspecific
+  Manuscript received 10 June 2014; revised 6 November 2014;      variation in resistance to hydrodynamic stress (Done
+accepted 10 November 2014. Corresponding Editor: R. B.
+Aronson.                                                          1982, Veron 2000, Aronson et al. 2005, Madin and
+  5 E-mail: lenihan@bren.ucsb.edu                                 Connolly 2006). For example, compact, thickly
+                                                              1540
+June 2015                            HYDRODYNAMICS EFFECTS ON CORALS                                               1541
+
+branched, or robust plating corals often occupy               nesia, a system that has exhibited resilience to large
+hydrodynamically exposed areas (e.g., outer shallow           natural perturbations in recent decades (Adam et al.
+reef slopes). Massive, slow-growing corals can withstand      2011, 2014, Trapon et al. 2011). Populations of
+high temperature, sediment loading, and low light levels,     branching acroporid corals, which provide complex
+and so frequently dominate sheltered to semi-exposed          physical habitat and other ecosystem services, have
+habitats (e.g., fringing reefs). Delicate, highly branched,   recovered repeatedly in some habitats on Mo‘orea and
+acroporid corals usually inhabit moderately exposed           surrounding islands due apparently to consistent re-
+environments (e.g., at medium water depths on exposed         cruitment (Adjeroud et al. 2009) and strong top-down
+reef slopes), where they have adapted through rapid           control of macroalgal competitors by herbivorous fish
+growth, asexual reproduction, and other mechanisms            (Adam et al. 2011). Our study was designed to explore
+(Jackson 1992). Similar patterns of coral community           whether and how hydrodynamics enhance acroporid
+composition exist in lagoon environments (Lenihan et          coral growth, and thus potentially recovery from
+al. 2011). Of course, hydrodynamic conditions also            disturbance, via effects on small juvenile colonies. We
+benefit corals. For example, current velocity can increase    thus tested two specific hypotheses related to two
+the growth of coral colonies by improving mass transfer       hydrodynamic properties: coral skeletal growth increas-
+of gasses, nutrients, and metabolites across coral tissue     es with increasing current velocity and velocity fluctu-
+(Jokiel 1978, Lesser et al. 1994, Falter et al. 2004), thus   ations via (1) processes likely involving nutrient
+enhancing autotrophy (Sebens et al. 2003).                    enrichment that influences colony growth, including
+   Biotic stressors that help determine patterns of coral     mass transfer and/or delivery of zooplankton food, and
+abundance include disease, which can help set coral           (2) altered top-down control due to hydrodynamically
+depth distributions (Aronson et al. 2005), and                reduced attack rates by corallivorous fish. Many
+Acanthaster outbreaks, which can extirpate corals from        ecological studies focus on mean velocity, or ‘‘flow,’’ as
+reefs in the Indo-Pacific (Moran 1986). In addition to        a primary driver of physical-biological coupling despite
+Acanthaster, there are .50 other species of invertebrate      waves and turbulence (i.e., velocity fluctuations) being
+corallivores and .100 species of vertebrate (fish)            recognized as having important ecological effects,
+corallivores that prey on corals (Rotjan and Lewis            including influencing predator–prey interactions (Pow-
+2008) influencing their growth, survival, and species         ers and Kittinger 2002, Smee et al. 2010). Here we
+composition (Neudecker 1979, Glynn 1990, Hixon                estimated both mean velocity and velocity fluctuations
+1997). Corallivorous fish can impede coral recovery           (related to waves and turbulence), to assess their
+from natural perturbations (Rotjan et al. 2006),              separate effects on coral performance. Our results
+especially juvenile branching acroporid corals (Knowl-        supply quantitative estimates of direct and indirect
+ton et al. 1990), which many corallivores favor (Cole et      hydrodynamic mechanisms that mediate coral growth,
+al. 2008). Several studies have identified abiotic condi-     information that has important implications for coral
+tions that influence corallivore–coral interactions, such     reef conservation, management, and perhaps restora-
+as water depth (e.g., Miller and Hay 1998) and habitat        tion.
+structure (Wellington 1982, Littler et al. 1989, Lenihan
+                                                                                      METHODS
+and Edmunds 2010, Lenihan et al. 2011). Despite this
+substantial body of work, we still have a poor                                        Study site
+understanding of how abiotic conditions and biotic               We conducted our study in Vaipahu Lagoon on the
+processes interact to determine the distribution and          north shore of Mo‘orea, French Polynesia (17830 0 S,
+abundance of benthic organisms, especially in coral reef      149850 0 W; see Plate 1). As with many island reef
+communities.                                                  systems, Mo‘orea is exposed to offshore wave forcing
+   Here we test the hypothesis that the individual            that drives persistent across-reef hydrodynamic gradi-
+performance of juvenile branching acroporid corals is         ents. Waves breaking over the reef crest drive water
+influenced directly by hydrodynamic conditions that           motion on the reef flat in two ways. First, while much of
+enhance coral growth (e.g., through autotrophy and/or         the incident wave energy is dissipated by wave breaking,
+heterotrophy), and indirectly by limiting predation by        some wave energy continues to propagate across the reef
+corallivorous fish. If the relative influence of direct and   at a range of wave frequencies. Second, in a time-
+indirect controls by hydrodynamic conditions can be           averaged sense, waves generate ‘‘set-up,’’ which is a
+identified, it has tremendous implications for conserva-      super-elevation of the water surface near the reef crest.
+tion and management of reef-forming corals. This is           Wave set-up generates an across-reef horizontal pressure
+especially true for highly branched corals that have          gradient force that drives a mean current toward the reef
+major positive effects on reef biodiversity (Holbrook et      flat and lagoon. Currents and waves are modified and
+al. 2003, 2011, Johnson et al. 2011). We used a large-        attenuated across the reef by turbulent dissipation over
+scale, multi-disciplinary field assay to explore direct and   the rough coral substrate (Rosman and Hench 2011,
+indirect effects of local heterogeneity in hydrodynamic       Hench and Rosman 2013). Thus offshore wave forcing
+conditions on growth of a common branching coral,             and drag due to the coral substrate produce gradients in
+Acropora elseyi, in lagoons of Mo‘orea, French Poly-          both mean and oscillatory flow on the back reef. This
+1542                                              HUNTER S. LENIHAN ET AL.                                 Ecology, Vol. 96, No. 6
+
+                                                                      the ability of fish to successfully attack a coral. Velocity
+                                                                      measurements were made simultaneously at our five study
+                                                                      sites, sampling twice per second to resolve currents, waves,
+                                                                      and large-scale turbulence. Measurements were made
+                                                                      using upward-looking acoustic Doppler current profilers
+                                                                      (ADCP; 2 MHz Nortek Aquadopp; Nortek AS, Rud,
+                                                                      Norway) deployed on the seafloor (Appendix B). The
+                                                                      ADCPs also contained a temperature sensor that recorded
+                                                                      near bottom temperatures at the same rate as velocity. To
+                                                                      relate hydrodynamics to coral growth and corallivory, we
+                                                                      computed the mean across-reef (i.e., horizontal) current
+                                                                      velocity (ū) and a measure of velocity fluctuations in the
+                                                                      form of a standard deviation of the across-reef velocity
+                                                                      (ru; units, cm/s). We focused our analyses on across-reef
+                                                                      water motion, rather than along-reef and vertical motion,
+                                                                      because it overwhelmingly dominated the hydrodynamic
+   FIG. 1. A cross-section of the reef bathymetry, showing the        conditions for both the mean and variance in the observed
+location of the five study sites (L1–L5), the distance of the sites   velocities (Appendix B: Figs. B1, B2). The ru is related to
+from the reef crest, and water depths. The scale of the
+                                                                            variance in the instantaneous flow velocity as ru ¼
+                                                                      theﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+                                                                      p
+horizontal, or x-axis, is greatly compressed. The predominant
+direction of the current within the lagoon is across the reef (left      varðuÞ and obtained from integration of the power
+to right), driven primarily by waves breaking over the reef crest.    spectra of velocity time series (Appendix B: Fig. B3A). We
+                                                                      report velocity fluctuations corresponding to the total
+                                                                      ru,tot as well as three frequency bands of interest: ru,low,
+conceptual model has been previously studied in a                     ru,med, and ru,high. The ru,low represents velocity fluctu-
+number of reef flat systems (e.g., Hearn et al. 1999),                ations within the infra-gravity wave band (90 s to 30 s); the
+including the field site examined here (Hench et al. 2008,            ru,med represents motion within the wave band (30 s to 4
+Rosman and Hench 2011, Monismith et al. 2013).                        s), and ru,high describes the motions associated with the
+   The Vaipahu Lagoon floor is a patchy mosaic of                     short waves and the larger scale turbulence (4 s to 1 s).
+substrata (coral rubble, sand, and basalt bottom)                     This approach has been previously employed for wave-
+interspersed with coral colonies ranging from ,1 cm                   driven flow on reefs (Hench and Rosman 2013) and
+to .3 m diameter. Mounding and massive corals                         provides a useful proxy for quantifying combined motion
+(Porites spp.) are distributed across the three major                 created by waves and turbulent eddies. Our primary focus
+lagoon habitats: back reef (adjacent to the barrier reef              was on the medium frequency band, ru,med, which is the
+crest), mid-lagoon, and fringing reef (adjacent to shore).            proxy for velocity fluctuations due to waves and the
+Juvenile and adult branching corals, predominantly                    dominant feature in the observed velocity power spectra
+Pocillopora and Acropora spp., are found in greatest                  (Appendix B: Fig. B3B).
+abundance in the back reef (Lenihan et al. 2011).                        We reasoned that corallivorous fish have four main
+Mo‘orea’s lagoon supports relatively large populations                aspects related to their attacks on a coral colony: (1)
+of many corallivorous fishes, especially butterflyfishes              location within the lagoon, (2) identification of coral
+(Chaetodon spp.; Chaetodontidae), spot-fin porcupine-                 prey, (3) body orientation for attack, and (4) attack. We
+fish (Diodon hystrix; Diodontidae), white-spotted puffer              predicted that ru,med would have important impacts on
+(Arothron hispidus; Tetradontidae), and several species               all four aspects of coral attacks because of the frequency
+of triggerfish (Balistidae) (Brooks 2014). See Appendix               of physical disruptions from water motion, and the
+A for further details about the lagoon habitats.                      energetic costs required to counteract these hydrody-
+                                                                      namic forces. Additionally, while ru,med is primarily
+                Hydrodynamic measurements                             attributed to waves, these motions are also associated
+   We explored the effects of hydrodynamics on growth of              with turbulence due to flow separation and eddy
+the branching coral Acropora elseyi at five lagoon sites              shedding, particularly when wave orbital excursions
+located at increasing distances from the reef crest (sites            are longer than the length scale of coral colonies (Hench
+L1–L5, Fig. 1). The sites were selected to permit                     and Rosman 2013). We also predicted ru,med would
+simultaneous sampling across the hydrodynamic gradient                describe water motions that could enhance mass transfer
+and provide a framework to understand and quantify                    in corals (Falter et al. 2004).
+potential physical-biological interactions. We conducted
+hydrodynamic measurements so we could relate charac-                          Effects of hydrodynamics on coral growth
+teristics of hydrodynamic forcing to coral growth and                   We conducted our field assay to quantify effects of
+corallivory. We focused on water motion that could                    hydrodynamics on growth of Acropora elseyi in the
+influence the growth of corals through processes affecting            austral summer (December). We transplanted A. elseyi
+gas exchange and the delivery of nutrients and food, and              coral nubbins to each of the five study sites (L1–L5; Fig.
+June 2015                             HYDRODYNAMICS EFFECTS ON CORALS                                                  1543
+
+1) to test the influence of hydrodynamics and corallivory       Corallivore abundance measured all obligate and
+on coral growth. Coral nubbins were similar in size and         facultative corallivores, as recorded by the same
+shape to juvenile coral colonies. See Appendix C for            observer (H. Lenihan), who counted fishes repeatedly
+details about the coral transplanting procedure. Partial        along one 20 3 4 m transect located at each of the five
+predation by corallivores reduces growth of acroporid           sites. Every site was surveyed on each of eight days
+and other branching corals (Lenihan et al. 2011).               during the assay. Of the 31 species of corallivorous
+Accordingly, we explored the effect of corallivory on           fishes observed, 14 were represented by a single
+performance of transplanted nubbins. To do this, we             individual observed only once over the course of the
+manipulated the access of corallivorous fishes to coral         sampling, and these 14 species were excluded from
+nubbins by using cages ($predator treatment) and cage           analyses. The 17 most abundant species included four
+controls (þpredator treatments, composed of partial             species of obligate corallivores (Chaetodon bennetti, C.
+cages); corals at each site were randomly assigned to           lunulatus, C. ornatissimus, and C. trifascialis) and 13
+treatments. Cages consisted of six-sided enclosures (15 3       species of facultative corallivores (Arothron hispidus,
+15 3 15 cm) made of Vexar plastic (1-cm mesh size;              Balistapus undulatus, Diodon hystrix, Pseudobalistes
+Vexar Plastics, Los Angeles, California, USA), and cage         flavimarginatus, Heniochus chrysostomus, Chaetodon
+controls were the same design but with two sides missing        auriga, C. citrinellus, C. ephippium, C. lunula, C.
+to allow corallivorous fishes access while exposing corals      mertensii, C. pelewensis, C. quadrimaculatus, and C.
+to hydrodynamic conditions similar to those within              vagabundus) (based on Cole et al. 2008).
+cages (Lenihan and Edmunds 2010). We used this size of             Bite rate measured the number of corallivore bites on
+predator exclusion cages and cage controls because, in a        corals, estimated during four days, by counting the
+preliminary test, we observed butterflyfishes and other         number of bites taken by haphazardly selected focal
+corallivores, especially spot-fin porcupinefish, white-         chevron butterflyfish (Chaetodon trifascialis) at each site
+spotted puffer, and the orange-striped triggerfish, biting      (N ¼ 3 fish per site per day). This species is an obligate
+branching corals within the cage controls, with all but         corallivore (Pratchett et al. 2013), was relatively
+the butterflyfishes leaving distinctive lesions. A no-cage      abundant throughout the study area, and displayed the
+treatment was not used, as prior trials revealed no             same general pattern of distribution across the lagoon
+difference in coral growth and intensity of corallivory on      that we observed for all corallivores, obligate coralli-
+corals in cage controls vs. no-cage treatments. We also         vores, and facultative corallivores (Appendix D: Fig.
+reasoned that, to control for the potential influence of        D1). All sampling was conducted between 08:30 and
+mesh cages on local hydrodynamic conditions, and thus           11:00 each day. One observer (H. Lenihan) conducted
+growth of transplanted nubbins, partially open cages            all the sampling by selecting a fish that was observed
+allowed fish predation but also altered hydrodynamics           initially attacking corals, and following that fish for a 5-
+in similar ways to predator exclusion cages. One                min period, recording the number of bites taken. The
+replicate coral was placed in each cage or cage control         diver maintained a distance of 5–8 m, so as not to
+by first fitting the cylindrical coral nubbin into a PVC        interfere with the fish’s feeding activity. Data are
+plastic collar and then attaching the coral to the cage (N      reported as the grand means of all attack rates recorded
+¼ 12 cages and N ¼ 12 cage controls) with cable ties at         for all 12 fish over the four-day period for each site. An
+each site. One $predator and one þpredator treatment            index of consumer pressure for each site was generated
+were placed together on rigid wire mesh that was                by multiplying the mean abundance of C. trifascialis
+attached to a cinder block, which, in turn, was bolted to       with the bite rate of C. trifascialis.
+the seafloor. This design placed corals ;35 cm above the
+seafloor. Coral skeletal growth was measured after two                              Statistical analyses
+weeks, and is reported with the variable coral growth               To test for covariance between mean current velocity
+measured in buoyant weight scaled to colony size.               (ū) and medium frequency velocity fluctuations (ru,med) at
+Following buoyant weighing, corals were dried at 608C,          each site, we calculated the Pearson product moment
+and their tissue areas measured using the wax dipping           correlation coefficient between ū and ru,med (N ¼ 5 corals
+technique (Stimson and Kinzie 1991) to normalize                each). We regressed coral growth against ū and ru,med
+growth rates to area (mg&cm$2&d$1). Coral growth                separately in both the cage and cage control treatments (N
+difference measured the difference in daily coral growth        ¼ 12 corals each site) to test whether coral skeletal growth
+between pairs of predator treatments [($predator) $             varied with hydrodynamic conditions. We regressed coral
+(þpredator)] located on each cinder block at each site (N       growth difference (N ¼ 12 corals each site) against ū and
+¼ 12 per site). Statistical treatment of this assay design is   ru,med at each site to test whether differences in $predator
+described in Statistical analyses.                              and þpredator treatments varied with hydrodynamic
+                                                                conditions. Coral growth difference was regressed against
+         Estimation of the intensity of corallivory             (total) corallivore abundance and consumer pressure (of
+  To estimate the intensity of corallivory, we assessed         C. trifascialis) for each site to determine whether coral
+separately the abundance of corallivorous fishes and            growth varied with the intensity of corallivory. We
+their per capita attack (bite) rates at each site.              regressed total corallivore abundance, C. trifascialis
+1544                                            HUNTER S. LENIHAN ET AL.                                  Ecology, Vol. 96, No. 6
+
+                                                                   correlation did not differ from zero (r ¼ 0.201; P .
+                                                                   0.10). Velocity was also uncorrelated with ru,tot (r ¼
+                                                                   0.118; P . 0.30), ru,high (r ¼ 0.138; P . 0.10), and ru,low
+                                                                   (r ¼ 0.137; P . 0.20). Current velocities were very low in
+                                                                   the back reef just behind the reef crest (site L1 ¼ 13 6 2
+                                                                   cm/s; mean 6 SD) and also at the fringing reef site
+                                                                   closest to shore (L5 ¼ 12 6 2 cm/s). They were greatest
+                                                                   at L4 (31 [29, 33] cm/s) in the mid-lagoon, and lower at
+                                                                   the other mid-lagoon sites (L2 ¼ 23 [20, 26] cm/s and L3
+                                                                   ¼ 15 [12, 18] cm/s) (see Appendix B: Fig. B2A for current
+                                                                   velocity data). Mean velocity was probably highest at L4
+                                                                   because the flow from a relatively large proportion of
+                                                                   the lagoon was funneled in by the local reef topography.
+                                                                   In contrast to mean velocity, ru,med declined across the
+                                                                   lagoon (see Appendix B: Fig. B2B for ru data). Velocity
+                                                                   fluctuations were highest just behind the reef crest (L1 ¼
+                                                                   10.8 cm/s), where velocity was low, and lowest at the
+                                                                   innermost site (L5 ¼ 4.1 cm/s), with the remaining sites
+                                                                   having intermediate values (L2 ¼ 9.4 cm/s, L3 ¼ 6.6 cm/
+                                                                   s, and L4 ¼ 7.8 cm/s). All frequency bands of velocity
+                                                                   fluctuations showed the same trend across sites. This
+                                                                   decrease in water velocity fluctuations across the lagoon
+                                                                   was consistent with transformation and dissipation of
+                                                                   incident offshore waves (Monismith et al. 2013) and
+                                                                   drag (Rosman and Hench 2011) over rough reef
+                                                                   topography. At sites L1 and L2, where velocity
+                                                                   fluctuations were the greatest, hydrodynamic conditions
+                                                                   were dominated by frequency fluctuations characteristic
+                                                                   of passing waves and turbulent eddies. Water temper-
+                                                                   atures varied minimally across the five sites, ranging
+   FIG. 2. Skeletal growth (mean and 95% CI) of Acropora
+elseyi as a function of the (A) mean current velocity and (B)      from 28.72 6 0.478C to 28.94 6 0.458C (mean 6 SD),
+velocity fluctuations (ru,med, a measure of waves and turbulence   over the course of the study.
+measured at each study site; see Methods: Hydrodynamic
+measurements). Data are from corallivorous fish exclusion                            Patterns of coral growth
+treatments (i.e., full cages; $predator). N ¼ 12 corals for each
+growth measurement. The symbols L1–L5 indicate the five               In the absence of predation, coral growth was a
+study sites (see Fig. 1).                                          positive function of mean velocity ū (Fig. 2A; r 2 ¼ 0.57,
+                                                                   F1,4 ¼ 43.57, P , 0.01). The trend in growth was positive
+abundance, and bite rate (of C. trifascialis) against ū and       with ru,med when predators were absent but the
+ru,med separately to test whether these aspects of                 relationship was not statistically distinguishable from
+corallivory varied with hydrodynamic conditions. In                zero (Fig. 2B; r 2 ¼ 0.17, F1,4 ¼ 2.36, P . 0.10). Linear
+addition, as specification checks, we conducted these tests        regressions also revealed no significant relationships
+using ru,tot, ru,high, and ru,low in place of ru,med to explore    between coral growth in the absence of predators and
+the influence of different frequencies of water motion on          ru,tot (r 2 ¼ 0.12, F1,4 ¼ 1.54, P . 0.10) ,ru,high (r 2 ¼ 0.06,
+coral growth and corallivory. All statistical analyses were        F1,4 ¼ 0.62, P . 0.10), and ru,low (r 2 ¼ 0.12, F1,4 ¼ 1.73, P
+conducted in Stata 12.1 via ordinary least squares                 . 0.10). By contrast, patterns in the þpredator
+(StataCorp 2011). We used parametric tests because data            treatments varied substantially from those in the
+were normally or approximately normally distributed.               $predator treatments. When corals were exposed to
+Because the data include multiple measurements across              corallivores, coral growth was not significantly related
+                                                                   to current velocity (Fig. 3A; r 2 ¼ 0.19, F1,4 ¼ 2.38, P .
+the five sites, we adjusted the standard errors to account
+                                                                   0.10). Instead, coral growth in the presence of predators
+for site-specific heteroskedasticity using Stata’s robust
+                                                                   was positively related to ru,med and the relationship was
+standard errors. ANOVA was used to test whether the
+                                                                   statistically significant (Fig. 3B; r 2 ¼ 0.60, F1,4 ¼ 11.39, P
+relationship in each regression was different from zero.
+                                                                   , 0.03).
+                           RESULTS                                    The observed gradient of likely effects of corallivory
+                                                                   on coral growth (i.e., coral growth difference) was
+                 Patterns of hydrodynamics
+                                                                   unrelated to mean current velocities (Fig. 4A; r 2 ¼ 0.004;
+  Mean velocity (ū) and velocity fluctuations (ru,med)            F1,4 ¼ 0.03, P . 0.50), but was related negatively to
+varied substantially among the five sites but their                ru,med (Fig. 4B; r 2 ¼ 0.50, F1,4 ¼ 45.79, P , 0.01). Coral
+June 2015                                HYDRODYNAMICS EFFECTS ON CORALS                                                         1545
+
+                                                                    total corallivore abundance and our index of consumer
+                                                                    pressure strengthens our confidence that the difference
+                                                                    in coral growth between the þpredator and $predator
+                                                                    treatments at a site can be attributed mainly to
+                                                                    corallivory.
+                                                                        To explore the specific mechanism(s) by which
+                                                                    hydrodynamic forces influenced corallivorous fish and
+                                                                    their capacity to mediate coral growth, we compared
+                                                                    separately how total corallivore abundance and per
+                                                                    capita bite rate of C. trifascialis varied with mean
+                                                                    velocity (ū) and velocity fluctuations (ru,med). Variation
+                                                                    in corallivore abundance and per capita bite rate were
+                                                                    unrelated to differences in mean velocity (abundance, r 2
+                                                                    ¼ 0.04, F1,4 ¼ 0.18, P . 0.50; bite rate, r 2 ¼ 0.09, F1,4 ¼
+                                                                    0.48, P . 0.50). In contrast, both total corallivore
+                                                                    abundance and bite rate declined substantially with
+                                                                    increases in ru,med (Fig. 6A, abundance, r 2 ¼ 0.77, F1,4 ¼
+                                                                    78.40, P , 0.001; Fig. 6B, bite rate, r 2 ¼ 0.92, F1,4 ¼
+                                                                    400.55, P , 0.001). Similar regressions run with C.
+                                                                    trifascialis abundance showed similar patterns (velocity,
+                                                                    r 2 ¼ 0.002, F1,4 ¼ 0.015, P . 0.50; ru,med, r 2 ¼ 0.40, F1,4 ¼
+                                                                    83.37, P , 0.001).
+
+
+
+
+   FIG. 3. Skeletal growth (mean and 95% CI) of Acropora
+elseyi exposed to predators shown as a function of the (A) mean
+current velocity and (B) velocity fluctuations (ru,med). Data are
+from corallivorous fish exclusion cage control treatments (i.e.,
+partial cages; þpredator). The symbols L1–L5 indicate the five
+study sites (see Fig. 1).
+
+
+growth difference was almost zero at the two highest
+levels of ru,med (L1-L2), near the barrier reef crest where
+there was no apparent predation on corals. By contrast,
+there was quite a large difference in growth between cage
+treatments at the lowest level of velocity fluctuations,
+closer to shore (L5), where corallivores removed a
+substantial amount of tissue causing loss of coral
+biomass in þpredator treatments.
+   The across-lagoon (i.e., cross-reef ) gradient in coral
+growth difference increased with corallivore abundance
+(i.e., mean abundance of all corallivores) from offshore
+(back reef L1) to nearshore (fringing reef L5), and
+explained 52% of the among-site variation in growth
+reduction of corals exposed to predators (Fig. 5A; r 2 ¼
+0.52, F1,4 ¼ 24.36, P , 0.01). The gradient in coral
+growth difference also increased with our index of
+corallivore consumer pressure (i.e., the abundance of
+chevron butterflyfishes multiplied by their bite rates)                FIG. 4. Difference in growth (mean and 95% CI) of
+from L1 to L5 (Fig. 5B). Consumer pressure explained                Acropora elseyi between $predator and þpredator (i.e., cage
+                                                                    controls) treatments as a function of (A) mean current velocity
+53% of the among-site variation in growth reduction of
+                                                                    and (B) the velocity fluctuations (ru,med). N ¼ 12 corals for each
+corals exposed to predators (r 2 ¼ 0.53, F1,4 ¼ 493.33, P ,         difference measurement. The symbols L1–L5 indicate the five
+0.0001). The relatively tight, linear coupling with both            study sites (see Fig. 1).
+1546                                             HUNTER S. LENIHAN ET AL.                                    Ecology, Vol. 96, No. 6
+
+                                                                    visit wavy, turbulent sites they were heavily influenced
+                                                                    by the oscillatory flow. Coral reef flows are complex;
+                                                                    they vary at small spatial scales and are highly unsteady
+                                                                    due to a combination of currents, waves, and turbu-
+                                                                    lence interacting with multi-scale topographic features
+                                                                    (Hench and Rosman 2013). Water motion that varies
+                                                                    spatially or temporally can perturb fish by generating
+                                                                    linear translations, changes in depth, angular rotation,
+                                                                    body deformation, or alteration of swimming motions
+                                                                    and trajectories (Liao 2007). While fish are well
+                                                                    adapted to turbulent flow, fluctuations in water
+                                                                    velocity and direction can interfere with swimming
+                                                                    and increase the energetic cost of maintaining position
+                                                                    (Enders et al. 2003). For the coral species and the locale
+                                                                    we examined, the indirect effect of reducing corallivory
+                                                                    produced ;50% more coral growth (i.e., a 4% increase
+                                                                    in daily growth rate) than that explained by the direct
+                                                                    effects of velocity (e.g., mass transfer and autotrophy)
+                                                                    alone.
+                                                                       The influence of flow velocity on predator–prey
+                                                                    interactions in streams is well recognized (Hart and
+                                                                    Finelli 1999, Aseada et al. 2005). Surprisingly few
+                                                                    studies have quantified the influence of turbulence and
+                                                                    wave-generated oscillatory flow on marine benthic
+
+
+
+
+   FIG. 5. Difference in growth (mean and 95% CI) of
+Acropora elseyi between $predator and þpredator (i.e., cage
+controls) treatments as a function of the density of (A) all
+corallivorous fishes (no. corallivores/80 m2) and (B) consumer
+pressure, an index generated by multiplying the mean density of
+chevron butterflyfishes (Chaetodon trifascialis; no. fish/80 m2)
+by mean bite rate (no. bites/5 min) of individual C. trifascialis
+recorded at each site.
+
+
+                          DISCUSSION
+   In the absence of predation, growth of acroporid
+corals was heavily influenced by mean current velocity,
+potentially because of increased mass transfer and
+enhanced autotrophy. A previous study at this site,
+designed to test whether total zooplankton flux
+influenced corals, found no relationship between
+skeletal growth and particulate food flux (Alldredge
+et al. 2013), thereby suggesting that hydrodynamically-
+enhanced autotrophy, rather than heterotrophy, was
+the more important factor in our study. We also
+observed no differences in temperature across the sites
+during the assay, and saw no differences in light levels
+in a previous study (Lenihan et al. 2008), so we cannot
+attribute growth differences to these often-considered                 FIG. 6. (A) Density of all corallivorous fishes (no.
+factors. Differences in coral growth among treatments               corallivores/80 m2) and (B) per capita bite rate of C. trifascialis
+                                                                    as a function of ru,med, a measure of waves and turbulence. N ¼
+were also closely associated with corallivore abundance
+                                                                    8 transects per site for fish density counts; N ¼ 12 focal fish per
+and feeding behavior. Corallivores largely avoided                  site for the estimation of per capita bite rates. Values are means
+areas of high waves and turbulence but when they did                and 95% CI.
+June 2015                              HYDRODYNAMICS EFFECTS ON CORALS                                                     1547
+
+
+
+
+  PLATE 1. Wave-driven flow can mediate coral growth through direct and indirect effects. Shown here is the back reef study site
+on the north shore of Mo‘orea, French Polynesia. Photo credit: J. L. Hench.
+
+
+predator–prey interactions involving fish, despite the           effects of velocity on individual performance of a prey
+ubiquitous presence of turbulence and/or waves in                species, while simultaneously estimating the concurrent
+shallow water habitats. Yet consideration of these               indirect effects of waves and turbulence as forces that
+factors provided key insight in our study. Prior work            reduce predator abundance and feeding activity. We
+has shown that turbulence reduces the capacity of                found little relationship between the response of corals
+zooplanktivorous fish from capturing suspended zoo-              to predators and mean velocity (Fig. 3A). Instead,
+plankton (Kiflawi and Genin 1997), and that turbulence           differences among the $predator and þpredator treat-
+interferes with olfactory-based detection of benthic prey        ments varied largely as a function of velocity fluctua-
+by crabs (Smee et al. 2010) and crayfish (Moore and              tions, as did the density of corallivores and attack rates
+Grills 1999). In turbulent flow, reef fish spend a               (Figs. 5 and 6). These results imply that corallivores
+relatively large amount of time in flow energy refuges           largely avoid high wave and turbulence areas, but when
+(Johansen et al. 2007, 2008). Others have examined the           they do not, they are physically less capable of attacking
+influences of wave motion on the swimming modes of               corals. They may also alter their behavior and reduce
+fish assemblages (Fulton and Bellwood 2005), the                 their feeding activity by restricting attacks to short
+composition of reef fish assemblages (Friedlander et al.         periods when the energy of waves and turbulent eddies
+2003, Fulton and Bellwood 2004, Fulton et al. 2005), the         are relatively low, such as during lulls between wave
+zonation of prey species attributed to the negative effects      groups. During turbulent periods they may hide in
+of wave energy on benthic predators, especially sea stars,       physical refuges to save energy (Johansen et al. 2008).
+crabs, and spiny lobsters (Leonard et al. 1998, Robles et           Further detailed study of the role of hydrodynamics
+al. 2001), and the simultaneous direct (displacement)            will help us meet the challenge of forecasting commu-
+and indirect effects (habitat structuring) of wave               nity dynamics and generate a better understanding of
+exposure on the distribution and abundance of crypto-            the interplay among hydrodynamic conditions, habitat
+benthic reef fishes (Santin and Willis 2007). Here we            structure, and biotic interactions at a landscape scale.
+provide the first quantitative estimates of the direct           Our findings underscore the importance of physical–
+1548                                           HUNTER S. LENIHAN ET AL.                                   Ecology, Vol. 96, No. 6
+
+biological interactions that affect juveniles, the under-         Done, T. J. 1982. Patterns in the distribution of coral
+standing of which is fundamental to our ability to                  communities across the central Great Barrier Reef. Coral
+                                                                    Reefs 1:95–107.
+predict the trajectory of community recovery from
+                                                                  Enders, E. C., D. Boisclair, and A. G. Roy. 2003. The effect of
+large-scale disturbances. Future efforts to restore                 turbulence on the cost of swimming for juvenile Atlantic
+branching acroporids should carefully consider hydro-               salmon (Salmo salar). Canadian Journal of Fisheries and
+dynamic conditions across reefscapes to both enhance                Aquatic Science 60:1149–1160.
+the direct delivery of nutrients and indirect effect of           Falter, J. L., M. J. Atkinson, and M. A. Merrifield. 2004.
+                                                                    Mass-transfer limitation of nutrient uptake by a wave-
+reducing corallivory.
+                                                                    dominated reef flat community. Limnology and Oceanogra-
+                     ACKNOWLEDGMENTS                                phy 49:1820–1831.
+                                                                  Friedlander, A. M., E. K. Brown, P. L. Jokiel, W. R. Smith,
+   We thank O. Lenihan, R. Lenihan, J. Rosman, M. Schmitt,          and K. S. Rogers. 2003. Effects of habitat, wave exposure,
+K. Seydel, J. Yousing, and T. Yousing for help in the field and     and marine protected area status on coral reef fish
+laboratory. The study was supported by NSF through the              assemblages in the Hawaiian archipelago. Coral Reefs 22:
+Mo‘orea Coral Reef LTER (OCE0417412, OCE1026851;                    291–305.
+OCE1236905) and Physical Oceanography (OCE0622967;                Fulton, C. J., and D. R. Bellwood. 2004. Wave exposure,
+OCE1435133) programs, and, the Gordon and Betty Moore
+                                                                    swimming performance, and the structure of tropical and
+Foundation. It is contribution no. 207 of the UC Berkeley
+                                                                    temperate reef fish assemblages. Marine Biology 144:429–
+Gump Research Station. This paper is dedicated to the memory
+                                                                    437.
+of Professor Marlin J. Atkinson.
+                                                                  Fulton, C. J., and D. R. Bellwood. 2005. Wave-induced water
+                      LITERATURE CITED                              motion and the functional implications for coral reef fish
+                                                                    assemblages. Limnology and Oceanography 50:255–264.
+Adam, T. C., A. J. Brooks, S. J. Holbrook, R. J. Schmitt, P. J.   Fulton, C. J., D. R. Bellwood, and P. C. Wainwright. 2005.
+  Edmunds, L. Washburn, and G. Bernardi. 2014. How will             Wave energy and swimming performance shape coral reef
+  coral reef fish communities respond to climate-driven             fish assemblages. Proceedings of the Royal Society B 272:
+  disturbances? Insight from landscape-scale perturbations.         827–832.
+  Oecologia 176:285–296.                                          Glynn, P. W. 1990. Feeding ecology of selected coral-reef
+Adam, T. C., R. J. Schmitt, S. J. Holbrook, A. J. Brooks, P. J.     macro-consumers: patterns and perspectives on coral com-
+  Edmunds, R. C. Carpenter, and G. Bernardi. 2011.                  munity structure. Pages 365–400 in Z. Dubinsky, editor.
+  Herbivory, connectivity, and ecosystem resilience: response       Ecosystems of the world 25: coral reefs. Elsevier, Amsterdam,
+  of a coral reef to a large-scale perturbation. PLoS ONE 6:        The Netherlands.
+  e23717.                                                         Hart, D. D., and C. M. Finelli. 1999. Physical-biological
+Adjeroud, M., F. Michonneau, P. J. Edmunds, Y. Chancerelle,         coupling in streams: the pervasive effects of flow on benthic
+  T. Lison De Loma, L. Penin, L. Thibaut, J. Vidal-Dupiol, B.       organisms. Annual Review of Ecology and Systematics 30:
+  Salvat, and R. Galzin. 2009. Recurrent disturbances,              363–395.
+  recovery trajectories, and resilience of coral assemblages on   Hearn, C. J. 1999. Wave-breaking hydrodynamics within coral
+  a South Central Pacific reef. Coral Reefs 28:775–780.             reef systems and the effect of changing relative sea level.
+Alldredge, A. L., S. J. Holbrook, R. J. Schmitt, A. J. Brooks,      Journal of Geophysical Research: Oceans (1978–2012)
+  and H. Stewart. 2013. Can in situ mesozooplankton                 104(C12):30007–30019.
+  enrichment enhance skeletal growth of four scleractinian        Hench, J. L., J. J. Leichter, and S. G. Monismith. 2008.
+  corals? Marine Ecology Progress Series 489:143–153.               Episodic circulation and exchange in a wave-driven coral reef
+Aronson, R. B., I. G. MacIntyre, S. A. Lewis, and N. L.             and lagoon system. Limnology and Oceanography 53:2681–
+  Hilbun. 2005. Emergent zonation and geographic conver-            2694.
+  gence of coral reefs. Ecology 86:2586–2600.                     Hench, J. L., and J. H. Rosman. 2013. Observations of spatial
+Aronson, R. B., and W. F. Precht. 1997. Stasis, biological          flow patterns at the coral colony scale on a shallow reef flat.
+  disturbance, and community structure of a Holocene coral          Journal of Geophysical Research (Oceans) 118:1142–1156.
+  reef. Paleobiology 23:326–346.                                  Hixon, M. A. 1997. Effects of reef fishes on corals and algae.
+Aseada, T., T. K. Vu, and J. Manatunge. 2005. Effects of flow       Pages 230–248 in C. Birkeland, editor. Life and death of
+  velocity on feeding behaviour and microhabitat selection of       coral reefs. Chapman and Hall, New York, New York, USA.
+  the Stone Moroko Pseudorasbora parva: a trade-off between       Holbrook, S. J., A. J. Brooks, and R. J. Schmitt. 2003.
+  feeding and swimming costs. Transactions of the American          Variation in structural attributes of patch-forming corals and
+  Fishery Society 134:537–547.                                      in patterns of abundance of associated fishes. Marine and
+Bellwood, D. R., T. P. Hughes, C. Folke, and M. Nyström.           Freshwater Research 53:1045–1053.
+  2004. Confronting the coral reef crisis. Nature 429:827–833.    Holbrook, S. J., R. J. Schmitt, and A. J. Brooks. 2011. Indirect
+Brooks, A. 2014. MCR LTER: coral reef: long-term population         effects of species interactions on habitat provisioning.
+  and community dynamics: fishes. Mo‘orea Coral Reef LTER.          Oecologia 166:739–749.
+  http://dx.doi.org/10.6073/pasta/f4b8c39f5c71493d32ede71b6       Hughes, T. P. 1994. Catastrophes, phase shifts, and large-scale
+  d5b503d                                                           degradation of a Caribbean coral reef. Science 265:1547–
+Brown, B. E. 1997. Adaptations of reef corals to physical           1551.
+  environmental stress. Advances in Marine Biology 31:222–        Hughes, T. P., N. A. Graham, J. B. C. Jackson, P. J. Mumby,
+  301.                                                              and R. S. Steneck. 2010. Rising to the challenge of sustaining
+Cole, A. J., M. S. Pratchett, and G. P. Jones. 2008. Diversity      coral reef resilience. Trends in Ecology and Evolution 25:
+  and functional importance of coral-feeding fishes on tropical     633–642.
+  coral reefs. Fish and Fisheries 9:286–307.                      Jackson, J. B. C. 1992. Pleistocene perspectives on coral reef
+De’ath, G., K. E. Fabricius, H. Sweatman, and M. Puotinen.          community structure. American Zoologist 32:719–731.
+  2012. The 27-year decline of coral cover on the Great Barrier   Johansen, J. L., D. R. Bellwood, and C. J. Fulton. 2008. Coral
+  Reef and its causes. Proceedings of the National Academy of       reef fishes exploit flow refuges in high-flow habitats. Marine
+  Sciences USA 109:17995–17999.                                     Ecology Progress Series 360:219–226.
+June 2015                               HYDRODYNAMICS EFFECTS ON CORALS                                                         1549
+
+Johansen, J. L., C. J. Fulton, and D. R. Bellwood. 2007.           Moran, P. J. 1986. The Acanthaster phenomenon. Oceanogra-
+  Avoiding the flow: refuges expand the swimming potential of        phy and Marine Biology 24:379–480.
+  coral reef fishes. Coral Reefs 26:577–583.                       Mumby, P. J., and R. S. Steneck. 2008. Coral reef management
+Johnson, M. K., S. J. Holbrook, R. J. Schmitt, and A. J.             and conservation in light of rapidly evolving ecological
+  Brooks. 2011. Fish communities on staghorn coral: effects of       paradigms. Trends in Ecology and Evolution 23:555–563.
+  habitat characteristics and resident farmerfishes. Environ-      Neudecker, S. 1979. Effect of grazing and browsing fishes on
+  mental Biology of Fishes 21:429–448.                               the zonation of corals in Guam. Ecology 60:666–672.
+Jokiel, P. L. 1978. Effects of water motion on reef corals.        Powers, S. P., and J. N. Kittinger. 2002. Hydrodynamic
+  Journal of Experimental Marine Biology and Ecology 35:87–          mediation of predator–prey interactions: differential patterns
+  97.                                                                of prey susceptibility and predator success explained by
+Kiflawi, M., and A. Genin. 1997. Prey flux manipulation and          variation in water flow. Journal of Experimental Marine
+  the feeding rates of reef-dwelling planktivorous fish. Ecology     Biology and Ecology 273:171–187.
+  78:1062–1077.                                                    Pratchett, M. S., N. A. J. Graham, and A. J. Cole. 2013.
+Knowlton, N., J. C. Lang, and B. D. Keller. 1990. Case study of      Specialist corallivores dominate butterflyfish assemblages in
+  natural population collapse: post-hurricane predation on           coral-dominated reef habitats. Journal of Fish Biology 82:
+  Jamaican staghorn corals. Smithsonian Contributions to the         1177–1191.
+  Marine Sciences 31:1–25.                                         Robles, C. D., M. A. Alvarado, and R. A. Desharnais. 2001.
+Lenihan, H. S., M. Adjeroud, M. J. Kotchen, J. L. Hench, and         The shifting balance of littoral predator–prey interaction in
+  T. Nakamura. 2008. How reef structure regulates small-scale        regimes of hydrodynamic stress. Oecologia 128:142–152.
+  spatial variation in coral bleaching. Marine Ecology Progress    Rosman, J. H., and J. L. Hench. 2011. A framework for
+  Series 370:127–141.                                                understanding drag parameterizations for coral reefs. Journal
+Lenihan, H. S., and P. J. Edmunds. 2010. Response of                 of Geophysical Research (Oceans) 118:1142–1156.
+  Pocillopora verrucosa to corallivory varies with environmen-     Rotjan, R. D., J. L. Dimond, D. J. Thornhill, J. J. Leichter, B.
+  tal conditions. Marine Ecology Progress Series 409:51–63.          Helmuth, D. W. Kemp, and S. M. Lewis. 2006. Chronic
+                                                                     parrotfish grazing impedes coral recovery after bleaching.
+Lenihan, H. S., S. J. Holbrook, R. J. Schmitt, and A. J. Brooks.
+                                                                     Coral Reefs 25:361–368.
+  2011. Influence of corallivory, competition, and habitat
+                                                                   Rotjan, R. D., and S. M. Lewis. 2008. Impact of coral
+  structure on coral community shifts. Ecology 92:1959–1971.
+                                                                     predators on tropical reefs. Marine Ecology Progress Series
+Leonard, G. H., J. M. Levine, P. R. Schmidt, and M. D.
+                                                                     367:73–91.
+  Bertness. 1998. Flow-driven variation in intertidal commu-
+                                                                   Santin, S., and T. J. Willis. 2007. Direct versus indirect effects
+  nity structure in a Maine estuary. Ecology 79:1395–1411.
+                                                                     of wave exposure as a structuring force on temperate
+Lesser, M. P., V. M. Weis, M. R. Patterson, and P. L. Jokiel.
+                                                                     cryptobenthic fish assemblages. Marine Biology 151:1683–
+  1994. Effects of morphology and water motion on carbon             1694.
+  delivery and productivity in the reef coral, Pocillopora         Sebens, K., B. Helmuth, E. Carrington, and B. Agius. 2003.
+  damicornis (Linnaeus): diffusion barriers, inorganic carbon        Effects of water flow on growth and energetics of the
+  limitation, and biochemical plasticity. Journal of Experimen-      scleractinian coral Agaricia tenuifolia in Belize. Coral Reefs
+  tal Marine Biology and Ecology 178:53–179.                         22:35–47.
+Liao, J. C. 2007. A review of fish swimming mechanics and          Smee, D. L., M. C. Ferner, and M. J. Weissburg. 2010.
+  behavior in altered flow. Philosophical Transactions of the        Hydrodynamic sensory stressors produce nonlinear preda-
+  Royal Society B 362:1973–1993.                                     tion patterns. Ecology 91:1391–1400.
+Littler, M. M., P. R. Taylor, and D. S. Littler. 1989. Complex     StataCorp. 2011. Stata statistical software: release 12. Stata-
+  interactions in the control of coral zonation on a Caribbean       Corp, College Station, Texas, USA.
+  reef flat. Oecologia 80:331–340.                                 Stimson, J., and R. A. Kinzie. 1991. The temporal pattern and
+Madin, J. S., and S. R. Connolly. 2006. Ecological consequenc-       rate of release of zooxanthellae from the reef coral
+  es of major hydrodynamic disturbances on coral reefs.              Pocillopora damicornis (Linnaeus) under nitrogen enrichment
+  Nature 444:477–480.                                                and control conditions. Journal of Experimental Marine
+Miller, M. W., and M. E. Hay. 1998. Effects of fish predation        Biology and Ecology 153:63–74.
+  and seaweed competition on the survival and growth of            Trapon, M. L., M. S. Pratchett, and L. Penin. 2011.
+  corals. Oecologia 113:231–238.                                     Comparative effects of different disturbances in coral reef
+Monismith, S. G., L. M. M. Herdman, S. H. Ahmerkamp, and             habitats in Mo‘orea, French Polynesia. Journal of Marine
+  J. L. Hench. 2013. Wave transformation and wave-driven             Biology 2011:Article ID 807625.
+  flow across a steep coral reef. Journal of Physical Oceanog-     Veron, J. E. N. 2000. Corals of the world. Volume 1. Australian
+  raphy 43:1356–1379.                                                Institute of Marine Sciences, Townsville, Australia.
+Moore, P. A., and J. L. Grills. 1999. Chemical orientation to      Wellington, G. M. 1982. Depth zonation of corals in the Gulf of
+  food by the crayfish Orconectes rusticus: influence of             Panama: control and facilitation by resident reef fishes.
+  hydrodynamics. Animal Behaviour 58:953–963.                        Ecological Monographs 52:223–241.
+
+
+
+                                                   SUPPLEMENTAL MATERIAL
+                                                        Ecological Archives
+  Appendices A–D are available online: http://dx.doi.org/10.1890/14-1115.1.sm
+

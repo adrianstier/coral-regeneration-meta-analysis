@@ -1,0 +1,1134 @@
+Coral Reefs (2019) 38:45–61
+https://doi.org/10.1007/s00338-018-01754-9
+
+    REPORT
+
+
+
+Differential protein abundance during the first month
+of regeneration of the Caribbean star coral Montastraea cavernosa
+Ryan A. Horricks1,2 • Christophe M. Herbinger3 • Brandon N. Lillie1 •
+Paul Taylor4 • John S. Lumsden1,2
+
+
+
+
+Received: 10 September 2018 / Accepted: 13 November 2018 / Published online: 20 November 2018
+Ó Springer-Verlag GmbH Germany, part of Springer Nature 2018
+
+
+Abstract It is critical to determine the methods by which            frozen. Tissues from 10 normally pigmented brown colo-
+coral colonies regenerate tissue lost to physical injury as          nies were selected for proteomic analysis using tandem
+they provide the physical structure of coral reef systems.           mass tags. The initial polyp sample, the day 14, and the
+To explore regeneration, circular lesions (12 mm diame-              final samples were used to quantify the difference in pro-
+ter 9 3 mm depth) were created in the fall of 2014 on 124            tein abundance as the lesions healed. In the tissue samples
+Montastraea cavernosa colonies located in the coastal                6419 peptides were reliably identified, which corresponded
+waters of Grenada and Carriacou (10–12 m depth). Coral               to 906 unique proteins. During the first month of regener-
+regeneration was documented at weekly intervals for                  ation, 111 proteins were differentially abundant (p \ 0.05)
+28 days. Repeated measures ANOVA on estimated weekly                 on at least one timepoint and of these, 11 were associated
+coral regeneration rates showed that island (p = 0.024) and          with regeneration. An additional 14 proteins were also
+colony colour (p = 0.024) were the only factors signifi-             identified that were differentially abundant (p \ 0.05) and
+cantly affecting lesion regeneration. Mean rate of lesion            were associated with inflammation or antioxidant activity.
+closure during the first 28 days was approximately                   This work demonstrates, for the first time, the differential
+2.8 mm2 d-1. Four identical circular lesions were created            abundance of proteins associated with regeneration in a
+on 30 M. cavernosa colonies (Carriacou, 10–12 m depth)               scleractinian coral.
+in the fall of 2015. One representative lesion created on
+each coral colony was re-sampled at each of 14, 21, and 32           Keywords Regeneration  Proteomics  Tandem mass tag 
+or 33 days following injury, and coral tissue was flash-             Montastraea cavernosa  Grenada
+
+
+Topic Editor Morgan S. Pratchett                                     Introduction
+Electronic supplementary material The online version of this
+article (https://doi.org/10.1007/s00338-018-01754-9) contains sup-
+                                                                     Montastraea cavernosa is one of the remaining commonly
+plementary material, which is available to authorized users.         encountered reef-building species of scleractinian coral in
+                                                                     the Caribbean. As a large, sessile organism, it is susceptible
+& Ryan A. Horricks                                                   to various forms of physical injury including predation,
+  horrickr@uoguelph.ca
+                                                                     destructive fishing practices, boat and anchor grounding,
+1
+     Department of Pathobiology, Ontario Veterinary College,         careless SCUBA divers, sedimentation, storms, and disease
+     University of Guelph, Guelph, ON N1G 2W1, Canada                (Lesser 2004). Any physical damage to coral tissue can
+2
+     Department of Pathobiology, School of Veterinary Medicine,      follow one of two routes. Either the wound fails to heal and
+     St. George’s University, True Blue, Grenada                     leaves exposed skeleton, or the whole structure re-grows
+3
+     Department of Biology, Dalhousie University, Halifax,           completely. The complete healing of lesions and return to
+     NS B3H 4R2, Canada                                              normal tissue function is referred to as regeneration (Goss
+4
+     SPARC BioCentre, The Hospital for Sick Children, Toronto,       1992), and it plays an important role in coral survival
+     ON M5G 0A4, Canada                                              (Foster et al. 2007). Coral colonies that cannot regenerate
+
+
+                                                                                                                        123
+46                                                                                                   Coral Reefs (2019) 38:45–61
+
+
+tissue efficiently are susceptible to invasion from both         cnidarians as well as several other invertebrate groups
+encrusting and boring organisms, which may lead to the           (Palmer et al. 2011; Soderhall and Smith 1986; Wootton
+eventual death of the colony (Meesters et al. 1994). As          and Pipe 2003; Young 1974). Hyaline cells have been
+scleractinian corals provide the three-dimensional structure     suggested to produce fibronectin and collagen, thereby
+of coral reefs (Squires 1958), their ability to regenerate       facilitating the production and reformation of the extra-
+tissue is of critical importance to the long-term health of      cellular matrix (Palmer et al. 2011; Soderhall and Smith
+the reef ecosystem as a whole.                                   1986; Wootton and Pipe 2003; Young 1974). Following the
+   Tissue regeneration rates vary between all species of         inflammatory phase, cellular proliferation dominates (Pal-
+hard coral, but the events leading to regeneration follow the    mer et al. 2011; Work and Aeby 2010), characterized by a
+same general pattern (Bak and Steward-Van Es 1980; Hall          thickening of the epithelium. Proliferation, along with
+1997; Marshall 2000; Meesters and Bak 1993; Meesters             reorganization, continues until the wound is completely
+et al. 1996; Meesters et al. 1997; Nagelkerken and Bak           healed and has regained its original colouration via uptake
+1998; Van Veghel and Bak 1994). Regeneration in the              of zooxanthellae (Palmer et al. 2011; Work and Aeby
+closely related Orbicella annularis (formerly Montastraea        2010).
+annularis) begins with the polyps surrounding a lesion              The mechanisms by which these processes occur are
+producing an undifferentiated tissue layer that spreads          well studied in vertebrates and some ‘model’ invertebrates
+inwards (Fisher et al. 2007; Meesters et al. 1994). New          such as Hydra spp. (Technau and Steele 2011; Wenger
+polyps appear in this tissue within approximately 2 weeks        et al. 2014). Studies on scleractinian corals are more lim-
+of lesion creation and begin to secrete septa (Fisher et al.     ited, and to our knowledge, no information is available at
+2007; Meesters et al. 1994). Regenerating polyps are ini-        the proteomic level. RNA sequencing (RNA-seq) experi-
+tially semi-transparent but attain normal tissue pigmenta-       ments have been used to examine transcriptomic changes
+tion by the end of the regenerative process (Work and Aeby       in Hydra spp. and the majority of identified pathways
+2010). A mathematical model describing lesion closure has        function in a manner analogous to those in vertebrates
+been proposed (Meesters et al. 1997) and modified (Fisher        (Wenger et al. 2014). The few similar experiments con-
+et al. 2007) that takes the following form:                      ducted in coral species have found transcriptomic evidence
+          h          i                                           for the upregulation of signalling pathways of several
+y ¼ yo þ aeðbdÞ                                                immune-related genes during tissue regeneration (Fuess
+                                                                 et al. 2016; van De Water et al. 2015a, b). Transcripts
+where y is the current size of the lesion, yo is the asymptote
+                                                                 related to the immune processes of pathogen recognition,
+in the event that a lesion does not completely heal, a is the
+                                                                 signalling, and the resultant effector response have also
+surface area of tissue that has been regenerated, b is the
+                                                                 been identified in scleractinian corals (Fuess et al. 2016).
+slope of the curve, and d is the number of days post-lesion
+                                                                 Following exposure to a pathogen-associated molecular
+creation.
+                                                                 pattern from Escherichia coli, seventeen transcripts that
+   Both regeneration and incomplete wound healing follow
+                                                                 could be linked to immune-related processes in the scler-
+a similar sequence of events including coagulation,
+                                                                 actinian coral O. annularis were identified (Fuess et al.
+inflammation, proliferation, and finally, to some degree,
+                                                                 2016). The immune response and regenerative processes
+tissue reorganization. In scleractinian corals, lesion regen-
+                                                                 are tightly linked and, at some level, indistinguishable from
+eration has been described several times in multiple taxa
+                                                                 each other (Aurora and Olson 2015). While genomics and
+using both gross and histological methods (Galloway et al.
+                                                                 RNA-seq provide information as to how these processes
+2007; Palmer et al. 2011; Renegar 2015; Rodrı́guez-Vil-
+                                                                 might be initiated, proteomics can, within the limits of
+lalobos et al. 2016; Work and Aeby 2010). Within the first
+                                                                 sensitivity, provide information as to which proteins are
+6 h following tissue damage, coagulation occurs with a clot
+                                                                 significantly altered (Slattery et al. 2012). Gaining insight
+comprised of extracellular aggregates (Palmer et al. 2011).
+                                                                 to the presence of the effector proteins involved in these
+In M. cavernosa, the inflammatory phase of tissue repair is
+                                                                 processes is of critical importance to further our knowledge
+facilitated by granular amoebocytes that fuse to become
+                                                                 of regeneration in a basal metazoan.
+new tissues at the site of the lesion (Renegar 2015).
+                                                                    The purpose of the present study was to test the
+Degranulation of granular cells expels cytotoxic material
+                                                                 hypothesis that lesion size of M. cavernosa colonies would
+which functions as part of the innate immune response
+                                                                 decrease exponentially with time up to an asymptote
+(Palmer et al. 2011). These amoebocytes arrange them-
+                                                                 determined by the initial lesion size (proposed by Fisher
+selves in an epithelial-like layer by spreading around the
+                                                                 et al. 2007; Meesters et al. 1997). The reparative abilities of
+lesion (Palmer et al. 2011). Granular cells, hyaline cells,
+                                                                 M. cavernosa colonies were compared on patch reefs
+and fibroblasts are all observed surrounding a regenerating
+                                                                 between two Grenadian islands. Once appropriate statisti-
+lesion (Palmer et al. 2011) and have been reported in
+                                                                 cal models had been developed to determine sampling
+
+
+123
+Coral Reefs (2019) 38:45–61                                                                                                                 47
+
+
+times, proteomic analysis of coral tissue was used to                normally pigmented tissue of hemispherical colonies of
+determine which proteins were differentially abundant                approximately the same size (0.097 m3 ± 0.127, aver-
+(DA) in M. cavernosa during the first month of the                   age ± SE). Each lesion was centred on a single polyp with
+regenerative process.                                                the intention of removing a whole polyp and causing
+                                                                     minimal incidental damage to neighbouring polyps. All
+                                                                     coral colonies sampled were 10.20 ± 1.37 m (aver-
+Methods                                                              age ± SE) below the surface of the water. Upon removal
+                                                                     from the colony, polyps were placed in individual pre-
+Study sites                                                          labelled sample collection tubes in ambient seawater. Once
+                                                                     samples were brought to the surface, they were immedi-
+Four previously established study sites were selected to             ately rinsed three times in deionized water before being
+complement an existing dataset from Grenada (Anderson                placed in individually labelled 1.5-ml centrifuge tubes and
+et al. 2012, 2014; Table 1) and four visually similar sites          transferred to a MVE SC 20/12 V dry shipper (Core Cry-
+were also established on the nearby island of Carriacou              olab, Toronto, ON) for flash-freezing in liquid nitrogen at
+(Table 1). Data on lesion regeneration were collected from           - 120 °C. Polyps were stored in the field in the MVE SC
+late September to November 2014 and from November to                 20/12 V dry shipper (Core Cryolab) and were transferred to
+December 2015.                                                       a - 80 °C freezer upon arrival at the University of Guelph.
+                                                                        Lesions were photographed after lesion creation at day 0
+Lesion regeneration                                                  and then at days 7, 14, 21, 28, 35, and a final timepoint
+                                                                     (70 days for 2014 and 31–33 days in 2015) post-lesion
+Circular lesions were created on 124 M. cavernosa colo-              creation using a Nikon D7100 with a Sigma 8–16-mm
+nies in the nearshore waters of Carriacou in September and           wide-angle lens in an Ikelite housing. Each lesion pho-
+Grenada in October 2014 at established benthic monitoring            tographed included a tape measure immediately adjacent to
+sites (Table 1). Identical lesions were created on 30 M.             the lesion to act as a scale bar. Images were used to
+cavernosa colonies in the nearshore waters of Carriacou in           quantify the number of polyps incidentally damaged during
+October 2015 at two established benthic monitoring sites,            lesion creation and colony colour. Images were imported to
+Sandy Island and Jackadam (Table 1) (Grenada Ministry of             ImageJ (Abramoff et al. 2004) where the scale bar to pixel
+Forestry, Fisheries & Agriculture and St. George’s                   ratio for each image was calibrated and the surface area
+University, permit number IACUC 14001).                              and perimeter of each lesion was determined using the
+   Lesions were created on M. cavernosa colonies to                  freehand line tool. The rate of change of lesion size
+remove the tissue and a small amount of skeleton of a                between each sampling timepoint for each individual coral
+single polyp. Polyp core samples were collected using a              was estimated using the approximation formula:
+12.7 mm diameter diamond coring drill bit attached to a                     2ð y 1  y 2 Þ
+Stanley FatMax pneumatic drill (Stanley Black & Decker,              b ¼
+                                                                             ðy1 þ y 2 Þ
+New Britain, CT) powered by a dedicated SCUBA air
+cylinder. Coral lesion cores were drilled 3 mm ± 1 mm                and these estimated rates were tested using repeated mea-
+(average ± SE) deep in each colony. At the start of the              sures ANOVA with island, site, colour of the colony, and
+experiment, lesions were always surrounded by live,                  number of polyps damaged, as potential explanatory
+
+Table 1 Site names, locations,
+                                    Island      Site name           Year   No. of colonies   Proteomics   GPS coordinates
+GPS coordinates, year and
+number of colonies that             Grenada     Dragon Bay          2014   16                N            12°50 6.0000 N 61°450 45.3600 W
+received lesions in the nearshore
+waters of Grenada and               Grenada     Flamingo Bay        2014   14                N            12°50 30.3600 N 61°450 30.6000 W
+Carriacou, Grenada, West            Grenada     Quarter Wreck       2014   14                N            12°10 40.9800 N 61°470 0.8400 W
+Indies                              Grenada     Northern Exposure   2014   16                N            12°20 22.1400 N 61°460 4.7400 W
+                                    Carriacou   Sandy Island        2014   16                N            12°290 7.7700 N 61°290 2.0000 W
+                                    Carriacou   Whirlpool           2014   16                N            12°290 2.5000 N 61°290 31.3500 W
+                                    Carriacou   Jackadam            2014   16                N            12°290 46.2500 N 61°280 4.1100 W
+                                    Carriacou   Seaview             2014   16                N            12°260 44.1300 N 61°290 59.7000 W
+                                    Carriacou   Sandy Island        2015   10                Y            12°290 7.7700 N 61°290 2.0000 W
+                                    Carriacou   Whirlpool           2015   10                N            12°290 2.5000 N 61°290 31.3500 W
+                                    Carriacou   Jackadam            2015   10                Y            12°290 46.2500 N 61°280 4.1100 W
+
+
+
+                                                                                                                               123
+48                                                                                                  Coral Reefs (2019) 38:45–61
+
+
+factors and covariates. Nonlinear least squares regression       creation, another at 21, and a third at a final timepoint (day
+was then used to fit an exponential model to the current size    32 or 33) and processed and frozen as described above for
+of the lesion with the factors that were significant in the      proteomic analysis (Fig. 2). The final tissue collection
+repeated measure model as separate predictors in addition        timepoint varied from day 32 to 33 due to logistical rea-
+to the number of days post-lesion creation. Repeated             sons. The collection protocol allowed for tissue to be
+measures ANOVA was used to determine whether there               sampled initially and at two stages during regeneration and
+was a significant difference in the rate of change for lesions   at the end of the first month of the regeneration period.
+created on Carriacou between years. Once statistical             Lesions were re-sampled by re-drilling the same core that
+models of lesion closure had been developed, they were           was originally created and collecting the regenerated tissue
+used to estimate when rapid changes in lesion size were          healing inwards from the periphery of the lesion.
+occurring. Based on these models, tissue sampling times             Tissue samples were collected for proteomic analysis
+were selected for proteomic analysis to capture changes at       during regeneration from five brown, normally pigmented
+the proteomic level. Tandem mass tag (TMT)-labelled              M. cavernosa colonies at days 0, 14, 33 at Sandy Island and
+liquid chromatography–mass spectrometry was used to              from five brown, normally pigmented M. cavernosa colo-
+determine which proteins were DA in M. cavernosa during          nies at days 0, 14, 32 at Jackadam. These colonies were
+the first month (days 0–33) of the regenerative process. All     selected for proteomic analysis based on the estimated
+statistical analyses were conducted using R Version 3.4 (R       lesion regeneration rates (- b) for individual lesions. Coral
+Core Team 2017) and ggplot (Wickham 2016) was used to            colonies selected for proteomic analysis had estimated
+create figures.                                                  lesion regeneration rates (- b) within one standard devia-
+                                                                 tion of each other. Brown colonies were selected because
+Sample collection for proteomic analysis                         they are the most commonly observed colour morph on the
+                                                                 nearshore reefs of Carriacou.
+Coral polyp core samples were collected from lesions
+created haphazardly on the tops of targeted M. cavernosa         Soluble protein extraction
+colonies at two previously established study sites (Sandy
+Island and Jackadam) in the nearshore waters of Carriacou        Protein was extracted from coral polyp tissue that had been
+in 2015 (Table 1).                                               stored at - 80 °C following the protocol established in
+   Four lesions were created on each colony (Fig. 1), each       Barneah et al. (2006). Briefly, tissue was removed from the
+of which was separated from any other lesion and the             skeleton using a sterile scalpel blade and placed in a 1.5-ml
+bottom of the colony by at least 8 cm. One of the original       microcentrifuge tube on ice with 250 ll of extraction
+four lesions was re-sampled at 14 days post-lesion               buffer (40 mM Tris, 10 mM EDTA, pH 7.4) and 250 ll
+                                                                 protease inhibitor cocktail (Sigma-Aldrich, Oakville, ON).
+                                                                 Tissue was homogenized in the extraction buffer on ice for
+                                                                 30 s using a sterile plastic pestle and then inverted gently
+                                                                 for 30 s to mix. The homogenate was centrifuged for
+                                                                 20 min at 12,0009g at 4 °C. The supernatant was trans-
+                                                                 ferred to a new microcentrifuge tube and centrifuged for
+                                                                 20 min at 12,0009g at 4 °C two additional times. Protein
+                                                                 concentrations were determined using a modified Bradford
+                                                                 assay in a 96-well plate (Bradford 1976).
+
+                                                                 Mass spectrometry
+
+                                                                 Extracted protein samples were submitted on dry ice to the
+                                                                 SPARC Bio Centre at the Toronto Hospital for Sick
+                                                                 Children for tandem mass tag labelling and mass spec-
+                                                                 trometry using the Q-Exactive protocol on a ThermoFisher
+                                                                 Orbitrap liquid chromatography–mass spectrometry (LC–
+                                                                 MS) device (ThermoFisher, San Jose, CA).
+                                                                    The proteins were reduced in 1 mM dithiothreitol (DTT)
+                                                                 for 1 h at 56 °C and the free cysteine residues were alky-
+Fig. 1 Montastrea cavernosa colony from 2015 at Jackadam,        lated using iodoacetamide. The proteins were precipitated
+Carriacou with four lesions created                              with 5 volumes of acetone overnight at 20 °C and
+
+
+123
+Coral Reefs (2019) 38:45–61                                                                                                           49
+
+Fig. 2 Regression models
+                                                        2.00
+(nonlinear least squares) for the
+reduction in Montastraea
+cavernosa lesion size (cm2 with                         1.75                                                           Island
+standard error) over a 35-day                                                                                             Carriacou
+period from September to                                                                                                  Grenada
+November 2014 for Grenada                               1.50
+(dashed line), September to
+November 2014 for Carriacou
+
+
+
+
+                                    Lesion Size (cm2)
+                                                        1.25
+(solid line), and November to
+December 2015 for Carriacou
+(solid red line). Sample                                1.00
+collection dates are noted (?)
+
+                                                        0.75
+
+
+
+                                                        0.50
+
+
+
+                                                        0.25
+
+
+
+                                                        0.00
+
+                                                               0   7             14               21           28                35
+
+                                                                               Days Post−Lesion Creation
+
+
+
+centrifugation. 10 lg of protein from each condition was               set to 30 V. The dynamic exclusion was applied using a
+labelled using 0.4 mg of TMT 10-plex by incubating at                  setting of 40 s. Four separate LC–MS runs were used to
+room temperature for 1 h. The labelling reaction was                   acquire data for this study. Two separate runs were used for
+stopped using 5% hydroxylamine. The peptides were                      the samples originating from Sandy Island, and two sepa-
+mixed, and the solvent removed under vacuum. The pellet                rate runs were used for the samples originating from
+was re-suspended, and samples were analysed on a Orbi-                 Jackadam. Day 0, 14, and 31 samples from an individual
+trap analyser (Q-Exactive, ThermoFisher) outfitted with a              colony were always in the same run.
+nanospray source and EASY-nLC nano-LC system (Ther-
+moFisher). Lyophilized peptide mixtures were dissolved in              Data analysis
+0.1% formic acid and loaded onto a 75 lm 9 50 cm
+PepMax RSLC EASY-Spray column (ThermoFisher) filled                    Raw files were analysed at the University of Guelph using
+with 2 lM C18 beads (ThermoFisher) at a pressure of                    PEAKS Studio 8.0 (Bioinformatics Solutions Inc., Water-
+800 bar. Peptides were eluted over 120 min at a rate of                loo, ON) with TMT 10-plex and carbamidomethylation set
+250 nl min-1 using a stepwise gradient (0–4% acetonitrile              as fixed modifications, and oxidation and deamidation as
+containing 0.1% formic acid over 2 min; 4–28% acetoni-                 variable modifications. A digestion enzyme of trypsin with
+trile containing 0.1% formic acid over 106 min, 28–95%                 three maximum missed cleavages was used. The data were
+acetonitrile containing 0.1% formic acid over 2 min, con-              searched with a parent ion tolerance of 35.0 ppm and a
+stant 95% acetonitrile containing 0.1% formic acid for                 fragment error tolerance of 0.05 Dalton (Da). De novo
+10 min). Peptides were introduced by nano-electrospray                 assemblies were made in PEAKS, and database searches of
+into the Q-Exactive mass spectrometer (ThermoFisher).                  the M. cavernosa transcriptome made available by Kitchen
+The instrument method consisted of one MS full scan                    et al. (2015) were conducted. Peptide results were filtered
+(525–1600 m/z) in the Orbitrap mass analyser with an                   for each run with a false discovery rate (FDR) of 1%.
+automatic gain control (AGC) target of 1e6, maximum ion                Protein results were filtered with a - 10 LgP score of
+injection time of 120 ms and a resolution of 35 000 fol-               C 15 and at least 2 unique peptides. The de novo only
+lowed by 15 data-dependent MS/MS scans with a resolu-                  average local confidence (ALC) was set for each run fol-
+tion of 35,000, an AGC target of 1e6, maximum ion time of              lowing the protocol described in the PEAKS user manual
+120 ms, and one microscan. The intensity threshold to                  (PEAKS Team 2013), typically C 60%.
+trigger an MS/MS scan was set to an under-fill ratio of                   Using a common TMT-labelled sample allowed for
+0.2%. Fragmentation occurred in the higher energy colli-               inter-run normalization. PEAKS quantification, based on
+sional dissociation trap with normalized collision energy              the MaxQuant algorithm (Cox and Mann 2008), was used
+
+
+
+                                                                                                                         123
+50                                                                                                    Coral Reefs (2019) 38:45–61
+
+
+to assess the change in protein abundance between sample      Table 2 Exponential decay models for M. cavernosa lesion regen-
+timepoints. Spectra with a - 10 LgP score B the 1% FDR        eration in Carriacou and Grenada in 2014 and 2015 with significance,
+                                                              estimate of variable, and standard error (in parenthesis)
+and a quality score B 16 were excluded from the analysis.
+Following the PEAKS user manual (PEAKS Team 2013), a          Year   Model                             Variable        p Value
+PEAKS significance cut-off value of C 15 using PEAKSQ
+                                                              2014   GND: y ¼ a ebtime         a     1.604 (0.041) \ 2e-16*
+(Cox and Mann 2008), a fold change of C |1|, and at least
+                                                                                                 -b    0.027 (0.002) \ 2e-16*
+two unique peptides were used to identify proteins that                                btime
+                                                              2014   CAR: y ¼ y0 þ a e           y0    0.478 (0.150) 1.60e-3*
+were DA within each run. Individual TMT run results were
+                                                                                                 a     1.133 (0.142)   3.19e-14*
+combined using the global normalization in PEAKS and in
+the 24 cases of DA proteins common to more than one                                              -b    0.046 (0.011)   2.61e-05*
+TMT run, the intensity values for the reporter ions were      2015   CAR: y ¼ a ebtime         a     1.628 (0.047) \ 2e-16*
+averaged. The basic local alignment search tool (BLAST;                                          -b    0.029 (0.002) \ 2e-16*
+Altschul et al. 1990) was used to search the anthozoan        *Denotes significant differences from 0 at a = 0.05
+database of the National Centre for Biotechnology Infor-
+mation (NCBI) with an expectation value (e value) of
+1e-03. Back-translated sequences of all DA proteins were
+submitted to the NCBI BLAST service to confirm that they      measures ANOVA, there were no significant differences in
+had originated from coral tissue. Protein accession IDs       regeneration rate between lesions created on Carriacou in
+from the TMT results were exported as.fasta files to          2014 and 2015 (p [ 0.05), and the confidence intervals for
+BLAST 2 GO (Conesa et al. 2005). BLAST hit gene               estimated parameters for the models generated for 2014
+identifiers were used to retrieve gene ontology (GO) terms    and 2015 overlapped. While the data for each individual
+and confidence scores (Conesa et al. 2005). The GO terms      year generated different models, the overlap of confidence
+were added to the BLAST hits in BLAST 2 GO (Conesa            intervals for the predictors suggests there are no significant
+et al. 2005). To determine major GO groupings, GO term        differences between lesion regeneration models for each
+categories needed to contain at least 10% of the total        year on Carriacou (Table 2, Fig. 2). A separate model
+number of sequences in the dataset.                           created for only the lesions used in the proteomic analysis
+                                                              was not significantly different than the model for all lesions
+                                                              on Carriacou in 2015 (p [ 0.05, Fig. 2).
+Results
+                                                              Gross lesion regeneration
+Lesion regeneration
+                                                              The wounds healed inwards from the damaged tissue on
+All lesions created in 2014 (n = 128) were                    the periphery of the circular lesions. A layer of unpig-
+1.587 ± 0.193 cm2 (average ± SE) at the time of creation.     mented tissue progressed inwards to cover the exposed
+There were no significant differences for repeated mea-       skeleton until the entire lesion was infilled (Figs. 3, 4).
+sures ANOVA in the mean rates of change of lesion size        After the lesions were completely resealed by unpigmented
+between sites, colony colour, or number of incidental         tissue, a polyp mouth became visible (Fig. 5). Finally,
+polyps damaged in 2014 (p [ 0.05). There were significant     normal tissue pigmentation returned to the regenerated
+differences for repeated measures ANOVA in the mean           polyps. Eight per cent of all artificially induced lesions
+rates of change of lesion size between islands in 2014        regenerated tissue and a mouth within the first 35 days in
+(p = 0.024); therefore, separate lesion regeneration curves   2014 while 35% of all lesions regenerated tissue and a
+were generated for Grenada and Carriacou in 2014              mouth within the total 70-day observation period in 2014.
+(Table 2, Fig. 2).                                            Twelve per cent of all lesions regenerated tissue and a
+   All lesions created in 2015 (n = 124) were                 mouth within the 35-day observation period in 2015. None
+1.598 ± 0.261 cm2 (average ± SE) at the time of creation.     of the regenerated lesions regained complete pigmentation
+There were no significant differences for repeated mea-       during the observation period in 2014 or 2015. All lesions
+sures ANOVA in the mean rates of change of lesion size        that were created for this study healed completely within
+between sites or number of incidental polyps damaged in       2 months after the observation periods in 2014 and 2015
+2015 (p [ 0.05); however, there were significant differ-      had ended. Complete lesion regeneration was confirmed
+ences between colony colour (p = 0.024). Each lesion was      visually by personnel employed by dive operators. These
+surrounded by 4.52 polyps ± 1.15, and there were no           same colonies were assessed visually for scar formation in
+significant differences in the number of polyps surrounding   2016 and 2017, and no scarring was present.
+a lesion between islands (p = 0.566). Using repeated
+
+
+123
+Coral Reefs (2019) 38:45–61                                                                                                                 51
+
+
+
+
+                                                                          Fig. 5 Montastraea cavernosa colony at Sandy Island in Carriacou,
+                                                                          Grenada, 31 days after initial lesion creation. Note the orange mouth
+                                                                          at the centre of the healed polyp and slight pigmentation of the
+                                                                          regenerated tissue
+Fig. 3 Montastraea cavernosa colony from Jackadam in Carriacou,
+Grenada on the day of lesion creation (day 0) with excision of a single
+polyp and peripheral damage to 5 other polyps                             metabolic processes. Thirty-three per cent of identified
+                                                                          proteins were associated with single-organism processes.
+                                                                          The remaining 13% of identified proteins could be linked
+                                                                          to biological regulation, cellular organization or biogene-
+                                                                          sis, response to stimulus, signalling, development, adhe-
+                                                                          sion, and detoxification.
+                                                                             For presentation purposes the proteins that were DA in
+                                                                          the regenerating tissue of wounded M. cavernosa are
+                                                                          grouped into those associated with regeneration, inflam-
+                                                                          mation, and antioxidant activity; however, many proteins
+                                                                          play a role in multiple stages of regeneration. Since many
+                                                                          of the protein identities were highly similar to better-
+                                                                          characterized proteins (e.g. thioredoxin-like or L-rham-
+                                                                          nose-binding lectin-like) in other phyla, the assignment of
+                                                                          function is somewhat speculative. Most proteins that were
+                                                                          DA were inflammatory, associated with tissue reorganiza-
+                                                                          tion, or were classified as ‘other’. The majority of DA
+                                                                          proteins were also consistently altered at both timepoints
+                                                                          during regeneration.
+                                                                             Nine hundred and six unique proteins were reliably
+                                                                          identified in the present study. One hundred and eleven of
+Fig. 4 Montastraea cavernosa colony from Jackadam in Carriacou,           these proteins were significantly (p \ 0.05) DA during the
+Grenada 14 days after initial lesion creation with depigmentation of      regeneration process (Fig. 6). Twenty-four proteins were
+the damaged peripheral polyps and proliferating tissue replacing the      DA in at least two separate LC/MS runs (Table 3). Of these
+lost polyp
+                                                                          calmodulin, catalase, dipeptidyl-peptidase 5, ferritin, glu-
+                                                                          tathione-requiring prostaglandin-D synthase and five
+Detection of protein profiles during regeneration
+                                                                          unknown proteins were common to all TMT runs and all
+                                                                          coral tissues used in the present study (Table 3). The back-
+Of the 6419 peptides reliably identified using the criteria
+                                                                          translated nucleic acid sequences from all DA proteins
+established in the materials and methods section, 906
+                                                                          were each submitted individually to the NCBI BLAST
+unique proteins were identified (Supplementary Tables).
+                                                                          service. Of the five unknown proteins submitted to the
+Using a sequence filter of 10% of sequences in Blast 2 GO,
+                                                                          NCBI BLAST service, four returned annotations for
+54% of the proteins detected in this study, both DA and
+                                                                          uncharacterized proteins, while one returned no known
+otherwise, were linked to either cellular or protein
+                                                                          similar sequences (Table 3). In addition, 25 proteins
+
+
+                                                                                                                                   123
+52                                                                                                                                           Coral Reefs (2019) 38:45–61
+
+
+      (a)                                               Mammalian ependymin−related protein 1−like
+                                                          Leukotriene A−4 hydrolase−like isoform X1
+                                                                                          Legumain−like
+                                                                          Lactoylglutathione lyase−like
+                                                               L−rhamnose−binding lectin CSL3−like
+                                                                                   Isocitrate lyase−like
+                                                                         Integumentary mucin A.1−like
+                                                         Hypothetical protein AC249_AIPGENE2602
+                                       Hydroxyacyl−coenzyme A dehydrogenase, mitochondrial−like
+                                                                                    Histone H2B, partial
+                                                       Histone H2A.Z−specific chaperone CHZ1−like
+                                                               Heat shock protein HSP 90−beta−like
+                                          Guanine nucleotide−binding protein subunit beta−2−like 1
+                                                                              Green fluorescent protein
+                                                                                      Glyoxalase 3−like
+                                                                       Glutathione S−transferase−like
+                                                                       Glutamic acid−rich protein−like
+                                             Flavin−containing monooxygenase FMO GS−OX4−like                                                                   Fold Change
+                                                                                             Fascin−like
+                                                                Epididymal secretory protein E1−like                                                               −1
+                                                                                            Enolase−like                                                           −0.5
+                                                                                   Endochitinase 2−like
+                                                                      Dihydropteridine reductase−like                                                              0
+                                                                             Delta−actitoxin Ucs1a−like
+                                            Cytosolic 10−formyltetrahydrofolate dehydrogenase−like                                                                 0.5
+                                                                                          Cytochrome C
+
+                    Protein
+                                               CUB and peptidase domain−containing protein 2−like                                                                  1
+                                                            Creatine kinase, flagellar−like isoform X1
+                                                                                   comp7303_c0_seq4                                                                1.5
+                                                                                     comp617_c0_seq1
+                                                                                  comp58407_c0_seq1                                                                2
+                                                                                  comp35143_c0_seq2                                                                3
+                                                                                   comp3087_c0_seq2
+                                                                                   comp1928_c0_seq1                                                                4
+                                                                                   comp1299_c1_seq1
+                                                                     Collagen alpha−1(XIV) chain−like                                                              5
+                                                                                  Coactosin−like protein
+                                                                              Chymotrypsinogen A−like                                                              6
+                                                                                           Cathpsin−like
+                                                                                           Catalase−like
+                              cAMP−dependent protein kinase type II regulatory subunit−like isoform X1
+                                                                              Calretinin−like isoform X1
+                                                                                        Calmodulin−like
+                                                Betaine−−homocysteine S−methyltransferase 1−like
+                                                             Beta−hexosaminidase subunit beta−like
+                                                                 Barrier to autointegration factor−like
+                                                                    Attractin−like protein 1 isoform X1
+                                                                                           Alpha−tubulin
+                                                                                      Alpha−actinin−like
+                                                                   Allograft inflammatory factor 1−like
+                                                            Acylpyruvase FAHD1, mitochondrial−like
+                                                                                                Actin 1/2
+                                                                             40S ribosomal protein S28
+                                             4−hydroxyphenylpyruvate dioxygenase−like isoform X1
+                                                                                  14−3−3 protein 2−like
+                                                                                                                B                        C
+                                                                                                                         Timepoint
+
+                                                                 Zinc metalloproteinase nas−13−like
+      (b)                                         WD repeat−containing protein 1−B−like isoform X1
+                                                                                           Vitellogen
+                                                              Uroporphyrinogen decarboxylase−like
+                                                                                              Urease
+                                                                    UPF0676 protein C1494.01−like
+                                                              Universal stress protein A−like protein
+                                      Uncharacterized protein LOC110069557 (apolipoprotein−like)
+                                                           Uncharacterized protein LOC110067694
+                                                 Uncharacterized protein LOC110061997 isoform X2
+                                                 Uncharacterized protein LOC110059021 isoform X1
+                                                           Uncharacterized protein LOC110058660
+                                                           Uncharacterized protein LOC110054306
+                                                           Uncharacterized protein LOC110054228
+                                                           Uncharacterized protein LOC110053629
+                                                           Uncharacterized protein LOC110053486
+                                                           Uncharacterized protein LOC110051492
+                                                                                                                                                     Fold Change
+                                                           Uncharacterized protein LOC110049118                                                         −1
+                                                           Uncharacterized protein LOC110049045
+                                                           Uncharacterized protein LOC110046529                                                         −0.5
+                                                           Uncharacterized protein LOC110045335
+                                                                                                                                                        0
+                                                           Uncharacterized protein LOC110043939
+                                                           Uncharacterized protein LOC110041989                                                         0.5
+                                                                                    Tropomyosin−like
+
+ Protein
+                                                                 Translation elongation factor 2−like                                                   1
+                                                     Thioredoxin domain−containing protein 17−like
+           Sushi, von Willebrand factor type A, EGF and pentraxin domain−containing protein 1−like                                                      1.5
+                                                                                    Soma Ferritin−like                                                  2
+                                                                   Small cysteine−rich protein 8−like
+                                                                   Small cysteine−rich protein 6−like                                                   3
+                                                                      Small cysteine−rich protein 3a
+                                                             Serine−pyruvate aminotransferase−like                                                      4
+                                                                                     Selenoprotein W
+                                                                                                                                                        5
+                                                                                Selenoprotein M−like
+                                                                            Putative aminopeptidase                                                     6
+                                                                Protein disulfide isomerase−like 2−2
+                                                              Proteasome subunit alpha type−4−like
+                                                                                         Profilin−like
+                                              PREDICTED: uncharacterized protein LOC107357587
+                                                        PREDICTED: L−rhamnose mutarotase−like
+                                   PREDICTED: cytosolic non−specific dipeptidase−like isoform X1
+                                                                Peroxiredoxin−5, mitochondrial−like
+                                                                   Peroxiredoxin−1−like isoform X1
+                                                         Peptidyl−prolyl cis−trans isomerase B−like
+                                                     NADP−specific glutamate dehydrogenase−like
+                                                                                      Myotrophin−like
+                                                           Myosin heavy chain, striated muscle−like
+                                                                  Myosin−2 essential light chain−like
+                                                                                       Myophilin−like
+                                                                                           Mucin−5B
+                                                                   Melanotransferrin−like isoform X1
+                                                                                                            B                        C
+                                                                                                                    Timepoint
+
+
+Fig. 6 Heatmap showing the fold change of all differentially abundant proteins at sampling timepoints day 14 (B) and day 32 or 33 (C) relative
+to day 0. Higher abundance is denoted by darker colours
+
+
+
+
+123
+Coral Reefs (2019) 38:45–61                                                                                                               53
+
+Table 3 Proteins common to at least two LC–MS runs with fold              Montastraea cavernosa collected in the nearshore waters of Carria-
+change at day 14 (B) and day 32 or 33 (C) relative to day 0 that were     cou, Grenada in 2015
+differentially abundant during the first month of regeneration in
+UniProt     Protein                                                 Gene              Organism        %          e Value   Fold B    Fold C
+                                                                                                      Identity
+
+J3NY69      Calmodulin-like                                         GGTG_06222        O. faveolata    96         6e-94       0.004   - 0.415
+A0EJ86      Catalase-like                                           N/A               O. faveolata    93         0.0         0.203     0.820
+R9NY46      Dipeptidyl-peptidase 5                                  PHSY_001159       P.              44         1e-63       0.583     0.797
+                                                                                       hubeiensis
+K1RA71      Glutathione-requiring prostaglandin-D synthase          CGI_10022749      O. faveolata    66         3e-86     - 0.084   - 0.299
+A7S8I6      Soma ferritin-like                                      v1g235103         O. faveolata    93         2e-103    - 0.287   - 0.422
+K1R289      Collagen alpha-1(VI)-like                               CGI_10013230      O. faveolata    76         4e-77     - 0.257   - 0.427
+K1QB11      Myophilin-like                                          CGI_10020262      O. faveolata    85         1e-125    - 0.162   - 0.372
+Q0ZDM0      Tropomyosin-like                                        N/A               O. faveolata    91         3e-145      0.117   - 0.314
+A8WH03      Cytosolic 10-formyltetrahydrofolate dehydrogenase-      N/A               O. faveolata    98         0.0         0.335     0.514
+             like
+V5GJC6      Translation elongation factor 2-like                    EF2               A. digitifera   87         0.0         0.381     0.488
+E0XPT3      Flavin-containing monooxygenase FMO GS-OX4-like         N/A               O. faveolata    93         0.0       - 0.161   - 0.330
+Q5XUI0      Peroxiredoxin-1-like isoform X1                         N/A               O. faveolata    93         3e-167      0.522     0.769
+N/A         Uncharacterized protein LOC110049118                    N/A               O. faveolata    77         N/A         0.283     0.755
+N/A         PREDICTED: uncharacterized protein                      N/A               A. digitifera   53         N/A       - 0.400   - 0.327
+             LOC107357587
+T2MH98      Cathepsin-like                                          CTSL1             O. faveolata    91         0.0         0.162     0.595
+Q3V5L7      Integumentary mucin A.1-like                            trf               A. digitifera   43         6e-116      0.059     1.065
+N/A         Uncharacterized protein LOC110046529                    N/A               O. faveolata    86         N/A       - 0.211   - 0.454
+N/A         LOC110066892                                            N/A               O. faveolata    66         N/A         0.410     0.636
+H3II20      Peptidyl-prolyl cis–trans isomerase-B-like              N/A               O. faveolata    93         7e-140      0.353     0.647
+D2XMR9      Mammalian ependymin-related protein 1-like              N/A               O. faveolata    89         2e-94       0.384     0.605
+Q1XGE0      Guanine nucleotide-binding protein subunit beta-2-      GNB2L1            A. digitifera   88         0.0         0.751     0.266
+             like-1
+N/A         Uncharacterized protein LOC110041989                    N/A               O. faveolata    65         0.0         0.477     0.037
+N/A         comp617_c0                                              N/A               N/A             N/A        0.0         0.332     1.837
+C1KIZ1      Small cysteine-rich protein 3a                          N/A               O. faveolata    53         6e-24       0.187     4.378
+
+O Orbicella, P Pseudozyma, A Acropora
+e Values smaller than 2.225074e-308 are represented as 0.0
+
+
+
+
+associated with regeneration, inflammation, or immunity                   an asymptote in Carriacou in 2014. Once regeneration
+were also DA during regeneration (Table 4).                               rates, and therefore appropriate intervals for tissue sam-
+                                                                          pling, had been determined, the proteomic mechanisms of
+                                                                          M. cavernosa tissue regeneration were examined. This was
+Discussion                                                                accomplished through observing the differential abundance
+                                                                          of protein during M. cavernosa tissue regeneration using
+The first objective of the present study was to test the                  TMT-labelled samples and LC–MS.
+hypothesis that lesion size of M. cavernosa colonies would
+decrease exponentially to an asymptote determined by the                  Lesion regeneration
+initial lesion size as observed in other coral species (pro-
+posed by Fisher et al. 2007; Meesters et al. 1997). The                   Two separate models describing lesion closure with time
+lesions created on M. cavernosa colonies in the present                   were generated using the digital images collected in the
+study decreased exponentially in size in a manner similar to              first month of regeneration in 2014 and 2015. These models
+that observed in other coral species, although only reached               were highly similar which suggests that the data collected
+
+
+
+                                                                                                                                    123
+54                                                                                                                 Coral Reefs (2019) 38:45–61
+
+
+Table 4 Fold change at Day 14 (B) and Day 32 or 33 (C) relative to Day 0 and identity of proteins associated with regeneration or inflammation
+during the first month of regeneration in Montastraea cavernosa collected in the nearshore waters of Carriacou, Grenada in 2015
+UniProt ID   Protein                                  Function    Gene                Organism        % Identity    e Value   Fold B   Fold C
+
+O61375       Actin 1 (Fragment)                       Reg.        DpAct1              E. pallida      100           3e-46     - 0.04      1.32
+Q0H8V2       Allograft inflammatory factor            Inf.        N/A                 O. faveolata     96           1e-79     - 0.21   - 0.30
+J3NY69       Calmodulin                               Inf.        GGTG_06222          O. faveolata     96           6e-94       0.00   - 0.42
+A0EJ86       Catalase                                 Inf.        N/A                 O. faveolata     93           0.0         0.20      0.82
+E0XJK4       Heat shock protein 90                    Reg./Inf.   N/A                 O. faveolata     98           0.0         0.08   - 0.39
+Q9HC84       Mucin-5B                                 Inf.        MUC5B               E. pallida       36           0.0       - 0.16   - 0.30
+T2MHB9       Alpha-enolase                            Inf.        ENO1                E. pallida       83           0.0         0.15     0.36
+B2ZG38       Small cysteine-rich protein 8            Inf.        N/A                 O. faveolata     67           4e-24     - 0.47   - 0.57
+C1KIY9       Small cysteine-rich protein 6            Inf.        N/A                 O. faveolata     39           0.001       0.44      1.51
+C1KIZ1       Small cysteine-rich protein 3a           Inf.        SCRiP3a             O. faveolata     53           6e-24       0.19      4.38
+K1QJC6       Coactosin-like protein                   Reg.        CGI_10027046        A. digitifera    75           3e-65       0.71      0.66
+J7QAM2       Cytochrome C                             Reg.        cytC                O. faveolata     95           9e-68       0.74      0.69
+V5GJC6       Elongation factor 2                      Reg.        EF2                 A. digitifera    97           0.0         0.38      0.49
+O96899       Plasminogen activator sPA                Reg.        N/A                 O. faveolata     79           2e-141    - 0.32   - 0.41
+P18321       Profilin                                 Reg.        N/A                 E. pallida       80           4e-74     - 0.18   - 0.40
+L7M2A4       Putative alpha actinin                   Reg.        N/A                 O. faveolata     97           0.0         0.23      0.45
+Q5XUI0       Thioredoxin peroxidase                   Reg.        N/A                 B. belcheri      77           1e-104      0.52      0.77
+Q6PAX7       WD repeat-containing protein 1-B         Reg.        wdr1-b              O. faveolata     86           0.0         0.31      0.49
+T2MH98       Cathepsin L1                             Reg.        CTSL1               O. faveolata     94           0.0         0.16      0.60
+Q962P9       Green fluorescent protein                Ant.        N/A                 O. faveolata     87           7e-137      0.46      1.75
+T2ME17       Zinc metalloproteinase nas-13-like       Ant.        ALKBH1              O. faveolata     84           6e-46     - 0.04      0.29
+Q5XUI0       Peroxiredoxin-1-like isoform X1          Ant.        N/A                 O. faveolata     93           3e-167      0.52     0.77
+L5KNS3       Peroxiredoxin-5-like                     Ant.        GLEAN10011419       O. faveolata     87           5e-22     - 0.07   - 0.40
+S0GP72       L-rhamnose-binding lectin CLS3-like      Ant.        C803_04027          O. faveolata     88           2e-65     - 0.26   - 0.45
+T2MHF5       Apolipoprotein-like                      Ant.        APOB                O. faveolata     93           0.0         1.11      0.77
+e Values smaller than 2.225074e-308 are represented as 0.0
+Inf. Inflammation; Reg. Regeneration; Ant. Antioxidant; E Exaipasia; O Orbicella; A Acropora; B Branchiostoma
+
+
+
+
+on lesion regeneration in the first month are accurate pre-                species complex (Table 5). Most regeneration studies in
+dictors of lesion closure in coral colonies surveyed at                    scleractinia that have used a standardized lesion have
+similar depths (Fisher et al. 2007). The differences in rate               created lesions that are irregularly shaped or very long and
+of regeneration between Grenada and Carriacou in 2014                      narrow, whereas those created in the present study were
+may have been the result of individual colony variation                    cylindrical. Importantly, it has been demonstrated that
+although great care was taken to sample colonies of                        circular lesions heal more slowly than irregularly shaped
+approximately the same size. Colony reproductive status,                   lesions (Meesters et al. 1997). Most studies report different
+colony fecundity, and lesion regeneration have been linked                 mean regeneration rates between species that vary with the
+in a number of studies (Graham and van Woesik 2013;                        overall size of the colony (Bak and Meesters 1998; Henry
+Kramarsky-Winter and Loya 2000; Van Veghel and Bak                         and Hart 2005; Kramarsky-Winter and Loya 2000), shape
+1994). Lesions created in Carriacou in October of 2015                     of the lesion (Meesters et al. 1997) and overall colony
+produced regeneration curves that were not significantly                   morphology (Bak and Meesters 1998; Hall 1997; Kra-
+different (p [ 0.05) from those created in Grenada in                      marsky-Winter and Loya 2000). Since M. cavernosa is a
+September of 2014, despite M. cavernosa spawning in                        massive/submassive species, it was reasonable to have
+September.                                                                 observed a slower lesion regeneration rate for this type of
+   The rates of regeneration documented in the present                     colony morphology, size of colony, and shape of lesion.
+study for M. cavernosa (2.8 mm2 d-1) are slightly lower                    Finally, Meesters et al. theorized that there is a finite
+than those previously published for the O. annularis                       amount of tissue that can be regenerated and the amount is
+
+
+
+123
+Coral Reefs (2019) 38:45–61                                                                                                            55
+
+
+Table 5 Estimated daily regeneration rates of Montastraea annularis and Orbicella annularis (adapted and updated from Henry and Hart 2005)
+Species                                    Lesion size (mm2)     Daily regeneration rate (mm2)    References
+
+Montastraea annularis                      22.5–502              10–90                            Croquer et al. (2002)
+Montastraea annularis                      227                   2.9–3.6                          Mascarelli and Bunkley-Williams (1999)
+Montastraea annularis                      100                   1.9                              Meesters et al. (1992)
+Montastraea annularis                      100–500               0.75–0.94                        Bak et al. (1977)
+Montastraea annularis                      7.5–30.2              0.0013                           Fisher et al. (2007)
+Montastraea annularis                      170                   4.1                              Meesters et al. (1994)
+Montastraea annularis (bumpy morph)        160                   15.4–18.7                        Van Veghel and Bak (1994)
+Montastraea annularis (columnar morph)     83–406                3.7–11.2                         Meesters et al. (1997)
+Montastraea annularis (columnar morph)     160                   0.7                              Van Veghel and Bak (1994)
+Montastraea annularis (massive morph)      79                    1.6                              Meesters and Bak (1993)
+Montastraea annularis (massive morph)      160                   10.5–13.9                        Van Veghel and Bak (1994)
+Orbicella annularis                        31.4                  Not given                        Rodrı́guez-Martı́nez et al. (2016)
+Orbicella annularis                        37 ± 0.9              11.1 ± 0.88                      Sabine et al. (2015)
+
+
+
+
+governed by the ratio of the lesion perimeter to its surface             creation. The lesions created on M. cavernosa colonies had
+area (Meesters et al. 1994, 1997). Contrary to this, no                  insufficient tissue for sampling at a timepoint earlier than
+significant differences were found in the estimate of                    14 days and what was present would have been inadequate
+regeneration rate (- b) that could be attributed to the                  for proteome analysis. Samples at earlier timepoints pooled
+number of polyps surrounding a lesion (data not shown).                  from multiple corals would be required to obtain DA
+This is likely the result of the low lesion complexity and               proteins using the present methodology. Logistically, this
+low variability (± 0.193 cm2 SE; 12%) with the stan-                     was not possible in the present study; however, this could
+dardized circular lesions that were created in the present               be performed in the future.
+study.
+                                                                         Inflammation
+Differential protein abundance
+                                                                         There were numerous DA proteins that have a demon-
+Many proteins that are involved in the wound-healing                     strated or putative role in the modulation of inflammation.
+process of both vertebrates and invertebrates were DA                    Allograft inflammatory factor-1 is a member of a family of
+during the regeneration of tissue and skeletal lesions cre-              proteins in activated macrophages in mammals and that
+ated on M. cavernosa colonies. This suggests that much                   have a role in calcium binding (Deininger et al. 2002). This
+like the healing of wounds at the cellular level (Palmer                 protein was detected in reduced abundance in regenerating
+et al. 2011), scleractinian corals use similar proteomic                 M. cavernosa tissue (fold change (FC) - 0.21/- 0.30).
+mechanisms as vertebrates to completely regenerate dam-                  Calmodulin also binds calcium and in corals is highly
+aged tissue. The proteins that were DA in regenerating                   structurally similar to calmodulins from most other phyla
+M. cavernosa tissue have been separated into the following               and also has the same exon/intron arrangement (Chiou
+categories for ease of discussion; coagulation, inflamma-                et al. 2008). After binding calcium, calmodulin then also
+tion, proliferation, maturation, reorganization, immune-re-              binds other proteins modulating numerous functions
+lated, and others.                                                       including protein kinases (reviewed by Swulius and Wax-
+                                                                         ham 2008). It therefore acts as an intermediary protein in
+Coagulation                                                              the signalling pathways for many important biological
+                                                                         processes such as inflammation (Zhang et al. 2011),
+No proteins that could be reliably linked to coagulation                 metabolism, apoptosis, smooth muscle contraction, intra-
+were detected in the regenerating tissues of M. cavernosa.               cellular movement, and the immune response (Stevens
+This is likely the result of the times that tissue samples               1982). Calmodulin in M. cavernosa was detected in
+were collected for proteomic analysis in the present study.              reduced concentration as regeneration progressed (FC
+Palmer et al. (2011) noted increased concentrations of                   0.004/- 0.415).
+amoebocytes at the periphery of lesions just 6 h after their
+
+
+                                                                                                                                123
+56                                                                                                 Coral Reefs (2019) 38:45–61
+
+
+   Catalase activity was documented in M. cavernosa tis-        Proliferation
+sue (Mydlarz and Palmer 2011), and a catalase-like protein
+had increased abundance during regeneration in the present      There was only one DA protein in the present study that
+study (FC 0.20/0.82). Proteins exhibiting presumed similar      was likely involved with cell proliferation; guanine
+functions in M. cavernosa (peroxiredoxin-1-like isoform         nucleotide-binding protein subunit beta 2-like-1, also
+X1 and thioredoxin domain-containing protein 17-like,           known as RACK-1. RACK-1 is a receptor of activated C
+respectively) were all consistently detected at increased       kinase 1 that binds and stabilizes protein kinase C and
+abundance during regeneration of M. cavernosa reflecting        influences cell growth (Chang et al. 2001). In M. caver-
+the increased need for control of free radicals in inflamed     nosa, this protein was most abundant after 2 weeks of
+and regenerating tissue (Mydlarz and Palmer 2011).              tissue regeneration when the rate of lesion closure, and
+Reactive oxygen species (ROS) can upset biological pro-         therefore potentially the rate of cell proliferation, was
+cesses through direct interaction with proteins as well as      greatest (FC 0.751/0.266). Approximately 15% of proteins
+through the degradation of DNA (reviewed by Dalton et al.       detected in the present study could be linked to regenera-
+1999; Lesser 2006). To combat the toxic effects of ROS,         tive processes, while nearly 20% were linked to either
+corals and other organisms employ numerous strategies           regeneration, growth, or the regulation of these processes
+such as the production of ferritin and zinc metallopro-         and yet only a single protein associated with cell prolifer-
+teinase (Császár et al. 2009). Soma ferritin-like protein,    ation was DA. Given this discrepancy, it is likely that some
+part of the large ferritin-like superfamily, binds iron or      of the proteins that influence proliferation were masked in
+modulates iron transport (Andrews 2010). Gene expression        the quantitative analysis or were DA to such a minor
+was altered in larval corals in response to thermal stress      degree that they were not statistically significant. One
+(Polato et al. 2010), and the protein was detected at reduced   possible explanation for this discrepancy would be the
+abundance at both timepoints in the present study (FC           method by which tandem mass tags function. TMT quan-
+- 0.287/- 0.422). This seems counterintuitive but might         tifies the relative change in protein abundance between
+reflect exhaustion of this protein in inflamed tissues.         samples (Thompson et al. 2003). If certain proteins, such as
+Additionally, catalase, peroxiredoxin, and thioredoxin          cytokines, are expressed in very small quantities, then it is
+peroxidase are critical as antioxidants in inflamed or          likely that shifts in the abundance of these proteins would
+stressed coral tissue (Chelikani et al. 2004; Fuess et al.      be masked. Additionally, cytokines are expressed at very
+2016; Lesser and Shick 1989; Mydlarz and Palmer 2011;           low (pg/ml) concentrations and are difficult to detect using
+Sunagawa et al. 2009a, b; Van Oppen and Gates 2006).            mass spectrometry approaches (Stenken and Poschenrieder
+   Heat shock proteins (HSP) are molecular chaperones           2015). ELISA-based assays could be used to detect the
+that maintain protein folding and are commonly altered via      presence of anthozoan cytokines but would need to be
+induction, in thermal and other coral stress responses          developed first.
+(Barshis et al. 2010; Chen et al. 2006; Van Oppen and
+Gates 2006), and HSP90 was significantly increased and          Maturation and reorganization
+then decreased in the present study (FC 0.08/- 0.39).
+HSPs have been well studied in scleractinian corals, typi-      The majority of DA proteins detected in this category are
+cally in response to elevated seawater temperatures from        part of the extracellular matrix (ECM) (e.g. collagen a-1) or
+artificial and naturally bleached tissues (Brown et al. 2002;   cytoskeleton (actin 1) and are involved in remodelling
+Chow et al. 2012; Downs et al. 2000; Fitt et al. 2009;          fibrin or extracellular matrix (plasminogen activator pro-
+Mayfield et al. 2011; Robbart et al. 2004) but also in          tein, peptidyl-prolyl cis–trans isomerase-B-like, zinc met-
+immunity as gene expression of HSP 90 was induced in O.         alloprotease) or modifying the cytoskeleton (profiling,
+faveolata exposed to lipopolysaccharides from E. coli           a-actinin, tropomyosin, myophilin, coactosin-like protein,
+(Fuess et al. 2016). HSPs in the corallimorpharian Coryn-       WD repeat-containing protein 1B). Actins, tropomyosins,
+actis californica and the aggregating anemone (Antho-           and tubulins are all involved in the diurnal regulation of
+pleura elegantissima) play a role in maintaining proper         coral tissue (Mayfield et al. 2010) and are predicted to be
+protein folding in response to physical stress (Rossi and       involved in the reorganization of coral tissue during
+Snyder 2001). HSPs were also increased in the presence of       regeneration. Cyclic AMP kinase and creatine kinase both
+xenobiotics in M. annularis (Downs et al. 2005) and dis-        decreased in abundance over time, and while this is
+ease in A. muricata (Seveso et al. 2012).                       somewhat surprising, not all kinases act the same in coral
+                                                                as they do in mammals (Voolstra et al. 2011). Elongation
+                                                                factor 2 (EF2) is involved in polypeptide elongation,
+                                                                required for protein synthesis, and is highly conserved in
+                                                                eukaryotes (Baldauf et al. 1996). The increased abundance
+
+
+123
+Coral Reefs (2019) 38:45–61                                                                                               57
+
+
+of EF2 at both timepoints in M. cavernosa undergoing             2008). Cnidarian mucin gene sequences cluster together
+regeneration (FC 0.38/0.49) is consistent with the demand        more closely within Cnidaria than with other species (Jat-
+for increasing protein synthesis.                                kar 2008), suggesting that there is strong divergence in
+    The ECM proteins collagen, elastin, fibronectin, and         cnidarian mucin genes, and potentially divergent function,
+laminin are used for cell to cell connections (Alberts et al.    from other organisms. Unique functions of coral mucins
+2002) and were all DA in the present study. The ECM of           may help to explain the contrasting alterations of the two
+Montipora digitata in cell culture stained positively for        mucins (mucin 5B and integumentary mucin) detected in
+collagen (Helman et al. 2008), and it has been identified in     the present study (FC - 0.16/- 0.30, 0.059/1.065,
+the skeletal organic matrix (SOM) of Stylophora pistillata       respectively).
+(Drake et al. 2013). The SOM is considered integral in the          A green fluorescent protein had increased DA and was
+deposition of the aragonite skeleton of scleractinian corals     prominently more abundant at the final timepoint of
+(Goffredo et al. 2011). Collagen (Goldberg 1974), cys-           regeneration in the present study (FC 0.46/1.75). A variety
+teine-rich proteins (Sunagawa et al. 2009a, b), and von          of fluorescent proteins from O. annularis, O. faveolata, M.
+Willebrand factor type A domain-containing proteins and          cavernosa, Diploria strigosa, Porites astreoides,
+zona pellucidas (Hayward et al. 2011) are all hypothesized       Dichocoenia stokseii, and Sidastrea siderea have been
+to play a role in skeleton deposition. These proteins were       shown to act as antioxidants (Palmer et al. 2009). Green
+all DA in the present study consistent with skeletal depo-       fluorescent proteins are also postulated to have a role in
+sition. Cathepsins are a group of proteases found in all         photoacclimation (Roth et al. 2010) and coral immunity
+animals that have also been linked to bone resorption in         (D’Angelo et al. 2012).
+mammals (Teitelbaum 2000). A cathepsin-like protein was             Small cysteine-rich proteins (SCRiPs) sequences have
+increased in abundance towards the end of the regenerative       been noted in numerous scleractinian corals (Sunagawa
+process in M. cavernosa (FC 0.16/0.60) also suggesting           et al. 2009a, b), and it is now recognized that one of their
+that skeletal tissue was being remodelled. Cathepsin L1 is a     functions is as antimicrobial peptides (Closek et al. 2014).
+lysosomal endopeptidase associated with lysosomal protein        Of the three SCRiPs noted in the present study, two (SCRiP
+turnover and apoptosis (Turk et al. 2012).                       6 and 3a) were increased (FC 0.44/1.51, 0.187/4.38) and
+    To promote lesion regeneration rather than scar forma-       one (SCRiP 8) was decreased in abundance (FC
+tion, fibrotic tissues need to be degraded. Plasminogen          - 0.47/- 0.57). The increased abundance of SCRiP 6 and
+degrades fibrotic tissue (Bryer et al. 2008; Novak et al.        3a over time in the present study may be an indication of a
+2011), and a plasminogen activator decreased in abundance        mounting immune response. None of the lesions observed
+as the wound healed (FC - 0.32/- 0.41). Both cyto-               in this study became fouled with visible bacterial com-
+chrome C (FC 0.74/0.69) and thioredoxin (FC 0.52/0.77)           munities as they regenerated, circumstantially supporting
+are linked to mediation of apoptosis and were DA as the          the evidence for the role of SCRiPs as antimicrobial pep-
+tissue reorganization likely progressed.                         tides (Sunagawa et al. 2009a, b). SCRiP 3 gene activity has
+                                                                 also been documented in the development of coral larvae
+Immune-related and others                                        (Siboni et al. 2014), and while larval development and
+                                                                 tissue regeneration are distinct pathways, some of the
+Since the M. cavernosa wounds were exposed to the                required processes are the same (Burton and Finnerty
+environment and would be considered contaminated, it is          2009).
+not surprising that putative immune proteins were also DA.          Both apolipoprotein (Di Natale 2017; Whitten et al.
+Those of particular interest were two different mucins,          2004)      and      L-rhamnose-binding      protein     (FC
+green fluorescent protein, three small cysteine-rich pro-        - 0.26/- 0.45) (Watanabe et al. 2009) are pattern recog-
+teins, an apolipoprotein-like protein, and L-rhamnose-           nition receptors (PRR) in fish and invertebrates binding
+binding lectin-like protein. Field observations have noted       lipid and rhamnose, respectively. Rhamnose-binding lectin
+the copious production of mucus when corals are wounded,         in coral is a PRR that also binds pathogenic bacteria and
+which may act as a primary barrier to infection (reviewed        zooxanthellae in Pocillopora damicornis (Zhou et al.
+by Brown and Bythell 2005; Kramarsky-Winter and Loya             2017). In addition, two proteins associated with detoxifi-
+2000; Ritchie 2006; Shnit-Orland and Kushmaro 2009).             cation were also DA: alpha-enolase-like protein was
+The composition of coral mucus varies both qualitatively         upregulated (FC 0.15/0.36,) and glutathione-S transferase-
+and quantitatively with species (Meikle et al. 1988), and        like protein (Rougée et al. 2014) was downregulated (FC
+the specific mucins within coral mucus may provide dis-          - 0.084/- 0.299). Finally, a mammalian ependymin-re-
+tinct services to the colony (Jatkar et al. 2010). Despite the   lated protein 1-like protein, which was demonstrated to
+critical importance of mucus to coral colony survival, very      play a role in symbiosis of the anemone Anemonia viridis
+little is known about the specifics of its composition (Jatkar   (Sabourault et al. 2009), was upregulated at both
+
+
+                                                                                                                   123
+58                                                                                                              Coral Reefs (2019) 38:45–61
+
+
+timepoints in the present study (FC 0.384/0.605); however,                  protected area in the nearshore waters of Grenada, Eastern
+attribution of any function during regeneration is                          Caribbean. Int J Trop Biol 60:71–87
+                                                                        Anderson R, Morrall C, Nimrod S, Balza R, Berg C, Jossart J (2014)
+speculative.                                                                Marine Protected Area monitoring in the nearshore waters of
+                                                                            Grenada, Eastern Caribbean: benthic cover and fish populations.
+                                                                            Rev Biol Trop 62:71–87
+General                                                                 Andrews SC (2010) The Ferritin-like superfamily: Evolution of the
+                                                                            biological iron storeman from a rubrerythrin-like ancestor.
+                                                                            Biochim Biophys Acta 1800:691–705
+There was some variation in amount of tissue that was                   Aurora AB, Olson EN (2015) Immune modulation of stem cells and
+collected from each regenerating lesion, which could have                   regeneration. Cell Stem Cell 15:14–25
+influenced the abundance of certain proteins. The normal-               Bak RPM, Meesters EH (1998) Coral population structure: The
+                                                                            hidden information of colony size-frequency distributions. Mar
+ization process built into the analysis and the conservative                Ecol Prog Ser 162:301–306
+cut-off values used would substantially limit the impact of             Bak RPM, Steward-Van Es Y (1980) Regeneration of superficial
+any variation, however. This issue could be resolved in                     damage in the Scleractinian corals Agaricia agaricites F.
+future experiments with precise sampling of a clonal lab-                   Purpurea and Porites astreoides. Bull Mar Sci 30:883–887
+                                                                        Bak RPM, Brouns JJWM, Heys FML (1977) Regeneration and
+oratory population. The present study, however, was                         aspects of spatial competition in the scleractinian corals Agaricia
+focused on examining the regeneration of lesions in the                     agaricites and Montastrea annularis. In: Proceedings of 3rd
+field in M. cavernosa as this captured the natural abun-                    international coral reef Symposium Miami, pp 143–148
+dance of proteins.                                                      Baldauf SL, Palmer JD, Doolittle WF (1996) The root of the universal
+                                                                            tree and the origin of eukaryotes based on elongation factor
+   Further analysis of the different colour morphs of                       phylogeny. Proc Natl Acad Sci USA 93:7749–7754
+M. cavernosa is planned to resolve the currently unad-                  Barneah O, Benayahu Y, Weis VM (2006) Comparative proteomics
+dressed differences in tissue regeneration rates observed                   of symbiotic and aposymbiotic juvenile soft corals. Mar
+between colonies of different colour and to provide addi-                   Biotechnol 8:11–16
+                                                                        Barshis DJ, Stillman JH, Gates RD, Toonen RJ, Smith LW, Birkeland
+tional data for whole proteome analysis. With the advent of                 C (2010) Protein expression and genetic structure of the coral
+marine proteomics and genomics, there are still many areas                  Porites lobata in an environmentally extreme Samoan back reef:
+that require further investigation (Miller et al. 2011; Slat-               Does host genotype limit phenotypic plasticity? Mol Ecol
+tery et al. 2012). This study documents, for the first time,                19:1705–1720
+                                                                        Bradford MM (1976) A rapid and sensitive method for the
+the differential abundance of proteins associated with                      quantitation of microgram quantities of protein utilizing the
+regeneration, in a scleractinian coral. The results presented               principle of protein-dye binding. Anal Biochem 72:248–254
+here confirm that the processes of wound healing and                    Brown BE, Bythell JC (2005) Perspectives on mucus secretion in reef
+complete tissue regeneration are largely conserved across                   corals. Mar Ecol Prog Ser 296:291–309
+                                                                        Brown BE, Downs CA, Dunne RP, Gibb SW (2002) Exploring the
+several distant metazoan species.                                           basis of thermotolerance in the reef coral Goniastrea aspera.
+                                                                            Mar Ecol Prog Ser 242:119–129
+Acknowledgements We would like to thank Annette Patrick, Deefer         Bryer SC, Fantuzzi G, Van Rooijen N, Koh TJ (2008) Urokinase-type
+Diving Carriacou, and EcoDive Grenada for their help with the col-          plasminogen activator plays essential roles in macrophage
+lection of samples in the field, Bioinformatics Solutions Inc. and          chemotaxis and skeletal muscle regeneration. J Immunol
+Dyanne Brewer for their technical assistance interpreting LC–MS             180:1179–1188
+data. Funding for this research was provided by a NSERC Discovery       Burton PM, Finnerty JR (2009) Conserved and novel gene expression
+Grant (Lumsden) and St. George’s University. Horricks received an           between regeneration and asexual fission in Nematostella
+OVC Scholarship.                                                            vectensis. Dev Genes Evol 219:79–87
+                                                                        Chang BY, Chiang M, Cartwright CA (2001) The interaction of Src
+Compliance with ethical standards                                           and RACK1 is enhanced by activation of protein kinase C and
+                                                                            tyrosine phosphorylation of RACK1. J Biol Chem
+Conflict of interest On behalf of all authors, the corresponding            276:20346–20356
+author states that there is no conflict of interest.                    Chelikani P, Fita I, Loewen PC (2004) Diversity of structures and
+                                                                            properties among catalases. Arch Biochem Biophys
+                                                                            401:145–154
+                                                                        Chen B, Zhong D, Monteiro A (2006) Comparative genomics and
+                                                                            evolution of the HSP90 family of genes across all kingdoms of
+References                                                                  organisms. BMC Genomics 7:156
+                                                                        Chiou CY, Chen IP, Chen C, Wu HJL, Wei NV, Wallace CC, Chen
+Abramoff MD, Magalhaes PJ, Ram SJ (2004) Image processing with              CA (2008) Analysis of Acropora muricata calmodulin (CaM)
+     imageJ. Biophotonics Int 11:36–41                                      indicates that scleractinian corals possess the ancestral exon/
+Alberts B (ed) (2002) Molecular biology of the cell, 4th edn. Garland       intron organization of the eumetazoan CaM gene. J Mol Evol
+     Science, New York, NY                                                  66:317–324
+Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ (1990) Basic         Chow AM, Beraud E, Tang DWF, Ferrier-Pagès C, Brown IR (2012)
+     local alignment search tool. J Mol Biol 215:403–410                    Hsp60 protein pattern in coral is altered by environmental
+Anderson R, Morrall C, Nimrod S, Balza R, Berg C, Jossart J (2012)          changes in light and temperature. Comp Biochem Physiol
+     Benthic and fish population monitoring associated with a marine        161:349–353
+
+
+123
+Coral Reefs (2019) 38:45–61                                                                                                                 59
+
+Closek CJ, Sunagawa S, DeSalvo MK, Piceno YM, DeSantis TZ,                   and Woodley CM (2007) Coral disease and health workshop:
+     Brodie EL, Weber MX, Voolstra CR, Andersen GL, Medina M                 Coral histopathology II. NOAA Technical Memorandum NOS
+     (2014) Coral transcriptome and bacterial community profiles             NCCOS 56 and NOAA Technical Memorandum CRCP 4.
+     reveal distinct Yellow Band Disease states in Orbicella faveo-          National Oceanic and Atmospheric Administration, Silver
+     lata. ISME J 8:2411–2422                                                Spring, MD. 84p
+Conesa A, Götz S, Garcı́a-Gómez JM, Terol J, Talón M, Robles M       Goffredo S, Vergni P, Reggi M, Caroselli E, Sparla F, Levy O,
+     (2005) Blast2GO: A universal tool for annotation, visualization         Goffredo S, Vergni P, Reggi M, Caroselli E, Sparla F, Levy O,
+     and analysis in functional genomics research. Bioinformatics            Falini G (2011) The skeletal organic matrix from Mediterranean
+     21:3674–3676                                                            coral Balanophyllia europaea influences calcium carbonate
+Cox J, Mann M (2008) MaxQuant enables high peptide identification            precipitation. PLoS One 6:e22338
+     rates, individualized p.p.b.-range mass accuracies and protome-    Goldberg WM (1974) Evidence of a sclerotized collagen from the
+     wide protein quantification. Nat Biotechnol 26:1367–1372                skeleton of a gorgonian coral. Comp Biochem Physiol - Part B
+Croquer A, Villamizar E, Noriega N (2002) Environmental factors              Biochem 49:525–526
+     affecting tissue regeneration of the reef-building coral Montas-   Goss RJ (1992) The evolution of regeneration: Adaptive or inherent?
+     traea annularis (Faviidae) at Los Roques National Park,                 J Theor Biol 159:241–260
+     Venezuela. Revi Biol Trop 3:1055–1065                              Graham JE, van Woesik R (2013) The effects of partial mortality on
+Császár NBM, Seneca FO, Van Oppen MJH (2009) Variation in                  the fecundity of three common Caribbean corals. Mar Biol
+     antioxidant gene expression in the scleractinian coral Acropora         160:2561–2565
+     millepora under laboratory thermal stress. Mar Ecol Prog Ser       Hall VR (1997) Interspecific differences in the regeneration of
+     392:93–102                                                              artificial injuries on scleractinian corals. J Exp Mar Bio Ecol
+D’Angelo C, Smith EG, Oswald F, Burt J, Tchernov D, Wiedenmann               212:9–23
+     J (2012) Locally accelerated growth is part of the innate immune   Hayward DC, Hetherington S, Behm CA, Grasso LC, Forêt S, Miller
+     response and repair mechanisms in reef-building corals as               DJ, Ball EE (2011) Differential gene expression at coral
+     detected by green fluorescent protein (GFP)-like pigments. Coral        settlement and metamorphosis - A subtractive hybridization
+     Reefs 31:1045–1056                                                      study. PLoS One 6:e26411
+Dalton TP, Shertzer HG, Puga A (1999) Regulation of gene                Helman Y, Natale F, Sherrell RM, LaVigne M, Starovoytov V,
+     expression by reactive oxygen. Annu Rev Pharmacol Toxicol               Gorbunov MY, Falkowski PG (2008) Extracellular matrix
+     39:67–101                                                               production and calcium carbonate precipitation by coral cells
+Deininger MH, Meyermann R, Schluesener HJ (2002) The allograft               in vitro. Proc Natl Acad Sci 105:54–58
+     inflammatory factor-1 family of proteins. FEBS Lett                Henry LA, Hart M (2005) Regeneration from injury and resource
+     514:115–121                                                             allocation in sponges and corals - A review. Int Rev Hydrobiol
+Di Natale A (2017) Apolipoprotein domain containing proteins and             90:125–158
+     innate immunity in rainbow trout and walleye. MSc thesis,          Jatkar A (2008) Mucus layer properties and dynamics in reef corals.
+     University of Guelph                                                    Ph.D thesis, Newcastle University
+Downs CA, Mueller E, Phillips S, Fauth JE, Woodley CM (2000) A          Jatkar AA, Brown BE, Bythell JC, Guppy R, Morris NJ (2010) Coral
+     molecular biomarker system for assessing the health of coral            Mucus: The properties of its constituent mucins. Biomacro-
+     (Montastraea faveolata) during heat stress. Mar Biotechnol              molecules 11:883–888
+     2:533–544                                                          Kitchen SA, Crowder CM, Poole AZ, Weis VM, Meyer E (2015) De
+Downs CA, Fauth JE, Robinson CE, Curry R, Lanzendorf B, Halas                novo assembly and characterization of four Anthozoan (phylum
+     JC, Halas J, Woodley CM (2005) Cellular diagnostics and coral           Cnidaria) transcriptomes. G3 5:2441–2452
+     health: Declining coral health in the Florida Keys. 51:558–569     Kramarsky-Winter E, Loya Y (2000) Tissue regeneration in the coral
+Drake J, Mass T, Haramaty L, Zelzion E, Bjattacharya D, Falkowski            Fungia granulosa: The effect of extrinsic and intrinsic factors.
+     P (2013) Proteomic analysis of skeletal organic matrix from the         Mar Biol 137:867–873
+     stony coral Stylophora pistillata. Proc Natl Acad Sci              Lesser MP (2004) Experimental biology of coral reef ecosystems.
+     110:3788–3793                                                           J Exp Mar Bio Ecol 300:217–252
+Fisher EM, Fauth JE, Hallock P, Woodley CM (2007) Lesion                Lesser MP (2006) Oxidative stress in marine environments: Bio-
+     regeneration rates in reef-building corals Montastraea spp. as          chemistry and physiological ecology. Annu Rev Physiol
+     indicators of colony condition. Mar Ecol Prog Ser 339:61–71             68:253–278
+Fitt WK, Gates RD, Hoegh-Guldberg O, Bythell JC, Jatkar A,              Lesser MP, Shick JM (1989) Effects of irradiance and ultraviolet
+     Grottoli AG, Gomez M, Fisher P, Lajuenesse TC, Pantos O,                radiation on photoadaptation in the zooxanthellae of Aiptasia
+     Iglesias-Prieto R, Franklin DJ, Rodrigues LJ, Torregiani JM, van        pallida: primary production, photoinhibition, and enzymic
+     Woesik R, Lesser MP (2009) Response of two species of Indo-             defenses against oxygen toxicity. Mar Biol 102:243–255
+     Pacific corals, Porites cylindrica and Stylophora pistillata, to   Marshall PA (2000) Skeletal damage in reef corals: relating resistance
+     short-term thermal stress: The host does matter in determining          to colony morphology. Mar Ecol Prog Ser 200:177–189
+     the tolerance of corals to bleaching. J Exp Mar Bio Ecol           Mayfield AB, Hsiao YY, Fan TY, Chen CS, Gates RD (2010)
+     373:102–110                                                             Evaluating the temporal stability of stress-activated protein
+Foster NL, Baums IB, Mumby PJ (2007) Sexual vs. asexual                      kinase and cytoskeleton gene expression in the Pacific reef corals
+     reproduction in an ecosystem engineer: The massive coral                Pocillopora damicornis and Seriatopora hystrix. J Exp Mar Bio
+     Montastraea annularis. J Anim Ecol 76:384–391                           Ecol 395:215–222
+Fuess LE, Pinzón JH, Weil E, Mydlarz LD (2016) Associations            Mayfield AB, Wang LH, Tang PC, Fan TY, Hsiao YY, Tsai CL, Chen
+     between transcriptional changes and protein phenotypes provide          CS (2011) Assessing the impacts of experimentally elevated
+     insights into immune regulation in corals. Dev Comp Immunol             temperature on the biological composition and molecular
+     62:17–28                                                                chaperone gene expression of a reef coral. PLoS One 6:e26529
+Galloway SB, Work TM, Bochsler VS, Harley RA, Kramarsky-                Meesters EH, Bak RP (1993) Effects of coral bleaching on tissue
+     Winters E, McLaughlin SM, Meteyer CU, Morado JF, Nicholson              regeneration potential and colony survival. 96:189–198
+     JH, Parnell PG, Peters EC, Reynolds TL, Rotstein DS, Sileo L,
+
+
+                                                                                                                                   123
+60                                                                                                                 Coral Reefs (2019) 38:45–61
+
+Meesters EH, Noordeloos M, Bak RPM (1994) Damage and                      Sabine AM, Smith TB, Williams DE, Brandt ME (2015) Environ-
+     regeneration: Links to growth in the reef-building coral                  mental conditions influence tissue regeneration rates in sclerac-
+     Montastrea annularis. Mar Ecol Prog Ser 112:119–128                       tinian corals. Mar Poll Bull 95:253–264
+Meesters EH, Wesseling I, Bak RPM (1996) Reef-building corals and         Sabourault C, Ganot P, Deleury E, Allemand D, Furla P (2009)
+     the relation with colony morphology. Bull Mar Sci 58:838–852              Comprehensive EST analysis of the symbiotic sea anemone,
+Meesters EH, Pauchli W, Bak RPM (1997) Predicting regeneration of              Anemonia viridis. BMC Genomics 10:333
+     physical damage on a reef-building coral by regeneration             Seveso D, Montano S, Strona G, Orlandi I, Vai M, Galli P (2012) Up-
+     capacity and lesion shape. Mar Ecol Prog Ser 146:91–99                    regulation of Hsp60 in response to skeleton eroding band disease
+Meikle P, Richards GN, Yellowlees D (1988) Structural investiga-               but not by algal overgrowth in the scleractinian coral Acropora
+     tions on the mucus from six species of coral. Mar Biol                    muricata. Mar Environ Res 78:34–39
+     99:187–193                                                           Shnit-Orland M, Kushmaro A (2009) Coral mucus-associated bacte-
+Miller DJ, Ball EE, Forêt S, Satoh N (2011) Coral genomics and                ria: A possible first line of defense. FEMS Microbiol Ecol
+     transcriptomics - Ushering in a new era in coral biology. J Exp           67:371–380
+     Mar Bio Ecol 408:114–119                                             Siboni N, Abrego D, Motti CA, Tebben J, Harder T (2014) Gene
+Mydlarz LD, Palmer CV (2011) The presence of multiple phenolox-                expression patterns during the early stages of chemically induced
+     idases in Caribbean reef-building corals. Comp Biochem Physiol            larval metamorphosis and settlement of the coral Acropora
+     – Part A 159:372–378                                                      millepora. PLoS One 9:e91082
+Nagelkerken I, Bak R (1998) Differential regeneration of artificial       Slattery M, Ankisetty S, Corrales J, Marsh-Hunkin KE, Gochfeld DJ,
+     lesions among sympatric morphs of the Caribbean corals Porites            Willett KL, Rimoldi JM (2012) Marine proteomics: A critical
+     astreoides and Stephanocoenia michelinii. Mar Ecol Prog Ser               assessment of an emerging technology. J Nat Prod 75:1833–1837
+     171:279–283                                                          Soderhall K, Smith VJ (eds) (1986) Hemocytic and humoral
+Novak ML, Bryer SC, Cheng M, Nguyen M-H, Conley KL,                            immunity in arthropods. Wiley, New York, pp 251–286
+     Cunningham AK, Xue B, Sisson TH, You J-S, Hornberger TA,             Squires DF (1958) Stony corals from the vicinity of Bimini, Bahamas,
+     Koh TJ (2011) Macrophage-specific expression of urokinase-                British West Indies. Bull Am Museum Nat Hist 115:215–262
+     type plasminogen activator promotes skeletal muscle regenera-        Stenken JA, Poschenrieder AJ (2015) Bioanalytical chemistry of
+     tion. J Immunol 187:1448–1457                                             cytokines-a review. Anal Chim Acta 853:95–115
+Palmer CV, Modi CK, Mydlarz LD (2009) Coral fluorescent proteins          Stevens FC (1982) Calmodulin: an introduction. Can J Biochem Cell
+     as antioxidants. PLoS One 4:e7298                                         Biol 61:906–910
+Palmer CV, Traylor-Knowles NG, Willis BL, Bythell JC (2011)               Sunagawa S, DeSalvo MK, Voolstra CR, Reyes-Bermudez A, Medina
+     Corals use similar immune cells and wound-healing processes as            M (2009a) Identification and gene expression analysis of a
+     those of higher organisms. PLoS One 6:e23992                              taxonomically restricted cysteine-rich protein family in reef-
+PEAKS Team (2013) PEAKS 7 User Manual. Waterloo, ON                            building corals. PLoS One 4:e4865
+Polato NR, Voolstra CR, Schnetzer J, DeSalvo MK, Randall CJ,              Sunagawa S, Wilson EC, Thaler M, Smith ML, Caruso C, Pringle JR,
+     Szmant AM, Medina M, Baums IB (2010) Location-specific                    Weis VM, Medina M, Schwarz JA (2009b) Generation and
+     responses to thermal stress in larvae of the reef-building coral          analysis of transcriptomic resources for a model system on the
+     Montastraea faveolata. PLoS One 5:e11221                                  rise: the sea anemone Aiptasia pallida and its dinoflagellate
+R Core Team (2017) R: A language and environment for statistical               endosymbiont. BMC Genomics 10:258
+     computing. R Foundation for Statistical Computing, Vienna,           Swulius MT, Waxham MN (2008) Ca2?/calmodulin-dependent
+     Austria. URL https://www.R-project.org/                                   protein kinases. Cell Mol Life Sci 65:2637–2657
+Renegar D-EA (2015) Histology and ultrastructure of Montastraea           Technau U, Steele RE (2011) Evolutionary crossroads in develop-
+     cavernosa and Porites astreoides during regeneration and                  mental biology: Cnidaria. Development 138:1447–1458
+     recruitment: Anthropogenic stressors and transplant success.         Teitelbaum SL (2000) Bone resorption by osteoclasts. Science
+     Ph.D. thesis, Nova State University                                       289:1504–1508
+Ritchie KB (2006) Regulation of microbial populations by coral            Thompson A, Schäfer JJ, Kuhn K, Kienle S, Schwarz J, Schmidt GG,
+     surface mucus and mucus-associated bacteria. Mar Ecol Prog Ser            Neumann T, Hamon C (2003) Tandem mass tags: a novel
+     322:1–14                                                                  quantification strategy for comparative analysis of complex
+Robbart ML, Peckol P, Scordilis SP, Curran HA, Brown-Saracino J                protein mixtures by MS/MS. Anal Chem 75:1895–1904
+     (2004) Population recovery and differential heat shock protein       Turk V, Stoka V, Vasiljeva O, Renko M, Sun T, Turk B, Turk D
+     expression for the corals Agaricia agaricites and A. tenuifolia in        (2012) Cysteine cathepsins: From structure, function and regu-
+     Belize. Mar Ecol Prog Ser 283:151–160                                     lation to new frontiers. Biochim Biophys Acta - Proteins
+Rodrı́guez-Martı́nez RE, Jordan-Garza AG, Jordan-Dahlgren E                    Proteomics 1824:68–88
+     (2016) Low regeneration of lesions produced by coring in             Van Veghel MLJ, Bak RPM (1994) Reproductive characteristics of
+     Orbicella faveolata. Peer J 4:e1596                                       the polymorphic Caribbean reef building coral Montastrea
+Rodrı́guez-Villalobos JC, Work TM, Calderon-Aguilera LE (2016)                 annularis III. Fecundity and colony structure. Mar Ecol Ser
+     Wound repair in Pocillopora. J Invertebr Pathol 139:1–5                   109:221–227
+Rossi S, Snyder MJ (2001) Competition for space among sessile             Van Oppen MJH, Gates RD (2006) Conservation genetics and the
+     marine invertebrates: changes in HSP70 expression in two                  resilience of reef-building corals. Mol Ecol 15:3863–3883
+     pacific Cnidarians. Biol Bull 201:385–393                            van De Water JAJM, Ainsworth TD, Leggat W, Bourne DG, Willis
+Roth MS, Latz MI, Goericke R, Deheyn DD (2010) Green fluorescent               BL, Van Oppen MJH (2015a) The coral immune response
+     protein regulation in the coral Acropora yongei during photoac-           facilitates protection against microbes during tissue regeneration.
+     climation. J Exp Biol 213:3644–3655                                       Mol Ecol 24:3390–3404
+Rougée LRA, Richmond RH, Collier AC (2014) Natural variations in         van de Water JAJM, Leggat W, Bourne DG, van Oppen MJH, Willis
+     xenobiotic-metabolizing enzymes: Developing tools for coral               BL, Ainsworth TD (2015b) Elevated seawater temperatures have
+     monitoring. Coral Reefs 33:523–535                                        a limited impact on the coral immune response following
+                                                                               physical damage. Hydrobiologia 759:201–214
+
+
+
+
+123
+Coral Reefs (2019) 38:45–61                                                                                                           61
+
+Voolstra CR, Sunagawa S, Matz MV, Bayer T, Aranda M,                  Wootton EC, Pipe RK (2003) Structural and functional characteri-
+    Buschiazzo E, DeSalvo MK, Lindquist E, Szmant AM, Coffroth            sation of the blood cells of the bivalve mollusc, Scrobicularia
+    MA, Medina M (2011) Rapid evolution of coral proteins                 plana. Fish Shellfish Immunol 15:249–262
+    responsible for interaction with the environment. PLoS One        Work TM, Aeby GS (2010) Wound repair in Montipora capitata.
+    6:e20392                                                              J Invert Pathol 105:116–119
+Watanabe Y, Tateno H, Nakamura-Tsuruta S, Kominami J,                 Young JAC (1974) The nature of tissue regeneration after wounding
+    Hirabayashi J, Nakamura O, Watanabe T, Kamiya H, Naganuma             in the sea anemone Callactis parasitica (Couch). J Mar Biol
+    T, Ogawa T, Naudé RJ, Muramoto K (2009) The function of              Assoc UK 54:599–617
+    rhamnose-binding lectin in innate immunity by restricted          Zhang X, Guo L, Collage RD, Stripay JL, Tsung A, Lee JS, Rosengart
+    binding to Gb3. Dev Comp Immunol 33:187–197                           MR (2011) Calcium/calmodulin-dependent protein kinase
+Wenger Y, Buzgariu W, Reiter S, Galliot B (2014) Injury-induced           (CaMK) Ia mediates the macrophage inflammatory response to
+    immune responses in Hydra. Semin Immunol 26:277–294                   sepsis. J Leukoc Biol 90:249–261
+Whitten MMA, Tew IF, Lee BL, Ratcliffe NA (2004) A novel role for     Zhou Z, Yu X, Tang J, Zhu Y, Chen G, Guo L, Huang B (2017) Dual
+    an insect apolipoprotein (Apolipophorin III) in b-1,3-glucan          recognition activity of a rhamnose-binding lectin to pathogenic
+    pattern recognition and cellular encapsulation reactions. J Im-       bacteria and zooxanthellae in stony coral Pocillopora damicor-
+    munol 172:2177–2185                                                   nis. Dev Comp Immunol 70:88–93
+Wickham H (2016) Elegant graphics for data analysis. Springer-
+    Verlag, New York
+
+
+
+
+                                                                                                                             123
+

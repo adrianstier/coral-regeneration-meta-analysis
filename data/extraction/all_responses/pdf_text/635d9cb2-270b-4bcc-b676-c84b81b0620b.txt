@@ -1,0 +1,859 @@
+ Reference: Biol. Bull. 183: 4 18-43 1. (December, 1992)
+
+
+
+
+                            Reproductive                     Integration                 in Reef Corals
+
+                                           KERYEA          SOONG’        AND JUDITH         C. LANG’
+                        ‘Division of Biological Sciences, University of Texas, Austin, Texas 78712, and
+                             2Texas Memorial Museum, University of Texas, Austin, Texas 78705
+
+
+Abstract. The extent of colonial integration in struc-                           scientific interest (Beklemishev, 1969; Hubbard, 1973;
+turally simple animals like scleractinian corals is poorly                       Sandberg, 1973; Rosen, 1979; Ryland, 1979; Shelton,
+understood. We have used sexual reproductive characters                          1979; Chapman, 1981; Mackie, 1986; Harvell, 1991). The
+(location of fertile polyps and colony size at maturation)                       objective of this study is to understand the extent to which
+to assesscolony-level individuality, i.e., the development,                     the modules (e.g., zooids, polyps, sensuChapman, 1981)
+in coral colonies, of characters above the polyp level. Ten                      of a colony are interdependent and act as one unit; i.e.,
+morphologically-diverse    species of reef corals were used:                     how much individuality a colony has attained. Increasing
+Acropora cervicornis, A. palmata, Diploria clivosa, D.                          individuality    at the colony or genet level sets a higher
+strigosa, Favia fragum, Montastrea cavernosa, Porites as-                       stage at which selection could operate directly (Schopf,
+treoides, P. furcata, Siderastrea radians, and S. siderea.                       1973; Buss, 1987).
+     In no species were equally fertile polyps homogeneously                        Colonies of hydrozoans, bryozoans, and some other
+distributed throughout a colony. Most inhomogeneities                           marine invertebrates are polymorphic, with two or more
+of fertile polyps could be attributed to intra-colony po-                       kinds of modules, each of which is capable of some vital
+sition or ontogenetic effects. The results of simple manip-                     functions (Hyman, 1940). A certain degree of integration
+ulations simulating natural wounds in three massive spe-                        is necessary in polymorphic colonies since differentiated
+cies strengthen the evidence that the position of polyps                        modules cannot exist on their own. Indeed, an evolution-
+within a colony determines fertility.                                           ary tendency towards higher integration exists in colonial
+     Small colonies are not reproductive. Puberty size (col-                    organization, at least in some lineages (Beklemishev, 1969;
+ony size at maturation) could be explained by the infer-                        Boardman and Cheetham, 1973; Coates and Oliver, 1973;
+tility pattern along the colony margin, which does not                          Coates and Jackson, 1985).
+require colony-level integration. Shape-related growth                             When modules are isomorphic and presumably have
+constraints could also produce the puberty size patterns                       the same ability to perform all necessary living functions
+found in massive corals. Infertility in the short radial pol-                   (Hyman, 1940), the level of individuality       achieved by a
+yps of A. palmata and in the axial polyps of A. cervicornis                    colony is less obvious. For example, most colonial species
+provided the only clear evidence ofreproductive integra-                       of the highly successful scleractinian reef corals are com-
+tion in this study: both are related to a morphological                        posed of morphologically        similar polyps. Differentiation
+characteristic (polyp dimorphism) commonly associated                          of polyps does occur in some species (Veron, 198 1; Foster,
+with integration in colonial invertebrates.                                     1985), such as acroporids, which show a considerable de-
+                                                                               gree of morphological variation between the axial polyps
+                           Introduction                                        at their branch tips and the radial polyps that develop on
+   Colonial organisms are composed of iterated units that                      their walls (Veron and Wallace, 1984).
+usually originate from a single zygote. The degree of in-                          Morphologically     identical polyps that are produced by
+tegration of colonial animals has long been the focus of                       extratentacular budding in some colonies have been
+                                                                               termed individuals (Duerden, 1902; Wells, 1973). Most
+                                                                               colonial corals are classified as aggregates of independent
+  Received 2 1 February 1992; accepted 3 I July 1992.
+  Present addressof Keryea Gong: Institute of Marine Biology, National         polyps, since polypal (or rather its skeletal counterpart,
+Sun Yat-se.nUniversity, Kaohsiung, Taiwan (80424), Republic of China.          the corallite) attributes constitute most of the taxonomic
+                                                                         418
+                                                                     INTEGRATION              IN REEF CORALS                                                 419
+
+ characters of scleractinian species (Vaughan and Wells,                                              In this study sexual reproductive characters were used
+  1943; Wells, 1956). This line of thinking--i.e., that coral                                    to assessthe nature of coloniality in reef corals. From an
+ colonies are merely aggregates of polyps-would        appear                                    evolutionary point of view, the integration of sexual re-
+ to be justified by the plasticity of gross colony shape                                         productive (hereafter called reproductive) activities within
+ (Barnes, 1973; Foster, 1979; Veron and Pichon, 1982)                                            a coral colony should present no conflict among polyps,
+ and the indeterminate growth (Sebens, 1987) of most reef                                        since all the constituent polyps are presumably of the same
+ coral colonies.                                                                                 genotype [but see Buss ( 1982) for a discussion of the likely
+    However, a certain degree of functional integration may                                      effects of somatic mutations]. Reproduction has been
+ occur even within the structurally simple reef corals. For                                      studied for many years in scleractinian corals (Duerden,
+ example, polyp retraction is coordinated within colonies                                         1902; Vaughan, 1909) but most research has concentrated
+ of some species (Shelton, 1982); soluble organic com-                                           on population level characteristics, e.g., sexuality, repro-
+ pounds and Ca++ are translocated among polyps (Pearse                                           ductive mode, and spawning time (see reviews by Fad-
+ and Muscatine, 197 1; Taylor, 1977), and skeletal regen-                                        lallah, 1983; Harrison and Wallace, 1990; Richmond and
+ eration tends to restore symmetry of colony shape (Ste-                                         Hunter, 1990). In some species, fertile polyps are distrib-
+ phenson and Stephenson, 1933; Connell, 1973; Loya,                                              uted unevenly within the colony (Harrigan, 1972; Wallace,
+                                                                                                 1985; Kojis, 1986; Chornesky and Peters, 1987). More-
+  1976). One might conclude that colonies act as individ-
+                                                                                                 over, colony size, rather than age, is the primary factor
+ uals. Moreover, ecologists tend to treat whole colonies as
+                                                                                                determining reproductive status in two species (Kojis and
+ individuals (Connell, 1973; Hughes, 1984; Chornesky,
+                                                                                                Quinn, 1985; Szmant-Froelich,          1985). These two phe-
+ 1989).
+                                                                                                 nomena (fertile polyp location and fertile colony size)
+    The above contrasting views about whether a coral col-
+                                                                                                might be used as evidence for reproductive integration
+ony is an aggregation of polyps or an integrated unit have                                      since, in each case, a reproductive character appears to
+yet to be reconciled. In comparing species, inferences of                                       be expressed beyond the level of single polyps.
+integration have been based on morphological characters,                                             In each of the ten morphologically     diverse species of
+because function and structure are often correlated. In                                         reef corals studied, we found uneven distribution of fertile
+reef corals, branching colony shapes, dimorphic polyps,                                         polyps in the colony, and colony size-related maturation.
+intratentacular budding (especially when it is incomplete,                                      Nonetheless, we argue that, except for the dimorphic pol-
+as in the meandroid condition), common (cerioid) walls,                                         yps of Acroporu, each of these patterns could have a sim-
+perforations in walls, and a well-developed coenosarc (soft                                     pler explanation. Indeed, at present there is little unam-
+tissues not belonging to individual polyps) are all thought                                     unambiguous evidence for reproductive integration in the
+to provide evidence of integration (Table I). Few data are                                      isomorphic genera of reef corals.
+available to test these assumptions. However, Hubbard
+( 1973) found sediment-shedding ability, an expression of                                                          Materials   and Methods
+behavioral integration, to be greater in meandroid corals                                        Within colony infertility-observations
+than in other corals which are considered less integrated                                           Ten species of shallow water corals (Table I) were mon-
+morphologically.                                                                                itored for reproductive activities along the Caribbean coast
+
+
+                                                                                       Table I
+Characteristics   postulated   to reflect potentially     higher    levels of morphological      integration
+
+                                                                                              Extratentacular                  Common     Perforate
+                  Species                               Branching        Dimorphic                budding       Meandroid        wall       walls     Coenosarc
+
+Acropora cervicornis      (Lamarck)                        Y                   Y                     Y              N            N           Y           Y
+Acropora palmata (Lamarck)                                 Y                   Y                     Y              N            N           Y           Y
+Porites furcata Lamarck                                    Y                   N                     Y              N            Y           Y           N
+Porites astreoides Lamarck                                 N                   N                     Y              N            Y           Y           N
+Diploria clivosa (Ellis and Solander)                      N                   N                     N              Y            Y           N           N
+Diploria strigosa (Dana)                                   N                   N                     N              Y            Y           N           N
+Siderastrea    radians (Pallas)                            N                   N                     Y              N            Y           N           N
+Siderustrea    siderea (Ellis and Solander)                N                   N                     Y              N            Y           N           N
+Montastrea     cavernosa (Linnaeus)                        N                   N                     Y              N            N           N           N
+Favia fragum      (Esper)                                  N                   N                     N              N            N           N           N
+
+   “Y” implies higher integration than “N” (Wells, 1973; Jackson, 1979; Oliver and Coates, 1987). Species are ranked according to the number of
+“YS.
+ 420                                                  K. SOONG   ET AL.
+
+
+ of Panama between July, 1987, and August, 1988. During          an artificial “central condition”-was    not employed, be-
+ their respective reproductive seasons, whole colonies (in       cause preliminary trials showed that the trimming nec-
+ the case of species of small size), or samples from various     essary to fit the pieces together removed the original mar-
+ parts of large colonies were collected at random, preserved,    ginal polyps.
+and decalcified by means of standard techniques (Soong,
+ 1991).                                                          Relationship   between colony size and maturation
+    Except for Favia fragum, fecundity was estimated after
+dissection by directly counting eggs, or measuring the size           When a species was in reproductive condition (Soong,
+of gonads with a dissecting microscope or, for species with        199 I), one sample of tissue (about 5 X 5 cm) was collected
+small gonads, by histological preparations. In F. frugum,         from the center of healthy-looking       colonies of various
+planulae are easier to observe than eggs, so the number           known sizes. All specimens were examined after fixation,
+of planulae per polyp were counted under the dissecting           decalcification, and dissection. In species with small, in-
+microscope as an estimate of brood size or fecundity. For         conspicuous gonads (P. furcata, P. astreoides and Diploria
+all species, the identity of ovaries, spermaries, and planulae    clivosa), histological slides were prepared from each spec-
+(if present) were confirmed by histology (Soong, 199 1).          imen; in the remainder, histological confirmation of re-
+    Owing to numerous instances of partial colony mor-           productive condition was limited to some randomly cho-
+tality, edge zones in Siderastrea siderea can occur virtually    sen specimens. For brooding species, reproductive data
+everywhere over the surface. Therefore, data for this spe-       were collected during various months throughout the year.
+cies were collected separately for colony margins on both        Fertility in the broadcasting species was assessed within
+vertical and horizontal surfaces. Variations in tissue           one to two months of their annual spawning periods. Each
+thickness within colonies were noticed in five species;          sample was rated qualitatively as either infertile (no go-
+those in Siderastrea spp. and Porites fircata were mea-          nads), or fertile (gonads or planulae present in the sample).
+sured under a dissecting microscope.                             If colony size data were available, samples collected for
+                                                                 study of colony infertility were also used to assessmatu-
+                                                                 ration.
+Within colony infertility-manipulations                               Colonies of each species were ranked, from smallest to
+    A series of field experiments was initiated to determine     largest, and the size at which most colonies become mature
+the possible causes of the infertile colony margins found        was then assessed.Colony size was calculated as the surface
+in three species of massive corals. The scheme basic to all      area: the product of the maximal length and width of the
+the manipulations was to create artificial margins across        living tissue (both dimensions measured in the field). In
+the centers of healthy, undamaged colonies (Siderustreu          A. palm&a, colony size was estimated by summation of
+siderea-20-70        cm in diameter; Porites astreoides- 15-     the surface area of all the branches and the base. In the
+25 cm; and S. radians-3.5-8          cm). A cut about 1 cm       ramose Acropora cervicornis and P. furcata, the lengths
+deep and 2 mm wide was made across the entire mid-               of the living branches were taken as a measure of size.
+region of each colony with a hacksaw, effectively severing       Puberty size was defined operationally as equal to the sur-
+all soft tissue connections between the two sides of the         face area or live-branch length of the smallest colony (or
+cut. In one group consisting of 10 specimens per species,        branch) in the first group of 20 consecutively ranked col-
+(“tissue cut”), the two halves remained connected by dead        onies (or branches) of which 90% or more were fertile.
+skeletal material. In a second group of 10 colonies (“cut            Sample sizes in these studies ranged from 4 1 in D. stri-
+and fill”), underwater epoxy (Birkeland, 1976) was used          gosa (relatively rare) to 501 in S. radians.
+to fill and cover the open wounds and to fill the gaps
+created by sawing. A third group of 10 colonies (“total                                     Results
+cut;” 20 colonies were used in S. radians) were separated        Within colony infertility-observations
+into halves when the skeletal connection was completely
+severed. After manipulation, all colonies remained larger           Marginal areas. In no species were equally fertile polyps
+thanthe estimated puberty size (see below) for the species.       homogeneously distributed, and infertile polyps were
+This experiment was initiated in February-March         1988,    generally associated with colony margins (summary in
+before the start of gametogenesis in S. siderea. The other       Table II). Fuviu frugum was the only massive species
+two species reproduce year round in Panama (Soong,               studied in which marginal polyps were fertile. These mar-
+1991). Patterns of fertile polyp distribution were deter-        ginal polyps also carried planulae (average 73% of mar-
+mined by dissection or histology four to five months later,      ginal polyps, n = 77 colonies, each colony large enough
+at the end of July, and were compared with undisturbed           to have five central polyps), although their mean brood
+colonies collected in the same habitat. The reverse ex-          size was significantly lower than that of the central polyps
+periment-tying        two marginal pieces together to create     (Wilcoxon’s signed-ranks test, T, = 55, P < 0.01, n = 77
+                                                                             INTEGRATION            IN REEF CORALS                                                       421
+                                                                                               Table II
+ Location     of infertile   polyps      in fecund       colonies   of ten species of reef corals
+
+                                           Colony                                                                                                                      No. of
+            Species                         shape                                                    Location of infertile polyps                                     colonies
+
+ Favia fragum                           Massive                none, but 27% of marginal polyps lack planulae (vs. 7% of central polyps lacking planulae)                77
+ Siderastrea   radians                  Massive                0 to 0.25-0.5 cm from margin (one to two rows of polyps)                                                  65
+ Porites astreoides                     Massive                0 to 0.5-1.5 cm from margin (three to 10 rows of polyps)                                                  10
+ Montastrea    cavernosa                Massive                0 to 0.5-l cm from margin (one row of polyps)                                                             16
+ Siderastrea   siderea                  Massive                0 to 0.7-2 cm from margin on horizontal surface (at least two rows of polyps); 0 to 1-4 cm                17
+                                                                  from margin on vertical surface (more than three rows of polyps)
+ Diploria    strigosa                   Massive                0 to l-3.5 cm from margin (meandroid and lacks distinct polyps)                                           12
+ Diploria    clivosa                    Encrusting             0 to l-4 cm from margin (meandroid and lacks distinct polyps)                                              9
+ Acropora     cetvicornis               Branching              0 to 2-6 cm from tip, 0 to l-4.5 cm from base; and any shaded areas along branches                      26; 11
+ Acropora     palmata                   Branching              0 to 3-10 cm from tip at spawning; 0 to 2-3.5 cm from basal margin at spawning, shorter                 23; 8
+                                                                  infertile zone earlier in the year
+ Porites furcata                        Branching              0 to 0.5 cm from tip, 0 to l-3 cm from base (250% of whole branch length)                                178
+
+
+
+
+colonies, Fig. 1). Regardless of how fertility was measured,                                          example, in Porites furcata, fertile polyps were concen-
+all other massive corals had an infertile marginal area                                               trated in the distal half of the branches, but their abun-
+equivalent to the width of at least one polyp (Table II),                                             dance decreased again near the growing tip (Fig. 4). Usu-
+as exemplified in S. radians (Fig. 2).                                                                ally the basal margin of the branches was lighter in color,
+   In Siderastreu radians, the frequency of fertile polyps
+showed no significant correlation with colony size, either
+in the marginal row (Spearman’s r = 0.08, P > 0.05,
+n = 20), or in the penultimate row (Spearman’s r = 0.40,
+P > 0.05, n = 20) of polyps. The infertile area of large
+colonies of S. siderea was significantly wider on vertical
+surfaces than on the corresponding horizontal surfaces of
+the same specimens (Sign test, n = 13, t = 0, P -C 0.0 1).
+The width of these infertile areas, however, showed no
+significant correlation with colony size (vertical margin,
+Spearman’s r = -0.15, P > 0.05, n = 2 1 colonies; hori-
+zontal margin, Spearman’s r = -0.15, P > 0.05, n = 18                                                                                                            ,
+colonies). A gradient of increased fecundity was observed                                                             0      5    10 15           20 25         30
+in the first few centimeters of the fertile region for hori-                                                                Fecundity/center      polyp
+zontal surfaces (Fig. 3).
+   In branching species, the distribution of fertile polyps
+was clearly related to the growth axis of the branches. For
+
+
+
+
+                                                                                                                       0 2 4 6 8 10121416
+                                                                                                                        Fecundity/penultimate polyp
+                                      NO. planulae/Marginal     polyp
+                                                                                                        Figure 2. Fecundity of polyps within colonies of Siderastrea radians.
+    Figure 1. Brood sizes of central versus marginal polyps in Favia                                 Fecundity: mean number of eggs per polyp, based on five polyps per
+fiagum.   Mean number of planulae per polyp based on five marginal                                   location in each colony. Penultimate polyp: row of polyps immediately
+polyps per colony and (depending upon colony size) up to five central                                adjacent to margin polyps. Difference significant among the three groups
+polyps per colony; each point represents one colony. The diagonal Iine                               (Friedman test, T = 102.8, P < 0.01; pair-wise tests between any two
+indicates equal brood size in marginal and central polyps.                                           groups also significant using Wilcoxon’s signed-ranks test).
+ 422                                                                 K. SGGNG ET AL.
+
+                                                                                            31
+
+
+
+
+                 0        1           2             3cm          C
+
+                           Location   within   fertile    zone
+                                                                                             0   .5   1     1.5 2 2.5       3   3.5   4   4.5    5 cm
+    Figure 3. Fecundity gradient on horizontal surface of Siderustrea                                     Distance from tip
+ sidereu. Gonad index: mean gonad length X frequency of gonads (ovaries
+ or spermaries), based on two randomly chosen mesenteries per polyp in            Figure 4. Probability of gonad occurrence along the branches of fer-
+ each of ten randomly chosen polyps) at any given location relative to        tile, female Porites furcuta. At any position (at one cm intervals) along
+ that in the center of the horizontal surface of the colony. Vertical bars    the branch, probability of gonad occurrence, i.e., number of female
+ represent the standard errors of the mean. 0: beginning of fertile zone,     branches having ovaries at that position relative to the total number of
+ C: center of the horizontal surface. n = 8 male and 8 female colonies.       fertile, female branches checked; n = 178 branches.
+
+
+
+  presumably due to fewer endosymbiotic zooxanthellae.                         a tissue thickness of about 3.2 mm, and were estimated
+   Soft tissue thickness also tapered toward the base, and the                 to be about eight months old, since the average skeletal
+  internal mesenterial filaments were degenerate.                              increment of S. sidereu in Panama is about 5 mm per
+                                                                               year (H. Guzman, pers. comm.). The age of the infertile
+      In Acropora cervicornis, the large axial polyps and the
+                                                                               margins was more than 2 years old in S. siderea, judging
+  basal tissues (l-4.5 cm from the base) of the branches
+                                                                               from skeletal thicknesses (about 2 cm) at their vertical
+  were infertile, whereas gonads located within 2 to 6 cm
+  of the branch tips always had smaller eggs than those in                    edges.
+  the mid-region of the branches (n = 21 branches).                               As described for Indo-Pacific acroporids (Wallace, 1978;
+      In A. palm&a, the pattern apparently changed with the                   Veron and Wallace, 1984), radial polyps on the upper
+  annual reproductive cycle. When oogenesis was first no-                     surfaces of A. palmatu could be classified into two types-
+  ticed in February, small eggs were found in the whole                       ones with long polyp walls (thus exert), and others which
+  colony. No gonads were present in the polyps that we                        have almost no walls. The frequency of fertile polyps was
+  presumed to have been produced after the onset of oo-                       significantly higher in long polyps than in adjacent short
+ genesis. Infertile areas were observed in the encrusting                     polyps (5 large and 5 small polyps from each of 15
+ bases (n = 5 colonies, end of July) and along the growing                    colonies, pooled, G = 66.2, P < 0.01). When only’fertile
+ edges of branches (n = 3 colonies, shortly before the pre-
+ sumed spawning event in September).
+     Non-marginal     areas. Relatively fine-scale variations                                                   Table III
+ were found within the fertile regions of some species. The
+                                                                              Fecundity of young and old polyps within the fertile urea
+ few polyps of F. frugum undergoing intratentacular di-                       of Siderastrea radians
+ vision (each with two discrete mouths enclosed by a com-
+ mon body wall) contained significantly more planulae                                                             Number of eggs per polyp
+than did five adjacent non-dividing polyps (Wilcoxon’s                                                                 (sample size)
+signed-ranks test, T, = 2, P < 0.01, n = 17 comparisons
+                                                                                    Colony                   Old polyp                Young polyp
+from 11 colonies). What are presumed to be young polyps
+within the non-marginal areas of S. radians, S. siderea                                                        6.2 (5)                     I.6 (5)
+and P. fircatu could be identified in the colony, both from                                                   15.8 (5)                    5.0 (5)
+their fewer cycles of septa and their conical vertical profiles                                               13.6 (5)                    3.8 (5)
+                                                                                                              19.6 (5)                       0 (5)
+(“old” polyps have full cycles of septa and cylindrical ver-                                                 20.4 (5)                     6.8 (5)
+tical profiles). These young polyps were usually infertile,                                                  27.0 (5)                        0 (5)
+whereas intermediate-sized polyps carried some gonads,                                                       17.6 (5)                     5.0 (5)
+but were less fecund than adjacent, fully developed, cy-                                8                    24.8 (5)                     1.6 (5)
+lindrical polyps (for S. radians, Table III; for S. sidereu,                            9                    15.4 (5)                     1.7 (5)
+                                                                                       IO                    18.2 (5)                     3.4 (5)
+Table IV, in both species, Wilcoxon’s signed-ranks test,                               11                    21.4 (5)                     4.6 (5)
+T, = 0, P < 0.0 1). Small polyps carried eggs after reaching
+                                                                       INTEGRATION           IN REEF CORALS                                                                               423
+
+                                         Table    IV
+
+ Relative   fecundity     of polyps   within jertile     colonies   of Siderastrea siderea
+                                                                                                                                                                                 0
+                                                                                                               Z 25
+                                              Relative fecundity                                               8
+                                                                                                               3 20
+
+ Colony                 I.mv poh                 Medium polyp                Small polyp
+
+      I                 100% (10)                       1% (5)                 0% (2)
+     2                  100% (10)                      56% (2)                  1% (7)
+     3                  100% (IO)                      15% (4)                 9% (5)                                        0          2       4       6       6        10          12
+     4                  100% (IO)                      10% (4)                  I% (4)                                                Fecundity   on lower surface
+
+     5                  100% (10)                       0% (7)                    -
+                                                                                                  Figure 5. Comparison of fecundity between the upper and the lower
+     6                  100% (10)                       0% (1)                 0% (4)
+                                                                                               surfacesof Acropora pulmuta. Mean area fertility (square): mean number
+     7                  100% (IO)                      40% (6)                  1% (9)
+                                                                               O%(ll)          of fertile polyps per cm*, based on 2-32 cm2/colony. Mean fertile polyp
+     8                  100% (IO)                       0% (3)
+                                                         -                                     fecundity (cross): mean number of eggs per fertile polyp, based on IO to
+     9                  100% (10)                                              3% (3)
+    10                  100% (10)                                                 -            166 polyps per colony. The diagonal line indicates equal numbers on
+                                                        0% (3)
+                                                                                               both surfaces.
+    Number in parenthesis indicates sample size.
+
+                                                                                               showed some discoloration and had become pink along
+ polyps were compared, the number of eggs per fertile polyp                                    its new artificial margin, all others looked normal, with
+ was also significantly higher in the long polyps (Wilcoxon’s                                  no visible wound-related necroses. (This marginal dis-
+ signed-ranks test, T, = 0, P < 0.05, n = 6 colonies, 6- 14                                    coloration also occurs naturally in some colonies of S.
+ polyps/colony). Short polyps, however, were more than                                         siderea). Seven specimens of S. radians were collected,
+ 50% of the polyps on the upper surfaces (n = 5 colonies).                                     and dissection revealed that the severed polyps still con-
+ Along the mid-branch regions, gonads were absent in areas                                     tained gonads.
+ where polyp density was low and the soft tissues were                                             Success retrieving the experimental colonies varied
+ relatively thin, possibly as a result of shading (n = 11                                      among species and treatments 5-6 months after manip-
+ colonies). Regenerated portions, where live tissues lack                                      ulation. In S. sidereu, only some (n = 8) of the “tissue
+ polypal mouths, were also infertile.                                                          cut” and “total cut” specimens were recovered, so the
+    The upper surfaces of branches of A. pulmata had a                                         data for all the manipulated colonies were pooled. In P.
+ much higher fecundity than lower surfaces, as there were                                      astreoides, the only species with notable new growth, the
+ more fertile polyps per unit surface area (Wilcoxon’s                                         wounds of simple “tissue cut” specimens were covered
+ signed-ranks test, T, = 0, P < 0.0 1, n = 10 colonies, Fig.                                   by a thin layer of regenerating tissues, and the “total cut”
+ 5), and larger numbers of eggs within fertile polyps (Wil-                                    specimens showed some new growth along.the margin.
+ coxon’s signed-ranks test, T, = 0, P < 0.01, n = 11 col-
+ onies, Fig. 5). In addition, the soft tissues on the upper
+surfaces of A. palmata were at least twice as thick as those                                                        %
+of the lower surfaces (measured from decalcified soft tis-                                                        loo-
+
+sues), and their corresponding rate of vertical skeletal in-
+                                                                                                                   60.
+crement was about twice as great, as evidenced by growth                                                      8
+bands revealed by X-ray of skeletal slabs from seven col-
+onies. Central polyps on the horizontal surfaces of S. sid-
+ereu also had thicker tissues (unpub. data) and longer go-
+nads, and a proportionately larger number of mesenteries
+were carrying gonads than those on vertical surfaces. Thus
+the fecundity of horizontal polyps was significantly higher
+than that of the vertical polyps (Wilcoxon’s signed-ranks                                                            0
+test, P < 0.0 1, n = 16 colonies, Fig. 6).                                                                               0           20        40          60       60        100%
+                                                                                                                                 Fecundity   on horizontal    surface
+
+                                                                                                  Figure 6. Comparison of fecundity between vertical and horizontal
+Within colony infertility-manipulations                                                        surfaces of Siderastrea siderea. For each surface on each colony, relative
+                                                                                               gonad lengths (cross): mean gonad length based on two randomly chosen
+                                                                                               mesenteries per polyp in 10 randomlychosen polyps per sample, relative
+   One month after the initiation of each experiment, col-                                     to the largest estimate of mean gonad length from any location in any
+onies were checked for possible adverse responses to ma-                                       colony. Relative fecundity (square): fecundity (see gonad index in Fig.
+ninulations. Exced for one colonv. of S. sidereu which                                         3 legend) relative to largest estimate of fecundity in any colony.
+ 424                                                  K. SOONG ET AL.
+
+ As an artificial margin was not successfully maintained                                                       Table V
+ in the above treatments, only the “cut and fill” specimens      Fecundity     of polyps after manipulation              in Siderastrea radians
+ were checked for gonads. Seven “cut and fill,” eight “tissue
+ cut” and 15 “total cut” specimens were retrieved for S.                                  Number      of eggs per 20 mesenteries
+
+ radians and lumped together, since all three treatments         Colony               Natural      Artificial      Colony               Natural   Artificial
+ showed the same trend, i.e., the fecundity of the artificial        #       Center   margin        margin             #       Center   margin     margin
+ margins was intermediate between that of the centers and
+                                                                        I      20         13           -               16         12        6          -
+ the natural margins (significant differences with Wilcox-             2       20          7               0           17         12         3         -
+ on’s signed-ranks test: center > artificial margin, T, = 0,           3       20          2               2           18         II         5          7
+ P < 0.01, n = 29 colonies; artificial margin > natural                4        18         2           -               19         IO         I          0
+                                                                       5        17       17            -              20            9      -            0
+ margin, T, = 3.5, P < 0.01, n = 11 colonies).                         6        17         8           -              21            9       3          -
+     Except in S. radians, an infertile zone was found along           1       17          3           -              22            8       8           0
+ every artificial margin. In S. siderea, the width of this             8       16        I5            -              23            8       3         -
+                                                                       9       16          6             0            24            8       3         -
+ newly generated infertile zone was comparable to the hor-          10         I5        14            -              25            8      0          -
+ izontal margins in natural colonies (difference insignifi-         II         15          2           -              26            7       3         -
+ cant, Wilcoxon’s two-sample test, U, = 195, P > 0.05,              12         15          2             0            27            6      2            0
+                                                                    13         14          7             0            28            3      3          -
+ n, = 18, n2 = 16, two-tail), and most (16/l 8) of the ar-          14         13          6           -              29            3      2            0
+tificial margins had more than one row of infertile polyps.         15         13          5           -              30            3      0          -
+ In the “cut and fill” specimens of P. astreoides, no sig-
+ nificant difference was found between the infertile widths
+of the natural and manipulated margins (Wilcoxon’s two-
+                                                                stages or the independent responses of polyps to their own
+sample test, U, = 69.5, P > 0.05, n, = 10, n2 = 10,
+                                                                surroundings. Colony-level integration should be invoked
+P > 0.05, two-tail). In S. radians, the polyps along the
+                                                                only if inhomogeneities in form or function cannot be
+artificial margins remained fertile, although their fecundity
+                                                                explained by microenvironmental      or ontogenetic effects.
+was significantly lower than that of centrally located polyps      In the following sections, patterns of reproductive un-
+in the same colonies (Wilcoxon’s signed-ranks test, T, = 0,     evenness found in different species of colonial corals are
+P < 0.0 1, Table V).
+                                                                discussed in relation to presumptive environmental or
+                                                                ontogenetic factors or, in the two acroporids, used as ev-
+Relationship between colony size and maturation
+                                                                idence for integration (Table VIII).
+   All ten species of western Atlantic reef corals studied
+showed size-correlated reproductive activities, with larger     Within colony infertility patterns-marginal                               areas
+colonies having much higher fertility rates (Table VI).              Regardless of colony size and shape, the results for these
+   Estimates of puberty size ranged from 2.3 cm2 to 195          ten species clearly indicate that the marginal polyps differ
+cm2 in the seven species of massive reef corals (Table           reproductively from the central polyps of the same col-
+VII). The puberty size estimate of the massively branching       onies. What is the reason for this marginal pattern? Chor-
+A. palmata was very large (1600 cm2). Puberty size esti-
+                                                                 nesky’s (1989) observations may offer a good environ-
+mated as branch length was 17 cm in A. cervicornis, and          mental explanation. Her study of natural encounters be-
+1.4 cm in P. jiircata.
+                                                                 tween colonies of Porites and Agaricia, showed that the
+                                                                 margins of certain corals are in a dynamic state of tem-
+                        Discussion
+                                                                 porary advances and retreats. Not only is the energy re-
+    An integrated colony with polyps specialized for various     quirement       for these confrontations   potentially high
+roles would seem to be adaptive in reef environments,            (Rinkevich and Loya, 1985), but the continuing physical
+even in the absence of obvious morphological differen-           presence of the tissues themselves is less certain. In ad-
+tiation. Caution should be exercised in inferring integra-      dition to competition,      encroaching predators, such as
+tion, however, as exemplified by the clonal sea anemone,        snails, sea stars, and fire worms are more likely to attack
+Anthopleura elegantissirna, where an individual clone-          at colony margins (J. Hayes, pers. comm.). An investment
+mate may have a different size, division rate, defensive        in somatic tissues, which can expand or fight along the
+tissues, and fertility according to its position in a patch     margin, is presumably more important than one in re-
+(Francis, 1976). Since clonemates of A. elegantissima are       productive tissues, which only increases the stake upon
+separated, these differences develop in the absence of any      losing (Hughes and Jackson, 1985).
+connections after the polyps have divided. In a coral col-          In the manipulated specimens of S. siderea,S. radians,
+ony with morphologically       connected polyps, heteroge-      and P. astreoides,some form of reduced fertility appeared
+neous patterns may similarly represent developmental            in all artificially generated margins (see Results). Polyps
+                                                                            INTEGRATION       IN REEF CORALS                                                         425
+                                                                                          Table     VI
+
+Frequency         offertile     colonies   in each collected   size class
+
+                                                                                                    Size class (surface area of live colony; cm*)
+
+            Species                                             o-4            4-15           15-60            60-250           250-1000            1000-4000   >4000
+Favia.fiagum                                % fertile            63              93                94             -                 -                    -       -
+                                            n                    38               74               17             -                 -                    -       -
+Siderastrea         radians                 % fertile            50               86               97             100               -                    -       -
+                                            n                    64             206               208              23               -                    -       -
+Porites     astreoides                      % fertile              0               9               19              79                94                 100      -
+                                            n                      4              12               26              47                55                    11    -
+Diploria      clivosa                       % fertile              0               0               40              57                93                 loo      100
+                                            n                      I               5                5               14               29                   23       3
+Diploria      strigosa                      % fertile            -              -                  20              42               100                loo       100
+                                            n                    -              -                   5               12                9                     6      9
+Montastrea          cavernosa               % fertile            -                 0              100              92               100                   94     100
+                                            n                    -                 I                6               13               20                    18      5
+Siderastrea         siderea                 % fertile              0               0                0              47                96                100        96
+                                            n                      3               4                7               19               27                   13      23
+Acropora       palmata                      % fertile            -                 0                0                7               31                   43      88
+                                            n                    -                 4                9               14               16                     7     33
+
+                                                                                                          Size class, branch length (cm)
+
+                                                                <I              l-2               2-7            5-9              9-13                13-17     >I7
+
+Poritesjiurcata                             % fertile               0            77                 94            -                 -                  -         -
+                                            n                       5            39               252             -                 -                  -         -
+Acropora’         cervicornis               % fertile           -               -                  -                  0                 38                 59        89
+                                            n                   -               -                  -                  4                 13                 17        18
+
+   “n” is the number of colonies examined.
+   ‘: Only thick branches (> 1 cm diameter).
+
+
+
+ along the artificial margins originally had been in the cen-                                        cm (Meyer and Birkeland, 1975); hence the life expectancy
+ ter of colonies, and would be expected to be fully fertile                                          of an individual polyp is about one to two years. Since
+ had there been no manipulations. Alternatively, these re-                                           oogenesis and embryogenesis are lengthy processes, basally
+ sults could be attributed to wounding caused by the op-                                             located polyps should not be able to complete their in-
+ eration itself, rather than the changed location of the pol-                                        vestment in reproduction before dying. But the microen-
+ yps. Polyps not operated upon but close to the artificial                                           vironment near the branch bases may also deteriorate to
+ margins, however, also became infertile in P. astreoides                                            the point that developing gonads can no longer be sup-
+ and S. siderea. Thus, regardless of its causes, the experi-                                         ported in the polyps.
+ mentally-induced      infertile marginal response was not                                               The infertile tips of three branching species (P. furcata,
+ simply due to the age of the polyps.                                                               A. cervicornis and A. palrnata) could be the result of a
+    The infertile bases of the branching A. cervicornis and                                         time constraint, since all the polyps (except the terminal
+P. furcata are subject to adverse environments, due to                                               axial polyps in Acropora) are young, and oogenesis takes
+reduced accessto water flow and sunlight. Encroachment                                              at least six months in the two acroporids (Soong, 199 1).
+by fouling organisms is a constant threat here, particularly                                            The prominent, non-reproductive axial polyps of A.
+to P. furcata which has compact colonies. The nearly in-                                            cervicornis indicate colony-level integration. Axial polyps
+fertile bases in branches of P. jiurcata make up more than                                          are not young since they give rise to the radial polyps in
+50% of the live tissue cover (Fig. 5) and all are older                                             the branch. They have less chlorophyll and lower pho-
+polyps, raising the alternative possibility of polyp senes-                                         tosynthetic rates, yet higher rates of skeletal deposition,
+cence (Palumbi and Jackson, 1983). In P. furcata the fate                                           than the radial polyps (Goreau, 1963). The nutrients that
+of individual polyps may be predetermined. Live branches                                            axial polyps receive from radial polyps (Pearse and Mus-
+of P. furcata average 3.5 cm in length (per-s. obs.), and                                           catine, 197 1; Taylor, 1977; Gladfelter, 1983) presumably
+their annual extension in the study area is about 2.0-3.7                                           contribute to the fast rates of branch extension in
+426                                                                       K. SGGNG ET AL.
+
+                                                                                 Table VII
+Reproductive      characters   of ten species of reef corals in Panama
+
+                                                              Size range of                   PUbSty                        Smallest                            Width of infertile
+                                           No. of                samples                      size:area                   reproductive                          margin: median;
+             Species                      colonies                (cd                         (length)                 colony I X w (cm)                           range (cm)
+
+Non-branching
+   Favia fragum                             129               0.25-19.6                        2.3 (1.5)                     0.6 x 0.6                          none
+   Siderastrea   radians                    501                0.2-128                         4.0 (2)                       1.3 x 1.1                          0.25; 0.25-0.5
+   Porites astreoides                       155                  4-2,530                      70 (8.4)                         3X2                              1; 0.5-1.5
+   Montastrea    cavernosa                   63                 12- 10,000                    20 (4.5)                         5x4                              1; 0.5-l
+   Diploria clivosa                          79                  4-5,400                      12 (11)                          7x5                              2; l-4
+   Siderastrea siderea                      117                  2-20,164                    156 (12.5)                        9x7                              1; 0.7-2
+                                                                                                                                                                   (horizontal
+                                                                                                                                                                   surface)
+                                                                                                                                                                2; l-4
+                                                                                                                                                                   (vertical
+                                                                                                                                                                    surface)
+  Diploria     strigosa                      41                 36-62,500                    195 (14)                           7X6                             2; l-3.5
+Branching
+  Acropora     palmata                       84                   9-40,000               1600                                  16 x 8                           tip: 5; 3-10
+                                                                                                                                                                base: 3; 2-3.5
+  Acropora     cervicornis                   52                   5-29                        17;                            9 (length)                         tip: 4; 2-6
+                                                                                                                                                                base: 3; l-4.5
+  Porites furcata                           296                0.6-6                           1.4*                          1 (length)                         -50% branch
+                                                                                                                                                                   length
+
+  * Size measured in cm2 of surface area of live colonies, except for A. cervicornis            and P. furcata,    for which branch length in cm is given.
+
+
+acroporids (Shinn, 1976; Oliver et al., 1983; Tunnicliffe,                              revealed by X-radiographs indicates that they are unlikely
+ 1983). Apparently, the differentiation of axial polyps is                              to have been generated later than the long polyps (pets.
+not terminal, since non-growing axials do reproduce                                     obs.). Although their function has not been determined,
+(Oliver, 1984).                                                                         the infertility of the short radial polyps in A. palmata
+
+Within colony infertility patterns-non-marginal                          areas                                                Table VIII
+                                                                                        Explanations      for uneven   distribution     offertile   polyps   within     colonies
+    New polyp generation, whether by intra- or extra-ten-
+tacular budding, may take a long time to complete in                                          Explanations                   Based on                        Phenomenon
+ scleractinian corals (Stephenson and Stephenson, 1933)
+                                                                                        Environmental effects          Observations and             1. infertile colony
+since skeletal development underlying the soft tissues is                                                                Manipulations                 margins: most species
+involved (Goreau, 1963; Barnes, 1973). But in F. fragum,                                                                                            2. low-fertility on
+which buds intratentacularly, reproductive ability is not                                                                                              vertical surface of
+compromised during polyp multiplication        and colony                                                                                              colonies: S. siderea
+growth. Extratentacular budding, occurring in most of                                                                                               3. low-fertility on shaded
+                                                                                                                                                       surfacesof colonies:
+the other corals of this study, produces a mosaic of polyps                                                                                           A. palmata
+of various sizes and developmental stages. Young polyps
+are infertile, and we suspect that their other functions,                              Ontogenetic effects             Observations                 1.juvenile polyps
+                                                                                                                                                       budded
+e.g., feeding, may also be rudimentary.                                                                                                                extratentacularly
+   The short polyps on the upper surface of A. palmata                                                                                              2. juvenile polyps along
+have a diminished morphology and a lower fertility than                                                                                                colony margins
+the long polyps due, perhaps, to crowding. On the under                                                                                             3. juvenile polyps at tips
+surfaces, where polyp density is less than 50% of that on                                                                                              of branching corals
+the upper surfaces, polyp size is much more homogeneous                                                                Observations                 1. short radial polyps: A.
+(pers. obs.). Small polyps on the upper surfaces do not                                                                                               palmata
+appear to be young: they are scattered throughout the                                                                                               2. axial polyps: A.
+                                                                                                                                                      cervicornis
+upper surface of the branch, and parallel corallite growth
+                                                INTEGRATION       IN REEF CORALS                                                           427
+
+ presumably represents a second example of reproductive             the gradient of increasing fecundity found in the first few
+ integration in acroporid corals.                                   centimeters of the fertile region, marginal effects on polyp
+                                                                    fertility extend beyond the infertile marginal area. To be
+ Relationship between colony size and maturation                    reproductive, therefore, a colony should be larger than
+                                                                    the size obtained by simple extrapolation from its infertile
+     Colony size acts as another colony-level reproductive          margins.
+  character. As a simple example, young polyps estimated                In addition to the proposal about environmental and
+  at one to two years old (see Table III, IV) in a large colony     ontogenetic effects, at least one other hypothesis can ex-
+  of S. siderea carry eggs, but much older polyps in a small        plain the reproductive size effect without invoking colony
+  colony below puberty size for its species are infertile. But      integration. Using an idealized hemispherical, massive
+  how do individual polyps “know” the size of their colony?         colony as a model, the number of polyps is directly pro-
+     After reaching a certain minimum colony size, corals           portional to the square of the radius of the colony, since
+  may start reproducing due to microenvironmental                   all the polyps are on the surface of the colony; i.e.,
+  changes imposed upon each polyp. The polyps in a large
+                                                                                                         N = c.9                           (1)
+  colony simply experience a different environment from
+  those in a small colony, and the combined effect on many          where N is the number of polyps, r is radius of the colony,
+  polyps produces what appears to be a colony-level char-           and c is a constant. The number of polyps in the following
+  acter. For example, as colonies of the marine hydroid             year is approximately
+  Podocoryne carnea become larger and their zooids become
+  denser, elevated levels of CO2 in the center of the colony                                      N ct+l) = c - (r + aj2                   (2)
+  may induce the development of generative zooids which             where “a” is annual vertical skeletal increment, i.e., the
+  are responsible for sexual reproduction (Braverman, 1962;         increase in radius of the hemispherical colony. The annual
+  Braverman, 1963).                                                 increase per polyp would be
+     The distribution of fertile polyps provides a model for
+ explaining puberty size. Small colonies may fail to repro-                          c - (r + a)2 - c sr2 = 2*r.a+a2
+                                                                                                                                           (3)
+ duce, not because of their small sizes per se, but because                                       c-12                           8
+ virtually all of their polyps are marginally located. Hence        According to Equation (3) if the annual skeletal incre-
+ no colony-level integration would exist. The above hy-             ment, “a” remains constant and is small relative to r, the
+ pothesis would be falsified if: (1) no marginal infertility        per polyp growth rate will be decreasing as colony size
+ existed in large reproductive colonies; (2) the critical size      (or r) increases (Fig. 7). In other words, if a colony in-
+ at which a colony becomes reproductive is much larger              creases in diameter at the same linear rate, and its shape
+ than that predicted from the extent of the marginal in-            remains the same, the investment of each polyp in somatic
+ fertility pattern; or (3) only specialized polyps are repro-       growth (polyp proliferation) would decrease with increas-
+ ductive.                                                           ing colony size. Assuming energy intake per polyp is in-
+     Of the seven massive corals studied here, six species          dependent of colony size, the excess energy available to
+ have infertile margins, whereas marginal polyps in the             polyps in large colonies could be used in reproduction.
+ small F. fiagum are fertile but have a lower fecundity             The critical point, i.e., whether skeletal increment “a” is
+ than the corresponding central polyps (Table VII). For             constant, or at least does not increase throughout a coral’s
+ each species, the smallest fertile colonies were recorded          life span, is supported by numerous studies (Connell,
+and its dimension compared to the width of its infertile
+margin (Table VII). If marginal infertility is directly ad-
+ditive, we would expect a colony with a radius greater
+than that of the width of the infertile margin to be repro-                            311
+
+ductive, since (as in two Siderastrea spp.) there is no re-
+lationship between the width of the infertile margin and
+colony size. In most species, however, the smallest repro-
+ductive colonies are a little larger than is expected from
+this simple extrapolation of infertile margins. The addi-                        sPO.5I\
+tional infertility may be explained as follows.
+                                                                                 q           y.                     ~                  ,
+    In a small colony, any polyp is likely to be subject to
+                                                                                       0          10     20         30      40   50   60
+marginal influences from all directions, whereas in a large                                                   Colony radius
+colony marginal polyps at any location are less likely to             Figure 7. Model of the increase in polyp number as a function of
+be affected by environmental       perturbations on the op-        the colony radius in a hemispherical colony. Unit of colony radius in
+posite margins of the colony. Moreover, as indicated by            terms of average annual skeletal increment.
+ 428                                                    K. SOONG    ET AL.
+
+
+   1973; Nazaki et al., 1978; Druffel, 1982; Hudson, 1985;            with the two acroporids having the highest potential for
+  Hughes and Jackson, 1985).                                          being morphologically      integrated, and F. fragum having
+      A closer look at the above hypothesis indicates that the        the lowest potential. We will assess the extent to which
+  curvature of the skeletal surface (Barnes, 1973), rather            these characters appear to relate to reproductive integra-
+  than colony size per se, is important in determining re-            tion.
+  productive status. Given the same absolute vertical in-                  Colony shapes. Although relationships between colony
+  crement (or radial increase), a polyp in a colony of high           shape and extent of integration have often been proposed
+  curvature (usually a small colony) can invest more energy           (Jackson, 1979; Silen, 198 1; Oliver and Coates, 1987;
+  in growth since relatively more space will be available to          McKinney and Jackson, 1989), shape itself does not nec-
+  add new polyps, whereas a polyp in a colony of low cur-             essarily imply any given level of organization, as exem-
+  vature (and usually large) would have little room for the           plified below.
+  addition of new polyps. (For the same reason, the lumpy                 Graus and Macintyre ( 1976, 1982) found that realistic
+  surfaces present in large colonies of some species (Barnes,        growth forms of Montastrea annularis can be simulated
+   1973; Isdale, 1977; Hughes and Hughes, 1986) effectively           simply by programming polypal growth rates to vary as
+  change the curvature of their surface and increase their           a function of the intensity and distribution of light, which
+  surface area, presumably thereby maintaining the high              itself varies with location on a colony and depth. In these
+  growth rate of individual polyps.) Therefore, all of the           simulations different colony shapes are generated as a re-
+  observed patterns of uneven fertile polyp distribution in          sult of individual polyps responding independently to en-
+  massive species are explicable without invoking integra-           vironmental gradients across a colony. A simple “rule
+  tion.                                                              change” at the module level, or some environmental vari-
+     In branching species, two factors are obviously impor-          ation, can easily produce various complex colony shapes
+ tant in the distribution of fertile polyps. The infertile tips      without invoking higher levels of integration (see also
+ in the three species studied are all young polyps (except           Harper and Bell, 1979; Bell, 1986; Gottlieb, 1986, for
+ for the axial polyps of acroporids). The infertile basal part       modular plants).
+ of A. cervicornis and P. jiircata are both associated with              In branching species, new polyps are concentrated at
+ some degree of environmental degradation. The infertility           the growing tips, and polypal age increases down the
+ of short branches in these two species could be explained           branch from the tip. The segregation of young and old
+ by considering both an ontogenetic effect at the tips and           polyps in these colonies could easily initiate the devel-
+ an environmental effect at the bases. A branch would have           opment of colony integration through temporally differ-
+ to be long enough to have mid-regional polyps devoid of             entiated life history traits of individual modules (Bonner,
+ both effects to be reproductive.                                    1965). For example, the translocation of materials to the
+     Environmental and ontogenetic effects, however, can-           growing tips in Acropora (Pearse and Muscatine, 197 I),
+ not satisfactorily explain the size effect in A. pafmata.          a clear case of colony integration, could have evolved as
+Colonies with encrusting bases only (no standing                    a character of individual polyps, in which polypal age or
+branches) generally are small and non-reproductive, but             developmental stage is the factor determining whether to
+ none of the 13 medium sized (loo-625 cm*) encrusting               export or import nutrients. Similarly, polyps could be ge-
+colonies were fertile, and only one of nine colonies with           netically programmed to grow when young, to reproduce
+small branches (loo-644 cm*) carried gonads. In large               later, and to engage in defense when old. At any rate, the
+colonies with several fully developed branches (>3000               persistent developmental gradient along the branch, cor-
+cm*), however, marginal polyps along encrusting bases               responding to predictable environmental (selective) gra-
+and growing edges of branches have been observed to carry           dients, could facilitate the development of temporal dif-
+eggs at the beginning of oogenesis. Obviously, the differ-          ferentiation in polypal functions. The same effect in a
+ence in fertility between a small and large colony of A.            massive species, where young and old polyps are more
+palmata is more than a simple combination of environ-               evenly distributed within the colony, would be more dif-
+mental and ontogenetic effects acting on individual polyps.         ficult to develop, since environmental gradients are im-
+Reproductive integration in colonies of A. palmata is              posed upon heterogeneously-aged polyps. The view that
+likely.                                                            branching corals have a higher potential to develop in-
+                                                                   tegration concurs with Jackson’s (1979) general argument,
+Morphology    and integration                                      that branching colonial animals should be more integrated
+                                                                   because their basal attachment is critical to the survival
+   As mentioned in the Introduction, many morphological            of the whole colony.
+characters have been proposed as being correlated with                  Polyp dimorphism. In this study, dimorphism of polyps
+integration (see Table I). Summarizing these characters,           (Table I) is associated with reproductive integration. Both
+the species studied here seem to constitute a gradient,            acroporids have polyps of divergent morphology and both
+                                                INTEGRATION       IN REEF CORALS                                                               429
+
+ species appear to be reproductively integrated. Direct in-             (3) One possible advantage of most polyps potentially
+ ference of integration from morphology is supported here.          being able to reproduce is that a “mutant polyp” would
+    Budding types. Conflicting inferences about integration         be less likely to reap all the reproductive success of the
+ can be drawn from an examination of the modes of bud-              colony (Buss, 1982). Considering that a large, massive
+ding in corals. Duerden (1902) and Wells (1973) noted               coral colony may live for centuries or even millennia, the
+that polyps produced intratentacularly           lack directive     occurrence of somatic mutations would appear to be in-
+ mesenterial couples (but see Matthai, 1926); daughter              evitable, and the low level of integration might be adaptive
+polyps, therefore, differ morphologically from the original         after all.
+polyp. Based on this morphological difference, they sug-                (4) Ecologically, coral colonies are often separated into
+gested that the entire colony formed by intratentacular             ramets (Hughes and Jackson, 1980). A less integrated col-
+budding should be regarded as an individual, whereas ex-            ony with totipotent polyps may be better able to adjust
+tratentacular budding produces many identical individ-              to new conditions after environmental changes or damage
+uals (polyps) aggregated as a colony. The observations in           (Chornesky, 1989).
+this study, however, suggest just the opposite from a re-               (5) Most reef corals harbor zooxanthellae and are
+productive perspective. A colony produced by complete               therefore less dependent upon external feeding for their
+intratentacular budding (F.fragum) is homogeneous with              carbon (Edmunds and Davis, 1989). The more homo-
+respect to the fertility of its polyps (and by inference, other     geneous distribution      of sunlight relative to the more
+functions as well); an extratentacularly budded colony, in          patchily distributed zooplankton may allow less colony
+contrast, is a mosaic of large, old, fertile polyps intermixed      integration than in sedentary colonial animals lacking
+with small, young, infertile or less fertile polyps. Integra-       photosymbionts.
+tion should be higher in the latter, since at any moment,               (6) Developmental constraints may be a non-selection-
+the young developing polyps are presumably more de-                 ist’s explanation for low integration in these corals.
+pendent on other polyps.                                                In conclusion, a coral colony is an individual, in the
+    Other morphological characters. None of the repro-              sense that it is genetically homogeneous, and the consti-
+ductive data gathered during this study provided support            tuting polyps are coordinated physiologically by their
+for any of the other morphological characters (Table I)             physical connections. Evolutionarily, a coral colony can-
+that are commonly used to imply integration. For ex-                not be considered an individual, in the sense that the genet
+ample, reproductive fertility patterns in the two mean-             is a better unit of selection (Janzen, 1977) whereas the
+droid Diploria spp. resembled those of the extratentacu-            polyp characters are what is directly controlled by genetics.
+larly budded Montastrea cavernosa and Siderastrea sid-
+erea.                                                                                          Acknowledgments
+                                                                       Among the many people who contributed to this re-
+Adaptiveness of integration
+                                                                    search, we would like especially to thank Dr. Jeremy
+     The ability to conduct signals, either through a primitive     B. C. Jackson for offering opportunities for the field study
+ colonial nervous system, or through excitable epithelia is         and sharing many ideas, Dr. Esther Peters for diagnosing
+ an important attribute of a true colony. In addition, the          histological problems, Ms. Jennifer H. H. Lin Soong for
+ ability to share resources should set colonies clearly apart       helping with the field and laboratory work, and Drs. Jo-
+ from mere aggregates of individually-acting             polyps     seph C. Simon, Terry P. Hughes and one anonymous
+(Mackie, 1986). Judging by these non-reproductive cri-              reviewer for providing valuable comments on an early
+teria, reef corals do possess a certain extent of integration       version of the manuscript. This research was partly sup-
+(see Introduction).                                                 ported by Smithsonian Tropical Research Institute.
+     Many other marine invertebrates are also colonial, and
+some (including cnidarians) have developed much higher                                          Literature     Cited
+levels of integration. Why are colonial reef corals different?
+                                                                    Barnes, D. J. 1973.         Growth in colonial scleractinians. Bull. Mar. Sci.
+There are several possible reasons:
+                                                                           23: 280-298.
+    (1) Reef corals are sessile. Highly coordinated behavior        Beklemishev,        W. N. 1969.     Principles of Comparative   Anatomy   of In-
+among polyps may not be as important as it is in pelagic                   vertebrates.    University Chicago Press, Chicago, IL.
+colonial organisms (e.g., siphonophorans), for which lo-            Bell, A. D. 1986.          Evolutionary and non-evolutionary theories of se-
+comotory activity is necessary (Ma&e, 1986).                               nescence. Phil. Trans. R. Sot. Lond. B313: 143-159.
+    (2) Unlike many soft-bodied polymorphic species, most           Birkeland,      C. 1976. An experimental method ofstudying corals during
+                                                                          early stages of growth. Micronesica       12: 3 19-322.
+reef corals settle on hard substrata, and each polyp deposits       Boardman,        R. S., and A. H. Cheetham.    1973.    Degrees of colony dom-
+calcium carbonate as it grows, hence no other differen-                  inance in stenolaemate and gymnolaemate bryozoa. Pp. 12l-220
+tiated supporting mechanism is necessary.                               in Animal Colonies: Development   and Function  Through  Time,
+ 430                                                                        K. SOONG ET AL.
+
+    R. S. Boardman, A. H. Cheetham, and W. A. Oliver, eds. Dowden,                        K. Rutzler and G. Macintyre, eds. Smithsonian Institute Press,
+    Hutchinson and Ross, Inc., PA.                                                        Washington, DC.
+Bonner, J. T. 1965. Size and Cycle: An Essay on the Structure of Bi-                 Harper, J. L., and A. D. Bell. 1979. The population dynamics of growth
+    ology. Princeton University Press, Princeton, NJ.                                     form in organisms with modular construction. Pp. 29-52 in Popu-
+Braverman, M. H. 1962. Studies in hydroid differentiation. I. Podo-                       lation Dynamics,   R. M. Anderson, B. D. Turner, and L. R. Taylor,
+    coryne carnea culture methods and carbon dioxide induced sexuality.                   eds. Blackwell Sci. Pub., London.
+     Exp. Cell Rex 26: 301-306.                                                      Harrigan, J. F. 1972. The planula larva of Pocillopora damicornis:
+Braverman, M. H. 1963. Studies on hydroid differentiation. II. Colony                     Lunar periodicity of swarming and substratum selection behavior.
+    growth and the initiation of sexuality. I. Embryo. Exp. Morph. 11:                    Ph.D. Dissertation, University of Hawaii.
+     239-253.                                                                        Harrison, P. L., and C. C. Wallace. 1990. Reproduction, dispersal and
+Buss, L. W. 1982. Somatic cell parasitism and the evolution of somatic                    recruitment of scleractinian corals. Pp. 133-207 in Coral Reefs,
+                                                                                          Ecosystems of the World 25, Z. Dubinsky, ed. Elsevier, New York.
+     tissue compatibility. Proc. Natl. Acad. Sci. USA 79: 5337-5341.
+                                                                                     Harvell, C. D. 1991. Coloniality and inducible polymorphism. Am.
+Buss, L. W. 1987. The Evolution of Individuality.      Princeton University
+                                                                                          Nat. 138: 1-14.
+     Press,Princeton, NJ.
+                                                                                     Hubbard, J. A. E. B. 1973. Sediment-shifting experiments: A guide to
+Chapman, G. 1981. Individuality and modular organisms. Biol. .I. Linn.
+                                                                                          functional behavior in colonial corals. Pp. 3 l-42 in Animal Colonies:
+     Sot. 15: 177-183.
+                                                                                          Development    and Function  Through Time, R. S. Boardman, A. H.
+Chomesky, E. A. 1989. Repeated attack and retaliation during spatial                      Cheetham, and W. A. J. Oliver, eds. Dowden, Hutchinson and Ross,
+     competition between corals. Ecology 70: 843-855.
+                                                                                          Inc., PA.
+Chornesky, E. A., and E. C. Peters. 1987. Sexual reproduction and                    Hudson, J. H. 1985. Long-term growth rates of Porites lutea before
+     colony growth in the scleractinian coral Porites astreoides. Biol. Bull.            and after nuclear testing: Enewetak Atoll (Marshall Islands). Proc.
+     172: 161-177.                                                                        5th Int. Coral   Reef Symp.   6: 179- 185.
+Coates, A. G., and J. B. C. Jackson. 1985. Morphological themes in                   Hughes, D. J., and R. N. Hughes. 1986. Metabolic implications of
+     the evolution of clonal and aclonal marine invertebrates. Pp. 67-                    modularity: studies on the respiration and growth on Pilosa electra.
+     106 in Population      Biology and Evolution    of Clonal Organisms,                 Phil. Trans. R. Sot. Land. B313: 28-37.
+    J. B. C. Jackson, L. W. Buss, and R. E. Cook, eds. Yale University               Hughes, T. P. 1984. Population dynamics based on individual size
+     Press,New Haven, CT.                                                                 rather than age: a general model with a reef coral example. Am. Nat.
+Coates, A. G., and W. A. J. Oliver. 1973. Coloniahty in zoantharian                       123: 778-795.
+    corals. Pp. 3-27 in Animal       Colonies: Development     and Function          Hughes, T. P., and J. B. C. Jackson. 1980. Do corals lie about their
+     Through Time, R. S. Boardman, A. H. Cheetham and W. A. J.                            age? Some demographic consequences of partial mortality, fission
+    Oliver, eds. Dowden, Hutchinson and Ross, Inc., PA.                                   and fusion. Science 209: 7 13-7 15.
+Connell, J. E. 1973. Population ecology of reef building corals. Pp.                 Hughes, T. P., and J. B. C. Jackson. 1985. Population dynamic and
+    205-245     in Biology and Geology of Coral Reefs, 0. A. Jones and                    the life histories of foliaceous corals. Ecol. Mono. 55: 14 I- 166.
+    R. Endean, eds. Academic Press, London.                                          Hyman, L. H. 1940. The Invertebrates:        Protozoa Through Ctenophora.
+Draffel, E. M. 1982. Banded corals: changes in oceanic carbon- I4 dur-                    McGraw-Hill, New York.
+    ing the little ice age. Science 218: 13- 19.                                     Isdale, P. 1977. Variation in growth rate of hennatypic corals in a
+Duerden, J. E. 1902. The significance of budding and fission. Ann.                        uniform environment. Proc. 3rd Int. Coral Reef Symp. 2: 403-408.
+    Msg. Nat. Hist. ser. 7. 10: 382.                                                 Jackson, J. B. C. 1979. Morphological strategies of sessile animals.
+Edmunds, P. J., and P. S. Davis. 1989. An energy budget for Porites                       Pp. 499-555 in Biology ana’ Systematics of Colonial Animals, G.
+    porites (scleractinia), growing in a stressedenvironment. Coral Reefs                 Larwood and B. R. Rosen, eds. Academic Press, London.
+    8: 37-43.                                                                        Janzen, D. H. 1977. What are dandelions and aphids? Am. Nat. 111:
+Fadhvllah, Y. H. 1983. Sexual reproduction, development and larval                        586-589.
+    biology in scleractinian corals, a review. Coral Reef 2: I29- 150.               Kojis, B. L. 1986. Sexual reproduction in Acropora (Isopora) species
+Foster, A. B. 1979. Phenotypic plasticity in the reef corals Montastraea                  (Coelenterata: Scleractinia). I. A. cuneafa and A. palifea on Heron
+    annularis   (Ellis and Solander) and Siderastrea     siderea (Ellis and               Island reef, Great Barrier Reef. Mar. Biol. 91: 29 l-309.
+    Solander). J. Exp. Mar. Biol. Ecol. 39: 25-54.                                   Kojis, B. L., and N. J. Quinn. 1985. Puberty in Goniastrea favulus,
+Foster, A. B. 1985. Variation within coral colonies and its importance                    age or size limited? Proc. 5th Int. Coral Reef Symp. 4: 289-294.
+    for interpreting fossil species. I. Paleontol. 39: 1359-138 1.                   Loya, Y. 1976. Skeletal regeneration in a Red Sea scleractinian coral
+                                                                                          population. Nature 261: 490-49 1.
+Francis, L. 1976. Social organization within clones of the seaanemone
+                                                                                     Mackie, G. 0.1986. From aggregatesto integrates: physiological aspects
+    Anthopleura     elegantissima.     Biol. Bull.   150: 36 1-376.
+                                                                                          of modularity in colonial animals. Phil. Trans. R. Sot. Lond. B313:
+Gladfelter, E. H. 1983. Circulation of fluids in the gastrovascular system                 175-196.
+      of the reef coral Acropora cervicornis. Biol. Bull. 165: 6 19-636.             Matthai, G. 1926. Colony-formation in astraeid corals. Phil. Trans.
+Goreau, T. F. 1963. Calcium carbonate deposition by coralline algae                       R. Sot. Lond. B214: 313-356.
+     and corals in relation to their roles as reef builders. Ann. N. Y. Aca.         McKinney, F. K., and J. B. C. Jackson. 1989. Bryozoan Evolution.
+     Sci. 189: 127-167.                                                                   Allen and Unwin, London.
+Gottlieb, L. D. 1986. The genetic basis of plant form. Phil. Trans. R.               Meyer, D. L., and C. Birkeland. 1975. Biological monitoring data. Pp.
+     Sot. Land. B313: 197-208.                                                            358-370   in Environmental    Monitoring   and Baseline Data, D. M.
+Graus, R. R., and I. G. Macintyre. 1976. Light control of growth form                     Windsor, eds. Smithsonian Institute, Washington, DC.
+     in colonial reef corals: computer simulation. Science 193: 895-897.             Nazaki, Y., D. M. Rye, K. K. Turekian, and R. E. Dodge. 1978. A 200
+Graus, R. R., and I. G. Macintyre. 1982. Variation in growth forms                        year record of carbon-13 and carbon-14 variations in a Bermuda
+     of the reef coral Montastrea  annularis (Ellis and Solander): A quan-                coral. Geop. Res. Let. 5: 825-828.
+     titative evaluation of growth response to light distribution using              Oliver, J. K. 1984. Intra-colony variation in the growth of Acropora
+     computer simulation. Pp. 441-464 in The Atlantic Barrier Reef                       formosat extension rates and skeletal structure ofwhite (zooxanthellae
+    Ecosystem     at Carrie   Bow Cay. Belize. I. Structure     and Communities,          free) and brown-tipped branches. Coral Reefs 3: 139-147.
+                                                           INTEGRATION            IN REEF     CORALS                                                            431
+
+Oliver,     J. K., B. E. Chalker,   and W. C. Dunlap. 1983. Bathymetric              Shinn,   E. A. 1976.      Coral reef recovery in Florida and the Persian Gulf.
+        adaptations of reef building corals at Davis Reef, Great Barrier Reefs,            Environ. Geol. 1: 241-254.
+        Australia. 1. Long-term growth responses of Acroporu formosa. J.             Silen, L. 1981.        Colony structure in Flustra foliacea (Linnaeus). Acta
+        Exp. Mar. Biol. Ecol. 73: 1l-35.                                                   Zoologica 6t: 2 19-232.
+ Oliver,    W. A. J., and A. G. Coates. 1987.           Phylum Cnidaria. Pp.         Soon& K. 1991. Sexual reproductive patterns of shallow-water reef
+        140-193 in Fossil Invertebrates, R. S. Boardman, A. H. Cheetham,                   corals in Panama. Bull. Mar. Sci. 49(3): 832-846.
+       and A. J. Rowell, eds. Blackwell Scientific Publication, London.              Stephenson,      T. A., and A. Stephenson.     1933. Growth and asexual re-
+ Palumbi, S. R., and J. B. C. Jackson. 1983.         Aging in modular organ-               production in corals. Great Barrier Reef Exp. 1928-1929. 3:
+        isms: ecology of zooid senescence in Steginoporella sp. (Bryozoa,                   168-217.
+        Cheilostomata). Biol. Bull. 164: 267-278.                                    Szmant-Froelich,      A. 1985.     The effect of colony size on the reproductive
+                                                                                           ability of the Caribbean coral Montastrea annularis (Ellis and So-
+ Pearse, J. S., and L. Muscatine.      1971.     Role of symbiotic algae (zoo-             lander). Proc. 5th Int. Coral Reef Symp. 4: 295-300.
+       xanthellae) in coral calcification. Biol. Bull. 141: 350-363.                 Taylor, D. L. 1977.        Intra-colonial transport of organic compounds and
+ Richmond, R. H, and C. L. Hunter.         1990.    Reproduction and recruit-              calcium in some Atlantic reef corals. Proc. 3rd Int. Coral ReefSymp.
+       ment of corals: comparisons among the Caribbean, the tropical Pa-                  1: 432-436.
+       cific, and the Red Sea. Mar. Ecol. Prog. Ser. 60: 185-203.                    Tunnicliffe,  V. 1983.    Caribbean staghom coral population-Pre-hur-
+Rhrkevich,      B., and Y. Loya. 1985.     Intraspecific competition in a reef            ricane Allen conditions in Discovery Bay, Jamaica. Bull. Mar. Sci.
+       coral: effectson growth and reproduction. Oecologia 66: 100-105.                   33: 131-151.
+Rosen, B. R. 1979. Modules members and communes. A postscript                        Vaughan, T. W. 1909.      Geology of the keys,the marine bottom deposits,
+       introduction to social organisms. Pp. XIII-XXXV          in Biology and            and recent corals of southern Florida. Carnegie Inst. Wash. Yearbook
+                                                                                          8: 140-144.
+       Systematics of Colonial Animals, G. Larwood and B. R. Rosen, eds.
+                                                                                     Vaughan,    T. W., and J. W. Wells.      1943.   Revision of the suborders,
+       Academic Press, London.                                                            families, and genera of the Scleractinia. Geol. Sot. Amer. Spec.Paper
+Ryland, J. S. 1979. Structural and physiological aspects of coloniality                   44: l-363.
+      in bryozoa. Pp. 2 1l-242 in Biology and Systematics of Colonial               Veron, J. E. N. 1981.        The species concept in scleractinia of eastern
+      Animals, G. Larwood and B. R. Rosen, eds. Academic Press,London.                    Australia. Proc. 4th Int. Coral Reef Symp. 2: l83- 186.
+Sandberg, P. A. 1973.        Degree of individuality in cheilostome bryozoa:        Veron, J. E. N., and M. PIchon. 1982.        Sclemctinia of Eastern Australia.
+      skeletal criteria. Pp. 305-3 16 in Animal Colonies: Development and                 Part IV Poritidae. Aust. Inst. Mar. Sci. Mono. Ser. 5: I-159.
+      Function Through Time, R. S. Boardman, A. H. Cheetham, and                    Veron, J. E. N., and C. C. Wallace.         1984. Scleractinian of Eastern
+      W. A. J. Oliver, eds. Dowden, Hutchinson and Ross, Inc., PA.                        Australia. Part V. Family Acroporidae. Aust. Inst. Mar. Sci. Mono.
+Schopf, T. J. M. 1973.         Ergonomics of polymorphism: its relation to                Ser. 6: l-485.
+      the colony as the unit of natural selection in species of the phylum          Wallace, C. C. 1978.       The coral genus Acroporu (Scleractinia: Astro-
+      ectoprocta. Pp. 247-294 in Animal Colonies: Development and                         coeniina: Acroporidae) in the central and southern Great Barrier
+      Function Through Time, R. S. Boardman, A. H. Cheetham, and                          Reef Province. Mem. Qd. Mus. 18: 273-319.
+      W. A. Oliver, eds. Dowden, Hutchinson and Ross, Inc., PA.                     Wallace, C. C. 1985. Reproduction, recruitment and fragmentation in
+                                                                                          nine sympatric species of the coral genus Acropora. Mar. Biol. 88:
+Sebens, K. P. 1987. The ecology of indeterminate growth in animals.
+                                                                                          217-233.
+      Ann. Rev. Ecol. Syst. 18: 371-407.                                            Wells, J. W. 1956.      Scleractinia. Pp. 328-444 in Treatise on Invertebrate
+Shelton, G. A. B. 1979. Coordination of behavior in cnidarian colonies.                   Paleontology, pt. F. Coelenterata. R. C. Moore, ed~ Geol. Sot. Amer.,
+      Pp. 14 1- 154 in Biology and Systematics of Colonial Animals, G.                    and University Kansas Press, Lawrence, KS.
+      Larwood and B. R. Rosen, eds. Academic Press, London.                         Wells, J. W. 1973. What is a colony in anthozoan corals? P. 29 in
+Shelton, G. A. B. 1982.      Anthozoa. Pp. 14 1- 154 in Electrical Conduction            Animal Colonies: Development and Function Through Time, R. S.
+      and Behavior in ‘Simple’ Invertebrates, G. A. B. Shelton, ed. Glar-                 Boardman, A. H. Cheetham, and W. A. J. Oliver, eds. Dowden,
+      endon Press, Oxford.                                                                Hutchinson and Ross, Inc., PA.
+

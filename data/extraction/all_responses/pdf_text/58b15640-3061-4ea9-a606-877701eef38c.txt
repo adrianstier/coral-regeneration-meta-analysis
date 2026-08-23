@@ -1,0 +1,792 @@
+Oecologia (2019) 191:621–632
+https://doi.org/10.1007/s00442-019-04509-7
+
+    COMMUNITY ECOLOGY – ORIGINAL RESEARCH
+
+
+
+Spatial distribution of damage affects the healing, growth,
+and morphology of coral
+Elizabeth A. Hamman1,2
+
+Received: 20 June 2018 / Accepted: 9 September 2019 / Published online: 30 September 2019
+© Springer-Verlag GmbH Germany, part of Springer Nature 2019
+
+
+Abstract
+Many predators and herbivores do not kill their prey, but rather remove or damage tissue. Prey are often able to heal or
+regenerate this lost tissue. If the prey are modular organisms (e.g., some plants and cnidarians), regeneration is frequently
+influenced by other modules interconnected to damaged ones. For example, many coral predators remove tissue from colonies
+consisting of many polyps, and these polyps often share resources with their neighbors. Thus, the distribution of tissue loss on
+a coral colony could affect the coral’s response. I hypothesized that spatially aggregated damage might be slow to heal due to
+competing demands on nearby polyps. To explore the spatial patterns of corallivory and their implications, I conducted: (1)
+field surveys documenting the spatial distribution of lesions on corals; (2) field experiments testing the effect of the distance
+between lesions on coral tissue healing, skeletal growth, and morphology; and (3) field surveys relating corallivore presence
+to coral growth and morphology. In the field surveys, lesions were aggregated at multiple spatial scales, and most lesions
+had other lesions within 2 cm. When lesions were near one another, coral tissue regeneration was depressed, although there
+was no effect on whole colony growth. After a year, however, linear extension was lower in the neighborhood of the lesions.
+Additionally, gastropod corallivores (Coralliophila violacea) with low movement decreased coral growth and increased coral
+topographical complexity. These results suggest that corallivores that create clusters of coral damage have a greater effect
+on coral growth and recovery from damage than corallivores that spread damage throughout the colony.
+
+Keywords Coral damage · Coralliophila violacea · Massive Porites · Spatial distributions
+
+
+Introduction                                                              communicate with one another and share resources (e.g.,
+                                                                          Marbà et al. 2002; Alpert et al. 2003; Stuefer et al. 2004).
+Many biogenic habitats (e.g., groves of aspen trees, grass-               The benefits of these connections often depend on the under-
+lands, kelp forests, and coral reefs) consist of modular or               lying habitat and resource distributions, and as a result of
+colonial organisms. While each unit (e.g., plant ramet,                   their interconnectedness, modules in better habitats can
+or coral polyp) is distinct and contributes to the overall                benefit neighboring modules in resource-poor or deleterious
+growth of the organism (genet or colony), the units often                 microhabitats. For example, buried ramets of Psammochloa
+are interconnected. These connections allow the units to                  villosa that are connected to unburied ramets survive better
+                                                                          and grow larger than ramets without these connections (Yu
+                                                                          et al. 2004), and when in spatially heterogeneous water con-
+Communicated by Stuart Sandin.
+                                                                          ditions, connected Alternanthera philoxeroides ramets with
+Electronic supplementary material The online version of this              connections grow more than those without (You et al. 2016).
+article (https​://doi.org/10.1007/s0044​2-019-04509​-7) contains          Due to connections among ramets, the entire plant benefits
+supplementary material, which is available to authorized users.
+                                                                          from ramets in the high-quality habitats.
+* Elizabeth A. Hamman                                                        Connectivity among units not only helps spread resources
+  eahamman@gmail.com                                                      to stressful microhabitats, but also benefits the organ-
+                                                                          ism when the stressful condition is a damage event. In the
+1
+     Odum School of Ecology, University of Georgia, Athens,               case of damage to only part of the organism, units unaf-
+     USA
+                                                                          fected by damage can contribute resources to facilitate the
+2
+     Present Address: Department of Biology, Radford University,          regrowth and healing of the damaged units. Thus, the health,
+     Radford, USA
+
+
+                                                                                                                              1  3
+                                                                                                                       Vol.:(0123456789)
+622                                                                                                 Oecologia (2019) 191:621–632
+
+
+proximity, and connectivity of neighboring units to the dam-    19 months (van Woesik 1998), yet few are completely healed
+aged unit may influence the rate of recovery of the entire      within 6 months (Denis et al. 2011).
+genet. Damaged units with higher connectivity to healthy           Many factors influence the rate of regeneration, likely by
+units should have a greater healing potential than damaged      influencing the amount of available resources (see review by
+units with few healthy neighbors. For example, shoots of        Henry and Hart 2005). For example, healing is more likely
+clonal plants with intact connections to other shoots receive   in smaller lesions and lesions with a greater perimeter-to-
+nutrients from these other shoots and recover from defo-        area ratio (Bak and Steward-Van Es 1980; Meesters et al.
+liation better than those with severed connections (Schmid      1997; Oren et al. 1997a), presumably because areas heal
+et al. 1988), and connected ramets grow more in the face of     faster when they have a greater number of neighboring,
+extreme temperatures and insect grazing than unconnected        healthy polyps. The link between available resources and
+ramets (Adonsou et al. 2016). Because of the role of healthy    regeneration is further highlighted by the role of symbiont
+units in healing damaged units of colonial organisms, some      communities and heterotrophy: corals with symbiont com-
+researchers actually advocate the use of lesion healing rate    munities that provide resources exhibit higher regeneration
+as an indicator of the health of an entire colony (e.g., in     rates than corals without (DeFilippo et al. 2016; Burmester
+corals: Fisher et al. 2007). However, the presence of some      et al. 2017), and fed corals with symbiont communities show
+healthy units is not always enough to ensure recovery, and      greater healing than those that are unfed (Burmester et al.
+the sharing of resources could be detrimental. For example,     2018). Additionally, bleached corals exhibit lower regenera-
+if the damage is too great and/or the condition of the colony   tion rates (Meesters and Bak 1993; Mascarelli and Bunkley-
+too poor, reallocation of resources to the damaged region       Williams 1999), and corals with bumpier morphotypes can
+could harm the colony (Hellström et al. 2006), for example,     exhibit higher regeneration rates than massive or columnar
+by reducing competitive ability or reproductive capacity.       morphologies (Van Veghel and Bak 1994). Finally, abiotic
+    The implications of partial damage and ramet connectiv-     conditions such as temperature can influence regeneration
+ity in a modular organism are especially well illustrated in    rates due to available resources (Edmunds and Lenihan
+corals, which are colonial, modular organisms composed          2010; Denis et al. 2011, 2013).
+of interconnected polyps. Coral damage has a wide range            While resources from healthy tissue are used in the recov-
+of causes such as storms, pathogens and predators (coral-       ery from damage (Oren et al. 1997b), the extent of involve-
+livores), and these often result in the partial death of the    ment differs among corals. For example, in Favia favus, the
+colony and/or the loss of biomass (Henry and Hart 2005).        entire colony contributes resources in the regeneration of
+Lesions can provide substrate for competitors to settle         damaged tissue (Oren et al. 1997b). In other corals, there is a
+(Titlyanov et al. 2005) or entry points for disease (Katz       limited distance over which coral polyps can share nutrients.
+et al. 2014). Thus, rapid healing of lesions is essential for   For example, in massive Porites, feeding by the gastropod
+the continued growth and survival of the colony, and large      corallivore Coralliophila violacea creates carbon sinks to
+amounts of healthy tissue can be involved in the recovery       which carbon is translocated, but carbon is only translocated
+process (Oren et al. 1997b).                                    from polyps within 5 cm of the damage (Oren et al. 1998).
+    Corals can respond to damage by rapidly regenerating        This limited area of involvement in regeneration could
+tissue to cover a lesion from connecting areas of the coral     explain why colony size is not necessarily a predictor of
+(D’Angelo et al. 2012) through a four-step process (Palmer      regeneration (Bak and Steward-Van Es 1980; Wahle 1983).
+et al. 2011). Newly regenerated tissue usually extends out         On reefs, corals are affected by a diverse community of
+from the border of the damaged area [although if a coral has    corallivores, and different species of corallivores consume
+deep, healthy tissue that was undamaged, new tissue might       different parts of the coral with varying degrees of sever-
+appear to come from the interior of the lesion (Edmunds         ity (Rotjan and Lewis 2008). Some consume mucus (e.g.,
+and Yarid 2017)]. This regrowth of tissue is facilitated by     Alpheid shrimp), tissue (consumed by corallivorous but-
+the gastro-vascular canals through which polyps share nutri-    terflyfishes and gastropods such as Coralliophila spp. and
+ents, and the availability of resources within the colony has   Drupella spp.), or both the tissue and the skeleton (con-
+long been known to affect the amount of regeneration (Bak       sumed by triggerfish and parrotfish). Lesions created by
+1983; Meesters et al. 1992). Therefore, coral lesions typi-     these different predators affect coral skeletal growth and
+cally exhibit an exponential rate of recovery as they deplete   tissue regeneration differently; excavating predators create
+the pool of available resources (e.g., (Meesters et al. 1994;   the most damage, while browsing predators that consume
+van Woesik 1998; Denis et al. 2011; Edmunds and Yarid           only mucus have the least effect (Cameron and Edmunds
+2017)), and most of the lesion is healed quickly, although      2014). Predators also differ in their behavior, leaving lesions
+complete closure can be a longer-term process. For example,     of various shapes and do not feed uniformly in space (Rotjan
+in massive Porites, lesions are no longer detectable after      and Lewis 2008; Jayewardene et al. 2009).
+
+
+
+13
+Oecologia (2019) 191:621–632                                                                                                   623
+
+   Given the documented effects of lesion size, shape, and         and perpendicular to flow. Along each transect, I randomly
+location on the response of a coral to damage, it is likely that   selected ten locations where I took a photograph of a 0.25 m
+the configuration of lesions affects the coral’s response as       by 0.25 m quadrat. Rather than photograph each from top
+well. If lesions are clustered, the proximity of neighboring       down, the bottom edge of the quadrat was placed against the
+lesions will likely influence the amount of resources avail-       coral at the random point generated, and the rest of the quad-
+able to regenerate coral tissue at a focal lesion, and lesions     rat positioned against the coral. I excluded photos that were
+that are clustered or aggregated near other lesions will           not dominated by live massive Porites coral, or that were not
+likely have lower regeneration rates than isolated lesions.        in focus, including 95 photoquadrats in the analysis.
+Indeed, damage allotted between multiple lesions rather                In each photograph, a technician identified lesions on
+than one large (or two adjacent lesions) has greater healing       massive Porites (areas of visible skeleton within continuous
+(DeFilippo et al. 2016).                                           coral tissue), and circled each lesion using Image J (Fig. 1,
+   Corals with lesions that are dispersed might heal lesions       Online Resource). For each lesion, the technician quanti-
+more quickly, but temporarily allot fewer resources to the         fied its area and perimeter, and the x–y coordinate of the
+skeletal growth of the colony, leading to a trade-off of           lesion centroid (i.e., center). Lesions varied by depth (Cam-
+increased tissue regeneration and decreased coral skeletal         eron and Edmunds 2014), but largely appeared to be due to
+accretion. By heavily depleting a smaller pool of resources,       corallivory rather than breakage. Two technicians analyzed
+aggregated damage might have longer-term effects on skel-          images, but there was no detectable effect of technician iden-
+etal growth. Additionally, if areas far from lesions grow nor-     tity when comparing scorings by the two, so I combined all
+mally, this could lead to differential growth within a colony      data in the final analyses with a total of 3957 lesions.
+which might alter the morphology of the coral. While many              With the data from these surveys, I quantified: (1) the
+studies document the role of various factors (e.g., lesion size    spatial distribution of lesions among quadrats; (2) the spatial
+and shape) in regeneration and link these factors to the avail-    distribution of lesions within quadrats; and (3) the shape
+ability of resources that can be shared throughout the colony,     (area: perimeter) of the lesions. To determine how lesions
+few consider how the spatial configuration of damage influ-        were distributed among quadrats, I modeled the counts
+ences the response of the coral.                                   among all quadrats using generalized linear models relating
+   Thus, the spatial configuration of lesions is a largely         the number of lesions to the area of coral in the quadrat and
+unexplored, but potentially important factor that can influ-       including site as a factor to control for differences in coral-
+ence the ability of coral to recover from damage. I designed       livore communities or other damaging factors that might
+a study to address the following questions using massive           differ between the two sites. I fit both Poisson and nega-
+Porites. (1) How is coral damage distributed on the reef           tive binomial distributions and compared the models using
+(e.g., are lesions spatially aggregated or overdispersed)?         AIC. I also tested for statistical overdispersion using a test
+(2) How does lesion proximity affect tissue regeneration           developed by Cameron and Trivedi (1990), and examined
+and skeletal growth? (3) How does location on the coral            the distribution of lesions across sites by comparing each of
+colony and distance between lesions affect spatial patterns        the sites sampled using a Tukey’s post hoc test.
+of coral growth? (4) How does chronic damage affect coral              To study spatial point patterns of lesions within a quadrat,
+morphology?                                                        I used the Clark–Evans nearest neighbor method (Clark and
+                                                                   Evans 1954), which compares the observed mean nearest
+                                                                   neighbor distance to that expected under complete spatial
+Methods                                                            randomness, and classified each quadrat as either “clus-
+                                                                   tered”, “random” or “even”. Lesions classified “clustered”
+Field surveys of coral damage                                      would have more lesions in close proximity than lesions in
+                                                                   quadrats with “even” lesion distributions. I also examined
+I quantified the spatial patterns of coral damage (both size/      the distribution of nearest neighbor distances between lesion
+shape of the lesion and the spatial patterns of the lesions) by    centroids across all quadrats. To describe the shape of the
+conducting photoquadrat surveys in the backreef of the north       lesion, I compared the area of  √the
+                                                                                                      �lesion to its perimeter by
+shore of Moorea, French Polynesia, where massive Porites           fitting the equation P = 𝜋 2 c𝜋        A
+                                                                                                            + A𝜋 , where P is an
+was the dominant coral. At each of two sites on either side of     approximation of the perimeter, A is the area of the lesion,
+Cook’s Bay at depths of 2–3 m, I haphazardly selected two          and c is the ratio of the width and height of the ellipse. Val-
+large, focal corals in the backreef lagoon. The backreef of        ues of c near 1 indicate circular lesions (relatively equal
+the north shore of Moorea has a strong, unidirectional flow        heights and widths and a high area:perimeter ratio). Larger
+running from the reef crest to the shore (Hench et al. 2008).      values of c indicate a narrower lesion (unequal heights and
+Therefore, I ran four 25 m transects in the cardinal direc-        widths and a lower area: perimeter ratio).
+tions from the bommie to capture variation both parallel to
+
+
+                                                                                                                        13
+624                                                                                                  Oecologia (2019) 191:621–632
+
+
+Effect of damage distribution on lesion healing                Effect of acute damage distribution on coral linear
+and whole colony growth                                        extension
+
+I conducted a field experiment to determine how the spac-       While the first field experiment tests the short-term effect
+ing between tissue lesions affected lesion healing (i.e.,       of tissue damage on the skeletal growth of the entire
+tissue regeneration) and skeletal growth of the colony.         colony, it does not provide long-term data on the colony
+I collected 40 small massive Porites colonies (6–7 cm           growth response at different locations within the coral col-
+diameter) without existing damage near the reef crest           ony (e.g., growth where tissue was removed, or adjacent
+on the north shore of Moorea, French Polynesia, placed          to where tissue was removed). Therefore, I conducted a
+them in individual ziplock bags, transported them to the        second field experiment to test the effect of the distance
+Richard B. Gump South Pacific Research Station, and             between tissue lesions on the growth of specific parts of
+kept them in a flow-through seawater table. Each coral          the colony. I collected 60 massive Porites corals approxi-
+was attached to plastic mesh with Z-Spar marine epoxy.          mately 5 cm in diameter near the reef crest and returned
+After 24 h, I determined the skeletal mass of the col-          them to the lab. I damaged the corals with a Waterpik (as
+ony using buoyant weight (Davies 1989) and randomly             in the previous experiment) with lesion centroids 1.2 cm
+assigned each coral to one of four experimental treat-          and 3.5 cm apart. Control corals were handled similarly,
+ments: no damage, or two lesions with centroids separated       but not damaged.
+by either 1.2 cm, 3.5 cm, or 6 cm. I used a Waterpik and            To create a reference line from which to measure spatially
+1 cm diameter circular stencil to make lesions on the tops      explicit growth, I placed the corals in a bath of 15 mg/L of
+of the corals and removed all tissue from within the lesion     Alizarin Red S dye for 2 days. Alizarin Red S is a vital stain
+area (Fig. 2, Online Resource). I handled all corals simi-      that is incorporated into the skeleton as the coral polyps
+larly regardless of treatment, and I weighed corals after       deposit calcium carbonate. Because I damaged the corals
+damaging to ensure that their skeletal mass was the same        before placing them in the dye, the wounded regions did not
+as prior to damage.                                             incorporate large amounts of dye. After removing the corals
+   I deployed corals in the field by mounting them to           from the dye, I attached them to a plastic base, buoyantly
+cinderblocks arranging them in a line perpendicular to          weighed and photographed each coral, and deployed them
+the current. Corals were blocked in space and time, with        in the field as in the first experiment. I placed corals attached
+one replicate of each treatment in each block. After 20         to cinderblocks in two sandflats on the backreef of the north
+and 39 days, I returned corals to the lab to weigh and          shore of Moorea.
+photograph them. I analyzed photographs using Image                 After 1 year, I collected the corals, and placed them in
+J to document changes in lesion size at each time point.        a bleach solution to remove the tissue. I then used an angle
+To determine the effects of damage on coral growth, I           grinder to cut the corals in half, ensuring that the cuts passed
+tested three hypotheses with a priori orthogonal con-           through the lesion locations. I sanded and dampened the
+trasts at each time point: (1) is there a significant effect    corals before photographing them so that growth lines were
+of damage on coral growth? (undamaged corals vs. corals         clear. To analyze the images, I used Image J and marked
+that received damage); (2) do adjacent lesions respond          damaged areas (indicated by a low density of Alizarin),
+differently than lesions that are separated? (corals with       traced the dye line, and traced the outer surface of the skel-
+lesion centers separated by 1.2 cm vs. corals with lesions      eton. The region between the dye line and the outer surface
+with centers separated by at least 3.5 cm); (3) does the        represented skeletal accretion during the course of the exper-
+degree of spacing between non-adjacent lesions influence        iment. To measure growth, I traced > 100 growth lines per
+healing or growth? (corals with lesions centers separated       colony (each demarcating the edge of a polyp as it accreted
+by 3.5 cm vs. corals with lesions separated by 6 cm). I        ­CaCO3) from the outer edge of the dye to the edge of the
+analyzed these contrasts in R using linear mixed effects        colony (Fig. 3, Online Resource). I modeled linear exten-
+models using the lme4 (Bates et al. 2015) and lmerTest          sion as a function of location on the coral colony (e.g., edge
+(Kuznetsova et al. 2017) packages. I treated coral ID and       vs. top of the colony). I did this by measuring the angle of
+block as random effects, time as a fixed effect, and tested     growth relative to the vertical growth line. I removed 15
+the three hypotheses along with interactions. I removed         corals due to death prior to the end of the experiment (seven
+one coral from the growth analysis because it was dropped       control, ten near, and eight far).
+during transport, and three corals from the lesion healing          I analyzed the data using the nlme package in R, and
+analysis due to poor quality of the photographs. For all        included the angle of growth as a fixed effect. I included the
+analyses, I analyzed data in R (version 3.3.2).                 individual coral as a random effect, fit several models (e.g.,
+                                                                growth as linear, quadratic, vs. cubic functions of angle)
+                                                                (Table 3), and selected the best model using AIC.
+
+13
+Oecologia (2019) 191:621–632                                                                                               625
+
+
+Effect of chronic damage on coral morphology                     Results
+
+While the first two experiments test the effects of acute        Surveys of coral damage
+damage on the response of the coral, many coral predators
+inflict chronic damage that might have greater effects on        Coral lesions were variable at multiple spatial scales. Across
+the coral by repeatedly drawing resources from the same          all spatial scales (both between the two sites on either side
+areas of healthy of tissue. Therefore, I evaluated the effects   of Cook’s Bay and within each site) there was significant
+of chronic damage on coral morphology by comparing               overdispersion (Z = 1.92, P = 0.027), indicating that lesions
+long-term patterns of coral growth in regions near the           were spatially clustered. Additionally, lesion density var-
+corallivorous gastropod, C. violacea, with coral growth          ied among sites. The two sites east of Cook’s Bay had sig-
+in regions that lacked this predator. Oren et al. referred to    nificantly fewer lesions than one of the sites to the west of
+this snail as a “prudent sessile feeder”, because it feeds       Cook’s Bay, but were similar to the second western site.
+in one location for extended periods of time and creates            Coral lesions were also abundant. The number of lesions
+carbon sinks (no snails moved during the 4-month experi-         per quadrat ranged from 2 to 611, with a mean of 42 lesions
+ment: Oren et al. 1998), similarly a related species, Cor-       per quadrat, or from 0.01 lesions/cm2 to 0.96 lesions/cm2
+alliophila abbreviata rarely moves on mounding colonies          with a mean of 0.12 lesions/cm2 (Fig. 1a). Between quad-
+(Hayes 1990). While it is known that C. violacea reduces         rats, lesions were very clustered, with some corals having
+Porites growth rate (Clements and Hay 2018; Hamman               extremely high densities of lesions, although several had
+2018), and related snails in the Atlantic are associated with    lower levels (Fig. 1a). The model with the best fit for the
+decline in coral tissue (Miller 2001; Baums et al. 2003)         number of lesions was the negative binomial fit including
+and recovery from bleaching (Shaver et al. 2018), no stud-       site (Table 1).
+ies have examined the effects of grazing on coral growth            Within quadrats, lesions showed a variety of spatial dis-
+within a coral colony.                                           tributions. Lesions on 12 quadrats indicated spatial clus-
+   I found 12 massive Porites corals on the north shore of       tering, 74 were indistinguishable from spatial randomness,
+Moorea, French Polynesia approximately 1 m in diameter           and 9 had a demonstrably even distribution of lesions. Even
+with C. violacea present. I randomly selected one snail          though the spatial point pattern of lesions was variable,
+on each colony, and found a similar location on the same         lesions were sufficiently dense to be in close proximity to
+colony with respect to height and flow that was at least         other lesions. The centers of 75% of lesions were < 1.76 cm
+20 cm from the nearest snail. At each location, I quantified     from the center of the nearest neighboring lesion (Fig. 1b).
+coral morphology, using a triangular piece of plexiglass         Lesions were approximately elliptical with the major axis
+(30 cm per side) with a 20 cm by 20 cm grid in the center.       exceeding the minor one by 15% (Fig. 1c: c = 1.15 ± 0.01;
+The grid contained 20 pre-drilled holes at random loca-          estimate ± SE), and this shape appeared to be independent
+tions. The plate was centered at the snail (or control loca-     of overall lesion size, although the size of the lesions were
+tion) and laid flat upon the coral (resting on at least three    also variable (Fig. 1d).
+points). I then measured the perpendicular distance from
+the coral to the plate at each of the 20 locations and used      Effect of damage distribution on lesion healing
+the variance of these distances to quantify surface rugosity     and colony growth
+(i.e., “bumpiness”); corals with high variances were more
+topographically complex than corals with low variance. I         Lesions further apart showed increased rates of tissue regen-
+remeasured each coral after 1 year (using a nail as a refer-     eration (Fig. 2a). At the midpoint of the experiment, tissue
+ence point) and calculated the change in variance.               regeneration was 81% higher on corals with lesion centers
+   I also measured linear extension of each coral near and       separated by at least 3.5 cm compared to lesions with cent-
+far from the snail, by inserting a nail at each location and     ers 1.2 cm apart (t23.1 = − 2.8, P = 0.011), however, there
+measuring the amount of vertical growth between the ini-         was no difference between lesions with lesions separated
+tial and final surveys. While corals created new tissue and      by 3.5 cm and 6 cm (t22.2 = 0.26, P = 0.8). However, these
+extended up the nail, I only measured the vertical exten-        effects of lesion spacing, which were present at 20 days,
+sion based upon the surface of the adjacent colony.              were not detectable by the conclusion of the experiment (day
+   I tested for a difference in both linear extension and the    39 t23.8 = 1.9, P = 0.068).
+change in variance between corals with and without snails           Skeletal growth showed a slightly different pattern than
+using a mixed effects model in lme4 (Bates et al. 2015) and      tissue regeneration (Fig. 2b). Lesions did not significantly
+lmerTest (Kuznetsova et al. 2017). I treated coral ID as a       decrease skeletal growth relative to undamaged corals at
+random effect, and snail presence as a fixed effect.             the midpoint (t31.2 = 1.8, P = 0.089) or conclusion of the
+
+
+
+                                                                                                                    13
+626                                                                                                                                              Oecologia (2019) 191:621–632
+
+
+            (A)100                                                                               (B)
+                                                                                                                   600
+
+
+
+
+          Number of quadrats                                                                   Number of lesions
+                                  75
+                                                                                                                   400
+                                  50
+
+                                                                                                                   200
+                                  25
+
+
+                                      0                                                                              0
+                                          0                    0.1                       1.0                             0                    0.5     2    5 10
+                                                Lesion density (number*cm2)                                                  Distance to nearest neighbor (cm)
+
+            (C)                                                                                      (D)
+
+
+
+
+          Lesion perimeter (cm)
+                                                                                               Number of lesions
+                                  6                                                                                300
+                                                         c=1          c=1.15
+                                                                                    c=2
+                                                                                                                   200
+                                  4
+
+                                                                                                                   100
+                                  2
+
+                                                                                                                     0
+                                      0           0.5          1.0           1.5                                         0            0.25 0.5       2      5    10
+                                                        Lesion area (cm2)                                                           Lesion area (cm2)
+
+Fig. 1  Spatial patterning of coral lesions, giving a the density (num-                               resent predictions for c = 1 (equal elliptical axes), and c = 2 (the major
+ber of lesions per live area of coral) among quadrats, b the distance                                 elliptical axis is twice that of the minor). Results are based on 97
+to the centroid of the nearest neighboring lesion, c the shape of the                                 quadrats (a, c), and 3957 lesions (b, d). All histogram x axes are on
+lesions, and d the size of the lesions. In panel c, the dashed lines rep-                             the log10 scale
+
+
+
+Table 1  Model selection information—field surveys of coral lesions                                   pattern of the coral. The model that best described the
+Model                                 Distribution      Log likelihood AIC         Δ AIC
+                                                                                                      data included a quadratic and cubic term (Table 2) as the
+                                                                                                      relationship between coral growth and the angle of growth
+Coral                                 Negative           − 427.02      864.04        0                decreased nonlinearly from the top of the coral. Corals
+ area + site                           binomial                                                       without any lesions (control) grew 1.32 cm at the top of
+Coral area                            Negative           − 435.50      875.01       10.97             the coral (i.e., 0°). For control corals, linear extension
+                                       binomial
+                                                                                                      decreased 19% for polyps that were 45° from the top of the
+Coral                                 Poisson           − 1783.40     3576.80 2712.77
+ area + site                                                                                          colony, and by 54% at the point where the coral extended
+Coral area                            Poisson           − 2081.63     4167.26 3303.23                 horizontally (i.e., at 90°, Fig. 4).
+                                                                                                         Corals with lesions far apart (centers separated by
+Models were fit for the number of coral lesions at the quadrat level.                                 3.5 cm) showed only a 3% reduction in growth compared
+The best model included both the area of live tissue, site, and an over-
+dispersion term indicating spatial clustering
+                                                                                                      to the undamaged corals, and this reduction across the col-
+                                                                                                      ony was not significant (Table 3, Fig. 3). In contrast, cor-
+                                                                                                      als that had two lesions in close proximity of one another
+experiment (t35 = − 0.63, P = 0.53). Additionally, spacing                                            (lesion centers separated by 1.2 cm) showed a 18% reduc-
+between lesions did not significantly change colony growth                                            tion in growth on the top of the coral compared to control
+at either time point.                                                                                 corals, but no difference beyond 45° (Fig. 3). Thus, the
+                                                                                                      response of a coral to damage after 1 year depended on the
+Effect of acute damage distribution on coral linear                                                   spacing between lesions—effects were only apparent in the
+extension                                                                                             region of the damage and only when lesions were in close
+                                                                                                      proximity to one another (i.e., within 2 cm).
+After 1 year, the linear extension of corals depended on
+both the position on the coral colony and the damage
+
+
+13
+Oecologia (2019) 191:621–632                                                                                                                                                                 627
+
+
+                                                                                                                                                                       Time
+                    (A)                                                                              (B)
+                                                                                                                                                                                20 Days
+                                       0.75
+                                                                                                                                                                                39 Days
+
+
+
+
+         Proportion of lesion healed                                                               Skeletal growth rate (g/day)
+                                                                                                                                  0.15
+
+
+                                       0.50
+                                                                                                                                  0.10
+
+
+
+                                       0.25
+                                                                                                                                  0.05
+
+
+
+                                                    N/A
+                                       0.00                                                                                       0.00
+                                                No Damage      1.2        3.5          6                                                 No Damage   1.2      3.5           6
+                                                 Distance between Lesion Centers (cm)                                                     Distance between Lesion Centers (cm)
+
+Fig. 2  Effect of lesion spacing on a percent of lesion healed and b                                             3.5 cm after 20 days, but not 39. There were no significant effects
+coral skeletal growth rate and after 20 (light gray bars) and 39 (dark                                           between distance between lesion centers and skeletal growth. Values
+gray bars) days. The percent of lesion healed was significant between                                            plotted are fitted values from the mixed effects model and error bars
+corals with lesions with centers separated by 1.2 cm and by at least                                             represent ± 1 SE (N = 10)
+
+
+Table 2  Model selection                                       Model                                                                                       Log likelihood   AIC           Δ AIC
+information—effect of lesion
+spacing on linear extension                                    Treatment + angle2 + angle2 + treatment × angle2 + treatment × angle3                       298.26           − 574.52        0
+                                                               Treatment + angle + treatment × angle                                                       278.74           − 541.49       33.04
+                                                               Treatment + angle + angle2 + angle3 + treatment × angle + treat-                            283.22           − 538.44       36.09
+                                                                ment × angle2 + treatment × angle3
+                                                               Treatment + angle + angle2 + treatment × angle + treatment × angle2                         278.34           − 534.68       39.84
+                                                               Treatment + angle3 + treatment × angle3                                                     264.33           − 506.67       67.85
+                                                               Treatment + angle2 + treatment × angle2                                                     114.37           − 212.73      361.79
+
+                                                               All models include the individual coral as a random effect
+
+
+
+Table 3  Parameter estimates—effect of lesion spacing on linear                                                  Near the snail, there was an increase in the topographic com-
+extension                                                                                                        plexity, while in areas away from the snails, topographic
+Effect                                    Value            Std. error    t value     p value                     complexity decreased (t28, P = 0.047, Fig. 4a). Linear exten-
+                                                                                                                 sion of coral was reduced by 68% in the presence of C. vio-
+Intercept                                        1.32        0.063         20.90     < 0.0001                    lacea (t18.5, P = 0.0023, Fig. 4b). These results support the
+Near                                          − 0.24         0.10         − 2.53       0.016                     hypothesis that snails increase the heterogeneity of coral
+Far                                            − .04         0.091        − 0.43       0.67
+                                                                                                                 morphology by decreasing linear extension rates of the coral
+Angle2                                        − 0.00016    < 0.0001      − 25.41     < 0.0001
+                                                                                                                 near where they feed and that this effect is quite localized
+Angle3                                        < 0.0001     < 0.0001        15.28     < 0.0001
+                                                                                                                 (e.g., much smaller than the scale over which I measured
+Near × angle2                                    0.0001    < 0.0001         8.79     < 0.0001
+                                                                                                                 topographic heterogeneity, 20 cm).
+Far × angle2                                  −  0.00001   < 0.0001       − 1.62       0.11
+Near × angle3                                 ≥ 0.0001     < 0.0001       − 7.22     < 0.0001
+Far × angle3                                  < 0.0001     < 0.0001         2.81       0.0049
+                                                                                                                 Discussion
+
+                                                                                                                 The spatial patterning of lesions (i.e., how close lesions
+Effect of chronic damage on coral morphology                                                                     are to neighboring lesions) plays an important role in the
+                                                                                                                 recovery of a coral from damage. Lesions near one another
+I observed differences in the change in coral morphology                                                         heal more slowly than those further apart (Fig. 2a) and over
+based on the presence of the corallivorous snail, C. violacea.                                                   longer time periods (a year), the spatial patterning of the
+
+                                                                                                                                                                                     13
+628                                                                                                                                                             Oecologia (2019) 191:621–632
+
+                                                                                                                     only reduces linear extension of coral, but also has the
+                                    1.6
+                                                                                                                     potential to affect the shape of corals, creating mosaics of
+                                                                                                                     depressed growth (where snails feed) and comparatively ele-
+                                                                              Control
+                                                                                                                     vated growth (away from the corallivore), resulting in more
+
+
+
+
+      Linear Extension (cm/year)
+                                    1.2                                                                              topographically complex corals (Fig. 4). Because lesions
+                                                                                                                     are generally very near one another (Fig. 1), these findings
+                                                                       Near                                          suggest that the effect of coral damage is more severe than
+                                    0.8                                                                              effects obtained from studies of single lesions, resulting in
+                                                                                              Far                    slower healing rates and longer-term decrease in skeletal
+                                                                                                                     growth.
+                                    0.4                                                                                 These results likely arise because resources are shared
+                                                                                                                     among polyps in a local neighborhood. The presence of
+                                                                                                                     nearby, healthy polyps facilitate the regeneration of tissue
+                                    0.0                                                                              in areas that have been damaged (Bak 1983; Meesters et al.
+                                                              0           25          50          75                 1992). The ability of a polyp to contribute to the healing of
+                                                                       Angle (degrees from vertical)                 a neighbor is likely affected by its proximity to the area of
+                                                                                                                     damage, as well as its own health, and the health of nearby
+Fig. 3  Effect of lesion spacing [control: no lesions (N = 13), near:                                                polyps. These findings build on past studies that demonstrate
+lesion centers separated by 1.2 cm (N = 10), far: 3.5 cm (N = 12)] on                                                this relationship between available resources and tissue
+coral growth rates at different locations on the colony (represented
+                                                                                                                     regeneration. For example, wounds with a greater perimeter:
+by the angle of growth). Lines give best fits, lightly shaded regions
+indicate ± 1 SE, and darkly shaded regions indicate the average lesion                                               surface area heal more quickly than similarly sized lesions
+locations in each treatment (corals had two lesions, with one wound                                                  (but with small perimeters) because there is more healthy
+located to each side of 0°)                                                                                          tissue bordering the lesion that can extend in and heal the
+                                                                                                                     lesion (Meesters et al. 1997; Oren et al. 1997a). Similarly,
+damage differentially affect skeletal growth patterns across                                                         smaller lesions heal more quickly than larger lesions (Henry
+the surface of the coral. When lesions are close together,                                                           and Hart 2005).
+there is a local reduction in linear extension near the lesion                                                          Previous studies have noted that lesions in clusters heal
+location, while corals with lesions far apart only show a                                                            more slowly than single lesions and lesions in higher den-
+slight decrease in linear extension compared to corals with-                                                         sities are more likely to grow in size than lesions in low
+out damage (Fig. 3). Finally, chronic damage, such as that                                                           densities (Welsh et al. 2015). Of course, these results could
+produced by the corallivorous gastropod, C. violacea, not                                                            simply result from more damage created when lesions are
+
+
+                                                  (A)                                                                           (B)
+
+                                                                                                                                       1.00
+                                                              100
+
+
+
+
+                                   Change in Variance (cm2)
+                                                                                                               Linear Extension (cm)
+                                                                  50                                                                   0.75
+
+
+                                                                  0
+                                                                                                                                       0.50
+
+
+                                                              −50
+                                                                                                                                       0.25
+
+                                                              −100
+
+                                                                                                                                       0.00
+                                                                               Control           C. violacea                                  Control           C. violacea
+                                                                                         Treatment                                                      Treatment
+
+Fig. 4  Effect of damage on coral morphology. a C. violacea are significantly associated corals increasing in topographic complexity (higher vari-
+ance), and facilitate crevices by significantly decreasing linear extension near their feeding site (b). Error bars represent ± 1 SE (N = 12)
+
+
+13
+Oecologia (2019) 191:621–632                                                                                                  629
+
+clustered, similarly to how corals with more gastropod coral-     effects of corallivory on defensive characteristics such as
+livores present exhibit lower growth rates (Hamman 2018).         nematocyst densities (Rotjan and Dimond 2010), as well as
+Additionally, two adjacent lesions that effectively form one      reproduction (Van Veghel and Bak 1994) that might affect
+large lesion also exhibit lower regeneration rates (DeFilippo     energetic tradeoffs and long-term patterns.
+et al. 2016), but this study highlights how the spatial con-         I detected a decrease in linear extension near lesions after
+figuration of discrete lesions affects coral response. Future     1 year for lesions located near one another (Fig. 3), but this
+work should examine interactions between lesion character-        effect was localized to the area near the lesions, whereas cor-
+istics (e.g., lesion size and shape) and spatial configuration.   als with lesions far from one another showed no significant
+    The spatial patterns of damage likely interact with char-     difference from corals without any lesions. This suggests
+acteristics of the lesion due to their combined effects on the    that longer-term effects of damage might be limited to cer-
+ability of polyps to share resources. For example, previous       tain spatial distributions of damage due to limitations of the
+studies demonstrate the effect of size and shape on healing       coral to transport resources. Many lesions are created by
+(e.g., Meesters et al. 1997; Oren et al. 1997a, b; van Woesik     consumers that target certain areas of the coral. For exam-
+1998), so it is likely that corals with elliptical lesions far    ple, some fish frequently feed on tops of colonies (Rotjan
+apart from one another will likely regenerate tissue much         and Lewis 2008; Welsh et al. 2015) and smaller organisms,
+more quickly than circular lesions near one another.              such as the gastropod Drupella cornus juveniles seek out
+    Other factors could affect the ability of units within a      crevices for protection from predators (Schoepf et al. 2010).
+colonial organism to share resources. Corals in differ-           Other types of organisms do not feed on coral, but inflict
+ent environments can exhibit different regeneration times         other types of damage. For example, macro-algae abrade
+(e.g., Lester and Bak 1985; Sabine et al. 2015) and stressors     coral (Jompa and McCook 2003), and vermetid gastropods
+such as sedimentation (Sheridan et al. 2014) and disease          deploy nets that contact coral and reduce growth (Shima
+(Ruiz-Diaz et al. 2016), can reduce the overall health of the     et al. 2010, 2015). In these cases, damage is more likely to
+colony and therefore decrease the resources that neighbors        occur on more “peaked” parts of the coral, where contact
+have available to heal damaged units, and would therefore         with foliose algae or vermetid nets is more likely.
+decrease the ability of the colony to recover from a damage          Depending on the location of damage, these organisms
+event. For example, studies tracking isotopes demonstrated        could facilitate either topographically diverse corals (e.g., as
+that bleached corals have lower connectivity [i.e., fewer iso-    I observed for C. violacea: Fig. 4) by decreasing growth in
+topes were transported across the colony (Fine et al. 2002)],     crevices, or could create less topographically complex cor-
+and lower rates of lesion healing, compared to unbleached         als by decreasing growth on the peaks (Shima et al. 2015).
+colonies (Meesters and Bak 1993; Fine et al. 2002). If fewer      Given that coral species and morphology affect regeneration
+resources are available due to stressors other than coral-        rates (Hall 1997), an interesting interaction might occur if
+livory, the effects of configuration might differ given the       more topographically complex corals (or “bumpier” mor-
+degree of integration within the colony.                          photypes) are better suited to regeneration and skeletal
+    Lesion regeneration differs among coral species (Bak          growth following injury (Van Veghel and Bak 1994). These
+and Steward-Van Es 1980; Hall 1997), including differences        effects could not only alter coral growth and morphology,
+between perforate corals share resources much more read-          but the effects could feed back to create interesting dynamics
+ily than imperforate corals (Cameron and Edmunds 2014),           given some organisms preferentially feed on certain parts of
+so the effect of lesion configuration will likely differ based    corals [e.g., parrotfish that feed preferential based on growth
+on coral species. An imperforate coral such as Pocillopora        form and skeletal hardness (Littler et al. 1989)], and those
+spp. will likely not demonstrate the same effects as mas-         that exploit coral morphology to shelter from predators (Sch-
+sive Porites due to limited resource sharing. Therefore,          oepf et al. 2010).
+these effects are likely more important for corals that share        While this study focused on the effects of damage on cor-
+resources over a larger range.                                    als, other modular organisms are likely to be affected by the
+    While I failed to detect an effect of spacing on short-term   spatial distribution of damage. For example, many plants are
+coral calcification (see Fig. 2), other studies have detected     modular, and function as a body of semi-autogenous agents
+a trade-off between skeletal growth and tissue regenera-          (Oborny 2019), and overall growth is decreased in the pres-
+tion [see review in (Henry and Hart 2005)] suggesting that        ence of herbivory (Nykänen and Koricheva 2004), similarly
+reallocating resources from calcification to tissue regenera-     to the observation in this study (Fig. 2b). For these modular
+tion reduces the coral’s ability to calcify for a certain time    organisms, nearby healthy ramets can aid ramets stressed
+period following regeneration. However, other studies dem-        or damaged by either environmental conditions (Wei et al.
+onstrate compensatory growth in corals following damage           2019) or herbivores (Chen et al. 2011). Therefore, the spac-
+(e.g., Jayewardene 2010). I observed neither, although there      ing of lesions and damage will likely play a role in the recov-
+was a trend towards a trade-off (Fig. 2b). Other work notes       ery of these plants as demonstrated in this study for corals.
+
+
+                                                                                                                       13
+630                                                                                                          Oecologia (2019) 191:621–632
+
+While few studies have explicitly looked at the role of dam-       study’s empirical findings of the effects of damage cluster-
+age spatial distribution in plants, inoculations of a fungus       ing applies to not only other organisms, but potentially to
+are more harmful further from carbon sources (Goodsman             other spatial scales and levels of organization.
+et al. 2013). Additionally, defoliation of Pinus sylvestris that
+was evenly spread (or only at the basal part of the shoot)         Acknowledgements I thank Alissa Rubin, Luc Overholt, and Carly
+                                                                   Roeser for assistance with image analysis, the Osenberg lab and Caitlin
+did not affect new leaves, but defoliation only at the apical      Cameron for helpful discussions, and Angela Mulligan, Julie Zill, and
+portion did (Honkanen et al. 1999). These results indicate         Morgan Farrell for field assistance. This work was supported by NSF
+that proximity to healthy parts of the plant is important for      grant OCE-1130359 and is a contribution from UC Berkeley’s Richard
+healing, as demonstrated in this study for corals as scars far     B. Gump South Pacific Research Station.
+apart heal more quickly than those close together (Fig. 2a).
+                                                                   Author contribution statement EAH conceived, designed, and exe-
+   Many other modular organisms also interact with con-            cuted this study and wrote the manuscript. No other person is entitled
+sumers, just as corals interact with corallivores, perhaps         to authorship.
+in different ways than the coral system observed here. For
+example, while many herbivores may not be attracted to             Funding This study was funded by the National Science Foundation
+plant damage itself (Nykänen and Koricheva 2004), others           (NSF Grant OCE-1130359)
+either are attracted to or avoid pathogens (reviewed in Tack
+                                                                   Data availability The datasets generated and analyzed during this
+and Dicke 2013). The lack of attraction to plant damage sug-       study available from https​://www.bco-dmo.org and are dataset numbers
+gests feedbacks among modular plants and their herbivores          777230, 777110, 777212, and 777273.
+might be less likely to align with those in this study [massive
+Porites and C. violacea, where the consumer is attracted           Compliance with ethical standards
+to damage, (Hamman 2018)]. However, when plants show
+induced defense, interactions might align with the effect          Conflict of interest The author declares that there is no conflict of in-
+of vermetid gastropods on coral morphology (Shima et al.           terest.
+2015), where areas further from damage are more likely             Ethical approval All applicable institutional and/or national guidelines
+to be damaged than areas previously damaged. In fact, the          for the care and use of animals were followed.
+movement of defensive chemicals to ramets of higher risk
+(e.g., younger ramets) in response to herbivory can lead to a
+modification in herbivory patterns as the herbivore’s prefer-
+ence is countered (Chen et al. 2011). Given that herbivores        References
+have the potential alter plant traits [e.g., number of leaves
+                                                                   Adonsou KE, Drobyshev I, DesRochers A, Tremblay F (2016) Root
+and nitrogen content, (Ando and Ohgushi 2008)], spatial
+                                                                       connections affect radial growth of balsam poplar trees. Trees
+feedbacks between grazing and the response of the plant                30:1775–1783. https​://doi.org/10.1007/s0046​8-016-1409-2
+could produce interesting patterns in plant morphology and         Alpert P, Holzapfel C, Slominski C (2003) Differences in performance
+nutrient content.                                                      between genotypes of Fragaria chiloensis with different degrees
+                                                                       of resource sharing. J Ecol 91:27–35
+   In many ways, the patterns observed in this study, emerg-
+                                                                   Ando Y, Ohgushi T (2008) Ant- and plant-mediated indirect effects
+ing from interactions among coral polyps, or potentially sim-          induced by aphid colonization on herbivorous insects on tall
+ilar patterns of damage within a plant, mirror patterns that           goldenrod. Popul Ecol 50:181–189. https​://doi.org/10.1007/s1014​
+might be observed at much larger spatial scales, such as in            4-007-0072-2
+                                                                   Bak RPM (1983) Neoplasia, regeneration and growth in the reef-build-
+meta-populations (White 1979). In meta-populations, extinct
+                                                                       ing coral Acropora palmata. Mar Biol 77:221–227. https​://doi.
+patches are colonized by occupied patches, similarly to how            org/10.1007/BF003​95810​
+coral tissue is regenerated over a lesion via resources from       Bak RPM, Steward-Van Es Y (1980) Regeneration of superficial dam-
+nearby, healthy tissue. In a meta-population, colonists are            age in the Scleractinian Corals Agaricia Agaricites F. Purpurea
+                                                                       and Porites Astreoides. https​://www.ingen​tacon​nect.com/conte​nt/
+the resource, and similarly to how the scale of coral regen-
+                                                                       umrsm​as/bullm​ar/1980/00000​030/00000​004/art00​010
+eration depends on the scale of connectedness within the           Bates D, Mächler M, Bolker B, Walker S (2015) Fitting linear mixed-
+colony, meta-population persistence depends on the spatial             effects models using lme4. J Stat Softw 1(1):2015
+scale of modularity (Fletcher Jr et al. 2013). Therefore, a        Baums IB, Miller MW, Szmant AM (2003) Ecology of a corallivorous
+                                                                       gastropod, Coralliophila abbreviata, on two Scleractinian hosts.
+single patch’s ability to persist is driven by its connections
+                                                                       II. Feeding, respiration and growth. Mar Biol 142:1093–1101.
+to source patches. If damage or disturbance is clustered, then         https​://doi.org/10.1007/s0022​7-003-1053-4
+many extinct patches might be depending on colonists from          Burmester E, Finnerty J, Kaufman L, Rotjan R (2017) Temperature
+the same patches leading to overall population extinction. In          and symbiosis affect lesion recovery in experimentally wounded,
+                                                                       facultatively symbiotic temperate corals. Mar Ecol Prog Ser
+fact, theoretical studies do show overall population extinc-
+                                                                       570:87–99. https​://doi.org/10.3354/meps1​2114
+tion when disturbance is spatially autocorrelated (Johst and       Burmester EM, Breef-Pilz A, Lawrence NF et al (2018) The impact of
+Drechsler 2003; Kallimanis et al. 2005), indicating this               autotrophic versus heterotrophic nutritional pathways on colony
+
+
+13
+Oecologia (2019) 191:621–632                                                                                                                       631
+
+     health and wound recovery in corals. Ecol Evol. https​://doi.           Hayes JA (1990) Distribution, movement and impact of the corallivo-
+     org/10.1002/ece3.4531                                                        rous gastropod Coralliophila abbreviata (Lamarck) on a Pan-
+Cameron C, Edmunds P (2014) Effects of simulated fish predation on                amánian patch reef. J Exp Mar Biol Ecol 142:25–42. https​://doi.
+     small colonies of massive Porites spp. and Pocillopora meand-                org/10.1016/0022-0981(90)90135​-Y
+     rina. Mar Ecol Prog Ser 508:139–148. https​://doi.org/10.3354/          Hellström K, Kytöviita M-M, Tuomi J, Rautio P (2006) Plastic-
+     meps1​0862                                                                   ity of clonal integration in the perennial herb Linaria vulgaris
+Cameron AC, Trivedi PK (1990) Regression-based tests for overdisper-              after damage. Funct Ecol 20:413–420. https​://doi.org/10.111
+     sion in the poisson model. J Econom 46:347–364                               1/j.1365-2435.2006.01115​.x
+Chen J-S, Lei N-F, Liu Q (2011) Defense signaling among intercon-            Hench JL, Leichter JJ, Monismith SG (2008) Episodic circula-
+     nected ramets of a rhizomatous clonal plant, induced by jas-                 tion and exchange in a wave-driven coral reef and lagoon sys-
+     monic-acid application. Acta Oecologica 37:355–360. https​://                tem. Limnol Oceanogr 53:2681–2694. https​://doi.org/10.4319/
+     doi.org/10.1016/j.actao​.2011.04.002                                         lo.2008.53.6.2681
+Clark PJ, Evans FC (1954) Distance to nearest neighbor as a measure          Henry L-A, Hart M (2005) Regeneration from injury and resource
+     of spatial relationships in populations. Ecology 35:445–453. https​          allocation in sponges and corals—a review. Int Rev Hydrobiol
+     ://doi.org/10.2307/19310​34                                                  90:125–158. https​://doi.org/10.1002/iroh.20041​0759
+Clements CS, Hay ME (2018) Overlooked coral predators suppress               Honkanen T, Haukioja E, Kitunen V (1999) Responses of Pinus syl-
+     foundation species as reefs degrade. Ecol Appl 28:1673–1682.                 vestris branches to simulated herbivory are modified by tree sink/
+     https​://doi.org/10.1002/eap.1765                                            source dynamics and by external resources. Funct Ecol 13:126–
+D’Angelo C, Smith EG, Oswald F et al (2012) Locally accelerated                   140. https​://doi.org/10.1046/j.1365-2435.1999.00296​.x
+     growth is part of the innate immune response and repair mecha-          Jayewardene D (2010) Experimental determination of the cost of lesion
+     nisms in reef-building corals as detected by green fluorescent pro-          healing on Porites compressa growth. Coral Reefs 29:131–135.
+     tein (GFP)-like pigments. Coral Reefs 31:1045–1056. https​://doi.            https​://doi.org/10.1007/s0033​8-009-0560-2
+     org/10.1007/s0033​8-012-0926-8                                          Jayewardene D, Donahue MJ, Birkeland C (2009) Effects of frequent
+Davies PS (1989) Short-term growth measurements of corals using                   fish predation on corals in Hawaii. Coral Reefs 28:499–506. https​
+     an accurate buoyant weighing technique. Mar Biol 101:389–395.                ://doi.org/10.1007/s0033​8-009-0475-y
+     https​://doi.org/10.1007/BF004​28135​                                   Johst K, Drechsler M (2003) Are spatially correlated or uncorrelated
+DeFilippo L, Burmester EM, Kaufman L, Rotjan RD (2016) Patterns of                disturbance regimes better for the survival of species? Oikos
+     surface lesion recovery in the Northern Star Coral, Astrangia poc-           103:449–456. https​://doi.org/10.1034/j.1600-0706.2003.12770​.x
+     ulata. J Exp Mar Biol Ecol 481:15–24. https​://doi.org/10.1016/j.       Jompa J, McCook L (2003) Coral-algal competition: macroalgae with
+     jembe​.2016.03.016                                                           different properties have different effects on corals. Mar Ecol Prog
+Denis V, Debreuil J, De Palmas S et al (2011) Lesion regeneration                 Ser 258:87–95. https​://doi.org/10.3354/meps2​58087​
+     capacities in populations of the massive coral Porites lutea at         Kallimanis AS, Kunin WE, Halley JM, Sgardelis SP (2005) Metapopu-
+     Réunion Island: environmental correlates. Mar Ecol Prog Ser                  lation extinction risk under spatially autocorrelated disturbance.
+     428:105–117. https​://doi.org/10.3354/meps0​9060                             In: conservation biology. https​://onlin​elibr​ary.wiley​.com/doi/abs
+Denis V, Guillaume MMM, Goutx M et al (2013) Fast growth may                      /10.1111/j.1523-1739.2005.00418​.x. Accessed 3 Jul 2019
+     impair regeneration capacity in the branching coral Acropora            Katz SM, Pollock FJ, Bourne DG, Willis BL (2014) Crown-of-thorns
+     muricata. PLoS One. https​://doi.org/10.1371/journ​al.pone.00726​            starfish predation and physical injuries promote brown band dis-
+     18                                                                           ease on corals. Coral Reefs 33:705–716. https​://doi.org/10.1007/
+Edmunds PJ, Lenihan HS (2010) Effect of sub-lethal damage to juve-                s0033​8-014-1153-2
+     nile colonies of massive Porites spp. under contrasting regimes of      Kuznetsova A, Brockhoff PB, Christensen RHB (2017) lmerTest pack-
+     temperature and water flow. Mar Biol 157:887–897. https​://doi.              age: tests in linear mixed effects models. J Stat Softw. https​://doi.
+     org/10.1007/s0022​7-009-1372-1                                               org/10.18637​/jss.v082.i13
+Edmunds PJ, Yarid A (2017) The effects of ocean acidification on             Lester RT, Bak RPM (1985) Effects of environment on regeneration
+     wound repair in the coral Porites spp. J Exp Mar Biol Ecol                   rate of tissue lesions in the reef coral Montastraea annularis
+     486:98–104. https​://doi.org/10.1016/j.jembe​.2016.10.001                    (Scleractinia). Mar Ecol Prog Ser 24:183–185
+Fine M, Oren U, Loya Y (2002) Bleaching effect on regeneration and           Littler MM, Taylor PR, Littler DS (1989) Complex interactions in
+     resource translocation in the coral Oculina patagonica. Mar Ecol             the control of coral zonation on a Caribbean reef flat. Oecologia
+     Prog Ser 234:119–125. https​://doi.org/10.3354/meps2​34119​                  80:331–340. https​://doi.org/10.1007/BF003​79034​
+Fisher E, Fauth J, Hallock P, Woodley C (2007) Lesion regeneration           Marbà N, Hemminga M, Mateo M et al (2002) Carbon and nitro-
+     rates in reef-building corals Montastraea spp. as indicators of              gen translocation between seagrass ramets. Mar Ecol Prog Ser
+     colony condition. Mar Ecol Prog Ser 339:61–71. https​://doi.                 226:287–300. https​://doi.org/10.3354/meps2​26287​
+     org/10.3354/meps3​39061​                                                Mascarelli PE, Bunkley-Williams L (1999) An experimental field eval-
+Fletcher RJ Jr, Revell A, Reichert BE et al (2013) Network modularity             uation of healing in damaged, unbleached and artificially bleached
+     reveals critical scales for connectivity in ecology and evolution.           star coral, Montastraea annularis. https​://www.ingen​tacon​nect.
+     Nat Commun 4:2572. https​://doi.org/10.1038/ncomm​s3572​                     com/conte​nt/umrsm​as/bullm​ar/1999/00000​065/00000​002/art00​
+Goodsman DW, Lusebrink I, Landhäusser SM et al (2013) Variation in                019. Accessed 7 Jul 2019
+     carbon availability, defense chemistry and susceptibility to fungal     Meesters EH, Bak RPM (1993) Effects of coral bleaching on tissue
+     invasion along the stems of mature trees. New Phytol 197:586–                regeneration potential and colony survival. Mar Ecol Prog Ser
+     594. https​://doi.org/10.1111/nph.12019​                                     96:189–198
+Hall VR (1997) Interspecific differences in the regeneration of artificial   Meesters EH, Bos A, Gast GJ (1992) Effects of sedimentation and
+     injuries on Scleractinian corals. J Exp Mar Biol Ecol 212:9–23.              lesion position on coral tissue regeneration. In: Proceedings of the
+     https​://doi.org/10.1016/S0022​-0981(96)02760​-8                             7th International Coral Reef Symposium pp 681–688
+Hamman EA (2018) Aggregation patterns of two corallivorous snails            Meesters E, Noordeloos M, Bak R (1994) Damage and regeneration:
+     and consequences for coral dynamics. Coral Reefs 37:851–860.                 links to growth in the reef-building coral Montastr annularis. Mar
+     https​://doi.org/10.1007/s0033​8-018-1712-z                                  Ecol Prog Ser 112:119–128. https​://doi.org/10.3354/meps1​12119​
+
+
+
+                                                                                                                                          13
+632                                                                                                                  Oecologia (2019) 191:621–632
+
+Meesters E, Pauchli W, Bak R (1997) Predicting regeneration of             Sheridan C, Grosjean P, Leblud J et al (2014) Sedimentation rapidly
+     physical damage on a reef-building coral by regeneration capac-            induces an immune response and depletes energy stores in a hard
+     ity and lesion shape. Mar Ecol Prog Ser 146:91–99. https​://doi.           coral. Coral Reefs 33:1067–1076. https​://doi.org/10.1007/s0033​
+     org/10.3354/meps1​46091​                                                   8-014-1202-x
+Miller MW (2001) Corallivorous snail removal: evaluation of impact         Shima JS, Osenberg CW, Stier AC (2010) The vermetid gastropod
+     on Acropora palmata. Coral Reefs 19:293–295. https​://doi.                 Dendropoma maximum reduces coral growth and survival. Biol
+     org/10.1007/PL000​06963​                                                   Lett 6:815–818. https​://doi.org/10.1098/rsbl.2010.0291
+Nykänen H, Koricheva J (2004) Damage-induced changes in woody              Shima JS, McNaughtan D, Strong AT (2015) Vermetid gastropods
+     plants and their effects on insect herbivore performance: a                mediate within-colony variation in coral growth to reduce rugo-
+     meta-analysis. Oikos 104:247–268. https ​ : //doi.org/10.111               sity. Mar Biol 162:1523–1530. https​://doi.org/10.1007/s0022​
+     1/j.0030-1299.2004.12768​.x                                                7-015-2688-7
+Oborny B (2019) The plant body as a network of semi-autonomous             Stuefer JF, Gómez S, van Mölken T (2004) Clonal integration beyond
+     agents: a review. Philos Trans R Soc Lond B Biol Sci. https​://doi.        resource sharing: implications for defence signalling and disease
+     org/10.1098/rstb.2018.0371                                                 transmission in clonal plant networks. Evol Ecol 18:647–667.
+Oren U, Benayahu Y, Loya Y (1997a) Effect of lesion size and shape              https​://doi.org/10.1007/s1068​2-004-5148-2
+     on regeneration of the Red Sea coral Favia favus. Mar Ecol Prog       Tack AJM, Dicke M (2013) Plant pathogens structure arthropod com-
+     Ser 146:101–107. https​://doi.org/10.3354/meps1​46101​                     munities across multiple spatial and temporal scales. Funct Ecol
+Oren U, Rinkevich B, Loya Y (1997b) Oriented intra-colonial transport           27:633–645. https​://doi.org/10.1111/1365-2435.12087​
+     of 14C labeled materials during coral regeneration. Mar Ecol Prog     Titlyanov EA, Titlyanova TV, Yakovleva IM et al (2005) Regeneration
+     Ser 161:117–122. https​://doi.org/10.3354/meps1​61117​                     of artificial injuries on Scleractinian corals and coral/algal compe-
+Oren U, Brickner I, Loya Y (1998) Prudent sessile feeding by the cor-           tition for newly formed substrate. J Exp Mar Biol Ecol 323:27–42.
+     allivore snail, Coralliophila violacea on coral energy sinks. Proc         https​://doi.org/10.1016/j.jembe​.2005.02.015
+     Biol Sci 265:2043–2050. https​://doi.org/10.1098/rspb.1998.0538       Van Veghel M, Bak RPM (1994) Reproductive characteristics of the
+Palmer CV, Traylor-Knowles NG, Willis BL, Bythell JC (2011) Corals              polymorphic Caribbean reef building coral Montastrae annularis.
+     use similar immune cells and wound-healing processes as those of           111. Reproduction in damaged and regenerating colonies. Mar
+     higher organisms. PLoS One 6:e23992. https​://doi.org/10.1371/             Ecol Prog Ser 109:229–233
+     journ​al.pone.00239​92                                                van Woesik R (1998) Lesion healing on massive Porites spp. corals.
+Rotjan RD, Dimond JL (2010) Discriminating causes from conse-                   Mar Ecol Prog Ser 164:213–220
+     quences of persistent parrotfish corallivory. J Exp Mar Biol Ecol     Wahle CM (1983) Regeneration of injuries among Jamaican gorgo-
+     390:188–195. https​://doi.org/10.1016/j.jembe​.2010.04.036                 nians: the roles of colony physiology and environment. Biol Bull
+Rotjan R, Lewis S (2008) Impact of coral predators on tropical reefs.           165:778–790. https​://doi.org/10.2307/15414​78
+     Mar Ecol Prog Ser 367:73–91. https​://doi.org/10.3354/meps0​7531      Wei Q, Li Q, Jin Y et al (2019) Transportation or sharing of stress sig-
+Ruiz-Diaz CP, Toledo-Hernandez C, Mercado-Molina AE et al (2016)                nals among interconnected ramets improves systemic resistance
+     The role of coral colony health state in the recovery of lesions.          of clonal networks to water stress. Funct Plant Biol 46:613. https​
+     Peer J 4:e1531. https​://doi.org/10.7717/peerj​.1531                       ://doi.org/10.1071/FP182​32
+Sabine AM, Smith TB, Williams DE, Brandt ME (2015) Environmen-             Welsh JQ, Bonaldo RM, Bellwood DR (2015) Clustered parrotfish
+     tal conditions influence tissue regeneration rates in Scleractinian        feeding scars trigger partial coral mortality of massive Porites
+     corals. Mar Pollut Bull 95:253–264. https​://doi.org/10.1016/j.            colonies on the inshore Great Barrier Reef. Coral Reefs 34:81–86.
+     marpo​lbul.2015.04.006                                                     https​://doi.org/10.1007/s0033​8-014-1224-4
+Schmid B, Puttick GM, Burgess KH, Bazzaz FA (1988) Clonal inte-            White J (1979) The plant as a metapopulation. Annu Rev Ecol Syst
+     gration and effects of simulated herbivory in old-field perennials.        10:109–145. https​://doi.org/10.1146/annur​ev.es.10.11017​9.00054​
+     Oecologia 75:465–471. https​://doi.org/10.1007/BF003​76953​                5
+Schoepf V, Herler J, Zuschin M (2010) Microhabitat use and prey            You W-H, Han C-M, Liu C-H, Yu D (2016) Effects of clonal inte-
+     selection of the coral-feeding snail Drupella cornus in the north-         gration on the invasive clonal plant Alternanthera philoxeroides
+     ern Red Sea. Hydrobiologia 641:45–57. https​://doi.org/10.1007/            under heterogeneous and homogeneous water availability. Sci Rep
+     s1075​0-009-0053-x                                                         6:29767. https​://doi.org/10.1038/srep2​9767
+Shaver EC, Burkepile DE, Silliman BR (2018) Local management               Yu F, Dong M, Krüsi B (2004) Clonal integration helps Psammoch-
+     actions can increase coral resilience to thermally-induced bleach-         loa villosa survive sand burial in an inland dune. New Phytol
+     ing. Nat Ecol Evol 2:1075–1079. https​://doi.org/10.1038/s4155​            162:697–704. https​://doi.org/10.1111/j.1469-8137.2004.01073​.x
+     9-018-0589-0
+
+
+
+
+13
+

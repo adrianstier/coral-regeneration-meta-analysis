@@ -1,0 +1,12 @@
+field,schema_status,recommended_resolution
+taxon_count,present_model_covariate_layer,Use META_ANALYSIS_COVARIATES.csv and the paired model-status columns.
+genus,present_model_covariate_layer,Use META_ANALYSIS_COVARIATES.csv and the paired model-status columns.
+family,present_model_covariate_layer,Use META_ANALYSIS_COVARIATES.csv and the paired model-status columns.
+growth_form_standard,present_model_covariate_layer,Use META_ANALYSIS_COVARIATES.csv and the paired model-status columns.
+taxonomy_family,covered_by_model_covariate_alias,Use `family` in META_ANALYSIS_COVARIATES.csv instead of adding a duplicate alias.
+skeletal_porosity,present_model_covariate_layer,Use META_ANALYSIS_COVARIATES.csv and the paired model-status columns.
+porosity,covered_by_model_covariate_alias,Use `skeletal_porosity` in META_ANALYSIS_COVARIATES.csv instead of adding a duplicate alias.
+perforate_status,covered_by_model_covariate_alias,Use `skeletal_porosity` in META_ANALYSIS_COVARIATES.csv instead of adding a duplicate alias.
+imperforate_status,covered_by_model_covariate_alias,Use `skeletal_porosity` in META_ANALYSIS_COVARIATES.csv instead of adding a duplicate alias.
+clade,absent,Add a taxon-level trait table and join it to model covariates.
+coral_taxon_id,absent,Add a taxon-level trait table and join it to model covariates.

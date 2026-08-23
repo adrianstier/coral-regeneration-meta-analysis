@@ -1,0 +1,8 @@
+severity,check_id,source_id,row_id,file,message,expected,observed
+warning,no_analysis_ready_rate_rows,,,data/extraction/rate/RATE_SOURCE_INDEX.csv,"No source, curated observation, or seed effect row is currently marked analysis-ready.",analysis-ready rows after independent QC,0
+info,rate_route_count,,curated_values_available_needs_qc,data/extraction/rate/RATE_SOURCE_INDEX.csv,Current source-level extraction route count.,,12
+info,rate_route_count,,needs_figure_or_table_digitization,data/extraction/rate/RATE_SOURCE_INDEX.csv,Current source-level extraction route count.,,33
+info,rate_route_count,,not_extractable_no_valid_figure_or_table_candidate,data/extraction/rate/RATE_SOURCE_INDEX.csv,Current source-level extraction route count.,,1
+info,rate_route_count,,not_rate_extractable_wrong_response_assignment,data/extraction/rate/RATE_SOURCE_INDEX.csv,Current source-level extraction route count.,,1
+info,rate_route_count,,seed_values_available_needs_provenance_qa,data/extraction/rate/RATE_SOURCE_INDEX.csv,Current source-level extraction route count.,,10
+warning,digitization_remaining,,,data/extraction/rate/RATE_SOURCE_INDEX.csv,Rate sources still need figure/table digitization before pooling.,,33

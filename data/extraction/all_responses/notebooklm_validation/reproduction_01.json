@@ -1,0 +1,521 @@
+{
+  "answer": "| source_id | response variables measured | taxon | wound/fragment/colony size information | timepoints or monitoring duration | sample size and variance if reported | environmental setting | experimental treatments or stressors | key missing covariates |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| **Hall_1998** | Colony growth, regeneration, survival, and reproduction (fecundity and egg volume) [1, 2] | *Acropora hyacinthus*, *Acropora gemmifera*, and *Goniastrea retiformis* [3, 4] | Large colonies selected (projected areas: 2067 ± 134 cm², 329 ± 18 cm², 250 ± 11 cm²) [5]; injury sizes at 8%, 16%, and 25% of colony projected area (standardized to 75 cm²) [6, 7] | 9-month monitoring duration (February to November 1994) [2, 8] | N = 20 colonies per species/treatment initially [5]; variance reported as standard error (S.E.) [5, 9] | Mermaid Cove, Lizard Island, Great Barrier Reef, Australia (reef crest) [4, 10, 11] | Injury size treatments (8%, 16%, 25%) and repetitive injury frequency (once, twice, or three times) [6] | Seawater temperature, pH, carbonate chemistry, light/PAR, and flow speed [12, 13] |\n| **Lirman_2000** | Fragment tissue mortality, proto-branch linear growth and linear extension, and gamete presence/absence [14-17] | *Acropora palmata* [14] | Fragments: small (20–50 cm), medium (51–80 cm), large (81–145 cm) [17]; mean area: 289.3 ± 16.1 cm² vs. removed at 77.6 ± 13.4 cm² [18]; colony canopy: 91–193 cm [19] | June–October 1994 (transplants) [20, 21]; 4 years (1993–1997) for growth [22]; annually (1995–1997) for reproduction [17] | Transplants: n = 12–13 per substratum [20]; colony growth: n = 30 [17]; reproduction: n = 5–11 per size category [23]; variance reported as S.E. [18, 24] | Elkhorn Reef (1–3 m depth) and Ball Buoy Reef (2–5 m depth), northern Florida Reef Tract [25] | Substratum type (hard-bottom, rubble, sand, live coral) [20]; previous colony damage history (fragmented vs. unfragmented) [16, 17] | Continuous temperature, pH, salinity, nutrients, and flow speed [23] |\n| **Oren_2001** | Lesion area recovery (%), polyp fecundity (oocytes/septum), and oocyte diameter [26-28] | *Favia favus* [26] | Colony surface areas: small (71 ± 20 cm²), intermediate (431 ± 176 cm²), large (1204 ± 313 cm²), very large (1569 ± 228 cm²) [29]; lesions: SP (87 ± 14 mm²), E-2 (182 ± 16 mm²), E-3 (274 ± 35 mm²), E-10 (958 ± 93 mm²) [30, 31] | Monthly for 3 months (recovery) [27]; February to June 1996 (reproduction) [28, 32] | Size recovery: n = 8 per class per lesion type (n = 6 for very large) [29, 33]; reproduction: n = 8 per treatment (n = 10 for controls) [32, 34]; variance reported as S.D. [29, 31] | Shallow reef (2–3 m depth), Eilat, Red Sea, Israel [35, 36] | Lesion type/geometry (SP, E-2, E-3, E-10) [30, 34]; colony size class [29]; injury frequency (one-time vs. monthly repeated) [32, 37] | Seawater temperature, pH, salinity, nutrients, and flow speed [31, 38] |\n| **Rotjan_2009** | Total gonads, total eggs, egg size (area), eggs per gonad, and reproductive allocation (% of polyp volume) [39-42] | *Montastraea annularis* [39] | Colony surface area: 176–9,020 cm² [43]; natural grazing scar density: 4.86 bites/dm² (11–135 bites per colony) [44] | Cross-sectional collection; tissue sampled 2–5 days prior to spawning in late August 2005 (scars 2–4 weeks old) [45, 46] | N = 24 clusters (blocks) of 3 paired samples (72 samples/720 polyps total) [47]; subset n = 13 clusters for egg sizes/volumes [40]; variance reported as S.E. [44, 48, 49] | Shallow upper spur and groove habitat (6–9 m depth), Southwater Caye, Belizean barrier reef [46, 50] | Natural corallivory stress: grazed tissue (Gg) vs. adjacent intact tissue (Gi) vs. uninjured control tissue (I) [44, 47] | Continuous temperature, pH, salinity, nutrients, and water flow speed [48, 51] |\n| **Soong_1992** | Fecundity, gonad index, presence/absence of gonads (fertility), and colony puberty size at maturation [52-55] | 10 Caribbean species (e.g., *S. siderea*, *P. astreoides*, *S. radians*) [56] | Maturation size ranges (e.g., *S. siderea* 20–70 cm, *P. astreoides* 15–25 cm, *S. radians* 3.5–8 cm) [53]; puberty size calculated as surface area [57]; wound size: hacksaw cut ~1 cm deep, 2 mm wide [53] | Surveyed over 13 months (July 1987 to August 1988) [52]; manipulated colonies collected 4–5 months after wounding [53] | Maturation: n = 41–501 colonies per species [58]; manipulation: n = 10 per treatment [53]; variance reported as S.E. in figures [59, 60] | Shallow reefs along the Caribbean coast of Panama [61] | Maturation size classes [62]; artificial margin wounding (tissue cut, cut and fill with epoxy, or total cut) [53] | Seawater temperature, pH, salinity, nutrients, and water flow speed [62, 63] |\n| **Van_Veghel_1994** | Regeneration rate, fecundity (eggs/polyp), gonads per polyp, fertility (%), and eggs per gonad [64-66] | *Montastrea annularis* ('Bumpy', 'Massive', 'Columnar' morphs) [64] | Haphazardly selected colonies [67]; initial projected lesion area: 160 ± 20 mm², depth: 4 ± 0.8 mm (10 mm diameter grinding point) [67] | Lesions made in July 1992, sampled at Day 63 (10 weeks) for reproduction, monitored for 23 weeks (161 days) [65, 68, 69] | N = 25 colonies per morph for recovery [67]; reproduction checked in 10 colonies per morph across 3 categories [66]; variance reported as S.D. [67, 70] | CARMABI Buoy 1, Curaçao (leeward reef, 11–16 m depth) [65] | Morphotype differences ('Bumpy', 'Massive', 'Columnar') [64]; tissue location relative to lesion (regenerated vs. adjacent vs. control) [66] | Seawater temperature, pH, light/PAR, sediment deposition rate, and nutrient concentrations [70, 71] |\n| **Ward_1995** | Survival/mortality, growth (linear extension), lipid storage, larval capture, larval lipid content, and IRP [72-76] | *Pocillopora damicornis* [72] | Colony size: 30–50 cm diameter [77]; fragmentation: 50% branches broken throughout colony [77] | 14 sampling dates over 13 months (July 1988 to September 1989) [72, 78] | N = 4 to 10 colonies per category per site [78]; variance reported as standard errors (S.E.) in figures [79, 80] | Little Salmon Bay and Mary Cove, Rottnest Island, Western Australia (temperate reefs) [72, 81] | Fragmentation (50% branches broken) crossed with dislodgement (knocked onto sand/rock/seagrass below), across 2 sites [77, 82] | Continuous temperature logs, pH, salinity, and water flow velocities [83, 84] |\n\n***\n\n🔍 Would you like me to construct a standardized Python data cleaning script to normalize these disparate colony size metrics (such as projected areas, canopy diameters, and linear branch lengths) into a single comparable scale?",
+  "conversation_id": "e1a4c269-6535-4de1-aff1-bda941ff6a53",
+  "sources_used": [
+    "2b8676ad-34ad-450c-8649-095d5be68458",
+    "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+    "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d"
+  ],
+  "citations": {
+    "1": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "2": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "3": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "4": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "5": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "6": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "7": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "8": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "9": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "10": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "11": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "12": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "13": "2b8676ad-34ad-450c-8649-095d5be68458",
+    "14": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "15": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "16": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "17": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "18": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "19": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "20": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "21": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "22": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "23": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "24": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "25": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+    "26": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "27": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "28": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "29": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "30": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "31": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "32": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "33": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "34": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "35": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "36": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "37": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "38": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+    "39": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "40": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "41": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "42": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "43": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "44": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "45": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "46": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "47": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "48": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "49": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "50": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "51": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+    "52": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "53": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "54": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "55": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "56": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "57": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "58": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "59": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "60": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "61": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "62": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "63": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+    "64": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+    "65": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+    "66": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+    "67": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+    "68": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+    "69": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+    "70": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+    "71": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+    "72": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "73": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "74": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "75": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "76": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "77": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "78": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "79": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "80": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "81": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "82": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "83": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+    "84": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d"
+  },
+  "references": [
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 1,
+      "cited_text": "damage: the larger or more frequent the injury, the greater the impact.  The injury sizes comprised 8%, 16% and 25% of the colony while the repetitive treatments included colonies that were injured twice and three times over nine months.  The response variables measured were survival, colony growth, regeneration and reproduction. There was no effect of injury size or frequency of damage on the survival or growth of colonies over nine months for the three species.  Additionally, all species responded to"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 2,
+      "cited_text": "respectively).  The type of injury inflicted on colonies was tissue mortality.  Tissue was removed by blowing away the tissue with compressed air (see chapters 3 and 4). Colonies were monitored photographically in February, May, August and November. To relocate the experimental colonies at each census, horticultural tags were nailed to the substratum close to the colony.  At each photographic census, a 33 cm2 tile was placed on the colony as a measure of scale.  The response variables measured in this"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 3,
+      "cited_text": "degrees of settlement by other organisms, intensities of damage, and amounts of resources available for regeneration all contributed to the differences in recovery rates found between injuries with varying characteristics. The regeneration of injuries requires resources that are in limited supply.  In this study, there was a marked effect of injury on reproduction for A. hyacinthus, A. gemmifera and G. retiformis, inferring a trade-off between reproduction and regeneration.  Presumably the resources usually available for gamete production are being reallocated towards"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 4,
+      "cited_text": "1995; Meesters et al. 1997b; Oren et al. 1997; Chapters 3 and 4). 5.3.   MATERIALS AND METHODS To quantify the effects of size of injury and frequency of damage on growth, survival and reproduction, colonies of three species of scleractinian corals were experimentally injured and their recovery was monitored.  This experiment was conducted at Mermaid Cove, Lizard Island, Australia (Figure 2.1).  The three species, Acropora hyacinthus, A. gemmifera and Goniastrea retiformis were selected because they have contrasting life-"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 5,
+      "cited_text": "(i.e. 20 colonies per species and treatment) to prevent the confounding of results with natural injury events.  Only colonies where natural injury levels did not exceed 5% of the colony area during the experiment were used in the final analysis, resulting in an unbalanced design.  Additionally, only large colonies from each species were selected to avoid any effect of colony size (average projected area + 1 se = 2067 + 134 cm2, 329 + 18 cm2 and 250 + 11 cm2 for A. hyacinthus, A. gemmifera, and G. retiformis,"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 6,
+      "cited_text": "5.3.1.   Response to injury: experimental design Two aspects of damage were investigated for the three species (Figure 5.1).  The first was injury size where 8% (Tr 1), 16% (Tr 2) and 25% (Tr 3) of colonies were injured. The second was repetitive injury where colonies were injured twice (initially and three months later, Tr 4) or three times (initially, three months and six months later, Tr 5). For repetitive injury, the level of damage inflicted at each injury event was 8% of the colony.  Undamaged colonies were used as controls for injury size while the controls"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 7,
+      "cited_text": "were log(10) transformed and the data for polyp fecundity were arcsine square-root transformed. 5.3.4.  The loss of reproductive output as a result of injury The amount of reproductive output lost from an injury measuring 75 cm2 projected area for each species was determined for the female component of reproduction using the following formula:  Loss of reproductive output  =  egg volume per polyp (mm3)  * polyp density per unit projected area (cm2)  *  projected area of injury (75 cm2).  Values"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 8,
+      "cited_text": "simultaneously over a few consecutive nights each spring (Harrison et al. 1984; Willis et al. 1985).  The experiment was initiated in February 1994, just prior to the onset of oogenesis in these species, and terminated in early November of the same year, just before mass spawning.  This timing allowed for the collection of mature gonads from corals.  At this stage of development, eggs and testes are clearly identifiable, and meaningful comparisons can be made between species and injury regimes."
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 9,
+      "cited_text": "for each species.  (b)  The amount of regeneration (cm2) over nine months, adjusted for initial injury size by ANCOVA, for each injury treatment by species.  (Error bars represent one standard error, and the numbers below each data point correspond to the number of colonies used in the analysis). C on tro l Tr  1 Tr  2 Tr  3 Tr  4 Tr  5 C on tro l Tr  1 Tr  2 Tr  3 Tr  4 Tr  5 C on tro l Tr  1 Tr  2 Tr  3 Tr  4 Tr  5 100 316 1000 3160 Tr  1 Tr  2 Tr  3 Tr  4 Tr  5 Tr  1 Tr  2 Tr  3 Tr  4 Tr  5 Tr  1"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 10,
+      "cited_text": "in the past. 2.3.1. Description of study sites This study was conducted on the fringing reefs around Lizard Island (14040’, 145028’), a continental island of the Great Barrier Reef, approximately 25 km off the eastern coast of mainland Australia.  The Lizard Island complex consists of Lizard Island and three smaller islands, Palfrey, South, and Bird Islets, all of which are connected by reefs (Pichon and Morrissey 1981).  These islands are protected from oceanic swells by the outer barrier reef.  The study sites were South Reef, Lizard Head, Washing Machine,"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 11,
+      "cited_text": "North Reef, and Mermaid Cove (Figure 2.1).  South Reef and Washing Machine are exposed sites subjected to the dominant southeast trade winds.  In contrast, Mermaid Cove, North Reef and Washing Machine are relatively protected sites, sheltered from the southeast trade winds by Lizard Island.  The section of reef that was examined at all sites was the reef crest.  The reef crest is defined as the narrow strip of reef between the reef flat and reef slope (Pichon and Morrissey 1981). 2.3.2.   Spatial patterns of injury"
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 12,
+      "cited_text": "There was a significant localised decline of all measured reproductive parameters for all species in response to injury (Table 5.3).  This response was not exacerbated by injury size or frequency of damage with the exception of polyp fecundity for colonies of A. gemmifera that had been injured three times (Table 5.3, Figure 5.3b). Table 5.1. Summary of ANCOVA results testing the effects of injury size and frequency on colony growth (cm2) and regeneration (cm2) for each species.  The covariate for colony growth is initial colony size and the covariate for regeneration is injury size."
+    },
+    {
+      "source_id": "2b8676ad-34ad-450c-8649-095d5be68458",
+      "citation_number": 13,
+      "cited_text": "0.084 0.107 0.133,65 0.022,51 0.940 0.984 G. retiformis Colony Growth Regeneration 1.835,77 0.444,56 0.117 0.780 7391,77 8.351,56 0.000 0.006 0.801,77 0.201,56 0.373 0.656 0.561,77 0.271,56 0.458 0.609 1.303,77 0.902,56 0.279 0.412 92 Table 5.2. Summary of ANOVA results testing colony-wide effects of injury size and frequency on egg volume per polyp (mm3), and the proportion of polyps with mature gonads (polyp fecundity) for the three species. Response  Injury   Tr 2 vs Tr 4   Tr 3 vs Tr 5   Size"
+    },
+    {
+      "source_id": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+      "citation_number": 14,
+      "cited_text": "Journal of Experimental Marine Biology and Ecology 251 (2000) 41–57 www.elsevier.nl / locate / jembe Fragmentation in the branching coral Acropora palmata (Lamarck): growth, survivorship, and reproduction of colonies and fragments *Diego Lirman Center for Marine and Environmental Analyses, Rosenstiel School of Marine and Atmospheric Science, University of Miami, 4600 Rickenbacker Causeway, Miami, FL 33149, USA Received 2 March 1999; accepted 17 March 2000 Abstract Acropora palmata, a branching coral abundant on shallow reef environments throughout the Caribbean, is susceptible to physical disturbance caused by storms. Accordingly, the survivorship and propagation of this species are tied to its capability to recover after fragmentation. Fragments of A. palmata comprised 40% of ramets within populations that had experienced recent storms. While the survivorship of A. palmata fragments was not directly related to the size of fragments, removal of fragments from areas where they settled was influenced by size. Survivorship of fragments was also affected by type of substratum; the greatest mortality (58% loss within the first month) was observed on sand, whereas fragments placed on top of live colonies of A. palmata fused to the underlying tissue and did not experience any losses. Fragments created by Hurricane Andrew on a Florida reef in August 1992 began developing new growth (proto-branches) 7 months after the storm. The number of proto-branches on fragments was dependent on size, but growth was not affected by the size of fragments. Growth-rates of proto-branches increased"
+    },
+    {
+      "source_id": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+      "citation_number": 15,
+      "cited_text": "21 21exponentially with time (1.7 cm year for 1993–1994, 2.7 cm year for 1994–1995, 4.2 cm 21 21year for 1995–1996, and 6.5 cm year for 1996–1997), taking over 4 years for proto-branches 21to achieve rates comparable to those of adult colonies on the same reef (6.9 cm year ). In addition to the initial mortality and reduced growth-rates, fragmentation resulted in a loss of reproductive potential. Neither colonies that experienced severe fragmentation nor fragments contained gametes until 4 years after the initial damage. Although A. palmata may survive periodic fragmentation, the long-term effects of this process will depend ultimately on the balance between the benefits and costs of this process.  2000 Elsevier Science B.V. All rights reserved."
+    },
+    {
+      "source_id": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+      "citation_number": 16,
+      "cited_text": "Mean percent tissue mortality for fragments was estimated as: n IA 2 FA ]]]S DO IAi51 ]]]]]*100n 46 D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 –57 2 2where IA5initial live tissue area (cm ), FA5final live tissue area (cm ), n5number of fragments. To test the hypothesis that fragmentation will affect the survivorship of fragmented colonies, fragmented and unfragmented colonies were surveyed on Elkhorn and Ball Buoy Reefs between 1993 and 1997 (n525 fragmented and 25 unfragmented colonies per reef). Fragmented colonies had one to three branches recently removed as evidenced by the presence of skeletal lesions (Fong and Lirman, 1995)."
+    },
+    {
+      "source_id": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+      "citation_number": 17,
+      "cited_text": "The linear extension of branches on 30 colonies of A. palmata was measured over a 6-month period between May–November, 1996 at Elkhorn Reef. Three branches were marked per colony and an average extension-rate was obtained for each colony. Growth-rates of proto-branches were compared to the growth-rates of standing colonies. 2.6. Fragmentation and sexual reproduction The reproductive state of colonies and fragments was determined 1 week prior to the predicted spawning dates in 1995–1997 to test the hypothesis that fragmentation will have negative effects on sexual reproduction as resources are directed away from this process and into repair and re-growth. Tissue samples were collected from: (1) small fragments (longest dimension520–50 cm), (2) medium fragments (51–80 cm), (3) large fragments (81–145 cm), (4) colonies damaged by storms (three or more branches missing), and (5) undamaged colonies (no signs of fragmentation). All of the samples were collected from units that had been identified after Hurricane Andrew on Elkhorn Reef and after Tropical Storm Gordon on Ball Buoy Reef, establishing their disturbance"
+    },
+    {
+      "source_id": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+      "citation_number": 18,
+      "cited_text": "48 D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 –57 the size of those fragments that remained within transplant sites and those that were carried away; fragments removed from the reef by waves and currents were significantly 2smaller (mean size577.6 (613.4) cm , n510) than those fragments that remained 2(289.3 (616.1) cm , n540, Mann–Whitney U-test, P,0.05). Non-parametric tests were used to compare size of fragments in this case because even though variances were homogeneous (Bartlett’s test, P.0.1), the size-distribution of those fragments that were removed from the reef was not normal (Shapiro–Wilk test, P,0.05) and no data transformations were successful in achieving normality (Sokal and Rohlf, 1981)."
+    },
+    {
+      "source_id": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+      "citation_number": 19,
+      "cited_text": "a Colonies on Elkhorn Reef (ER) were fragmented during Hurricane Andrew (August 1992). Colonies on Ball Buoy Reef (BBR) were fragmented during Tropical Storm Gordon (November 1994). Mean size (61 S.E.) was estimated as longest length of live tissue on fragments and maximum canopy diameter on colonies. 52 D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 –57 palmata fragments sampled at Elkhorn Reef had gametes, irrespective of size. A lack of gametes also occurred in adult colonies that had been damaged by the hurricane. The only samples that contained gametes in 1995 were taken from undamaged colonies. In August, 1996, neither small nor medium fragments had any gametes, but two of six large fragments sampled were reproductive. Colonies, both damaged and undamaged, had gametes at this time. In July, 1997, a high proportion of both damaged and undamaged colonies had gametes (seven of nine colonies sampled from each group). Also, three of seven medium fragments and five of seven large fragments had gametes. In contrast, none of the small fragments surveyed had gametes in 1997."
+    },
+    {
+      "source_id": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+      "citation_number": 20,
+      "cited_text": "2.4. Survivorship of fragments and colonies In a previous study, the survivorship of A. palmata fragments was monitored starting 7 months after Hurricane Andrew (Lirman and Fong, 1997b). Because these fragments were not marked until 7 months after fragmentation, no information was obtained on early survivorship (0–6 months). In the present study, the hypothesis that early survivorship will be affected by the size of fragments and type of substratum was evaluated using a transplant experiment. Fifty fragments of A. palmata created by a ship grounding on Elkhorn Reef were collected within 24 h of fragmentation and assigned haphazardly to one of the following four types of substratum (n 5 12–13 fragments per group): (1) hard-bottom (consoli-dated carbonate framework), (2) rubble (loose, dead pieces of A. palmata and A. cervicornis), (3) sand, and (4) live coral. All transplant sites were located in the back-reef area of Elkhorn Reef at a depth of 2 m. Maximum distance between transplant sites was 50 m. Each fragment was labeled with a metal tag, photographed with a fixed-distance framer and transported to the transplant sites where they were placed individually on the bottom separated from each other by at least 50 cm. Fragments transplanted onto live coral were placed on top of A. palmata colonies. Photographs of each fragment were taken at monthly intervals starting in June, 1994; size was determined by digitizing the developed prints using NIH Image Analysis Software."
+    },
+    {
+      "source_id": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+      "citation_number": 21,
+      "cited_text": "Partial mortality on fragments was high initially as 35.5% (66.5) of live tissue was lost within the first month. Although mortality continued, subsequent losses were not as high as those recorded during the first month (38.4 (66.4), 45.7 (66.9), and 47.1% (63.4) after 2, 3, and 4 months, respectively). Fragments placed on sand were covered by sediments and showed signs of bleaching within a week. Fragments placed on live A. palmata colonies fused to the underlying tissue without any apparent tissue rejection within 3 weeks."
+    },
+    {
+      "source_id": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+      "citation_number": 22,
+      "cited_text": "determine the number of proto-branches growing on a fragment as well as their growth-rates. Also, the growth of proto-branches was followed over a longer period of 4 years (1993–1997) to document the development of the branching patterns leading to the tree-like morphology seen on adult colonies. All of the fragments studied were originated during Hurricane Andrew in August, 1992 and found in the back-reef area of Elkhorn Reef. Over 100 of these fragments were labelled with numbered metal tags after the hurricane and a subset of 30 was chosen at random for this study by their tag number. The growth of proto-branches was averaged within fragments."
+    },
+    {
+      "source_id": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+      "citation_number": 23,
+      "cited_text": "Table 2 aReproductive state of Acropora palmata colonies and fragments Date Type Reef Mean size (cm) n % With gametes 8 /95 Fragment / small ER 28.8 (4.8) 5 0 8/95 Fragment /medium ER 63.4 (2.5) 5 0 8/95 Fragment / large ER 131.0 (12.1) 5 0 8/95 Colony/damaged ER 193.0 (27.4) 5 0 8/95 Colony/undamaged ER 161.0 (49.0) 5 80 8/95 Fragment BBR 48.6 (9.9) 6 0 8/95 Colony/damaged BBR 91.0 (23.8) 11 18 8/96 Fragment / small ER 35.8 (7.2) 6 0 8/96 Fragment /medium ER 62.4 (5.6) 6 0 8/96 Fragment / large ER 140.7 (11.1) 6 33 8/96 Colony/damaged ER 167.0 (18.9) 6 50 8/96 Colony/undamaged ER 185.0 (33.3) 6 67 8/96 Fragment BBR 52.3 (12.6) 6 67 8/96 Colony/damaged BBR 120.0 (13.5) 9 67 7/97 Fragment / small ER 27.3 (3.8) 7 0 7/97 Fragment /medium ER 55.8 (3.6) 7 43 7/97 Fragment / large ER 127.2 (10.2) 7 72 7/97 Colony/damaged ER 170.5 (16.5) 9 78 7/97 Colony/undamaged ER 179.3 (22.5) 9 78 7/97 Fragment BBR 44.7 (6.9) 6 67 7/97 Colony/damaged BBR 156.3 (32.1) 8 62"
+    },
+    {
+      "source_id": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+      "citation_number": 24,
+      "cited_text": "7 /93 6/94 5/95 9/96 4/97 Mean PB height (61 S.E.) (cm) 2.6 (0.1) 4.5 (0.2) 7.64 (0.3) 14.1 (0.5) 16.9 (0.6) Maximum PB height (cm) 9 13 18 30 38 2Mean [ PB/m of live tissue (61 S.E.) 11.1 (1.9) 11.8 (2.1) 10.2 (2.4) 9.1 (1.1) 6.4 (0.8) 3.3. Growth of fragments Most proto-branches were formed on the upper surfaces of fragments within the first year after fragmentation, with only a few additional proto-branches formed subsequent-ly. The number of proto-branches was directly related to the surface area of fragments"
+    },
+    {
+      "source_id": "e1fe67b6-7beb-43ff-bb09-b0b2262e6d05",
+      "citation_number": 25,
+      "cited_text": "2.2. Study sites Two reefs with dense populations of A. palmata were studied within Biscayne National Park in the northern Florida Reef Tract, Elkhorn Reef (258 21.7669 N, 808 09.9619 W, depth of A. palmata population 5 1–3 m) and Ball Buoy Reef (258 18.5249 N, 808 11.9969 W, 2–5 m, Fig. 1). These reefs were damaged by two storms: Hurricane Andrew (24 August 1992, maximum sustained winds 5 225 kph, Powell and Houston, 1993; Rappaport and Sheets, 1993) and Tropical Storm Gordon (14–17 November 1994, maximum sustained winds 5 84 kph; NOAA, 1994; Rappaport and Avila, 1995; Lirman and Fong, 1997a)."
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 26,
+      "cited_text": "sequence of modularity may be reflected in the ability of a colony to continually reallocate  priority of resource transport among its units in response to stress. Hermatypic corals, the  main organisms constructing tropical reefs, are prone to damage by a multitude of agents.  Since colonization of lesions by competitors is a potent threat to colonial organisms, fast  recovery is an important component of colony survival. Previous regeneration studies have  claimed that the energy requirements of this essential process are fueled only by the polyps  directly bordering the injured area. This \"localized regeneration hypothesis\" rejects the  necessity for wide colony integration during regeneration and sees no advantage to large  colony size. The objective of the present study was to test an alternative regeneration  hypothesis that argues, in contrast, that injury repair (i.e., closure of lesions by newly  formed tissues) in corals may require extended colony integration (i.e., internal translocation  of resources from sites of acquisition to sites of maximal demand). To test our hypothesis  we examined: (1) the relationship between colony size and percentage recovery of lesions  differing in size and shape; and (2) the effect of different sized lesions on the fecundity  of polyps located at increasing distances from the lesion site. Both experiments were  conducted on the common, spherically shaped coral Favia favus in the Red Sea near Eilat,  Israel. The relatively small lesions (<1 cm2) were the only ones to support the localized  regeneration hypothesis, since their recovery was unaffected by colony size. However; the  two larger lesion types (approximate sizes of 2 cm2 and 3 cm2) confirmed the importance  of large colony size for achieving fast recovery. In the second experiment we found that  small lesions, repeated monthly, caused only a localized reduction in fecundity, while larger  monthly repeated lesions caused significant reductions in fecundity up to a distance of 15  cm away from their site. Both experiments indicate that regeneration from injury may  require an extended magnitude of energy integration throughout the colony, and that the  extent of this integration is regulated by the colony in accordance with lesion characteristics.  It is also concluded that in long-lived organisms such as corals, there is a priority of energy  allocation to recovery rather than to reproduction. Our findings reveal the existence of  injury thresholds within a colony that determine energy allocation and intra-colonial trans- location of energy products toward regions of maximal demand. We suggest that such injury  thresholds may characterize many other coral species and that colony integration during  stress is a basic life-preserving ability and one of the most important advantages of clonal  and colonial organisms."
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 27,
+      "cited_text": "? 228 cm2, Fig. Id) that were significantly larger than the large size class colonies (P < 0.01, t test). Recovery of all lesion types (i.e., percentage reduc- tion of the projected lesion area) was monitored month- ly from early December 1994 to February 1995 by calibrated underwater photography (Nikonos-V with an 80-mm lens and close-up outfit). The first series of photographs was taken immediately after lesions were inflicted (early December 1994), and then at three con- secutive monthly intervals. The percentage recovery of"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 28,
+      "cited_text": "sion type (SP, E-2, or E-3) and colony size (small, intermediate, or large) on percentage recovery of the various lesions were tested by two-way ANOVA. Polyp fecundity vs. injury F. favus is a broadcast spawner in which reproduc- tion begins at four years when colony diameter is -3.5 cm (Shlesinger 1985). Oogenesis in mature F. favus  colonies starts in January and spawning takes place during June (Shlesinger 1985). The effects of injury on reproduction in F. favus colonies were characterized  in terms of polyp fecundity (number of oocytes per"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 29,
+      "cited_text": "of each colony with a computerized image analyzer (Olympus CUE-3; Data Translation, Incorporated, 100 Locke Drive, Marlboro, Massachusetts USA), 72 healthy intact colonies (ranging in size from 6 to 24 cm in diameter) were selected and divided into three size classes, each comprising 24 similar-sized colonies: small (surface area = 71 ? 20 cm2, Fig. la), inter- mediate (431 + 176 cm2, Fig. lb), and large (1204 ? 313 cm2, Fig. Ic). The relationship between the surface area of the col- ony and its ability to regenerate was tested for three"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 30,
+      "cited_text": "different types of tissue lesion: (1) single polyp lesions (SP, Fig. 2a); (2) elongated lesions of two neighboring polyps (E-2, Fig. 2b); and (3) elongated lesions of three neighboring polyps in a row (E-3, Fig. 2c). We inflicted one lesion type (either SP, E-2, or E-3) on the upper surface of each colony using an air-pick jet (i.e., an air tube connected to the scuba regulator, which removes soft tissue causing only minor damage to the underlying skeleton). Within each size class, SP lesions were in-"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 31,
+      "cited_text": "ters et al. 1992, 1997a, Van Woesik 1998), also recently TABLE 1. Average dimensions (? 1 SD) of the experimen- tally inflicted lesions (see Fig 2 for description of lesion  type). Projected surface  Lesion type area (mm2) Perimeter (mm) SP 87 ? 14 35 ? 5  E-2 182 ? 16 59 ? 8  E-3 274 ? 35 83 ? 8  E-10 958 ? 93 282 ? 23 recorded in F. favus (Oren et al. 1997a). We therefore  focused on the relationship between colony size and lesion recovery during the first month of regeneration (i.e., rapid regeneration phase). The effects of both le-"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 32,
+      "cited_text": "polyp sampling); and (2) monthly repeated lesions, SP, E-3, and E-10 (each n = 8) that were also inflicted in February 1996 and thereafter re-inflicted monthly (i.e., the newly formed tissues surrounding each lesion were removed every month) throughout oogenesis. For con- trols, we tagged another group of 10 intact colonies of the same size. These colonies were used to determine the fecundity of intact colonies of F. favus.  In June 1996, (approximately two weeks before spawning), we sampled three pairs of polyps from each"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 33,
+      "cited_text": "flicted on eight colonies, eight with E-2 and eight with E-3 lesions. The average projected area (square mil- limeters ? SD) and perimeter length (millimeters ? SD) of these lesion types are presented in Table 1. The E- 3 lesions were additionally inflicted on another size class of six very large colonies (surface area = 1569 March 2001 CORAL INTEGRATION DURING REGENERATION 805 FIG. 2. Photographs (70% actual size) of the lesion types (a) single polyp lesion (SP), (b) elongated lesion of two  neighboring polyps in a row (E-2), (c) elongated lesion of three neighboring polyps in a row (E-3), and (d) elongated lesion  of 10 neighboring polyps in a row (E-10)."
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 34,
+      "cited_text": "polyp septum) and oocyte diameter. We tested the effect of three different lesion types (either SP, E-3, or E-10) on fecundity of 40 colonies, each -40 cm in diameter, as follows: 16 colonies were inflicted with one SP le- sion (Fig. 2a); 8 colonies with one E-3 lesion (Fig. 2c); and 16 colonies with one E-10 lesion (Fig. 2d). This experiment was initiated in February 1996, during the initial stages of F. favus oogenesis. It was expected  that during the initial stages of oogenesis an increasing"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 35,
+      "cited_text": "METHODS Spherical colonies of Faviafavus are common in the  shallow reef (0.5-4 m) in front of the Marine Biology Laboratory (MBL) in the Red Sea at Eilat, Israel. Al- though most F. favus colonies in this region are healthy  and uninjured, they are occasionally subject to surface injuries (i.e., partial mortality) resulting from predation by parrot fish (Torovezky 1997) and gastropods (Gur and Loya 1996) as well as from southern storms (Y. Loya, personal observations). Such injuries may range"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 36,
+      "cited_text": "from <1 cm2 (i.e., a single polyp) up to 100 cm2. Small injuries are characterized by a circular shape, while the larger ones vary in shape and size from a rounded patchy appearance to elongated and narrow. Lesion recovery vs. colony size Uninjured colonies of F. favus in the shallow reef  (2-3 m) of the Marine Biology Laboratory in Eilat were tagged and photographed during November 1994, using a Nikonos-V camera (Nikon Corporation, Tokyo, Ja- pan) with 20-mm lens. After measuring the surface area"
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 37,
+      "cited_text": "demand for resources would be required by the colony; hence, a trade-off between reproduction and regener- ation would be most apparent. All lesions were inflicted on the upper central part of the spherical colonies. Dur- ing this experiment, we injured the colonies in two ways: (1) one-time lesions, SP and E-10 (each n = 8) 806 U. OREN ET AL. Ecology, Vol. 82, No. 3 TABLE 2. Average percentage (+ 1 SD) lesion recovery during three consecutive monthly  intervals (see Fig. 2 for description of lesion type)."
+    },
+    {
+      "source_id": "a3b88246-eb7f-49ed-a997-67c6d36e9413",
+      "citation_number": 38,
+      "cited_text": "808 U. OREN ET AL. Ecology, Vol. 82, No. 3 TABLE 4. Two-way analysis of variance examining the ef- fect of lesion type and the distance from the lesion on polyp  fecundity of Favia favus (for details see Fig. 5). Sum of Mean  Source df squares square F P Lesion type (A) 2 1050.5 525.3 168.1 0.0001  Distance from  lesion (B) 2 901.5 450.8 144.2 0.0001 Interaction (AB) 4 446.8 111.7 35.7 0.0001  Error 63 196.8 3.1 significantly reduced fecundity. Both lesion type and the distance from the lesion reduced fecundity, and"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 39,
+      "cited_text": "while these fish are important herbivores, as corallivores (consumers of live coral tissue), they selectively graze specific species and colonies of reef-building corals. Though the benefits of parrotfish herbivory for reef resil- ience and conservation are well documented, the negative consequences of parrotfish grazing for coral reproductive fitness have not been previously determined. We examined recently grazed colonies of Montastraea annularis corals to determine whether grazing was positively associated with"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 40,
+      "cited_text": "a subset of the 72 samples collected (subset N = 39 sam- ples totalling 234 polyps representing 13 clusters with eggs visibly present in all samples (Gg, Gi, and I)), we also carefully isolated and photographed every other gonad to estimate egg size. Projected egg area (mm2) was deter- mined from digital images using Matlab 6 (Mathworks Co.) for five randomly chosen eggs per fecund polyp and up to 10 polyps per sample, and was used to estimate female reproductive quality (defined below). To estimate"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 41,
+      "cited_text": "egg volume (mm3) for total reproductive allocation mea- surements, we multiplied egg area by a standardized egg height (0.015 mm) estimated from the mean height of 10 eggs within a single colony and modeled each egg as a cylinder. Although M. annularis are hermaphroditic (Szmant 1986), we did not attempt to quantify spermaries because they are small and translucent, and therefore difficult to identify without histological staining and sectioning (E. Peters, personal communication). Total reproductive effort for each sample was mea-"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 42,
+      "cited_text": "sured as the total number of gonads summed across 10 randomly selected polyps (gonads contain both eggs and spermaries). Total reproductive effort represents the largest energetic investment, since gonads contain both eggs and spermaries, in addition to gonad membranes and other potentially nutritive tissues within. Female reproductive effort for each sample was based on the total number of eggs summed across 10 polyps. Two additional aspects of female reproductive output were examined: (1) egg size"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 43,
+      "cited_text": "collection, the length and width of each M. annularis colony was measured to the nearest 1 cm using a flexible ruler. M. annularis corals with a surface area less than 50 cm2 are generally not reproductive (Szmant-Froelich 1985; Van Veghel and Kahmann 1994); therefore, we chose colonies ranging in size from 176 to 9,020 cm2. In order to compare reproductive effort from intact colonies versus those recently grazed by corallivorous parrotfishes, we haphazardly sampled clusters containing pairs of similarly sized intact and grazed M. annularis"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 44,
+      "cited_text": "grazing (within days). On grazed colonies, the number of bites ranged from 11 to 135 ð \u0001Xbite density = 4.86 bites/ dm2 coral tissue). Grazing scars were likely made by Sparisoma viride parrotfish species (Rotjan and Lewis 2006). From each grazed colony, we first sampled intact tissue from among the fresh grazing scars (Gg = grazed portion of the grazed colony), and then sampled intact tissue located approximately 15 cm away from the grazed area (Gi = intact portion of the grazed colony). We also sam-"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 45,
+      "cited_text": "higher nitrogen biomass, which positively correlates with egg number (Szmant 1991). Reproductive gonads in Montastraea faveolata colonies are also known to have high lipid content (Villinski 2003). Thus, we hypothesized that parrotfish may selectively remove coral polyps with high reproductive effort. In this study, we examined colonies of Montastraea annularis corals that had been recently grazed (within 2– 4 weeks of sampling) by parrotfishes in order to determine whether grazing was associated with coral reproductive"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 46,
+      "cited_text": "upper spur and groove habitat (described in detail by Rüetzler and Macintyre 1982) during late August 2005 at Southwater Caye (16\u000246.575N, 88\u000204.494W) on the Bel- izean barrier reef. Montastraea annularis corals usually spawn 7–8 days after the full moon in August (Knowlton et al. 1997). To ensure ripe gametes, we collected small coral samples (described below) 2–5 days prior to the major spawn, from August 21 to 24. Since egg production may be affected by disease or through direct contact with another coral, we chose isolated, healthy colonies. Before"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 47,
+      "cited_text": "pled tissue from a nearby (*1 m away), similarly sized, intact colony (I = intact colony tissue); samples were taken from equivalent locations on each colony and were always taken from central locations (never within *15 cm of the growing edge). This design was chosen so that we could examine both between-colony differences (Gi vs. I), and within-colony differences (Gg vs. Gi). We collected samples from 24 clusters for a total of 72 samples; each cluster contained Gi and Gg samples from the same colony,"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 48,
+      "cited_text": "(range = 0.006–0.262 mm2), egg size (area) did not vary among categories ð \u0001Xmm2 ± SE for Gg = 0.049 ± 0.006; Gi = 0.059 ± 0.006; I = 0.055 ± 0.005; one- way repeated measures ANOVA F = 1.3965, df = 2, 24, p = 0.2668). Discussion Even in plants, where the impacts of herbivory on plant biomass and fitness have been comprehensively studied for Fig. 2 Montastraea annularis corals sampled 2–5 days prior to spawning. Photographs illustrate grazing scars on a colony in the field (a, photo by A. Bruckner), and the colony underside showing"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 49,
+      "cited_text": "from a nearby, non-grazed colony (intact). Reproductive effort is represented by the total number of gonads summed across 10 polyps (a, b), the total number of eggs per 10 polyps (c, d), and mean number of eggs per gonad (e, f). For each variable, left panel shows data by cluster, with Gg and Gi from the same colony (paired by genotype), and I representing a similarly sized, nearby colony (paired by location). Right panel shows overall mean ± 1 SE (not grouped by cluster). N = 24 clusters; 3 colonies per"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 50,
+      "cited_text": "Knowlton et al. 1997; Sanchez et al. 1999). Spawning is locally synchronous, and colonies within a region usually release gamete bundles within minutes of each other (Knowlton et al. 1997; Sanchez et al. 1999; Levitan et al. 2004). These broadcast spawners release gamete bundles containing both eggs and sperm that rise through the water column and separate at the surface, where fertilization occurs (reviewed by Richmond 1997). Sampling design and collection This study was conducted at 6–9 m depth in the shallow"
+    },
+    {
+      "source_id": "fe532d7a-f878-4a85-962a-7de43d06a80c",
+      "citation_number": 51,
+      "cited_text": "assumptions of each analysis. We similarly used a repeated measures approach to examine mean egg size and total reproductive allocation (total egg volume as a percentage of polyp volume) per colony. Only a subset of colonies (13 clusters) was examined; clusters with no eggs in any given category (I, Gi, or Gg) were eliminated from egg size analysis. Results We found significant differences in total reproductive effort (total number of gonads, which contain both spermaries and eggs, per 10 polyps) among M. annularis samples taken from"
+    },
+    {
+      "source_id": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+      "citation_number": 52,
+      "cited_text": "“Y” implies higher integration than “N” (Wells, 1973; Jackson, 1979; Oliver and Coates, 1987). Species are ranked according to the number of “YS. 420 K. SOONG ET AL. of Panama between July, 1987, and August, 1988. During their respective reproductive seasons, whole colonies (in the case of species of small size), or samples from various parts of large colonies were collected at random, preserved, and decalcified by means of standard techniques (Soong, 1991). Except for Favia fragum, fecundity was estimated after dissection by directly counting eggs, or measuring the size of gonads with a dissecting microscope or, for species with small gonads, by histological preparations. In F. frugum, planulae are easier to observe than eggs, so the number of planulae per polyp were counted under the dissecting microscope as an estimate of brood size or fecundity. For all species, the identity of ovaries, spermaries, and planulae (if present) were confirmed by histology (Soong, 199 1)."
+    },
+    {
+      "source_id": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+      "citation_number": 53,
+      "cited_text": "Owing to numerous instances of partial colony mor- tality, edge zones in Siderastrea siderea can occur virtually everywhere over the surface. Therefore, data for this spe- cies were collected separately for colony margins on both vertical and horizontal surfaces. Variations in tissue thickness within colonies were noticed in five species; those in Siderastrea spp. and Porites fircata were mea- sured under a dissecting microscope. Within colony infertility-manipulations A series of field experiments was initiated to determine the possible causes of the infertile colony margins found in three species of massive corals. The scheme basic to all the manipulations was to create artificial margins across the centers of healthy, undamaged colonies (Siderustreu siderea-20-70 cm in diameter; Porites astreoides- 15- 25 cm; and S. radians-3.5-8 cm). A cut about 1 cm deep and 2 mm wide was made across the entire mid- region of each colony with a hacksaw, effectively severing all soft tissue connections between the two sides of the cut. In one group consisting of 10 specimens per species, (“tissue cut”), the two halves remained connected by dead skeletal material. In a second group of 10 colonies (“cut and fill”), underwater epoxy (Birkeland, 1976) was used to fill and cover the open wounds and to fill the gaps created by sawing. A third group of 10 colonies (“total cut;” 20 colonies were used in S. radians) were separated into halves when the skeletal connection was completely severed. After manipulation, all colonies remained larger thanthe estimated puberty size (see below) for the species. This experiment was initiated in February-March 1988, before the start of gametogenesis in S. siderea. The other two species reproduce year round in Panama (Soong, 1991). Patterns of fertile polyp distribution were deter- mined by dissection or histology four to five months later, at the end of July, and were compared with undisturbed colonies collected in the same habitat. The reverse ex- periment-tying two marginal pieces together to create"
+    },
+    {
+      "source_id": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+      "citation_number": 54,
+      "cited_text": "Colonies of each species were ranked, from smallest to largest, and the size at which most colonies become mature was then assessed. Colony size was calculated as the surface area: the product of the maximal length and width of the living tissue (both dimensions measured in the field). In A. palm&a, colony size was estimated by summation of the surface area of all the branches and the base. In the ramose Acropora cervicornis and P. furcata, the lengths of the living branches were taken as a measure of size. Puberty size was defined operationally as equal to the sur- face area or live-branch length of the smallest colony (or branch) in the first group of 20 consecutively ranked col- onies (or branches) of which 90% or more were fertile."
+    },
+    {
+      "source_id": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+      "citation_number": 55,
+      "cited_text": "% loo- 60. 8 0 0 20 40 60 60 100% Fecundity on horizontal surface Within colony infertility-manipulations Figure 6. Comparison of fecundity between vertical and horizontal surfaces of Siderastrea siderea. For each surface on each colony, relative gonad lengths (cross): mean gonad length based on two randomly chosen mesenteries per polyp in 10 randomlychosen polyps per sample, relative to the largest estimate of mean gonad length from any location in any colony. Relative fecundity (square): fecundity (see gonad index in Fig."
+    },
+    {
+      "source_id": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+      "citation_number": 56,
+      "cited_text": "Reference: Biol. Bull. 183: 4 18-43 1. (December, 1992) Reproductive Integration in Reef Corals KERYEA SOONG’ AND JUDITH C. LANG’ ‘Division of Biological Sciences, University of Texas, Austin, Texas 78712, and 2Texas Memorial Museum, University of Texas, Austin, Texas 78705 Abstract. The extent of colonial integration in struc- turally simple animals like scleractinian corals is poorly understood. We have used sexual reproductive characters (location of fertile polyps and colony size at maturation) to assess colony-level individuality, i.e., the development, in coral colonies, of characters above the polyp level. Ten morphologically-diverse species of reef corals were used: Acropora cervicornis, A. palmata, Diploria clivosa, D. strigosa, Favia fragum, Montastrea cavernosa, Porites as- treoides, P. furcata, Siderastrea radians, and S. siderea."
+    },
+    {
+      "source_id": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+      "citation_number": 57,
+      "cited_text": "Relationship between colony size and maturation All ten species of western Atlantic reef corals studied showed size-correlated reproductive activities, with larger colonies having much higher fertility rates (Table VI). Estimates of puberty size ranged from 2.3 cm2 to 195 cm2 in the seven species of massive reef corals (Table VII). The puberty size estimate of the massively branching A. palmata was very large (1600 cm2). Puberty size esti- mated as branch length was 17 cm in A. cervicornis, and 1.4 cm in P. jiircata."
+    },
+    {
+      "source_id": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+      "citation_number": 58,
+      "cited_text": "Sample sizes in these studies ranged from 4 1 in D. stri- gosa (relatively rare) to 501 in S. radians. Results Within colony infertility-observations Marginal areas. In no species were equally fertile polyps homogeneously distributed, and infertile polyps were generally associated with colony margins (summary in Table II). Fuviu frugum was the only massive species studied in which marginal polyps were fertile. These mar- ginal polyps also carried planulae (average 73% of mar- ginal polyps, n = 77 colonies, each colony large enough to have five central polyps), although their mean brood size was significantly lower than that of the central polyps (Wilcoxon’s signed-ranks test, T, = 55, P < 0.01, n = 77"
+    },
+    {
+      "source_id": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+      "citation_number": 59,
+      "cited_text": "Figure 3. Fecundity gradient on horizontal surface of Siderustrea sidereu. Gonad index: mean gonad length X frequency of gonads (ovaries or spermaries), based on two randomly chosen mesenteries per polyp in each of ten randomly chosen polyps) at any given location relative to that in the center of the horizontal surface of the colony. Vertical bars represent the standard errors of the mean. 0: beginning of fertile zone, C: center of the horizontal surface. n = 8 male and 8 female colonies. presumably due to fewer endosymbiotic zooxanthellae. Soft tissue thickness also tapered toward the base, and the internal mesenterial filaments were degenerate."
+    },
+    {
+      "source_id": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+      "citation_number": 60,
+      "cited_text": "The upper surfaces of branches of A. pulmata had a much higher fecundity than lower surfaces, as there were more fertile polyps per unit surface area (Wilcoxon’s signed-ranks test, T, = 0, P < 0.0 1, n = 10 colonies, Fig. 5), and larger numbers of eggs within fertile polyps (Wil- coxon’s signed-ranks test, T, = 0, P < 0.01, n = 11 col- onies, Fig. 5). In addition, the soft tissues on the upper surfaces of A. palmata were at least twice as thick as those of the lower surfaces (measured from decalcified soft tis- sues), and their corresponding rate of vertical skeletal in- crement was about twice as great, as evidenced by growth bands revealed by X-ray of skeletal slabs from seven col- onies. Central polyps on the horizontal surfaces of S. sid- ereu also had thicker tissues (unpub. data) and longer go- nads, and a proportionately larger number of mesenteries were carrying gonads than those on vertical surfaces. Thus the fecundity of horizontal polyps was significantly higher than that of the vertical polyps (Wilcoxon’s signed-ranks test, P < 0.0 1, n = 16 colonies, Fig. 6)."
+    },
+    {
+      "source_id": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+      "citation_number": 61,
+      "cited_text": "Ten species of shallow water corals (Table I) were mon- itored for reproductive activities along the Caribbean coast Table I Characteristics postulated to reflect potentially higher levels of morphological integration Species Branching Dimorphic Extratentacular budding Meandroid Common wall Perforate walls Coenosarc Acropora cervicornis (Lamarck) Y Y Y N N Y Y Acropora palmata (Lamarck) Y Y Y N N Y Y Porites furcata Lamarck Y N Y N Y Y N Porites astreoides Lamarck N N Y N Y Y N Diploria clivosa (Ellis and Solander) N N N Y Y N N Diploria strigosa (Dana) N N N Y Y N N Siderastrea radians (Pallas) N N Y N Y N N Siderustrea siderea (Ellis and Solander) N N Y N Y N N Montastrea cavernosa (Linnaeus) N N Y N N N N Favia fragum (Esper) N N N N N N N"
+    },
+    {
+      "source_id": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+      "citation_number": 62,
+      "cited_text": "In the manipulated specimens of S. siderea, S. radians, and P. astreoides, some form of reduced fertility appeared in all artificially generated margins (see Results). Polyps INTEGRATION IN REEF CORALS 425 Table VI Frequency offertile colonies in each collected size class Size class (surface area of live colony; cm*) Species o-4 4-15 15-60 60-250 250-1000 1000-4000 >4000 Favia.fiagum % fertile 63 93 94 - - - - n 38 74 17 - - - - Siderastrea radians % fertile 50 86 97 100 - - - n 64 206 208 23 - - -"
+    },
+    {
+      "source_id": "635d9cb2-270b-4bcc-b676-c84b81b0620b",
+      "citation_number": 63,
+      "cited_text": "Except in S. radians, an infertile zone was found along every artificial margin. In S. siderea, the width of this newly generated infertile zone was comparable to the hor- izontal margins in natural colonies (difference insignifi- cant, Wilcoxon’s two-sample test, U, = 195, P > 0.05, n, = 18, n2 = 16, two-tail), and most (16/l 8) of the ar- tificial margins had more than one row of infertile polyps. In the “cut and fill” specimens of P. astreoides, no sig- nificant difference was found between the infertile widths of the natural and manipulated margins (Wilcoxon’s two- sample test, U, = 69.5, P > 0.05, n, = 10, n2 = 10, P > 0.05, two-tail). In S. radians, the polyps along the artificial margins remained fertile, although their fecundity was significantly lower than that of centrally located polyps in the same colonies (Wilcoxon’s signed-ranks test, T, = 0, P < 0.0 1, Table V)."
+    },
+    {
+      "source_id": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+      "citation_number": 64,
+      "cited_text": "and regenerating colonies Manfred L. J. Van Veghel1,2, Rolf P. M. Bäk2,3 1CARMABI Foundation - Ecological Institute Institute, PO Box 2090, Curaçao, Netherlands Antilles  2 University of Amsterdam, Institute oi Taxonomic Zoology, PO Box 4766, 1009 AT Amsterdam, The Netherlands 3 Netherlands Institute for Sea Research (NIOZ), PO Box 59, 1790 AB Den Burg, Texel, The Netherlands ABSTRACT: We studied the relation between surface lesion regeneration and reproduction in distinct  morphotypes of the coral Montastrea annularis (Ellis & Solander). There were significant differences  between the morphotypes (viz. 'Bumpy', 'Massive' and 'Columnar'; Van Veghel & Bak 1993, Mar. Ecol.  Prog. Ser. 92: 255-265). The number of eggs per gonad in polyps adjacent to the lesions was reduced  in the Massive and Bumpy morphs but not in the Columnar morph. Fecundity (eggs per polyp) and the  number of gonads per polyp were reduced in these areas in all morphs. We found a significantly higher  regeneration rate for the Bumpy compared with the other 2 morphotypes. Regeneration rates were  similar in the Columnar and Massive morphotypes. Regeneration rates in this study were relatively low,  suggesting that regeneration is slower during the reproductive season."
+    },
+    {
+      "source_id": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+      "citation_number": 65,
+      "cited_text": "Lesions were made on 13 and 14 July 1992, about  10 wk before Montastrea annularis colonies were observed spawning on 17 to 19 September 1992 (Van  Veghel 1994). The experiments were carried out in situ  on the reefs near CARMABI Buoy 1, on the leeward  coast of Curaçao, at a depth between 11 to 16 m. For  descriptions of the study reef, see Bak (1977), Van Duyl  (1985) and Van Veghel (1994). Regeneration. Regeneration rates were measured  as decreasing lesion areas, using a plexiglass ruler  (Meesters & Bak 1993; Fig. 1). Experimental colonies  were examined 4 times in the first week of study,  weekly during the following 13 wk and then biweekly  to complete a 23 wk period. Mean regeneration rates  were calculated for each experimental colony with  regression analysis, and values for slope and constant  in the regression equation were calculated for each  morphotype (Fig. 2; Table 1)."
+    },
+    {
+      "source_id": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+      "citation_number": 66,
+      "cited_text": "DonrnHnrfinn Ahni11 *3 H QrtFiwrtinrr 10 <=»Y\"n<=»r imental colonies per morphotype were sampled for  3 categories of coral tissue: (1) regenerated tissue  (<2 cm), (2) living tissue adjacent to lesion, (3) living  tissue >20 cm from lesion. Samples were processed  and examined as described by Van Veghel & Kahmann  (1994). Number of eggs per gonad and number of  gonads per polyp were scored. For categories 2 and  3 an average of 250 and 100 polyps per morph were  dissected, respectively. Few regenerated polyps (cate  gory 1) occurred but all were examined (n < 10)."
+    },
+    {
+      "source_id": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+      "citation_number": 67,
+      "cited_text": "MATERIALS AND METHODS Lesions. Lesions were made on the upper surface of  haphazardly selected colonies of the 3 Montastrea  annularis morphotypes (n = 25 colonies of each morph).  Each lesion consisted of a superficial wound where  tissue and skeleton were removed. The lesions were inflicted using a submersible drill powered by com  pressed air and equipped with a small grinding point,  diameter 10 mm (Meesters & Bak 1993). Lesion size  (mean ± SD) was 160 (± 20) mm2; and lesion depth  (mean ± SD) was 4 (± 0.8) mm."
+    },
+    {
+      "source_id": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+      "citation_number": 68,
+      "cited_text": "We made superficial lesions on the surfaces of  colonies of the 3 morphotypes about 10 wk before  spawning. Subsequently the regeneration of the  lesions was followed. Montastrea annularis is a hermaphroditic broadcast spawner and a few days  before spawning coral tissue was sampled to examine  the fecundity of the experimental colonies. Conse © Inter-Research 1994 Resale of full article not permitted This content downloaded from 230 Mar. Ecol. Prog. Ser. 109: 229-233, 1994 quently the effect of regeneration on reproduction as  well as the regeneration capacity of the different  morphotypes were determined."
+    },
+    {
+      "source_id": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+      "citation_number": 69,
+      "cited_text": "During the first week after the initiation of the ex  periment, 86% of the lesions increased in size. This  increase was possibly due to tissue die off at the  damaged dge before the regeneration starts. After  14 d the damaged polyps at the periphery were regen  erated in 99% of the lesions. Regeneration rates were calculated from Day 7, when  maximum lesion size was reached, until: (1) lesion  closed, (2) tissue was collected for dissection (Day 63),  or (3) discontinuation of experiment after Day 161.  Results for lesion size (y) versus regeneration time in  days (x) are given in Table 1. Regeneration was sig  nificantly faster in the Bumpy morphotype (ANOVA,  p < 0.001). No differences were found between the  other 2 morphotypes. Decrease of lesion size versus  time is shown in Fig. 2. The first completely healed  colony (Fig. 1) was observed on Days 49, 147 and 119  for Bumpy, Massive and Columnar, respectively."
+    },
+    {
+      "source_id": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+      "citation_number": 70,
+      "cited_text": "samples. *\"*p < 0.001; ns: not significant; n: number of dissected polyps; df: degrees of freedom Regenerated  Normal Bumpy  Massive  Columnar  Bumpy  Massive  Columnar Fecundity  35.0 (40)  7.6 (15)  5.6 (17)  69.9 (46)  29.2 (37)  12.9 (26)  Gonads per polyp  6.1 (6.3)  1.7 (3.1)  1.0 (2.9)  9.4 (5.8)  4.9 (4.4)  2.3 (5.8)  Eggs per gonad  5.6 (1.8)  4.3 (1.7)  4.9 (1.4)  7.5 (2.6)  5.9 (2.1)  5.6 (1.8)  Fertility (%)  57.6  31.1  15.3  80.0  49.0  33.0 n  125  161  183  100  100  100 ANOVA F- value  Bumpy  Massive  Columnar"
+    },
+    {
+      "source_id": "2e76dce4-6cb4-46c0-b8c4-a1cc91b1578c",
+      "citation_number": 71,
+      "cited_text": "Table 1. Montastrea annularis. Regeneration rates in repro  ductive colonies. Equation: Y = C x ÎO4*. Y: lesion size;  C: constant; A: average regression slope (standard error);  X: regeneration time (in days); ns: not significant; r2: average  explained variance, p: significance level of the associated 1-way ANOVA C  A  r2  n Bumpy  236  -0.016 (0.009)  0.82  25 Massive  193  -0.008 (0.003)  0.82  25 Columnar  185  -0.007 (0.003)  0.82  20 ANOVA  F-value  P  df Bumpy-Massive  15.48  <0.001  48"
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 72,
+      "cited_text": "Journal of Experimental Marine Biology and Ecology 187 (1995) 193-206 JOURNAL OF EXPERIMENTAL MARINE BIOLOGY AND ECOLOGY The effect of damage on the growth, reproduction and storage of lipids in the scleractinian coral Pocillopora damicornis (Linnaeus) Selina Ward Centre for Coastal Management, Resource Science and Management. Southern Cross University, Lismore 2480, New South Wales, Australia Received 17 November 1993; revision received 9 August 1994; accepted 4 November 1994 Abstract A population of the scleractinian coral Pocillopora damicornis (Linnaeus) was examined at Rottnest Island, off the Western Australian coast. This is a temperate zone and an area under consid- erable tourist pressure. Experiments were conducted at Little Salmon Bay and Mary Cove to investigate the effect of mechanical damage on the growth, reproduction and storage of lipid to see whether patterns of energy allocation were affected. These parameters were measured simultaneously 14 times over 13 months."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 73,
+      "cited_text": "This study aimed to investigate allocation of energy in corals at Rottnest Island. Corals can use energy for three main functions: in growth, reproduction and storage of lipid (Sibly & Calow, 1986). Allocation of input to these three functions was mea- sured simultaneously in a population of corals over a period of 13 months. Growth was measured as linear extension, storage of lipid was estimated gravimetrically as the percentage of tissue made up of lipid and reproductive activity was investigated by measuring ova production, production of planulae and the lipid content of those planu- lae. Stages of gametogenesis were also monitored."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 74,
+      "cited_text": "Three branches were taken from the colony and the tips were placed into fresh water. After 2-3 days the branch tips were washed with a jet of tap water until all the tissue had been removed. They were then cut on a trim saw with a diamond blade so that there was a flat face on which to measure the linear extension from the stain mark. Once the coral had dried, the growth was measured using callipers (to + 0.1 mm) under a magnifying lamp. 2.5. Lipids The remaining branch sections from the above growth samples were placed in 10% formaldehyde in seawater for 24 h. The samples were then immersed in Bouin’s fixa- tive for 2 wk to decalcify the skeleton. The tissue samples were placed in embedding cassettes and dried in an oven for 24 h at 55 “C. The samples were then weighed (to & 0.0001 g) and immersed on a 2: 1 chloroform-methanol solution for 24 h to dissolve"
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 75,
+      "cited_text": "the lipids (Barnes & Blackstock, 1973; Stimson, 1987). The tissue samples were then redried for 3 h and reweighed. The total lipid content was calculated by subtraction and expressed as a percentage of the total tissue biomass. 2.6. Larval capture To estimate the number of larvae produced, portions of colonies were taken from each coral 4 days before the new moon in March and transported to the laboratory. Colonies were placed in fresh sea water and larvae were collected, counted and stored in a solution of 10% formaldehyde in sea water."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 76,
+      "cited_text": "On each slide all polyps (50-100) were scored for their stage of gametogenesis and their planulae were counted. Stages were identified basically following those of Stoddart (1984a,b). There were four stages of spermatogenesis and two stages of oogenesis. Reproduction includes both production of planulae and gametes, so a measure of reproductive output which included both components was devised. An index of repro- ductive potential (IRP) was calculated from the percentage of polyps with ova and planulae for each colony at each date. The largest sum of the percentage of polyps containing the two oogenic stages and/or planulae at each time point of each coral was termed the IRP."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 77,
+      "cited_text": "Manipulative experiments were set up at Mary Cove and Little Salmon Bay. All P. damicornis colonies chosen for this study appeared healthy, were between 30 and 50 cm in diameter, and were not shaded. Two treatments were used: fragmentation and dislodgement. Fragmentation involved breaking some branches from the colony with a hammer but leaving the colony in place. Approximately 50% of branches were broken off throughout the colony rather than just one section of the colony. The remaining colony was sampled. Dislodged corals were knocked from the reef onto the substra- tum below which was either sand, rock or seagrass bed. Corals were placed face up at the time of damage and at each sampling time."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 78,
+      "cited_text": "Table 1 Number of corals sampled at Little Salmon Bay and Mary Cove during the 13-month study period. Treat- ments were dislodgement and fragmentation Fragmented dislodged Not dislodged Not fragmented dislodged Not dislodged Little Salmon Bay Mary Cove I 5 6 4 4 6 10 7 196 S. Ward/J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206 gametogenic cycle. Sampling began in July 1988 and continued until September 1989. During the winter, samples were taken each month and during the summer months they were taken every 2 wk."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 79,
+      "cited_text": "FFIAG DISL F+D Fig. 1. Growth, as linear extension, of colonies of P. dumicornis at Rottnest Island. Treatments are cant = controls, frag = fragmentation, disl = dislodged, f + d = fragmentation and dislodgement. Error bars are stan- dard errors. S. Ward/J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206 199 Table 3 Three-factor orthogonal analysis of variance information for growth (as cumulative linear extension) of corals from Little Salmon Bay and Mary Cove between 17th December and 10th June, 1989"
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 80,
+      "cited_text": "Fig. 3. The standardised number of larvae captured at the new moon in March, 1989 from colonies of P. damicomis at Rottnest Island. Treatments are cant = controls, frag = fragmentation, disl = dislodged, f + d = fragmentation and dislodgement. Error bars are standard errors. 202 S. Ward / J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206 FRAG DISL F+D Fig. 4. The percentage dry tissue weight made up by lipid of larvae captured at the new moon in March, 1989 from colonies of P. damicornis. Treatments are cant = controls, frag = fragmentation, disl = dislodged, f + d = fragmentation and dislodgement. Error bars are standard errors."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 81,
+      "cited_text": "of allocation factors such 2. Methods 2.1. Sites S. Ward 1 J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206 195 for the damaged and the undamaged corals as well as between individual as growth rates. Rottnest Island lies 20 km off the coast of Western Australia at 32” S. Two sites were sampled: Little Salmon Bay and Mary Cove. These sites are both on the west side of the island and recieve some direct wave action. Corals grow on limestone but there is no coral reef structure at these sites. 2.2. Experimental design"
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 82,
+      "cited_text": "An orthogonal design was used for this experiment so all possible combinations of these two treatments were used. At both sites there were fragmented only, dislodged only, fragmented and dislodged and not fragmented, not dislodged corals (Table 1). 2.3. Sampling procedure Sampling of colonies involved breaking three branches, E 5 cm long from each coral at each date. Branches from the lowest parts of the colonies were avoided. Samples were used to monitor growth, reproduction and lipid storage. The branch tips were used for growth measurement and the rest of each branch for lipids and evaluation of the"
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 83,
+      "cited_text": "Factor Mean SE N F P Dislodged Dislodged 3.5 1.06 12 5.993 0.0237 Not dislodged 5.5 0.66 16 Fragmented Fragmented 4.7 1.17 11 1.325 0.2634 Not fragmented 4.6 0.67 17 Site Little Salmon Bay 5.3 0.84 15 5.085 0.0355 Mary Cove 3.9 0.86 13 Interactions F P Fragmented-site 0.088 0.7698 Dislodged-site 3.285 0.0850 Fragmented-dislodged 0.460 0.5056 Dislodged-fragmented-site 0.120 0.7302 Treatments were dislodgement, fragmentation and site. Varances were homogeneous (C= 0.3103). N = number of colonies."
+    },
+    {
+      "source_id": "6dffe94d-a664-4a6c-8daf-f25ecfa5b50d",
+      "citation_number": 84,
+      "cited_text": "Table 4 Analysis of variance comparing index of reproductive potential, for fragmented, dislodged and control corals from Little Salmon Bay (LSB) and Mary Cove (MC) Factor Mean SE N F P Dislodged yes 42.98 4.98 17 3.77 0.0623 IlO 57.15 4.43 19 Fragmented yes 59.58 4.55 15 6.047 0.0204 tl0 43.94 4.57 21 Site LSB 45.92 4.94 19 2.381 0.1341 MC 55.54 4.73 17 Interactions F P Fragmented-site 1.692 0.2039 Dislodged-site 0.003 0.9573 Fragmented-dislodged 0.013 0.9084 Dislodged-fragmented-site 0.607 0.4423"
+    }
+  ]
+}

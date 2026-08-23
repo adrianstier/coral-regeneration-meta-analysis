@@ -1,0 +1,394 @@
+Marine Biology (2000) 137: 867±873                                                                   Ó Springer-Verlag 2000
+
+
+
+
+E. Kramarsky-Winter á Y. Loya
+
+Tissue regeneration in the coral Fungia granulosa : the effect
+of extrinsic and intrinsic factors
+
+
+
+
+Received: 21 March 2000 / Accepted: 28 July 2000
+
+
+Abstract To understand how regeneration in corals may           ronmental factors such as ambient water temperatures.
+be aected by intrinsic and extrinsic factors, the process      Moreover, it is possible that, following injury, energetic
+of repair of experimentally induced tissue lesions was          resources are diverted from repair towards the mainte-
+investigated in the solitary scleractinian coral Fungia         nance of reproductive eort.
+granulosa. Three lesion sizes were in¯icted in situ on
+large, sexually mature individuals (>5.5 cm diameter)
+and in small sexually immature (<5.0 cm) individuals.           Introduction
+Repair was monitored using photography and comput-
+erized image analysis. This procedure was carried out           Many coral reefs are found in shallow waters, in areas
+in fall (September to November; post-reproductive               susceptible to periodic storms. The corals in these areas
+months), and repeated with a new set of corals in spring        may undergo frequent damage due to fragmentation,
+(March to May; gametogenic months). Reproductive                abrasion and suocation by sedimentation. The capacity
+eort was investigated histologically 1 to 2 months fol-        of corals for survival in these volatile environments is
+lowing lesion in¯iction. In ®eld experiments, there was a       dependent in part on their ability for regeneration and
+signi®cant dierence in percent of tissue coverage 8            renewal. Colonies that cannot recover from damage may
+weeks after lesion in¯iction between spring and fall for        be invaded by boring organisms or pathogens or be
+all lesion sizes in large corals. During the fall, all lesion   overgrown by ®lamentous algae, which results in the
+sizes in large corals were repaired within 8 weeks. Large       weakening, or death, of the coral (Bak and Steward-van
+lesions in small corals did not undergo repair regardless       Es 1980; Bak and Criens 1981). Damage to coral tissues
+of season. During the spring, none of the corals under-         and skeleton is known to aect important biological
+went complete repair regardless of coral size, and many         functions such as growth and reproduction (Rinkevich
+of the small corals died. In laboratory experiments,            and Loya 1989; Meesters et al. 1994; Van Veghel and
+83.3% of the corals kept at 25 °C and 16.7% of those            Bak 1994; Ward 1995). The capacity of corals for re-
+kept at 21 °C underwent repair during the fall. None of         generation, therefore, plays an important role in the
+the corals maintained at 21 °C and only 16.7% of those          maintenance of coral health and thus aects the health
+corals maintained at 25 °C underwent complete repair            of the reef system as a whole.
+during spring. Though both fecundity and tissue regen-             The process of regeneration is inherent to some extent
+eration were signi®cantly reduced, gametogenesis                in most metazoan species, and may be aected by a
+continued in corals that had previously undergone               number of selective forces (Goss 1992). Previous studies
+experimental injury. These results indicate that in fun-        of scleractinian corals showed that the capacity for re-
+giid corals, regeneration is aected by intrinsic factors       generation depends on species, morphology, injury type
+such as size and reproductive state as well as by envi-         and life history strategy (Loya 1976; Highsmith 1980;
+                                                                Bak and Criens 1981; Rinkevich and Loya 1989;
+                                                                Chadwick and Loya 1990; Meesters et al. 1992, 1996,
+Communicated by O. Kinne, Oldendorf/Luhe                        1997; Van Veghel and Bak 1994; Hall 1997). Some of
+                                                                these studies indicated that these organisms' regenera-
+E. Kramarsky-Winter (&) á Y. Loya
+Department of Zoology,                                          tion capacities may be dependent on environmental
+George S Wise Faculty of Life Sciences and the Porter           factors as well (Meesters et al. 1992, 1993). Unfortu-
+Supercenter for Ecological and Environmental Studies,           nately, due to the fact that all previous experiments were
+Tel Aviv University, 69978 Tel Aviv, Israel                     carried out solely in the ®eld where it was dicult to
+e-mail: wintere@zoot.tau.ac.il                                  isolate and manipulate single factors that may aect
+868
+
+recovery, the relationship between environmental factors                 Scoring was begun 1 d following lesion in¯iction, due to the copious
+and tissue repair remains unclear. Thus, a need arose for                amount of mucus released during the procedure. Dead corals with
+                                                                         no visible surface tissue remnants were scored as zero percent tissue
+controlled laboratory experiments, in which single fac-                  cover. To determine if the dierences in extent of repair between
+tors may be manipulated, to supplement the ®eld studies                  lesion sizes and the two seasons were signi®cant 8 weeks after lesion
+investigating factors that aect regeneration.                           in¯iction, the results were arcsine transformed and tested using a
+   Fungiid corals are free-living solitary corals that are               two-way ANOVA with replications (Sokal and Rohlf 1995).
+                                                                             To ascertain whether tissue repair rate and extent were dierent
+common to unstable rocky and sandy environments.                         during fall and spring, these procedures were performed during
+Due to their free-living state these corals are naturally                September/November, when water temperatures in the northern
+susceptible to breakage and abrasion due to wave action                  Red Sea are highest (avg. temp. 26 °C), and repeated on new
+and other disturbances (Hoeksema 1988, 1989). Their                      specimens during March to May, when water temperatures are the
+success as a colonizer in these environments may be due                  lowest (avg. temp. 21 °C).
+                                                                             In order to try and neutralize the eect of season on tissue
+in part to their ability to undergo quick repair (Hoek-                  repair and to isolate the role of ambient temperature on coral
+sema 1989). Their detached form made them a good                         repair, parallel laboratory experiments were performed during the
+choice as a model animal since they can be easily                        fall and repeated in the spring with a new set of corals. Fourteen
+manipulated and maintained in the laboratory.                            large (mature) corals, of which two served as controls, were col-
+                                                                         lected and acclimated for 1 week in the laboratory prior to lesion
+   Fungia granulosa, the species chosen for the present                  in¯iction. Twelve large corals underwent removal of 30% surface
+study, is a common soft and rocky bottom dweller in the                  tissue. They were then placed in aquaria containing 0.2 lm ®ltered
+northern Red Sea, and was previously shown to undergo                    seawater under a 12 h light:12 h dark arti®cial light regime at an
+quick repair of tissue and skeleton following damage                     intensity of approximately 90 lmol m)2 s)1 and under two tem-
+                                                                         perature regimes (21 and 25 °C). These temperature regimes and
+(Chadwick and Loya 1990; Kramarsky-Winter and                            seasons were chosen because in the Gulf of Eilat the highest water
+Loya 1996). Prior studies on the reproductive biology of                 temperatures are in the early fall (25 to 26 °C) and the lowest
+these corals showed that this coral is a gonochoric                      temperatures are found during the early spring (21 to 22 °C). Seven
+broadcaster that matures sexually at a size of 5.5 cm in                 large corals were kept at each temperature (six injured and one
+diameter and reproduces during the summer months                         control) and were photographed weekly to ascertain the extent of
+                                                                         repair. The water was changed every 2 d. All corals were fed weekly
+(Kramarsky-Winter and Loya 1998). Gametogenesis                          on one-fourth of a cube per coral of Marine Cuisine Carnivore Diet
+begins in early spring, and reproductive eort ends in                   (San Francisco Bay brand).
+late summer (Kramarsky-Winter and Loya 1998). To                             During the spring (early April), when these fungiid corals begin
+ascertain whether tissue regeneration in F. granulosa is                 their gametogenesis (see Kramarsky-Winter and Loya 1998), 13
+                                                                         additional corals were collected and kept in baskets in situ. Ten
+aected by environmental factors and/or by the coral's                   mature corals (larger than 5.5 cm in diameter) underwent damage
+reproductive state, we compared the extent and rate of                   to 30±40% of the surface tissue. Three undamaged large individuals
+repair of lesions, induced on mature and immature                        were kept as controls. One month later, all these corals were col-
+corals during two seasons, early spring and early fall. In               lected, ®xed in 4% formaldehyde, decalci®ed in a 1:1 solution of
+                                                                         formic acid (50% w/v) and sodium citrate (20% w/v) and processed
+addition, in an attempt to isolate the eect of water                    in a Citadel 2000 tissue processor. The paran-embedded speci-
+temperature on tissue repair, parallel laboratory exper-                 mens were then sectioned (8.0 lm), stained with hematoxylin/eosin
+iments were performed during the same months under                       and examined microscopically to ascertain reproductive state. Only
+dierent ambient water temperatures.                                     female specimens (n = 5 damaged and n = 3 controls) were
+                                                                         scored, since during this time the males were only beginning to
+                                                                         develop and size and stage of the gonads were highly variable. The
+                                                                         oocyte stages (as by Kramarsky-Winter and Loya 1998) and
+Materials and methods                                                    numbers were determined from sections through three gonads from
+                                                                         tissues adjacent to the lesions in each recuperating injured coral and
+                                                                         compared with gonad sections from control corals.
+Individual Fungia granulosa were collected in September 1994
+(n = 64) and March 1995 (n = 64) near the H. Steinitz Marine
+Biological Laboratory, Eilat. Tissue lesions were induced in situ
+using an air pick attached to an underwater regulator placed at a
+distance of 10 cm from the coral surface. This procedure removed
+                                                                         Results
+only the surface tissue from the corallum, leaving an area of intact
+skeleton as well as the deep tissues found between the scleroseptae.     Recovery rates in the ®eld
+Three sizes of wedge-shaped surface lesions (10, 30 and 50% of
+surface tissue) were in¯icted on a total of 60 individuals during each   During the fall months (September to November, avg.
+season. The treatment was carried out on two size groups of corals,
+small or immature individuals (<5.0 cm diameter) (n = 30) and            water temperature 26 °C) all lesion sizes in large indi-
+large or mature individuals (>5.5 cm diameter) (n = 30). The tis-        vidual Fungia granulosa (>5.5 cm diameter) underwent
+sue lesions comprised tissue from the midsection of the coral out-       complete repair within 4 weeks of lesion formation
+ward and did not encompass mouth tissues. Four additional                (Fig. 1a to c). Moreover, 35% of the small- and medi-
+uninjured corals, two of each size class, were placed in the crates as
+controls. All the corals were placed randomly in open plastic crates,    um-sized lesions were completely repaired within 1 week.
+at a depth of 8 m. All the corals were photographed before the           Small individuals (<5.0 cm diameter), however, did not
+in¯iction of a lesion, immediately after lesion formation, and at 1,     always recover fully within 4 weeks (Fig. 1a to c), and
+4, 8, 12 and 16 weeks after lesion in¯iction. The percent tissue re-     40% of the small corals with large lesions died within 8
+moved, as well as the amount of tissue recovery, was recorded using
+underwater photography (Nikonos V) and examined by computer-
+                                                                         weeks after damage (Fig. 1c). The large standard devi-
+ized image analysis (Olympus CUE-3). Scoring was accomplished by         ations in Fig. 1c denote corals that died during the
+measuring percent tissue coverage of the surface of the corallum.        experiment.
+                                                                                                                                      869
+
+
+
+
+Fig. 1 Fungia granulosa. A comparison of repair rates of three lesion        recovered fully regardless of lesion size (Fig. 1d to f ). Of
+sizes in large and small individuals during fall (September to               the small corals, 30% with intermediate and 50% of
+November) 1994 and spring (March to May) 1995. a, b and c represent
+fall experiments with tissue lesions of 10, 30 and 50%, respectively. d, e   those with large lesions died within 8 weeks (see Fig. 1).
+and f represent spring experiments with tissue lesions of 10, 30 and         During this period large corals began to recover from
+50%, respectively (empty diamonds small corals; ®lled squares large          larger lesions (Fig. 1e and f ), repairing the torn edges
+corals) Bars represent standard deviations; n = 10 for each treatment.       and growing new tissues, though complete recovery was
+Note: Survivorship was 100% in corals unless otherwise mentioned.
+During fall, small coral survivorship among specimens with large
+                                                                             not evident, even in small lesions (Fig. 1d). In many
+lesions was 60%. During spring, 70% of small specimens with medium-          cases the large and intermediate lesions were not com-
+sized lesions and 50% of small specimens with large lesions survived         pletely repaired, and large lesions were found covered by
+                                                                             sand and ®lamentous algae. These corals remained af-
+   The experiment was repeated with a new set of corals                      fected for as long as 1 year, and in some cases skeletal
+in March, when water temperatures were at their lowest                       growth was found de novo over the exposed area. The
+(avg. water temperature 21 °C). None of the corals                           process of regeneration ceased 8 weeks after lesion in-
+870
+
+¯iction in all the corals (Fig. 1). There was a signi®cant            repaired tissues took place at the end of the regeneration
+dierence (two-way ANOVA, p < 0.001) in percent of                    process.
+repair 8 weeks after lesion in¯iction between spring and
+fall for all lesion sizes in large corals. Furthermore, there
+was a signi®cant dierence in amount of tissue repair in              Laboratory temperature experiments
+corals with dierent-sized lesions 8 weeks after lesion
+in¯iction (Two-way ANOVA, p < 0.01). A signi®cant                     Generally, corals maintained at higher water tempera-
+interaction was seen between season and lesion size 8                 ture regimes regenerated faster than those kept at lower
+weeks after lesion in¯iction (two-way ANOVA,                          temperatures (Table 1). During the spring months, tis-
+p < 0.05). In small corals the dierence in repair after 8            sue repair rates were low in corals kept at both tem-
+weeks was also dependent on season (Fig. 1).                          peratures, and most of the corals did not undergo
+    The process of tissue repair began as a shrinkage of              complete recovery even 4 weeks after lesion in¯iction
+tissue due to a sloughing o of debris of dead and torn               (Table 1). Only 16.7% of the corals kept at 25 °C
+tissue, and there was a visible patch of bare skeleton                underwent complete repair. The corals that had not
+(Fig. 2a). In the 24 to 48 h following in¯iction the tissues          undergone full recovery 4 weeks after lesion in¯iction
+began to stretch over the bare skeleton. At this point the            were later covered by ®lamentous algae and remained
+regenerating tissues appeared thin and less pigmented                 damaged for over 4 months. During the fall, or post-
+than ``normal'' tissues (Fig. 2b). Pigmentation of                    reproductive months, repair at 25 °C was the quickest,
+                                                                      and 83.3% of the corals maintained at that temperature
+                                                                      were fully repaired within 4 weeks. Only 16.7% of the
+                                                                      corals maintained at 21 °C had undergone complete
+                                                                      tissue repair 4 weeks after lesion in¯iction (Table 1).
+
+
+                                                                      Reproductive eort
+
+                                                                      The gametogenic stage of injured corals was similar to
+                                                                      that of the uninjured control corals. The developmental
+                                                                      stages of the oocytes (Stages II and III, see Kramarsky-
+                                                                      Winter and Loya 1998) in gonads found near the lesions
+                                                                      in the experimental corals did not dier from those of
+                                                                      oocytes of the control corals. Furthermore, mean oocyte
+                                                                      size did not signi®cantly dier between regenerating and
+                                                                      control corals (t-test, p > 0.05; Table 2). However,
+                                                                      fecundity (de®ned as number of oocytes gonad)1) in
+                                                                      injured specimens was signi®cantly lower than in
+                                                                      non-injured specimens (t-test, p < 0.01; Table 2).
+
+
+                                                                      Discussion
+
+                                                                      Tissue repair in the solitary coral Fungia granulosa was
+                                                                      found to depend on a number of extrinsic parameters,
+                                                                      including season, ambient water temperature, coral size,
+
+
+                                                                      Table 1 Fungia granulosa. Percent of large corals undergoing
+                                                                      complete recovery during fall and spring at two dierent tem-
+                                                                      perature regimes in the laboratory (n = 6 at each treatment)
+
+                                                                      Season     Weeks following       Fully recovered corals (%) at:
+                                                                                 damage
+                                                                                                       21 °C          25 °C
+
+                                                                      Fall       1                      0              0
+                                                                                 2                      0             33.3
+                                                                                 4                     16.7           83.3
+Fig. 2 Fungia granulosa. a 1 d following lesion in¯iction (arrow      Spring     1                      0              0
+shows denuded area). b 4 weeks following lesion in¯iction; note the              2                      0              0
+light color of the newly regenerated tissues (arrow shows area                   4                      0             16.7
+previously denuded). Coral diameter = 6.5 cm
+                                                                                                                          871
+
+Table 2 Fulgia granulosa. Average oocyte sizes and average        both the polyps surrounding the lesion and those further
+fecundities 1 month after lesion in¯iction for regenerating and   from it, had greatly reduced fecundities when compared
+control corals
+                                                                  to control corals (Van Veghel and Bak 1994). Whale
+                  Oocyte size      Oocyte       No. of oocytes    (1983) examined the eect of reproduction on tissue
+                  (lm  SD)        stages       gonad)1 (SD)     repair rate in the gorgonian Plexeura homomalla, and
+                                                                  showed that the regeneration rate of small lesions was
+Regenerating      29.91  14.9     II and III   17  1.15
+  (n = 5)                                                         independent of reproductive phase. He reasoned that
+Control (n = 3)    33.2  11.39    II and III   33  9.85         this coral possesses a permanent and independent ener-
+                                                                  getic reserve for repair (Whale 1983). It is possible
+                                                                  though that the lesions were small enough not to aect
+lesion size, as well as on the coral's reproductive state.        the energetic reserves of this coral.
+This is not surprising since seasonal factors, such as                In regenerating Favia favus colonies, the reproductive
+changes in light intensity, temperature and sedimenta-            eort of single polyps in a colony was shown to depend
+tion, are known to aect normal growth in corals                  on size of and repetitiveness of the damage in¯icted, as
+(Dodge et al. 1974; Houck et al. 1977; Lester and Bak             well on the polyp's distance from the damaged area
+1985; Stimson 1987; Guzman and Cortes 1989; Meesters              (Oren et al. 2000). This suggested that although polyps
+et al. 1992; Miller 1995). Thus, these factors are also           distant from the lesion remain reproductive, there is an
+likely to aect regeneration. Factors, such as upwelling          overall colonial priority of energy allocation toward
+events, which cause algal blooms and high sedimenta-              repair over reproduction (Oren et al. 2000). In the soli-
+tion in the northern Red Sea during the spring (Genin             tary Fungia granulosa, all repair and reproductive
+et al. 1995), may lead to the coverage of bare skeletal           reserves are found in the single polyp. The results pre-
+surface of injured corals by ®lamentous algae and sedi-           sented here suggest that in contrast with some of the
+ment, thus preventing tissue repair. This may, in part,           colonial corals, in F. granulosa, if energetic and cellular
+explain the poor regeneration in all the injured                  reserves are insucient for both repair and sexual
+F. granulosa kept in situ during this season. Other fac-          reproduction to take place, reproduction has priority.
+tors, such as changes in water temperature, are known to          Thus, regeneration is arrested in damaged corals and
+aect growth in corals as measured by linear extension            reproduction continues. No signi®cant dierence (t-test,
+or calci®cation rate (Guzman and Cortes 1989; Toma-               p > 0.05) was found between the oocyte sizes in re-
+scik and Logan 1990; Miller 1995; Lough and Barnes                generating and control F. granulosa individuals, though
+1997). Coral populations found in waters with high                fecundity was reduced in regenerating individuals. One
+annual temperatures were found to grow at a faster rate           explanation for this may be that stem cells already
+than those found at lower temperatures (Tomascik and              committed to gametogenesis continue to dierentiate,
+Logan 1990; Miller 1995; Lough and Barnes 1997).                  while those cells which have not entered the pathway of
+Lower water temperatures may cause a decrease in the              dierentiation, are diverted toward repair. This repro-
+coral's metabolism, causing a slowing down of growth.             duction versus regeneration trade-o of stem cells may
+It is thus possible that lower water temperatures found           explain the seasonal dierences in regeneration capa-
+during the spring months in the northern Red Sea may              bilities observed in large (sexually mature) F. granulosa.
+aect repair in fungiids. This may also explain why, in               If the reproductive state of the coral were the sole
+the fall laboratory experiments, F. granulosa kept at             factor aecting regeneration, it would be expected that
+warmer temperatures underwent repair faster and more              immature (small) corals would regenerate faster than
+completely than those kept at lower temperatures. The             mature (large) corals. This, however, is not the case,
+lack of signi®cant dierences in repair rates of individ-         since small or immature corals regenerate at a slower
+uals kept in the laboratory at dierent temperatures              rate and to a lesser extent than larger corals regardless of
+during the spring may be explained by the onset of                season. The dependence of regeneration on coral size has
+gametogenesis occurring at this time, indicating that the         previously been shown in a number of colonial corals
+coral's physiological state also has an eect on its ability      (Bak et al. 1977; Bak and Steward-van Es 1980; Oren
+to undergo repair.                                                et al. 2000). Oren et al. (2000) showed that, in Favia
+    Several workers have previously reported a trade-o           favus, small-lesion repair was unaected by colony size,
+between regeneration and reproduction in corals (Kojis            while the repair of larger lesions was. Loya (1976) found
+and Quinn 1981, 1985; Rinkevich and Loya 1989; Van                that regeneration of tissue and skeleton in the colonial
+Veghel and Bak 1994; Rinkevich 1997). Kojis and Quinn             branching coral Stylophora pistillata was faster in large
+(1981, 1985) showed that damaged Goniastrea colonies              colonies than in small ones. Furthermore, in solitary
+had a lower fecundity than non-damaged controls.                  corals, regeneration of small fragments of the naturally
+Regenerating colonies of the staghorn coral Stylophora            autotomizing and experimentally broken fungiid Diase-
+pistillata had a lower fecundity than non-damaged col-            ris distorta were found to grow at a faster rate than
+onies, an eect that was visible a year later (Rinkevich          larger fragments (Yamashiro and Nishihara 1998).
+and Loya 1989). Van Veghel and Bak (1994) found that              Thus, coral size seems to have an eect on the capacity
+in damaged Montastrea annularis newly regenerated                 for repair. Indeed Chadwick and Loya (1990) found that
+polyps did not contain gonads. They further noted that            small individuals with 10 to 40% tissue and skeletal
+872
+
+mass loss recovered more rapidly than large corals with          rehabilitation programs in general and, particularly, in
+the same percentage of loss. The present results seem to         planning the optimal timing and locations for trans-
+disagree with these ®ndings since smaller corals even            plantation of coral fragments.
+with small lesions did not recuperate as well as large
+corals. One explanation for the discrepancy is the dif-          Acknowledgements We would like to thank Dr. I. Brickner and
+ference in the type of damage. In the previous study,            Dr. O. Mokady for their helpful comments, and Ms. N. Paz for her
+corals were broken, and tissue repair entailed repair over       editorial assistance on this manuscript. This study was supported
+the relatively small areas of the fractured skeleton             by the Israel Academy of Sciences (The Israel Academy of Sciences
+                                                                 and Humanities) and by the Porter Super-Center for Ecological
+(Chadwick and Loya 1990; Yamashiro and Nishihara                 and Environmental Studies at the Tel Aviv University. The
+1998). This process is quicker in thin, small individuals        experiments carried out in this study comply with current Israeli
+than in larger, thicker individuals. Furthermore, once           environmental laws.
+tissue coverage was complete, ensuing skeletal accretion
+in small individuals was faster than in large ones
+(Chadwick and Loya 1990). Another possible explana-
+tion for this discrepancy may be that the actual amount          References
+of tissue damage incurred by the thin, small corals in the
+present study may have been greater than measured                Bak RPM, Brouns JJWM, Heys FML (1977) Regeneration and
+                                                                    aspects of spatial competition in the scleractinian corals Agar-
+externally and may have actually entailed large amounts             icia agaricites and Montastrea annularis. In: Taylor DL (ed)
+of deep tissues as well.                                            Proc 3rd int coral Reef Symp. School of Marine and
+    The process of regeneration is believed to require              Atmospheric Sciences, University of Miami, pp 143±149
+both energy and tissue reserves. It is likely then that          Bak RPM, Criens SR (1981) Survival after fragmentation of col-
+larger corals have larger energy and tissue reserves and            onies of Madracis mirabilis, Acropora palmata and A. cervi-
+                                                                    cornis (Scleractinia) and the subsequent impact of coral disease.
+can undergo repair faster than small corals. Indeed,                In: Gomez ED, et al (eds) Proc 4th int coral Reef Symp. Vol. 2,
+Oren et al. (1997) showed that, in the colonial Favia               Marine Sciences Center, University of the Philippines, Quezon
+favus, lesions with large perimeters cause large portions           City, pp 221±227
+of the colony to become involved in repair and cause             Bak RPM, Steward-van Es Y (1980) Regeneration of super®cial
+                                                                    damage in the scleractininan corals Agaricia agaricites f. pupu-
+translocation of photosynthates from greater portions of            rea and Porites asteroides. Bull mar Sci 30: 883±887
+the colony. The morphology of the solitary fungiid               Chadwick NE, Loya Y (1990) Regeneration after experimental
+includes tissue layers that penetrate the corallum. These           breakage in the solitary reef coral Fungia granulosa Klutzinger,
+deep tissues may act as reserves necessary for regenera-            1879. J exp mar Biol Ecol 142: 221±234
+                                                                 Dodge RE, Aller R, Thomson J (1974) Coral growth related to
+tion, in addition to the tissues surrounding the lesion.            resuspension of bottom sediments. Nature 247: 574±577
+Thus, the quick recovery of large tissue lesions in large        Genin A, Lazar B, Brenner S (1995) Vertical mixing and coral
+individuals may have been due to the unique morphol-                death in the Red Sea following the eruption of Mount Pinna-
+ogy of these fungiids, whereby the amount of tissue                 tubo. Nature 337: 507±510
+remaining which is available for regeneration is much            Goss RJ (1992) The Evolution of regeneration: adaptive or inher-
+                                                                    ent? J theor Biol 159: 241±260
+greater in large, thicker individuals than in small, thin-       Guzman HM, Cortes J (1989) Growth rates of eight species of
+ner ones. This may explain why, in the present experi-              scleractininan corals in the eastern Paci®c (Costa Rica). Bull
+ments, small corals with a large percent of tissue damage           mar Sci 44: 1186±1194
+died, and may also explain why, in previous research             Hall V (1997) Interspeci®c dierences in the regeneration of arti-
+                                                                    ®cial injuries on scleractinian corals. J exp mar Biol Ecol 212:
+(Chadwick and Loya 1990), small corals with a mass loss             9±23
+>40% did not recuperate and eventually died. Fur-                Highsmith RC (1980) Reproduction by fragmentation in corals.
+thermore, in previous work on fungiid regeneration, it              Mar Ecol Prog Ser 7: 207±226
+was found that when repair is not possible due to                Hoeksema BW (1988) Mobility of free-living fungiid corals
+                                                                    (Scleractinia), a dispersion mechanism and survival strategy in
+extreme tissue loss, or due to the absence of the original          dynamic reef habitats. In: Chaat JH, et al (eds) Proc 6th int
+polyp mouth, tissue remnants may form new buds                      coral Reef Symp. Vol. 2. Symposium Executive Committee,
+(Krupp et al. 1993; Kramarsky-Winter and Loya 1996).                Townsville, pp 715±720
+It is likely, therefore, that in these corals there is a crit-   Hoeksema BW (1989) Taxonomy, phylogeny and biogeography of
+ical mass of tissue necessary for regeneration to occur.            mushroom corals (Scleractinia: Fungiidae). Zool Verh (Leiden)
+                                                                    254: 1±295
+    The present study shows that although regeneration           Houck JE, Buddemeier RW, Smith SV, Jokiel PL (1977) The
+is an inherent aspect of an organism's life history, the            response of coral growth rate and skeletal strontium content to
+rate and extent of repair depend not only on genetic                light intensity and water temperature. In Taylor DL (ed) Proc
+factors, but on physiological (e.g. reproductive state)             3rd int coral Reef Symp. Vol. 2. School of Marine and
+                                                                    Atmospheric Sciences, University of Maimi, pp 233±240
+and environmental ones as well. Moreover, it is likely           Kojis BL, Quinn NJ (1981) Aspects of sexual reproduction and
+that the state of the coral's environment, together with            larval development in sexual reproduction and larval develop-
+its physiological state, aect tissue repair processes              ment in the shallow water hermatypic coral, Goniastrea
+synergistically. Understanding the eects of these factors          australensis. Bull mar Sci 31: 558±573
+                                                                 Kojis BL, Quinn NJ (1985) Puberty in Goniastrea favulus age or
+on repair may lead us to a better understanding of the              size limited? In: GabiueÂc, et al (eds) Proc 5th int coral Reef
+process of tissue regeneration. Moreover, such infor-               Congr. Vol. 4. Antenne Museum-EPHE, Moorea, French
+mation is of the utmost importance when planning coral              Polynesia, pp 289±293
+                                                                                                                                         873
+
+Kramarsky-Winter E, Loya Y (1996) Regeneration versus bud-              Miller MW (1995) Growth of a temperate coral: eects of
+   ding in fungiid corals: a trade-o. Mar Ecol Prog Ser 134:              temperature, light, depth, and heterotrophy. Mar Ecol Prog
+   179±185                                                                 Ser 122: 217±225
+Kramarsky-Winter E, Loya Y (1998) Reproductive strategies of            Oren U, Benayahu Y, Loya Y (1997) Eect of lesion size and shape
+   two fungiid species Fungia granulosa and Fungia scutaria from           on regeneration of the Red Sea coral Favia favus. Mar Ecol
+   the Gulf of Eilat. Mar Ecol Prog Ser 174: 175±182                       Prog Ser 146(1): 101±107
+Krupp DA, Jokiel PL, Chartrand TS (1993) Asexual reproduction           Oren U, Benayahu Y, Lubinevsky H, Loya Y (2000) Extent of
+   by the solitary scleractinian coral Fungia scutaria on dead             coral colony integration during regeneration. Ecology (in press)
+   parent coralla in Kanehoe Bay, Oahu, Hawaiian Islands. Coral         Rinkevich B (1997) Do reproduction and regeneration in damaged
+   Reefs 12: 527±534                                                       corals compete for energy allocation? Mar Ecol Prog Ser 143:
+Lester RT, Bak RPM (1985) Eect of environment on regeneration             297±302
+   of tissue lesions in the reef coral Montastrea annularis (Scler-     Rinkevich B, Loya Y (1989) Reproduction in regenerating colonies
+   actinia). Mar Ecol Prog Ser 24: 183±185                                 of the coral Stylophora pistillata. In: Spanier E, Steinberger Y,
+Lough JM, Barnes DJ (1997) Several centuries of variation in               Luria M (eds) Environmental quality and ecosystem stability.
+   skeletal extension, density and calci®cation in massive Porites         Hebrew University, Jerusalem, pp 257±265
+   colonies from the Great Barrier Reef: a proxy for seawater           Sokal RR, Rohlf FJ (1995) Biometry: the principles and practice of
+   temperature and a background of variability against which to            statistics in biological research. W.H. Freeman, New York
+   identify unnatural change. J exp mar Biol Ecol 211: 29±67            Stimson JS (1987) Location, quantity and rate of change in
+Loya Y (1976) Skeletal regeneration in a Red Sea scleractininan            quantity of lipids in tissue of Hawaii hermatypic corals. Bull
+   coral population. Nature 261: 490±491                                   mar Sci 41(3): 889±904
+Meesters EH, Boss A, Gast CG (1992) Eect of sedimentation and          Tomascik T, Logan A (1990) A comparison of peripheral growth
+   lesion position on coral tissue regeneration. In: Richmond RH           rates in the recent solitary coral Scolymia cubensis (Milne-Ed-
+   (ed) Proc 7th int coral Reef Symp Vol. 2. University of Guam,           wards and Haime) from Barbados and Bermuda. Bull mar Sci
+   Mangiloo, pp 671±678                                                    46(3): 799±806
+Meesters EH, Bak RPM (1993) Eect of coral bleaching on tissue          Van Veghel MLJ, Bak RPM (1994) Reproductive characteristics of
+   regeneration and colony survival. Mar Ecol Prog Ser 96:                 the polymorphic Caribbean reef building coral Montastrea
+   189±198                                                                 annularis. III. Reproduction in damaged and regenerating
+Meesters EH, Noordeloos M, Bak RPM (1994) Damage and                       colonies. Mar Ecol Prog Ser 109: 229±233
+   regeneration: links to growth in the reef-building coral             Ward S (1995) The eect of damage on growth, reproduction and
+   Montastrea annularis. Mar Ecol Prog Ser 112: 119±128                    storage of lipids in the scleractinian coral Pocillopra damicornis
+Meesters EH, Wesseling I, Bak RPM (1996) Partial mortality in              (Linnaeus). J exp mar Biol Ecol 187: 193±206
+   three species of reef building corals and the relation with colony   Whale CM (1983) Regeneration of injuries among Jamaican gor-
+   morphology. Bull mar Sci 58(3): 838±852                                 gonians: the role of colony physiology and environment. Biol
+Meesters EH, Wesseling I, Bak RPM (1997) Coral colony tissue               Bull mar biol Lab, Woods Hole 165: 778±790
+   damage in six species of reef-building corals: partial mortality     Yamashiro H, Nishihara M (1998) Experimental study of growth
+   in relation with depth and surface area. J Sea Res 37: 131±             and asexual reproduction in Diaseris distorta (Michelin, 1843),
+   134                                                                     a free-living fungiid coral. J exp mar Biol Ecol 225: 253±267
+

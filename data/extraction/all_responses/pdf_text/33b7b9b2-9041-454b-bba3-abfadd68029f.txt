@@ -1,0 +1,543 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/281350438
+
+
+
+Lesion recovery of two scleractinian corals
+under low pH conditions: Implications for
+restoration efforts
+
+Article in Marine Pollution Bulletin · August 2015
+Impact Factor: 2.99 · DOI: 10.1016/j.marpolbul.2015.08.030
+
+
+
+
+READS
+
+142
+
+
+
+3 authors, including:
+
+             Emily R Hall                                                               Maoz Fine
+             Mote Marine Laboratory                                                     Bar Ilan University
+             8 PUBLICATIONS 12 CITATIONS                                                114 PUBLICATIONS 4,302 CITATIONS
+
+                 SEE PROFILE                                                              SEE PROFILE
+
+
+
+
+All in-text references underlined in blue are linked to publications on ResearchGate,                                 Available from: Emily R Hall
+letting you access and read them immediately.                                                                         Retrieved on: 06 June 2016
+MPB-07136; No of Pages 6
+                                                                       Marine Pollution Bulletin xxx (2015) xxx–xxx
+
+
+
+                                                                      Contents lists available at ScienceDirect
+
+
+                                                                   Marine Pollution Bulletin
+
+                                                  journal homepage: www.elsevier.com/locate/marpolbul
+
+
+
+
+Lesion recovery of two scleractinian corals under low pH conditions: Implications for
+restoration efforts
+Emily R. Hall a,⁎, Breanna C. DeGroot a, Maoz Fine a,b,c
+a
+    Mote Marine Laboratory, 1600 Ken Thompson Parkway, Sarasota, FL 34236, USA
+b
+    The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat-Gan 5920002, Israel
+c
+    The Interuniversity Institute for Marine Science, POB 469, Eilat, Israel
+
+
+
+a r t i c l e            i n f o                            a b s t r a c t
+
+Article history:                                            Some coral restoration efforts are involving cultivation of coral microfragments in land-based pools under
+Received 21 May 2015                                        controlled conditions until they reach viable size for outplanting. However, gaps in knowledge with these efforts
+Received in revised form 14 August 2015                     include effects of changing pH on regeneration rates of tissue lesions and other physiological responses on differ-
+Accepted 17 August 2015
+                                                            ent size fragments. To address this, two fragment sizes of Porites porites and Porites astreoides were artiﬁcially
+Available online xxxx
+                                                            inﬂicted with lesions and incubated in two pH treatments to follow effects on recovery and physiological perfor-
+Keywords:
+                                                            mance. Recovery was signiﬁcantly reduced at reduced pH for P. porites in both fragment sizes; while recovery of
+Coral                                                       P. astreoides was reduced only in the larger fragments. Different responses were also seen for Symbiodinium
+Restoration                                                 density and total protein with pH and fragment size. Effects on lesion recovery rate from pH and fragment size
+Lesions                                                     were species speciﬁc and may be related to morphology and/or energetic constrains.
+pH                                                                                                                                          © 2015 Published by Elsevier Ltd.
+Fragment size
+
+
+
+
+1. Introduction                                                                                  experimental research to support these restoration efforts including
+                                                                                                 effects of future climate scenarios on the regeneration rate of lesions
+    Worldwide, coral reef degradation, caused by natural and anthropo-                           on different size fragments used for restoration purposes. Evidence
+genic stressors has been widely reported (Hughes et al., 2003;                                   has shown that scleractinian corals, key reef builders, may be greatly
+Grimsditch and Salm, 2006; Hoegh-Guldberg and Bruno, 2010). The                                  affected by decreased oceanic pH (Hoegh-Guldberg et al., 2007; Jokiel,
+Florida Keys reef ecosystem has already experienced long-term deterio-                           2011). The existence of coral reefs depends heavily on the skeletal
+ration from environmental and anthropogenic stressors and restoration                            expansion and changes in density of scleractinian corals which is threat-
+efforts are currently taking place (Lirman et al., 2010; Johnson et al.,                         ened by ocean acidiﬁcation (Fabricius et al., 2013). The rate of skeletal
+2011; Page and Vaughan, 2013). Efforts have shown great promise                                  growth of corals is not only essential to coral ﬁtness, reproductive out-
+(Johnson et al., 2011); however it is important to reﬁne restoration                             put, and ecological success, but also for the ability to repair damage
+techniques in light of future climate change. Previous approaches for                            (Ferrari et al., 2012; Tanzil et al., 2013). Corals are frequently subjected
+restoration efforts include relying on natural recruitment (Edwards                              to a multitude of disturbances that cause lesions including: algal abra-
+and Clark, 1999) yet this process can take several years and is some-                            sions or overgrowth, storm damage, sedimentation, disease, tourism
+times unreliable when a reef is already damaged. Another approach                                (e.g. physical damage by breaking off pieces of coral for collection,
+has been transplantation of coral fragments (Hudson and Diaz, 1988;                              lesions from careless snorkeling or diving, anchor damage, and boat
+Johnson et al., 2011; Page and Vaughan, 2013). Transplantation of                                groundings), and ﬁsh bites (Jayewardene, 2010; Palmer et al., 2011;
+fragments has shifted from using broken or rescued coral fragments to                            Bulleri et al., 2013; White et al., 2013; Hamilton et al., 2014). Coral cul-
+growing coral fragments in land and ﬁeld-based nurseries. New tech-                              tivation for restoration purposes also inﬂicts lesions when a coral colony
+niques are even involving microfragments grown in land-based race-                               is fragmented. Regeneration of tissue across a coral lesion is mainly
+ways under controlled conditions until they reach viable size for                                fueled by the bordering polyps and tissue, and begins with the inward
+transplantation onto the reef where they may grow faster and fuse to-                            progression of undifferentiated tissue created by the polyps followed
+gether to form larger colonies (Page and Vaughan, 2013). However,                                by new polyps (Denis et al., 2011). Regeneration is also likely dependent
+there are gaps in knowledge that need to be addressed through                                    on the lesion surface area to perimeter ratio (Meesters et al., 1994;
+                                                                                                 Jayewardene, 2010), and varies with species (Denis et al., 2013;
+    ⁎ Corresponding author.                                                                      Horwitz and Fine, 2014). However, regeneration of lesions can
+      E-mail address: emily8@mote.org (E.R. Hall).                                               represent a signiﬁcant drain on energy resources available for coral
+
+
+http://dx.doi.org/10.1016/j.marpolbul.2015.08.030
+0025-326X/© 2015 Published by Elsevier Ltd.
+
+
+    Please cite this article as: Hall, E.R., et al., Lesion recovery of two scleractinian corals under low pH conditions: Implications for restoration efforts,
+    Marine Pollution Bulletin (2015), http://dx.doi.org/10.1016/j.marpolbul.2015.08.030
+2                                                               E.R. Hall et al. / Marine Pollution Bulletin xxx (2015) xxx–xxx
+
+
+maintenance, growth, and reproduction and can have long lasting                                   allowed to acclimate in a running seawater system (maintained at
+effects on coral colonies (Guzmán et al., 1994).                                                  pH 8.1 and constant temperature of 26 °C) for 24 h before they were di-
+    Current goals for coral reef restoration include identifying, under-                          vided to experimental aquaria and remained in the system for 60 days
+standing, and communicating risks of corals to climate change, ocean                              at two different pH levels (8.1 and 7.6) prior to fragmentation and lesion
+acidiﬁcation, and other environmental perturbations as well as enhanc-                            inﬂiction. Seawater pH was adjusted by aeration using the well-water
+ing strategic management of coral reef ecosystems through improved                                system as described in Hall et al. (2012). Water turnover was adjusted
+and applied understanding of those impacts (NOAA, 2009). Therefore,                               to 50% aquarium volume per hour. The pH, temperature, and salinity
+it is important to understand how corals will be affected in future                               of individual aquarium tanks were monitored twice daily using a
+climate scenarios. Preparation of fragments for restoration includes                              Mettler Toledo pH meter (SevenGo proTM, OH, USA) with automatic
+fragmentation of hundreds of corals, resulting in lesions that have to                            temperature compensation and pH combination electrode (InLab,
+recuperate quickly in order to prevent pathogens and boring organ-                                Mettler Toledo, OH, USA) and a YSI multiprobe (Pro1030, OH, USA).
+isms from penetrating to the coral tissue and exposed skeleton                                    Prior to experiments, the pH electrode was calibrated against National
+(Bowden-Kerby, 2001; Rinkevich, 2005). Faster healing processes will                              Bureau of Standards (NBS) scale buffers of 4.01, 7.00, and 10.00 at
+likely allow for a better chance of survival and ability to allocate more                         25 °C. The manufacturer's technical speciﬁcations of the pH meter are
+energy to growth. Nevertheless, once those fragments are placed in                                0.01 pH for resolution and ±0.01 (standard error) for accuracy. After
+the wild, they are just as susceptible to new lesions. Therefore, it                              60 days in treatment tanks, corals were sectioned into seven 1 cm2
+is also important to understand how different restoration efforts and                             (1 × 1) and seven 25 cm2 (5 × 5) fragments and allowed to acclimate
+techniques will be affected in future climate scenarios, especially chang-                        again for 30 days. After acclimation, artiﬁcial circular lesions (10% of sur-
+es in pH (or ocean acidiﬁcation). Ocean acidiﬁcation refers not only to                           face area) were inﬂicted on coral fragments with an air brush and frag-
+changes in seawater pH but also changes in other carbonate chemistry                              ments were separated into 12 aquaria with 4–5 replications of each pH
+parameters, however changes in pH alone are potentially enough of a                               and fragment size combination: 8.1/1 × 1; 8.1/5 × 5; 7.6/1 × 1; and 7.6/
+stressor based on the “proton ﬂux hypotheses” (Jokiel, 2011). Here,                               5 × 5 in ﬂow through aquarium tanks. Fragments were allowed to accli-
+we report on how reduced pH conditions affect lesion regeneration in                              mate for 10 more days to allow for healing. For lesion recovery measure-
+varying sized fragments of Porites porites and Porites astreoides. We                             ments, photographs were taken of each coral by digital camera at a ﬁxed
+chose to use future predicted values of sea surface pH values for the                             distance and processed with ImageJ® software daily (Fig. 1). Recovery
+next century (IPCC, 2014). This study is the ﬁrst to determine if                                 of lesions was quantiﬁed and expressed as percent tissue regeneration
+fragment size effects tissue regeneration in low pH conditions and                                from day 1 to day 20. After 20 days, short term physiological and func-
+could be greatly beneﬁcial to restorative efforts.                                                tional responses were measured using chlorophyll a, total protein, zoo-
+                                                                                                  xanthellae counts, and surface area as described below. Short term
+2. Materials and methods                                                                          responses were measured because many of the fragments were fully re-
+                                                                                                  covered from lesions after 20 days.
+2.1. Experimental design
+                                                                                                  2.2. Tissue removal, surface area, zooxanthellae, chlorophyll a, and protein
+   Four colonies of two western Atlantic corals (P. porites and
+P. astreoides) were collected from Wonderland Reef (24°33.69 N,                                      At the end of the experiment, coral tissue was completely removed
+081°30.18 W) located in the Lower Keys portion of the Florida Keys                                from each fragment using an air brush and ﬁltered seawater (0.2 μm
+National Marine Sanctuary in August 2013 at 8 m depth and transported                             FSW). The skeleton was retained for surface area determination follow-
+by boat to the Mote Tropical Research Laboratory (Mote TRL) in                                    ing methods by Marsh (1970). Brieﬂy, pieces of aluminum foil were
+Summerland Key, Florida. The colonies were labeled by colony, and                                 wrapped around the coral skeleton to cover all surface area of the tissue
+
+
+
+                                                             pH 8.1                                                               pH 7.6
+                                                  Day 0                       Day 9                              Day 0                          Day 9
+
+
+
+
+                           Porites astreoides
+
+
+
+
+                         1x1 cm         5x5 cm
+
+
+
+
+                             Porites porites
+
+
+
+
+                         1x1 cm          5x5 cm
+
+
+
+      Fig. 1. Lesion recovery of representative Porites porites and P. astreoides after 10 days under 2 pH conditions (C-8.1 and L-7.6) and for 2 fragment sizes (1 × 1 cm and 5 × 5 cm).
+
+
+    Please cite this article as: Hall, E.R., et al., Lesion recovery of two scleractinian corals under low pH conditions: Implications for restoration efforts,
+    Marine Pollution Bulletin (2015), http://dx.doi.org/10.1016/j.marpolbul.2015.08.030
+                                                                                         E.R. Hall et al. / Marine Pollution Bulletin xxx (2015) xxx–xxx                                             3
+
+
+                       A                                                                                                  B
+                                                                            P. porites                                                                     P. astreoides
+                                            100
+
+
+
+
+                  Percent Lesion Recovery
+                                             90
+                                             80
+                                             70
+                                             60
+                                             50
+                                             40
+                                             30
+                                             20
+                                             10
+                                              0
+                                                              L(5x5)        L(1x1)       C(5x5)          C(1x1)                   L(5x5)              L(1x1)          C(5x5)   C(1x1)
+
+
+Fig. 2. Average percent lesion recovery (mean ± SEM, n = 9) after 10 days for (A) Porites porites and (B) P. astreoides in low (L-7.6) and control (C-8.1) pH and two fragment sizes (1 × 1 cm
+and 5 × 5 cm).
+
+
+(excluding the lesion area). The aluminum foil was then removed,                                                           3. Results
+measured, and weighed with an analytical balance and calibrated
+against a standard linear curve for surface area and weight. To estimate                                                   3.1. Lesion recovery
+zooxanthellae density and chlorophyll concentration, the tissue slurry
+was collected in a Falcon tube with up to 45 mL of the sample slurry                                                           Lesion recovery rate was signiﬁcantly lower at pH 7.6 than pH 8.1
+and homogenized. A sub-sample of the slurry (1 mL) was taken for                                                           (average 78% compared to average 52% after 9 days of incubation) for
+zooxanthellae counts. Symbiont densities were counted using a com-                                                         both fragment sizes of P. porites (F(1,32) = 15.087, p b 0.001, Fig. 2(a)).
+pound light microscope (Leica CME, Buffalo, Illinois, USA) and hemocy-                                                     No signiﬁcant differences were found between fragment sizes for
+tometer. The remaining tissue slurry for each colony was centrifuged at                                                    P. porites at either pH as determined by one-way ANOVA. In
+5000 rpm for 5 min. Subsequently, the supernatant was removed and                                                          P. astreoides however, no signiﬁcant difference in recovery rate was
+the zooxanthellae were re-suspended in 5 mL of 90% acetone for extrac-                                                     found between pH treatments however fragment size showed signiﬁ-
+tion of chlorophyll a. Samples were kept in darkness at 4 °C for a period                                                  cant reduction in percent lesion recovery rate for larger fragments as de-
+of 24 h to ensure total extraction. Chlorophyll content was determined                                                     termined by Kruskal–Wallis (p b 0.05, chi-squared approx. = 7.114
+using a spectrophotometer (Perkin Elmer, Massachusetts, USA) based                                                         with 1 df, Fig. 2(b)).
+on methods by (Jeffrey and Humphry, 1975). Samples were measured
+at 750, 663 and 630 nm. Absorbance at 750 nm was used to control                                                           3.2. Total protein, Symbiodinium density, and chlorophyll concentration
+for sample turbidity, and chlorophyll content was calculated from ab-
+sorbance values at 663 and 630. A 100 μL subsample of the slurry was                                                           Exposure to reduced pH showed no signiﬁcant effect on
+taken for total protein analysis using the Bradford protocol (Bradford,                                                    Symbiodinium density of P. porites. However, Symbiodinium density
+1976). Samples were mixed with dye reagent (200 μL, Coomassie                                                              was reduced in larger fragment sizes (F(1,24) = 8.261, p b 0.05,
+Brilliant Blue G-250) and incubated for 30 min in the dark at room tem-                                                    Fig. 3(a)). Similarly, Symbiodinium density of P. asteroides was also only
+perature before the optical density was read on a spectrophotometer                                                        reduced with the larger fragment size (F(1,24) = 25.434, p b 0.001,
+(595 nm, Eppendorf BioPhotometer plus, Germany). Samples were                                                              Fig. 3(b)). No signiﬁcant differences in chlorophyll a concentration were
+run against a standard calibration curve of Bovine Serum Albumin and                                                       seen in either species with any treatment (Fig. 4). Total protein concen-
+were normalized to surface area.                                                                                           tration per surface area in P. porites was signiﬁcantly lower with reduced
+                                                                                                                           pH treatment in both fragment sizes (F(1,24) = 20.254, p b 0.001,
+2.3. Statistics                                                                                                            Fig. 5(a)). In P. asteroides total protein concentration per surface area
+                                                                                                                           was also signiﬁcantly lower with reduced pH treatment (F(1,24) =
+   The software package Systat11® was used to examine indepen-                                                             17.166, p b 0.001) and was signiﬁcantly lower in larger fragments than
+dent and interaction relationships between treatment variables.                                                            in smaller fragments (F(1,24) = 10.460, p b 0.05, Fig. 5).
+One-way ANOVAs (with pH and fragment size as the independent
+variables) were run on percent recovery rates, zooxanthellae density,                                                      4. Discussion
+chlorophyll a, and protein for P. porites and P. astreoides to compare
+pH (L and C) and fragment size (5 × 5 cm and 1 × 1 cm) treatments.                                                            This study investigated the effect of reduced pH and fragment size
+Kruskal–Wallis one tests were run for non-normal sample sets.                                                              on lesion recovery rates of con-generic coral species used for coral reef
+Shapiro–Wilk tests were run for normality.                                                                                 restoration. Lesion recovery is a life-preserving process that often
+
+
+                                        A                                                                                 B
+                                                                            P. porites                                                                     P. astreoides
+
+
+                   Zooxanthellae cell/surface area
+                                                     350000
+                                                     300000
+                                                     250000
+                                                     200000
+
+
+
+
+                              (cell/cm
+                                                     150000
+                                                     100000
+                                                      50000
+                                                          0
+                                                                   L(5X5)       L(1X1)      C(5X5)         C(1X1)                 L(5X5)             L(1X1)           C(5X5)   C(1X1)
+
+
+Fig. 3. Zooxanthellae cell/surface area (mean ± SEM, n = 7) for (A) Porites porites and (B) P. astreoides in low (L-7.6) and control (C-8.1) pH and two fragment sizes (1 × 1 cm and 5 × 5 cm).
+
+
+  Please cite this article as: Hall, E.R., et al., Lesion recovery of two scleractinian corals under low pH conditions: Implications for restoration efforts,
+  Marine Pollution Bulletin (2015), http://dx.doi.org/10.1016/j.marpolbul.2015.08.030
+4                                                                                      E.R. Hall et al. / Marine Pollution Bulletin xxx (2015) xxx–xxx
+
+
+                       A                                                                                               B
+                                                                          P. porites                                                                     P. astreoides
+
+
+                Chlorophyll a/zooxanthellae cell
+                                                     0.0002
+                                                    0.00018
+                                                    0.00016
+                                                    0.00014
+                                                    0.00012
+                                                     0.0001
+
+
+
+
+                           ( g/cell)
+                                                    0.00008
+                                                    0.00006
+                                                    0.00004
+                                                    0.00002
+                                                          0
+                                                                 L(5X5)      L(1X1)     C(5X5)          C(1X1)                 L(5X5)              L(1X1)           C(5X5)    C(1X1)
+
+
+
+Fig. 4. Chlorophyll a/zooxanthellae cell (mean ± SEM, n = 7) for (A) Porites porites and (B) P. astreoides in low (L-7.6) and control (C-8.1) pH and two fragment sizes (1 × 1 cm and
+5 × 5 cm).
+
+
+
+
+derives energy and cells at the expense of other physiological processes                                                 solitary colonies recover faster than large corals with similar amounts
+(Meesters et al., 1997). Lesion recovery rates have been extensively                                                     of damage (Chadwick and Loya, 1990; Andres and Rodenhouse, 1993;
+studied (Lirman, 2000; Cròquer et al., 2002; Henry and Hart, 2005;                                                       Lirman, 2000), and others have shown no relationship between colony
+Tentori and Allemand, 2006; Titlyanov and Titlyanov, 2009), however                                                      size and regeneration rate (Wahle, 1983). After damage, repair requires
+many studies have been long-term (N30 days) and haven't focused on                                                       metabolic resources in the form of carbon which are trans-located from
+restoration efforts. In this short term study, we saw 90–100% recovery                                                   undamaged portions of the coral (Cameron and Edmunds, 2014). Thus,
+in 22% of individual fragments, all of which were from the smaller                                                       even when corals of varying sizes' tissues are damaged to the same
+fragment size in both species. Our data also agrees with others (i.e.                                                    percentage, the larger coral should be able to recover faster due to its
+Horwitz and Fine 2014) that lesion recovery rates are reduced in low                                                     ability to translocate resources from larger tissue mass faster. It has
+pH conditions and with fragment size, however these effects are                                                          also been shown that expenditure of energy for lesion recovery is
+species-speciﬁc. Jokiel (2011) found that reduced pH in the seawater                                                     lower in larger sizes or that larger colonies have more energy available
+surrounding corals limits removal of [H+] from the site of calciﬁcation                                                  for regeneration (Loya, 1976). A larger size fragment can enhance stabil-
+in the corals and from coral cells which could potentially depress intra-                                                ity as new corals are outplanted or during storm events and serve as a
+cellular pH and thus compromise the capacity of cells to regenerate and                                                  larger resource area for lesion regeneration (Highsmith et al., 1980;
+repair lesions (Fig. 5).                                                                                                 Bak 1983). However, the threshold size needed for complete regenera-
+    Other studies have determined that lesion recovery is inﬂuenced by                                                   tion will depend on the degree of injury and is likely species-speciﬁc
+size and shape of the lesion. Lirman (2000) found that lesion regenera-                                                  (Bak 1983). While size of fragment did not affect recovery rate in
+tion in Acropora palmata is inﬂuenced by the initial size and perimeter of                                               P. porites, this was not the case with P. astreoides, indicating that frag-
+the lesions, but not by the size of colonies or fragments bearing the                                                    ment size and rate of lesion recovery is species-speciﬁc.
+lesions. Oren et al. (1997) also found that both size and shape of lesions                                                   Differences between con-generic species may be an effect of energy
+inﬂuence recovery rates. In the present study, each fragment was                                                         allocation capabilities that are species speciﬁc or due to different
+inﬂicted with the same percent lesion area (10% of the fragment size).                                                   morphologies. P. porites and P. astreoides are con-generic corals that
+Therefore, lesion area was reduced with fragment size and our results                                                    have previously shown differential responses to different stressors
+agree with other studies showing that larger lesions do not show as                                                      (Hall et al. unpublished). In the present study, only P. astreoides showed
+signiﬁcant recovery over time. Location of lesions on coral colonies or                                                  reduced lesion recovery rates in larger fragments, regardless of pH
+fragments might also be a factor in recovery rate. If lesions are nearer                                                 while P. porites only showed reduced recovery under reduced pH.
+younger polyps where energy is being used for faster growth, then                                                        P. porites is a branching coral which often has thinner tissue layers
+recovery rates may be faster (Pearse and Muscatine, 1971). The role of                                                   that provides less energy-rich compounds, resulting in lower resistance
+lesion position on fragments was not examined during this study but                                                      to environmental changes (Jiménez et al., 2001; Loya et al., 2001;
+may have an effect, especially on the larger, branching colonies.                                                        McClanahan et al., 2001). Independent of morphology, regulation and
+    The effects of colony or fragment size on lesion recovery have been                                                  compensation of the organism intra- and extracellular acid–base
+studied previously with differing results (Loya, 1976; Bak and Van Es,                                                   balance is energy costly and even more so under a high pCO2/low pH
+1980; Wahle, 1983; Chadwick and Loya, 1990; Andres and Rodenhouse,                                                       conditions when compensation is required to maintain homeostasis
+1993; Lirman, 2003). Some coral species have shown reduced recovery                                                      (Fabry et al. 2008). Under stressful conditions (such as acidosis) the
+capabilities in smaller colonies (Loya, 1976), others show that small                                                    coral resources are re-directed into colony maintenance and cell pH
+
+
+
+                     A                                                                                                  B
+                                                                          P. porites                                                                     P. astreoides
+                                                    0.5
+
+
+
+                Protein/surface area
+                                                   0.45
+                                                    0.4
+                                                   0.35
+                                                    0.3
+
+
+
+                     (mg/cm2)
+                                                   0.25
+                                                    0.2
+                                                   0.15
+                                                    0.1
+                                                   0.05
+                                                      0
+                                                              L(5X5)       L(1X1)      C(5X5)           C(1X1)                  L(5X5)              L(1X1)           C(5X5)   C(1X1)
+
+
+    Fig. 5. Protein/surface area (mean ± SEM, n = 7) for (A) Porites porites and (B) P. astreoides in low (L-7.6) and control (C-8.1) pH and two fragment sizes (1 × 1 cm and 5 × 5 cm).
+
+
+    Please cite this article as: Hall, E.R., et al., Lesion recovery of two scleractinian corals under low pH conditions: Implications for restoration efforts,
+    Marine Pollution Bulletin (2015), http://dx.doi.org/10.1016/j.marpolbul.2015.08.030
+                                                      E.R. Hall et al. / Marine Pollution Bulletin xxx (2015) xxx–xxx                                                                 5
+
+
+homeostasis, at the cost of metabolic depression and changes in cell                    (POR2012-M5). The authors would like to thank Erich Bartels and
+membrane transporters (Pörtner et al., 2000; Kaniewska et al., 2012).                   Cory Walter for ﬁeld support, Christina Kennedy and Joseph Mandara
+Intra and extracellular pH in corals was shown to be regulated and                      for laboratory assistance, Rebecca Hall for graphics support, and Dave
+maintained at a steady state under increased pCO2 conditions (Venn                      Vaughan, Chris Page, and Mark Knowles for Mote Tropical Research
+et al., 2013), suggesting increased energy investment. For an energeti-                 Laboratory facilities support.
+cally costly process such as tissue regeneration, allocation of energy
+towards basic cellular homeostasis (acid–base regulation) may mean
+energetic deﬁciency, leading to slower regeneration.                                    References
+    Recovery time might also be a factor in lesion recovery rates. Recov-
+                                                                                        Albright, R., Langdon, C., 2011. Ocean acidiﬁcation impacts multiple early life history
+ery of a damaged surface slows down with time, and may result in                            processes of the Caribbean coral Porites astreoides. Glob. Chang. Biol. 17, 2478–2487.
+permanent lesions, although some corals such as A. palmata, can fully                   Albright, R., Mason, B., Langdon, C., 2008. Effect of aragonite saturation state on settlement
+recover from all lesions in 80 days (Bak 1983). Montastraea annularis                       and post-settlement growth of Porites astreoides larvae. Coral Reefs 27, 485–490.
+                                                                                        Andres, N.G., Rodenhouse, N.L., 1993. Resilience of corals to hurricanes: a simulation
+showed an exponential decrease in recovery rate as time increased                           model. Coral Reefs 12, 167–175.
+and is also inﬂuenced by size, type, and position of the lesion (Cròquer                Aronson, R.B., Macintyre, I.G., Wapnick, C.M., O'Neill, M.W., 2008. Phase shifts, alternative
+et al., 2002). In the present study, only small fragments of both species                   states, and the unprecedented convergence of two reef systems. Ecology 85,
+                                                                                            1876–1891.
+showed 100% recovery within 9 days. Of the completely recovered frag-                   Bak, R.P.M., Van Es, Y.S., 1980. Regeneration of superﬁcial damage in the scleractinian
+ments, the majority for P. porites were in control pH treatment while                       corals Agaricia agaricites, F. purpurea and Porites astreoides. Bull. Mar. Sci. 30, 883–887.
+there were no differences with pH for P. astreoides. Regeneration of                    Bak, R.P.M., 1983. Neoplasia, regeneration and growth in the reef-building coral Acropora
+                                                                                            palmata. Marine Biology 77 (3), 221–227.
+lesions also requires reallocation of energy such as calciﬁcation and pro-
+                                                                                        Bowden-Kerby, A., 2001. Low-tech coral reef restoration methods modeled after natural
+tein production (Bak 1983). Previous work has shown that calciﬁcation                       fragmentation processes. Bull. Mar. Sci. 69, 915–931.
+of Porites spp. in general is reduced in low pH environments (Lough and                 Bradford, M.M., 1976. A rapid and sensitive method for the quantitation of microgram
+Barnes, 2000; Albright et al., 2008; Cohen et al., 2009). The ability of                    quantities of protein utilizing the principle of protein–dye binding. Anal. Biochem.
+                                                                                            72, 248–254.
+corals to repair damage and cope with stressors can also be attributed                  Bulleri, F., Couraudon-Reale, M., Lison de Loma, T., Claudet, J., 2013. Variability in the
+to protein concentration. In the present study, protein concentration                       effects of macroalgae on the survival and growth of corals: the consumer connection.
+was reduced in low pH environments for both species. Higher protein                         PLoS One 8, e79712. http://dx.doi.org/10.1371/journal.pone.0079712.
+                                                                                        Cameron, C.M., Edmunds, P.J., 2014. Effects of simulated ﬁsh predation on small colonies
+concentration per surface area in smaller fragments of P. astreoides                        of massive Porites spp. and Pocillopora meandrina. Mar. Ecol. Prog. Ser. 508, 139–148.
+may explain the faster regeneration rate in small fragments compared                    Chadwick, N.E., Loya, Y., 1990. Regeneration after experimental breakage in the solitary
+to larger fragments. Lower concentrations of Symbiodinium are an                            reef coral Fungia granulosa Klunzinger, 1879. J. Exp. Mar. Biol. Ecol. 142, 221–234.
+                                                                                        Cohen, A.L., McCorkle, D.C., de Putron, S., Gaetani, G.A., Rose, K.A., 2009. Morphological
+indicator of stress as well (Tremblay et al., 2013; Horwitz and Fine                        and compositional changes in the skeletons of new coral recruits reared in acidiﬁed
+2013). In this study, P. astreoides had lower symbiont density in the                       seawater: insights into the biomineralization response to ocean acidiﬁcation.
+larger fragment size than the smaller size, corresponding with lower                        Geochem. Geophys. Geosyst. 10, Q07005. http://dx.doi.org/10.1029/2009GC002411.
+                                                                                        Crook, E.D., Cohen, A.L., Rebolledo-Vieyra, M., Hernandez, L., Paytan, A., 2013. Reduced
+recovery rates.                                                                             calciﬁcation and lack of acclimatization by coral colonies growing in areas of persis-
+    Our data agrees with others, showing higher recovery rates in ambi-                     tent natural acidiﬁcation. PNAS 110, 11044–11049.
+ent pH conditions, however there are many other factors not taken into                  Cròquer, A., Villamizar, E., Noriega, N., 2002. Environmental factors affecting tissue regen-
+                                                                                            eration of the reef-building coral Montastraea annularis (Faviidae) at Los Roques
+account in this study such as temperature (Meesters and Bak, 1993;
+                                                                                            National Park, Venezuela. Rev. Biol. Trop. 50, 1055–1065.
+Kramarsky-Winter and Loya, 2000), bleaching (Meesters and Bak,                          Denis, V., Debreuil, J., de Palmas, S., Richard, J., Guillaume, M.M., Bruggemann, J.H., 2011.
+1993; Fine et al., 2002), food availability (Fisher et al., 2007), sedimen-                 Lesion regeneration capacities in populations of the massive coral Porites lutea at
+tation (Meesters et al., 1992), continuous grazing, and other environ-                      Re'union Island: environmental correlates. Mar. Ecol. Prog. Ser. 428, 105–117.
+                                                                                        Denis, V., Guillaume, M.M., Goutx, M., de Palmas, S., Debreuil, J., Baker, A.J., Boonstra, R.K.,
+mental impacts. We found that the two studied species are able to                           Bruggeman, J.H., 2013. Fast growth may impair regeneration capacity in the
+function and recover from injury in different environmental conditions.                     branching coral Acropora muricata. PLoS One 8, e72618. http://dx.doi.org/10.1371/
+This is likely a consequence of shifting of energy from growth, calciﬁca-                   journal.pone.0072618.
+                                                                                        Edmunds, P.J., Gates, R.D., 2008. Acclimatization in tropical reef corals. Mar. Ecol. Prog. Ser.
+tion, reproduction, or other functions. We also show that fragment size                     361, 307.
+and seawater pH do have implications for lesion regeneration. Although                  Edwards, A.J., Clark, S., 1999. Coral transplantation: a useful management tool or misguid-
+P. porites and P. astreoides are two common coral species that are                          ed meddling? Mar. Pollut. Bull. 37, 8–12.
+                                                                                        Fabricius, K.E., De'ath, Noonan, S., Uthicke, S., 2013. Ecological effects of ocean acidiﬁca-
+prevalent in the western Atlantic and are not currently a main focus                        tion and habitat complexity on reef-associated macroinvertebrate communities.
+for restoration efforts, environmental changes have reduced percent                         Proc. R. Soc. B 281 (doi: 20132479).
+coverage of corals worldwide, and P. astreoides and P. porites have be-                 Fabry, V.J., Seibel, B.A., Feely, R.A., Orr, J.C., 2008. Impacts of ocean acidiﬁcation on marine
+                                                                                            fauna and ecosystem processes. ICES Journal of Marine Science: Journal du Conseil 65
+come a focus for environmental effects on what's considered a more re-
+                                                                                            (3), 414–432.
+silient coral (Lirman 2003; Edmunds and Gates, 2008; Aronson et al.,                    Ferrari, R., Gonzalez-Rivero, M., Mumby, P.J., 2012. Size matters in competition between
+2008; Albright et al., 2008; Green et al., 2008; Albright and Langdon,                      corals and macroalgae. Mar. Ecol. Prog. Ser. 467, 77–88.
+                                                                                        Fine, M., Oren, U., Loya, Y., 2002. Bleaching effect on regeneration and resource transloca-
+2011; Crook et al., 2013). In the short term, small fragment size might
+                                                                                            tion in the coral Oculina patagonica. Mar. Ecol. Prog. Ser. 234, 119–125.
+be more beneﬁcial for lesion recovery, although this is species-                        Fisher, E.M., Fauth, J.E., Hallock, P., Woodley, C.M., 2007. Lesion regeneration rates in reef-
+speciﬁc. pH also has an inﬂuence on lesion recovery rate and must be                        building corals Montastraea spp. as indicators of colony condition. Mar. Ecol. Prog. Ser.
+taken into account as oceanic chemical shifts are occurring (IPCC,                          339, 61–71.
+                                                                                        Green, D.H., Edmunds, P.J., Carpenter, R.C., 2008. Increasing relative abundance of Porites
+2014). Energy shifts in corals is vital for lesion recovery, but is also spe-               astreoides on Caribbean reefs mediated by an overall decline in coral cover. Mar. Ecol.
+cies speciﬁc. We feel that this is beneﬁcial information for restoration                    Prog. Ser. 359, 1–10.
+efforts; however there are other factors that should be examined.                       Grimsditch, G.D., Salm, R.V., 2006. Coral Reef Resilience and Resistance to Bleaching. IUCN,
+                                                                                            Gland, Switzerland.
+There may be greater risk of prey of an entire colony of smaller frag-                  Guzmán, H.M., Burns, K.A., Jackson, J.B.C., 1994. Injury, regeneration and growth of
+ments if not protected during ﬁrst few months of growth when                                Caribbean reef corals after a major oil spill in Panama. Mar. Ecol. Prog. Ser. 105,
+outplanted and recovery rates may slow down over longer periods of                          231–241.
+                                                                                        Hall, E.R., Vaughan, D., Crosby, M.P., 2012. Development of ocean acidiﬁcation ﬂow-thru
+time.                                                                                       experimental raceway units (OAFTERU). Proc 12th Int Coral Reef Symp Session 8
+                                                                                            Effects of Ocean Acidiﬁcation.
+Acknowledgments                                                                         Hamilton, S.L., Smith, J.E., Price, N.N., Sandin, S.A., 2014. Quantifying patterns of ﬁsh
+                                                                                            herbivory on Palmyra Atoll (USA), an uninhabited predator-dominated central Paciﬁc
+                                                                                            coral reef. Mar. Ecol. Prog. Ser. 501, 141–155.
+   Samples were collected under permit # FKNMS-2013-106. This                           Henry, L.-A., Hart, M., 2005. Regeneration from injury and resource allocation in sponges
+project was funded by the Florida Protect Our Reefs Grants Program                          and corals — a review. Int. Rev. Hydrobiol. 90, 125–158.
+
+
+ Please cite this article as: Hall, E.R., et al., Lesion recovery of two scleractinian corals under low pH conditions: Implications for restoration efforts,
+ Marine Pollution Bulletin (2015), http://dx.doi.org/10.1016/j.marpolbul.2015.08.030
+6                                                                    E.R. Hall et al. / Marine Pollution Bulletin xxx (2015) xxx–xxx
+
+Highsmith, R.C., Riggs, A.C., D'Antonio, C.M., 1980. Survival of hurricane generated coral             Loya, Y., 1976. Recolonization of Red Sea corals affected by natural catastrophes and man-
+     fragments and a disturbance model of reef calciﬁcation/growth rates. Oecologia 46,                     made perturbations. Ecology 57, 278–289.
+     322–329.                                                                                          Loya, Y., Sakai, K., Yamazato, K., Nakano, Y., Sambali, H., van Woesik, R., 2001. Coral
+Hoegh-Guldberg, O., Bruno, J.F., 2010. The impact of climate change on the world's marine                   bleaching: the winners and the losers. Ecol. Lett. 4, 122–131.
+     ecosystems. Science 328, 1523–1528.                                                               Marsh, 1970. Primary productivity of reef-building calcareous red algae. Bull. Ecol. Soc.
+Hoegh-Guldberg, O., Mumby, P.J., Hooten, A.J., Steneck, R.S., Greenﬁeld, P., Gomez, E.,                     Am. 51, 255–263.
+     Harvell, C.D., Sale, P.F., Edwards, A.J., Caldeira, K., Knowlton, N., Eakin, C.M.,                McClanahan, T., Muthiga, N., Mangi, S., 2001. Coral and algal changes after then 1998 coral
+     Igleasias-Prieto, R., Muthiga, N., Bradbury, R.H., Dubi, A., Hatziolos, M.E., 2007. Coral              bleaching: interaction with reef management and herbivores on Kenyan reefs. Coral
+     reefs under rapid climate change and ocean acidiﬁcation. Science 318, 1737–1742.                       Reefs 19, 380–391.
+Horwitz, R., Fine, M., 2014. High CO2 detrimentally affects tissue regeneration of Red Sea             Meester, E.H., Bak, R.P.M., 1993. Effects of coral bleaching on tissue regeneration potential
+     corals. Coral Reefs 33, 819–829.                                                                       and colony survival. Mar. Ecol. Prog. Ser. 96, 189–198.
+Hudson, J.H., Diaz, R., 1988. Damage survey and restoration of M/V Wellwood grounding                  Meesters, E.H., Bos, A., Gast, G.J., 1992. Effects of sedimentation and lesion position on
+     site, Molasses Reef, Key Largo national marine sanctuary, Florida. Proc 6th Int Coral                  coral tissue regeneration. Proc 7th Int Coral Reef Symp.
+     Reef Symp.                                                                                        Meesters, H.W.G., Noordeloos, M., Bak, R.P.M., 1994. Damage and regeneration links to
+Hughes, T.P., Baird, A.H., Bellwood, D.R., Card, M., Connolly, S.R., Folke, C., Grosberg, R.,               coral growth in the reef-building coral Montastraea annularis. Mar. Ecol. Prog. Ser.
+     Hoegh Guldberg, O., Jackson, J.B.C., Kleypas, J., Lough, J.M., Marshall, P., Nyström, M.,              112, 119–128.
+     Palumbi, S.R., Pandolﬁ, J.M., Rosen, B., Roughgarden, J., 2003. Climate change,                   Meesters, H.W.G., Pauchli, W., Bak, R.P.M., 1997. Predicting regeneration of physical
+     human impacts, and the resilience of coral reefs. Science 301, 929–933.                                damage on a reef-building coral by regeneration capacity and lesion shape. Mar.
+IPCC, 2014. Climate change 2014: impacts, adaptation, and vulnerability. In: Field, C.B.,                   Ecol. Prog. Ser. 146, 91–99.
+     Barros, V.R., Dokken, D.J., Mach, K.J., Mastrandrea, M.D., Bilir, T.E., Chatterjee, M.,           NOAA Coral Reef Conservation Program (NOAA), 2009. NOAA Coral Reef Conservation
+     Ebi, K.L., Estrada, Y.O., Genova, R.C., Girma, B., Kissel, E.S., Levy, A.N., MacCracken, S.,           Program Goals and Objectives 2010–2015. MD: NOAA, Silver Spring.
+     Mastrandrea, P.R., White, L.L. (Eds.), Part A: Global and Sectoral Aspects. Contribution          Oren, U., Benayahu, Y., Loya, L., 1997. Effect of lesion size and shape on regeneration of the
+     of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel                      Red Sea coral Favia favus. Mar. Ecol. Prog. Ser. 146, 101–107.
+     on Climate Change. Cambridge University Press, Cambridge, United Kingdom and                      Page, C.A., Vaughan, D., 2013. Land-based coral aquaculture research at Mote's Tropical
+     New York, NY, USA (1132 pp.).                                                                          Research Laboratory. Mote Technical Report Submitted to Florida Keys National
+Jayewardene, D., 2010. Experimental determination of the cost of lesion healing on Porites                  Marine Sanctuary.
+     compressa growth. Coral Reefs 29, 131–135.                                                        Palmer, C.V., Traylor-Knowles, N.G., Willis, B.L., Bythell, J.C., 2011. Corals use similar
+Jeffrey, S.W., Humphrey, G.F., 1997. New spectrophotometric equations for determining                       immune cells and wound-healing processes as those of higher organisms. PLoS One
+     chlorophylls a, b, and c1 in higher plants, algae and natural phytoplankton. Biochem.                  6. http://dx.doi.org/10.1371/journal.pone.0023992.
+     Physiol. Pﬂanz. 167, 191–194.                                                                     Pearse, V.B., Muscatine, L., 1971. Role of symbiotic algae (zooxanthellae) in coral calciﬁca-
+Jiménez, C., Cortés, J., León, A., Ruíz, E., 2001. Coral bleaching and mortality associated                 tion. Biol. Bull. 141, 350–363.
+     with the 1997–98 El Nino in an upwelling environment in the eastern Paciﬁc (Gulf                  Pörtner, H.O., Bock, C., Reipschlӓger, A., 2000. Modulation of the cost of pHi regulation
+     of Papagayo, Costa Rica). Bull. Mar. Sci. 69, 151–169.                                                 during metabolic depression: a 31P NMR study in invertebrate (Sipunculus nudus)
+Johnson, M.E., Lustic, C., Bartels, E., Baums, I.B., Gilliam, D.S., Larson, L., Lirman, D., Miller,         isolated muscle. J. Exp. Biol. 203, 2417–2428.
+     M.W., Nedimyer, K., Schopmeyer, S., 2011. Caribbean Acropora Restoration Guide:                   Rinkevich, B., 2005. Conservation of coral reefs through active restoration measures:
+     Best Practices for Propagation and Population Enhancement. The Nature Conservan-                       recent approaches and last decade progress. Environ. Sci. Technol. 39, 4333–4342.
+     cy, Arlington, VA.                                                                                Tanzil, J.T.I., Brown, B.E., Dunne, R.P., Lee, J.N., Kaandorp, J.A., Todd, P.A., 2013. Regional
+Jokiel, P.L., 2011. Ocean acidiﬁcation and control of reef coral calciﬁcation by boundary                   decline in growth rate of massive Porites corals in southeast Asia. Glob. Chang. Biol.
+     layer limitation of proton ﬂux. Bull. Mar. Sci. 87, 639–657.                                           3011–3023.
+Kaniewska, P., Campbell, P.R., Kline, D.I., Rodriquez-Lanetty, M., Miller, D.J., Dove, S.,             Tentori, E., Allemand, D., 2006. Light-enhanced calciﬁcation and dark decalciﬁcation in
+     Hoegh Guldberg, O., 2012. Major cellular and physiological impacts of ocean acidiﬁ-                    isolates of the soft coral Cadiella sp. during tissue recovery. Biol. Bull. 211, 193–202.
+     cation on a reef building coral. PLoS One 7. http://dx.doi.org/10.1371/journal.pone.              Titlyanov, E.A., Titlyanova, T.V., 2009. The dynamics of the restoration of mechanical dam-
+     0034659.                                                                                               age to colonies of the scleractinian coral Porites lutea under conditions of competition
+Kramarsky-Winter, E., Loya, Y., 2000. Tissue regeneration in the coral Fungia granulosa:                    with algal settlers for substratum. Russ. J. Mar. Biol. 35, 230–235.
+     the effect of extrinsic and intrinsic factors. Mar. Biol. 137, 867–873.                           Tremblay, P., Fine, M., Maguer, J.F., Grover, R., Ferrier-Pagès, C., 2013. Photosynthate trans-
+Lirman, D., 2000. Lesion regeneration in the branching coral Acropora palmata: effects of                   location increases in response to low seawater pH in a coral-dinoﬂagellate symbiosis.
+     colonization, colony size, lesion size, and lesion shape. Mar. Ecol. Prog. Ser. 197,                   Biogeosciences 10, 3997–4007.
+     209–215.                                                                                          Venn, A.A., Tambutté, E., Holcomb, M., Laurent, J., Allemand, D., Tambutté, S., 2013. Impact
+Lirman, D., 2003. A simulation model of the population dynamics of the branching coral                      of seawater acidiﬁcation on pH at the tissue-skeleton interface and calciﬁcation in
+     Acropora palmate: effects of storm intensity and frequency. Econ. Model. 161,                          reef corals. PNAS 110. http://dx.doi.org/10.1073/pnas.1216153110.
+     169–182.                                                                                          Wahle, C.M., 1983. Regeneration of injuries among Jamaican gorgonians: the roles of
+Lirman, D., Thyberg, T., Herlan, J., Hill, C., Young-Lahiff, C., Schopmeyer, S., Huntington, B.,            colony physiology and environment. Biol. Bull. 165, 778–790.
+     Santos, R., Drury, C., 2010. Propogation of the threatened staghorn coral Acropora                White, K.N., Ohara, T., Juﬁi, T., Kawamura, I., Mizuyama, M., Montenegro, J., Shikiba, H.,
+     cervicornis: methods to minimize the impacts of fragment collection and maximize                       Naruse, T., McClelland, T.Y., Denis, V., Reimer, J.D., 2013. Typhoon damage on a
+     production. Coral Reefs 29, 729–735.                                                                   shallow mesophotic reef in Okinawa, Japan. PeerJ 1, e151. http://dx.doi.org/10.
+Lough, J.M., Barnes, D.J., 2000. Environmental controls on growth of the massive coral                      7717/peerj.151.
+     Porites. J. Exp. Mar. Biol. Ecol. 245, 225–243.
+
+
+
+
+    Please cite this article as: Hall, E.R., et al., Lesion recovery of two scleractinian corals under low pH conditions: Implications for restoration efforts,
+    Marine Pollution Bulletin (2015), http://dx.doi.org/10.1016/j.marpolbul.2015.08.030
+

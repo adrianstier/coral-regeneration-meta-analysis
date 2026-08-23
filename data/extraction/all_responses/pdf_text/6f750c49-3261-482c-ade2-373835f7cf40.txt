@@ -1,0 +1,500 @@
+Ciencias Marinas (2006), 32(1B): 187–194                                                                IUUQEYEPJPSHDNWJ
+
+
+                                     Nota de Investigación/Research Note
+                   Variaciones temporales en la tasa de regeneración a lesiones artificiales de
+                                    dos morfotipos de Porites panamensis
+
+                         Temporal variation in the regeneration rate of artificial lesions in
+                                    two morphotypes of Porites panamensis
+
+                                                  D A Paz-García, H Reyes-Bonilla*
+
+     Universidad Autónoma de Baja California Sur, Departamento de Biología Marina, Apartado postal 19-B, La Paz CP 23080,
+      Baja California Sur, México. * E-mail: hreyes@uabcs.mx
+
+     Resumen
+
+         Se comparó la capacidad de regeneración del daño provocado por lesiones artificiales entre las formas columnar y masiva
+     del taxón nominal Porites panamensis, con el fin de contribuir al conocimiento de la fisiología del complejo de especies y
+     ayudar a aclarar la situación taxonómica de sus formas. El estudio se realizó en Punta Gaviotas (24º17.134′ N, 110º19.870′ W) y
+     Punta Galeras (24º21.236′ N, 110º17.028′ W), Bahía de La Paz, México. Se realizó una lesión circular por colonia a entre 26 y
+     30 colonias por localidad (diámetro de 0.70 ± 0.09 cm y profundidad de 0.5 cm) y se comparó la tasa de regeneración durante la
+     temporada fría (19–22ºC, marzo a abril de 2004) y la cálida (28–30ºC, septiembre a octubre de 2004). La tasa de regeneración
+     tuvo un comportamiento exponencial negativo para ambas formas en las dos estaciones del año estudiadas. El proceso fue más
+     rápido en la temporada cálida que en la fría, probablemente debido a la mayor disponibilidad de energía lumínica para las
+     zooxantelas en esa temporada. Se observaron diferencias en los porcentajes de regeneración completa entre las formas en la
+     temporada cálida, y en la proporción de las colonias que presentaron fijación algal en las lesiones; la masiva mostró un daño tres
+     veces mayor que la columnar en ambas temporadas. Como las formas de P. panamensis presentaron la misma tasa de
+     regeneración, se sugiere que probablemente representen una misma especie. Sin embargo, las diferencias en la susceptibilidad a
+     la colonización por algas y en el porcentaje de regeneración completa de las colonias, podrían significar una ventaja selectiva de
+     la forma columnar.
+
+     Palabras clave: Porites panamensis, regeneración, taxonomía, corales escleractinios, Golfo de California.
+
+     Abstract
+
+         The regeneration of artificial lesions in the columnar and massive forms of the nominal taxon Porites panamensis was
+     compared, in order to contribute to the knowledge of the physiology of the species complex and to help clarify the taxonomic
+     situation of the phenoms. The study was carried out at Punta Gaviotas (24º17.134′ N, 110º19.870′ W) and Punta Galeras
+     (24º21.236′ N, 110º17.028′ W), in La Paz Bay, Mexico. One circular lesion per colony (0.70 ± 0.09 cm diameter and 0.5 cm
+     deep) was inflicted on 26 to 30 colonies at each site and the regeneration rate was compared during the cold season (19–22ºC,
+     March–April 2004) and the warm season (28–30ºC, September–October 2004). The regeneration rate followed a negative
+     exponential model for both forms of P. panamensis in both seasons, but the process was faster in the warm season than in the
+     cold season, probably due to increased light availability for zooxanthellae at that time of year. We observed differences in the
+     percentage of full regeneration between forms during the warm season and in the proportion of colonies invaded by algae in the
+     lesion area, the massive form showing three times more damage than the columnar in both seasons. As the morphotypes of P.
+     panamensis showed the same regeneration rate, it is suggested that they might represent the same species; however, the
+     differences in susceptibility to algal colonization and in the percentage of complete recovery of the colonies might indicate a
+     selective advantage of the columnar form over the massive one.
+
+     Key words: Porites panamensis, regeneration, taxonomy, scleractinian corals, Gulf of California.
+
+Introducción                                                             Introduction
+
+   La capacidad de regeneración juega un papel fundamental                   Regeneration is important for the survival and asexual
+dentro de la historia de vida de los corales pétreos (Bak y              recruitment of hard corals and thus plays a fundamental role in
+Steward-Van Es 1980, Bak 1983) ya que favorece su supervi-               their life history (Bak and Steward-Van Es 1980, Bak 1983).
+vencia y su reclutamiento asexual. El proceso regenerativo               The regeneration process requires energy and a damaged coral
+requiere de energía, por lo que un coral dañado presenta, en             will generally show reduced reproductive success, growth rate,
+general, menor éxito reproductivo, tasa de crecimiento,                  resistance to illness and competitive ability (Meesters et al.
+
+
+                                                                   187
+                                              Ciencias Marinas, Vol. 32, No. 1B, 2006
+
+
+resistencia contra enfermedades y habilidad competitiva                   1994, Van Veghel and Bak 1994, Oren et al. 2001). A colony
+(Meesters et al. 1994, Van Veghel y Bak 1994, Oren et al.                 that has a low regeneration rate can become a suitable substrate
+2001). Una colonia que posea una tasa de regeneración baja                for the settlement of foreign organisms such as sponges or
+puede ofrecer un sustrato disponible y favorecer la fijación de           algae, which will cause serious damage and the eventual death
+organismos ajenos a la colonia como esponjas o algas, que pue-            of the coral (Bak and Steward-Van Es 1980, Meesters et al.
+den ocasionar daños al coral y eventualmente su muerte (Bak y             1994).
+Steward-Van Es 1980, Meesters et al. 1994).                                   Regeneration capacity in corals has been studied since the
+    La capacidad de regeneración en corales ha sido estudiada             1930s (Stephenson and Stephenson 1933, Kawaguti 1937),
+desde los años treinta, principalmente mediante la formación              mainly through the formation of artificial lesions. More recent
+de lesiones artificiales (Stephenson y Stephenson 1933,                   research has focused on determining the relationship between
+Kawaguti 1937). Estudios posteriores se han enfocado a cono-              regeneration rate and colony size (Loya 1976), and between the
+cer las relaciones existentes entre la tasa de regeneración y el          shape, size and position of the lesion in the colony (Meesters et
+tamaño colonial (Loya 1976), y entre la forma, tamaño y posi-             al. 1992, Meesters and Bak 1993, Hall 1997, Oren et al. 1997).
+ción de la lesión en la colonia (Meesters et al. 1992, Meesters y         The effects on regeneration of some environmental factors
+Bak 1993, Hall 1997, Oren et al. 1997). También se ha explo-              such as salinity and temperature (Lester and Bak 1985), depth
+rado el efecto que tienen sobre la regeneración algunos factores          (Nagelkerken et al. 1999) and sedimentation (Meesters et al.
+ambientales como salinidad y temperatura (Lester y Bak 1985),             1992), and of ecological aspects like competition (Bak et al.
+profundidad (Nagelkerken et al. 1999), sedimentación                      1977) and coral bleaching (Meesters and Bak 1993) have also
+(Meesters et al. 1992), y también se ha revisado la influencia            been studied. It has been concluded that regeneration capacity
+de aspectos ecológicos como la competencia (Bak et al. 1977)              is a useful tool to evaluate the health of coral populations
+y el blanqueamiento coralino (Meesters y Bak 1993). Se ha                 (Meesters and Bak 1994) and that regeneration rate and
+concluido que la capacidad de regeneración es una herramienta             strategy vary in each species (Bak and Steward-Van Es 1980,
+útil para evidenciar la condición de salud de las poblaciones             Lester and Bak 1985, Hall 1997, Van Woesik 1998). Hence,
+coralinas (Meesters y Bak 1994) y, además, que la estrategia y            this ecophysiological character can be used to determine the
+tasa de regeneración de los corales varía en cada especie (Bak            taxonomic position of sister or cryptic species (Van Veghel and
+y Steward-Van Es 1980, Lester y Bak 1985, Hall 1997, Van                  Bak 1994, Nagelkerken and Bak 1998).
+Woesik 1998). Así, éste puede ser un carácter ecofisiológico                  The genus Porites Link 1807 has a cosmopolitan distribu-
+que puede contribuir para determinar la posición taxonómica               tion and comprises around 60 of the world’s main reef-building
+de especies hermanas o crípticas (Van Veghel y Bak 1994,                  species (Veron 2000). It has proved difficult to efficiently
+Nagelkerken y Bak 1998).                                                  delimit the taxonomic position of several species of this genus
+    El género Porites Link 1807 posee una distribución cosmo-             because of their considerable morphological diversity, result-
+polita y cuenta con alrededor de 60 especies que están entre las          ing in overlapping of characters among taxa (Jameson 1997,
+principales constructoras de arrecifes en el mundo (Veron                 Veron 2000). In the Gulf of California, a complex of species
+2000). El género se caracteriza por la dificultad de delimitar            presents this problem, involving the nominal taxon Porites
+con eficiencia la posición taxonómica de varias especies                  panamensis Verrill 1866 (fig. 1). This coral exhibits four col-
+debido a que poseen gran diversidad morfológica y ello pro-               ony forms that were originally described as distinct species: the
+duce sobreposición de caracteres entre taxa (Jameson 1997,                massive form (P. panamensis, sensu stricto), the encrusting
+Veron 2000). En el Golfo de California existe un complejo de              form (P. californica Verrill 1870), the columnar form (P. nodu-
+especies que presenta este problema e involucra al taxón nomi-            losa Verrill 1870) and the branching form (P. sverdrupi
+nal Porites panamensis Verrill 1866 (fig. 1). Este coral pre-             Durham 1947). Though they were considered synonymies for
+senta cuatro formas coloniales que fueron originalmente                   many years (Squires 1959, Wells 1983), recent morphometric
+descritas como especies distintas: la forma masiva (P. pana-              and genetic studies (López-Forment 2003, López-Pérez et al.
+mensis, sensu stricto), la forma incrustante (P. californica              2003) indicate that at least P. sverdrupi is a valid and endemic
+Verrill 1870), la forma columnar (P. nodulosa Verrill 1870) y la          species of the Gulf of California. Moreover, conservative mor-
+forma ramificada (P. sverdrupi Durham 1947). Aunque durante               phological differences exist between the massive and columnar
+muchos años fueron consideradas como sinonimias (Squires                  forms of P. panamensis, the distribution of the former, the most
+1959, Wells 1983), recientes estudios morfométricos y genéti-             abundant within the Gulf of California, extending to Panama
+cos (López-Forment 2003, López-Pérez et al. 2003) indican                 (Squires 1959, Reyes-Bonilla 2003), whereas the former is
+que al menos la forma ramificada (P. sverdrupi) es una especie            absent outside the gulf (Ketchum and Reyes-Bonilla 2001).
+válida y endémica del Golfo de California. Además, existen                Finally, Brusca et al. (2004) considered the columnar form to
+diferencias morfológicas conservativas entre las formas colum-            be P. panamensis and the massive-encrusting form to be P.
+nar y masiva de P. panamensis, e incluso se ha observado que              californica, both valid species.
+la forma columnar está ausente en arrecifes fuera del Golfo de                This study aims to determine the differences in the rate and
+California (Ketchum y Reyes-Bonilla 2001), mientras que la                occurrence of regeneration of artificial lesions in the columnar
+forma masiva, la más abundante dentro del golfo, se distribuye            and massive forms of P. panamensis. The results reveal new
+
+
+                                                                    188
+                            Paz-García y Reyes-Bonilla: Regeneración en morfotipos de Porites panamensis
+
+
+hasta Panamá (Squires 1959, Reyes-Bonilla 2003). Finalmente,
+Brusca et al. (2004) consideran la forma columnar como P.
+panamensis y a la forma masiva-incrustante como P.
+californica, ambas como especies válidas.
+    El objetivo del presente trabajo fue determinar diferencias
+en la tasa y ocurrencia de la regeneración del daño provocado
+por lesiones artificiales presentada por las formas columnar y
+masiva de P. panamensis. Los resultados aportan nueva
+información sobre la fisiología del complejo de especies, y
+muestran que el uso de herramientas ecológicas-fisiológicas es
+adecuado para ayudar a aclarar la posición taxonómica de este
+grupo de especies.
+
+Materiales y métodos
+
+    El estudio fue realizado en dos localidades de fácil acceso
+en la Bahía de La Paz, Baja California Sur, México (fig. 2),               Figura 1. Colonia del coral Porites panamensis en el Golfo de California.
+Punta Gaviotas (24º17.134′ N, 110º19.870′ W) y Punta Galeras               Figure 1. Colony of the coral Porites panamensis in the Gulf of California.
+(24º21.236′ N, 110º17.028′ W), debido a que la forma colum-
+nar de P. panamensis es relativamente más abundante en Punta
+Gaviotas, y la forma masiva en Punta Galeras. Se trabajó a                 information on the physiology of the species complex and
+profundidades de 1 a 3 m. Para observar si la capacidad de                 show that the use of ecological and physiological tools is
+regeneración de ambas formas se mantenía a lo largo del año,               suitable for clarifying the taxonomic position of this group of
+el experimento se realizó separadamente durante la temporada               species.
+fría (19º–24ºC, de marzo a abril de 2004) y la temporada cálida
+(28º–30ºC, de septiembre a octubre de 2004). Las temperaturas
+                                                                           Material and methods
+fueron tomadas in situ. Se escogieron en la temporada cálida                   The study was carried out in 2004 at two accessible
+26 y 28 colonias de las formas masiva y columnar, respectiva-              locations in La Paz Bay, Baja California Sur, Mexico (fig. 2):
+mente, y 30 colonias de ambas formas en la temporada fría.                 Punta Gaviotas (24º17.134′ N, 110º19.870′ W) and Punta
+Con el fin de que el proceso de regeneración no fuera afectado             Galeras (24º21.236′ N, 110º17.028′ W). The columnar form of
+por el tamaño de la colonia (Oren et al. 2001), se escogieron              P. panamensis is relatively more abundant at Punta Gaviotas
+sólo colonias con tamaño mayor a 40 cm2.                                   and the massive form at Punta Galeras. To observe whether the
+    En la parte superior de cada coral se realizó una lesión cir-          regeneration capacity of both morphotypes was the same
+cular con ayuda de un taladro manual (diámetro medio de 0.7 ±              throughout the year, the experiment was conducted during the
+0.09 cm y profundidad de 0.5 cm), y su tamaño fue determi-                 cold season (19º–24ºC, March–April 2004) and during the
+nado posteriormente con un vernier (precisión 0.05 mm) a                   warm season (28º–30ºC, September–October 2004), at 1–3 m
+intervalos de 3 a 11 días en cada sitio de muestreo. Se revisaron
+los ejemplares de la siguiente forma (las cifras representan días
+posteriores al inicio del experimento): en temporada fría, la                                                                              110º18’
+                                                                                                          Golfo de
+forma masiva los días 8, 11, 22 y 28, y la columnar en los días                                           California
+7, 10, 22 y 28; en temporada cálida, la forma masiva los días
+13 y 22, y la columnar en los días 12 y 21. El estudio se dió por                                                                             Punta
+                                                                                                                           24º22’             Galeras
+concluido una vez que más del 50% de las colonias presentaron
+una regeneración completa o mortalidad total.                                              Baja
+                                                                                                                                                 *
+    La tasa de regeneración de las lesiones se determinó con                                                              24º20’
+                                                                                                  California
+base en la pendiente de la recta generada por el tamaño de la                   Océano
+lesión (en mm2, en el eje y) vs. el tiempo (número de días de                   Pacífico                   Sur
+                                                                                                                          24º18’
+transcurrido el experimento, en el eje x). Dado que la relación
+                                                                                                                          Punta
+entre las variables siguió un modelo exponencial negativo, se
+realizó un análisis exploratorio de los gráficos y se linealizó la
+                                                                                  México
+                                                                                                                          Gaviotas  *                 N
+                                                                                                                           24º16’
+                                                                                                                                                     2 km
+curva mediante la obtención del logaritmo del área de la lesión;
+se sumó 1 mm2 para evitar la presencia de ceros que hubiera
+                                                                           Figura 2. Área de estudio, marcando las localidades donde se realizó el
+impedido la regresión (Van Woesik 1998). Finalmente, para                  experimento.
+conocer las diferencias en ocurrencia de la regeneración, se               Figure 2. Study area, indicating the locations where the experiment was
+estimó el porcentaje de colonias que presentaron regeneración              conducted.
+
+
+                                                                     189
+                                               Ciencias Marinas, Vol. 32, No. 1B, 2006
+
+
+completa, las que presentaron regeneración parcial y las que               depth. Temperature was measured in situ. In the warm season,
+presentaron mortalidad (especialmente por colonización de                  26 and 28 colonies of the massive and columnar forms, respec-
+algas) al término del experimento.                                         tively, were studied, while 30 colonies of both forms were
+                                                                           studied in the cold season. Each colony was larger than 40 cm2
+Resultados                                                                 so that the regeneration process would not be affected by size
+                                                                           (Oren et al. 2001).
+    La tasa de regeneración presentó diferencias temporales en                 A circular lesion (0.7 ± 0.09 cm in diameter and 0.5 cm
+ambas formas de P. panamensis. Durante la temporada fría, la               deep) was inflicted on the upper surface of each coral colony
+recuperación inició con la secreción de mucus con una exten-               with a hand drill, and its size was determined with a vernier
+sión de tejido indiferenciado sobre la herida, posteriormente se           caliper (accuracy 0.05 mm) at intervals of 3 to 11 days at each
+formaron las estructuras esqueléticas y los pólipos ya pigmen-             site. The colonies were examined on the following days after
+tados. En la temporada cálida aparecieron pequeños pólipos                 initiating the experiment: during the cold season, the massive
+pigmentados en los bordes de la lesión, a pesar de que en el               morphotype on days 8, 11, 22 and 28, and the columnar
+centro todavía existía tejido indiferenciado.                              morphotype on days 7, 10, 22 and 28; during the warm season,
+    En ambas estaciones del año la regeneración de las heridas             the massive morphotype on days 13 and 22, and the columnar
+fue más rápida en los primeros días del experimento, en com-               morphotype on days 12 and 21. The experiment was concluded
+paración con los días próximos a la recuperación completa de               when more than 50% of the colonies showed complete
+las heridas. En ambas formas coloniales este comportamiento                regeneration or had died.
+siguió un modelo exponencial negativo (fig. 3). No se encon-                   The regeneration rate of the lesions was determined by
+traron diferencias significativas entre las pendientes de las              plotting lesion size (mm2, y-axis) vs time (number of days since
+curvas linealizadas (equivalentes a la tasa de regeneración                initiating the experiment, x-axis). Since the relationship
+entre las formas), ni en la temporada fría (t56 = 0.563, P > 0.50)         followed a negative exponential model, an exploratory analysis
+ni en la temporada cálida (t53 = 1.448, P = 0.14). En contraste,           of the graphs was made and the curve was linearized by obtain-
+se observaron diferencias significativas entre tasas de regene-            ing the logarithm of the lesion area; 1 mm2 was added to avoid
+ración cuando se compararon las distintas temporadas del año               zeroes that would have prevented the regression (Van Woesik
+para cada uno de los morfotipos (Punta Gaviotas: t56 = 2.719, P            1998). Finally, in order to determine the differences in the
+= 0.007; Punta Galeras: t53 = 2.802, P = 0.004).                           occurrence of regeneration, the percentage of colonies that
+    La figura 4 muestra que los porcentajes de regeneración                showed complete regeneration, partial regeneration and that
+completa y parcial en la temporada fría fueron similares entre             did not survive (especially as a result of algal colonization) was
+las formas. En contraste, la temporada cálida mostró diferen-              estimated at the end of the experiment.
+cias en los porcentaje de regeneración completa entre las
+formas, en los que la columnar mostró un mayor porcentaje                  Results
+que la masiva. También se pudo observar que la proporción de
+las colonias que presentaron fijación algal en las lesiones fue                The regeneration rate in both forms of P. panamensis
+diferente entre las formas, mostrando la masiva fijación tres              indicated temporal differences. During the cold season,
+veces mayor que la columnar en las dos temporadas estudiadas               regeneration initiated with the secretion of mucus and the
+(fig. 4).                                                                  appearance of undefined tissue over the wound, followed by
+                                                                           the formation of skeletal structures and pigmented polyps.
+Discusión                                                                  During the warm season, small pigmented polyps appeared on
+                                                                           the edges of the lesion even though undifferentiated tissue still
+    La literatura señala la existencia de diferencias interespecí-         existed in the middle.
+ficas en la capacidad de regeneración de los corales (Hall 1997,               Regeneration of the wounds in both seasons was faster in
+2001; Van Woesik 1998). Hay algunas especies que presentan                 the first days of the experiment than in the days approaching
+estrategias en las que la regeneración de las lesiones causadas            full recovery. This behaviour followed a negative exponential
+natural o artificialmente pueden ser cerradas enteramente por              model for both morphotypes (fig. 3). No significant differences
+tejido indiferenciado antes de que los nuevos pólipos puedan               were found in the slope of the linearized curves (equivalent to
+ser observados (Meesters et al. 1997). En otras, los pólipos con           the regeneration rate between morphotypes), in both the cold
+pigmentos se desarrollan casi simultáneamente con el progreso              season (t56 = 0.563, P > 0.50) and the warm season (t53 = 1.448,
+de la nueva capa de tejido (Bak 1983, Meesters et al. 1997). En            P = 0.14). In contrast, significant differences were observed in
+el presente estudio se demostró que para las dos formas de P.              the seasonal regeneration rates of each morphotype (Punta
+panamensis, la primera estrategia fue observada en la                      Gaviotas: t56 = 2.719, P = 0.007; Punta Galeras: t53 = 2.802,
+temporada fría, mientras que la segunda fue la principal en la             P = 0.004).
+temporada cálida. Esto es un indicativo de la influencia de la                 Figure 4 shows that the percentages of full and partial
+temporada del año sobre la tasa y la estrategia de regeneración,           recovery in the cold season were similar between morphotypes.
+así como de la capacidad regeneración de que poseen las                    In the warm season, however, the percentage of full recovery
+
+
+                                                                     190
+                               Paz-García y Reyes-Bonilla: Regeneración en morfotipos de Porites panamensis
+
+
+
+
+                                                                                      Lesiones recuperadas (%)
+
+
+
+                                                                                                                 Completa Parcial Fijación   Completa Parcial Fijación
+                                                                                                                         Completa algal              Completa algal
+                                                                                                                      Temporada fría             Temporada cálida
+
+                                                                                   Figura 4. Porcentaje de lesiones con regeneración completa y parcial, y
+                                                                                   con colonización algal en colonias masivas (gris) y columnares (negro) de
+                                                                                   Porites panamensis durante las dos temporadas estudiadas.
+                                                                                   Figure 4. Percentage of lesions with complete regeneration, partial
+                                                                                   regeneration and algal colonization in massive (grey) and columnar (black)
+                                                                                   colonies of Porites panamensis during the warm and cold seasons.
+                                   Tiempo (Días)
+                                                                                   was higher for the columnar form than for the massive form.
+Figura 3. Curva de regeneración de lesiones en morfotipos de Porites               Differences were also found in the proportion of colonies that
+panamensis. (a) Colonias masivas: (♦) temporada fría (n = 30) y (—)                showed algal colonization in the lesions, the massive form
+modelo ajustado (y = –0.0847x + 3.4467, R2 = 0.585); (z) temporada cálida          being three times more affected than the columnar in both
+(n = 26) y (—) modelo ajustado (y = –0.1379x + 3.6742, R2 = 0.7867). (b)           seasons (fig. 4).
+colonias columnares: (♦) datos temporada fría (n = 30) y (—) modelo
+ajustado (y = –0.081x + 3.3172, R2 = 0.5503); (z) datos temporada cálida
+(n = 28) y (—) modelo ajustado (y = –0.1573x + 3.6411, R2 = 0.7358).
+                                                                                   Discussion
+Figure 3. Curve of lesion regeneration in Porites panamensis morphotypes.
+(a) Massive colonies: (♦) cold season (n = 30) and (—) fitted model (y = –             The literature indicates that there are interspecific differ-
+0.0847x + 3.4467, R2 = 0.585); (z) warm season (n = 26) and (—) fitted             ences in the regeneration capacity of corals (Hall 1997, 2001;
+model (y = –0.1379x + 3.6742, R2 = 0.7867). (b) Columnar colonies: (♦)             Van Woesik 1998). In some species, the naturally or artificially
+cold season (n = 30) and (—) fitted model (y = –0.081x + 3.3172, R2 =              inflicted lesions can be entirely covered by undifferentiated
+0.5503); (z) warm season (n = 28) and (—) fitted model (y = –0.1573x +             tissue before new polyps appear (Meesters et al. 1997). In
+3.6411, R2 = 0.7358).                                                              others, the pigmented polyps and new layer of tissue develop
+                                                                                   almost simultaneously (Bak 1983, Meesters et al. 1997). In this
+formas de P. panamensis. En contraste con las anteriores estra-                    study, the first strategy was observed in the cold season and the
+tegias de regeneración observadas en P. panamensis, en P.                          second in the warm season in both forms of P. panamensis.
+compressa de Hawaii la regeneración de las colonias ocurrió                        This indicates the influence of the season on the rate and
+por proyecciones subsuperficiales del tejido (Jokiel et al.                        strategy of regeneration, as well as the regeneration capacity of
+1993), mientras que la regeneración en P. lobata y P. lutea                        the morphotypes. In contrast, regeneration in P. compressa
+inicia mediante una extensión hacia arriba de los pólipos cir-                     colonies in Hawaii occurred through subsurface tissue projec-
+cundantes, y posteriormente una construcción extratentacular y                     tions (Jokiel et al. 1993), while in P. lobata and P. lutea it
+sobrecrecimiento lateral sobre el área muerta (Van Woesik                          began by the upward extension of surrounding polyps, fol-
+1998). Finalmente, Hall (1997) mostró que P. lichen y P.                           lowed by extratentacular budding and lateral overgrowth over
+mayeri producen nuevos pólipos directamente alrededor del                          the dead area (Van Woesik 1998). Hall (1997) reported that P.
+margen de la lesión y se extienden hacia el centro. Lo anterior                    lichen and P. mayeri produce new polyps directly around the
+muestra que existen claras diferencias en la tasa y en las estra-                  lesion’s edge that extend towards the centre. Hence, clear dif-
+tegias de regeneración entre las especies del mismo género, e                      ferences exist in the regeneration rate and strategies among
+incluso que una misma especie (P. panamensis) puede tener                          species of the same genus, and even the same species, such as
+distintas estrategias dependiendo de la temporada del año.                         P. panamensis, can have different strategies depending on the
+    Por otra parte, el presente estudio reveló que la regenera-                    time of year.
+ción de las dos formas de P. panamensis siguió un modelo                               This study showed that regeneration in the two forms of P.
+exponencial negativo, independientemente de la temporada del                       panamensis followed a negative exponential model, regardless
+año analizada (fig. 3). Este es el patrón más común que                            of the season (fig. 3). This is the most common pattern in the
+describe el proceso de regeneración en corales pétreos (Bak                        regen- eration process of hard corals (Bak 1983, Van Woesik
+1983, Van Woesik 1998, Nagelkerken y Bak 1998), el cual fue                        1998, Nagelkerken and Bak 1998). The regeneration rate in the
+
+                                                                             191
+                                               Ciencias Marinas, Vol. 32, No. 1B, 2006
+
+
+evidente por la rápida regeneración durante los primeros días              P. panamensis colonies was faster in the first days after being
+en las colonias de P. panamensis que fueron dañadas, en com-               wounded than in the last days of the healing process when
+paración con la disminución de la regeneración presentada en               the skeleton was covered by mucus and tissue. This faster
+los días próximos del cierre de las lesiones, en las que el esque-         regeneration rate at the beginning probably occurs to try to
+leto ha sido recubierto con mucus y tejido. Es probable que la             hinder or prevent other invertebrates or algae from colonizing
+tasa de regeneración que se presenta en los primeros días de la            the affected area, since this significantly decreases the species’
+lesión ocurra para tratar de impedir o dificultar que el área              chance of survival (Reyes-Bonilla 2001).
+afectada sea colonizada por otros invertebrados o por algas,                   The regeneration rate in the massive and columnar forms of
+evento que disminuye significativamente la probabilidad de                 P. panamensis varied in relation to the time of year and was
+supervivencia de la especie en estudio (Reyes-Bonilla 2001).               slower in the cold season than in the warm one (figs. 3, 4).
+    La tasa de regeneración en las formas masiva y columnar                Kramarsky-Winter and Loya (2000) compared the occurrence
+de P. panamensis varió en relación con la temporada del año,               of regeneration in Fungia granulosa and indicated that at a
+observándose en la fría la regeneración más lenta de las                   temperature of 25ºC the percentage of fully recovered colonies
+temporadas estudiadas (figs. 3, 4). Kramarsky-Winter y Loya                was greater than at a lower temperature (21ºC). This difference
+(2000) compararon la ocurrencia de regeneración en Fungia                  in regeneration occurrence was attributed to a decrease in the
+granulosa y señalaron que a una temperatura de 25ºC el por-                coral’s metabolism because of the low temperature. The
+centaje de colonias completamente recuperadas es mayor que a               amount of light is also considered important for the survival of
+temperaturas bajas (21ºC). La diferencia en la ocurrencia de               reef-building corals, because photosynthetically-fixed carbon
+regeneración se atribuyó a la disminución del metabolismo del              is transferred from zooxanthellae to the host and contributes
+coral por la temperatura baja. Por otra parte, la importancia de           more than 100% of the daily energy requirements (Davies
+la cantidad de luz para la supervivencia de los corales construc-          1984, 1991). Hence, warmer conditions are less stressful and
+tores de arrecifes ha sido evidenciada dado que el carbono que             greater light availability provides more energy for the
+es fijado fotosintéticamente es trasladado desde la zooxantela             regeneration of wounds, explaining why the rate of recovery is
+hasta el hospedero y aporta más del 100% de la energía diaria              higher in hot seasons.
+necesaria para la supervivencia (Davies 1984, 1991). Por ello                  One of the objectives of this study was to compare the
+las condiciones termales resultan poco estresantes, y la prolon-           regeneration rates of the columnar and massive forms of P.
+gada iluminación aumenta la disponibilidad de energía para la              panamensis as a taxonomic tool, as has been done in the case
+recuperación y explica por qué la tasa de regeneración de las              of other genera like Montastraea, Porites and Stephanocoenia
+heridas es mayor en temporadas cálidas.                                    (Van Veghel and Bak 1994, Nagelkerken and Bak 1998). The
+    Uno de los objetivos de este estudio fue la comparación de             fact that there were no differences in regeneration rates
+las tasas de regeneración entre formas de P. panamensis como               between morphotypes, regardless of the time of year (fig. 3),
+herramienta taxonómica, tal y como ha sido usada en el caso de             suggests that they must belong to the same species. Neverthe-
+géneros como Montastraea, Porites y Stephanocoenia (Van                    less, we believe that this question should remain open to
+Veghel y Bak 1994, Nagelkerken y Bak 1998). Con base en lo                 discussion because there are exceptions to the rule. For exam-
+anterior, el que no se encontraran diferencias en la tasa de               ple, Nagelkerken and Bak (1998) did not find differences in the
+regeneración entre morfotipos, independientemente de la                    regenerative rates of three morphotypes of the genus Madracis,
+temporada del año (fig. 3), sugiere que éstos deben pertenecer             but subsequent ecological, morphological and genetic data
+a la misma especie. Sin embargo, consideramos que la cuestión              showed that all of them should be considered valid species and
+debe seguir abierta a discusión debido a que hay excepciones a             that they form a complex or syngameon under the reticular
+la regla. Por ejemplo, Nagelkerken y Bak (1998) no encontra-               evolution model (Veron 1995, Diekmann et al. 2001).
+ron diferencias en las tasas regenerativas en tres morfotipos                  On the other hand, differences were observed between the
+pertenecientes al género Madracis, pero posteriormente datos               two morphotypes of P. panamensis in relation to regeneration
+ecológicos, morfológicos y genéticos mostraron que todas                   occurrence (fig. 4). The columnar form was less susceptible to
+deben considerarse especies válidas y que forman un                        colonization by algae and had a higher percentage of colonies
+“complejo” o “singameon” según el modelo de evolución reti-                with full recovery during the warm season. These differences
+cular (Veron 1995, Diekmann et al. 2001).                                  suggest that the columnar form may well have a survival
+    Por otro lado, entre los morfotipos de P. panamensis se                advantage over the massive form, perhaps because of the mor-
+observaron diferencias en la ocurrencia de la regeneración                 phological characteristics of the colony (growth areas, skeleton
+(fig. 4). La forma columnar fue menos susceptible a la coloni-             density and differences in tissue layer thickness) that generally
+zación por algas y, además, tuvo un mayor porcentaje de                    dictate the susceptibility to lesions, as has been reported for
+colonias con regeneración completa durante la temporada                    other species (Hall 1997, 2001). It has also been mentioned
+cálida. Estas diferencias pueden significar que la forma colum-            that the massive and encrusting morphologies are more vulner-
+nar posea ventajas en supervivencia sobre la forma masiva,                 able to algal colonization and overgrowth (Hughes 1989), and
+quizá por efecto de las características morfológicas de la colo-           that they have less regenerative capacity than other coralline
+nia (zonas de crecimiento, densidad de esqueleto y diferencias             forms such as branching and columnar colonies (Hall 1997).
+
+
+                                                                     192
+                           Paz-García y Reyes-Bonilla: Regeneración en morfotipos de Porites panamensis
+
+
+en el grosor de la capa de tejido) que generalmente dictamina                 Squires (1959) reported other differences between mor-
+la susceptibilidad a las lesiones, tal como ha ocurrido en otras         phologies and considered the columnar and massive forms of
+especies ya mencionadas (Hall 1997, 2001). Adicionalmente,               P. panamensis to be ecotypes that present modifications to live
+se ha mencionado que las morfologías masiva e incrustante son            at different depths. Their vertical distribution has revealed
+más vulnerables a la colonización y sobrecrecimiento por algas           differences, the massive form capable of inhabiting depths
+(Hughes 1989), y que poseen una menor capacidad de regene-               between 1 and 30 m (López-Pérez et al. 2003), while the
+ración que otras formas coralinas como colonias ramificadas y            columnar form has only been found between 1 and 5 m depth
+columnares (Hall 1997).                                                  (maximum) and develops better in wave-protected environ-
+    Otras diferencias entre las morfologías fueron mencionadas           ments (Paz-García pers. obser.). These differences between
+por Squires (1959), quien consideró a las morfologías colum-             forms may be due to environmental factors (wave action,
+nar y masiva de P. panamensis como ecotipos que presentan                currents, light and depth); however, this explanation does not
+modificaciones para vivir a diferentes profundidades. Estas              clarify why the columnar form is absent in environments out-
+diferencias se han observado en su distribución vertical: la             side the Gulf of California but relatively more abundant within
+forma masiva puede presentarse desde 1 hasta 30 m (López-                it than the massive form and vice versa.
+Pérez et al. 2003) mientras que la columnar sólo se ha                        In conclusion, the massive and columnar forms of P.
+encontrado desde 1 hasta 5 m como máximo, y se desarrolla                panamensis had the same regeneration rate and both recovered
+mejor en ambientes protegidos a oleaje (Paz-García obs. pers.).          more efficiently from artificial lesions in the warm season than
+La explicación de la diferenciación de las formas parece ser             in the cold season as a result of the better environmental
+debida al ambiente (oleaje, corrientes, luz y profundidad); sin          conditions (high temperature and solar irradiance). The results
+embargo, esta razón no revela por qué la forma columnar está             indicate that both forms probably represent the same valid
+ausente en ambientes fuera del Golfo de California, mientras             species; however, differences were found in the percentage of
+que a lo largo de su distribución dentro del golfo existen               full recovery and in the susceptibility to algal colonization,
+localidades donde el morfotipo columnar es relativamente más             which could mean that the columnar form has a survival
+abundante que el morfotipo masivo y viceversa.                           advantage over the massive form. We recommend a more
+    En conclusión, las formas masiva y columnar de P.                    complete revision of the ecology of both morphotypes of P.
+panamensis presentaron la misma tasa de regeneración y                   panamensis to clarify its taxonomic situation, since it is one of
+ambas fueron más eficientes para recuperarse de los daños arti-          the most abundant coral species in the Gulf of California and
+ficiales durante la temporada cálida que en la fría, ya que              Mexican Pacific. Understanding the physiology and taxonomy
+durante la primera el coral cuenta con mejores condiciones de            is important to sort through the biogeographic studies and
+vida (mayor temperatura e irradiancia solar). La evidencia               clarify the evolutionary origin of the genus in the American
+señala que probablemente las dos formas representan la misma             continent.
+especie válida. Sin embargo, se notaron diferencias en los por-
+centajes de regeneración completa y en la susceptibilidad a la           Acknowledgements
+colonización por algas, que podrían significar una ventajas en
+la supervivencia de la forma columnar sobre la masiva.                       We thank Saúl González, Lorenzo Filip, Leonardo de la
+Sugerimos una revisión más completa de la ecología de ambos              Peña, Pablo Lobera, Diana Sánchez-Toyes and other marine
+morfotipos de P. panamensis para aclarar su situación                    biology students at the University of Baja California Sur for
+taxonómica, ya que ésta es una de las especies de coral más              their valuable help in the field. This study was supported by
+abundantes del Golfo de California y el Pacífico mexicano.               Mexico’s National Commission for the Knowledge and Use of
+Entender la fisiología y taxonomía serán relevantes para depu-           Biodiversity (CONABIO, project AS007, principal investiga-
+rar los estudios biogeográficos y aclarar el origen evolutivo de         tor Luis E. Calderón-Aguilera, CICESE, Ensenada).
+este género en el continente americano.
+                                                                            English translation by Christine Harris.
+Agradecimientos
+                                                                         Bak RPM, Steward-Van Es Y. 1980. Regeneration of superficial
+    A Saúl González, Lorenzo Filip, Leonardo de la Peña,                    damage in the scleractinian corals Agaricia agaricites, F.
+Pablo Lobera, Diana Sánchez-Toyes y a otros estudiantes de                  purpurea and Porites asteroides. Bull. Mar. Sci. 30: 883–887.
+Biología Marina (UABCS) por su valiosa ayuda en el trabajo               Bak RPM, Brouns JJWM, Heys FML. 1977. Regeneration and aspects
+                                                                            of spatial competition in the scleractinian corals Agaricia
+de campo. Este trabajo se realizó con el patrocinio de la Comi-
+                                                                            agaricites and Montastrea annularis. Proc. 3rd Int. Coral Reef
+sión Nacional para el Uso y Conocimiento de la Biodiversidad                Symp. 1: 143–149.
+(proyecto AS007, responsable Luis E. Calderón-Aguilera,                  Brusca RC, Kimrey E, Moore W. (2004). Invertebrates. In: Brusca
+CICESE, Ensenada).                                                          RC, Kimrey E, Moore W (eds.), Seashore Guide to the Northern
+                                                                            Gulf of California. Arizona-Sonora Desert Museum, pp. 35–106.
+Referencias                                                              Davies PS. 1984. The role of zooxanthellae in the nutritional energy
+                                                                            requirements of Pocillopora eydouxi. Coral Reefs 2: 181–186.
+Bak RPM. 1983. Neoplasia, regeneration and growth in the reef-           Davies PS. 1991. Effect of daylight variations on the energy budgets
+   building coral Acropora palmata. Mar. Biol. 77: 221–227.                 of shallow-water corals. Mar. Biol. 108: 137–144.
+
+                                                                   193
+                                                    Ciencias Marinas, Vol. 32, No. 1B, 2006
+
+
+Diekmann OE, Bak RPM, Stam WT, Olsen JL. 2001. Molecular                          Meesters EH, Noordeloos M, Bak RPM. 1994. Damage and
+    genetic evidence for probable reticulate speciation in the coral                  regeneration: Links to growth in the reef-building coral
+    genus Madracis from a Caribbean fringing reef slope. Mar. Biol.                   Montastrea annularis. Mar. Ecol. Prog. Ser. 112: 119–128.
+    139: 221–233.                                                                 Meesters EH, Pauchli W, Bak RPM. 1997. Predicting regeneration of
+Hall VR. 1997. Interspecific differences in the regeneration of                       physical damage on a reef-building coral by regeneration capacity
+    artificial injuries on scleractinian corals. J. Exp. Mar. Biol. Ecol.             and lesion shape. Mar. Ecol. Prog. Ser. 146: 91–99.
+    212: 9–23.                                                                    Nagelkerken I, Bak RPM. 1998. Differential regeneration of artificial
+Hall VR. 2001. The response of Acropora hyacinthus and Montipora                      lesions among sympatric morphs of the Caribbean corals Porites
+    tuberculosa to three different types of colony damage: Scraping                   astreoides and Stephanocoenia michelinii. Mar. Ecol. Prog. Ser.
+    injury, tissue mortality and breakage. J. Exp. Mar. Biol. Ecol. 264:              163: 279–283.
+    209–223.                                                                      Nagelkerken I, Meesters EH, Bak RPM. 1999. Depth-related variation
+Hughes TP. 1989. Community structure and diversity of coral reefs:                    in regeneration of artificial lesions in the Caribbean corals Porites
+    The role of history. Ecology 70: 275–279.                                         astreoides and Stephanocoenia michelinii. J. Exp. Mar. Biol. Ecol.
+Jameson SC. 1997. Morphometric analyses of the Poritidae                              234: 29–39.
+    (Anthozoa: Scleractinia) off Belize. Proc. 8th Int. Coral Reef                Oren U, Benayahu Y, Loya Y. 1997. Effect of lesion size and shape on
+    Symp. 2: 1591–1596.                                                               regeneration of the Red Sea coral Favia favus. Mar. Ecol. Prog.
+Jokiel PL, Hunter CL, Taguchi S, Watari L. 1993. Ecological impact                    Ser. 146: 101–107.
+    of a freshwater “reef kill” in Kaneohe Bay, Oahu, Hawaii. Coral               Oren U, Benayahu Y, Lubinevsky H, Loya Y. 2001. Colony
+    Reefs 12: 177–184.                                                                integration during regeneration in the stony coral Favia favus.
+Kawaguti S. 1937. On the physiology of reef corals. III. Regeneration                 Ecology, 82: 802–813.
+    and phototropism in reef corals. Palao Trop. Biol. Stn. Stud. 1:              Reyes-Bonilla H. 2001. Effects of the 1997–1998 El Niño-Southern
+    209–216.                                                                          Oscillation communities of the Gulf of California, Mexico. Bull.
+Ketchum JT, Reyes-Bonilla H. 2001. Taxonomía y distribución de los                    Mar. Sci. 69: 251–266.
+    corales hermatípicos (Scleractinia) del Archipiélago de                       Reyes-Bonilla H. 2003. Coral reefs of the Pacific coast of Mexico.
+    Revillagigedo, México. Rev. Biol. Trop. 49: 803–848.                              In: Cortés J (ed.), Latin American Coral Reefs. Elsevier Science,
+Kramarsky-Winter E, Loya Y. 2000. Tissue regeneration in the coral                    pp. 331–349.
+    Fungia granulosa: The effect of extrinsic and intrinsic factors.              Squires DF. 1959. Corals and coral reefs in the Gulf of California.
+    Mar. Biol. 137: 867–873.                                                          Bull. Am. Mus. Nat. Hist. 118: 367–432.
+Lester RT, Bak RPM. 1985. Effects of environment on regeneration                  Stephenson FA, Stephenson A. 1933. Growth and asexual reproduc-
+    rate of tissue lesions in the reef coral Montastraea annularis                    tion in corals. Sci. Rep. Gt. Barrier Reef Exped. 3: 167–217.
+    (Scleractinia). Mar. Ecol. Prog. Ser. 24: 183–185.                            Van Veghel MLJ, Bak RPM. 1994. Reproductive characteristics of the
+López-Forment MB. 2003. Evolutionary biology of corals from the                       polymorphic Caribbean reef building coral Montastrea annularis.
+    Gulf of California: A historical and conservation perspective.                    III. Reproduction in damaged and regenerating colonies. Mar.
+    Ph.D. dissertation, University of California, Berkeley, 376 pp.                   Ecol.           Prog.           Ser.          109:         229–233.
+López-Pérez RA, Reyes-Bonilla H, Budd AF, Correa-Sandoval F,                      Van Woesik R. 1998. Lesion healing on massive Porites spp. corals.
+    2003. The taxonomic status of Porites sverdrupi, an endemic coral                 Mar. Ecol. Prog. Ser. 164: 213–220.
+    of the Gulf of California. Cienc. Mar. 29: 677–691.                           Veron JEN. 1995. Corals in Space and Time. Comstock/Cornell,
+Loya Y. 1976. Skeletal regeneration in a Red Sea scleractinian coral                  Ithaca, 321 pp.
+    population. Nature 261: 490–491.                                              Veron JEN. 2000. Corals of the World. Vols. 1–3. Australian Institute
+Meesters EH, Bak RPM. 1993. Effects of coral bleaching on tissue                      of Marine Science, Townsville.
+    regeneration potential and colony survival. Mar. Ecol. Prog. Ser.             Wells JW. 1983. Annotated list of the scleractinian corals of the
+    96: 189–198.                                                                      Galápagos Islands. In: Glynn PW, Wellington GM (eds.), Corals
+Meesters EH, Bak RPM. 1994. Regeneration of tissue lesions in                         and Coral Reefs of the Galápagos Islands. Univ. California Press,
+    corals: A biomonitoring tool? Abstracts 6th Pacific Congress on                   Berkeley, pp. 212–295.
+    Marine Science and Technology (PACON), p. 199.
+Meesters EH, Bos A, Gast GJ. 1992. Effects of sedimentation and                                        Recibido en abril de 2005;
+    lesion position on coral tissue regeneration. Proc. 7th Int. Coral                                aceptado en octubre de 2005
+    Reef Symp. 2: 671–678.
+
+
+
+
+                                                                            194
+

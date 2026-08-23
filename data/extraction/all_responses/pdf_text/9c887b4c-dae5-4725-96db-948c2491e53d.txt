@@ -1,0 +1,551 @@
+  Galaxea, JCRS, 8: 39 - 50 (2006)
+                                                                                                                           Jc RS      JapaneseCoralReef S
+                                                                                                                                       ociety
+
+
+
+
+       Three stages of injuries                                regeneration                  on scleractinian                  corals
+
+
+         Titlyanov        E.A.1, 2,*, Titlyanova                  T.V.1, 2, Yakovleva              I.M.1, 3,   Sergeeva        O.S.1, 2
+
+
+         1
+          Institute of Marine Biology, Far East Branch of Russian Academy of Sciences, Vladivostok,
+          690041, Russia
+         2Tropical Biosphere Research Center
+                                               , University of the Ryukyus, Sesoko Island, Okinawa
+          905-0227, Japan
+         3Department of Chemistry
+                                     , Biology and Marine Science, University of the Ryukyus,
+          Nishihara, Okinawa 903-0213, Japan
+
+              Abstract: Regeneration of artificial injuries on scleractinian    corals of massive colonies
+              Porites lutea and branching Porites cylindrica and algal/coral competition on newly formed
+              substrate are the subject of investigation. It was shown that the injured coral areas re-
+              covered at three stages (1) coral tissue recovery with the formation of a border between
+              the regenerating live tissue and dead area, (2) growth and expansion of the live tissue
+              on the substrate, and (3) new polyps development on the healed area. At the first stage
+              of the regeneration, the rate of lesion healing was highest it varied in respect to injury
+              type and averaged 0.2-0.05 and 0.1-0.02 mm day 1 for P. lutea and P. cylindrica, respec-
+              tively. The regeneration rate mostly depended on morphology of corals and injury type.
+              Coral entombed spores and thalli fragments of algae settled onto partially damaged live
+              tissue and skeleton. At the second stage, the rate of lesion healing sharply decreased
+              and varied from 0.1 to 0.03 mm day-1 for P. lutea and from 0.05 to 0.02 mm day-1 for P.
+              cylindrica. Position of the injuries within the colony, light intensity, as well as the com-
+              position and abundance of algae and animals settled onto the damaged areas had a sig-
+              nificant effect on the rate and duration of the recovery process. The algae growing on
+              dead areas of the injuries acted as a physical and in rare cases as a chemical impedi-
+              ment for expansion of live tissue on the available substrate. At the second stage of heal-
+              ing, the live tissue overgrew twenty two algal species settled onto the lesions at winter
+              and spring seasons. At the third stage of the regeneration, the recovery depended on ex-
+              ternal and internal conditions promoting the growth of coral polyps.
+
+
+              Key words: scleractinian corals; Porites lutea; Porites cylindrica; algae; artificial                        injuries; re-
+              generation; algal-coral competition
+             * Corresponding         author
+                                              . Far     East      Branch     of    Russian    Academy     of Sciences,   Institute      of
+             Marine     Biology,     Vladivostok-41,           Vladivostok        690041,    Russia.  Tel.: +7-4232-310931         fax:
+             +7-4232-310900.
+             E-mail   address:     etitlyanov@mail.ru
+
+
+
+
+                                                                                  b; Brown et al. 2002 Bhagooli and Hidaka 2002),
+                  INTRODUCTION
+                                                                                  sedimentation (Rogers 1990; Stafford-Smith and
+   Partial mortality in corals can occur due to                                   Ormond 1992), bioerosion (Bruggemann et al.
+lesions on the coral colony, where the live surface                               1994; McCook et al. 2001), storms and cyclones
+has died or been removed (Meesters et al. 1997a).                                 (Glynn 1990) and by human activities (Grigg and
+Lesions are caused by natural processes such as                                   Dollar 1990; Bruckner and Bruckner 2001). Hall
+diseases (Gladfelter 1982; Peters 1984; Hall 1997,                                (1997, 2001) has divided coral injuries into four
+2001), prolonged coral bleaching (Brown 1997a,                                    major categories: partial tissue loss (grazing,
+40                           Titlyanov   E.A. Titlyanova   T.V. Yakovleva   LM. Sergeeva   OS.
+
+
+
+
+predation); tissue mortality (diseases, bleaching                 sites at a depth of 1-1.5 m from the fringing reef
+ events); superficial tissue and skeleton loss                    during low tide. Two types of fragments were cut
+ (predation by excavating fish, and natural dis-                  from the colonies: small and large pieces with
+turbances, such as turbidity, sand and rubble                     weight ranging from 2 to 60 g and from 80 to 200
+ abrasion) and substantial tissue and skeleton loss               g, respectively, from P. cylindrica and big frag-
+ (breakage due to storms, cyclones or human ac-                   ments with a weight range from 200 to 800 g
+tivity). These damages to colonies of hard cor-                   each from P. lutea. In some experiments, we used
+ als sometimes reach extensive areas but do not                   small (up to 1 kg) intact colonies of P. lutea.
+lead to mortality of the colonies due to modu-
+larity of the corals, and to their high ability to               Study site, time and conditions
+regenerate by healing and recruitment (Hughes                       All experiments       were conducted in outdoor
+and Jackson 1985). Regeneration of injured areas                 aquaria (50 L each) at Sesoko Station of Tropical
+depends on type and size of lesions on coral colony              Biosphere Research Center of University of the
+surfaces, and interspecific     and environment-                 Ryukyus (Sesoko Island, Okinawa, Japan, 26°38'
+related-differences (Kawaguti 1937; Meesters and                 N, 127°52' E) from November 2002 to August
+Bak 1993, 1995; Meesters et al. 1996, 1997a, b;                  2003. In the winter period, water temperature
+Hall 1997; Oren et al. 1997; Marshall 2000). It                  in the aquaria was 19-24°C during the daytime
+is also greatly affected by the physiological state              and 18-22°C at night. In the spring period, the
+of coral colonies (Hall 1997, 2001; Titlyanov and                temperature was 25-28°C during the daytime and
+Titlyanova 2002). The ability of many corals to                  22-24°C at night. In the summer period, the tem-
+recover from injuries is energetically costly, and               perature was 28-30°C and 27-28°C, respectively.
+species differ in the allocation of resources be-                Mineral nutrition and zooplankton concentration
+tween regeneration and other physiological proc-                 in the aquaria were similar to natural conditions
+esses (Meesters and Bak 1993; Meesters et al.                    because the seawater was pumped from a depth
+ 1994). Probably, algae and marine invertebrates                 of 2 m of the fringing reef and was not subjected
+may affect a process of healing of lesions because               to filtration or settling. The water in the aquaria
+of their attachment to damaged areas and subse-                  was intensively aerated; water change was ap-
+quent impediment to regeneration of coral tissue.                proximately 30% h'. The light intensities in open
+However, although the regeneration mechanisms                    aquaria were 70-90% of incident photosynthetically
+of various types of injuries to scleractinian cor-               active radiation (PARo) or 800-1400 µmol m2 • s l
+als were studied in some works (Meesters et al.                  at sunny midday during the winter period and
+1997a; Hall 1997, 2001; Oren et al. 1997), the dy-               900-1800 µmol m2• s 1 during the summer period.
+namics of regeneration and the influence of set-                 Some aquaria were shaded by gray or black plas-
+tled organisms on the recovery of injuries have                  tic mesh.
+been largely ignored.
+   In this paper, we examined the dynamics of                    Experimental design
+regeneration of various types of artificial injuries                Experiments     were conducted on coral frag-
+on two coral species - massive colonies of Porites               ments acclimated to bright light (70-90% PARo)
+lutea and branching colonies of Porites cylindrica.              or to moderate light (30% PARo) for two months.
+We also studied the relationship between the                        Coral tissue was removed from the fragments
+regeneration rate of the injuries and their loca-                with Water-Pik (WP injury) (Fig. 1A). Such treat-
+tion within the colonies or light intensity in the               ment led to complete removal of the live tissue
+habitats. Monitoring of colonization of the coral                from the greater part of the injured areas or so
+injuries by algae and animals allowed us to show                 called "partial tissue loss" (Hall 1997, 2001). At
+the relation between the regeneration       rates of             the area between healthy and damaged surfaces,
+coral tissue and composition and abundance of                    the live tissue was removed partially and amounted
+communities of these settlers.                                   to approximately 5-10% of whole injured area.
+                                                                 Large and small fragments were also inflicted
+                                                                 with injuries as follows: a chisel injury over the
+                                                                 surface in the middle part of the fragment to
+        MATERIALS       AND METHODS
+                                                                 remove superficial layer of tissue and skeleton
+Study specimens                                                  1-2 mm depth - "superficial tissue and skeleton
+   Massive colonies of Porites lutea Edwards and                 loss" (Hall 2001) (Fig. 1B). Breakage or "tissue
+Haime, 1860 and branching colonies of Porites                    and skeleton loss" (Hall 2001) was simulated with
+cylindrica Dana, 1846 were collected from open                   pincers (for Porites cylindrica) or with a small hand-
+                                  Three stages of injuries regeneration on scleractinian corals                            41
+
+
+
+
+      Fig. 1. Colonies and fragments of the corals Porites lutea and Porites cylindrica with different injury types, and
+      regeneration of tissue on damaged areas. A, P. cylindrica fragment with Water-Pik (WP) injuries. B, P. lutea
+      fragment with chisel injuries. C, P. lutea fragment with breakage injury made at once. D, P. lutea fragment
+      after breakage injury with a formation of the border between the live tissue edge and dead skeleton, and ex-
+      pansion of the live tissue on newly formed skeletal substrate. E, polyp development on the recovered tissue.
+      F, cement injuries (Porites lutea) after two months of the recovery. Dots indicate the primary (initial) border
+      between cement and live tissue.
+
+
+
+
+saw (for Porites lutea) (Fig. 1C). Osmotic shock                   placed onto plastic grids in their natural position
+(OS) injuries were made with a gentle jet of                       into aquaria. This series of the experiments were
+fresh water for five-ten min and live tissue was                   conducted during the winter-spring period from
+at once removed only from the middle part of the                   January 10, 2002 to May 6, 2003.
+lesions (no more than 20% of the damaged area),                       The next series of the experiments were con-
+and the rest of the tissue from the greater part                   ducted using small Porites lutea fragments pre-
+of the lesions died and detached from the skeleton                 acclimated to light intensities 70-90%, 20-30%,
+in a time course - "tissue mortality" (Hall 2001).                 3-5% and <1% PAR, in the aquaria shaded by
+Healthy areas of some coral fragments were partly                  grey or black plastic mesh during 30 days. Before
+covered with a 1 mm thick-layer of cement -                        the experiment, WP injuries were made on the
+cement injuries (Fig. 1F). This type of the inju-                  fragments. Then, these samples were fixed with
+ries simulated an attachment of some animals or                    cement to dead coral pebbles in three positions:
+algae in nature. For further measurements of the                   at their upper part, perpendicular to solar rays,
+recovery rate, wax lines or dots were marked in                    in the lateral part at angles to the rays and at
+the middle part of the injuries. Usually, the le-                  the basis of colony turned to the bottom of an
+sions for all types of inflicted injuries were lo-                 aquarium. The colonies were put into the aquaria
+cated at the middle part of fragments or at the                    with high, moderate and low light intensities.
+upper, lateral or basal parts of small colonies.                   Light intensities near the surface of each fragment
+Injury size depended on the dimensions of the                      were similar to those experienced by fragments
+fragments and on average amounted no more                          during their pre-acclimation. These experiments
+than 10% of the living tissue area.                                were conducted for a period of two summer months
+   After the procedure with injuries, fragments                    from June 10, 2003 to August 10, 2003.
+or colonies were photographed under water and
+42                                   Titlyanov   E.A. Titlyanova     TV. Yakovleva   LM. Sergeeva   OS.
+
+
+
+
+Analytical    procedure                                                                         %S = W2/Wl x 100
+The growth       rate measurements
+   Undamaged         coral fragments      were blotted     with            where, S is the relative area of a projective cover
+a paper towel to remove          excess seawater,     weighed              of injury by settlers, W1 is weight of paper with
+and    placed      back    into   the  respective     aquaria.             image of lesion, and W2 is weight of paper with
+This procedure         took a few minutes         and did not              image of settlers.
+induce     any damage       to corals. The fragments      were               Algal composition and abundance were deter-
+weighed      again after 30 days of maintenance.            The            mined under a stereoscopic microscope on the
+growth     rate   of samples   was    calculated      using    the         basis of ten fortuitous optical fields.
+formula:
+                                                                           Light intensity measurement
+                  C(m1-mo)/(mox         AT)) x 100                            Light intensity was measured at the water
+                                                                           surface in the open aquaria and near the upper
+where, µ is the average growth rate measured                               parts of coral fragments in both the open and
+in mg g' • days, mo is initial weight, m1 is a                             shaded aquaria with a Li-Cor radiation sensor
+weight at the end of the experiment, and A T                               (Model LI-192 SB). The measurements           were
+is the time between two measurements      of the                           performed three times a day: at 9-10 a.m., 13
+weight (Brinkhuis 1985). Means and standard                                -14 p .m. and 17-18 p.m. The relative light in-
+deviations were calculated on the basis of eight                           tensity near the coral surface was calculated from
+fragments (n=8).                                                           these measurements and represented in percent
+                                                                           of PAR0.
+Measurements of the recovery rate of lesions
+    To determine the amount of regeneration of                             Statistical analysis
+the injuries over time, the injured areas of the                              The raw data for the regeneration and growth
+experimental fragments were monitored photo-                               rates were arcsine transformed prior to use of
+graphically with a digital camera "Olympus"                                analysis of variance (ANOVA) procedures. Tukey
+C5050Z. The amount of regeneration within the                              Honest Significance Test was employed for mul-
+experimental period was quantified from the color                          tiple comparisons of means whenever ANOVA
+photographs by printing the image at its actual                            results were significant. Differences were consid-
+size or with a magnification and tracing the dam-                          ered significant at P < 0.05.
+aged and healed areas. On the basis of ten spo-
+radic measurements for each fragment (distance
+from the center of the lesion to the edge of the
+                                                                                                     RESULTS
+lesion at the beginning of the experiments or to
+the border between dead area and live tissue dur-                          The recovery dynamics of damaged tissue and colo-
+ing the maintenance), the average regeneration                             nization of the injuries by algae and animals
+rate was calculated in mm day'. In the summer                                 Figure 2 shows the rate of growth and regen-
+experiments, the areas of initial lesions and the                          eration of lesions on the fragments of Porites
+lesions after their partial healing were measured                          lutea and P. cylindrica inflicted with the different
+and the regeneration rate was calculated in mm2                            injury types and maintained under 30% PAR0
+cm 2 day'. Means and standard deviations were                              during two winter months. The growth rates of
+calculated on the basis of five fragments (n=5).                           coral fragments differed insignificantly between
+                                                                           the species and time treatments and, amounted
+Amount of algal and animal organisms settled onto                          to an average about 1.2 mg fw g' fw day' (Fig.
+the injury                                                                 2A).
+   To determine the area occupied by the algal                                 In breakage, chisel and WP injuries of both
+and animal organisms, "weight" method was used.                            coral species investigated, the regeneration rates
+Color image of lesion was printed on a high qual-                          were significantly (ANOVA, P < 0.05) higher
+ity Epson KA450PM paper at a magnification 5x.                             (2-3-fold) during the first month of the experi-
+The image of the injured area was cut and                                  ment compared to those during the second one
+weighed, and then the images of the algae and                              (Fig. 2B-D). In OS and cement injuries, the re-
+animals were similarly cut and weighed. The                                generation    rates did not differ significantly
+relative area occupied by the settlers was then                            (ANOVA, P > 0.05) between the first and the sec-
+calculated by the following formula:                                       ond month of the maintenance (Fig. 2E, F). For
+                                                                           all the injury types, the regeneration rate was
+                                  Three stages of injuries regeneration on scleractinian corals                              43
+
+
+
+
+      Fig. 2. Growth rate (A) and regeneration of lesions on fragments of the corals Porites lutea (B-F) and Porites
+      cylindrica (B-D, F) inflicted with different injury types (breakage; chisel; WP - Water Pik; OS - osmotic shock; ce-
+      ment) and maintained in the aquaria under moderate light intensity (30% PAR0) during two winter months.
+      Means ± SD, n = 8.
+
+
+
+higher in Porites lutea than in P. cylindrica espe-                 irregularis (Phaeophyta) and Centroceras clavulatum
+cially within the first month of the experiment.                    (Rhodophyta) were observed on the injuries of
+The formation of a clear border between the                        both coral species. A small amount of Spyridia
+live tissue and the dead area of breakage injuries                 filamentosa (Rhodophyta) and Phormidium tenue
+occurred during the first month of the experi-                      (Cyanobacteria) were found only on the injuries
+ment (Fig. 1D). In both coral species investi-                      of P. cylindrica. Among marine animals, there
+gated, new polyps were formed only within the                       were found only solitary tunicates (Urochordata).
+second month of the experiment (Fig. 1E).                           On all the types of injuries, the projective cover
+   The projective cover of injuries with settlers,                  with settlers was insignificant: the algae and
+their list and abundance are given in Table 1                       animals formed 2-7% and <1%, respectively
+and 2. After the first month of the maintenance,                    (Table 1). After the second month of the main-
+Enteromorpha clathrata (Chlorophyta), Feldmannia                    tenance, the algae and animals occupied 20-
+44                                Titlyanov   E.A. Titlyanova   T.V. Yakovleva   LM. Sergeeva   OS.
+
+
+
+
+ Table 1. Means and standard deviations       of the relative   algal and animal    cover (%) on the injured   areas after 30 and 60
+ d maintenance in the aquaria
+
+
+
+
+ Table 2. Species list and the abundance of algae and animals settled onto the corals Porites lutea and Porites cylindrica after
+ the damages (WP injuries) under maintenance       in aquaria within the winter-spring   period from January 10, 2003 to
+ March 10, 2003.
+                               Three stages of injuries regeneration on scleractinian corals                       45
+
+
+
+
+      Table 2.   (continued)
+
+
+
+
+  Annotation: ++, for 1-10 individuals         per cm2; +, for less than 1 individual          occurred per cm2.
+  S, a single individual per injury
+
+
+
+80% and about 3%, respectively (Table 1). At the                The influence of location of injuries on colonies
+same time, cement injuries were covered only by                 and light intensity on the recovery rates
+20% (Fig. 1F), whereas OS injuries were covered                    Position of lesions within the fragments of
+to more than 80%. Enteromorpha spp. (Chlorophyta)               Porites lutea colonies had a significant effect on
+and Spyridia filamentosa (Rhodophyta) were com-                 the regeneration    rates of WP injuries (Fig. 3).
+mon algae observed on the injuries. Hincksia                    During the first month of maintenance (period 1),
+mitchelliae (Phaeophyta),      Rhipidosiphon javensis           the regeneration      rate differed insignificantly
+(Chlorophyta), Spirulina sp. (Cyanobacteria) and                between the lesions located at the upper, lateral
+Nitzschia longissima (Bacillariophyta) represented              and basal parts of the fragments. During the
+appeared as new settlers. Moreover, WP inju-                    following two months of the experiment (period
+ries of both coral species significantly differed               II), the regeneration rate of the injuries in all
+in the composition of the settlers but not in their             parts of the colonies significantly dropped, es-
+abundance.      The most common settlers were                   pecially at the upper part (4-5 times). Injuries
+Phormidium tenue, Enteromorpha compressa,Feidmannia             located at the upper parts of the colonies healed
+irregularis, Ectocarpus sp., Centrocerasclavulatum and          approximately two times slower than those lo-
+Spyridia filamentosa. New animals, which settled                cated at the lateral and basal parts.
+onto the injuries of both coral species, were                      During summer two-month experiments, sig-
+Spirorbis sp. (Polychaete)         and Acervulina sp.           nificant differences in the regeneration rates of
+(Protozoa). In total, after the second month of                 wP injuries in relation to their position within
+the maintenance,       twenty two species of algae              the colony of P. lutea and to light intensity were
+were found: three species of Bacillariophyta                    observed (Fig. 4). The highest regeneration rate
+three species of Cyanobacteria; three species of                of WP injuries located at the upper and lateral
+Chlorophyta; four species of Phaeophyta            and          parts of the fragments was observed under low
+eight species of Rhodophyta.                                    light (20-30% PAR0 ). The regeneration          rate
+46                             Titlyanov   E.A. Titlyanova   TV.   Yakovleva   LM. Sergeeva   OS.
+
+
+
+
+     Fig. 3. Regeneration rate of Water-Pik (WP) injury at the different positions on the fragments of Porites lutea
+     maintained in aquaria at 30% PAR0 during the winter and spring periods. Means ± SD, n = 5.
+
+
+
+
+     Fig. 4. Regeneration rate of Water-Pik (WP) injury at the different position of lesions on the fragments of
+     Porites lutea maintained in aquaria at different irradiance levels during the experiment from May 10, 2003 to
+     July 10, 2003. Means ± SD, n = 5.
+
+
+
+
+significantly (P < 0.05) dropped with either an                     part of the coral fragments exposed to 20-30%
+increase (70-90% PAR0) or a decrease (3-5%                          and 3-5% PAR0. A significant decrease in the
+PAR0) in the light intensity. There was no sig-                     regeneration rate was observed only under ex-
+nificant difference (P < 0.05) in the regenera-                     tremely low light (<1% PAR0). The highest re-
+tion rate of WP injuries located at the basal                       generation rate (2.6 ± 0.5 mm2 • cm 2• d') was
+                              Three stages of injuries regeneration on scleractinian corals                         47
+
+
+
+
+observed in the fragments of the basal parts of                of coral tissue recovered faster than dead areas.
+colonies exposed to low light.                                 Therefore, we suppose that scleractinian corals
+                                                               with the live tissue spreading deeper into the
+                                                               skeleton are more resistant to the injuries with
+                                                               damaged polyps.
+                  DISCUSSION                                      In the present experiments, lesions in both
+The dynamics of regeneration of tissue and skeleton            coral species with partially damaged polyps after
+of damaged corals                                              breakage, chisel and WP (scraping) injuries healed
+   For both the massive coral Porites lutea and the            significantly faster than those after OS and ce-
+branching coral P. cylindrica, the regeneration of             ment injuries (close to tissue injuries). Moreover,
+all injuries started from the partially damaged                the recovery from OS and cement injuries did
+coral tissue and only after that the recovered tis-            not display any significant differences in the
+sue occupied dead parts of the lesions expending               regeneration    rates between the first and the
+on the dead area and formed new polyps. The                    second months of the experiment for both coral
+partially damaged tissue started to recover im-                species. Bak and Steward-van Es (1980) have
+mediately after the damage and healed 2-4 times                reported similar results for the recovery of scrap-
+faster than the dead area of wound. Earlier, Bak               ing and tissue injuries for Porites asteroids. The
+and Steward-van Es (1980) showed that the re-                  authors have shown that the rapid recovery was
+covery of live tissue and skeleton of partially                assisted by the regeneration    of the partially in-
+damaged polyps of the corals Agaricia agaricites               jured polyps within the injured site. It might
+and Porites astreoides occurred also at the begin-             be possible that areas of the partially damaged
+ning after the damage following by the recovery                tissue were minimal in the tissue injury type (OS
+of the tissue on the dead areas of the lesions.                and cement), and thus, the recovery has been
+                                                               started with the formation of new live tissue and
+Interspeci is differences in the recovery dynamics for         with the expansion on newly formed substrate
+different injury types                                         (dead skeleton, cement) that is energetically more
+    Previously, regenerative ability of injured colo-          costly and takes more time than to repair par-
+nies with different morphologies has been stud-                tially damaged polyps.
+ied in eleven coral species (Hall 1997). The
+regenerative abilities could be ranked according                Regeneration in relation to location of injuries within
+to morphological attributes for these species as                colony and to light conditions
+following: arborescent > bushy > tubular > mas-                    Variations in the regeneration       of lesions, lo-
+sive > submassive.                                              cated at different positions within a colony, have
+    According to the Hall's scheme, the recovery                been reported by many authors (e.g., Jackson
+of injuries for P. cylindrica (bushy) must be faster            1979; Palumbi and Jackson 1982 Meesters et
+than that for P. lutea (massive). However, our                  al. 1994; Meesters and Bak 1995; Hall 1997).
+experiments      clearly showed that the recovery               Meesters and coauthors (1994) showed that the
+from breakage, chisel, WP and cement injuries                   regeneration of artificial lesions was slower in
+in P. lutea was two-three times faster than in P.               the areas with high sedimentation. However, Hall
+cylindrica within the first month of the mainte-                (1997) did not find the differences between heal-
+nance. Some explanations could be proposed for                  ing of lesions located at different parts in the colo-
+these differences. The structure (morphology) of                nies for six out of seven investigated species.
+the polyp affects the number of polyps damaged                     In the present experiments, the injuries healed
+partially, and dimension of the mechanistic dam-                with a high rate and did not depend on their
+ age restricts mainly to the polyp size and the                 location during the first month of the recovery.
+height of corallites (i.e. on depth of the spread               Subsequently, the injuries located at the upper
+ of live tissue). Based on the morphological char-              parts healed approximately         two times slower
+ acteristics of the species investigated,     the live          than wounds located on either side or at the
+ tissue of P. lutea spreads approximately two times             base of the fragments. We suggest that at the
+ deeper (due to the greater height of the polyps)               first stage of the regeneration,      the recovery of
+ into the skeleton and has a relatively greater                 partially damaged coral tissue is not affected
+ area of lesions with tissue damaged partially                  by external factors, such as sediments deposi-
+ compared to that of P. cylindrica, which was dam-              tion and coral-algal competition.
+ aged almost completely under the same type of                     Lesions located at the lower part of colonies
+ injury. As it was shown above, partial damages                 and faced to the bottom, where light intensity
+48                             Titlyanov   E.A. Titlyanova   TV. Yakovleva   LM. Sergeeva    OS.
+
+
+
+
+varied from 20% to less than 1% PARo, repaired                     was shown previously (Titlyanov et al. 2005),
+1.5-2-fold faster than those located at the upper                  more than one hundred algal species were over-
+and side parts of the colonies and experienced                     grown by the corals after eight months of their
+irradiation from 90% to 3% PARo. We suggest                        recovery from injuries (Titlyanov et al. 2005).
+that sediment deposition affected the recovery                        It is interesting to note that OS and cement
+rate of the lesions situated at various places, and                injuries had a maximum (80%) and minimum
+thus impeded the repair of the inflicted inju-                     algal cover (20%), respectively. Probably, the OS
+ries. These results allowed us to conclude that                    injuries had better conditions and more suitable
+there is no significant effect of light intensity                  surface for the settlement and attachment       of
+(in a range from 20-30% to 3-5% PARo) on the                       the algal spores and fragments (onto unchanged
+healing of lesions at the first stage of the re-                   morphology of the skeleton) and also for the algal
+covery process. The latter supports the idea that                  growth (remnants of dead tissue) compared to
+the regeneration of live tissue in the damaged                     the cement injuries.
+corals occurs with a large energetic cost (Hall
+2000) and, thus, has a paramount significance
+for an organism, which spends for these needs                                               CONCLUSION
+the energy obtained by various manners: photo-                        Our experiments showed that coral injuries
+synthesis of zooxanthellae, predation, feeding by                  recovered at three stages. At the first stage,
+plant remnants, dissolved organic matters, and                     partially damaged tissue healed forming a clear
+also digestion of own zooxanthellae      (Titlyanov                border between the recovered live tissue and
+and Titlyanova 2002b).                                             the dead area. During this stage, the regenera-
+                                                                   tion rate of polyps (tissue and skeleton) de-
+ Coral-algal competition                                           pended mainly on their damage, morphophysiological
+   At the first stage of the recovery, algal colo-                 and anatomical features of the damaged coral.
+nizers, such as Enteromorpha spp. and Centroceras                  At the second stage, the newly formed live tis-
+clavulatum attached to the damaged skeleton or                     sue gradually overgrew the dead area. During
+to the coral live tissue, respectively, impeded                    this stage, the rate of the formation of new tis-
+healing. However at this stage, regenerating        live           sue and expansion on substrate depended mainly
+tissue is able to overgrow the algae and to entomb                 on coral physiology, on features of the substrate
+them into the skeleton (Titlyanov et al., 2005).                   (structure, sedimentation     and overgrowth with
+Subsequently, when newly formed live tissue oc-                    algae), on the position of injuries (the upper,
+cupies the substrate, algae and animals, which                     lateral and basal sides of colonies), and on en-
+settled onto the substrate, act as a physical or                   vironmental conditions in their habitat, especially
+sometimes chemical impediment for expansion of                     on light intensity. At the third stage, the recovery
+the coral tissue. Moreover, two species of the                     of tissue and skeleton followed by the develop-
+Cyanobacteria (Lyngbyabouillonii and L. majuscula)                 ment of new polyps on newly formed substrate.
+are able to act as poison for the corals, inhibiting               The main conditions during this stage are opti-
+their growth and bleaching the live tissue (Titlyanov              mal conditions for the coral growth.
+et al., 2005).
+   Probably, it might explain a sharp decrease
+in the rate of coral regeneration. In winter sea-
+son, the first colonizers that settled onto newly                                ACKNOWLEDGEMENTS
+formed substrate were marine plants such as                           The Russian authors thank the President of
+Phormidium tenue (Cyanobacteria),        Enteromorpha              the University of the Ryukyus, Prof. Moshin
+compressa(Chlorophyta), Ectocarpus sp and Feldmannia               Morita and the scientific leader of the Sesoko
+irregularis    (Phaeophyta),    Spyridia filamentosa               Marine Biological Station Prof. Minoru Murai
+(Rhodophyta)      and animals such as solitary                     for the invitation to work at the Sesoko Station
+tunicates (Chordata). New animals, which settled                   of the Tropical Biosphere Research Center. We
+onto the injuries of both coral species, were                      are also grateful to the staff of the Sesoko Station
+Spirorbis sp. (Polychaete) and Acervulinasp. (Protozoa).           for use facilities, technical support, hospitality
+By the second month after the injuries were in-                    and the convenience of research work.
+flicted, the wounds of Porites cylindrica and P.
+lutea were colonized by more than twenty spe-
+cies of algae. Nonetheless, the corals were able
+to overgrow all these species of algae. As it
+                                Three stages of injuries regeneration on scleractinian corals                       49
+
+
+
+
+                                                                      Mar Biol Ecol 264 209-223
+              LITERATURE         CITED
+                                                                 Hughes TP, Jackson JBC (1985) Population dy-
+Bak RPM, Steward-van Es Y (1980) Regeneration                         namics and life histories of foliaceous cor-
+    of superficial damage in the scleractinian                        als. Ecol Monogr 55(2): 141-166
+    corals Agaricia agaricites f. purpurea and                   Jackson JBC (1979) Morphological strategies of
+    Porites astreoides. Bull Mar Sci 30: 883-887                      sessile animals. In: Larwood G, Rosen BR
+Bhagooli R, Hidaka M (2002) Physiological re-                         (eds) Biology and Systematics of Colonial
+    sponses of the coral Galaxea fascicularis and                     Organisms. Academic Press, London 499-
+    its algal symbiont to elevated temperatures.                      555
+    Galaxea, JCRS 4: 33-42                                       Kawaguti S (1937) On the physiology of reef
+Brinkhuis BH (1985) Growth patterns and rates.                        corals. III. Regeneration and phototropism
+    Hand-book        of     Physiological     Methods,                in reef corals. Palao Trop Siol Station
+     Ecological Field Methods: Macroalgae. NJ                         Studies I: 209-216
+     Cambridge University Press, pp. 461-477                     Marshall PA (2000) Skeletal damage in reef
+Brown BE (1997a) Disturbances to reefs in re-                         corals: relating resistance to colony mor-
+    cent times. In: Birkland C (ed) Life and                          phology. Mar Ecol Prog Ser 200: 177-189
+    Death of Coral Reefs. Chapman & Hall,                        McCook LJ, Jompa J, Diaz-Pulido G (2001)
+     New York, 345-379                                                Competition between corals and algae on
+Brown BE (1997b) Adaptations of reef corals to                        coral reefs: a review of evidence and
+     physical environmental         stress. Adv Mar                   mechanisms. Coral Reefs 19: 400-417
+     Biol 31: 221-299                                            Meesters EH, Bak RPM (1993) Effects of coral
+Brown BE, Dunne RP, Goodson MS, Douglas                               bleaching on tissue regeneration      potential
+    AE (2002) Experience shapes the suscepti-                         and colony survival. Mar Ecol Prog Ser 96:
+    bility of a reef coral to bleaching. Coral                        189-198
+     Reefs 21: 119-126                                           Meesters EH, Noordeloos M, Bak RPM (1994)
+Bruckner AW, Bruckner RJ (2001) Condition of                          Damage and regeneration: Links to growth
+     restored Acropora palmata fragments              off             in the reef-building coral Montastrea annularis.
+     Mona Island, Puerto Rico, 2 years after the                      Mar Ecol Prog Ser 112: 119-128
+    Fortuna Reefer ship grounding. Coral Reefs 20:               Meesters EH, Bak RPM (1995) Age-related de-
+     235-243                                                          terioration   of a physiological function in
+Bruggemann       JH, Van Oppen MJH, Breeman                           the branching coral Acropora palmata. Mar
+    AM (1994) Foraging             by the stoplight                   Ecol Prog Ser 121: 203-209
+     parrotfish Sparisoma virile. Mar Ecol Prog                  Meesters EH, Wesseling I, Bak RPM (1996)
+     Ser 106: 41-55                                                   Partial mortality in three species of reef-
+Gladfelter WB (1982) White-band             disease in                building corals and the relation with colony
+    Acropora palmata: implications for the struc-                     morphology. Bull Mar Sci 58(3): 838-852
+     ture and growth of shallow reefs. Bull Mar                  Meesters EH, Wesseling I, Bak RPM (1997a)
+     Sci 32: 639-643                                                  Coral colony tissue damage in six species
+Glynn PW (1990) Coral mortality and distur-                           of reef-building corals: Partial mortality in
+     bances to coral reefs in the Tropical Eastern                    relation with depth and surface area. J Sea
+     Pacific. In: Glynn PW (ed) Global ecological                     Res 37(1-2): 131-144
+     consequences of the 1982-83 El Nino-south-                  Meesters EH, Pauchli W, Bak RPM (1997b)
+     ern oscillation. Elsevier, Amsterdam 55-126                      Predicting regeneration of physical damage
+Grigg RW, Dollar SJ (1990) Natural                   and              on a reef-building coral by regeneration ca-
+     anthropogenic      disturbance     on coral reef                 pacity and lesion shape. Mar Ecol Prog Ser
+     ecology. In: Dubinsky Z (ed) Ecosystems of                       146: 91-99
+     the world. Coral Reefs, Elsevier Science                     Oren U, Benayahu Y, Loya Y (1997) Effect of
+     Publishers, Amsterdam 439-452                                    lesion size and shape on regeneration          of
+Hall VR (1997) Interspecific differences in the                       the Red Sea coral Favia favus. Mar Ecol
+    regeneration of artificial injuries on scleractinian              Prog Ser 6: 101-107
+    corals. J Exp Mar Biol Ecol 212: 9-23                         Palumbi SR, Jackson JBC (1982) Ecology of cryp-
+Hall VR (2001) The response                of Acropora                tic coral reef communities.       II. Recovery
+     hyacinthus and Montipora tuberculosa to three                    from small disturbance events by encrusting
+     different types of colony damage scraping in-                    bryozoa: The influence of "host" species and
+     jury, tissue mortality and breakage. J Exp                       lesion size. J Exp Mar Biol Ecol 64: 103-115
+50                          Titlyanov   E.A. Titlyanova   TV. Yakovleva   LM. Sergeeva   OS.
+
+
+
+
+Peters EC (1984) A survey of cellular reactions to
+     environmental       stress  and   disease   in
+     Caribbean scleractinian corals. Helgolander
+     Meeresunter 37: 113-137
+Rogers CS (1990) Responses of coral reefs and
+     reef organisms to sedimentation.     Mar Ecol
+     Prog Ser 62: 185-202
+Stafford-Smith M, Ormond RFG (1992) Sediment
+     rejection   mechanisms     of 42 species of
+     Australian scleractinian corals. Australian J
+     Mar Freshwater Res 43: 683-706
+Titlyanov EA (1991) The stable level of coral
+     primary production in a wide light range.
+     Hydrobiologia 2161217: 383-387
+Titlyanov EA, Leletkin VA, Dubinsky Z (2000)
+     Autotrophy and predation in the hermatypic
+     coral Stylophora pistillata in different light
+     habitats. Symbiosis 29: 263-281
+Titlyanov EA, Titlyanova TV, Amat AA, Yamazato
+     K (2001) Morphophysiological variations of
+     symbiotic dinoflagellates in hermatypic cor-
+     als from a fringing reef at Sesoko Island.
+     Galaxea 3: 51-63
+Titlyanov EA, Titlyanova TV (2002a) Reef-building
+     corals - symbiotic autotrophic organisms: 2.
+     Pathways and mechanisms of adaptation to
+     light. Rus J Mar Biol 28: 16-31
+Titlyanov EA, Titlyanova TV (2002b) Reef-building
+     corals - symbiotic autotrops. 1. General fea-
+     tures, feeding modes and light-dependent
+     distribution of the shelf. Rus J Mar Biol 28:
+     239-253
+Titlyanov EA, Titlyanova TV, Yakovleva IM,
+     Nakano Y, Bhagooli R (2005) Coral-algal
+     competition for newly formed substrate. J
+     Exp Mar Biol Ecol 323: 27-42
+
+(Received: 9 Dec. 2005/Accepted: 12 April. 2006)
+

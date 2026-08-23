@@ -1,0 +1,743 @@
+                        Journal of Experimental Marine Biology and Ecology
+                                         251 (2000) 41–57
+                                                                          www.elsevier.nl / locate / jembe
+
+
+
+
+     Fragmentation in the branching coral Acropora palmata
+      (Lamarck): growth, survivorship, and reproduction of
+                     colonies and fragments
+                                           Diego Lirman*
+  Center for Marine and Environmental Analyses, Rosenstiel School of Marine and Atmospheric Science,
+              University of Miami, 4600 Rickenbacker Causeway, Miami, FL 33149, USA
+                            Received 2 March 1999; accepted 17 March 2000
+
+
+
+Abstract
+
+   Acropora palmata, a branching coral abundant on shallow reef environments throughout the
+Caribbean, is susceptible to physical disturbance caused by storms. Accordingly, the survivorship
+and propagation of this species are tied to its capability to recover after fragmentation. Fragments
+of A. palmata comprised 40% of ramets within populations that had experienced recent storms.
+While the survivorship of A. palmata fragments was not directly related to the size of fragments,
+removal of fragments from areas where they settled was influenced by size. Survivorship of
+fragments was also affected by type of substratum; the greatest mortality (58% loss within the first
+month) was observed on sand, whereas fragments placed on top of live colonies of A. palmata
+fused to the underlying tissue and did not experience any losses. Fragments created by Hurricane
+Andrew on a Florida reef in August 1992 began developing new growth (proto-branches) 7
+months after the storm. The number of proto-branches on fragments was dependent on size, but
+growth was not affected by the size of fragments. Growth-rates of proto-branches increased
+exponentially with time (1.7 cm year 21 for 1993–1994, 2.7 cm year 21 for 1994–1995, 4.2 cm
+year 21 for 1995–1996, and 6.5 cm year 21 for 1996–1997), taking over 4 years for proto-branches
+to achieve rates comparable to those of adult colonies on the same reef (6.9 cm year 21 ). In
+addition to the initial mortality and reduced growth-rates, fragmentation resulted in a loss of
+reproductive potential. Neither colonies that experienced severe fragmentation nor fragments
+contained gametes until 4 years after the initial damage. Although A. palmata may survive
+periodic fragmentation, the long-term effects of this process will depend ultimately on the balance
+between the benefits and costs of this process.  2000 Elsevier Science B.V. All rights reserved.
+
+Keywords: Asexual reproduction; Coral fragmentation; Fragment survivorship; Hurricanes
+
+
+
+
+*Tel.: 11-305-361-4168; fax: 11-305-361-4077.
+E-mail address: dlirman@rsmas.miami.edu (D. Lirman)
+
+0022-0981 / 00 / $ – see front matter  2000 Elsevier Science B.V. All rights reserved.
+PII: S0022-0981( 00 )00205-7
+42                   D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57
+
+
+1. Introduction
+
+   Coral colonies are made up of modules (ramets) capable of surviving alone or in small
+groups. The sum of all ramets derived from a single zygote constitutes the coral’s genet,
+and, unlike aclonal organisms, a coral’s genotype can exist as independent units that
+may experience diverse environmental conditions (Coates and Jackson, 1985; Harper,
+1985; Heyward and Collins, 1985). The population dynamics of several reef-building
+corals in the Caribbean are largely determined by the formation and death of ramets as
+the recruitment of new genets through the sexual recruitment of planula larvae is often
+limited. For example, sexual recruits of Acropora palmata and Montastraea spp. were
+absent, or present in very low numbers, in several settlement studies (e.g. Dustan, 1977;
+Bak and Engel, 1979; Hughes and Jackson, 1980, 1985; Rylaarsdam, 1983; Rosesmyth,
+1984).
+   For Acropora palmata, a species with documented limited sexual recruitment, asexual
+reproduction by tissue fission or fragmentation can have a significant influence on its
+survivorship and propagation. The main goal of this study is to describe the incidence of
+fragmentation within populations of A. palmata, determine the survivorship and growth
+of fragments, and evaluate some of the costs and benefits of fragmentation for this
+reef-building species.
+   Several benefits of asexual reproduction have been described for clonal organisms.
+The organization of coral colonies into modules allows the biomass of a genotype to
+increase beyond the mechanical limits of individual colonies by the formation of
+fragments (Jackson, 1977; Hughes et al., 1992). Moreover, where growth-rates decline
+with increasing colony size (e.g. Maragos, 1974; Loya, 1976; Hughes and Jackson,
+1985), fragmentation may help maintain high growth-rates. The larger size of fragments
+compared to planulae may result in higher survivorship after recruitment (Jackson, 1977)
+and the colonization of areas not suitable for larval development, such as soft-bottom
+habitats (Highsmith, 1982; Heyward and Collins, 1985). Also, unlike sexual reproduc-
+tion, which is restricted seasonally for Acropora palmata (Szmant, 1986), fragmentation
+can take place year-round.
+   Despite these potential benefits of fragmentation, there are disadvantages associated
+with this process that have to be considered. The final outcome of fragmentation may be
+a total increase in biomass after a period of growth (Clark and Edwards, 1995), but
+tissue losses and the initial reduction in colony size can produce negative consequences
+as colony size in cnidarians has been directly associated with survivorship, growth, and
+reproduction (e.g. Connell, 1973; Loya, 1976; Highsmith, 1982; Jackson, 1985; Karlson,
+1986, 1988; Hughes and Connell, 1987; Lasker, 1990; Babcock, 1991; Hughes et al.,
+1992).
+   Severe fragmentation, as commonly observed after storms, may limit future sexual
+reproduction by reducing the biomass of colonies and shifting the energy allocation of
+damaged colonies from reproduction to regeneration (Van Veghel and Bak, 1994; Van
+Veghel and Hoetjes, 1995; Hall and Hughes, 1996). Also, the size and weight of
+fragments may limit their dispersal range (Williams, 1975; Wulff, 1985; Jackson, 1986),
+slowing the recovery of damaged areas where the cover of adult colonies has been
+reduced significantly. In such cases, recovery will depend on the recruitment of sexual
+propagules produced in distant, undisturbed areas (Connell and Keough, 1985).
+                     D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57           43
+
+
+   In this study, I examine fragmentation of the branching coral Acropora palmata to
+document some of the costs and benefits of this process. Specifically, I document: (1)
+abundance and percent cover of fragments within several A. palmata populations, (2)
+survivorship of fragments with respect to size and substrate type, and (3) effects of
+fragmentation on the growth and reproduction of colonies and fragments.
+
+
+
+2. Methods
+
+
+2.1. Study species
+
+   Acropora palmata forms tree-like colonies on shallow, high-energy reef environments
+throughout the Florida Reef Tract and Caribbean (e.g. Goreau, 1959; Geister, 1977;
+Gladfelter et al., 1978; Highsmith, 1982; Rogers et al., 1982; Wells, 1988). It is one of
+the most important reef-building corals in the region because of fast growth-rates (up to
+10 cm year 21 , Gladfelter et al., 1978), high reef-accretion rates (7–15 kg CaCO 3 m 22
+year 21 , Gladfelter and Gladfelter, 1979), and rapid C-fixation rates (gross C fixation 5
+84–109 mg C cm 22 day 21 , Bythell, 1988). Populations of A. palmata have undergone a
+recent regional decline attributed to their susceptibility to diseases such as White Band
+Disease and physical disturbance (e.g. Bak et al., 1981; Davis, 1982; Gladfelter, 1982;
+Bythell and Bythell, 1991; Tunnell, 1992, Bythell and Sheppard, 1993; Jaap and Sargent,
+1993). Fragmentation and dislodgment of this species were reported after Hurricanes
+Hattie (Stoddart, 1963, 1965), Edith (Glynn et al., 1964), Gerta (Highsmith et al., 1980),
+Allen (Woodley et al., 1981), David and Frederic (Rogers et al., 1982), Hugo
+(Gladfelter, 1991), Gilbert (Kobluk and Lysenko, 1992; Jordan-Dahlgren and Rod-
+riguez-Martinez, 1998), and Andrew (Lirman and Fong, 1996, 1997a), as well as after
+Tropical Storms Bret (Van Veghel and Hoetjes, 1995) and Gordon (Lirman and Fong,
+1995, 1997a,b).
+
+
+2.2. Study sites
+
+   Two reefs with dense populations of A. palmata were studied within Biscayne
+National Park in the northern Florida Reef Tract, Elkhorn Reef (258 21.7669 N,
+808 09.9619 W, depth of A. palmata population 5 1–3 m) and Ball Buoy Reef
+(258 18.5249 N, 808 11.9969 W, 2–5 m, Fig. 1). These reefs were damaged by two
+storms: Hurricane Andrew (24 August 1992, maximum sustained winds 5 225 kph,
+Powell and Houston, 1993; Rappaport and Sheets, 1993) and Tropical Storm Gordon
+(14–17 November 1994, maximum sustained winds 5 84 kph; NOAA, 1994; Rappaport
+and Avila, 1995; Lirman and Fong, 1997a).
+   Additional populations of A. palmata were surveyed along the Florida Reef Tract at
+Key Largo Dry Rocks (2–4 m), Little Grecian Reef (2–5 m), French Reef (2–7 m),
+Pickles Reef (2–5 m), and Dry Tortugas (2–4 m), and in the US Virgin Islands at Saba
+Island, St. Thomas (1–3 m), Hawksnest Bay, St. John (0.5–3 m), and Buck Island, St.
+Croix (2–8 m) (Fig. 1).
+44                       D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57
+
+
+
+
+Fig. 1. Map of the study sites in Florida and the US Virgin Islands. The insert shows the general location of
+the study areas in the Caribbean region.
+
+
+
+2.3. Abundance and percent cover of fragments
+
+   Coral populations are commonly described in terms of coral abundance and percent
+cover. Given the numerous reports of storm damage to A. palmata, it was hypothesized
+that populations that experienced recent storm damage may be dominated in both
+abundance and percent cover by fragments as opposed to standing colonies. The
+percentage of ramets within populations that was comprised of fragments was de-
+termined with belt transects (25 3 1 m) on ten reefs with abundant A. palmata
+                     D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57           45
+
+
+populations (seven in the Florida Keys and three in the USVI). On each reef, the
+location of A. palmata was established and a meter tape was positioned bisecting the
+population. The position of the belt transects (n 5 4 per reef), which were run
+perpendicular to the main line, was determined from a set of random numbers previously
+drawn. All colonies and fragments within these transects were counted. Standing A.
+palmata were defined as those colonies that remained upright and had a single
+attachment to the bottom through the characteristic stalk. Fragments were defined as
+broken branches of A. palmata covered by live tissue lying on the substratum and
+lacking an obvious stalk.
+   Also, to determine the percent cover of colonies and fragments after storms, three
+100-m long line-intercept transects (LITs, Loya, 1972, 1978) were surveyed on two
+reefs of the northern Florida Reef Tract. The LITs, placed parallel to each other on an
+E–W direction (the general direction of the storm paths), were separated by a distance of
+15 m. Elkhorn Reef was surveyed in March, 1993, 7 months after Hurricane Andrew,
+and Ball Buoy Reef was surveyed before (August, 1994) and after (January, 1995)
+Tropical Storm Gordon (November, 1994). The cover of fragments and standing
+colonies was estimated at 1-m intervals by calculating the fraction of the length of the
+line these intercepted.
+
+
+2.4. Survivorship of fragments and colonies
+
+   In a previous study, the survivorship of A. palmata fragments was monitored starting
+7 months after Hurricane Andrew (Lirman and Fong, 1997b). Because these fragments
+were not marked until 7 months after fragmentation, no information was obtained on
+early survivorship (0–6 months). In the present study, the hypothesis that early
+survivorship will be affected by the size of fragments and type of substratum was
+evaluated using a transplant experiment.
+   Fifty fragments of A. palmata created by a ship grounding on Elkhorn Reef were
+collected within 24 h of fragmentation and assigned haphazardly to one of the following
+four types of substratum (n 5 12–13 fragments per group): (1) hard-bottom (consoli-
+dated carbonate framework), (2) rubble (loose, dead pieces of A. palmata and A.
+cervicornis), (3) sand, and (4) live coral. All transplant sites were located in the
+back-reef area of Elkhorn Reef at a depth of 2 m. Maximum distance between transplant
+sites was 50 m. Each fragment was labeled with a metal tag, photographed with a
+fixed-distance framer and transported to the transplant sites where they were placed
+individually on the bottom separated from each other by at least 50 cm. Fragments
+transplanted onto live coral were placed on top of A. palmata colonies. Photographs of
+each fragment were taken at monthly intervals starting in June, 1994; size was
+determined by digitizing the developed prints using NIH Image Analysis Software.
+   Mean percent tissue mortality for fragments was estimated as:
+
+
+      OS]]]     D
+       n
+        IA 2 FA
+     i51   IA
+     ]]]]]*100
+         n
+46                   D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57
+
+
+where IA5initial live tissue area (cm 2 ), FA5final live tissue area (cm 2 ), n5number of
+fragments.
+   To test the hypothesis that fragmentation will affect the survivorship of fragmented
+colonies, fragmented and unfragmented colonies were surveyed on Elkhorn and Ball
+Buoy Reefs between 1993 and 1997 (n525 fragmented and 25 unfragmented colonies
+per reef). Fragmented colonies had one to three branches recently removed as evidenced
+by the presence of skeletal lesions (Fong and Lirman, 1995).
+
+2.5. Growth of fragments and colonies
+
+   Starting on May 1993, many of the fragments of A. palmata generated by Hurricane
+Andrew on Elkhorn Reef began developing new vertical growth features (‘proto-
+branches’) on their upper surfaces. A previous study documented a direct relationship
+between the size of fragments (mean size54752 cm 2 ) and the number of proto-branches
+formed, but no significant relationship between size and mean height of proto-branches
+after 5 months (Fong and Lirman, 1995).
+   Here, the size-range of fragments surveyed was expanded to include smaller units
+(mean size5651 cm 2 , n530 fragments), to re-test the hypothesis that size will
+determine the number of proto-branches growing on a fragment as well as their
+growth-rates. Also, the growth of proto-branches was followed over a longer period of 4
+years (1993–1997) to document the development of the branching patterns leading to
+the tree-like morphology seen on adult colonies. All of the fragments studied were
+originated during Hurricane Andrew in August, 1992 and found in the back-reef area of
+Elkhorn Reef. Over 100 of these fragments were labelled with numbered metal tags after
+the hurricane and a subset of 30 was chosen at random for this study by their tag
+number. The growth of proto-branches was averaged within fragments.
+   The linear extension of branches on 30 colonies of A. palmata was measured over a
+6-month period between May–November, 1996 at Elkhorn Reef. Three branches were
+marked per colony and an average extension-rate was obtained for each colony.
+Growth-rates of proto-branches were compared to the growth-rates of standing colonies.
+
+2.6. Fragmentation and sexual reproduction
+
+   The reproductive state of colonies and fragments was determined 1 week prior to the
+predicted spawning dates in 1995–1997 to test the hypothesis that fragmentation will
+have negative effects on sexual reproduction as resources are directed away from this
+process and into repair and re-growth. Tissue samples were collected from: (1) small
+fragments (longest dimension520–50 cm), (2) medium fragments (51–80 cm), (3)
+large fragments (81–145 cm), (4) colonies damaged by storms (three or more branches
+missing), and (5) undamaged colonies (no signs of fragmentation). All of the samples
+were collected from units that had been identified after Hurricane Andrew on Elkhorn
+Reef and after Tropical Storm Gordon on Ball Buoy Reef, establishing their disturbance
+history. Tissue samples (10–15 cm 2 ) were fixed with Zenker’s solution within 30 min of
+collection, decalcified in 10% HCl within 24 h (Szmant, 1991), and inspected under a
+dissecting microscope for the presence or absence of gametes.
+                          D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57                          47
+
+
+3. Results
+
+3.1. Abundance and cover of fragments
+
+   Both the abundance and percent cover of fragments within A. palmata populations
+can be high, especially in reefs that experienced recent storms such as Elkhorn and Ball
+Buoy Reefs, where fragments comprised 40% of the total number of ramets (Fig. 2).
+Fragments occupied 14.8% (S.E.52.1, n53 transects) of the bottom on Elkhorn Reef
+after Hurricane Andrew, while standing colonies occupied 12.1% (62.4). On Ball Buoy
+Reef, the cover of fragments increased from 2.3 (60.8) to 10.0% (62.6) after Tropical
+Storm Gordon.
+   Nevertheless, surveys at other reefs showed that fragmentation may be prevalent even
+in the absence of hurricane damage as evidenced by the large proportion of fragments
+within A. palmata populations on Little Grecian Reef (35%) and the Dry Tortugas
+(43%), two areas with no significant storm activity reported in the recent past.
+
+3.2. Survivorship of fragments
+
+   No significant relationships were found between size and the survivorship of
+fragments (regression, P50.52). However, there was a significant difference between
+
+
+
+
+Fig. 2. Mean relative abundance (6S.E.) of colonies and fragments of Acropora palmata on different reefs
+expressed as the percentage of total ramets (isolated units) in a population. A third category, crusts, is not
+represented here. Florida reefs: ER5Elkhorn Reef (sampling date57 / 95), BBR5Ball Buoy Reef (6 / 95),
+FR5French Reef (8 / 96), PR5Pickles Reef (8 / 96), LG5Little Grecian Reef (7 / 97), DR5Key Largo Dry
+Rocks (7 / 97,), DT5Dry Tortugas (3 / 96). US Virgin Islands: SJ5St. John (7 / 95), SC5St.Croix (7 / 95),
+ST5St. Thomas (7 / 95). n5four transects (2531 m) per site.
+48                        D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57
+
+
+the size of those fragments that remained within transplant sites and those that were
+carried away; fragments removed from the reef by waves and currents were significantly
+smaller (mean size577.6 (613.4) cm 2 , n510) than those fragments that remained
+(289.3 (616.1) cm 2 , n540, Mann–Whitney U-test, P,0.05). Non-parametric tests
+were used to compare size of fragments in this case because even though variances were
+homogeneous (Bartlett’s test, P.0.1), the size-distribution of those fragments that were
+removed from the reef was not normal (Shapiro–Wilk test, P,0.05) and no data
+transformations were successful in achieving normality (Sokal and Rohlf, 1981).
+   Partial mortality on fragments was high initially as 35.5% (66.5) of live tissue was
+lost within the first month. Although mortality continued, subsequent losses were not as
+high as those recorded during the first month (38.4 (66.4), 45.7 (66.9), and 47.1%
+(63.4) after 2, 3, and 4 months, respectively). Fragments placed on sand were covered
+by sediments and showed signs of bleaching within a week. Fragments placed on live A.
+palmata colonies fused to the underlying tissue without any apparent tissue rejection
+within 3 weeks.
+   Survivorship of transplanted fragments was significantly affected by type of sub-
+stratum (Fig. 3). Fragments transplanted to rubble (n512), hard (n513), or sandy
+bottoms (n512) experienced high mortality during the first month. In contrast,
+fragments placed on live adult A. palmata colonies (n513) did not experience any
+tissue losses. Mortality during the first month was significantly greater in the sandy
+bottom than on rubble or hard-bottom areas (ANOVA, P,0.05, Tukey’s a posteriori
+comparisons).
+
+
+
+
+Fig. 3. Mean tissue mortality (6S.E.) of A. palmata fragments transplanted to different types of substratum on
+the back reef of Elkhorn Reef, Florida. n512 fragments for transplants onto rubble and sand, n513 for
+transplants onto live and hard substrata.
+                          D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57                         49
+
+Table 1
+Height of proto-branches (PB) on fragments of Acropora palmata generated by Hurricane Andrew (24 August
+1992) at Elkhorn Reef (n5267 PB on 35 fragments; a mean PB height was obtained for each fragment)
+                                           7 / 93       6 / 94       5 / 95         9 / 96       4 / 97
+Mean PB height (61 S.E.) (cm)               2.6 (0.1)    4.5 (0.2)    7.64 (0.3)    14.1 (0.5)   16.9 (0.6)
+Maximum PB height (cm)                      9           13           18             30           38
+Mean [ PB / m 2 of live tissue (61 S.E.)   11.1 (1.9)   11.8 (2.1)   10.2 (2.4)      9.1 (1.1)    6.4 (0.8)
+
+
+
+
+3.3. Growth of fragments
+
+    Most proto-branches were formed on the upper surfaces of fragments within the first
+year after fragmentation, with only a few additional proto-branches formed subsequent-
+ly. The number of proto-branches was directly related to the surface area of fragments
+(r 2 50.64, P,0.05). Mean density of proto-branches on fragments decreased with time
+as some partial mortality occurred and some proto-branches fused to each other (Table
+1).
+    Proto-branches reached a mean height of 2.6 (60.1) cm within 1 year. After this
+initial growth, growth-rate of proto-branches increased exponentially with time (Fig. 4).
+Growth-rates calculated from regression were 1.7 cm year 21 for 1993–1994, 2.7 cm
+year 21 for 1994–1995, 4.2 cm year 21 for 1995–1996, and 6.5 cm year 21 for 1996–
+
+
+
+
+Fig. 4. Relationship between mean proto-branch height and time from fragment formation (24 August 1992).
+n5267 proto-branches in 35 fragments.
+                                                                                                                                                                  50
+
+
+
+
+                                                                                                                                                                  D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57
+
+
+
+
+Fig. 5. Photographs of A. palmata proto-branches at different times of development on fragments created by Hurricane Andrew on Elkhorn Reef on August 1992. (a)
+December 1993, (b) July 1994, (c) July 1995, (d) August 1996. Depth51.5–2.0 m.
+                         D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57                       51
+
+
+1997. A regression of size and mean proto-branch height showed no significant
+relationships in 1995, 1996, and 1997 (r 2 50.07–0.48, P50.10–0.33).
+   After formation, proto-branches grew upwards with a cylindrical shape until they
+reached a height of 4–5 cm (Fig. 5a), when a mushroom-type cap developed (Fig. 5b).
+The first branching pattern was observed as proto-branches reached 6–10 cm and began
+developing the typical tree-like morphology seen in adult colonies (Fig. 5c). Secondary
+branching patterns were observed in 1996 on the tallest proto-branches (Fig. 5d).
+
+3.4. Survivorship and growth of colonies
+
+  Survivorship of adult colonies was high on both Elkhorn and Ball Buoy Reefs. Partial
+mortality attributed to competition with algae or feeding activities of corallivores was
+observed, but none of the adult colonies surveyed, fragmented or unfragmented,
+exhibited complete tissue mortality between 1992 and 1996 (n5100). The linear
+growth-rate of A. palmata colonies was 6.9 (60.3) cm year 21 (n530).
+
+3.5. Fragmentation and sexual reproduction
+
+   Production of gametes in A. palmata was affected by size and previous disturbance
+history (Table 2). In August, 1995, 3 years after Hurricane Andrew, none of the A.
+
+Table 2
+Reproductive state of Acropora palmata colonies and fragments a
+Date       Type                      Reef        Mean size (cm)           n          % With gametes
+8 / 95     Fragment / small          ER           28.8 (4.8)               5          0
+8 / 95     Fragment / medium         ER           63.4 (2.5)               5          0
+8 / 95     Fragment / large          ER          131.0 (12.1)              5          0
+8 / 95     Colony / damaged          ER          193.0 (27.4)              5          0
+8 / 95     Colony / undamaged        ER          161.0 (49.0)              5         80
+8 / 95     Fragment                  BBR          48.6 (9.9)               6          0
+8 / 95     Colony / damaged          BBR          91.0 (23.8)             11         18
+8 / 96     Fragment / small          ER           35.8 (7.2)               6          0
+8 / 96     Fragment / medium         ER           62.4 (5.6)               6          0
+8 / 96     Fragment / large          ER          140.7 (11.1)              6         33
+8 / 96     Colony / damaged          ER          167.0 (18.9)              6         50
+8 / 96     Colony / undamaged        ER          185.0 (33.3)              6         67
+8 / 96     Fragment                  BBR          52.3 (12.6)              6         67
+8 / 96     Colony / damaged          BBR         120.0 (13.5)              9         67
+7 / 97     Fragment / small          ER           27.3 (3.8)               7          0
+7 / 97     Fragment / medium         ER           55.8 (3.6)               7         43
+7 / 97     Fragment / large          ER          127.2 (10.2)              7         72
+7 / 97     Colony / damaged          ER          170.5 (16.5)              9         78
+7 / 97     Colony / undamaged        ER          179.3 (22.5)              9         78
+7 / 97     Fragment                  BBR          44.7 (6.9)               6         67
+7 / 97     Colony / damaged          BBR         156.3 (32.1)              8         62
+  a
+    Colonies on Elkhorn Reef (ER) were fragmented during Hurricane Andrew (August 1992). Colonies on
+Ball Buoy Reef (BBR) were fragmented during Tropical Storm Gordon (November 1994). Mean size (61
+S.E.) was estimated as longest length of live tissue on fragments and maximum canopy diameter on colonies.
+52                   D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57
+
+
+palmata fragments sampled at Elkhorn Reef had gametes, irrespective of size. A lack of
+gametes also occurred in adult colonies that had been damaged by the hurricane. The
+only samples that contained gametes in 1995 were taken from undamaged colonies. In
+August, 1996, neither small nor medium fragments had any gametes, but two of six large
+fragments sampled were reproductive. Colonies, both damaged and undamaged, had
+gametes at this time. In July, 1997, a high proportion of both damaged and undamaged
+colonies had gametes (seven of nine colonies sampled from each group). Also, three of
+seven medium fragments and five of seven large fragments had gametes. In contrast,
+none of the small fragments surveyed had gametes in 1997.
+   At Ball Buoy Reef, fragments did not have any gametes in August, 1995, 8 months
+after Tropical Storm Gordon. However, two of eleven damaged colonies had gametes at
+this time. In August, 1996, four of six fragments and six of nine damaged colonies had
+gametes. Finally, four of six fragments and five of eight damaged colonies had gametes
+in July, 1997.
+
+
+4. Discussion
+
+   Fragmentation is prevalent within populations of Acropora palmata. Surveys con-
+ducted at different locations revealed that, especially within populations that experienced
+recent storms, fragments can comprise a large percentage of ramets as well as cover a
+large percentage of the bottom (Lirman and Fong, 1997a). This is consistent with a
+previous study by Highsmith (1982) where an average of 69% of all A. palmata colonies
+were derived from fragments on several reefs in Panama.
+   The effects of storms on coral populations can extend beyond the direct physical
+disturbance that causes significant tissue mortality (reviewed by Harmelin-Vivien, 1994
+and Connell, 1997). A secondary effect documented for A. palmata is the shift in
+biomass from ramets with low mortality probabilities (i.e. colonies) to units with higher
+mortality probabilities (i.e. fragments). This secondary effect highlights the importance
+of fragment survivorship and regrowth in the recovery and persistence of damaged A.
+palmata populations.
+   Survivorship of fragments of A. palmata can be influenced by the type of substratum
+where fragments land. Highest survivorship was observed for those fragments placed on
+top of live A. palmata colonies. These fragments fused to the underlying tissue and
+showed no signs of mortality. In contrast, fragments placed on sand lost 58% of their
+tissue within the first month and 71% after 4 months. Similar effects of substratum or
+location within reefs on fragment survivorship were documented for other coral species
+(e.g. Yap and Gomez, 1984, 1985; Heyward and Collins, 1985; Wallace, 1985; Bruno,
+1998)
+   The relationship between the size of fragments and survivorship is not consistent.
+Although there is a general indication that survivorship increases with size (Loya, 1976;
+Highsmith et al., 1980; Heyward and Collins, 1985; Liddle and Kay, 1987; Lasker,
+1990), several exceptions have been reported. Results from the transplant experiment
+support findings from previous studies where no relationship between the size of
+fragments and survivorship was found (Kobayashi, 1984; Lewis, 1991; Lirman and
+                     D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57            53
+
+
+Fong, 1997b; Bruno, 1998). However, even if survivorship was not directly related to
+size, size may still affect the long-term survivorship of fragments indirectly through its
+effect on rates of removal. Here, fragments that remained within transplant sites were
+larger than those removed by waves or currents. Thus, if smaller fragments are removed
+more easily from reefs, size may still influence their long-term survivorship.
+   The transport of fragments away from reefs can provide a mechanism for the creation
+of additional primary space and reef expansion as suggested by Highsmith (1982). Patch
+reefs on the Florida Reef Tract are commonly surrounded by sand and seagrass beds that
+are not optimal habitats for coral recruitment and survivorship (Jaap, 1984). Although
+mortality of transplanted fragments was high on sand, those fragments placed on rubble
+substrate showed high survivorship. Thus, even if fragments experience high mortality
+on sand, the rubble produced by these fragments can increase the survivorship of
+fragments created by subsequent storms, expanding the potential settlement area around
+a reef, and resulting ultimately in reef expansion.
+   Fragments of A. palmata showed rapid regrowth through the formation of proto-
+branches less than a year after fragmentation. The number of proto-branches was directly
+related to the size of fragments, as can be predicted based on limited resource
+availability (Fong and Lirman, 1995). The growth of proto-branches was slow initially,
+but increased with time, showing an exponential behavior. As proto-branches first
+develop, growth would be supported by the tissue on the upper surface of the fragments
+as the translocation of resources from the central portions of colonies often support the
+growth of the distal portions of branches (Pearse and Muscatine, 1971; Taylor, 1977;
+Gladfelter et al., 1989). This may limit initial growth-rates as several proto-branches can
+be found even in small fragments. As proto-branches grow in size and complexity, they
+would no longer rely on resources produced by the fragment, and their growth-rates
+would be expected to increase as a function of their own surface area. On average, it
+took more than 4 years for proto-branches to achieve linear growth-rates comparable to
+those measured for A. palmata colonies on the same reef. Slower growth-rates of
+fragments and coral transplants compared to undamaged colonies were also observed by
+Kobayashi (1984) and Cox (1992).
+   The success of asexual propagation in A. palmata contrasts with the limited sexual
+recruitment reported for this species (Dustan, 1977; Bak and Engel, 1979; Rylaarsdam,
+1983; Rosesmyth, 1984). In this study, it was shown that fragmentation can have
+long-term effects on gamete production in A. palmata. Three years after Hurricane
+Andrew, gametes were present only in large A. palmata colonies that had not
+experienced direct fragmentation during the storm. Neither those colonies that were
+damaged by the hurricane nor any of the hurricane-generated fragments had produced
+gametes at this time. These results are in contrast to those reported by Ward (1995) who
+found that fragmented colonies of Pocillopora damicornis had a higher reproductive
+output than non-damaged colonies.
+   The cessation in gamete production in fragments and recently fragmented colonies
+suggests a differential allocation of energy towards stabilization, lesion repair, and
+growth. Reproduction may only resume after a certain size and / or level of repair or
+growth has been achieved. A similar trade-off between reproduction and regeneration
+was observed for the coral Montastraea annularis (Van Veghel and Bak, 1994), and
+54                        D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57
+
+
+differential allocation of resources to repair and growth at small colony sizes has been
+noted for other hard corals (Kojis and Quinn, 1985; Szmant, 1986; Hughes et al., 1992)
+and zoanthids (Karlson, 1988).
+   The combination of high frequency of fragmentation and the apparent lack of sexual
+reproductive success has been considered as evidence of the adaptive value of
+fragmentation for several coral species (Bak and Engel, 1979; Highsmith et al., 1980;
+Tunnicliffe, 1980, 1981; Bothwell, 1981; Highsmith, 1982). The emerging picture of
+fragmentation in Acropora palmata seems to fit well within the conceptual framework
+proposed in previous studies. A. palmata fragments often and, except in cases of
+widespread mortality (e.g. Woodley et al., 1981), populations can recover and propagate
+as fragments and damaged colonies regrow (Fong and Lirman, 1995). However, as
+remarked by Hughes et al. (1992), claims on the adaptive value of fragmentation should
+made with caution since the potential costs of this process may be significant and have
+not been well-documented. Such indirect costs of fragmentation were observed in the
+present study, as both reduced growth and loss of reproductive potential were
+documented. This evidence suggests that the ultimate fate of coral populations damaged
+by storms can only be predicted after the potential indirect costs of fragmentation have
+been carefully considered.
+
+
+Acknowledgements
+
+  This research was funded by NOAA Coastal Ocean Program Awards [NA37RJ0200
+and [NA37RJ0149 to the University of Miami, the E.O. Dunn Foundation, Key
+Biscayne Rotary Club, Sanibel Captiva Shell Club, Bader Fund, and Reitmeister
+Fellowship. Biscayne National Park provided field support. R. Curry, C. Rivero, and J.
+Paddon are thanked for their help in the field. This manuscript benefited from comments
+by M. Harwell, P. Fong, N. Ehrhardt, P.W. Glynn, R. Curry, J. Bohnsack, A.J.
+Underwood, and anonymous reviewers. Assistance in the US Virgin Islands was
+provided by C. Rogers and Z. Hillis. Research in the Florida Keys National Marine
+Sanctuary was conducted under permit [ FKNMS(UR)-39-96. [Au]
+
+
+References
+
+Babcock, R.C., 1991. Comparative demography of three species of Scleractinian corals using age- and
+  size-dependent classifications. Ecol. Monogr. 61, 225–244.
+Bak, R.P.M., Engel, M.S., 1979. Distribution, abundance and survival of juvenile hermatypic corals
+  (Scleractinia) and the importance of life history strategies in the parent coral community. Mar. Biol. 54,
+  341–352.
+Bak, R.P.M., Criens, S.R., Marsh, Jr. J.A., 1981. Survival after fragmentation of colonies of Madracis
+  mirabilis, Acropora palmata, and A. cervicornis (Scleractinia) and the subsequent impact of a coral disease.
+  Proc. 4th Int. Coral Reef Symp. (Manila) 2, 221–228.
+Bothwell, A.M., 1981. Fragmentation, a means of asexual reproduction and dispersal in the coral genus
+  Acropora (Scleractinia: Astrocoeniida: Acroporidae) — a preliminary report. Proc. 4th Int. Coral Reef
+  Symp. (Manila) 2, 138–144.
+                           D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57                             55
+
+Bruno, J.F., 1998. Fragmentation in Madracis mirabilis (Duchassaing and Michelotti): how common is
+   size-specific fragment survivorship in corals? J. Exp. Mar. Biol. Ecol. 230, 169–181.
+Bythell, J.C., 1988. A total nitrogen and carbon budget for the elkhorn coral Acroporapalmata (Lamarck).
+   Proc. 6th Int. Coral Reef Symp. (Australia) 2, 535–540.
+Bythell, J., Sheppard, C., 1993. Mass mortality of Caribbean shallow corals. Mar. Pollut. Bull. 26, 296–297.
+Bythell, M., Bythell, J.C., 1991. A record of coral bleaching at Buck Island Reef National Monument between
+   1989 and 1991: post-hurricane and seasonal correlates. In: Special report: ecological studies of Buck Island
+   Reef National Monument, St. Croix, US Virgin Islands. A quantitative assessment of selected components
+   of the coral reef ecosystems and establishment of long-term monitoring sites. US National Park Service, pp.
+   62–72, Part II.
+Clark, S., Edwards, A.J., 1995. Coral transplantation as an aid to reef rehabilitation: evaluation of a case study
+   in the Maldive Islands. Coral Reefs 14, 201–213.
+Coates, A.G., Jackson, J.B.C., 1985. Morphological themes in the evolution of clonal and aclonal marine
+   invertebrates. In: Jackson, J.B.C., Buss, L.W., Cook, R.E. (Eds.), Population Biology and Evolution of
+   Clonal Organisms. Yale University Press, New Haven, CT, pp. 67–106.
+Connell, J.H., 1973. Population ecology of reef-building corals. In: Jones, O.A., Endean, R. (Eds.). Biology
+   and Geology of Coral Reefs, Vol. 2, pp. 205–245.
+Connell, J.H., 1997. Disturbance and recovery of coral assemblages. Coral Reefs 16, S101–S113.
+Connell, J.H., Keough, M.J., 1985. Disturbance and patch dynamics of subtidal marine animals on hard
+   substrata. In: Pickett, S.T.A., White, P.S. (Eds.), The Ecology of Natural Disturbances and Patch Dynamics.
+   Academic Press, New York, pp. 125–151.
+Cox, E.F., 1992. Fragmentation in the Hawaiian coral Montipora verrucosa. Proc. 7th Int. Coral Reef Symp.
+   (Guam) 1, 513–516.
+Davis, G.E., 1982. A century of natural change in coral distribution at the Dry Tortugas: a comparison of reef
+   maps from 1881 to 1976. Bull. Mar. Sci. 32, 608–623.
+Dustan, P., 1977. Vitality of reef coral populations off Key Largo, Florida: Recruitment and mortality. Environ.
+   Geol. 2, 51–58.
+Fong, P., Lirman, D., 1995. Hurricanes cause population expansion of the branching coral Acropora palmata
+   (Scleractinia): wound healing and growth patterns of asexual recruits. Mar. Ecol. 16, 317–335.
+Geister, J., 1977. The influence of wave exposure on the ecological zonation of Caribbean coral reefs. Proc.
+   3rd Int. Coral Reef Symp. (Miami) 1, 23–30.
+Gladfelter, E.H., Michel, G., Sanfelici, A., 1989. Metabolic gradients along a branch of the reef coral Acropora
+   palmata. Bull. Mar. Sci. 44, 1166–1173.
+Gladfelter, E.H., Monahan, R.K., Gladfelter, W.B., 1978. Growth rates of five reef-building corals in the
+   northeastern Caribbean. Bull. Mar. Sci. 28, 728–734.
+Gladfelter, W.B., 1982. White-band disease in Acropora palmata: implications for the structure and growth of
+   shallow water reefs. Bull. Mar. Sci. 32, 639–643.
+Gladfelter, W.B., 1991. Population structure of Acropora palmata on the windward forereef, Buck Island
+   National Monument: seasonal and catastrophic changes 1988–1989. In: Ecological Studies of Buck Island
+   Reef National Monument, St. Croix, US Virgin Islands. US Department of the Interior, National Park
+   Service, US Virgin Islands, Chapter 5.
+Gladfelter, W.B., Gladfelter, E.H., 1979. Growth and total carbonate production by Acropora palmata on
+   windward forereef. In: Environmental Studies of Buck Island Reef National Monument, St. Croix, US
+   Virgin Islands, Vol. II. US Department of the Interior, National Park Service, US Virgin Islands, Chapter 3.
+Glynn, P.W., Almodovar, L.R., Gonzalez, J.G., 1964. Effects of Hurricane Edith on marine life in La Parguera,
+   Puerto Rico. Carib. J. Sci. 4, 335–345.
+Goreau, T.F., 1959. The ecology of Jamaican coral reefs. 1. Species composition and zonation. Ecology 40,
+   67–90.
+Hall, V.R., Hughes, T.P., 1996. Reproductive strategies of modular organisms: comparative studies of
+   reef-building corals. Ecology 77, 950–963.
+Harmelin-Vivien, M.L., 1994. The effects of storms and cyclones on coral reefs: a review. J. Coast. Res. Spec.
+   Issue 12, 211–231.
+Harper, J.L., 1985. Modules, branches, and the capture of resources. In: Jackson, J.B.C., Buss, L.W., Cook,
+   R.E. (Eds.), Population Biology and Evolution of Clonal Organisms. Yale University Press, New Haven,
+   CT, pp. 1–34.
+56                         D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57
+
+Heyward, A.J., Collins, J.D., 1985. Fragmentation in Montipora ramosa: the genet and the ramet concept
+   applied to a coral reef. Coral Reefs 4, 35–40.
+Highsmith, R.C., 1982. Reproduction by fragmentation in corals. Mar. Ecol. Prog. Ser. 7, 207–226.
+Highsmith, R.C., Riggs, A.C., D’Antonio, C.M., 1980. Survival of hurricane-generated coral fragments and a
+   disturbance model of reef calcification / growth rates. Oecologia 46, 322–329.
+Hughes, T.P., Jackson, J.B.C., 1980. Do corals lie about their age? Some demographic consequences of partial
+   mortality, fission and fusion. Science 209, 713–715.
+Hughes, T.P., Jackson, J.B.C., 1985. Population dynamics and life histories of foliaceous corals. Ecol. Monogr.
+   55, 141–166.
+Hughes, T.P., Connell, J.H., 1987. Population dynamics based on size or age: a coral reef analysis. Am. Nat.
+   129, 818–829.
+Hughes, T.P., Ayre, D., Connell, J.H., 1992. The evolutionary ecology of corals. J. Ecol. Evol. 7, 292–295.
+Jaap, W.C. (Ed.), 1984. The ecology of the south Florida coral reefs: a community profile. US Fish. Wildl.
+   Serv, p. 138, FWS / OBS-82 / 08.
+Jaap, W.C., Sargent, F.J., 1993. The status of the remnant populations of Acropora palmata (Lamarck, 1816) at
+   Dry Tortugas National Park, Florida, with a discussion of possible causes of changes since 1881. In:
+   Ginsburg, R.N. (Ed.), Global Aspects of Coral Reefs. University of Miami, Miami, pp. 101–104.
+Jackson, J.B.C., 1977. Competition on marine hard substrata: the adaptive significance of solitary and colonial
+   strategies. Am. Nat. 111, 743–767.
+Jackson, J.B.C., 1985. Distribution and ecology of clonal and aclonal benthic invertebrates. In: Jackson, J.B.C.,
+   Buss, L.W., Cook, R.E. (Eds.), Population Biology and Evolution of Clonal Organisms. Yale University
+   Press, New Haven, CT, pp. 297–356.
+Jackson, J.B.C., 1986. Dispersal and distribution of clonal and aclonal benthic invertebrates. Bull. Mar. Sci. 39,
+   928–935.
+Jordan-Dahlgren, E., Rodriguez-Martinez, R.E., 1998. Post-hurricane initial recovery of Acropora palmata in
+   two reefs of the Yucatan Peninsula, Mexico. Bull. Mar. Sci. 63, 213–228.
+Karlson, R.H., 1986. Disturbance, colonial fragmentation, and size-dependent life history variation in two coral
+   reef cnidarians. Mar. Ecol. Prog. Ser. 28, 245–249.
+Karlson, R.H., 1988. Size-dependent growth in two zoanthid species: a contrast in clonal strategies. Ecology
+   69, 1219–1232.
+Kobayashi, A., 1984. Regeneration and regrowth of fragmented colonies of the hermatypic corals Acropora
+   formosa and Acropora nasuta. Galaxea 3, 13–23.
+Kobluk, D.R., Lysenko, M.A., 1992. Storm features on a southern Caribbean fringing coral reef. Palaios 7,
+   213–221.
+Kojis, B.L., Quinn, N.J., 1985. Puberty in Goniastrea favulus age or size limited? Proc. 5th Int. Coral Reef
+   Symp. (Tahiti) 4, 289–293.
+Lasker, H.R., 1990. Clonal propagation and population dynamics of a gorgonian coral. Ecology 7, 1578–1589.
+Lewis, J.B., 1991. Testing the coral fragment size-dependent survivorship hypothesis for the calcareous
+   hydrozoan Millepora complanata. Mar. Ecol. Prog. Ser. 70, 101–104.
+Liddle, M.J., Kay, A.M., 1987. Resistance, survival and recovery of trampled corals on the Great Barrier Reef.
+   Biol. Conserv. 42, 1–18.
+Lirman, D., Fong, P., 1995. The effects of Hurricane Andrew and Tropical Storm Gordon on Florida reefs.
+   Coral Reefs 14, 172.
+Lirman, D., Fong, P., 1996. Sequential storms cause zone-specific damage on a reef in the northern Florida
+   Reef Tract: evidence from Hurricane Andrew and the 1993 Storm of the Century. Florida Sci. 59, 50–64.
+Lirman, D., Fong, P., 1997a. Susceptibility of coral communities to storm intensity, duration, and frequency.
+   Proc. 8th Int. Coral Reef Symp. (Panama) 1, 561–566.
+Lirman, D., Fong, P., 1997b. Patterns of damage to the branching coral Acropora palmata following Hurricane
+   Andrew: damage and survivorship of hurricane-generated recruits. J. Coast. Res. 13, 67–72.
+Loya, Y., 1972. Community structure and species diversity of hermatypic corals at Eilat. Red Sea. Mar. Biol.
+   13, 100–123.
+Loya, Y., 1976. Skeletal regeneration in a Red Sea scleractinian coral population. Nature 261, 490–491.
+Loya, Y., 1978. Plotless and transect methods. In: Stoddart, D.R., Johannes, R.F. (Eds.), Coral Reefs: Research
+   Methods. UNESCO, Paris, pp. 197–217.
+Maragos, J.E., 1974. Coral transplantation: a method to create, reserve and manage coral reefs. University of
+   Hawaii Sea Grant Program, AR-74-03.
+                          D. Lirman / J. Exp. Mar. Biol. Ecol. 251 (2000) 41 – 57                           57
+
+Pearse, V.B., Muscatine, L., 1971. Role of symbiotic algae (zooxanthellae) in coral calcification. Biol. Bull.
+   141, 350–363.
+Powell, M.D., Houston, S.H., 1993. Surface wind field analyses in Hurricane Andrew. In: 7th US Conference
+   on Wind Engineering, pp. 523–532.
+Rappaport, E.D., Sheets, R.C., 1993. A meteorological analysis of Hurricane Andrew. In: 15th Annual
+   National Hurricane Conference, pp. 1–18.
+Rappaport, E.N., Avila, L.A., 1995. 1994 Atlantic hurricane season summary. In: Proc. 17th Annual National
+   Hurricane Conference, Atlantic City, Hurricanes: Different Faces in Different Places, pp. 1–8.
+Rogers, C.S., Suchanek, T.H., Pecora, F.A., 1982. Effects of Hurricanes David and Frederic (1979) on shallow
+   Acropora palmata reef communities: St. Croix, US Virgin Islands. Bull. Mar. Sci. 32, 532–548.
+Rosesmyth, M.C., 1984. Growth and survival of sexually produced Acropora recruits: a post-hurricane study
+   at Discovery Bay, Jamaica. In: Advances in Reef Science. University of Miami, Florida, pp. 105–106.
+Rylaarsdam, K.M., 1983. Life histories and abundance patterns of colonial corals on Jamaican reefs. Mar.
+   Ecol. Prog. Ser. 13, 249–260.
+Sokal, R.R., Rohlf, F.J. (Eds.), 1981. Biometry, 2nd Edition. W.H. Freeman, New York, p. 859.
+Stoddart, D.R., 1963. Effects of Hurricane Hattie on the British Honduras reefs and cays, Oct. 30–31, 1961.
+   Atoll Res. Bull. 95, 1–142.
+Stoddart, D.R., 1965. Re-survey of hurricane effects on the British Honduras reefs and cays. Nature 207,
+   589–592.
+NOAA, 1994. Storm Data. National Climatic Data Center, NOAA, Ashville, NC.
+Szmant, A.M., 1986. Reproductive ecology of Caribbean reef corals. Coral Reefs 5, 43–53.
+Szmant, A.M., 1991. Sexual reproduction by the Caribbean reef corals Montastrea annularis and M.
+   cavernosa. Mar. Ecol. Prog. Ser. 74, 13–25.
+Taylor, D.L., 1977. Intra-colonial transport of organic compounds and calcium in some Atlantic reef corals.
+   Proc. 3rd Int. Coral Reef Symp. (Miami) 1, 431–436.
+Tunnicliffe, V., 1980. Biological and physical processes affecting the survival of a stony coral Acropora
+   cervicornis. PhD dissertation, Yale University, New Haven, CT, 330 pp.
+Tunnicliffe, V., 1981. Breakage and propagation of the stony coral Acropora cervicornis. Proc. Natl. Acad. Sci.
+   USA 78, 2427–2431.
+Tunnell, Jr. J.W., 1992. Natural versus human impacts to Southern Gulf of Mexico coral reef resources. Proc.
+   7th Int. Coral Reef Symp. (Guam) 1, 300–306.
+Van Veghel, M.L.J., Bak, R.P.M., 1994. Reproductive characteristics of the polymorphic Caribbean reef
+   building coral Montastrea annularis. III. Reproduction in damaged and regenerating colonies. Mar. Ecol.
+   Prog. Ser. 109, 229–233.
+Van Veghel, M.L.J., Hoetjes, P.C., 1995. Effects of Tropical Storm Bret on Curaçao reefs. Bull. Mar. Sci. 56,
+   692–694.
+Wallace, C.C., 1985. Reproduction, recruitment and fragmentation in nine sympatric species of the coral genus
+   Acropora. Mar. Biol. 88, 217–233.
+Ward, S., 1995. The effect of damage on the growth, reproduction and storage of lipids in the sceractinian
+   coral Pocillopora damicornis (Linneaus). J. Exp. Mar. Biol. Ecol. 187, 193–206.
+Wells, S.M. (Ed.), 1988. Coral Reefs of the World, Vol. 1–3. UNEP/ IUCN, Columbia University Press, New
+   York.
+Williams, G.C., 1975. Sex and Exolution. Princeton University Press, Princeton.
+Woodley, J.D., Chornesky, E.A., Clifford, P.A., Jackson, J.B.C., Kaufman, L.S., Knowlton, N., Lang, J.C.,
+   Pearson, M.P., Porter, J.W., Rooney, M.C., Rylaarsdam, K.W., Tunnicliffe, V.J., Wahle, C.M., Wulff, J.L.,
+   Curtis, A.S.G., Dallmeyer, M.D., Jupp, B.D., Koehl, M.A.R., Niegel, J., Sides, E.M., 1981. Hurricane
+   Allen’s impact on Jamaican coral reefs. Science 214, 749–755.
+Wulff, J.L., 1985. Dispersal and survival of fragments of coral reef sponges. Proc. 5th Int. Coral Reef Symp.
+   (Tahiti) 5, 119–124.
+Yap, H.T., Gomez, E.D., 1984. Growth of Acropora pulchra. II. Responses of natural and transplanted
+   colonies to temperature and day length. Mar. Biol. 81, 209–215.
+Yap, H.T., Gomez, E.D., 1985. Growth of Acropora pulchra. III. Preliminary observations on the effects of
+   transplantation and sediment on the growth and survival of transplants. Mar. Biol. 87, 203–209.
+

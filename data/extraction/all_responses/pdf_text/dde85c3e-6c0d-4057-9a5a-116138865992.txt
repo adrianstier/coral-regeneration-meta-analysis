@@ -1,0 +1,404 @@
+Marine Biology77, 221-227 (1983)
+                                                                                                        Marine
+                                                                                                        ,=,==.,Biology
+                                                                                                                 9 Springer-Verlag1983
+
+
+
+
+Neoplasia, regeneration and growth in the reef-building coral A croporapalmata
+
+R.P.M.Bak
+
+Caribbean Marine Biological Institute (CARMABI); P.O. Box 2090, Piscadera baai, Curacao, Netherlands Antilles, and
+Netherlands Institute for Sea Research (NIOZ); P.O. Box 59, Texel, The Netherlands
+
+
+Abstract                                                            The importance of light (Goreau and Goreau, 1959), water
+                                                                    movement (Chamberlain and Graus, 1975), temperature
+Abnormal processes of calcification, such as regenerating           (Glynn and Stewart, 1973; Clausen and Roth 1975b;
+lesions and neoplasia, situated near the tips (< 25 cm) of          Jokiel and Coles, 1977) and sedimentation (Dodge et al.,
+colonies of Acropora palrnata (Lamarck) suppressed                   1974; Bak, 1978) have been documented. In contrast, little
+normal linear growth. Branches having neoplasia at a                is known of variations caused by internal factors. The
+larger distance from the tip do not grow significantly              existence of such regulation is demonstrated by sudden
+differently from controls. This indicates a functional              changes in growth rate and high intercolony variation
+minimal area in terms of energy supply. Neoplasia are               (Stephenson and Stephenson, 1933; Goreau, 1959;
+pure aragonite and have the same coenosteal structure as            Clausen and Roth, 1975 a; Bak, 1976), by the occurrence of
+regenerative skeletal material. Regeneration of tissue as           abnormal lumps on colony surfaces with distorted poly-
+well as tissue +skeleton lesions involves the simultaneous          pary structures (Squires 1965 a, b; Cheney, 1975) and also
+formation of tissue and regenerative skeleton, trapping             by the variation in regeneration rates of lesions (Bak et al.,
+foreign material under the regenerated surface. Recovery             1977; Bak and Stewart-van Es, 1980).
+of a damaged surface slows down with time and this may,                 There is evidence of interdependence and feedback
+in other coral species, result in permanent lesions. A. pal-
+                                                                    between the various manifestations of the calcification
+mata recovered from all lesions (n = 32) within 80 d and            system, e.g. colony size and regeneration capacity have
+appears to be a superior regenerator among Caribbean
+                                                                    been related (Loya, 1976). Such interdependencies are not
+corals. This is consistent with other life-history charac-
+                                                                    just physiologically interesting, there are clearly ecological
+teristics of this highly specialized coral species.
+                                                                    implications. Colony size, fragment size, regeneration
+                                                                    rates, and limiting factors in calcification are of crucial
+                                                                    importance in the survival of organisms such as the
+Introduction                                                        branched common Caribbean shallow water coral Acro-
+                                                                    pora palmata.
+Calcification in stony corals (Scleractinia) is a process with          During a study on regeneration rates of superficial
+extensive ramifications. Its many aspects comprise growth           lesions in scleractinian corals, a large patch of Acropora
+of colonies (either in terms of skeletal extension or as            palmata colonies with hundreds of neoplasia was dis-
+skeletal mass), variations in calcification rates and patterns      covered in the immediate vicinity of the experiments.
+over the colony surface (resulting in different growth              There are no data on regeneration of small lesions in
+forms and on a smaller scale in variation in the charac-            Acropora species and very few data on neoplasia in
+teristics of the polypary surface), local abnormalities in          Scleractinia (Lauckner, 1980). Because both phenomena
+calcification pattern (known as neoplasia or tumors), and           involve local calcification, regeneration rates and neoplasia
+regeneration.                                                       were studied in relation to another expression of coral
+     Our knowledge of some of these phenomena, e.g.                 calcification capacity, i.e. linear skeletal growth.
+skeletal extension rates, is fairly advanced (Buddemeier
+and Kinzie, 1976), even though coral calcification per se           Material and methods
+remains an elusive subject (e.g. Johnston, 1980; Gladfelter,
+1982). Processes and patterns of calcification are to a large       All experiments and observations were performed in a
+extent controlled and modified by environmental factors.            shallow reef area 700 m northwest of Piscadera Bay on the
+222                                                                       R.P.M. Bak: Neoplasia, regeneration and growth in A cropora
+
+southwest, leeward coast of Curacao (Netherlands Antil-                  To study the structure of the skeleton, petrographic
+les). An Acropora palrnata (Lamarck) community occurs                thin sections were prepared from samples of neoplasia and
+here in a belt along the coastline at a depth of 1-2 m. In           normal coral surfaces (n = 7). Similar samples (n = 8) were
+one part of this belt, a ca 40 m 2 patch of A.palmata                analysed by X-ray diffraction to obtain information on the
+colonies had a total of approximately 250 neoplasia                  mineral components of the skeletal material in the
+scattered over their branches (Fig. 1A). The neoplasia               neoplasia.
+appeared as smooth protuberances, up to 20 cm in diame-                  Plastic bands were fastened around coral branches at a
+ter, all around the branches of the coral colonies. The              distance of 10-20 cm from the tip to serve as branch
+neoplasia were generally white coloured, indicating the              marks and as points of reference for observations on
+absence or very low densities of symbiotic algae, but light          growth, neoplasia proliferation and regeneration. Eighty
+brown also occurred, especially along the periphery.                 branches were marked on normal and neoplasia colonies
+Neoplasia in the maximum size range were generally                   during January and February 1977. This was two months
+devoid of living tissue in the central part. Along the               before the first measurements were taken on neoplasia
+periphery of a neoplasm the coral tissue often appeared to           branches and seven months prior to the regeneration
+be swollen, forming small (1-3 mm) transparent bubbles               study. On April 28, 1977, I measured, on 20 branches, the
+(Fig. 1B). Most characteristic was the surface of the                distance from branch tip to band, the distance from
+neoplasia. The normally protruding corallites of A. pai-             branch tip to the nearest neoplasm - size of the nearest
+mata were practically absent and the space between                   neoplasm, and counted the number of neoplasia present
+remnants of corallites was filled with skeletal material. The        within 25 and 50 cm of the tip. In addition, the colours of
+resulting smooth surfaces displayed relatively few polyps            the tips of branches and nearest neoplasm were recorded.
+lodged in level calices (Fig. 1 B, C).                               These determinations were repeated on 31 October 1977
+
+
+
+
+Fig. 1. Acroporapalrnata. Neoplasia in corals. A: Colonies covered with white neoplasia (depth 1-2 m, southwest coast Curagao). B:
+Living neoplasm displays the scarcity of polyps at the characteristically smooth surface of the protuberance. Note swollen tissue at
+border between neoplasm and normal coral surface. Scale bar 0.4 cm. C: Skeletal surface of neoplasm (upper left) and normal branch
+(lower right). Note coenosteal structure of neoplasm. Scale bar 0.2 cm. D: Neoplasm on corallum ofAgaricia lamarcki (collected at 32 m,
+southwest coast Curacao). Note absence of normal polypary organization over the bulbous neoplasm. Scale bar l cm
+ R. P. M. Bak: Neoplasia, regeneration and growth in Aero?ora                                                                   223
+
+and 23 February 1978 on the branches (n = 18) which lived
+uninjured throughout the experimental period. Branches
+of normal colonies served as controls. These were mea-
+sured on 28 April 1977 (n=5), 9 September 1977 (n= 15),
+31 October 1977 (n = 15) and 15 March 1978 (n = 14).
+    Two additional series of marked branches were experi-
+mentally damaged. In the first series (n = 22), each branch
+received a small, 1-cm 2 circular tissue lesion on the upper
+side of the branch at a distance of 4 to 9 cm from the tip.
+Lesions were made with compressed air (method: Bak
+et al., 1977). In the second series (n = 10), I inflicted ad-
+ditional damage by scraping protruding skeletal elements,
+such as corallites, off the lesions. The resulting tissue +
+skeleton lesions were in all other aspects similar to the
+tissue lesions. The first series was made on 6 September
+ 1977. Growth measurements were taken on 9 September
+ 1977 and 4 November 1977. The second series of tissue +
+skeleton lesions was made on 15 September 1977. Growth
+measurements were taken on this date and on 4 Novem-
+ber 1977. All lesions were observed and measured at
+weekly or biweekly intervals.
+    To obtain information on the mode of regeneration,
+possible inclusion of foreign material and the structure of
+the regenerated skeleton, samples were collected of normal
+branch surfaces ( n = 11) and of both types of lesions
+(n= 10) after complete regeneration for thin sectioning
+and X-ray diffraction.
+
+
+Results
+
+  The neoplasia remain enigmatic structures. There were no
+  inclusions or any traces of a cause of abnormal calcifica-
+  tion. Neoplasm samples and control samples consisted of
+ pure aragonite without any difference in crystalline struc-
+  ture. The thin sections showed the neoplasia to be built as
+ a coenosteal framework of vesicular dissepiments (Fig. 2A),
+ similar to normal exothecal coenosteum.
+      No spectacular changes were observed in the living
+ neoplasia during the ten-month observation period. Most
+ neoplasia increased 1-2 cm in diameter although some in-
+ creased up to 8 cm. I noted the appearance and disap-
+ pearance of small neoplasia but most remained present at
+ the same location. Perhaps the most obvious change was         Fig. 2. Acropora palmata. Thin sections of skeletal structures. A:
+ in the colours of six of the tips of neoplasia branches        Coenosteal arrangement of skeletal elements in neoplasm. Scale
+ (n= 18) which changed from white to brown, suggesting          bar 0.1 cm. B: Regenerated tissue + skeleton lesion. Note layer of
+                                                                regenerative coenosteal skeleton (r, between arrows) over original
+ cessation of growth.
+                                                                surface of lesion. Scale bar 0.1 cm, C: Regenerated tissue lesion.
+     The proximity of neoplasia to the tip of a branch in-      Note regenerative layer (r, arrow) between and over old corallites
+fluences linear growth rates. The presence of a neoplasm        (c). New corallites (nc) have been formed after the construction of
+within 25 cm of the tip resulted in significantly reduced       the regenerative layer. Scale bar 0.1 cm
+growth compared with the growth of branches with neo-
+plasia > 25 cm from the tip (Fig. 3 one way ANOVA, first
+period F=10.22, P<0.001, second period F=6.31,                      Linear growth of control branches over the year was
+P<0.01). Growth in branches with neoplasia within               the same, 8.8 cm year -a, as previously measured at the
+25 cm of the tip was significantly slower than growth in        same locality (Bak, 1976). Growth of controls varied
+control branches (Fig. 3, one way ANOVA, F=24.66;               throughout the year. It was significantly higher in Sep-
+P<0.01), but when the neoplasia were >25 cm from the            tember-October (one way ANOVA, F=4.10, P < 0.05). A
+tip, the growth of branches did not differ from the controls    similar tendency was noticeable in the branches having
+(Fig. 3, one way ANOVA, F = 1.90, P > 0.10).                    neoplasia > 25 cm from the tip (Fig. 3, one way ANOVA
+224                                                                                                           R.P.M. Bak: Neoplasia, regeneration and growth in Acropora
+
+        4 84
+
+
+
+
+        3
+
+
+CI
+                                                                                                                     Fig. 3. Acropora paImata. Growth rates of branches.
+0                                                                                                                    Horizontal bar of each data point denotes experimental
+                                                                                                                     period. Vertical bars show SD. Growth of controls:
+                                                                                                                     closed circles (connected by dashes). Growth of neo-
+
+
+                                    t
+-r"
+t-                                                                                                                   plasia branches: open circles, indicating branches with
+o
+                                                                                                                     neoplasia closer (<) and farther (>) than 25 cm from
+n.                                                                                                                   tip of branch. Growth of branches with tissue lesions:
+<3
+                                                                                                                     open squares, and tissue+skeleton lesions: closed
+                                                                                                                     squares
+               A   M        J   J          A   S         0         N          D         J           F     M
+                                        MONTHS
+
+
+
+
+F=3.44, 0.05<P<0.10).          There was no difference                                                  mean size of the lesions decreased exponentially through
+throughout the year in the slower growing branches with                                                 time (r = 0.995, P < 0.001).
+neoplasia nearer than 25 cm to the tip (one way ANOVA,                                                      Thin turfs of filamentous algae were present within one
+F=0.58, P>0.5). The number of neoplasia within 25 cm                                                    week on the fresh lesions. The process of regeneration of
+of a tip, neoplasm size or a change in size of the neoplasm                                             the lesions involved the extension of tissue over the lesion
+closest to the tip were not statistically correlated with                                               and simultaneous deposition of skeletal material under the
+linear growth.                                                                                          regenerating tissue. This resulted in a calcified whitish lip of
+    The effect of lesions on linear growth paralleled that of                                           material surrounding the relatively depressed surface of
+the neoplasia (Fig. 3). Branches with tissue+skeleton or                                                the remaining lesion. When the whole lesion was finally
+with tissue lesions grew more slowly than the control                                                   covered, a recognizable scar remained. It was a slight
+branches in the same period (one way ANOVA, F=5.15,                                                     elevation on the branch covered with newly formed
+P<0.05, respectively F=2.88, P<0.10). There was no                                                      corallites. These new corallites did not develop during the
+significant difference in growth rate between the branches                                              recovery process but only after the lesion was wholly
+with different types of lesions (one way ANOVA, F = 0.57,                                               covered. They differed in their spatial orientation from the
+P>0.5).                                                                                                 surrounding corallites. Thin sections of both types of
+    Acropora palmata was very rapid in the regeneration of                                              lesions showed the same sequence (Fig. 2B, C). The bare
+both types of lesions (Fig. 4). After six weeks the majority                                            carbonate surface of the lesion was covered by a layer of
+of the lesions had completely regenerated, and within 80 d                                              coenosteal material. Subsequently the normal surface
+all lesions were healed. Fig. 5 shows the high rate at which                                            structures, including thecal and endothecal structures,
+the damaged surfaces had recovered. It appears that the                                                 developed over this regenerative layer.
+
+
+                                                                       ,,C) A p t
+       100
+
+
+
+                                                                                                                                                  Fig. 4. Rates of regeneration of
+                                                                                                                                                  tissue lesions (t, dashed lines) and
+       80
+                                                                                                                                                  tissue+skeleton lesions (ts, solid
+                                                                                                                                                  lines) expressed as percentage of
+                                                             /                                                .-    ....   a23t                   lesions completely recovered.
+ Z                                                                                                                                                Coral species and depth of ex-
+ _o 6 0                                                                                                                                           perimental colonies; Ap: Acropora
+ ..a                                                                                                                                              palmata 2 m; Pa: Porites astreoides
+                                                                                                                                                  10m and 23 m; Ma: Montastrea
+ Q~                                                                                                                                               annularis 10m; Aa: A garicia
+        .c                                                                                                                                        agarieites 10 m and 25 m. Original
+                                                                                                                                                  data points for A. palmata this
+                                                                                                                                                  report (tissue: open circles, tis-
+                                                                                                                                                  sue+skeleton: closed circles) and
+                                                                                      0 ts
+                                                                                                                                                  for P. astreoides 10m Bak, un-
+        20                                                                                                                                        published data (tissue: open
+                                                                                                                                                  circles, tissue + skeleton: closed
+                                    ..//            ~                                        .......................           A . 2s t           circles). Other lines adapted from
+                                7 /            ./                ~."" ""                                                    / A a         25 ts   Bak et al., 1977 and Bak and Ste-
+                                                                                                                                                  ward-van Es, 1980
+                       20             40            60                   80                   100             120            140
+                                                                                    DAYS
+R. P. M. Bak: Neoplasia, regeneration and growth in A cropora                                                              225
+
+       103                                                        1981, personal communication), The results of the X-ray
+                                   y =_0.048x + 3.377             diffraction analysis agree with Squires (1965b), who also
+                                    =   .
+                                                                  concluded the neoplasia skeletons to be composed of
+%                                                                 aragonite and to be similar in diffraction patterns to other
+  E
+                                                                  portions of the corallum. Attempts to infest other corals,
+ z_ lO2                                                           by use of homogenates of neoplasm tissue, failed (Bak,
+ if)
+ Z
+                                                                  unpublished data).
+ o_                                                                   It appears that neoplasia in scleracfinian corals are not
+ _J                                                               related to the algal "tumours" described for octocorals
+ <
+ kLl
+ er
+                                                                  (Morse etal., 1977, 1981; Goldberg and Makemson, 1982).
+ < 101                                                            In addition, they should not be confused with the gall-like
+ uJ
+                                                                  nodules and chimneys formed on Acropora palmata and
+ rr                                                              A. cervicornis in response to damage by Pomacentridae
+                                                                  (Kaufman, 1981). These fishes, repeatedly biting at the
+                                                                  same location on the living coral surface, cause small
+                                                                  lesions. Regeneration of such lesions is continually inter-
+                  20          40            60
+                                   DAYS
+                                                                  rupted. As a result, the calcifying regeneration lip sur-
+Fig. 5. Acropora palmata. Surface area of lesions over time       rounding the lesion does not grow over the lesion but
+showing recovery rate. Tissue lesions: closed circles, tissue+    extends vertically, chimney-shaped, enclosing the tufts of
+skeleton lesions: open circles                                    algae growing on the lesion.
+                                                                      The neoplasia as well as regeneration of lesions require
+                                                                  calcification, which proves to interfere with the normal
+                                                                  calcification of the branch. When energy has to be al-
+    Foreign material, such as dolomite (CaMg (CO~)2) and          located to an additional energy sink, i.e. abnormal cal-
+low-magnesium calcite (MgCO3), was present in the                 cification, available resources appear limited. This indi-
+samples of lesions of both types. This corroborates the           cates how narrow the margins are, in terms of energy, for
+description of the regeneration process as involving             metabolic processes and ultimately for survival. Potts
+simultaneously tissue growth and calcification of new             (1977), working with Acroporapalifera Lamarck, suggested
+skeletal components over the damaged surface. The con-            that exhaustion of metabolic reserves through energy
+trols always consisted of pure aragonite.                        spent in cleaning the coral surfaces results in the death of
+                                                                 small colonies. The importance of size in the expenditure
+                                                                  of energy was first proposed by Connell (1973). Sub-
+Discussion                                                       sequent proof for his hypothesis that large colonies have
+                                                                 more energy available for regeneration was presented by
+ Although there are hardly any data available on neoplasia       Loya (1976). Bak and Steward-van Es (1980) suggested
+ in Scleractinia (Lauckner, 1980), I found neoplasia to be a      that a minimal area would be needed for optimum regen-
+ relatively common feature of corals in the course of ten        eration. The relation between growth rate and distance of
+ years' diving in the Netherlands Antilles. If we define such    neoplasia from the tip of the branch shows such a thresh-
+ neoplasia broadly as: superficial calcified protuberances       old size to exist in A. palmata. A branch should reach a
+ showing an abnormal arrangement of calicular and                length of _+25 cm to be certain of having a maximum
+ polypary elements, neoplasia can be split into two mor-         supply surface area.
+ phological groups. The first group is characterized by a             This has implications for the survival of storm-gen-
+ striking distortion of calicular elements, the result of        erated branch fragments. A larger size of fragments not
+ anomalous growth and gigantism, and includes the earliest       only enhances stability (Highsmith etal., 1980), but also
+ described neoplasia in Madrepora kauaiensis Vaughan             serves as a larger resource area for regeneration of lesions.
+ (Squires, 1965 a). Similar anomalities have been observed       The threshold size needed for optimum regeneration will
+in Diploria strigosa (Dana) (Bak, personal observation).         depend on the degree of injury.
+ The second group of neoplasia is characterized by the                Two aspects of the process of regeneration are of
+strikingly abnormal arrangement of the corallites. Coral-        interest. Firstly, the skeletal material, formed synchronously
+lites may be absent or few on the surfaces of the pro-           with regenerating tissue over both types of lesion (tissue,
+tuberances in A cropora palmata (this report), A. cervicornis    tissue+skeleton), has a coenosteal structure. This is the
+(Lamarck) (Bak, personal observation) and A.formosa              same structure as the bulk of the neoplasia skeleton in
+(Dana) (Cheney, 1975), or they may form a dense ceroid           Acropora palmata (this paper) and A.formosa (Cheney,
+surface instead of being normally arranged between col-          1975). The high porosity of this material suggests that it is
+lines like the neoplasia on Agaricia lamarcki Wells              probably the least expensive skeletal structure in terms of
+(Fig. 1 D).                                                      metabolic investment (Chamberlain, 1978). Secondly, if
+     In all such neoplasia the causative agents are totally      the lesions were converted by the regenerating tissue at an
+unknown (Squires, 1965a, b; Cheney, 1975; Morse etaL,            even rate along the radius of the lesion, the relation be-
+226                                                                      R.P.M. Bak: Neoplasia, regeneration and growth in A cropora
+
+tween size of lesions and time would be a power function.           Bak, R. P. M. and M. S. Engel: Distribution, abundance and
+The perfect fit o f the data to a decreasing exponential               survival of juvenile hermatypic corals (Scleractinia) and the
+                                                                       importance of life history strategies in the parent coral com-
+function shows that the rate of regeneration decreases with            munity. Mar. Biol. 54, 341-352 (1979)
+time. Regenerating corals do overgrow organisms settled             Bak, R. P. M. and Y. Steward-van Es: Regeneration of superficial
+on the bare surfaces of lesions (e.g. Fishelson, 1973), but            damage in the scleractinian corals Agaricia agaricites, f.
+the capacity to cover a lesion decreases with time (Bak                purpurae and Porites astreoides. Bull. mar. Sc. 30, 883-887
+                                                                       (1980)
+et al., 1977, Bak and Steward-van Es, 1980). I argued (Bak
+                                                                    Bak, R. P. M. and S. R. Criens: Experimental fusion in Atlantic
+and Steward-van Es, 1980) that, when an equilibrium is                 Acropora (Scleractinia). Mar. Biol. Lett. 3, 67-72 (1982 a)
+established between the algae covered surface of lesions            Bak, R. P. M. and S. R. Criens: Survival after fragmentation of
+and regenerating coral, it is not the presence of algae but a          colonies of Madraeis mirabilis, Acropora patmata and A. cervi-
+physiological characteristic of the coral which is respon-             cornis (Scleractinia) and the subsequent impact of a coral
+sible. The reduction in regeneration efficiency, in terms o f          disease. Proc. Fourth Int. Syrup. Coral Reefs, Manila 1981.2,
+                                                                       221-227 (1982b)
+area recovered, o f A . palmata with time corroborates such         Buddemeier, R. W. and R. A. K.inzie, III: Coral growth. Oceanogr.
+an explanation. This also explains the importance of the               mar. biol. Ann. Rev. 14, 183-225 (1976)
+size of lesions in the regenerative process.                        Chamberlain, J. A. jr.: Mechanical properties of coral skeleton
+    Regeneration is not an equally important aspect in the             compressive strength and its adaptive significance. Paleobiol.
+                                                                       4, 419-435 (1978)
+life-history strategies of the different coral species and          Chamberlain, J. A. jr. and R. R. Graus: Water flow and hydro-
+consequently regeneration capacities vary. Agaricia                    mechanical adaptation of branched reef corals. Bull. mar. Sci.
+agaricites (Linnaeus) regenerates more slowly and is less              25, 112-125 (1975)
+successful in covering small lesions than Montastrea                Cheney, D. P.: Hard tissue tumors in scleractinian corals. In:
+                                                                       Immunologic phylogeny, pp. 77-85. Ed. by W. H. Hildemann
+annuIaris (Ellis and Solander) and Porites astreoides
+                                                                       and A. A. Benedict. New York: Plenum Press 1975
+Lamarck (Fig. 4). That A cropora palmata is by far the most         Clausen, C. D. and A. A. Ruth: Estimation of coral growth rates
+rapid and efficient regenerator fully agrees with the                  from laboratory 45Ca incorporation rates. Mar. Biol. 33, 85-91
+picture that has recently developed of this shallow-water              (1975 a)
+coral, prone to storm damage and fragmentation of                   Clausen, C. D. and A. A. Ruth: Effects of temperature and tem-
+                                                                       perature adaptation on calcification rate in the hermatypic
+branches and whole colonies (Glynn et al., 1964; Highsmith,            coral Pocillopora damicornis. Mar. Biol. 33, 93-100 (1975 b)
+1982). Little energy is invested in sexual proliferation (Bak       Connell, J. H.: Population ecology of reef-building corals. In:
+and Engel, 1979), but growth rates are high (Gladfelter                Biology and geology of coral reefs, Vol. II, Biology 1, pp
+et al., 1978), fragments show rapid fusion and no antago-              205-245. Ed. by O. A. Jones and R. Endean 1973
+                                                                    Dodge, R. E., R. C. Allen and J. Thomson: Coral growth related
+nistic reaction with congeners (Bak and Criens, 1982a)
+                                                                       to resusper~sion of bottom sediments. Nature, Lond. 247,
+and survival o f fragments (asexual propagules) is high                 574-577 (1974)
+(Highsmith etal., 1980; Bak and Criens, 1982b). In an               Fishelson, L.: Ecology of coral reefs in the Gulf of Aqaba (Red
+energy budget with apparently narrow margins, most                     Sea) influenced by pollution. Oecologia 12, 55-67 (1973)
+energy is allocated to calcification: evident in growth and         Gladfelter, E. H.: Skeletal development in Acropora cervicornis. I.
+                                                                       Patterns of calcium carbonate accretion in the axial corallite.
+regeneration. A.palmata appears to be extremely special-               Coral Reefs 1, 45-51 (1982)
+ized. Perhaps this type of specialization makes A. palmata          Gladfelter, E. H., R. K. Monohan and W. B. Gladfelter: Growth
+relatively susceptible to the unknown agents of neoplasia.             rates of five reef-building corals in the northeastern Carib-
+                                                                       bean. Bull. mar. Sci. 28, 728-732 (1978)
+Acknowledgements. I thank Y. Steward-van Es and the                 Glynn, P. W., L. Almodovar and J. Gonzales: Effects of hurricane
+                                                                        Edith on marine life in La parguera, Puerto Rico. Caribb. J.
+Carmabi diving staff, O. Frans, F. Isabella and A. Tiel, for            Sci. 4, 335-345 (1964)
+assistance in the field and Drs. R. C. Highsmith (Friday            Glynn, P. W. and R. H. Stewart: Distribution of coral reefs in the
+Harbour) and R. R. Graus (Washington D.C.) for critically               Pearl Islands (Gulf of Panama) in relation to thermal condi-
+reading the manuscript, Thin sections were prepared at the              tions. Limnol. Oceanogr. 18, 367-379 (1973)
+Geological Institute (University of Groningen), X-ray               Goldberg, W. M. and J. C. Makemson: Description of a tumorous
+analysis was done by S. J. van der Gaast (NIOZ, Texel).                 condition in a gorgonian coral associated with a filamentous
+                                                                        green alga. Proc. Fourth Int. Syrup. Coral Reefs, Manila 1981,
+                                                                        2, 685-697 (1982)
+                                                                    Goreau, T. F.: The physiology of skeleton formation in corals. I. A
+Literature cited                                                        method for measuring the rate of calcium deposition by corals.
+                                                                        Biol. Bull. mar. biol. Lab., Woods Hole 116, 59-75 (1959)
+Bak, R. P. M.: The growth of coral colonies and the importance of   Goreau, T. F. and N. I. Goreau: The physiology of skeleton
+   crustose coralline algae and burrowing sponges in relation           formation in corals. II. Calcium deposition by hermatypic
+   with carbonate accumulation. Neth. J. Sea Res. 10, 285-337           corals under various conditions in the reef. Biol. Bull. mar.
+   (1976)                                                               biol. Lab., Woods Hole 117, 239-250 (1959)
+Bak, R. P. M.: Lethal and sublethal effects of dredging on reef
+   corals. Mar. Poll. Bull. 9, 14-16 (1978)                         Highsmith, R. C., A. C. Riggs and C. M. D'Antonio: Survival of
+Bak, R. P. M., J. J. W. M. Brouns and F. M. L. Heys:                    hurricane generated coral fragments and a disturbance model
+   Regeneration and aspects of spatial competition in the               of reef calcification/growth rates. Oecologia 46, 322-329
+   scleractinian corals Agaricia agaricites and Montastrea an-          (1980)
+   nularis. Proc. Third Int. Coral Reef Syrup. Miami, 1, 143-148    Highsmith, R. C.: Regeneration by fragmentation in corals. Mar.
+   (1977)                                                               Ecol. Prog. Ser. 7, 207-226 (1982)
+R. P. M. Bak: Neoplasia, regeneration and growth in A cropora                                                                         227
+
+Jokiel, P. L. and S. L. Coles: Effects of temperature on the          Potts, D. C.: Suppression of coral populations by filamentous
+   mortality and growth of Hawaiian reef corals. Mar. Biol. 43,          algae within damselfish territories. J. exp. mar. Biol. Ecol. 28,
+   201-208 (1977)                                                        207-216 (1977)
+Johnston, I. S.: The ultrastructure of skeletogenesis in hermatypic   Squires, D. F.: Neoplasia in a coral? Science, N.Y. 148, 503-505
+   corals. Int. Rev. Cyt. 67, 171-214 (1980)                             (1965 a)
+Kaufman, L.: There was biological disturbance on pleistocene          Squires, D. F.: Abnormal corallites. Science, N.Y. 150. 78 (1965b)
+   coral reefs. Paleobiol. 7, 527-532 (1981)                          Stephenson, T. A. and A. Stephenson: Growth and asexual
+Lauckner, G.: Diseases of Cnidaria. In: Diseases of marine               reproduction in corals. Scient. Rep. Gr. Barrier Exped. 3,
+   animals, Vol. 1, pp 167-237. Ed. O. Kinne. New York: Wiley             167-217 (1933)
+   and Sons 1980
+Loya, Y.: Skeletal regeneration in a Red Sea scleractinian coral
+   population. Nature, Lond. 261, 490-491 (1976)
+Morse, D. E., A. N. C. Morse and H. Duncan: Algal "tumors" in
+   the Caribbean sea-fan, Gorgonia ventalina. Proc. Third Int.
+   Coral Reef Syrup., Miami, Florida 1, 623-629 (1977)
+Morse, D. E., A. Morse, H. Duncan and R. K. Trench: Algal
+   "tumors" in the Caribbean Octacorallian, Gorgonia ventalina.
+   IL Biochemical characterization of the algae, and first epide-     Date offinat manuscript acceptance: October 12, 1983.
+   miological observations. Bull. mar. Sci. 31, 399 409 (1981)        Communicated by O. Kinne, Hamburg
+

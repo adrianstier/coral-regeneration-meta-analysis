@@ -138,7 +138,7 @@ def extractability_class(candidate_type: str, candidate_text: str) -> str:
 
 
 def accepted_row_status(row: dict[str, str], width: str, height: str, nonblank: str) -> tuple[str, str]:
-    if row.get("render_status") != "rendered":
+    if row.get("render_status") not in {"rendered", "already_rendered"}:
         return "render_not_available", "cannot_crop_until_page_render_exists"
     if nonblank != "yes":
         return "source_page_image_problem", "inspect_or_rerender_source_page"

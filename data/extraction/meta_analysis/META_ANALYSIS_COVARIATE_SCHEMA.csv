@@ -1,0 +1,10 @@
+column,required_for,description
+genus,taxonomic moderators,Single accepted genus when the source row maps to one genus; blank for mixed or ambiguous rows.
+family,taxonomic moderators,Single family from the taxon trait lookup; blank if multiple families or lookup is missing.
+skeletal_porosity,trait moderators,Single normalized perforate/imperforate value only when source or lookup evidence is unambiguous.
+growth_form_standard,trait moderators,Coarse model-ready growth form when raw growth form maps to one category.
+field_lab_mesocosm,study-design moderators,"Standardized field, lab, mesocosm, or mixed setting."
+depth_mid_m,environment moderators,Midpoint of source-level depth range when numeric depth is available.
+initial_wound_area_mid_mm2,wound-geometry moderators,Midpoint of reported initial wound area values in mm2; preserve raw field for interpretation.
+temperature_mid_c,environment moderators,Midpoint of source-level temperature values in degrees C when reported.
+covariate_readiness_status,all moderator analyses,Core readiness flag for using this source in moderator models.

@@ -1,0 +1,666 @@
+                                                                                             JOURNAL OF
+                                                                                             EXPERIMENTAL
+                                                                                             MARINE BIOLOGY
+                          Journal   of Experimental  Marine Biology and Ecology              AND ECOLOGY
+                                             187 (1995) 193-206
+
+
+
+
+     The effect of damage on the growth, reproduction and
+      storage of lipids in the scleractinian coral Pocillopora
+                       damicornis (Linnaeus)
+
+                                                Selina Ward
+      Centre for Coastal Management, Resource Science and Management. Southern Cross University,
+                               Lismore 2480, New South Wales, Australia
+
+       Received   17 November     1993; revision received   9 August   1994; accepted   4 November   1994
+
+
+
+
+Abstract
+
+A population of the scleractinian coral Pocilloporadamicornis (Linnaeus) was examined at Rottnest
+Island, off the Western Australian coast. This is a temperate zone and an area under consid-
+erable tourist pressure. Experiments were conducted at Little Salmon Bay and Mary Cove to
+investigate the effect of mechanical damage on the growth, reproduction       and storage of lipid to
+see whether patterns of energy allocation were affected. These parameters            were measured
+simultaneously    14 times over 13 months.
+   Damage had an adverse effect on the performance          of the corals. Dislodged corals had in-
+creased mortality, decreased growth, decreased reproduction but no change in lipids. Fragmented
+corals had no significant change in mortality, lipids or growth rate but had increased reproduc-
+tion. The overall allocation of energy to growth, reproduction and lipid storage of dislodged corals
+appeared to decrease whereas the overall output of the fragmented corals has increased.
+
+Kevwords: Coral damage;         Growth   lipids; Pocillopora reproduction
+
+
+
+
+1. Introduction
+
+   Pocillopora damicornis (Linnaeus)       forms a small coral reef and occurs on many
+limestone reefs on Rottnest Island, off the Western Australian coast. This area is close
+to the southern-most      limit for this coral, where natural stress is generally greater
+(temperature fluctuations,     storms etc.). Thus P. damicomis on Rottnest Island may be
+more susceptible to damage caused by human impacts on the island such as snorkelling
+and boating.
+
+0022-0981/95/$9.50  0 1995 Elsevier      Science B.V. All rights reserved
+SSDI 0022-0981(94)00180-4
+194                     S. Ward 1 J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206
+
+
+    Growth has been used many times as a measure of the performance                      of corals
+ (Buddemeier      & Kinzie III, 1976). Growth patterns vary a great deal within species
+ according to a host of environmental         factors. Daily growth ridges in the epithecae
+ (Barnes, 1972) and high and low density growth bands develop according to the
+favourability    of conditions.   Thus, the linear extension of the skeleton can be used as
+ a measure of growth for the coral head. At times there is not a simple relationship
+between size and age for corals as partial mortality, colony fission and colony fusion
+may distort measures of growth (Hughes & Jackson, 1980). In this study, care was
+taken to not sample damaged branches.
+    Interspecific growth rates may vary a great deal, according to a host of environmental
+factors, and have been used to indicate the health and status of corals (Buddemeier &
+ Kinzie III, 1976; Brown and Scoffin, 1986). The linear extension rate of the coral
+ skeleton may be measured, using the Alizarin staining technique (Lamberts, 1974), to
+assess the response of coral to different environmental           conditions   (Gladfelter et al.,
+ 1978) and pollutants (Dodge et al., 1984).
+    Corals contain relatively large quantities of lipid in their tissues (30-40x)          (Patton
+et al., 1977; Stimson, 1987). The lipids may be either structural or storage (Patton et al.,
+ 1977). They are distributed throughout coral tissues and associated with reproductive
+cells and eggs (Stimson, 1987). Small amounts are also present in mucus produced by
+some corals (Meikle et al., 1988). Changes in the amount of lipid present in coral tis-
+sues may be an indicator of stress. The quantity of lipid decreased in corals during the
+El Nino warming event of 1983 (Glynn et al., 1985) and may decrease with decreas-
+ing it-radiance (Stimson, 1987).
+   The sexual reproductive       status of corals can be determined histologically (Kojis &
+Quinn, 198 la,b) or by the collection of released gametes and planulae (Stimson, 1978;
+Harriot, 1983; Richmond & Hunter, 1990; Wyers et al., 1991). Gametogenesis                 may be
+affected by stress such as prolonged bleaching (Szmant & Gassman,               1990) and sexual
+processes may be halted or reduced (Brown & Howard, 1985). Decreased reproduc-
+tive activity may include failure to produce gametes or planulae, diminished gamete and
+planulae production,       and a decreased amount of lipid per planula.
+   This study aimed to investigate allocation of energy in corals at Rottnest Island.
+Corals can use energy for three main functions: in growth, reproduction              and storage
+of lipid (Sibly & Calow, 1986). Allocation of input to these three functions was mea-
+sured simultaneously      in a population of corals over a period of 13 months. Growth was
+measured as linear extension, storage of lipid was estimated gravimetrically                as the
+percentage of tissue made up of lipid and reproductive            activity was investigated      by
+measuring ova production, production of planulae and the lipid content of those planu-
+lae. Stages of gametogenesis        were also monitored.
+   To elucidate the effects of stress on allocation of coral energy, experiments using
+mechanical damage were conducted at two sites. Mechanical                 damage is a prevalent
+stress to corals at Rottnest Island and this naturally occurring damage was previously
+monitored to determine the most common types of damage (Ward, 1991). The most
+common types of damage were fragmentation              and dislodgement,     so these were used
+as treatments for the damage experiments and the growth, reproduction                and storage
+of lipid was measured for these corals. This allowed comparison between the patterns
+                                S. Ward 1 J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206                        195
+
+of allocation for the damaged and the undamaged                     corals as well as between       individual
+factors such as growth rates.
+
+
+
+2. Methods
+
+2.1.   Sites
+
+   Rottnest Island lies 20 km off the coast of Western Australia at 32” S. Two sites were
+sampled: Little Salmon Bay and Mary Cove. These sites are both on the west side of
+the island and recieve some direct wave action. Corals grow on limestone but there is
+no coral reef structure at these sites.
+
+2.2. Experimental           design
+
+   Manipulative   experiments were set up at Mary Cove and Little Salmon Bay. All
+P. damicornis colonies chosen for this study appeared healthy, were between 30 and
+50 cm in diameter, and were not shaded. Two treatments were used: fragmentation   and
+dislodgement.   Fragmentation  involved breaking some branches from the colony with
+a hammer but leaving the colony in place. Approximately 50% of branches were broken
+off throughout the colony rather than just one section of the colony. The remaining
+colony was sampled. Dislodged corals were knocked from the reef onto the substra-
+tum below which was either sand, rock or seagrass bed. Corals were placed face up
+at the time of damage and at each sampling time.
+   An orthogonal design was used for this experiment so all possible combinations   of
+these two treatments were used. At both sites there were fragmented only, dislodged
+only, fragmented and dislodged and not fragmented, not dislodged corals (Table 1).
+
+2.3.   Sampling procedure
+
+   Sampling of colonies involved breaking three branches, E 5 cm long from each coral
+at each date. Branches from the lowest parts of the colonies were avoided. Samples
+were used to monitor growth, reproduction   and lipid storage. The branch tips were used
+for growth measurement    and the rest of each branch for lipids and evaluation of the
+
+
+Table 1
+Number of corals sampled at Little Salmon         Bay and Mary Cove during the 13-month     study period. Treat-
+ments were dislodgement and fragmentation
+
+                                                         Little Salmon   Bay            Mary Cove
+
+               Fragmented    dislodged                    I                             5
+               Not dislodged                              6                             4
+
+               Not fragmented    dislodged                4                             6
+               Not dislodged                             10                             7
+196                   S. Ward/J.   Exp. Mar. Biol. Ecol. 187 (1995) 193-206
+
+gametogenic cycle. Sampling began in July 1988 and continued until September 1989.
+During the winter, samples were taken each month and during the summer months they
+were taken every 2 wk.
+
+2.4.   Growth
+
+   In order to measure rates of linear extension of branches, colonies of P. damicornis
+at both sites were stained in situ using the vital stain sodium alizarin sulfonate. The
+dye was incorporated     into the skeleton of the coral colouring it purple where carbon-
+ate deposition occurred. Between July and November, plastic bags were placed over
+the corals just after dawn and tied in place with long strips of Dayglo tape in order to
+isolate them from the surrounding sea water. Alizarin was injected into the plastic bags
+at a concentration   of 15 mg.l-‘. The bags were left in place until just before sunset nine
+hours later.
+   Three branches were taken from the colony and the tips were placed into fresh water.
+After 2-3 days the branch tips were washed with a jet of tap water until all the tissue
+had been removed. They were then cut on a trim saw with a diamond blade so that
+there was a flat face on which to measure the linear extension from the stain mark. Once
+the coral had dried, the growth was measured using callipers (to + 0.1 mm) under a
+magnifying lamp.
+
+2.5.   Lipids
+
+   The remaining branch sections from the above growth samples were placed in 10%
+formaldehyde    in seawater for 24 h. The samples were then immersed in Bouin’s fixa-
+tive for 2 wk to decalcify the skeleton. The tissue samples were placed in embedding
+cassettes and dried in an oven for 24 h at 55 “C. The samples were then weighed (to
+ & 0.0001 g) and immersed on a 2: 1 chloroform-methanol     solution for 24 h to dissolve
+the lipids (Barnes & Blackstock, 1973; Stimson, 1987). The tissue samples were then
+redried for 3 h and reweighed. The total lipid content was calculated by subtraction and
+expressed as a percentage of the total tissue biomass.
+
+2.6. Larval capture
+
+   To estimate the number of larvae produced, portions of colonies were taken from
+each coral 4 days before the new moon in March and transported       to the laboratory.
+Colonies were placed in fresh sea water and larvae were collected, counted and stored
+in a solution of 10% formaldehyde     in sea water.
+   The number of planulae shed per piece of coral was standardised   by calculating the
+relative surface area of each branch. Branches were weighed, placed in a Miles Tissue
+Tek consul of paralhn wax at 60 ‘C for 5 s and then reweighed when cooled. The weight
+of wax was then calculated and the number of planulae shed was divided by the weight
+of wax.
+   Captured larvae were analysed for lipid content following the methods used by
+Barnes & Blackstock (1973) and Stimson (1987). Larvae from individual colonies were
+                          S. Ward/J.   Exp. Mar. Biol. Ecol. 187 (1995) 193-206        191
+
+placed in small vials and dried in an oven at 60 “C for 24 h. They were then covered
+with a 2:l solution of chloroform methanol for 24 h to extract the lipid before being
+dried again for 3 h and reweighed.
+
+2.7.   Gametogenesis
+
+   The number and position of samples taken for gametogenesis        was the same as that
+of the lipid samples except that extra samples were taken 4 days before and 1 day after
+the new moon in March. The samples were prepared for histology by placing them in
+a solution of 10% formaldehyde in sea water for 24 h before being decalcified in Bouins
+solution for ~2 wk. Tissue was then peeled off and placed into embedding cassettes.
+Samples were processed through a graded series of alcohols and then cleared in 100%
+chloroform. They were then impregnated      in paraplast wax and embedded in paraffin
+wax. Sections of 6 pm were cut and these were stained with Gills Haematoxylin          and
+Eosin.
+   On each slide all polyps (50-100) were scored for their stage of gametogenesis      and
+their planulae were counted. Stages were identified basically following those of Stoddart
+(1984a,b). There were four stages of spermatogenesis      and two stages of oogenesis.
+   Reproduction    includes both production   of planulae and gametes, so a measure of
+reproductive output which included both components       was devised. An index of repro-
+ductive potential (IRP) was calculated from the percentage of polyps with ova and
+planulae for each colony at each date. The largest sum of the percentage of polyps
+containing the two oogenic stages and/or planulae at each time point of each coral was
+termed the IRP.
+
+2.8.   Statistical analysis
+
+   Comparison of growth, IRP and the percentage of lipid in tissue at different sites and
+with different damage treatments was made using analysis of variance. Homogeneity
+of variances was tested using Cochran’s test and, where necessary, appropriate trans-
+formations were performed. The damage experiments were treated as an orthogonal
+analysis of variance and, as site was included, this was a three-factor design.
+
+
+
+3. Results
+
+3.1. Mortality
+
+   The most dramatic effect of damaging the corals was on their survival. There was
+a very low mortality of undamaged     colonies at both sites with only one of the 14 un-
+damaged colonies dying. There was a higher mortality amongst the dislodged and
+fragmented   colonies with half of these corals dead by the end of the study period
+(Table 2). Significantly more dislodged corals died than not dislodged corals and, al-
+though more fragmented corals died than not fragmented corals, this difference was not
+significant.
+198                          S. Ward/J.   Exp. Mar. Biol. Ecol. 187 (1995) 193-206
+
+Table 2
+The number      of corals* from Little Salmon       Bay and Mary Cove which died during the study period
+
+                             Fragmented                        Not fragmented                 Dislodged   totals
+
+                             Dead              Alive           Dead             Alive         Dead             Alive
+
+Dislodged                     8                 5              12                8            20                   13
+Not dislodged                 6                 5               1               13             7                   18
+
+Fragmented      totals       14                10              13               21
+
+Fragmentation                x2 (df= 1)=2.24                   Dislodgement                   x2 (df = 1) = 5.97
+                             pzo.05                                                           p<o.o5
+
+* These were analysed      using contingency tests for independence. Dislodged and undislodged            corals were
+compared for mortality     in one test and fragmented and not fragmented corals were compared              for mortal-
+ity in the next test.
+
+
+3.2. Growth
+
+   Dislodged corals grew slower (between December 1988 and June 1989) than those
+which were not dislodged (Table 3) (Fig. 1) but there was no significant effect of
+fragmentation   on the amount of cumulative growth. Corals at Little Salmon Bay grew
+faster than those at Mary Cove (Table 3).
+
+3.3. Lipids
+
+   There was no clear pattern of the effect of dislodgement, fragmentation   or site on the
+quantity of lipid in tissue of experimental corals at Little Salmon Bay and Mary Cove
+on the 12 dates the analyses of lipids were conducted. In November the dislodged corals
+had less lipid in the tissues than the undislodged      colonies (Fig. 2) and on the 7th
+February colonies from Mary Cove had a higher quantity of lipid than those from Little
+Salmon Bay.
+
+
+
+
+                                                     FFIAG            DISL              F+D
+Fig. 1. Growth, as linear extension, of colonies of P. dumicornis at Rottnest Island. Treatments are cant =
+controls, frag = fragmentation, disl = dislodged, f + d = fragmentation and dislodgement. Error bars are stan-
+dard errors.
+                           S. Ward/J.     Exp. Mar. Biol. Ecol. 187 (1995) 193-206                                   199
+
+Table 3
+Three-factor orthogonal analysis of variance information for growth (as cumulative linear extension)        of corals
+from Little Salmon Bay and Mary Cove between 17th December and 10th June, 1989
+
+Factor                             Mean               SE                   N                 F              P
+
+Dislodged
+Dislodged                          3.5                1.06                  12               5.993          0.0237
+Not dislodged                      5.5                0.66                  16
+
+Fragmented
+Fragmented                         4.7               1.17                  11                1.325          0.2634
+Not fragmented                     4.6               0.67                  17
+
+Site
+Little Salmon    Bay               5.3               0.84                  15                5.085          0.0355
+Mary Cove                          3.9               0.86                  13
+
+                                   Interactions                            F                 P
+
+                                   Fragmented-site                         0.088             0.7698
+                                   Dislodged-site                          3.285             0.0850
+                                   Fragmented-dislodged                    0.460             0.5056
+                                   Dislodged-fragmented-site               0.120             0.7302
+
+Treatments    were dislodgement,    fragmentation     and      site.   Varances    were   homogeneous   (C= 0.3103).
+N = number   of colonies.
+
+
+3.4. Larval capture
+
+    There were numerically fewer larvae captured in dislodged than not dislodged cor-
+ als, more in fragmented than not fragmented corals and fewer at Mary Cove than at
+ Little Salmon Bay but none of these differences were statistically significant (Fig. 3).
+    The lipid content of the larvae was most frequently 50-60%. Some corals produced
+very few larvae and these were difficult to analyse. Although there was less lipid in the
+larvae captured from corals which were dislodged than those which were not dislodged
+ and more in not fragmented than fragmented corals, the differences were not signifi-
+cant (Fig. 4). The data for larval capture were significantly correlated with the num-
+ber of planulae from the histological      data, although the relationship      is not strong
+(r = 0.56, p< 0.05, n = 46).
+    The index of reproductive potential (IRP) was significantly larger in fragmented than
+unfragmented     corals. In dislodged corals the IRP was smaller than that of the corals
+which were not dislodged but not significantly so. There was no significant effect of site
+(Table 4). These trends are the same as those found for the data on capture of larvae
+shed in the laboratory (Fig. 4).
+    Corals with the four damage treatments:        fragmentation   only, dislodgement    only,
+dislodgement    and fragmentation    and no damage followed similar gametogenesis         pat-
+terns. All groups showed the disappearance       of late sperm and ova on 7th February and
+5th April and all had major planulation         in March (Ward, 1992). All four groups
+planulated in February as well as March although the February event was consider-
+ably smaller.
+200                      S. Ward/J.    Exp. Mar. Biol. Ecol. 187 (1995) 193-206
+
+
+
+
+                                CONT    FRAG       DISL      F+D
+
+
+
+
+                                                                     1 7 DEC
+
+
+                                CCNT    FRAG      DISL       F+D
+
+
+
+
+                                CONT    FRAG       DEL       F+D
+
+                         50 [
+
+
+                                                                      7 FEB
+
+
+                                CXNT     FRAG       DEL      F+D
+
+                                                  Fi g . 2
+
+
+4 . Di s c u s s i o n
+
+   Damaging the corals clearly affected their performance. Firstly, dislodgement caused
+high mortality with the majority of dislodged corals dying by the end of the study period.
+Dislodged corals also had slower growth. A dislodged coral which lays in sand or on
+sea grass may be exposed to increased sedimentation      and less light. Without its usual
+attachment, the coral is more susceptible to damage through water movement as it may
+be carried across the substratum,   causing increased abrasion and sections of the col-
+ony to face into the sand. Colonies may be battered against rocks or thrown into nearby
+sea grass beds. Dislodged corals in this study sometimes died very quickly following
+a storm, perhaps as a result of shut-down reaction occurring (Antonius,       1981, 1988).
+   Mortality was high in the fragmented corals. Fragmentation       had no obvious effect
+on the cumulative growth of colonies, which is contrary to findings of Simpson (1987)
+who reported that growth of colonies damaged by a tropical cyclone was slower after
+                           S. Ward 1 J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206                            201
+
+
+
+
+                                                                         3 MAR
+
+
+                               CiNT       FRAG       DISL       F+D
+
+
+
+
+                                                                        8 MAR
+
+
+                              CCNf       FRAG       DEL        F+D
+
+
+
+
+Fig. 2. The percentage of tissue of P. damicomis colonies made up by lipid on sampling         dates from 15th
+October     1988 to 5th April, 1989. Treatments   are cant = controls, frag = fragmentation,   disl = dislodged,
+f + d = fragmentation  and dislodgement.  Error bars are standard errors.-
+
+
+
+
+Fig. 3. The standardised   number of larvae captured at the new moon in March, 1989 from colonies of
+P. damicomis at Rottnest Island. Treatments      are cant = controls, frag = fragmentation, disl = dislodged,
+f + d = fragmentation  and dislodgement. Error bars are standard errors.
+202                             S. Ward / J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206
+
+
+
+
+                                                     FRAG           DISL               F+D
+Fig. 4. The percentage dry tissue weight made up by lipid of larvae captured at the new moon in March,
+ 1989 from colonies of P. damicornis. Treatments   are cant = controls, frag = fragmentation, disl = dislodged,
+f + d = fragmentation and dislodgement.  Error bars are standard errors.
+
+Table 4
+Analysis of variance comparing index of reproductive potential,      for fragmented,    dislodged    and control corals
+from Little Salmon Bay (LSB) and Mary Cove (MC)
+
+Factor                                       Mean           SE             N                 F                 P
+
+Dislodged                   yes              42.98          4.98           17                3.77              0.0623
+                            IlO              57.15          4.43           19
+
+Fragmented                  yes              59.58          4.55           15                6.047             0.0204
+                            tl0              43.94          4.57           21
+
+Site                      LSB                45.92          4.94           19                2.381             0.1341
+                          MC                 55.54          4.73           17
+
+                 Interactions                               F              P
+
+                 Fragmented-site                            1.692          0.2039
+                 Dislodged-site                             0.003          0.9573
+                 Fragmented-dislodged                       0.013          0.9084
+                 Dislodged-fragmented-site                  0.607          0.4423
+
+Variances    were homogeneous      (C= 0.2211).
+
+
+
+the cyclone than it had been before the cyclone. Initially the fragments from fragmented
+colonies in this study were monitored and showed a trend of low growth but these either
+died or disappeared rapidly. Bak & Criens (1981) conducted a fragmentation          experi-
+ment and found an initial decrease in living coral cover followed by overgrowth by living
+coral. Towards the end of the experiment, growth was less than the control quadrant
+but mortality was very low until an outbreak of a disease killed all the fragments. During
+this study, there was increased mortality of fragmented corals following one large storm
+near the end of 1988. Before this storm, mortality of fragmented corals was very low.
+Fragmentation     may make colonies more susceptible to sudden events such as storms
+and disease outbreaks.
+   With respect to growth and mortality, dislodgement appears to be a more severe type
+of damage than fragmentation,    as it caused a decrease in cumulative growth as well as
+an increase in mortality.
+                        S. Ward/J.   Exp. Mar. Biol. Ecol. 187 (1995) 193-206                 203
+
+    Corals at Rottnest Island had a high lipid content. The 29-46x              of tissue weight
+made up by lipid recorded here is slightly higher than past studies with Patton et al.
+(1977) finding 34% for P. capitata and Stimson (1987) finding 30-40x                 for P. dami-
+comis. It is possible that the high percentage        of lipid found in this study may be a
+characteristic   of corals in cooler water. However, there are no suitable studies with
+which to compare these results.
+    There were fluctuations in the amount of lipid present in the tissue of the sampled
+corals throughout the year. Corals had more lipids in their tissues between August and
+February than between March and the following August. On a finer scale the quantity
+of lipid decreased at the February, March and April new moons and had increased by
+the sampling period 2 wk after these new moons. These reductions coincide with the
+loss of planulae and gametes over these periods. Damage did not obviously affect the
+quantity of lipids in the coral tissue as there was no difference between treatments in
+the quantity of lipid present on any date, or either pre- or post-planulation.
+    The reproductive    activity of P. damicomis at Rottnest Island was affected by both
+dislodgement    and fragmentation.     The IRP was lower for dislodged corals due to re-
+duced numbers of both ova and planulae. Dislodged corals are frequently exposed to
+greater sediment stress, due to resuspension,        because they are on the substrate sur-
+rounded by sand. This may cause a decrease in light available to the corals which is
+often compounded       by a slight decrease in light due to increased depth as the corals
+usually fall from the reef downwards.
+    An increase in the IRP resulted from fragmenting the colonies. Fragmention             during
+this study involved removing branches throughout the colony so this may have caused
+an increase in light available to many of the remaining branches. Kojis & Quinn (1984)
+found that fecundity in Acropora palijha varied proportionately            with high levels and
+correlated with water clarity and sedimentation.       The most fecund section of the branch
+is the mid section below the growing tips and in an intact colony these sections are often
+in relative shade. Rinkevich (1989) used labelled carbon to conclude that the energy
+requirements    for planulae production     in hermatypic corals are supported by trans-
+location of products from algal photosynthesis.       Fragmentation    may have increased the
+light available for the fecund areas and this may have caused the increase in repro-
+ductive potential.
+   PociZlopora damicornis at Rottnest Island follows the pattern of this and other coral
+species at other temperate zone and subtropical reefs in that growth is fastest during
+the warmest months, in this case February, March and April (Stoddart, 1984a; Ward
+ 1991). This is in contrast to tropical reefs where growth is usually fastest during the
+winter months (Highsmith,        1979). The period of increased growth at Rottnest Island
+is short with only 3 months growth which is markedly faster than any other time.
+   No comparable data on recovery rates for fragmentation         and dislodgement in tropical
+areas, using the parameters measured in this study could be found, but it seems likely
+that recovery would be faster in the tropics where growth is faster. Kay & Liddle (1989)
+studied the effects of trampling by tourists on areas of coral reef off Heron Island on
+the Great Barrier Reef and this involved considerable fragmentation            of colonies. They
+found different levels of destruction on different sections of the reef, but did not look
+closely at recovery rates so a comparison       is difficult. In the relatively warm water of
+204                    S. Ward/J.   Exp. Mar. Biol. Ecol. 187 (1995) 193-206
+
+ Costa Rica, Guzman & Cortes (1989) found that Porites lob&a used fragmentation               as
+ a dispersal mechanism and exhibited rapid injury recovery and high resistance to en-
+vironmental    stress.
+    The results of damage experiments involving dislodgement          and fragmentation    gen-
+erally reflected the results of the monitoring      of ‘naturally’ occurring damage on the
+island (Ward, 1991). Generally, corals which were found dislodged died or did not
+ appear to grow noticeably. Often, they would have abraded sections where the coral
+had faced the substratum and this area would become overgrown with algae. In con-
+trast, colonies which were found fragmented either died or appeared to have a full
+recovery.
+    Gray (1989) suggested that the application of a stressor may cause an alarm reac-
+tion followed by compensation        and a return to normal and that, if the application
+continues, the organism may die. He hypothesizes that initially an organism will divert
+energy from growth into reproduction        but on further application     of the stressor the
+fecundity will decrease. Thompson (1983, 1984) found that sea urchins on a depleted
+food ration decreased their gametic output but, when considered with their accompa-
+nying decrease in growth, this represented       an increase in reproductive     effort. As the
+mortality figures suggest, the dislodged corals were dying or at least not performing well.
+These results suggest that they may have shifted allocation away from growth to
+reproduction.    Although the IRP was reduced in comparison with corals which were not
+dislodged, this may not reflect the reproductive       effort of the corals as the proportion
+of total energy used for reproduction     may have increased,
+    The IRP of the fragmented corals was increased due to more brooded larvae rather
+than large numbers of ova. The increase in reproductive potential does not appear to
+be a trade-off reaction to stress as neither the growth nor the content of lipid simul-
+taneously decreased.
+    As discussed in Ward (1991) there are two forms of allocation operating in corals
+at Rottnest Island. Corals, which produced brooded larvae produced ova, showed a
+decrease in growth, an increase in reproductive        lipid and a decrease in storage lipid.
+Corals which did not produce brooded larvae did not produce ova, showed more rapid
+growth, had less reproductive      lipid and more storage lipid. Now the allocation of
+damaged corals can be compared with the “normal pattern”.
+   Although the seasonal allocation patterns were basically the same for damaged
+corals, some differences were apparent.        For dislodged corals almost all produced
+brooded larvae and there was, overall, a reduced output. Growth was decreased and
+there was a reduction in reproductive      potential and no change in lipids. In contrast,
+the fragmented colonies appeared to increase their output. There was no significant
+change in cumulative growth but reproductive         potential was increased and there was
+no change in lipids.
+
+
+
+Acknowledgements
+
+  This work was conducted       in the Department of Zoology, The University of Western
+Australia, with a University    Research Grant. Thanks to Dr. R. Black for supervision
+                              S. Ward/J.     Exp. Mar. Biol. Ecol. 187 (1995) 193-206                                   205
+
+and to C.C.I.S.R.,  the Division               of Australian        Environmental         Studies     at Griffith Uni-
+versity, for minor support.
+
+References
+
+Antonius,     A., 1981. Coral reef pathology:         A review. Proc. 4th In!. Coral Reef Symp. Manila., Vol. 2,
+   pp. 3-6.
+Antonius, A., 1988. Black band disease behaviour on Red Sea reef corals. Proc. 6th Int. Coral Reef Symp.
+  Australia., Vol. 3, pp. 145-150.
+Bak, R.P.M. & S.R. Criens, 1981. Survival after fragmentation                 of colonies of Madracis mirabilis, Acropora
+  palmata and Acropora cervicomis (Scleractinia)          and the subsequent impact of a coral disease. Proc. 4th Int.
+   Coral Reef Symp. Manila., Vol. 2, pp. 221-221.
+Barnes, D.J., 1970. Coral skeletons: An explanation                 of their growth and structure. Science., Vol. 170,
+   pp. 1305-1308.
+Barnes, D.J., 1972. The structure and formation of growth ridges in scleractinian                 coral skeletons. Proc. R.
+   Sot. Lond. B., Vol. 182, pp. 331-350.
+Barnes, D.J. & J. Blackstock,      1973. Estimation of lipids in marine animals and tissues: detailed investiga-
+  tion of the sulphophosphovanillin         method for total lipids. J. Exp. Mar. Biol. Ecol., Vol. 12, pp. 103-
+   118.
+Brown, B.E. & L.S. Howard,          1985. Assessing the effects of “stress” on reef corals. Adv. Mar. Biol., Vol.
+   22, pp. l-63.
+Brown, B.E. & T.P. Scoffin, 1986. Measuring growth rates of reef corals as an indiciation of the effects of
+   pollution and environmental      disturbance.     (UNESCO reports in Marine Science, 40), UNESCO.
+Buddemeier,      R.W. & R.A. Kinzie III, 1976. Coral growth. Oceanogr. Mar. Biol. Annu. Rev., Vol. 14,
+   pp. 183-225.
+Dodge, R.E., Knap, A.H., Wyers, S.C., Frith, H.R., Sleeter, T.D. & S.R. Smith, 1984. The effects of oil
+   and oil dispersants     on skeletal growth of the herrnatypic            coral, Diploria strigosa. Coral Reefs, Vol. 3,
+   pp. 191-198.
+Gladfelter, E.H., Monahan,      R.K. & W.B. Gladfelter, 1978. Growth rates of five reef-building corals in the
+   north-eastern    Caribbean. Bull. Mar. Sci., Vol. 28, pp. 728-734.
+Glynn, P.W., M. Perez & S.L. Gilchrist,              1985. Lipid decrease in stressed corals and their crustacean
+   symbionts. Biol. Bull., Vol. 168, pp. 276-284.
+Gray, J.S., 1989. Effects of environmental          stress on species rich assemblages.        Biol. J. Linn. Sot., Vol. 37,
+   pp. 19-32.
+Guzman, H.M. & J. Cortez, 1989. Coral reef community structure at Cano Island, Pacific Costa Rica. Mar.
+   Ecol., Vol. 10, pp. 23-41.
+Harriot, V.J., 1983. Reproductive       seasonality, settlement and post settlement mortality of Pocillopora dami-
+   comis (Linnaeus) at Lizard Island, Great Barrier Reef. Coral Reefs, Vol. 2, pp. 151-157.
+Hughes, T.P. & J.B.C. Jackson, 1980. Do corals lie about their age? Some demographic                        consequences   of
+   partial mortality, fission and fusion. Science, Vol. 209, pp. 713-715.
+Jokiel, P.L., R.Y. Ito & P.M. Liu, 1985. Night irradiance and synchronization                   of lunar release of planula
+   larvae in the coral Pocillopora damicornis. Mar. Biol., Vol. 88, pp. 167-174.
+Kay, A.M. & M.J. Liddle, 1989. Impact of trampling in different zones of coral reef flat. Environ. Manage.,
+   Vol. 13, pp. 509-516.
+Kinsey, D.W., 1985. Metabolism, calcification and carbon production:                  I. System level studies. Proc. 5th Int.
+   Coral Reef Congress Tahiti, Vol. 4, pp. 503-542.
+Kojis, B.L. & N.J. Quinn, 1981a. Reproductive             strategies in four species of Porites (Scleractinia).     Proc. 4th
+   Inter. Coral Reef Symp. Manila, Vol. 2, pp. 145-151.
+Kojis, B.L. & N.J. Quinn, 1981b. Aspects of sexual reproduction               and larval development in the shallow water
+   hermatypic coral, Goniastrea australensis (Edwards & Haime, 1857). Bull. Mar. Sci., Vol. 31, pp. 558-
+   573.
+Kojis, B.L. & N.J. Quinn, 1984. Seasonal and depth variations in fecundity of Acroporapaliferat two reefs
+   in Papua New Guinea. Coral Reefs, Vol. 3. pp. 165-172.
+206                          S. Ward 1 J. Exp. Mar. Biol. Ecol. 187 (1995) 193-206
+
+Lamb&s, A.E., 1914. Measurement           of Alizarin deposited by coral. Proc. 2nd Int. Coral Reef Symp. Australiu,
+   Vol. 2, pp. 241-244.
+Loya, Y. & B. Rinkevich, 1980. Effects of oil pollution on coral reef communities. Mar. Ecol. Prog. Ser., Vol.
+   3, pp. 167-180.
+Meikle, P., G.N. Richards & D. Yellowlees, 1988. Structural investigations             on the mucus from six species
+   of coral. Mar. Biol., Vol. 99, pp. 187-193.
+Patton, J.S., S. Abraham & A.A. Benson, 1977. Lipogenesis in the intact coral Pocillopora dumicomis and
+   its isolated zooxanthellae:    Evidence for a light-driven carbon cycle between symbiont and host. Mar. Biol.,
+   Vol. 44, pp. 235-247.
+Richmond, R. 1981. Ecological considerations           in the dispersal of Pocillopora damicornis (Linnaeus) planu-
+   lae. Proc. 4th Inter. Coral Reef Symp. Manila, Vol. 2, pp. 153-156.
+Richmond, R.H., 1985. Reversible metamorphosis              in coral planulae larvae. Mar. Ecol. Prog. Ser., Vol. 22,
+   pp. 181-185.
+Richmond,       R.H., 1987. Reproduction       and recruitment      of corals: Comparisons       among the Caribbean,
+   the eastern Pacific, the Indowest        Pacific and the Red Sea. (UNESCO Reports in Marine Science),
+   UNESCO.
+Richmond, R.H. & P.L. Jokiel, 1984. Lunar periodicity in larval release in the reef coral Pociliopora dumicornis
+   at Enewetak and Hawaii. Bull. Mar. Sci., Vol. 34, pp. 280-287.
+Rinkevich, B., 1989. The contribution of photosynthetic          products to coral reproduction.    Mar. Biol., Vol. 101,
+   pp. 259-263.
+Rinkevich, B. & Y. Loya, 1977. Harmful effects of chronic oil pollution on a Red Sea coral population. Proc.
+   3rd Inter. Coral Reef Symp. Miami, Vol. 2, pp. 585-591.
+Sibly, R.M. & P. Calow, 1986. Physiological ecology of animals:an evolutionary approach. Blackwell Scien-
+   tific Publications,  Oxford.
+Simpson, C.J., 1987. Growth, metabolism and reproduction ofcorals in northwestern Australia. Ph.D., University
+   of Western Australia.
+Stimson, J.S., 1978. Mode and timing of reproduction             in some common hermatypic corals of Hawaii and
+   Enewetak. Mar. Biol., Vol. 48, pp. 173-184.
+Stimson, J.S., 1987. Location, quantity and rate of change in quantity of lipids in tissue of Hawaiian her-
+   matypic corals. Bull. Mar. Sci., Vol. 41, pp. 889-904.
+Stoddart, J.A., 1984a. The genetical structure of populations             of the coral Pocillopora damicornis. Ph.D.,
+   University of Western Australia.
+Stoddart, J.A., 1984b. Genetical structure within populations of the coral Pocillopora damicornis. Mar. Biol.,
+   Vol. 81, pp. 19-30.
+Thompson, R.J., 1983. The relationship between food ration and reproductive effort in the green sea urchin,
+   Strongylocentrotus droebachiensis. Oecologia, Vol. 56, pp. 50-57.
+Thompson,      R.J., 1984. Partitioning of energy between growth and reproduction          in three populations of the
+   sea urchin Strongylocentrotus droebachiensis. Adv. Invert. Reprod., Vol. 3, pp. 425-432.
+Van Valen, L., 1978. The statistics of variation. Evol. Theory, Vol. 4, pp. 33-43.
+Ward, S., 1991. The effect of mechanical damage on the allocation of energy to growth, reproduction                  and
+   storage of lipids in the scleractinian     coral Pocillopora damicornis. M.Sc. Thesis. University of Western
+   Australia.
+Ward, S., 1992. Evidence for broadcast spawning as well as brooding in the scleractinian               coral Pocillopora
+   damicornis. Mar. Biol., Vol. 112, pp. 641-646.
+

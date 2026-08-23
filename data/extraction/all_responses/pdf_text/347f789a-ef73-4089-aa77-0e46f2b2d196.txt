@@ -1,0 +1,627 @@
+Coral Reefs (2023) 42:1067–1077
+https://doi.org/10.1007/s00338-023-02414-3
+
+    REPORT
+
+
+
+Differing lesion recovery rates of two Caribbean stony coral
+species across a shallow water to mesophotic depth gradient
+suggest different sensitivity to repeated disturbance
+Joseph E. Townsend1,2 · Marilyn E. Brandt1 · Sonaljit Mukherjee1 ·
+Mónica Medina3 · Tyler B. Smith1
+
+
+
+
+Received: 18 November 2022 / Accepted: 28 June 2023 / Published online: 17 August 2023
+© The Author(s), under exclusive licence to International Coral Reef Society (ICRS) 2023
+
+
+Abstract Following major stress events such as storms,                  that some mesophotic coral reefs, despite having high coral
+bleaching events, or disease outbreaks, surviving corals                cover, may be slower to recover from stress events if domi-
+must regenerate tissue to recover. We aimed to understand               nated by non-depth-generalist species, such as O. franksi,
+how this recovery changes across depth, hypothesizing                   resulting in increased vulnerability to repeated stress events.
+that deeper corals would regenerate more slowly and that
+this may limit resilience to acute stressors. Two species               Keywords Mesophotic · Recovery · Tissue · Lesions
+of reef-building coral, Orbicella franksi (an intermediate-
+depth species) and Agaricia lamarcki (a depth-generalist),
+were tagged at selected sites across their overlapping depth            Introduction
+range of 13–41 m and directly monitored for recovery from
+experimentally generated lesions across time. Overall, recov-           Study of coral recovery is crucial in the continued under-
+ery rates were distinct between species and across depths,              standing and conservation of coral reefs, some of the world’s
+with O. franksi recovery rates showing high variability                 most biodiverse and productive ecosystems (Hoegh-Guld-
+and declining at depth. In contrast, A. lamarcki maintained             berg et al. 2007; Moberg and Folke 1999; Plaisance et al.
+similar rates of recovery across the examined depth range.              2011). As the foundational species of coral reefs, sclerac-
+The consistent response of A. lamarcki suggests that it can             tinian coral recovery from stress events is essential to the
+attenuate its biology with changing light resources to main-            function of the reef ecosystem. In many cases, acute stress
+tain healing abilities in different environments. Recovery              events, such as hurricanes, disease outbreaks, runoff, and
+rates were additionally compared against environmental and              bleaching events can affect individual coral colonies asym-
+biological covariates and it was found that only increased              metrically, and may cause death of tissue in only part of
+initial lesion size had a significant positive effect on tissue         a coral colony (Fabricius 2005; Lugo-Fernández and Gra-
+regeneration rates for A. lamarcki. Collectively, this suggests         vois 2010). This is known as “partial mortality”, where the
+                                                                        afflicted area, identified here as a “lesion”, can sometimes
+                                                                        be regrown from the remaining living tissue on the colony
+Supplementary Information The online version contains                   (Loya 1976). Tissue regrowth can be energetically expen-
+supplementary material available at https://​doi.​org/​10.​1007/​       sive, and often requires re-allocation of energy away from
+s00338-​023-​02414-3.
+                                                                        other processes, such as calcification and reproduction
+* Joseph E. Townsend                                                    (Kramarsky-Winter and Loya 2000; Meesters et al. 1994).
+  joetown94@gmail.com                                                   Therefore, the rate of tissue regrowth can play a key role in
+1
+     Center for Marine and Environmental Studies, University            overall reef resilience and recovery from major stress events.
+     of the Virgin Islands, Saint Thomas, USVI, USA                        Researchers have worked to identify key extrinsic and
+2
+     Ocean Sciences Division, National Science Foundation,              intrinsic factors that may affect tissue recovery. It is under-
+     Alexandria, VA, USA                                                stood that lesion size, position, and shape inherently alter
+3
+     Department of Biology, Pennsylvania State University,              lesion recovery rates (Meesters et al. 1994, 1996). Recov-
+     University Park, PA, USA                                           ery has also been shown to be species-specific (Hall 1997).
+
+
+                                                                                                                             1 3
+                                                                                                                      Vol.:(0123456789)
+1068                                                                                               Coral Reefs (2023) 42:1067–1077
+
+Because of the energetic demand associated with lesion            reefs dominated by A. lamarcki may be potentially more
+recovery, coral health can also play a key role (Fine et al.      resilient to repeated stress events than reefs dominated by
+2002; Fisher et al. 2007; Ruiz-Diaz et al. 2016). Relating        other species.
+coral tissue recovery to the physical environment directly is        This study assessed coral tissue recovery for O. franksi
+less frequent (Nagelkerken et al. 1999; Sabine et al. 2015),      and A. lamarcki across a shallow to mesophotic depth gradi-
+and in these cases, recovery can be delayed or even halted        ent to test the potential difference in resilience of a depth-
+by stressful events during or immediately before recovery         specialist and depth-generalist coral species. A standardized
+(Henry and Hart 2005; Meesters and Bak 1993; Meesters             lesion-recovery assay was conducted, assessing the ability
+et al. 1994). Therefore, relatively stressful physical regimes    of each species to recover and regenerate tissue across this
+in an environment, such as temperature fluctuations (Carilli      depth range. Environmental regimes of temperature and
+et al. 2012) and wave energy (Dollar 1982), may play an           benthic orbital velocity and coral biological characteristics
+important role in recovery.                                       were investigated as possible causes for observed differences
+    Deep-water or mesophotic coral ecosystems (MCEs),             in recovery across depth. By understanding differences and
+are light-dependent stony coral habitats found at depths          drivers in recovery for each species, a greater understanding
+deeper than about 30 m and are less studied relative to shal-     of the future of MCEs can be reached in the face of continu-
+low reefs (Hinderstein et al. 2010; Tamir et al. 2019). These     ing stress events.
+systems have different environmental conditions than shal-
+low reefs (Lesser et al. 2009), and are more vulnerable to
+certain stressors compared to shallow water systems, such as      Methods
+destructive fishing practices and sedimentation (Smith et al.
+2019a) and thermal stress (Smith et al. 2016b). Although          Site selection
+coral tissue regeneration and lesion recovery has been exten-
+sively studied for shallow water reefs, the effect of increased   Corals were sampled at 7 different locations of varying
+depth on tissue recovery has only recently been investigated      depths from 13 to 41 m depth, previously identified by
+(Counsell et al. 2019). Mesophotic coral stress response and      the Territorial Coral Reef Monitoring Program (TCRMP).
+recovery from stress has not been effectively studied (Smith      To decrease the likelihood of coastal or other site-specific
+et al. 2019a).                                                    influences, all locations were located offshore from Saint
+    Many stony coral species have depth ranges that extend        Thomas, US Virgin Islands. In addition to a previously
+from shallow to mesophotic depths (Carpenter et al. 2008;         established TCRMP site at South Capella at 23 m depth,
+Laverick et al. 2018; 2019), and calcifying corals have been      a new site in the nearby area was sampled separately as an
+shown to alter skeletal structure to optimize light capture       additional (8th) site for this study. The new second South
+to the environment (Terán et al. 2010). In the Caribbean          Capella site (referred to as “South Capella (deep)”) was
+over 50% of shallow water coral species occur deeper than         located in a deeper part of the reef in this same location
+30 m (Laverick et al. 2018). Two important reef-building          (35 m). Collectively, these sites encompass the complete
+coral species- the sheeting scroll coral Agaricia lamarcki        overlapping depth range of the two species, with the four
+and massive boulder star coral Orbicella franksi- can be          deepest sites considered traditionally upper mesophotic
+found in both shallow and mesophotic depths, though each          (30–45 m depth), and the four shallowest sites considered
+has distinct depth distributions across this range. O. franksi    shallow reefs (< 30 m depth). While A. lamarcki has been
+can be found as shallow as 3 m depth and as deep as 45 m,         observed and even dominates in areas deeper than 41 m, O.
+and often is the dominant reef-building species in the upper      franksi could not be sampled at these deeper depths due to
+mesophotic (30–45 m) (Smith et al. 2010; Egan et al. 2021).       low occurrence. All sites except the newly established deep
+By contrast A. lamarcki persists across a much wider depth        site at South Capella have been monitored for coral health,
+range than O. franksi, occurring as shallow as 10 m and as        diversity, and fish diversity annually since at least 2005. All
+deep as 80 m, notably to depths where many other scler-           data is publicly available at http://​usvi-​tcrmp.​com/ (See Sup-
+actinian coral species are light-limited and cannot persist       plemental Figure S1 and Supplemental Table S1 for site and
+(Laverick, et al. 2017). The ability of A. lamarcki to act        sampling day information).
+as a depth-generalist has largely been attributed to pairing
+with depth-specialized symbionts and increased use of het-        Site monitoring
+erotrophic feeding to maintain similar growth rates across
+its entire vertical range (Bongaerts et al. 2013; 2015; Cran-     All sites were continuously monitored for seawater tempera-
+dall et al. 2016). As Agariciid species can maintain growth       ture using in situ subsurface temperature recorders (STRs)
+(Bongaerts et al. 2015), they are more likely to maintain         (HOBO Water Temp Pro v2, Onset Computer Corp., Bourne,
+recovery rates across their entire depth range. As a result,      MA). Probes have monitored temperature continuously at
+
+
+13
+Coral Reefs (2023) 42:1067–1077                                                                                            1069
+
+15 min intervals at the research sites since 2010, with all      apparent old mortality), and a photo was taken of the colony
+data publicly reported annually online (accessed Septem-         surface facing downward using a Canon G1X camera under
+ber 2018 at http://​usvi-​tcrmp.​com/). These data were gath-    ambient light. Using a small chisel or flathead screwdriver
+ered and analyzed during the exact period of study at each       to mimic physical damage, a single circle of tissue approxi-
+location (For a full list of the precise study window of each    mately 2.5 cm-diameter was removed from the center of the
+location, see Supplemental Table S1). Temperature charac-        colony facing directly upwards. Particular care was taken to
+teristics at each site were calculated as daily average, daily   only remove tissue, with as little skeletal damage as practi-
+maximum, daily minimum, and daily standard deviation             cable. While lesion generation methodology was intended
+(summarized in Supplemental Tables S1–S3).                       to constrain lesions to a constant size, actual lesion areas
+   Water movement in the form of wave energy or benthic          ranged from 1.58cm2 to 7.00cm2. Precise lesion areas were
+orbital velocity at each site was determined using a Simu-       later determined using scaled photos (explained in detail
+lated Waves Nearshore (SWAN) grid model reconfigured             below) and factored directly into analyses (see “Statistical
+by the Caribbean Coastal Ocean Observation System (Cari-         Analysis”). Removed tissue in lesion generation was retained
+COOS) for the US Virgin Islands, which calculated daily          for later symbiont genotypic analysis. A second photo was
+wave height, period, and wavelength for the closest SWAN         then taken of the inflicted area following lesion generation.
+grid area for each location during the sampling period (Booij    Colonies were then left on the reef to recover and revis-
+et al. 1999). Two study locations, Buck Island and Flat Cay,     ited approximately every 30 d for 120 d following initial
+were within the land-masked region in the original SWAN          lesion generation (see exact dates of sampling in Supplement
+grid, and instead used a bilinear interpolation scheme to        Table S1). To assess differences in recovery rates through
+estimate the values at these locations based on the nearest      time recovery was calculated both between each sampling
+corresponding SWAN grid points. Modeled and interpolated         point and across the entire observation period. Colonies
+wave energy, subsequently, was translated to benthic orbital     were re-photographed with a standardized scale bar until
+velocities (u) experienced by the corals at depth using linear   the end of sampling, the coral colony marker was lost, or the
+wave theory (Smith et al. 2016a), given as                       coral appeared completely healed.
+      H
+                                                                     Lesion photos were imported and analyzed in Fiji, a mod-
+                                                                 ified version of ImageJ2, a Java-based open-source image
+      2
+        ∗gTp
+        L
+           ∗1
+u=       ( )                                              (1)    processing program. Using the polygon selection tool, a
+     cosh 2𝜋d
+           L                                                     unique polygon was manually drawn around the apparent
+                                                                 lesion during each sampling point. Because of the variable
+where d is the local water depth at the study site, H is the     nature of the lesion generation, initial lesions were variable
+significant wave height, Tp is the peak wave period, and         in size and shape. Lesion area and perimeter were calcu-
+L is the local wavelength corresponding to the peak wave         lated manually using the polygon selection tool and a scale
+period and the local water depth. Similar to temperature, the    bar placed in each photo. Lesion recovery was then meas-
+wave energy environment was fully characterized using daily      ured three different ways to ensure recovery was accurately
+maximum, minimum, average, and standard deviations of            assessed. While linear extension of tissue is the standard
+calculated benthic orbital velocities for each location during   method for measuring tissue movement in whole coral colo-
+the study period. For minimum benthic orbital velocity, the      nies, extension is highly variable in small, enclosing lesions.
+smallest calculated nonzero value was used for analysis (see     Instead, assessments of change in planar area capture any
+Supplemental Tables S1–S3).                                      tissue recovery that occurred between observation periods
+                                                                 (see Fig. 1).
+Coral tissue lesion assessment                                       The first metric assessed the decrease in size of the bare
+                                                                 lesion area, considered the tissue regeneration rate (TRR).
+Lesion generation methodology replicated coral laceration        Lesions were manually re-traced in scaled photos at each
+regeneration assay methodology used in Sabine et al (2015),      timepoint using the polygon selection tool and measured
+and developed in NOAA’s Coral Disease & Health Con-              for actual area in ­cm2. The difference in area between these
+sortium (NOAA 2016). Moving out in a random direction            traces and the measured initial lesion area was considered
+from a haphazardly placed marker at each site, colonies of       the amount of regenerated or recovered tissue. Considering
+O. franksi and A. lamarcki (n = 3 for each species at each       the variability in initial lesion size, a second recovery met-
+site) greater than 10 cm in max diameter were identified and     ric that removed the effect of lesion size was used. Lesion
+tagged using a cork tied to substrate using biodegradable        Closure Rate (LCR) measured the change in re-drawn poly-
+twine. All colonies were upright, healthy, with no visible       gon areas as a relative proportion to the area of the original
+signs of bleaching or impaired health. After tagging, colo-      lesion. LCR was reported as a percentage (%) of the original
+nies were sized by length, width, and height (including any      lesion size per day.
+
+
+                                                                                                                     13
+1070                                                                                                       Coral Reefs (2023) 42:1067–1077
+
+
+
+
+Fig. 1  Sample images of lesion generation and recovery on an O.        image depict the approximate lesion boundaries, used for determin-
+franksi individual (a–d), and an A. lamarcki individual e–h through     ing TRR and LCR. White polygons indicate the original lesion area
+time. The first image in each series (a, e) contains an image of the    across the time series, used to measure average grayscale value of the
+lesion generated by the researchers with a scale bar. The second        lesioned area through time. Second white polygons of the same size
+image in each series (b, f) is the same image that has been scaled to   and shape are added to measure average grayscale value of healthy
+black and white according to the parameters of healthy tissue and       tissue of the same area, which is then compared to the lesion area for
+lesioned tissue. Subsequent images (c–d, g–h) depict the same coral     relative difference in lesion pigment level compared to healthy tissue
+individuals as lesions recover through time. Red polygons in the
+
+
+
+   Finally, in addition to changes in lesion area, a novel              between the two grayscale values (the lesioned area and the
+method of lesion observation used pigmentation as a metric              healthy area of the same size/shape) was considered the
+for return of healthy tissue to the lesioned area. Following            proportional difference between the lesion and healthy tis-
+lesion generation and tracing of the lesion using the polygon           sue in terms of tissue pigment. This process was repeated
+selection tool, the grayscale of the image was standardized             using the same initial lesion trace at each observation stage,
+with the eyedropper tool such that pixels with healthy tissue           and the change in proportion between healthy tissue and the
+were fully black (color scale 255) and pixels without tis-              lesioned area considered the rate that healthy tissue pigment
+sue were fully white (color scale 0). Once standardized, the            returned to the lesioned area. As this value was similarly
+average grayscale value of color present within the traced              relative to the unique lesion on each coral, lesion size and
+lesion area was measured using the measure tool. At the                 shape is accounted for in the recovery metric. This technique
+same time, the lesion trace was duplicated and translocated             in particular accounted for observations of healthy tissue
+to an area adjacent to the lesion with entirely healthy tissue,         pigment returning to the middle of lesions, or instances
+where an average grayscale value of color present within the            where lesioned polyps appeared partially recovered but not
+drawn area was also measured. The proportional difference               fully pigmented for extended periods. Algal colonization
+
+
+13
+Coral Reefs (2023) 42:1067–1077                                                                                            1071
+
+was not observed on any lesions during the study period          significant differences in model fit using a Wald’s Chi-square
+and therefore did not impact pigmentation sampling. All          comparison.
+calculated recovery rates are summarized in Supplemental            A three-way beta-distribution analysis of all recovery
+Tables (S4–S7).                                                  metrics (TRR, LCR, PRR) determined that due to differ-
+   Calculated recovery rates were then compared in indi-         ences in variability of each metric, spherical homoscedas-
+vidual models against the noted depth for each individual        city could not be achieved for a parametric assessment.
+to determine the effect of increased depth on the rate of        Therefore, a three-factor permutational analysis of variance
+recovery from lesions. Recovery rates were also modeled          (PERMANOVA) was used to assess overall differences for
+with measured and calculated environmental parameters            all recovery rates across the factors of species, reef depth
+(temperature and benthic orbital velocity regimes), as well      zone (above 30 m depth as shallow vs. over 30 m depth as
+as individual colony characteristics (colony size and initial    mesophotic), and sampling point.
+lesion size).                                                       Statistical analysis was completed using R version 3.5.2.
+                                                                 Data importation and manipulation in R was completed
+                                                                 using the stringr, dplyr, plyr, ncdf4, and naniar packages.
+DNA extraction and amplification of Symbiodiniaceae
+                                                                 Multivariate analyses were completed using the vegan pack-
+                                                                 age. Multiple regression models were generated and tested
+For each lesioned colony, all tissue removed because of the
+                                                                 using the stats package. Figures were generated using the
+experimental lesion process was then collected and pre-
+                                                                 ggplot2, grid, gridExtra, and ggrepel packages.
+served in ethanol within 4 h of collection. From this tissue,
+the genetic relatedness of the symbionts present was ana-
+lyzed using a PSB minicircle amplification technique. Zoox-
+                                                                 Results
+anthellae DNA was isolated using DNA Isolation Buffer in a
+microcentrifuge tube and resuspended with sodium dodecyl
+                                                                 Orbicella franksi lesion recovery
+sulfate (SDS) and heated to 65 °C for 30–60 min. Samples
+were then heated to 45 °C in the presence of Proteinase K
+                                                                 O. franksi recovery models are summarized in Table 1.
+for 6 h. If needed, the lysates were then chloroform-extracted
+                                                                 Modeled TRR decreased significantly as depth increased
+once, phenol-extracted twice, and precipitated in ethanol at
+                                                                 (r2 = 0.408, p = 0.019), with no significant change to model
+−20 °C. Precipitates were resuspended in 0.3 M sodium ace-
+                                                                 fit with the addition of any variables (p = 0.196), nor were
+tate, precipitated again with ethanol, and then resuspended
+                                                                 any additional variables significantly associated with TRR.
+in water and stored −20 °C. The chloroplast minicircle plas-
+                                                                 Specifically, corals at mesophotic depths either failed to
+mid from each zooxanthellae was then amplified using a
+                                                                 show lesion recovery or saw increased lesion size after
+polymerase chain reaction (PCR) and when needed further
+                                                                 lesion generation (negative regeneration slopes), whereas
+cleaned using Exosap. The product was then submitted for
+                                                                 most colonies at shallower depth (78%) showed lesioned
+sequencing and analyzed using Molecular Evolutionary
+                                                                 tissue regeneration (Fig. 2). LCR and PRR had no significant
+Genetic Analysis (MEGA). Successful sequences were then
+                                                                 relationship with increased depth (r2 = 0.025, p = 0.563 and
+identified using the Blastn database.
+                                                                 r2 = 0.241, p = 0.105, respectively), nor was either model fit
+                                                                 significantly increased with the addition of any physical or
+Statistical analysis                                             biological parameters. Of the 24 corals sampled, symbionts
+                                                                 from 9 individuals (3 from mesophotic sites, 6 from shallow
+To explore the direct relationships for each recovery met-       water sites) were successfully sequenced and all identified
+ric and increased depth, multiple linear regression models       as Cladocopium goreaui.
+were built for each species. Models were generated for each
+recovery metric first considering all measured random vari-      Agaricia lamarcki lesion recovery
+ables: temperature regime, benthic orbital velocity regime,
+colony size, and initial lesion size. Saturated models were      A. lamarcki recovery models are summarized in Table 2.
+then compared to “null” models of standard linear regres-        Modeled TRR and LCR were not affected by changes in
+sions of each recovery metric and depth alone using a Wald’s     depth. All colonies regardless of depth showed regenera-
+Chi-square comparison to assess for significantly increased      tion of tissue and lesion closure (Fig. 2). Multiple regression
+model fit with additional terms. Nonsignificant terms in each    with additional variables significantly increased model fit
+of the saturated models were then removed for new multiple       for TRR (Wald’s Chi-square comparison p = 0.013), specifi-
+regression models for each recovery metric, considered “fit-     cally with the addition of initial lesion size (p = 0.001), and
+ted” models. The fitted models were additionally compared        coral colony size (p = 0.024) in the saturated model, with no
+to both the respective null models and saturated models for      relationship between either recovery metric and depth. The
+
+
+                                                                                                                     13
+1072                                                                                                            Coral Reefs (2023) 42:1067–1077
+
+Table 1  Slope, significant terms and r2 value of all linear regressions tested for O. franksi
+Orbicella franksi recovery model summaries
+Recovery metric                          Model type       r2 value      Model p-value       Significant terms   Term p-value     Slope of terms
+
+Tissue regeneration rate (TRR)          Null              0.408      0.019                  Depth                                −0.0007
+                                        Saturated         0.890      0.097                  None
+                                        Fitted            N/A- No additional terms
+Lesion closure rate (LCR)               Null              0.025      0.563                  None
+                                        Saturated         0.785      0.071                  None
+                                        Fitted            N/A- No additional terms
+Pigmentation recovery rate (PRR)        Null              0.241      0.105                  None
+                                        Saturated         0.842      0.307                  None
+                                        Fitted            N/A- No additional terms
+
+ Only the null model for TRR had any significant relationship between depth and recovery. None of the physical or environmental parameters
+that were assessed significantly impacted O. franksi lesion recovery
+Significant regressions (model p-value < 0.05) indicated in bold
+
+
+resulting fitted model of TRR with depth, colony size, and                    timepoints (p = 0.0002). O. franksi recovery rates overall had
+lesion size significantly increased model fit compared to the                 increased variability at mesophotic locations (p = 0.0002)
+null model (multiple r2 = 0.68, adjusted p = 0.003, Wald’s                    but no difference in variability through time (p = 0.1056)
+chi-square comparison of null and fitted models p = 0.002).                   (See Figures S2–S3). PERMANOVA multivariate compari-
+In the fitted model, only increased initial lesion size sig-                  son of lesion recovery variables across species, depth cate-
+nificantly increased TRR (slope = 0.00917, p = 0.002). LCR                    gory, and timepoint revealed significant differences between
+had a significantly improved model in the saturated model                     the recovery centroids of the two species (p = 0.001, permu-
+(Wald’s Chi-square comparison p = 0.002), specifically                        tations = 999), but not across depth category (p = 0.837) or
+with the significantly positive relationship between LCR                      timepoint (p = 0.115) overall, with no significant interactive
+and coral colony size (p = 0.002, slope = 0.000245). How-                     terms.
+ever, isolating depth and coral colony size in a fitted model
+yielded no significant relationships and the model did not
+significantly improve in fit from the null model, suggest-                    Discussion
+ing that any relationship between colony size and LCR may
+have been a relic of oversaturation of terms in the saturated                 The differences in recovery rates between each species
+model.                                                                        were greater than any intraspecific differences across depth
+   In contrast, PRR for A. lamarcki did have a significant                    category or stage of recovery. Contrasting recovery trends,
+positive relationship with depth (r2 = 0.38, p = 0.006). Com-                 observed differences in recovery strategies, and overall vari-
+pared to O. franksi, A. lamarcki recovery rates were only                     ability in both shallow sites and MCE sites display the need
+near zero or negative for certain individuals in shallow water                for each species to be discussed separately and distinctly to
+sites, rather than at mesophotic depths. Corals from meso-                    understand their relationship with depth and recovery ability.
+photic locations had some of the highest observed PRR val-                       For A. lamarcki there was no major change in tissue
+ues, suggesting that increased depth ultimately benefitted                    regeneration or lesion closure that was directly associ-
+pigmentation recovery. There was no significant change in                     ated with changing depth, however there was a significant
+model fit with the addition of any other variables. Of the 24                 increase in pigmentation recovery rate with depth. It is
+coral symbiont samples, only four A. lamarcki (one from                       important to note that this study range does not include the
+each mesophotic location- Hind Bank, Grammanik Bank,                          maximum depths for A. lamarcki, which has been observed
+College Shoal, and one from the deepest shallow site- South                   over 60 m deep in the wider Caribbean (Laverick et al. 2017)
+Capella Shallow) successfully sequenced and all symbionts                     and as deep as 80 m in the USVI (Smith et al. 2015). Noted
+were identified as C. goreaui.                                                in this study and others, A. lamarcki maintains thin, plat-
+   Beta-distribution analyses found no overall differences                    ing morphology across its depth range. In shallower depths,
+in any lesion recovery metric variances between species                       colonies were found in shaded areas and hidden away from
+(p = 0.508) but indicated greater variability for A. lamarcki                 direct light, while in deeper environments colonies were
+in shallow sites compared with sites in mesophotic depths                     unshaded and oriented upwards (Helmuth and Sebens
+(p = 0.0405) and during initial recovery compared to later                    1993; Smith et al. 2010). Laverick et al. (2017) noted that
+
+
+13
+Coral Reefs (2023) 42:1067–1077                                                                                                          1073
+
+
+
+
+Fig. 2  Tissue regeneration rates, lesion closure rates, and pigmenta-   best-fit regression modeling outputs. For both points and lines, blue
+tion recovery rates for O. franksi individuals (top) and A. lamarcki     represents individuals in shallow water, red represents individuals in
+individuals (bottom). Points indicate actual values, lines indicate      MCEs. For clarity, only significant regression lines are included
+
+
+
+while many species may span shallow to mesophotic depths,                Laverick et al. (2019). Differences in physical properties at
+depth-generalist species like A. lamarcki may be less abun-              the colony scale were not assessed in this study but would be
+dant as depth decreases. While these species may survive in              an important follow up to better assess the direct relationship
+shallower environments, they are possibly limited to areas               of coral recovery to the physical environment.
+of similar physical conditions as the upper mesophotic such                 The depth range of this study did encompass the near-
+as under ledges due to competitive exclusion (Darling et al.             complete habitat range of O. franksi, a primary reef-building
+2012) or excess light or wave energy (Dollar 1982). The                  species less likely to occupy cryptic microhabitats (Carpen-
+physical environment resulting from selective placement                  ter et al. 2008; Smith et al. 2015). The significant decline in
+on the reef may therefore result in recovery rates and other             TRR as depth increased suggests that some characteristic of
+physiological properties that are comparable to rates seen               depth itself, such as light reduction, reduces this recovery
+with deeper conspecifics. The overall higher variability of              rate for this species. Previous studies of O. franksi and other
+recovery rates of A. lamarcki in shallow water reef sites may            Orbicella species found declines in physiological function
+be due to these minute differences in the surrounding envi-              at the deeper end of this depth range, such as reductions to
+ronment of the colony itself, similar to the observations of             skeletal growth, calcification, and seasonal energy reserves
+
+
+                                                                                                                                   13
+1074                                                                                                             Coral Reefs (2023) 42:1067–1077
+
+Table 2  Slope, significant terms and r2 value of all linear regressions tested for A. lamarcki
+Agaricia lamarcki recovery model summaries
+Recovery metric                         Model type       r2 value     Model p-value        Significant terms     Term p-value     Slope of terms
+
+Tissue regeneration rate(TRR)           Null             0.122        0.186                None
+                                        Saturated        0.980        0.001                Initial lesion Size   0.001            0.007646
+                                                                                           Coral colony Size     0.024            0.000009
+                                        Fitted           0.683      0.003                  Initial lesion Size   0.002            0.009170
+Lesion closure rate (LCR)               Null             0.138      0.086                  None
+                                        Saturated        0.979      0.002                  Coral colony Size     0.002            0.000245
+                                        Fitted           0.210      0.216                  None
+Pigmentation recovery rate (PRR)        Null             0.424      0.006                  Depth                                  0.015
+                                        Saturated        0.663      0.544                  None
+                                        Fitted           N/A- No additional terms
+
+Significant regressions (model p-value < 0.05) indicated in bold
+
+
+(Brandtneris et al. 2016; Groves et al. 2018; Weinstein et al.                wave energy) were recorded during the study time period,
+2016). In addition, O. franksi may undergo mass mortality                     these environmental parameters therefore do not directly
+from intercostal mortality syndrome at its deepest observed                   relate to recovery physiology and ability outside of stress
+depths, a contraction of stressed tissue likely resulting from                events. Of the measured biological factors, only larger
+energy production and acquisition that is lower than meta-                    lesion size increased A. lamarcki TRR. This effect was not
+bolic demands (Smith et al. 2010). Therefore, the O. franksi                  documented in O. franksi, likely due to the overall higher
+depth limit may be driven by lack of available carbon from                    variability in recovery rates. In considering recovery as
+photosymbionts, which also leads to a notable shift in O.                     a relative proportion to lesion size (LCR and PRR), A.
+franksi morphology at depth to flat, light oriented plates                    lamarcki recovery rates were constant across the different
+as the depth limit is reached (Cairns 1982; Dustan 1975;                      sized lesions, only increasing PRR with depth alone. This
+Lajeunesse et al. 2018; Todd 2008). In shallow water, O.                      indicates that variability in lesion size (and importantly,
+franksi is found as a mounding colony in depths as shallow                    perimeter) may affect the area of tissue that can be regen-
+as 5 m (Carpenter et al. 2008; Smith et al. 2015), suggesting                 erated at a given time. The effect of lesion size on recovery
+that this species has physiological capacity for environmen-                  has been previously documented in other studies of lesion
+tal conditions associated with shallow reefs, such as higher                  recovery (Meesters et al. 1996; Oren et al. 1997), but never
+light, temperature, and wave energy (Lesser et al. 2009).                     at the scale of larger lesioned wounds, which require more
+   Observable differences in recovery strategy may also help                  time to fully heal.
+explain some of the increased variability in all three recov-                     Other factors not assessed in this study likely exerted a
+ery rates for O. franksi individuals sampled in mesophotic                    strong influence on coral recovery, as indicated by the high
+depths. On some O. franksi individuals at deeper sites, coral                 variability in lesion recovery rates. These could include dif-
+polyps recolonized but remained only partially pigmented                      ferences in genetics, heterotrophy, or even symbiont diver-
+for an extended period, a common visual defining trait of                     sity, which were not fully assessed in this study. Differences
+O. franksi. As a result, rates of lesion closure and rates of                 in life history traits for each species, such as timing with
+healthy pigment recovery varied greatly from individual to                    spawning seasons, may have affected overall energy alloca-
+individual within MCE sites, as some lesions closed quickly                   tion and possibly reduced recovery rates in each species.
+with reduced pigmentation while others closed slowly with                     Based on predicted spawning times in the Caribbean and
+pigmentation filling in lesion. Both the highest and low-                     USVI, it is likely that this study was conducted during or
+est LCR and PRR rates observed were at the deepest sites,                     immediately prior to O. franksi spawning in the late summer
+where TRR was lowest. This consistent decline of TRR with                     (Holstein et al. 2015; Szmant 1986) and during or following
+increased depth suggests that while strategies in recovery                    estimated spring spawning of A. lamarcki (Richmond and
+may vary, the overall energetic input available to O. franksi                 Hunter 1990; van Moorsel 1983). Brandtneris et al. (2016)
+individuals (and tissue ultimately created) continuously                      noted reduced energy reserves for A. lamarcki in July and O.
+declines as depth increases.                                                  faveolata in September (both during this study period) spe-
+   Temperature and benthic orbital velocity regimes                           cifically in MCE populations, suggesting that energy avail-
+exerted no significant influence on any recovery met-                         ability for recovery could have been reduced for both species
+ric for either species. As no anomalies (temperature or                       in this time specifically for individuals at mesophotic depths.
+
+
+13
+Coral Reefs (2023) 42:1067–1077                                                                                                                1075
+
+   Variability of lesion recovery rates between O. franksi                 Masters of Marine and Environmental Sciences cohort of 2017, as well
+and A. lamarcki observed between the two depth zones                       as family, dear friends, and pets who have all supported the comple-
+                                                                           tion of this work whenever and however possible. All views expressed
+suggests species-specific depth physiology, such as altered                are those of the authors and do not necessarily reflect the views of the
+skeletal morphology and energy availability (Enríquez et al.               granting agencies and support personnel. This is contribution 262 from
+2005; Terán et al. 2010), plays a key role in differing recov-             the Center for Marine and Environmental Science, University of the
+ery ability in shallow and mesophotic zones. This study                    Virgin Islands
+identified direct relationships of depth to recovery rate for
+                                                                           Author contributions All authors contributed to the study concep-
+both species, and use of a traditional 30 m-depth habitat dis-             tion and design. Material preparation, field data collection were com-
+tinction did not significantly match observed recovery trends              pleted by JET and TBS. Computational data collection was completed
+for either species. Collectively, this reinforces that character-          by SM. Data analysis was performed by JET and MB. The first draft
+izing mesophotic habitats using distinct depth limits is over-             of the manuscript was written by JET and all authors commented on
+                                                                           previous versions of the manuscript. All authors read and approved
+all a poor descriptor for understanding coral physiology, as               the final manuscript.
+compared to applying the effect of depth as a gradient. This
+could be further corroborated by other studies’ more recent
+use of shifted environmental parameters or even ecological
+shifts, to better define the start of the mesophotic (Laverick             Funding This work was funded by the US Virgin Islands Territorial
+et al. 2019; Lesser et al. 2009).                                          Coral Reef Monitoring Program (GC021PNR15/NA17NOS4820033),
+                                                                           the Black Coral Penalty Fund, the Wottowa Fund, the Lana Vento
+   Observed effects of depth on tissue regeneration rate for               Charitable Trust, the NSF INCLUDES Supporting Emerging Aquatic
+O. franksi indicate that individuals in MCEs may be less                   Scientists (SEAS) Islands Alliance (NSF Award #1930991), and the VI
+resilient to stress events. Historically these deep reefs have             Established Program to Stimulate Competitive Research (NSF Award
+been shown to be more sensitive to certain stress events,                  #1355437).
+such as exhibiting higher disease prevalence (Chaves-Fonne-
+                                                                           Data availability All DNA sequence data collected during this study
+gra et al. 2021), and lowered thermal thresholds and higher                is available in Genbank. Remaining datasets generated and analyzed
+sensitivity to thermal stress (Smith et al. 2016b, 2019a, b).              during the current study are included in this publication [and its sup-
+Despite having high coral cover, MCEs dominated by O.                      plementary information files.
+franksi may be slower to recover from acute stress events,
+                                                                           Declarations
+a particular concern as stony coral tissue loss disease con-
+tinues to affect shallow and mesophotic reefs in the USVI
+                                                                           Conflict of interest The authors have no relevant financial or non-
+and across the Caribbean region (Brandt et al. 2021). Over-                financial interests to disclose. On behalf of all authors, the correspond-
+all, this may increase the risk of continuous decline from                 ing author states that there is no conflict of interest.
+repeated or ongoing events. By contrast, upper MCEs may
+serve as an important depth refugia for more resilient A.
+lamarcki populations, shielding the species from some
+shallow water stressors such as excess light, anomalous                    References
+wave events, and ecological competition, with consistent
+or increased recovery following stress events. Considered                  Bongaerts P, Frade PR, Ogier JJ, Hay KB, Van Bleijswijk J, Engle-
+together, while both species are prevalent throughout the                      bert N, Hoegh-Guldberg O (2013) Sharing the slope: depth
+                                                                               partitioning of agariciid corals and associated Symbiodinium
+depth range of this study, O. franksi populations at depth                     across shallow and mesophotic habitats (2–60 m) on a Carib-
+may be less resilient than A. lamarcki populations in the                      bean reef. BMC Evolutionary Biology. https://​doi.​org/​10.​1186/​
+face of increasing frequency and severity of stress events.                    1471-​2148-​13-​205
+The continual need to recover from stress events, regardless               Bongaerts P, Frade PR, Hay KB, Englebert N, Latijnhouwers KRW,
+                                                                               Bak RPM, Vermeij MJA, Hoegh-Guldberg O (2015) Deep down
+of depth, will be a key consideration in shaping the reefs of                  on a Caribbean reef: Lower mesophotic depths harbor a special-
+the future.                                                                    ized coral-endosymbiont community. Scientific Reports. https://​
+                                                                               doi.​org/​10.​1038/​srep0​7652
+Acknowledgements The authors would like to acknowledge the                 Booij N, Ris RC, Holthuijsen LH (1999) A third-generation wave
+funding support from the following entities: The National Oceanic              model for coastal regions, Part I, model description and valida-
+and Atmospheric Administration (NOAA), The Black Coral Penalty                 tion. Journal of Geophysical Research C4(104):7649–7666
+Fund, the Wottowa Fund, the Lana Vento Charitable Trust, and The           Brandt ME, Ennis RS, Meiling SS, Townsend J, Cobleigh K, Glahn
+National Science Foundation. The authors would like to acknowledge             A, Quetel J, Brandtneris V, Henderson LM, Smith TB (2021) The
+the contribution and efforts by members of the Smith Lab for comple-           emergence and initial impact of stony coral tissue loss disease
+tion of fieldwork: Kyle Jerris, Rosmin Ennis, Viktor Brandtneris, Sarah        (SCTLD) in the United States Virgin Islands. Frontiers in Marine
+Heidmann, and Kristen Ewen. The authors would also like to acknowl-            Science 8:715329. https://​doi.​org/​10.​3389/​fmars.​2021.​715329
+edge members of the Baums lab and Lajeunesse lab for their assistance      Cairns SD (1982) Stony corals (Cnidaria: Hydrozoa, Scleractinia) of
+and insight into laboratory analysis and technique. Additionally authors       Carrie Bow Cay, Belize. Smithsonian Contributions to the Marine
+acknowledge the support from the University of the Virgin Islands              Sciences. https://​doi.​org/​10.​1002/​iroh.​19840​690135
+
+
+
+                                                                                                                                        13
+1076                                                                                                                    Coral Reefs (2023) 42:1067–1077
+
+Carilli J, Donner SD, Hartmann AC (2012) Historical temperature vari-            Henry L-A, Hart M (2005) Regeneration from Injury and resource
+     ability affects coral response to heat stress. PLoS ONE 7(3):1–9.               allocation in sponges and corals—a Review. Internaltional
+     https://​doi.​org/​10.​1371/​journ​al.​pone.​00344​18                           Review of Hydrobiology 90(2):125–158. https://​d oi.​o rg/​1 0.​
+Carpenter KE, Abrar M, Aeby G, Aronson RB, Banks S, Bruckner                         1002/​iroh.​20041​0759
+     A, Chiriboga A, Cortes J, Delbeek CJ, DeVantier L, Edgar GJ,                Hinderstein LM, Marr JCA, Martinez FA, Dowgiallo MJ, Puglise
+     Edwards AJ, Fenner D, Guzman HM, Hoeksema BW, Hodgson                           KA, Pyle RL, Zawada DG, Appeldoorn R (2010) Theme section
+     G, Johan O, Licuanan WY, Livingstone SR, Lovell ER, Moore                       on “Mesophotic Coral Ecosystems: Characterization Ecology
+     JA, Obura DO, Ochavillo D, Palidoro BA, Precht WF, Quibilan                     and Management”. Coral Reefs 29(2):247–251. https://​doi.​org/​
+     MC, Reboton C, Richards ZT, Rogers AR, Sanciango J, Sheppard                    10.​1007/​s00338-​010-​0614-5
+     A, Sheppard C, Smith J, Stuart S, Turak E, Veron JEN, Wallace               Hoegh-Guldberg O, Mumby PJ, Hooten AJ, Steneck RS, Greenfield
+     C, Weil E, Wood E (2008) One-third of reef-building corals face                 P, Gomez E, Hatziolos ME (2007) Coral reefs under rapid cli-
+     elevated extinction risk from climate change and local impacts.                 mate change and ocean acidification. Science 318(5857):1737–
+     Science 321(5888):560–563. https://​doi.​org/​10.​1126/​scien​ce.​              1742. https://​doi.​org/​10.​1126/​scien​ce.​11525​09
+     11591​96                                                                    Holstein DM, Paris CB, Vaz AC, Smith TB (2016) Modeling ver-
+Chaves-Fonnegra A, Panassiti B, Smith TB, Brown E, Clemens E,                        tical coral connectivity and mesophotic refugia. Coral Reefs
+     Sevier M, Brandt ME (2021) Environmental and biological drivers                 35(1):23–37. https://​doi.​org/​10.​1007/​s00338-​015-​1339-2
+     of white plague disease on shallow and mesophotic coral reefs.              Kramarsky-Winter, E, Loya Y (2000) Tissue regeneration in the coral
+     Ecography. https://​doi.​org/​10.​1111/​ecog.​05527                             Fungia granulosa: the effect of extrinsic and intrinsic factors.
+Counsell CWW, Johnston EC, Sale TL (2019) Colony size and depth                      Marine Biology 867–873. Retrieved from http://link.springer.
+     affect wound repair in a branching coral. Marine Biology. https://​             com/article/https://​doi.​org/​10.​1007/​s0022​70000​416
+     doi.​org/​10.​1007/​s00227-​019-​3601-6                                     Laverick JH, Andradi-Brown DA, Rogers AD (2017) Using light-
+Crandall JB, Teece MA, Estes BA, Manfrino C, Ciesla JH (2016)                        dependent scleractinia to define the upper boundary of meso-
+     Nutrient acquisition strategies in mesophotic hard corals using                 photic coral ecosystems on the reefs of Utila Honduras. PLOS
+     compound specific stable isotope analysis of sterols. Journal of                ONE 12(8):e0183075. https://​d oi.​o rg/​1 0.​1 371/​j ourn​a l.​p one.​
+     Experimental Marine Biology and Ecology 474:133–141. https://​                  01830​75
+     doi.​org/​10.​1016/j.​jembe.​2015.​10.​010                                  Laverick JH, Piango S, Andradi-Brown DA, Exton DA, Bongaerts
+Darling ES, Alvarez-Filip L, Oliver TA, McClanahan TR, Côté IM                       P, Bridge TCL, Lesser MP, Pyle RL, Slattery M, Wagner D,
+     (2012) Evaluating life-history strategies of reef corals from spe-              Rogers AD (2018) To what extent do mesophotic coral ecosys-
+     cies traits. Ecology Letters 15:1378–1386. https://​doi.​org/​10.​              tems and shallow reefs share species of conservation interest?
+     1111/j.​1461-​0248.​2012.​01861.x                                               A systematic review. Environmental Evidence 7:15
+Dollar SJ (1982) Wave stress and coral community structure in Hawaii.            Laverick JH, Green TK, Burdett HL, Newton J, Rogers AD (2019)
+     Coral Reefs 1(2):71–81                                                          Depth alone is an inappropriate proxy for physiological
+Dustan P (1975) Growth and form in the reef-building coral Montas-                   change in the mesophotic coral Agaricia lamarcki. Journal
+     trea annularis. Marine Biology 33(2):101–107. https://​doi.​org/​10.​           of the Marine Biological Association of the United Kingdom
+     1007/​BF003​90714                                                               99(7):1535–1546. https://​doi.​org/​10.​1017/​S0025​31541​90005​47
+Egan KE, Viehman TS, Holstein DM, Poti M, Groves SH, Smith TB                    Lesser MP, Slattery M, Leichter JJ (2009) Ecology of mesophotic
+     (2021) Predicting the distribution of threatened orbicellid cor-                coral reefs. Journal of Experimental Marine Biology Ecology
+     als in shallow and Mesophotic reef ecosystems. Marine Ecology                   375(1–2):1–8
+     Progress Series 667:61–81. https://​doi.​org/​10.​3354/​meps1​3698          Loya Y (1976) Skeletal regeneration in a Red Sea scleractinian coral
+Enríquez S, Méndez ER, -Prieto, R. I. (2005) Multiple scattering on                  population. Nature 261(5560):490–491
+     coral skeletons enhances light absorption by symbiotic algae.               Lugo-Fernández A, Gravois M (2010) Understanding impacts of
+     Limnology and Oceanography 50(4):1025–1032. https://​doi.​org/​                 tropical storms and hurricanes on submerged bank reefs and
+     10.​4319/​lo.​2005.​50.4.​1025                                                  coral communities in the northwestern Gulf of Mexico. Con-
+Fabricius KE (2005) Effects of terrestrial runoff on the ecology of                  tinental Shelf Research 30(10–11):1226–1240. https://​doi.​org/​
+     corals and coral reefs: review and synthesis. Marine Pollution                  10.​1016/j.​csr.​2010.​03.​014
+     Bulletin 50(2):125–146. https://​doi.​org/​10.​1016/j.​marpo​lbul.​2004.​   Meesters E, Wesseling I, Bak RPM (1996) Partial mortality in three
+     11.​028                                                                         species of reef-building corals and the relation with colony mor-
+Fine M, Oren U, Loya Y (2002) Bleaching effect on regeneration and                   phology. Bulletin of Marine Science 58(3):838–852
+     resource translocation in the coral Oculina patagonica. Marine              Meesters EH, Bak RPM (1993) Effects of coral bleaching on tissue
+     Ecology Progress Series 234:119–125                                             regeneration potential and colony survival. Marine Ecology Pro-
+Fisher EM, Fauth JE, Hallock P, Woodley CM (2007) Lesion regenera-                   gress Series 96(2), 189–198. Retrieved from http://​www.​jstor.​
+     tion rates in reef-building corals Montastraea spp. as indicators               org/​sTable/​24833​544
+     of colony condition. Marine Ecology Progress Series 339:61–71.              Meesters EH, Noordeloos M, Bak RPM (1994) Damage and regen-
+     https://​doi.​org/​10.​3354/​meps3​39061                                        eration: links to growth in the reef-building coral Montastrea
+Groves SH, Holstein DM, Enochs IC, Kolodzeij G, Manzello DP,                         annularis. Marine Ecology Progress Series 112(1/2), 119–128.
+     Brandt ME, Smith TB (2018) Growth rates of Porites astreoides                   Retrieved from http://​www.​jstor.​org.​ezacc​ess.​libra​r ies.​psu.​edu/​
+     and O. franksi in mesophotic habitats surrounding St. Thomas US                 sTable/​24847​643
+     Virgin Islands. Coral Reefs 37:345–354                                      Moberg F, Folke C (1999) Ecological goods and services of coral
+Hall VR (1997) Interspecific differences in the regeneration of artificial           reef ecosystems. Ecological Economics 29(2):215–233. https://​
+     injuries on scleractinian corals. Journal of Experimental Marine                doi.​org/​10.​1016/​S0921-​8009(99)​00009-9
+     Biology and Ecology 212(1):9–23. https://​doi.​org/​10.​1016/​S0022-​       Nagelkerken I, Meesters EH, Bak RPM (1999) Depth-related vari-
+     0981(96)​02760-8                                                                ation in regeneration of artificial lesions in the Caribbean cor-
+Helmuth B, Sebens K (1993) The influence of colony morphology and                    als Porites astreoides and Stephanocoenia michelinii. Journal
+     orientation to flow on particle capture by the scleractinian coral              of Experimental Marine Biology and Ecology 234(1):29–39.
+     Agaricia agaricites (Linnaeus). Journal of Experimental Marine                  https://​doi.​org/​10.​1016/​S0022-​0981(98)​00147-6
+     Biology and Ecology 165(2):251–278
+
+
+13
+Coral Reefs (2023) 42:1067–1077                                                                                                                   1077
+
+NOAA, (2016). “Coral laceration regeneration assay”. Coral disease &           Smith TB, Brandt ME, Brandtneris VW, Ennis RS, Groves SH, Habtes
+     health consortium. https://​cdhc.​noaa.​gov/​educa​tion/​coral_​assay.​       S, Holstein DM, Kadison E, Nemeth RS (2019b) The United
+     aspx. Accessed 16 March 2016                                                  States Virgin Islands. In: Loya Y, Puglise KA, Bridge T (eds)
+Oren U, Benayahu Y, Loya Y (1997) Effect of lesion size and shape                  Coral reefs of the world: mesophotic coral ecosystems. Springer,
+     on regeneration of the red sea coral Faviafavus. Marine Ecology               Berlin
+     Progress Series 146:101–107                                               Smith TB, Ennis RS, Kadison E, Weinstein DW, Jossart J, Gyory J,
+Plaisance L, Caley MJ, Brainard RE, Knowlton N (2011) The diversity                Henderson L (2015) The United States Virgin Islands territorial
+     of coral reefs: What are we missing? PLoS ONE. https://​doi.​org/​            coral reef monitoring program. p. 288 Year 15 Annual Report
+     10.​1371/​journ​al.​pone.​00250​26                                        Szmant AM (1986) Reproductive ecology of Caribbean reef corals.
+Richmond RH, Hunter CL (1990) Reproduction and recruitment of                      Coral Reefs 5(1):43–53
+     corals: comparisons among the Caribbean, the tropical pacific and         Tamir R, Eyal G, Kramer N, Laverick JH, Loya Y (2019) Light envi-
+     the red sea. Marine Ecology Progress Series 60:185–203                        ronment drives the shallow-to-mesophotic coral community tran-
+Ruiz-Diaz CP, Toledo-Hernandez C, Mercado-Molina AE, Pérez ME,                     sition. Ecosphere 10:e02839
+     Sabat AM (2016) The role of coral colony health state in the              Terán E, Méndez ER, Enríquez S, Iglesias-Prieto R (2010) Multiple
+     recovery of lesions. PeerJ 2016(1):1–13. https://​doi.​org/​10.​7717/​        light scattering and absorption in reef-building corals. Applied
+     peerj.​1531                                                                   Optics 49(27):5032–5042. https://​doi.​org/​10.​1364/​AO.​49.​005032
+Sabine AM, Smith TB, Williams DE, Brandt ME (2015) Environmen-                 Todd PA (2008) Morphological plasticity in scleractinian corals. Bio-
+     tal conditions influence tissue regeneration rates in scleractinian           logical Reviews 83(3):315–337. https://​doi.​org/​10.​1111/j.​1469-​
+     corals. Marine Pollution Bulletin 95(1):253–264. https://​doi.​org/​          185X.​2008.​00045.x
+     10.​1016/j.​marpo​lbul.​2015.​04.​006                                     Van Moorsel G (1983) Reproductive strategies in two closely related
+Smith TB, Blondeau J, Nemeth RS, Pittman SJ, Calnan JM, Kadison                    stony corals (Agaricia, Scleractinia). Marine Ecology Progress
+     E, Gass J (2010) Benthic structure and cryptic mortality in a Car-            Series 13:273–283. https://​doi.​org/​10.​3354/​meps0​13273
+     ibbean mesophotic coral reef bank system, the hind bank marine            Weinstein DK, Sharifi A, Klaus JS, Smith TB, Giri SJ, Helmle KP
+     conservation district US Virgin Islands. Coral Reefs 29(2):289–               (2016) Coral growth, bioerosion, and secondary accretion of
+     308. https://​doi.​org/​10.​1007/​s00338-​009-​0575-8                         living orbicellid corals from mesophotic reefs in the US Virgin
+Smith TB, Brandtneris VW, Canals M, Brandt ME, Martens J, Brewer                   Islands. Marine Ecology Progress Series 559:45–63. https://​doi.​
+     RS, Holstein DM (2016a) Potential structuring forces on a shelf               org/​10.​3354/​meps1​1883
+     edge upper mesophotic coral ecosystem in the US Virgin Islands.
+     Frontiers in Marine Science. https://​doi.​org/​10.​3389/​fmars.​2016.​   Publisher’s Note Springer Nature remains neutral with regard to
+     00115                                                                     jurisdictional claims in published maps and institutional affiliations.
+Smith TB, Gyory J, Brandt ME, Miller WJ, Jossart J, Nemeth RS
+     (2016b) Caribbean mesophotic coral ecosystems are unlikely cli-           Springer Nature or its licensor (e.g. a society or other partner) holds
+     mate change refugia. Global Change Biology 22(8):2756–2765.               exclusive rights to this article under a publishing agreement with the
+     https://​doi.​org/​10.​1111/​gcb.​13175                                   author(s) or other rightsholder(s); author self-archiving of the accepted
+Smith TB, Brandt ME, Brandtneris VW, Ennis RS, Groves SH, Habtes               manuscript version of this article is solely governed by the terms of
+     S, Holstein DM, Kadison E, Nemeth RS (2019a) Disturbance in               such publishing agreement and applicable law.
+     mesophotic coral ecosystems and linkages to conservation and
+     management. In: Loya Y, Puglise KA, Bridge T (eds) Coral reefs
+     of the world: mesophotic coral ecosystems. Springer, Berlin
+
+
+
+
+                                                                                                                                           13
+
